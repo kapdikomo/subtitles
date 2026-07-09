@@ -1,8 +1,8 @@
 [
   {
-    "sentence_text": "一条 一万三千 英里 的 土石 之龙",
+    "sentence_text": "一条 一万三千 英里 的 土石 之龙 蜿蜒 于 中国 乡野 之间",
     "translations": {
-      "en": "A dragon of earth and stone, 13,000"
+      "en": "A dragon of earth and stone, stretching 13,000 miles, winds through the Chinese countryside."
     },
     "segments": [
       {
@@ -74,23 +74,15 @@
       {
         "token": "之",
         "startTime": 8940,
-        "endTime": 9140,
+        "endTime": 9460,
         "pinyin": "zhī"
       },
       {
         "token": "龙",
-        "startTime": 9140,
-        "endTime": 9340,
+        "startTime": 9460,
+        "endTime": 9980,
         "pinyin": "lóng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "蜿蜒 于 中国 乡野 之间",
-    "translations": {
-      "en": "miles long, winds through the"
-    },
-    "segments": [
+      },
       {
         "token": "蜿",
         "startTime": 9980,
@@ -136,21 +128,21 @@
       {
         "token": "之",
         "startTime": 11300,
-        "endTime": 11500,
+        "endTime": 11800,
         "pinyin": "zhī"
       },
       {
         "token": "间",
-        "startTime": 11500,
-        "endTime": 11700,
+        "startTime": 11800,
+        "endTime": 12300,
         "pinyin": "jiān"
       }
     ]
   },
   {
-    "sentence_text": "它 的 历史 几乎 与其 结构 一样 悠久",
+    "sentence_text": "它 的 历史 几乎 与其 结构 一样 悠久 曲折",
     "translations": {
-      "en": "Chinese countryside. Its history is almost as long"
+      "en": "Its history is nearly as long and winding as its structure."
     },
     "segments": [
       {
@@ -236,15 +228,7 @@
         "startTime": 15060,
         "endTime": 15280,
         "pinyin": "jiǔ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "曲折 长城 最初 是 多座 泥土 夯实 的",
-    "translations": {
-      "en": "and winding as its structure. The Great Wall"
-    },
-    "segments": [
+      },
       {
         "token": "曲",
         "startTime": 15280,
@@ -256,7 +240,15 @@
         "startTime": 15690,
         "endTime": 16100,
         "pinyin": "zhé"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "长城 最初 是 多座 泥土 夯实 的 城墙",
+    "translations": {
+      "en": "The Great Wall began as multiple rammed-earth walls."
+    },
+    "segments": [
       {
         "token": "长",
         "startTime": 16100,
@@ -328,15 +320,7 @@
         "startTime": 18200,
         "endTime": 18320,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "城墙 由川丘 战国时期 的 各个 独立 封建 国家",
-    "translations": {
-      "en": "began as multiple rammed-earth walls built by independent feudal states"
-    },
-    "segments": [
+      },
       {
         "token": "城",
         "startTime": 18320,
@@ -348,7 +332,15 @@
         "startTime": 18770,
         "endTime": 19220,
         "pinyin": "qiáng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "由川丘 战国时期 的 各个 独立 封建 国家 修筑",
+    "translations": {
+      "en": "Built by independent feudal states during the Warring States period."
+    },
+    "segments": [
       {
         "token": "由",
         "startTime": 19220,
@@ -444,15 +436,7 @@
         "startTime": 21840,
         "endTime": 22060,
         "pinyin": "jiā"
-      }
-    ]
-  },
-  {
-    "sentence_text": "修筑 以 抵制 中国 北方 游牧民族 的 侵略者",
-    "translations": {
-      "en": "during the Warring States period to resist northern nomadic invaders"
-    },
-    "segments": [
+      },
       {
         "token": "修",
         "startTime": 22060,
@@ -464,7 +448,15 @@
         "startTime": 22480,
         "endTime": 22900,
         "pinyin": "zhù"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "以 抵制 中国 北方 游牧民族 的 侵略者 以及 其他 各国",
+    "translations": {
+      "en": "To resist northern nomadic invaders and rival states."
+    },
+    "segments": [
       {
         "token": "以",
         "startTime": 22900,
@@ -554,15 +546,7 @@
         "startTime": 25633,
         "endTime": 25900,
         "pinyin": "zhě"
-      }
-    ]
-  },
-  {
-    "sentence_text": "以及 其他",
-    "translations": {
-      "en": "and each"
-    },
-    "segments": [
+      },
       {
         "token": "以",
         "startTime": 25900,
@@ -578,23 +562,15 @@
       {
         "token": "其",
         "startTime": 26340,
-        "endTime": 26570,
+        "endTime": 27010,
         "pinyin": "qí"
       },
       {
         "token": "他",
-        "startTime": 26570,
-        "endTime": 26800,
+        "startTime": 27010,
+        "endTime": 27680,
         "pinyin": "tā"
-      }
-    ]
-  },
-  {
-    "sentence_text": "各国 公元前 二 二",
-    "translations": {
-      "en": "other. In 221 BC,"
-    },
-    "segments": [
+      },
       {
         "token": "各",
         "startTime": 27680,
@@ -606,7 +582,15 @@
         "startTime": 27840,
         "endTime": 28000,
         "pinyin": "guó"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "公元前 二 二 一年 当 秦始皇 统一 中国 之 时",
+    "translations": {
+      "en": "In 221 BC, when Qin Shi Huang unified China."
+    },
+    "segments": [
       {
         "token": "公",
         "startTime": 28000,
@@ -634,17 +618,9 @@
       {
         "token": "二",
         "startTime": 28800,
-        "endTime": 29040,
+        "endTime": 29640,
         "pinyin": "èr"
-      }
-    ]
-  },
-  {
-    "sentence_text": "一年 当 秦始皇 统一 中国 之 时 青藏高原",
-    "translations": {
-      "en": "when Qin Shi Huang unified China, the Qinghai-Tibet Plateau"
-    },
-    "segments": [
+      },
       {
         "token": "一",
         "startTime": 29640,
@@ -716,7 +692,15 @@
         "startTime": 32200,
         "endTime": 32299,
         "pinyin": "shí"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "青藏高原 和 太平洋 成为 了 国家 的 天然屏障",
+    "translations": {
+      "en": "The Qinghai-Tibet Plateau and the Pacific Ocean became natural barriers."
+    },
+    "segments": [
       {
         "token": "青",
         "startTime": 32299,
@@ -740,15 +724,7 @@
         "startTime": 32840,
         "endTime": 33020,
         "pinyin": "yuán"
-      }
-    ]
-  },
-  {
-    "sentence_text": "和 太平洋 成为 了 国家 的 天然屏障 但",
-    "translations": {
-      "en": "and the Pacific Ocean became natural barriers, but"
-    },
-    "segments": [
+      },
       {
         "token": "和",
         "startTime": 33020,
@@ -832,21 +808,21 @@
         "startTime": 36020,
         "endTime": 36420,
         "pinyin": "zhàng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 北方 的 山脉 对于 蒙古 、 土耳其 及 匈奴 人 的 入侵 依然 非常 薄弱",
+    "translations": {
+      "en": "But the northern mountains remained vulnerable to Mongol, Turkic, and Xiongnu invasions."
+    },
+    "segments": [
       {
         "token": "但",
         "startTime": 36420,
         "endTime": 36540,
         "pinyin": "dàn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "北方 的 山脉 对于 蒙古 、",
-    "translations": {
-      "en": "the northern mountains remained vulnerable to"
-    },
-    "segments": [
+      },
       {
         "token": "北",
         "startTime": 36540,
@@ -906,15 +882,7 @@
         "startTime": 38520,
         "endTime": 38760,
         "pinyin": "、"
-      }
-    ]
-  },
-  {
-    "sentence_text": "土耳其 及 匈奴 人 的 入侵 依然",
-    "translations": {
-      "en": "invasions by the Mongols, Turks, and Xiongnu."
-    },
-    "segments": [
+      },
       {
         "token": "土",
         "startTime": 38760,
@@ -978,23 +946,15 @@
       {
         "token": "依",
         "startTime": 41020,
-        "endTime": 41250,
+        "endTime": 41900,
         "pinyin": "yī"
       },
       {
         "token": "然",
-        "startTime": 41250,
-        "endTime": 41480,
+        "startTime": 41900,
+        "endTime": 42780,
         "pinyin": "rán"
-      }
-    ]
-  },
-  {
-    "sentence_text": "非常 薄弱 为了 抵御 外敌 秦始皇 扩建 了",
-    "translations": {
-      "en": "To defend against foreign enemies, Qin Shi Huang expanded"
-    },
-    "segments": [
+      },
       {
         "token": "非",
         "startTime": 42780,
@@ -1018,7 +978,15 @@
         "startTime": 43170,
         "endTime": 43280,
         "pinyin": "ruò"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "为了 抵御 外敌 秦始皇 扩建 了 之前 所 建筑 的 小 城墙",
+    "translations": {
+      "en": "To defend against enemies, Qin Shi Huang expanded the earlier small walls."
+    },
+    "segments": [
       {
         "token": "为",
         "startTime": 43280,
@@ -1090,15 +1058,7 @@
         "startTime": 45740,
         "endTime": 45880,
         "pinyin": "le"
-      }
-    ]
-  },
-  {
-    "sentence_text": "之前 所 建筑 的 小 城墙 巩固 强化",
-    "translations": {
-      "en": "the small walls built earlier, reinforcing and"
-    },
-    "segments": [
+      },
       {
         "token": "之",
         "startTime": 45880,
@@ -1152,7 +1112,15 @@
         "startTime": 48120,
         "endTime": 48320,
         "pinyin": "qiáng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "巩固 强化 它们 并 加以 连接",
+    "translations": {
+      "en": "Reinforcing and connecting them."
+    },
+    "segments": [
       {
         "token": "巩",
         "startTime": 48320,
@@ -1176,35 +1144,19 @@
         "startTime": 49120,
         "endTime": 49260,
         "pinyin": "huà"
-      }
-    ]
-  },
-  {
-    "sentence_text": "它们",
-    "translations": {
-      "en": "connecting"
-    },
-    "segments": [
+      },
       {
         "token": "它",
         "startTime": 49260,
-        "endTime": 49470,
+        "endTime": 49830,
         "pinyin": "tā"
       },
       {
         "token": "们",
-        "startTime": 49470,
-        "endTime": 49680,
+        "startTime": 49830,
+        "endTime": 50400,
         "pinyin": "men"
-      }
-    ]
-  },
-  {
-    "sentence_text": "并 加以 连接 城墙 的 结构 起于 西部",
-    "translations": {
-      "en": "them. The wall structure started in the west"
-    },
-    "segments": [
+      },
       {
         "token": "并",
         "startTime": 50400,
@@ -1234,7 +1186,15 @@
         "startTime": 51030,
         "endTime": 51180,
         "pinyin": "jiē"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "城墙 的 结构 起于 西部 的 林桃 至于 东部 的 辽东",
+    "translations": {
+      "en": "The wall structure stretched from Lintao in the west to Liaodong in the east."
+    },
+    "segments": [
       {
         "token": "城",
         "startTime": 51180,
@@ -1288,15 +1248,7 @@
         "startTime": 53220,
         "endTime": 53360,
         "pinyin": "bù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "的 林桃 至于",
-    "translations": {
-      "en": "at Lintao and"
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 53360,
@@ -1318,23 +1270,15 @@
       {
         "token": "至",
         "startTime": 53880,
-        "endTime": 54110,
+        "endTime": 54420,
         "pinyin": "zhì"
       },
       {
         "token": "于",
-        "startTime": 54110,
-        "endTime": 54340,
+        "startTime": 54420,
+        "endTime": 54960,
         "pinyin": "yú"
-      }
-    ]
-  },
-  {
-    "sentence_text": "东部 的 辽东 合在一起 它们",
-    "translations": {
-      "en": "ended in the east at Liaodong."
-    },
-    "segments": [
+      },
       {
         "token": "东",
         "startTime": 54960,
@@ -1364,7 +1308,15 @@
         "startTime": 55730,
         "endTime": 55920,
         "pinyin": "dōng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "合在一起 它们 被 称为 长城",
+    "translations": {
+      "en": "Together, they were called the Great Wall."
+    },
+    "segments": [
       {
         "token": "合",
         "startTime": 55920,
@@ -1400,15 +1352,7 @@
         "startTime": 58110,
         "endTime": 59000,
         "pinyin": "men"
-      }
-    ]
-  },
-  {
-    "sentence_text": "被 称为 长城 为了",
-    "translations": {
-      "en": "Together, they were called"
-    },
-    "segments": [
+      },
       {
         "token": "被",
         "startTime": 59000,
@@ -1438,27 +1382,27 @@
         "startTime": 59650,
         "endTime": 59880,
         "pinyin": "chéng"
-      },
-      {
-        "token": "为",
-        "startTime": 59880,
-        "endTime": 60090,
-        "pinyin": "wèi"
-      },
-      {
-        "token": "了",
-        "startTime": 60090,
-        "endTime": 60300,
-        "pinyin": "le"
       }
     ]
   },
   {
-    "sentence_text": "完成 这项 工程 秦始皇 征召 了 士兵 和",
+    "sentence_text": "为了 完成 这项 工程 秦始皇 征召 了 士兵 和 平民",
     "translations": {
-      "en": "the Great Wall. To complete this project, Qin"
+      "en": "To complete this project, Qin Shi Huang conscripted soldiers and civilians."
     },
     "segments": [
+      {
+        "token": "为",
+        "startTime": 59880,
+        "endTime": 60420,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "了",
+        "startTime": 60420,
+        "endTime": 60960,
+        "pinyin": "le"
+      },
       {
         "token": "完",
         "startTime": 60960,
@@ -1548,15 +1492,7 @@
         "startTime": 63940,
         "endTime": 64040,
         "pinyin": "hé"
-      }
-    ]
-  },
-  {
-    "sentence_text": "平民 而 这 往往",
-    "translations": {
-      "en": "Shi Huang conscripted soldiers"
-    },
-    "segments": [
+      },
       {
         "token": "平",
         "startTime": 64040,
@@ -1568,7 +1504,15 @@
         "startTime": 64190,
         "endTime": 64340,
         "pinyin": "mín"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "而 这 往往 不是 基于 自愿",
+    "translations": {
+      "en": "Often not voluntarily."
+    },
+    "segments": [
       {
         "token": "而",
         "startTime": 64340,
@@ -1584,23 +1528,15 @@
       {
         "token": "往",
         "startTime": 64640,
-        "endTime": 64829,
+        "endTime": 65170,
         "pinyin": "wǎng"
       },
       {
         "token": "往",
-        "startTime": 64829,
-        "endTime": 65019,
+        "startTime": 65170,
+        "endTime": 65700,
         "pinyin": "wǎng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "不是 基于 自愿 在 秦朝 被 记录 下",
-    "translations": {
-      "en": "and civilians, often involuntarily. Among the thousands"
-    },
-    "segments": [
+      },
       {
         "token": "不",
         "startTime": 65700,
@@ -1636,7 +1572,15 @@
         "startTime": 66540,
         "endTime": 66680,
         "pinyin": "yuàn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 秦朝 被 记录 下 的 成千上万 的 建造 者 中",
+    "translations": {
+      "en": "Among the thousands of builders recorded during the Qin dynasty."
+    },
+    "segments": [
       {
         "token": "在",
         "startTime": 66680,
@@ -1678,15 +1622,7 @@
         "startTime": 67715,
         "endTime": 67875,
         "pinyin": "xià"
-      }
-    ]
-  },
-  {
-    "sentence_text": "的 成千上万 的 建造 者 中 许多 人",
-    "translations": {
-      "en": "of recorded builders of the Qin dynasty,"
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 67875,
@@ -1746,7 +1682,15 @@
         "startTime": 70135,
         "endTime": 70455,
         "pinyin": "zhōng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "许多 人 都 是 被 强征 而 去 的 农民",
+    "translations": {
+      "en": "Many were forcibly conscripted farmers."
+    },
+    "segments": [
       {
         "token": "许",
         "startTime": 70455,
@@ -1764,15 +1708,7 @@
         "startTime": 70815,
         "endTime": 70955,
         "pinyin": "rén"
-      }
-    ]
-  },
-  {
-    "sentence_text": "都 是 被",
-    "translations": {
-      "en": "many were"
-    },
-    "segments": [
+      },
       {
         "token": "都",
         "startTime": 70955,
@@ -1788,17 +1724,9 @@
       {
         "token": "被",
         "startTime": 71235,
-        "endTime": 71415,
+        "endTime": 72075,
         "pinyin": "bèi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "强征 而 去 的 农民 另外 一些则",
-    "translations": {
-      "en": "forcibly conscripted peasants, while others were convicts"
-    },
-    "segments": [
+      },
       {
         "token": "强",
         "startTime": 72075,
@@ -1840,7 +1768,15 @@
         "startTime": 73435,
         "endTime": 73615,
         "pinyin": "mín"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "另外 一些则 是 服刑 期 的 犯人",
+    "translations": {
+      "en": "Others were convicts serving sentences."
+    },
+    "segments": [
       {
         "token": "另",
         "startTime": 73615,
@@ -1870,15 +1806,7 @@
         "startTime": 75128,
         "endTime": 75735,
         "pinyin": "zé"
-      }
-    ]
-  },
-  {
-    "sentence_text": "是 服刑 期 的 犯人 汉朝",
-    "translations": {
-      "en": "serving sentences. During the Han dynasty,"
-    },
-    "segments": [
+      },
       {
         "token": "是",
         "startTime": 75735,
@@ -1920,27 +1848,27 @@
         "startTime": 77185,
         "endTime": 77375,
         "pinyin": "rén"
-      },
-      {
-        "token": "汉",
-        "startTime": 77375,
-        "endTime": 77565,
-        "pinyin": "hàn"
-      },
-      {
-        "token": "朝",
-        "startTime": 77565,
-        "endTime": 77755,
-        "pinyin": "cháo"
       }
     ]
   },
   {
-    "sentence_text": "时期 长城 37 00 英里",
+    "sentence_text": "汉朝 时期 长城 37 00 英里 从 敦煌 延伸 到 渤海",
     "translations": {
-      "en": "the Great Wall stretched 3,700 miles"
+      "en": "During the Han dynasty, the wall stretched 3,700 miles from Dunhuang to the Bohai Sea."
     },
     "segments": [
+      {
+        "token": "汉",
+        "startTime": 77375,
+        "endTime": 78035,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "朝",
+        "startTime": 78035,
+        "endTime": 78695,
+        "pinyin": "cháo"
+      },
       {
         "token": "时",
         "startTime": 78695,
@@ -1992,23 +1920,15 @@
       {
         "token": "英",
         "startTime": 79935,
-        "endTime": 80125,
+        "endTime": 80805,
         "pinyin": "yīng"
       },
       {
         "token": "里",
-        "startTime": 80125,
-        "endTime": 80315,
+        "startTime": 80805,
+        "endTime": 81675,
         "pinyin": "lǐ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "从 敦煌 延伸 到 渤海",
-    "translations": {
-      "en": "from Dunhuang to the Bohai"
-    },
-    "segments": [
+      },
       {
         "token": "从",
         "startTime": 81675,
@@ -2048,13 +1968,13 @@
       {
         "token": "渤",
         "startTime": 82895,
-        "endTime": 83115,
+        "endTime": 83575,
         "pinyin": "bó"
       },
       {
         "token": "海",
-        "startTime": 83115,
-        "endTime": 83335,
+        "startTime": 83575,
+        "endTime": 84255,
         "pinyin": "hǎi"
       }
     ]
@@ -2062,7 +1982,7 @@
   {
     "sentence_text": "强制性 劳动 在 汉武帝 时期 持续 着",
     "translations": {
-      "en": "Sea. Forced labor continued under Emperor Wu of"
+      "en": "Forced labor continued under Emperor Wu of Han."
     },
     "segments": [
       {
@@ -2146,15 +2066,15 @@
       {
         "token": "着",
         "startTime": 86735,
-        "endTime": 86895,
+        "endTime": 88055,
         "pinyin": "zhe"
       }
     ]
   },
   {
-    "sentence_text": "因而 城墙 被 视作 受苦 受害 之地 而",
+    "sentence_text": "因而 城墙 被 视作 受苦 受害 之地 而 臭名昭彰",
     "translations": {
-      "en": "Han, so the wall became notorious as a place"
+      "en": "Thus, the wall became notorious as a place of suffering and hardship."
     },
     "segments": [
       {
@@ -2240,45 +2160,37 @@
         "startTime": 90355,
         "endTime": 90715,
         "pinyin": "ér"
-      }
-    ]
-  },
-  {
-    "sentence_text": "臭名昭彰",
-    "translations": {
-      "en": "of suffering."
-    },
-    "segments": [
+      },
       {
         "token": "臭",
         "startTime": 90715,
-        "endTime": 90910,
+        "endTime": 91385,
         "pinyin": "chòu"
       },
       {
         "token": "名",
-        "startTime": 90910,
-        "endTime": 91105,
+        "startTime": 91385,
+        "endTime": 92055,
         "pinyin": "míng"
       },
       {
         "token": "昭",
-        "startTime": 91105,
-        "endTime": 91300,
+        "startTime": 92055,
+        "endTime": 92725,
         "pinyin": "zhāo"
       },
       {
         "token": "彰",
-        "startTime": 91300,
-        "endTime": 91495,
+        "startTime": 92725,
+        "endTime": 93395,
         "pinyin": "zhāng"
       }
     ]
   },
   {
-    "sentence_text": "纳伊 时期 的 诗歌 与 传说 描述 劳动者",
+    "sentence_text": "纳伊 时期 的 诗歌 与 传说 描述 劳动者 被 掩埋 于 附近 大规模 墓地 甚至 是 城墙 之内",
     "translations": {
-      "en": "Poems and legends from the Han period describe laborers"
+      "en": "Poetry and legends from the Naxi period describe laborers buried in nearby mass graves or even within the city walls."
     },
     "segments": [
       {
@@ -2370,15 +2282,7 @@
         "startTime": 96315,
         "endTime": 96495,
         "pinyin": "zhě"
-      }
-    ]
-  },
-  {
-    "sentence_text": "被 掩埋 于 附近 大规模 墓地 甚至 是",
-    "translations": {
-      "en": "being buried in nearby mass graves or even within"
-    },
-    "segments": [
+      },
       {
         "token": "被",
         "startTime": 96495,
@@ -2462,15 +2366,7 @@
         "startTime": 99575,
         "endTime": 99775,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "城墙 之内 然而 城墙 内 并未 发现 人类",
-    "translations": {
-      "en": "the wall itself. However, no human remains have been found"
-    },
-    "segments": [
+      },
       {
         "token": "城",
         "startTime": 99775,
@@ -2494,7 +2390,15 @@
         "startTime": 100635,
         "endTime": 101115,
         "pinyin": "nèi"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "然而 城墙 内 并未 发现 人类 尸骸",
+    "translations": {
+      "en": "However, no human remains were found inside the walls."
+    },
+    "segments": [
       {
         "token": "然",
         "startTime": 101115,
@@ -2560,15 +2464,7 @@
         "startTime": 102935,
         "endTime": 103115,
         "pinyin": "lèi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "尸骸 木坑 表明 那些 劳动者 大多 死 于",
-    "translations": {
-      "en": "inside the wall; wooden coffins suggest that most laborers died"
-    },
-    "segments": [
+      },
       {
         "token": "尸",
         "startTime": 103115,
@@ -2580,7 +2476,15 @@
         "startTime": 103345,
         "endTime": 103575,
         "pinyin": "hái"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "木坑 表明 那些 劳动者 大多 死 于 意外 饥饿 与 疲劳",
+    "translations": {
+      "en": "Wooden pits indicate that most laborers died from accidents, hunger, and exhaustion."
+    },
+    "segments": [
       {
         "token": "木",
         "startTime": 103575,
@@ -2658,15 +2562,7 @@
         "startTime": 106355,
         "endTime": 106495,
         "pinyin": "yú"
-      }
-    ]
-  },
-  {
-    "sentence_text": "意外 饥饿 与 疲劳",
-    "translations": {
-      "en": "from accidents, hunger, and exhaustion."
-    },
-    "segments": [
+      },
       {
         "token": "意",
         "startTime": 106495,
@@ -2700,13 +2596,13 @@
       {
         "token": "疲",
         "startTime": 107995,
-        "endTime": 108235,
+        "endTime": 108725,
         "pinyin": "pí"
       },
       {
         "token": "劳",
-        "startTime": 108235,
-        "endTime": 108475,
+        "startTime": 108725,
+        "endTime": 109455,
         "pinyin": "láo"
       }
     ]
@@ -2714,7 +2610,7 @@
   {
     "sentence_text": "长城 令人生畏 却 非 不可 战胜",
     "translations": {
-      "en": "The Great Wall was formidable but not invincible."
+      "en": "The Great Wall is formidable but not invincible."
     },
     "segments": [
       {
@@ -2780,21 +2676,21 @@
       {
         "token": "战",
         "startTime": 111775,
-        "endTime": 111975,
+        "endTime": 112295,
         "pinyin": "zhàn"
       },
       {
         "token": "胜",
-        "startTime": 111975,
-        "endTime": 112175,
+        "startTime": 112295,
+        "endTime": 112815,
         "pinyin": "shèng"
       }
     ]
   },
   {
-    "sentence_text": "成吉思汗 和 他 的 儿子 忽必烈 曾于 十三",
+    "sentence_text": "成吉思汗 和 他 的 儿子 忽必烈 曾于 十三 世纪 蒙古 侵入 之际 设法 攻克 城墙",
     "translations": {
-      "en": "Genghis Khan and his son Kublai Khan managed to breach it"
+      "en": "Genghis Khan and his son Kublai managed to breach the wall during the Mongol invasion in the 13th century."
     },
     "segments": [
       {
@@ -2892,15 +2788,7 @@
         "startTime": 115755,
         "endTime": 115895,
         "pinyin": "sān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "世纪 蒙古 侵入 之际 设法 攻克 城墙",
-    "translations": {
-      "en": "during the Mongol invasion in the 13th century. After"
-    },
-    "segments": [
+      },
       {
         "token": "世",
         "startTime": 115895,
@@ -2988,9 +2876,9 @@
     ]
   },
   {
-    "sentence_text": "13 68 年 明朝 执政 之后 他们 开始",
+    "sentence_text": "13 68 年 明朝 执政 之后",
     "translations": {
-      "en": "the Ming dynasty came to power in 1368, they began"
+      "en": "After the Ming Dynasty took power in 1368,"
     },
     "segments": [
       {
@@ -3058,7 +2946,15 @@
         "startTime": 122565,
         "endTime": 122635,
         "pinyin": "hòu"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "他们 开始 使用 当地 窑 中 烧制 而成 的 砖 与 石头 重新 强化 和 加固 长城",
+    "translations": {
+      "en": "they began to reinforce and strengthen the wall using bricks and stones fired in local kilns."
+    },
+    "segments": [
       {
         "token": "他",
         "startTime": 122635,
@@ -3082,15 +2978,7 @@
         "startTime": 123585,
         "endTime": 123715,
         "pinyin": "shǐ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "使用 当地 窑 中 烧制 而成 的 砖",
-    "translations": {
-      "en": "to reinforce and strengthen the wall using"
-    },
-    "segments": [
+      },
       {
         "token": "使",
         "startTime": 123715,
@@ -3162,15 +3050,7 @@
         "startTime": 125835,
         "endTime": 126075,
         "pinyin": "zhuān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "与 石头 重新 强化 和 加固 长城",
-    "translations": {
-      "en": "bricks and stones fired in local kilns."
-    },
-    "segments": [
+      },
       {
         "token": "与",
         "startTime": 126075,
@@ -3234,13 +3114,13 @@
       {
         "token": "长",
         "startTime": 128855,
-        "endTime": 129065,
+        "endTime": 129705,
         "pinyin": "cháng"
       },
       {
         "token": "城",
-        "startTime": 129065,
-        "endTime": 129275,
+        "startTime": 129705,
+        "endTime": 130555,
         "pinyin": "chéng"
       }
     ]
@@ -3248,7 +3128,7 @@
   {
     "sentence_text": "长城 平均 高 七米 宽 六米",
     "translations": {
-      "en": "The Great Wall averages seven"
+      "en": "The Great Wall averages seven meters in height and six meters in width."
     },
     "segments": [
       {
@@ -3302,21 +3182,21 @@
       {
         "token": "六",
         "startTime": 132795,
-        "endTime": 133045,
+        "endTime": 133435,
         "pinyin": "liù"
       },
       {
         "token": "米",
-        "startTime": 133045,
-        "endTime": 133295,
+        "startTime": 133435,
+        "endTime": 134075,
         "pinyin": "mǐ"
       }
     ]
   },
   {
-    "sentence_text": "五千 五百 英里 的 城墙 中 间隔 着",
+    "sentence_text": "五千 五百 英里 的 城墙 中 间隔 着 瞭望台",
     "translations": {
-      "en": "meters high and six meters wide, with watchtowers"
+      "en": "The 5,500-mile wall is interspersed with watchtowers."
     },
     "segments": [
       {
@@ -3396,39 +3276,31 @@
         "startTime": 136810,
         "endTime": 136970,
         "pinyin": "zhe"
-      }
-    ]
-  },
-  {
-    "sentence_text": "瞭望台",
-    "translations": {
-      "en": "spaced along"
-    },
-    "segments": [
+      },
       {
         "token": "瞭",
         "startTime": 136970,
-        "endTime": 137143,
+        "endTime": 137437,
         "pinyin": "liào"
       },
       {
         "token": "望",
-        "startTime": 137143,
-        "endTime": 137317,
+        "startTime": 137437,
+        "endTime": 137903,
         "pinyin": "wàng"
       },
       {
         "token": "台",
-        "startTime": 137317,
-        "endTime": 137490,
+        "startTime": 137903,
+        "endTime": 138370,
         "pinyin": "tái"
       }
     ]
   },
   {
-    "sentence_text": "一旦 看到 有 侵入 者 瞭望台 之间 便会",
+    "sentence_text": "一旦 看到 有 侵入 者 瞭望台 之间 便会 以 升起 的 狼烟 与 蜂火 传递 信号",
     "translations": {
-      "en": "its 5,500-mile length. When invaders were spotted, signals"
+      "en": "Once invaders were spotted, signals were relayed between watchtowers using rising smoke and beacon fires."
     },
     "segments": [
       {
@@ -3520,15 +3392,7 @@
         "startTime": 140730,
         "endTime": 141170,
         "pinyin": "huì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "以 升起 的 狼烟 与 蜂火 传递 信号",
-    "translations": {
-      "en": "were relayed between watchtowers using smoke and fire"
-    },
-    "segments": [
+      },
       {
         "token": "以",
         "startTime": 141170,
@@ -3598,13 +3462,13 @@
       {
         "token": "信",
         "startTime": 143510,
-        "endTime": 143690,
+        "endTime": 143730,
         "pinyin": "xìn"
       },
       {
         "token": "号",
-        "startTime": 143690,
-        "endTime": 143870,
+        "startTime": 143730,
+        "endTime": 143950,
         "pinyin": "hào"
       }
     ]
@@ -3612,7 +3476,7 @@
   {
     "sentence_text": "直到 援兵 抵达",
     "translations": {
-      "en": "until reinforcements arrived."
+      "en": "Until reinforcements arrived."
     },
     "segments": [
       {
@@ -3642,21 +3506,21 @@
       {
         "token": "抵",
         "startTime": 144810,
-        "endTime": 145060,
+        "endTime": 145530,
         "pinyin": "dǐ"
       },
       {
         "token": "达",
-        "startTime": 145060,
-        "endTime": 145310,
+        "startTime": 145530,
+        "endTime": 146250,
         "pinyin": "dá"
       }
     ]
   },
   {
-    "sentence_text": "城墙 上 的 小孔 让 弓箭手 能够 射击",
+    "sentence_text": "城墙 上 的 小孔 让 弓箭手 能够 射击 侵入 者",
     "translations": {
-      "en": "Small holes in the wall allowed archers to shoot"
+      "en": "Small openings in the wall allowed archers to shoot at invaders,"
     },
     "segments": [
       {
@@ -3742,15 +3606,7 @@
         "startTime": 148720,
         "endTime": 148910,
         "pinyin": "jī"
-      }
-    ]
-  },
-  {
-    "sentence_text": "侵入 者 而 大孔 则 用于 投掷 石头",
-    "translations": {
-      "en": "at invaders, while larger holes were used"
-    },
-    "segments": [
+      },
       {
         "token": "侵",
         "startTime": 148910,
@@ -3766,9 +3622,17 @@
       {
         "token": "者",
         "startTime": 149310,
-        "endTime": 149850,
+        "endTime": 149524,
         "pinyin": "zhě"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "而大孔 则 用于 投掷 石头 或者 其他 东西",
+    "translations": {
+      "en": "while larger openings were used to throw stones or other objects."
+    },
+    "segments": [
       {
         "token": "而",
         "startTime": 149850,
@@ -3832,38 +3696,6 @@
       {
         "token": "或",
         "startTime": 151190,
-        "endTime": 151380,
-        "pinyin": "huò"
-      },
-      {
-        "token": "者",
-        "startTime": 151380,
-        "endTime": 151570,
-        "pinyin": "zhě"
-      }
-    ]
-  },
-  {
-    "sentence_text": "或者 其他 东西 但 即便 是 这种 全新",
-    "translations": {
-      "en": "to drop stones or other objects. But even this"
-    },
-    "segments": [
-      {
-        "token": "石",
-        "startTime": 151190,
-        "endTime": 151190,
-        "pinyin": "shí"
-      },
-      {
-        "token": "头",
-        "startTime": 151190,
-        "endTime": 151190,
-        "pinyin": "tou"
-      },
-      {
-        "token": "或",
-        "startTime": 151190,
         "endTime": 151540,
         "pinyin": "huò"
       },
@@ -3900,9 +3732,17 @@
       {
         "token": "但",
         "startTime": 152250,
-        "endTime": 153050,
+        "endTime": 152493,
         "pinyin": "dàn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 即便 是 这种 全新 改进 国 的 城墙 仍然 不够 好",
+    "translations": {
+      "en": "But even this newly improved wall was still not good enough."
+    },
+    "segments": [
       {
         "token": "即",
         "startTime": 153050,
@@ -3944,15 +3784,7 @@
         "startTime": 153950,
         "endTime": 154310,
         "pinyin": "xīn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "改进 国 的 城墙 仍然 不够 好 16",
-    "translations": {
-      "en": "newly improved wall was not enough. In 1644,"
-    },
-    "segments": [
+      },
       {
         "token": "改",
         "startTime": 154310,
@@ -4018,7 +3850,15 @@
         "startTime": 156190,
         "endTime": 156730,
         "pinyin": "hǎo"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "16 44 年 北方 满族 推翻 明朝 建立 起 清朝",
+    "translations": {
+      "en": "In 1644, the northern Manchus overthrew the Ming Dynasty and established the Qing Dynasty,"
+    },
+    "segments": [
       {
         "token": "1",
         "startTime": 156730,
@@ -4030,15 +3870,7 @@
         "startTime": 156860,
         "endTime": 156990,
         "pinyin": "6"
-      }
-    ]
-  },
-  {
-    "sentence_text": "44 年",
-    "translations": {
-      "en": "the northern"
-    },
-    "segments": [
+      },
       {
         "token": "4",
         "startTime": 156990,
@@ -4054,17 +3886,9 @@
       {
         "token": "年",
         "startTime": 157310,
-        "endTime": 157630,
+        "endTime": 158630,
         "pinyin": "nián"
-      }
-    ]
-  },
-  {
-    "sentence_text": "北方 满族 推翻 明朝",
-    "translations": {
-      "en": "Manchus overthrew the Ming dynasty,"
-    },
-    "segments": [
+      },
       {
         "token": "北",
         "startTime": 158630,
@@ -4104,23 +3928,15 @@
       {
         "token": "明",
         "startTime": 159770,
-        "endTime": 159970,
+        "endTime": 160470,
         "pinyin": "míng"
       },
       {
         "token": "朝",
-        "startTime": 159970,
-        "endTime": 160170,
+        "startTime": 160470,
+        "endTime": 161170,
         "pinyin": "cháo"
-      }
-    ]
-  },
-  {
-    "sentence_text": "建立 起 清朝",
-    "translations": {
-      "en": "established the Qing"
-    },
-    "segments": [
+      },
       {
         "token": "建",
         "startTime": 161170,
@@ -4142,13 +3958,13 @@
       {
         "token": "清",
         "startTime": 161610,
-        "endTime": 161850,
+        "endTime": 162630,
         "pinyin": "qīng"
       },
       {
         "token": "朝",
-        "startTime": 161850,
-        "endTime": 162090,
+        "startTime": 162630,
+        "endTime": 163650,
         "pinyin": "cháo"
       }
     ]
@@ -4156,7 +3972,7 @@
   {
     "sentence_text": "同时 合并 了 蒙古",
     "translations": {
-      "en": "dynasty, and annexed Mongolia."
+      "en": "while also incorporating Mongolia."
     },
     "segments": [
       {
@@ -4192,21 +4008,21 @@
       {
         "token": "蒙",
         "startTime": 164610,
-        "endTime": 164790,
+        "endTime": 165330,
         "pinyin": "méng"
       },
       {
         "token": "古",
-        "startTime": 164790,
-        "endTime": 164970,
+        "startTime": 165330,
+        "endTime": 166050,
         "pinyin": "gǔ"
       }
     ]
   },
   {
-    "sentence_text": "因此 这是 第二次 中国 被 原想 以 城墙",
+    "sentence_text": "因此 这是 第二次 中国 被 原想 以 城墙 抵御 的 外族 统治",
     "translations": {
-      "en": "Thus, for the second time, China was ruled by the"
+      "en": "Thus, for the second time, China was ruled by a foreign people whom the wall was originally meant to keep out."
     },
     "segments": [
       {
@@ -4298,15 +4114,7 @@
         "startTime": 169000,
         "endTime": 169190,
         "pinyin": "qiáng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "抵御 的 外族 统治",
-    "translations": {
-      "en": "very outsiders the wall was"
-    },
-    "segments": [
+      },
       {
         "token": "抵",
         "startTime": 169190,
@@ -4340,21 +4148,21 @@
       {
         "token": "统",
         "startTime": 169990,
-        "endTime": 170200,
+        "endTime": 170800,
         "pinyin": "tǒng"
       },
       {
         "token": "治",
-        "startTime": 170200,
-        "endTime": 170410,
+        "startTime": 170800,
+        "endTime": 171610,
         "pinyin": "zhì"
       }
     ]
   },
   {
-    "sentence_text": "随着 帝国 的 边界 扩展 到 长城 以外",
+    "sentence_text": "随着 帝国 的 边界 扩展 到 长城 以外 这些 公式 失去 了 原本 的 目的",
     "translations": {
-      "en": "meant to keep out. As the empire's borders expanded"
+      "en": "As the empire's borders expanded beyond the Great Wall, these fortifications lost their original purpose."
     },
     "segments": [
       {
@@ -4432,23 +4240,15 @@
       {
         "token": "以",
         "startTime": 173630,
-        "endTime": 173800,
+        "endTime": 174070,
         "pinyin": "yǐ"
       },
       {
         "token": "外",
-        "startTime": 173800,
-        "endTime": 173970,
+        "startTime": 174070,
+        "endTime": 174510,
         "pinyin": "wài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这些 公式 失去 了 原本 的 目的 没有",
-    "translations": {
-      "en": "beyond the Great Wall, these fortifications lost their original purpose."
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 174510,
@@ -4520,7 +4320,15 @@
         "startTime": 176850,
         "endTime": 177290,
         "pinyin": "dì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "没有 了 定期 加固 城墙 失修 破损",
+    "translations": {
+      "en": "Without regular reinforcement, the wall fell into disrepair and decay."
+    },
+    "segments": [
       {
         "token": "没",
         "startTime": 177290,
@@ -4532,15 +4340,7 @@
         "startTime": 177440,
         "endTime": 177590,
         "pinyin": "yǒu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "了 定期 加固 城墙 失修 破损 夯土 被",
-    "translations": {
-      "en": "Without regular maintenance, the wall fell into disrepair: rammed"
-    },
-    "segments": [
+      },
       {
         "token": "了",
         "startTime": 177590,
@@ -4606,7 +4406,15 @@
         "startTime": 180350,
         "endTime": 180530,
         "pinyin": "sǔn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "夯土 被 侵蚀",
+    "translations": {
+      "en": "The rammed earth was eroded."
+    },
+    "segments": [
       {
         "token": "夯",
         "startTime": 180530,
@@ -4622,17 +4430,9 @@
       {
         "token": "被",
         "startTime": 180930,
-        "endTime": 181170,
+        "endTime": 181810,
         "pinyin": "bèi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "侵蚀 砖 和 石头 则 被 盗窃 用作",
-    "translations": {
-      "en": "earth eroded, and bricks and stones were stolen"
-    },
-    "segments": [
+      },
       {
         "token": "侵",
         "startTime": 181810,
@@ -4644,7 +4444,15 @@
         "startTime": 181970,
         "endTime": 182130,
         "pinyin": "shí"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "砖 和 石头 则 被 盗窃 用作 建筑材料",
+    "translations": {
+      "en": "Bricks and stones were stolen for use as building materials."
+    },
+    "segments": [
       {
         "token": "砖",
         "startTime": 182130,
@@ -4704,15 +4512,7 @@
         "startTime": 183580,
         "endTime": 183750,
         "pinyin": "zuò"
-      }
-    ]
-  },
-  {
-    "sentence_text": "建筑材料 但是 长城 的 使命 仍 未",
-    "translations": {
-      "en": "for building materials. But the Great Wall's mission was"
-    },
-    "segments": [
+      },
       {
         "token": "建",
         "startTime": 183750,
@@ -4736,7 +4536,15 @@
         "startTime": 184545,
         "endTime": 184810,
         "pinyin": "liào"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "但是 长城 的 使命 仍 未 结束",
+    "translations": {
+      "en": "But the mission of the Great Wall was not yet over."
+    },
+    "segments": [
       {
         "token": "但",
         "startTime": 184810,
@@ -4788,17 +4596,9 @@
       {
         "token": "未",
         "startTime": 186970,
-        "endTime": 187150,
+        "endTime": 188150,
         "pinyin": "wèi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "结束 第二次世界大战 期间 中国 用 部分 城墙",
-    "translations": {
-      "en": "not over. During World War II, China used parts of the wall"
-    },
-    "segments": [
+      },
       {
         "token": "结",
         "startTime": 188150,
@@ -4810,7 +4610,15 @@
         "startTime": 188290,
         "endTime": 188430,
         "pinyin": "shù"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "第二次世界大战 期间 中国 用 部分 城墙 来 抵御 日本 的 侵略",
+    "translations": {
+      "en": "During World War II, China used parts of the wall to resist Japanese invasion."
+    },
+    "segments": [
       {
         "token": "第",
         "startTime": 188430,
@@ -4906,15 +4714,7 @@
         "startTime": 191570,
         "endTime": 191710,
         "pinyin": "qiáng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "来 抵御 日本 的 侵略 一部分 城墙 仍然",
-    "translations": {
-      "en": "to resist Japanese invasion. Some sections are still rumored"
-    },
-    "segments": [
+      },
       {
         "token": "来",
         "startTime": 191710,
@@ -4962,7 +4762,15 @@
         "startTime": 193690,
         "endTime": 193930,
         "pinyin": "lüè"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "一部分 城墙 仍然 被 盛传 用于 军事训练",
+    "translations": {
+      "en": "Some sections of the wall were still rumored to be used for military training."
+    },
+    "segments": [
       {
         "token": "一",
         "startTime": 193930,
@@ -5004,15 +4812,7 @@
         "startTime": 195270,
         "endTime": 195430,
         "pinyin": "rán"
-      }
-    ]
-  },
-  {
-    "sentence_text": "被 盛传 用于 军事训练 然而 今日 文化 才",
-    "translations": {
-      "en": "to be used for military training. Today, however, culture"
-    },
-    "segments": [
+      },
       {
         "token": "被",
         "startTime": 195430,
@@ -5066,7 +4866,15 @@
         "startTime": 197280,
         "endTime": 197490,
         "pinyin": "liàn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "然而 今日 文化 才 是 长城 的 主要 目的",
+    "translations": {
+      "en": "Today, however, culture is the main purpose of the Great Wall."
+    },
+    "segments": [
       {
         "token": "然",
         "startTime": 197490,
@@ -5108,15 +4916,7 @@
         "startTime": 198870,
         "endTime": 199090,
         "pinyin": "cái"
-      }
-    ]
-  },
-  {
-    "sentence_text": "是 长城 的 主要 目的 作为 地球 上",
-    "translations": {
-      "en": "is the Great Wall's main purpose. As"
-    },
-    "segments": [
+      },
       {
         "token": "是",
         "startTime": 199090,
@@ -5164,7 +4964,15 @@
         "startTime": 200750,
         "endTime": 200890,
         "pinyin": "dì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "作为 地球 上 大型 人工 建筑 19 87 年 被 联合国教科文组织 列为 世界 文化遗产 长城 起初 建造 用于 防御 外人 进入 中国 如今 每年 都 会 迎接 数百万 游客",
+    "translations": {
+      "en": "As a large man-made structure on Earth, it was listed as a UNESCO World Heritage Site in 1987. Originally built to defend China from outsiders, it now welcomes millions of tourists each year."
+    },
+    "segments": [
       {
         "token": "作",
         "startTime": 200890,
@@ -5175,7 +4983,7 @@
         "token": "为",
         "startTime": 201130,
         "endTime": 201370,
-        "pinyin": "wéi"
+        "pinyin": "wèi"
       },
       {
         "token": "地",
@@ -5194,15 +5002,7 @@
         "startTime": 201750,
         "endTime": 201930,
         "pinyin": "shàng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "大型 人工 建筑 19 87 年 被 联合国教科文组织",
-    "translations": {
-      "en": "a massive man-made structure on Earth, it was listed as a UNESCO"
-    },
-    "segments": [
+      },
       {
         "token": "大",
         "startTime": 201930,
@@ -5322,15 +5122,7 @@
         "startTime": 205617,
         "endTime": 205765,
         "pinyin": "zhī"
-      }
-    ]
-  },
-  {
-    "sentence_text": "列为 世界 文化遗产 长城 起初 建造 用于",
-    "translations": {
-      "en": "World Heritage Site in 1987. Built originally to keep"
-    },
-    "segments": [
+      },
       {
         "token": "列",
         "startTime": 205765,
@@ -5383,7 +5175,7 @@
         "token": "长",
         "startTime": 207805,
         "endTime": 208005,
-        "pinyin": "cháng"
+        "pinyin": "zhǎng"
       },
       {
         "token": "城",
@@ -5426,15 +5218,7 @@
         "startTime": 209255,
         "endTime": 209425,
         "pinyin": "yú"
-      }
-    ]
-  },
-  {
-    "sentence_text": "防御 外人 进入 中国 如今 每年 都 会",
-    "translations": {
-      "en": "outsiders out of China, it now welcomes millions"
-    },
-    "segments": [
+      },
       {
         "token": "防",
         "startTime": 209425,
@@ -5511,22 +5295,14 @@
         "token": "都",
         "startTime": 212145,
         "endTime": 212305,
-        "pinyin": "dū"
+        "pinyin": "dōu"
       },
       {
         "token": "会",
         "startTime": 212305,
         "endTime": 212465,
         "pinyin": "huì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "迎接 数百万 游客 实际上 ,",
-    "translations": {
-      "en": "of tourists each year. In fact,"
-    },
-    "segments": [
+      },
       {
         "token": "迎",
         "startTime": 212465,
@@ -5568,7 +5344,15 @@
         "startTime": 213915,
         "endTime": 214425,
         "pinyin": "kè"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "实际上 , 大量 涌入 的 游客 已 导致 长城 日益 损坏 致使 中国政府 启动 保护措施",
+    "translations": {
+      "en": "In fact, the massive influx of tourists has caused increasing damage to the Great Wall, prompting the Chinese government to launch protection measures."
+    },
+    "segments": [
       {
         "token": "实",
         "startTime": 214425,
@@ -5592,15 +5376,7 @@
         "startTime": 215365,
         "endTime": 215545,
         "pinyin": ","
-      }
-    ]
-  },
-  {
-    "sentence_text": "大量 涌入 的 游客 已 导致 长城 日益",
-    "translations": {
-      "en": "the massive influx of tourists has caused increasing"
-    },
-    "segments": [
+      },
       {
         "token": "大",
         "startTime": 215545,
@@ -5684,15 +5460,7 @@
         "startTime": 217915,
         "endTime": 218065,
         "pinyin": "yì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "损坏 致使 中国政府 启动 保护措施",
-    "translations": {
-      "en": "damage to the Great Wall, prompting the Chinese government"
-    },
-    "segments": [
+      },
       {
         "token": "损",
         "startTime": 218065,
@@ -5780,9 +5548,9 @@
     ]
   },
   {
-    "sentence_text": "它 也 经常 被 宣称 为 唯一 一处",
+    "sentence_text": "它 也 经常 被 宣称 为 唯一 一处 可自 太空 看见 的 人造 建筑 的 是 , 这种 说法 不 完全正确",
     "translations": {
-      "en": "to launch protective measures. It is also often"
+      "en": "It is also often claimed to be the only man-made structure visible from space, but this claim is not entirely correct."
     },
     "segments": [
       {
@@ -5856,15 +5624,7 @@
         "startTime": 223715,
         "endTime": 223925,
         "pinyin": "chù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "可自 太空 看见 的 人造 建筑 的 是 , 这种",
-    "translations": {
-      "en": "claimed to be the only man-made structure visible from space."
-    },
-    "segments": [
+      },
       {
         "token": "可",
         "startTime": 223925,
@@ -5960,15 +5720,7 @@
         "startTime": 227375,
         "endTime": 227505,
         "pinyin": "zhǒng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "说法 不 完全正确 在 地球 的 轨道 上",
-    "translations": {
-      "en": "However, this claim is not entirely true. From Earth's"
-    },
-    "segments": [
+      },
       {
         "token": "说",
         "startTime": 227505,
@@ -6010,7 +5762,15 @@
         "startTime": 228870,
         "endTime": 229145,
         "pinyin": "què"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 地球 的 轨道 上 , 各种 建筑物 如 桥梁 、 高速公路 以及 机场 均 可 看见 而 长城 却 若隐若现 从 月球 上 则 一点 也 看不到",
+    "translations": {
+      "en": "From Earth's orbit, various structures such as bridges, highways, and airports can be seen, while the Great Wall is faintly visible; from the moon, it cannot be seen at all."
+    },
+    "segments": [
       {
         "token": "在",
         "startTime": 229145,
@@ -6052,15 +5812,7 @@
         "startTime": 230045,
         "endTime": 230525,
         "pinyin": "shàng"
-      }
-    ]
-  },
-  {
-    "sentence_text": ", 各种 建筑物 如 桥梁 、",
-    "translations": {
-      "en": "orbit, various structures such as bridges, highways,"
-    },
-    "segments": [
+      },
       {
         "token": ",",
         "startTime": 230525,
@@ -6120,15 +5872,7 @@
         "startTime": 232465,
         "endTime": 232685,
         "pinyin": "、"
-      }
-    ]
-  },
-  {
-    "sentence_text": "高速公路 以及 机场 均 可 看见 而 长城",
-    "translations": {
-      "en": "and airports are visible, while the Great Wall is faint"
-    },
-    "segments": [
+      },
       {
         "token": "高",
         "startTime": 232685,
@@ -6218,15 +5962,7 @@
         "startTime": 236215,
         "endTime": 236585,
         "pinyin": "chéng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "却 若隐若现 从 月球 上 则 一点 也",
-    "translations": {
-      "en": "and elusive. From the Moon, it is not"
-    },
-    "segments": [
+      },
       {
         "token": "却",
         "startTime": 236585,
@@ -6304,15 +6040,7 @@
         "startTime": 240205,
         "endTime": 240385,
         "pinyin": "yě"
-      }
-    ]
-  },
-  {
-    "sentence_text": "看不到 如何 ,",
-    "translations": {
-      "en": "visible at all. So,"
-    },
-    "segments": [
+      },
       {
         "token": "看",
         "startTime": 240385,
@@ -6330,7 +6058,15 @@
         "startTime": 240545,
         "endTime": 240625,
         "pinyin": "dào"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "如何 , 地球 才 是 我们 应该 好好 研究 长城 的 地方 因为 每隔 几年 都 会 有 新 的 部分 被 发现 它们 从 主体 部分 扩展 开去 不断 延伸 着 这 见证 人类 成就 的 伟大 奇迹",
+    "translations": {
+      "en": "So, Earth is where we should study the Great Wall, because every few years new sections are discovered, extending from the main body, continuously expanding this great miracle of human achievement."
+    },
+    "segments": [
       {
         "token": "如",
         "startTime": 240625,
@@ -6348,15 +6084,7 @@
         "startTime": 241158,
         "endTime": 241425,
         "pinyin": ","
-      }
-    ]
-  },
-  {
-    "sentence_text": "地球 才 是 我们 应该 好好 研究 长城",
-    "translations": {
-      "en": "Earth is where we should study the"
-    },
-    "segments": [
+      },
       {
         "token": "地",
         "startTime": 241425,
@@ -6440,15 +6168,7 @@
         "startTime": 243635,
         "endTime": 243865,
         "pinyin": "chéng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "的 地方 因为 每隔 几年 都 会 有",
-    "translations": {
-      "en": "Great Wall, because every few years,"
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 243865,
@@ -6520,15 +6240,7 @@
         "startTime": 245625,
         "endTime": 245765,
         "pinyin": "yǒu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "新 的 部分 被 发现 它们 从 主体",
-    "translations": {
-      "en": "new sections are discovered extending from"
-    },
-    "segments": [
+      },
       {
         "token": "新",
         "startTime": 245765,
@@ -6600,15 +6312,7 @@
         "startTime": 247825,
         "endTime": 247985,
         "pinyin": "tǐ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "部分 扩展 开去 不断 延伸 着 这 见证",
-    "translations": {
-      "en": "the main body, continuously stretching this great"
-    },
-    "segments": [
+      },
       {
         "token": "部",
         "startTime": 247985,
@@ -6692,15 +6396,7 @@
         "startTime": 250845,
         "endTime": 251005,
         "pinyin": "zhèng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "人类 成就 的 伟大 奇迹",
-    "translations": {
-      "en": "wonder of human achievement. What's"
-    },
-    "segments": [
+      },
       {
         "token": "人",
         "startTime": 251005,
@@ -6746,13 +6442,13 @@
       {
         "token": "奇",
         "startTime": 252705,
-        "endTime": 252965,
+        "endTime": 253655,
         "pinyin": "qí"
       },
       {
         "token": "迹",
-        "startTime": 252965,
-        "endTime": 253225,
+        "startTime": 253655,
+        "endTime": 254605,
         "pinyin": "jì"
       }
     ]
@@ -6760,7 +6456,7 @@
   {
     "sentence_text": "你 的 星座 什么 ?",
     "translations": {
-      "en": "your zodiac sign?"
+      "en": "What is your zodiac sign?"
     },
     "segments": [
       {
@@ -6790,27 +6486,27 @@
       {
         "token": "什",
         "startTime": 255565,
-        "endTime": 255725,
+        "endTime": 255865,
         "pinyin": "shén"
       },
       {
         "token": "么",
-        "startTime": 255725,
-        "endTime": 255885,
+        "startTime": 255865,
+        "endTime": 256165,
         "pinyin": "me"
       },
       {
         "token": "?",
-        "startTime": 255885,
-        "endTime": 256045,
+        "startTime": 256165,
+        "endTime": 256465,
         "pinyin": "?"
       }
     ]
   },
   {
-    "sentence_text": "在 中国 的 生肖 中 出生 年份 对应",
+    "sentence_text": "在 中国 的 生肖 中 出生 年份 对应 动物 一切 起源于 一次 大赛",
     "translations": {
-      "en": "In the Chinese zodiac, birth years correspond to animals."
+      "en": "In the Chinese zodiac, the birth year corresponds to an animal, and it all originated from a great race."
     },
     "segments": [
       {
@@ -6890,15 +6586,7 @@
         "startTime": 258995,
         "endTime": 259225,
         "pinyin": "yìng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "动物 一切 起源于 一次 大赛",
-    "translations": {
-      "en": "It all started with a great race. Watch"
-    },
-    "segments": [
+      },
       {
         "token": "动",
         "startTime": 259225,
@@ -6956,21 +6644,21 @@
       {
         "token": "大",
         "startTime": 261165,
-        "endTime": 261385,
+        "endTime": 261705,
         "pinyin": "dà"
       },
       {
         "token": "赛",
-        "startTime": 261385,
-        "endTime": 261605,
+        "startTime": 261705,
+        "endTime": 262245,
         "pinyin": "sài"
       }
     ]
   },
   {
-    "sentence_text": "观看 这 段 视频 深入 了解 中国 生肖",
+    "sentence_text": "观看 这 段 视频 深入 了解 中国 生肖 的 起源",
     "translations": {
-      "en": "this video to learn more about the origins of the"
+      "en": "Watch this video to learn more about the origins of the Chinese zodiac."
     },
     "segments": [
       {
@@ -7056,15 +6744,7 @@
         "startTime": 264985,
         "endTime": 265265,
         "pinyin": "xiào"
-      }
-    ]
-  },
-  {
-    "sentence_text": "的 起源",
-    "translations": {
-      "en": "Chinese zodiac."
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 265265,
