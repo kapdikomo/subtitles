@@ -1,6 +1,6 @@
 [
   {
-    "sentence_text": "Dag, beste kijkers. Vandaag zou wel eens de",
+    "sentence_text": "Dag, beste kijkers.",
     "translations": {},
     "segments": [
       {
@@ -17,7 +17,13 @@
         "token": "kijkers.",
         "startTime": 2280,
         "endTime": 2840
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vandaag zou wel eens de eerste dag kunnen zijn van een volgende hittegolf.",
+    "translations": {},
+    "segments": [
       {
         "token": "Vandaag",
         "startTime": 2840,
@@ -42,13 +48,7 @@
         "token": "de",
         "startTime": 3720,
         "endTime": 3860
-      }
-    ]
-  },
-  {
-    "sentence_text": "eerste dag kunnen zijn van een volgende hittegolf.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "eerste",
         "startTime": 3860,
@@ -87,12 +87,12 @@
       {
         "token": "hittegolf.",
         "startTime": 5700,
-        "endTime": 6420
+        "endTime": 6740
       }
     ]
   },
   {
-    "sentence_text": "Want zowel vandaag als de komende dagen staan",
+    "sentence_text": "Want zowel vandaag als de komende dagen staan ons toch een paar zeer",
     "translations": {},
     "segments": [
       {
@@ -134,13 +134,7 @@
         "token": "staan",
         "startTime": 8560,
         "endTime": 8940
-      }
-    ]
-  },
-  {
-    "sentence_text": "ons toch een paar zeer warme dagen te",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ons",
         "startTime": 8940,
@@ -165,7 +159,13 @@
         "token": "zeer",
         "startTime": 10020,
         "endTime": 10480
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "warme dagen te wachten.",
+    "translations": {},
+    "segments": [
       {
         "token": "warme",
         "startTime": 10480,
@@ -180,22 +180,16 @@
         "token": "te",
         "startTime": 11260,
         "endTime": 11600
-      }
-    ]
-  },
-  {
-    "sentence_text": "wachten.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "wachten.",
         "startTime": 11600,
-        "endTime": 11940
+        "endTime": 12440
       }
     ]
   },
   {
-    "sentence_text": "Met vandaag ook nog wel af en toe",
+    "sentence_text": "Met vandaag ook nog wel af en toe wat wolken die passeren.",
     "translations": {},
     "segments": [
       {
@@ -237,13 +231,7 @@
         "token": "toe",
         "startTime": 14100,
         "endTime": 14120
-      }
-    ]
-  },
-  {
-    "sentence_text": "wat wolken die passeren.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "wat",
         "startTime": 14120,
@@ -262,7 +250,7 @@
       {
         "token": "passeren.",
         "startTime": 14920,
-        "endTime": 15580
+        "endTime": 15860
       }
     ]
   },
@@ -293,12 +281,12 @@
       {
         "token": "sluierwolken.",
         "startTime": 17120,
-        "endTime": 18120
+        "endTime": 18520
       }
     ]
   },
   {
-    "sentence_text": "Maar af en toe kunnen dat ook wat",
+    "sentence_text": "Maar af en toe kunnen dat ook wat lagere wolken zijn.",
     "translations": {},
     "segments": [
       {
@@ -340,13 +328,7 @@
         "token": "wat",
         "startTime": 19460,
         "endTime": 19680
-      }
-    ]
-  },
-  {
-    "sentence_text": "lagere wolken zijn. Dat zijn wolkenvelden die",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "lagere",
         "startTime": 19680,
@@ -361,7 +343,13 @@
         "token": "zijn.",
         "startTime": 20580,
         "endTime": 20860
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat zijn wolkenvelden die vanover Nederland wat dichterbij schuiven.",
+    "translations": {},
+    "segments": [
       {
         "token": "Dat",
         "startTime": 20860,
@@ -381,13 +369,7 @@
         "token": "die",
         "startTime": 22160,
         "endTime": 22420
-      }
-    ]
-  },
-  {
-    "sentence_text": "vanover Nederland wat dichterbij schuiven.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "vanover",
         "startTime": 22420,
@@ -411,12 +393,12 @@
       {
         "token": "schuiven.",
         "startTime": 24300,
-        "endTime": 24960
+        "endTime": 25280
       }
     ]
   },
   {
-    "sentence_text": "Maar vooral boven Nederland en Duitsland zit",
+    "sentence_text": "Maar vooral boven Nederland en Duitsland zit toch wel meer bewolking.",
     "translations": {},
     "segments": [
       {
@@ -453,13 +435,7 @@
         "token": "zit",
         "startTime": 26860,
         "endTime": 27360
-      }
-    ]
-  },
-  {
-    "sentence_text": "toch wel meer bewolking. Bij ons is er",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "toch",
         "startTime": 27360,
@@ -479,7 +455,13 @@
         "token": "bewolking.",
         "startTime": 27920,
         "endTime": 28440
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Bij ons is er genoeg plaats om die zon te laten schijnen.",
+    "translations": {},
+    "segments": [
       {
         "token": "Bij",
         "startTime": 28440,
@@ -499,13 +481,7 @@
         "token": "er",
         "startTime": 29480,
         "endTime": 29700
-      }
-    ]
-  },
-  {
-    "sentence_text": "genoeg plaats om die zon te laten schijnen.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "genoeg",
         "startTime": 29700,
@@ -544,7 +520,7 @@
       {
         "token": "schijnen.",
         "startTime": 31100,
-        "endTime": 31720
+        "endTime": 31980
       }
     ]
   },
@@ -591,11 +567,6 @@
         "token": "breder.",
         "startTime": 33800,
         "endTime": 34420
-      },
-      {
-        "token": "Dus",
-        "startTime": 34420,
-        "endTime": 34480
       }
     ]
   },
@@ -636,12 +607,12 @@
       {
         "token": "namiddag.",
         "startTime": 36720,
-        "endTime": 37520
+        "endTime": 37800
       }
     ]
   },
   {
-    "sentence_text": "We blijven onder de invloed van dat hoge",
+    "sentence_text": "We blijven onder de invloed van dat hoge drukgebied.",
     "translations": {},
     "segments": [
       {
@@ -683,18 +654,18 @@
         "token": "hoge",
         "startTime": 39380,
         "endTime": 39580
-      }
-    ]
-  },
-  {
-    "sentence_text": "drukgebied. Met nog wat verzwakte storingen",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "drukgebied.",
         "startTime": 39580,
         "endTime": 40180
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Met nog wat verzwakte storingen ten noorden van ons.",
+    "translations": {},
+    "segments": [
       {
         "token": "Met",
         "startTime": 40180,
@@ -719,13 +690,7 @@
         "token": "storingen",
         "startTime": 41260,
         "endTime": 41760
-      }
-    ]
-  },
-  {
-    "sentence_text": "ten noorden van ons. Dus af en toe",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ten",
         "startTime": 41760,
@@ -745,7 +710,13 @@
         "token": "ons.",
         "startTime": 42380,
         "endTime": 42740
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dus af en toe wat wolkenvelden die tot bij ons geraken.",
+    "translations": {},
+    "segments": [
       {
         "token": "Dus",
         "startTime": 42740,
@@ -765,13 +736,7 @@
         "token": "toe",
         "startTime": 43600,
         "endTime": 43640
-      }
-    ]
-  },
-  {
-    "sentence_text": "wat wolkenvelden die tot bij ons geraken.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "wat",
         "startTime": 43640,
@@ -805,12 +770,12 @@
       {
         "token": "geraken.",
         "startTime": 45320,
-        "endTime": 45840
+        "endTime": 46080
       }
     ]
   },
   {
-    "sentence_text": "En vooral dan voor het noorden,",
+    "sentence_text": "En vooral dan voor het noorden, het noordoosten van het land.",
     "translations": {},
     "segments": [
       {
@@ -842,13 +807,7 @@
         "token": "noorden,",
         "startTime": 47080,
         "endTime": 47440
-      }
-    ]
-  },
-  {
-    "sentence_text": "het noordoosten van het land.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "het",
         "startTime": 47440,
@@ -872,12 +831,12 @@
       {
         "token": "land.",
         "startTime": 48560,
-        "endTime": 48880
+        "endTime": 49500
       }
     ]
   },
   {
-    "sentence_text": "En voorlopig nog op de meeste plaatsen temperaturen",
+    "sentence_text": "En voorlopig nog op de meeste plaatsen temperaturen onder 30 graden.",
     "translations": {},
     "segments": [
       {
@@ -919,13 +878,7 @@
         "token": "temperaturen",
         "startTime": 51940,
         "endTime": 52540
-      }
-    ]
-  },
-  {
-    "sentence_text": "onder 30 graden. Maar vanaf donderdag halen",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "onder",
         "startTime": 52540,
@@ -940,7 +893,13 @@
         "token": "graden.",
         "startTime": 53320,
         "endTime": 53660
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar vanaf donderdag halen we op vele plaatsen die kaap van 30 graden.",
+    "translations": {},
+    "segments": [
       {
         "token": "Maar",
         "startTime": 53660,
@@ -960,13 +919,7 @@
         "token": "halen",
         "startTime": 54580,
         "endTime": 55040
-      }
-    ]
-  },
-  {
-    "sentence_text": "we op vele plaatsen die kaap van 30",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "we",
         "startTime": 55040,
@@ -1006,18 +959,18 @@
         "token": "30",
         "startTime": 57440,
         "endTime": 58020
-      }
-    ]
-  },
-  {
-    "sentence_text": "graden. en zelfs nog iets meer. Voor vandaag",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "graden.",
         "startTime": 58020,
         "endTime": 58380
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "en zelfs nog iets meer.",
+    "translations": {},
+    "segments": [
       {
         "token": "en",
         "startTime": 58380,
@@ -1042,7 +995,13 @@
         "token": "meer.",
         "startTime": 59240,
         "endTime": 59840
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Voor vandaag houden we het bij misschien al 30 graden",
+    "translations": {},
+    "segments": [
       {
         "token": "Voor",
         "startTime": 59840,
@@ -1052,13 +1011,7 @@
         "token": "vandaag",
         "startTime": 60720,
         "endTime": 61040
-      }
-    ]
-  },
-  {
-    "sentence_text": "houden we het bij misschien al 30 graden",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "houden",
         "startTime": 61040,
@@ -1102,7 +1055,7 @@
     ]
   },
   {
-    "sentence_text": "in de Kempen en Belgische Lotharingen. Voor",
+    "sentence_text": "in de Kempen en Belgische Lotharingen.",
     "translations": {},
     "segments": [
       {
@@ -1134,18 +1087,18 @@
         "token": "Lotharingen.",
         "startTime": 64700,
         "endTime": 65340
-      },
-      {
-        "token": "Voor",
-        "startTime": 65340,
-        "endTime": 65420
       }
     ]
   },
   {
-    "sentence_text": "de andere regio's zijn dat maximaal ergens rond",
+    "sentence_text": "Voor de andere regio's zijn dat maximaal ergens rond 28 graden.",
     "translations": {},
     "segments": [
+      {
+        "token": "Voor",
+        "startTime": 65340,
+        "endTime": 65420
+      },
       {
         "token": "de",
         "startTime": 65420,
@@ -1185,13 +1138,7 @@
         "token": "rond",
         "startTime": 67260,
         "endTime": 67500
-      }
-    ]
-  },
-  {
-    "sentence_text": "28 graden. Ook wel warm aan zee met",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "28",
         "startTime": 67500,
@@ -1201,7 +1148,13 @@
         "token": "graden.",
         "startTime": 68040,
         "endTime": 68680
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ook wel warm aan zee met daar 24 graden",
+    "translations": {},
+    "segments": [
       {
         "token": "Ook",
         "startTime": 68680,
@@ -1231,13 +1184,7 @@
         "token": "met",
         "startTime": 70060,
         "endTime": 70580
-      }
-    ]
-  },
-  {
-    "sentence_text": "daar 24 graden voor Hoogbelgië bij",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "daar",
         "startTime": 70580,
@@ -1252,7 +1199,13 @@
         "token": "graden",
         "startTime": 71880,
         "endTime": 73080
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "voor Hoogbelgië bij een matige wind uit het zuidwesten.",
+    "translations": {},
+    "segments": [
       {
         "token": "voor",
         "startTime": 73080,
@@ -1267,13 +1220,7 @@
         "token": "bij",
         "startTime": 74020,
         "endTime": 74640
-      }
-    ]
-  },
-  {
-    "sentence_text": "een matige wind uit het zuidwesten. Dus het",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "een",
         "startTime": 74640,
@@ -1303,28 +1250,18 @@
         "token": "zuidwesten.",
         "startTime": 76340,
         "endTime": 77400
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dus het voelt allemaal nog draaglijk aan met die winter ook bij.",
+    "translations": {},
+    "segments": [
       {
         "token": "Dus",
         "startTime": 77400,
         "endTime": 77760
       },
-      {
-        "token": "het",
-        "startTime": 77760,
-        "endTime": 77760
-      },
-      {
-        "token": "voelt",
-        "startTime": 77760,
-        "endTime": 78040
-      }
-    ]
-  },
-  {
-    "sentence_text": "voelt allemaal nog draaglijk aan met die winter",
-    "translations": {},
-    "segments": [
       {
         "token": "het",
         "startTime": 77760,
@@ -1369,13 +1306,7 @@
         "token": "winter",
         "startTime": 80390,
         "endTime": 80590
-      }
-    ]
-  },
-  {
-    "sentence_text": "ook bij.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ook",
         "startTime": 80590,
@@ -1384,12 +1315,12 @@
       {
         "token": "bij.",
         "startTime": 80910,
-        "endTime": 81170
+        "endTime": 81650
       }
     ]
   },
   {
-    "sentence_text": "En dan vanavond en vannacht is er nog",
+    "sentence_text": "En dan vanavond en vannacht is er nog altijd behoorlijk wat bewolking.",
     "translations": {},
     "segments": [
       {
@@ -1431,13 +1362,7 @@
         "token": "nog",
         "startTime": 83570,
         "endTime": 83630
-      }
-    ]
-  },
-  {
-    "sentence_text": "altijd behoorlijk wat bewolking. Hoge sluierwolken,",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "altijd",
         "startTime": 83630,
@@ -1457,7 +1382,13 @@
         "token": "bewolking.",
         "startTime": 84670,
         "endTime": 85450
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hoge sluierwolken, later ook wat middelhoge wolken.",
+    "translations": {},
+    "segments": [
       {
         "token": "Hoge",
         "startTime": 85450,
@@ -1467,13 +1398,7 @@
         "token": "sluierwolken,",
         "startTime": 85870,
         "endTime": 86470
-      }
-    ]
-  },
-  {
-    "sentence_text": "later ook wat middelhoge wolken.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "later",
         "startTime": 86470,
@@ -1497,12 +1422,12 @@
       {
         "token": "wolken.",
         "startTime": 87850,
-        "endTime": 88230
+        "endTime": 88430
       }
     ]
   },
   {
-    "sentence_text": "Dat is dan vooral voor het noordoosten van",
+    "sentence_text": "Dat is dan vooral voor het noordoosten van het land, dus daar iets lagere bewolking.",
     "translations": {},
     "segments": [
       {
@@ -1544,13 +1469,7 @@
         "token": "van",
         "startTime": 90030,
         "endTime": 90190
-      }
-    ]
-  },
-  {
-    "sentence_text": "het land, dus daar iets lagere bewolking.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "het",
         "startTime": 90190,
@@ -1584,12 +1503,12 @@
       {
         "token": "bewolking.",
         "startTime": 91810,
-        "endTime": 92390
+        "endTime": 92850
       }
     ]
   },
   {
-    "sentence_text": "En temperaturen van 13 tot 90 graden, misschien",
+    "sentence_text": "En temperaturen van 13 tot 90 graden, misschien lokaal een 20 graden.",
     "translations": {},
     "segments": [
       {
@@ -1631,13 +1550,7 @@
         "token": "misschien",
         "startTime": 95370,
         "endTime": 95550
-      }
-    ]
-  },
-  {
-    "sentence_text": "lokaal een 20 graden. Dus dat maakt het",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "lokaal",
         "startTime": 95550,
@@ -1657,7 +1570,13 @@
         "token": "graden.",
         "startTime": 96790,
         "endTime": 96930
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dus dat maakt het nog wel draaglijk om te slapen.",
+    "translations": {},
+    "segments": [
       {
         "token": "Dus",
         "startTime": 96930,
@@ -1677,13 +1596,7 @@
         "token": "het",
         "startTime": 98430,
         "endTime": 98550
-      }
-    ]
-  },
-  {
-    "sentence_text": "nog wel draaglijk om te slapen.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "nog",
         "startTime": 98550,
@@ -1712,12 +1625,12 @@
       {
         "token": "slapen.",
         "startTime": 99810,
-        "endTime": 100250
+        "endTime": 100990
       }
     ]
   },
   {
-    "sentence_text": "Morgen min of meer hetzelfde scenario als",
+    "sentence_text": "Morgen min of meer hetzelfde scenario als vandaag.",
     "translations": {},
     "segments": [
       {
@@ -1754,18 +1667,18 @@
         "token": "als",
         "startTime": 104210,
         "endTime": 104550
-      }
-    ]
-  },
-  {
-    "sentence_text": "vandaag. Af en toe zijn er wat wolken",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "vandaag.",
         "startTime": 104550,
         "endTime": 105050
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Af en toe zijn er wat wolken die voor de zon schuiven.",
+    "translations": {},
+    "segments": [
       {
         "token": "Af",
         "startTime": 105050,
@@ -1800,13 +1713,7 @@
         "token": "wolken",
         "startTime": 106230,
         "endTime": 106650
-      }
-    ]
-  },
-  {
-    "sentence_text": "die voor de zon schuiven. We halen 29",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "die",
         "startTime": 106650,
@@ -1831,7 +1738,13 @@
         "token": "schuiven.",
         "startTime": 107230,
         "endTime": 107750
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "We halen 29 graden.",
+    "translations": {},
+    "segments": [
       {
         "token": "We",
         "startTime": 107750,
@@ -1846,18 +1759,18 @@
         "token": "29",
         "startTime": 108670,
         "endTime": 109410
-      }
-    ]
-  },
-  {
-    "sentence_text": "graden. Dat is ook woensdag het geval. Een",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "graden.",
         "startTime": 109410,
         "endTime": 109890
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat is ook woensdag het geval.",
+    "translations": {},
+    "segments": [
       {
         "token": "Dat",
         "startTime": 109890,
@@ -1887,18 +1800,18 @@
         "token": "geval.",
         "startTime": 110790,
         "endTime": 111170
-      },
-      {
-        "token": "Een",
-        "startTime": 111170,
-        "endTime": 111390
       }
     ]
   },
   {
-    "sentence_text": "lokale 30 graden kan dus wel.",
+    "sentence_text": "Een lokale 30 graden kan dus wel.",
     "translations": {},
     "segments": [
+      {
+        "token": "Een",
+        "startTime": 111170,
+        "endTime": 111390
+      },
       {
         "token": "lokale",
         "startTime": 111390,
@@ -1927,12 +1840,12 @@
       {
         "token": "wel.",
         "startTime": 112670,
-        "endTime": 113050
+        "endTime": 113290
       }
     ]
   },
   {
-    "sentence_text": "Maar vanaf donderdag zijn we vertrokken voor",
+    "sentence_text": "Maar vanaf donderdag zijn we vertrokken voor een periode met tropische hitte.",
     "translations": {},
     "segments": [
       {
@@ -1969,13 +1882,7 @@
         "token": "voor",
         "startTime": 115390,
         "endTime": 115570
-      }
-    ]
-  },
-  {
-    "sentence_text": "een periode met tropische hitte. Dat wil zeggen",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "een",
         "startTime": 115570,
@@ -2000,7 +1907,13 @@
         "token": "hitte.",
         "startTime": 117610,
         "endTime": 118070
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat wil zeggen temperaturen van 30 graden en meer.",
+    "translations": {},
+    "segments": [
       {
         "token": "Dat",
         "startTime": 118070,
@@ -2015,13 +1928,7 @@
         "token": "zeggen",
         "startTime": 118530,
         "endTime": 118730
-      }
-    ]
-  },
-  {
-    "sentence_text": "temperaturen van 30 graden en meer. Op vele",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "temperaturen",
         "startTime": 118730,
@@ -2051,7 +1958,13 @@
         "token": "meer.",
         "startTime": 120730,
         "endTime": 121110
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Op vele plaatsen.",
+    "translations": {},
+    "segments": [
       {
         "token": "Op",
         "startTime": 121110,
@@ -2061,18 +1974,18 @@
         "token": "vele",
         "startTime": 121890,
         "endTime": 122290
-      }
-    ]
-  },
-  {
-    "sentence_text": "plaatsen. Aan de kust zou het altijd wat",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "plaatsen.",
         "startTime": 122290,
         "endTime": 122870
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Aan de kust zou het altijd wat koeler blijven.",
+    "translations": {},
+    "segments": [
       {
         "token": "Aan",
         "startTime": 122870,
@@ -2107,13 +2020,7 @@
         "token": "wat",
         "startTime": 123610,
         "endTime": 124010
-      }
-    ]
-  },
-  {
-    "sentence_text": "koeler blijven. Vrijdag misschien iets meer",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "koeler",
         "startTime": 124010,
@@ -2123,7 +2030,13 @@
         "token": "blijven.",
         "startTime": 124430,
         "endTime": 124810
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vrijdag misschien iets meer bewolking, maar ook warmer met 33 graden.",
+    "translations": {},
+    "segments": [
       {
         "token": "Vrijdag",
         "startTime": 124810,
@@ -2143,13 +2056,7 @@
         "token": "meer",
         "startTime": 125750,
         "endTime": 126070
-      }
-    ]
-  },
-  {
-    "sentence_text": "bewolking, maar ook warmer met 33 graden. En",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "bewolking,",
         "startTime": 126070,
@@ -2184,18 +2091,18 @@
         "token": "graden.",
         "startTime": 128370,
         "endTime": 128850
-      },
-      {
-        "token": "En",
-        "startTime": 128850,
-        "endTime": 129110
       }
     ]
   },
   {
-    "sentence_text": "de kans op een bui of een onweer",
+    "sentence_text": "En de kans op een bui of een onweer is klein.",
     "translations": {},
     "segments": [
+      {
+        "token": "En",
+        "startTime": 128850,
+        "endTime": 129110
+      },
       {
         "token": "de",
         "startTime": 129110,
@@ -2235,13 +2142,7 @@
         "token": "onweer",
         "startTime": 130410,
         "endTime": 130790
-      }
-    ]
-  },
-  {
-    "sentence_text": "is klein.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "is",
         "startTime": 130790,
@@ -2250,12 +2151,12 @@
       {
         "token": "klein.",
         "startTime": 131090,
-        "endTime": 131730
+        "endTime": 132130
       }
     ]
   },
   {
-    "sentence_text": "Ook in het weekend en ook zaterdag en",
+    "sentence_text": "Ook in het weekend en ook zaterdag en zondag blijft het waarschijnlijk overal nog droog.",
     "translations": {},
     "segments": [
       {
@@ -2297,13 +2198,7 @@
         "token": "en",
         "startTime": 133830,
         "endTime": 134130
-      }
-    ]
-  },
-  {
-    "sentence_text": "zondag blijft het waarschijnlijk overal nog",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "zondag",
         "startTime": 134130,
@@ -2333,18 +2228,18 @@
         "token": "nog",
         "startTime": 136810,
         "endTime": 137010
-      }
-    ]
-  },
-  {
-    "sentence_text": "droog. Hoog zomerweer met zon van s'morgens",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "droog.",
         "startTime": 137010,
         "endTime": 137650
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hoog zomerweer met zon van s'morgens tot avonds.",
+    "translations": {},
+    "segments": [
       {
         "token": "Hoog",
         "startTime": 137650,
@@ -2374,13 +2269,7 @@
         "token": "s'morgens",
         "startTime": 139570,
         "endTime": 139970
-      }
-    ]
-  },
-  {
-    "sentence_text": "tot avonds.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "tot",
         "startTime": 139970,
@@ -2389,7 +2278,7 @@
       {
         "token": "avonds.",
         "startTime": 140230,
-        "endTime": 140790
+        "endTime": 141110
       }
     ]
   },
@@ -2440,7 +2329,7 @@
     ]
   },
   {
-    "sentence_text": "rond 32 graden voor het centrum van het",
+    "sentence_text": "rond 32 graden voor het centrum van het land.",
     "translations": {},
     "segments": [
       {
@@ -2482,18 +2371,18 @@
         "token": "het",
         "startTime": 146150,
         "endTime": 146250
-      }
-    ]
-  },
-  {
-    "sentence_text": "land. Dus lokaal kan dat nog iets meer",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "land.",
         "startTime": 146250,
         "endTime": 146430
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dus lokaal kan dat nog iets meer zijn.",
+    "translations": {},
+    "segments": [
       {
         "token": "Dus",
         "startTime": 146430,
@@ -2528,22 +2417,16 @@
         "token": "meer",
         "startTime": 147770,
         "endTime": 148010
-      }
-    ]
-  },
-  {
-    "sentence_text": "zijn.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "zijn.",
         "startTime": 148010,
-        "endTime": 148290
+        "endTime": 148510
       }
     ]
   },
   {
-    "sentence_text": "Het zou wel eens een lange,",
+    "sentence_text": "Het zou wel eens een lange, warme of zeer warme periode zijn met tropische temperaturen.",
     "translations": {},
     "segments": [
       {
@@ -2575,13 +2458,7 @@
         "token": "lange,",
         "startTime": 149370,
         "endTime": 150210
-      }
-    ]
-  },
-  {
-    "sentence_text": "warme of zeer warme periode zijn met tropische",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "warme",
         "startTime": 150210,
@@ -2621,18 +2498,18 @@
         "token": "tropische",
         "startTime": 152610,
         "endTime": 153170
-      }
-    ]
-  },
-  {
-    "sentence_text": "temperaturen. Meer daarover in later weerberichten.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "temperaturen.",
         "startTime": 153170,
         "endTime": 153950
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Meer daarover in later weerberichten.",
+    "translations": {},
+    "segments": [
       {
         "token": "Meer",
         "startTime": 153950,
@@ -2661,7 +2538,7 @@
     ]
   },
   {
-    "sentence_text": "Graag tot dan. Dag.",
+    "sentence_text": "Graag tot dan.",
     "translations": {},
     "segments": [
       {
@@ -2673,7 +2550,13 @@
         "token": "tot",
         "startTime": 156310,
         "endTime": 156430
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dag.",
+    "translations": {},
+    "segments": [
       {
         "token": "dan.",
         "startTime": 156430,
