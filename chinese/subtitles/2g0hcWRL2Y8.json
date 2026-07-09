@@ -1,0 +1,7088 @@
+[
+  {
+    "sentence_text": "一条 一万三千 英里 的 土石 之龙",
+    "translations": {
+      "en": "A dragon of earth and stone, 13,000"
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 6860,
+        "endTime": 6990,
+        "pinyin": "yī"
+      },
+      {
+        "token": "条",
+        "startTime": 6990,
+        "endTime": 7120,
+        "pinyin": "tiáo"
+      },
+      {
+        "token": "一",
+        "startTime": 7120,
+        "endTime": 7330,
+        "pinyin": "yī"
+      },
+      {
+        "token": "万",
+        "startTime": 7330,
+        "endTime": 7540,
+        "pinyin": "wàn"
+      },
+      {
+        "token": "三",
+        "startTime": 7540,
+        "endTime": 7750,
+        "pinyin": "sān"
+      },
+      {
+        "token": "千",
+        "startTime": 7750,
+        "endTime": 7960,
+        "pinyin": "qiān"
+      },
+      {
+        "token": "英",
+        "startTime": 7960,
+        "endTime": 8140,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "里",
+        "startTime": 8140,
+        "endTime": 8320,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 8320,
+        "endTime": 8480,
+        "pinyin": "de"
+      },
+      {
+        "token": "土",
+        "startTime": 8480,
+        "endTime": 8710,
+        "pinyin": "tǔ"
+      },
+      {
+        "token": "石",
+        "startTime": 8710,
+        "endTime": 8940,
+        "pinyin": "shí"
+      },
+      {
+        "token": "之",
+        "startTime": 8940,
+        "endTime": 9140,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "龙",
+        "startTime": 9140,
+        "endTime": 9340,
+        "pinyin": "lóng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "蜿蜒 于 中国 乡野 之间",
+    "translations": {
+      "en": "miles long, winds through the"
+    },
+    "segments": [
+      {
+        "token": "蜿",
+        "startTime": 9980,
+        "endTime": 10120,
+        "pinyin": "wān"
+      },
+      {
+        "token": "蜒",
+        "startTime": 10120,
+        "endTime": 10260,
+        "pinyin": "yán"
+      },
+      {
+        "token": "于",
+        "startTime": 10260,
+        "endTime": 10420,
+        "pinyin": "yú"
+      },
+      {
+        "token": "中",
+        "startTime": 10420,
+        "endTime": 10580,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 10580,
+        "endTime": 10740,
+        "pinyin": "guó"
+      },
+      {
+        "token": "乡",
+        "startTime": 10740,
+        "endTime": 11020,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "野",
+        "startTime": 11020,
+        "endTime": 11300,
+        "pinyin": "yě"
+      },
+      {
+        "token": "之",
+        "startTime": 11300,
+        "endTime": 11500,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 11500,
+        "endTime": 11700,
+        "pinyin": "jiān"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 的 历史 几乎 与其 结构 一样 悠久",
+    "translations": {
+      "en": "Chinese countryside. Its history is almost as long"
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 12300,
+        "endTime": 12500,
+        "pinyin": "tā"
+      },
+      {
+        "token": "的",
+        "startTime": 12500,
+        "endTime": 12760,
+        "pinyin": "de"
+      },
+      {
+        "token": "历",
+        "startTime": 12760,
+        "endTime": 13100,
+        "pinyin": "lì"
+      },
+      {
+        "token": "史",
+        "startTime": 13100,
+        "endTime": 13440,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "几",
+        "startTime": 13440,
+        "endTime": 13540,
+        "pinyin": "jī"
+      },
+      {
+        "token": "乎",
+        "startTime": 13540,
+        "endTime": 13640,
+        "pinyin": "hū"
+      },
+      {
+        "token": "与",
+        "startTime": 13640,
+        "endTime": 13830,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "其",
+        "startTime": 13830,
+        "endTime": 14020,
+        "pinyin": "qí"
+      },
+      {
+        "token": "结",
+        "startTime": 14020,
+        "endTime": 14210,
+        "pinyin": "jié"
+      },
+      {
+        "token": "构",
+        "startTime": 14210,
+        "endTime": 14400,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "一",
+        "startTime": 14400,
+        "endTime": 14620,
+        "pinyin": "yī"
+      },
+      {
+        "token": "样",
+        "startTime": 14620,
+        "endTime": 14840,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "悠",
+        "startTime": 14840,
+        "endTime": 15060,
+        "pinyin": "yōu"
+      },
+      {
+        "token": "久",
+        "startTime": 15060,
+        "endTime": 15280,
+        "pinyin": "jiǔ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "曲折 长城 最初 是 多座 泥土 夯实 的",
+    "translations": {
+      "en": "and winding as its structure. The Great Wall"
+    },
+    "segments": [
+      {
+        "token": "曲",
+        "startTime": 15280,
+        "endTime": 15690,
+        "pinyin": "qū"
+      },
+      {
+        "token": "折",
+        "startTime": 15690,
+        "endTime": 16100,
+        "pinyin": "zhé"
+      },
+      {
+        "token": "长",
+        "startTime": 16100,
+        "endTime": 16370,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 16370,
+        "endTime": 16640,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "最",
+        "startTime": 16640,
+        "endTime": 16790,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "初",
+        "startTime": 16790,
+        "endTime": 16940,
+        "pinyin": "chū"
+      },
+      {
+        "token": "是",
+        "startTime": 16940,
+        "endTime": 17140,
+        "pinyin": "shì"
+      },
+      {
+        "token": "多",
+        "startTime": 17140,
+        "endTime": 17290,
+        "pinyin": "duō"
+      },
+      {
+        "token": "座",
+        "startTime": 17290,
+        "endTime": 17440,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "泥",
+        "startTime": 17440,
+        "endTime": 17650,
+        "pinyin": "ní"
+      },
+      {
+        "token": "土",
+        "startTime": 17650,
+        "endTime": 17860,
+        "pinyin": "tǔ"
+      },
+      {
+        "token": "夯",
+        "startTime": 17860,
+        "endTime": 18030,
+        "pinyin": "hāng"
+      },
+      {
+        "token": "实",
+        "startTime": 18030,
+        "endTime": 18200,
+        "pinyin": "shí"
+      },
+      {
+        "token": "的",
+        "startTime": 18200,
+        "endTime": 18320,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "城墙 由川丘 战国时期 的 各个 独立 封建 国家",
+    "translations": {
+      "en": "began as multiple rammed-earth walls built by independent feudal states"
+    },
+    "segments": [
+      {
+        "token": "城",
+        "startTime": 18320,
+        "endTime": 18770,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 18770,
+        "endTime": 19220,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "由",
+        "startTime": 19220,
+        "endTime": 19387,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "川",
+        "startTime": 19387,
+        "endTime": 19553,
+        "pinyin": "chuān"
+      },
+      {
+        "token": "丘",
+        "startTime": 19553,
+        "endTime": 19720,
+        "pinyin": "qiū"
+      },
+      {
+        "token": "战",
+        "startTime": 19720,
+        "endTime": 19870,
+        "pinyin": "zhàn"
+      },
+      {
+        "token": "国",
+        "startTime": 19870,
+        "endTime": 20020,
+        "pinyin": "guó"
+      },
+      {
+        "token": "时",
+        "startTime": 20020,
+        "endTime": 20170,
+        "pinyin": "shí"
+      },
+      {
+        "token": "期",
+        "startTime": 20170,
+        "endTime": 20320,
+        "pinyin": "qī"
+      },
+      {
+        "token": "的",
+        "startTime": 20320,
+        "endTime": 20500,
+        "pinyin": "de"
+      },
+      {
+        "token": "各",
+        "startTime": 20500,
+        "endTime": 20670,
+        "pinyin": "gè"
+      },
+      {
+        "token": "个",
+        "startTime": 20670,
+        "endTime": 20840,
+        "pinyin": "gè"
+      },
+      {
+        "token": "独",
+        "startTime": 20840,
+        "endTime": 21050,
+        "pinyin": "dú"
+      },
+      {
+        "token": "立",
+        "startTime": 21050,
+        "endTime": 21260,
+        "pinyin": "lì"
+      },
+      {
+        "token": "封",
+        "startTime": 21260,
+        "endTime": 21440,
+        "pinyin": "fēng"
+      },
+      {
+        "token": "建",
+        "startTime": 21440,
+        "endTime": 21620,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "国",
+        "startTime": 21620,
+        "endTime": 21840,
+        "pinyin": "guó"
+      },
+      {
+        "token": "家",
+        "startTime": 21840,
+        "endTime": 22060,
+        "pinyin": "jiā"
+      }
+    ]
+  },
+  {
+    "sentence_text": "修筑 以 抵制 中国 北方 游牧民族 的 侵略者",
+    "translations": {
+      "en": "during the Warring States period to resist northern nomadic invaders"
+    },
+    "segments": [
+      {
+        "token": "修",
+        "startTime": 22060,
+        "endTime": 22480,
+        "pinyin": "xiū"
+      },
+      {
+        "token": "筑",
+        "startTime": 22480,
+        "endTime": 22900,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "以",
+        "startTime": 22900,
+        "endTime": 23000,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "抵",
+        "startTime": 23000,
+        "endTime": 23250,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "制",
+        "startTime": 23250,
+        "endTime": 23500,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "中",
+        "startTime": 23500,
+        "endTime": 23730,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 23730,
+        "endTime": 23960,
+        "pinyin": "guó"
+      },
+      {
+        "token": "北",
+        "startTime": 23960,
+        "endTime": 24100,
+        "pinyin": "běi"
+      },
+      {
+        "token": "方",
+        "startTime": 24100,
+        "endTime": 24240,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "游",
+        "startTime": 24240,
+        "endTime": 24420,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "牧",
+        "startTime": 24420,
+        "endTime": 24600,
+        "pinyin": "mù"
+      },
+      {
+        "token": "民",
+        "startTime": 24600,
+        "endTime": 24780,
+        "pinyin": "mín"
+      },
+      {
+        "token": "族",
+        "startTime": 24780,
+        "endTime": 24960,
+        "pinyin": "zú"
+      },
+      {
+        "token": "的",
+        "startTime": 24960,
+        "endTime": 25100,
+        "pinyin": "de"
+      },
+      {
+        "token": "侵",
+        "startTime": 25100,
+        "endTime": 25367,
+        "pinyin": "qīn"
+      },
+      {
+        "token": "略",
+        "startTime": 25367,
+        "endTime": 25633,
+        "pinyin": "lüè"
+      },
+      {
+        "token": "者",
+        "startTime": 25633,
+        "endTime": 25900,
+        "pinyin": "zhě"
+      }
+    ]
+  },
+  {
+    "sentence_text": "以及 其他",
+    "translations": {
+      "en": "and each"
+    },
+    "segments": [
+      {
+        "token": "以",
+        "startTime": 25900,
+        "endTime": 26120,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 26120,
+        "endTime": 26340,
+        "pinyin": "jí"
+      },
+      {
+        "token": "其",
+        "startTime": 26340,
+        "endTime": 26570,
+        "pinyin": "qí"
+      },
+      {
+        "token": "他",
+        "startTime": 26570,
+        "endTime": 26800,
+        "pinyin": "tā"
+      }
+    ]
+  },
+  {
+    "sentence_text": "各国 公元前 二 二",
+    "translations": {
+      "en": "other. In 221 BC,"
+    },
+    "segments": [
+      {
+        "token": "各",
+        "startTime": 27680,
+        "endTime": 27840,
+        "pinyin": "gè"
+      },
+      {
+        "token": "国",
+        "startTime": 27840,
+        "endTime": 28000,
+        "pinyin": "guó"
+      },
+      {
+        "token": "公",
+        "startTime": 28000,
+        "endTime": 28213,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "元",
+        "startTime": 28213,
+        "endTime": 28427,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "前",
+        "startTime": 28427,
+        "endTime": 28640,
+        "pinyin": "qián"
+      },
+      {
+        "token": "二",
+        "startTime": 28640,
+        "endTime": 28800,
+        "pinyin": "èr"
+      },
+      {
+        "token": "二",
+        "startTime": 28800,
+        "endTime": 29040,
+        "pinyin": "èr"
+      }
+    ]
+  },
+  {
+    "sentence_text": "一年 当 秦始皇 统一 中国 之 时 青藏高原",
+    "translations": {
+      "en": "when Qin Shi Huang unified China, the Qinghai-Tibet Plateau"
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 29640,
+        "endTime": 29830,
+        "pinyin": "yī"
+      },
+      {
+        "token": "年",
+        "startTime": 29830,
+        "endTime": 30020,
+        "pinyin": "nián"
+      },
+      {
+        "token": "当",
+        "startTime": 30020,
+        "endTime": 30160,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "秦",
+        "startTime": 30160,
+        "endTime": 30320,
+        "pinyin": "qín"
+      },
+      {
+        "token": "始",
+        "startTime": 30320,
+        "endTime": 30480,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "皇",
+        "startTime": 30480,
+        "endTime": 30640,
+        "pinyin": "huáng"
+      },
+      {
+        "token": "统",
+        "startTime": 30640,
+        "endTime": 30810,
+        "pinyin": "tǒng"
+      },
+      {
+        "token": "一",
+        "startTime": 30810,
+        "endTime": 30980,
+        "pinyin": "yī"
+      },
+      {
+        "token": "中",
+        "startTime": 30980,
+        "endTime": 31460,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 31460,
+        "endTime": 31940,
+        "pinyin": "guó"
+      },
+      {
+        "token": "之",
+        "startTime": 31940,
+        "endTime": 32200,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "时",
+        "startTime": 32200,
+        "endTime": 32299,
+        "pinyin": "shí"
+      },
+      {
+        "token": "青",
+        "startTime": 32299,
+        "endTime": 32479,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "藏",
+        "startTime": 32479,
+        "endTime": 32660,
+        "pinyin": "zàng"
+      },
+      {
+        "token": "高",
+        "startTime": 32660,
+        "endTime": 32840,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "原",
+        "startTime": 32840,
+        "endTime": 33020,
+        "pinyin": "yuán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "和 太平洋 成为 了 国家 的 天然屏障 但",
+    "translations": {
+      "en": "and the Pacific Ocean became natural barriers, but"
+    },
+    "segments": [
+      {
+        "token": "和",
+        "startTime": 33020,
+        "endTime": 33200,
+        "pinyin": "hé"
+      },
+      {
+        "token": "太",
+        "startTime": 33200,
+        "endTime": 33447,
+        "pinyin": "tài"
+      },
+      {
+        "token": "平",
+        "startTime": 33447,
+        "endTime": 33693,
+        "pinyin": "píng"
+      },
+      {
+        "token": "洋",
+        "startTime": 33693,
+        "endTime": 33940,
+        "pinyin": "yáng"
+      },
+      {
+        "token": "成",
+        "startTime": 33940,
+        "endTime": 34060,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "为",
+        "startTime": 34060,
+        "endTime": 34180,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "了",
+        "startTime": 34180,
+        "endTime": 34320,
+        "pinyin": "le"
+      },
+      {
+        "token": "国",
+        "startTime": 34320,
+        "endTime": 34470,
+        "pinyin": "guó"
+      },
+      {
+        "token": "家",
+        "startTime": 34470,
+        "endTime": 34620,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "的",
+        "startTime": 34620,
+        "endTime": 34820,
+        "pinyin": "de"
+      },
+      {
+        "token": "天",
+        "startTime": 34820,
+        "endTime": 35220,
+        "pinyin": "tiān"
+      },
+      {
+        "token": "然",
+        "startTime": 35220,
+        "endTime": 35620,
+        "pinyin": "rán"
+      },
+      {
+        "token": "屏",
+        "startTime": 35620,
+        "endTime": 36020,
+        "pinyin": "píng"
+      },
+      {
+        "token": "障",
+        "startTime": 36020,
+        "endTime": 36420,
+        "pinyin": "zhàng"
+      },
+      {
+        "token": "但",
+        "startTime": 36420,
+        "endTime": 36540,
+        "pinyin": "dàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "北方 的 山脉 对于 蒙古 、",
+    "translations": {
+      "en": "the northern mountains remained vulnerable to"
+    },
+    "segments": [
+      {
+        "token": "北",
+        "startTime": 36540,
+        "endTime": 36700,
+        "pinyin": "běi"
+      },
+      {
+        "token": "方",
+        "startTime": 36700,
+        "endTime": 36860,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "的",
+        "startTime": 36860,
+        "endTime": 37040,
+        "pinyin": "de"
+      },
+      {
+        "token": "山",
+        "startTime": 37040,
+        "endTime": 37300,
+        "pinyin": "shān"
+      },
+      {
+        "token": "脉",
+        "startTime": 37300,
+        "endTime": 37560,
+        "pinyin": "mài"
+      },
+      {
+        "token": "对",
+        "startTime": 37560,
+        "endTime": 37920,
+        "pinyin": "duì"
+      },
+      {
+        "token": "于",
+        "startTime": 37920,
+        "endTime": 38280,
+        "pinyin": "yú"
+      },
+      {
+        "token": "蒙",
+        "startTime": 38280,
+        "endTime": 38400,
+        "pinyin": "méng"
+      },
+      {
+        "token": "古",
+        "startTime": 38400,
+        "endTime": 38520,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "、",
+        "startTime": 38520,
+        "endTime": 38760,
+        "pinyin": "、"
+      }
+    ]
+  },
+  {
+    "sentence_text": "土耳其 及 匈奴 人 的 入侵 依然",
+    "translations": {
+      "en": "invasions by the Mongols, Turks, and Xiongnu."
+    },
+    "segments": [
+      {
+        "token": "土",
+        "startTime": 38760,
+        "endTime": 38947,
+        "pinyin": "tǔ"
+      },
+      {
+        "token": "耳",
+        "startTime": 38947,
+        "endTime": 39133,
+        "pinyin": "ěr"
+      },
+      {
+        "token": "其",
+        "startTime": 39133,
+        "endTime": 39320,
+        "pinyin": "qí"
+      },
+      {
+        "token": "及",
+        "startTime": 39320,
+        "endTime": 39480,
+        "pinyin": "jí"
+      },
+      {
+        "token": "匈",
+        "startTime": 39480,
+        "endTime": 39630,
+        "pinyin": "xiōng"
+      },
+      {
+        "token": "奴",
+        "startTime": 39630,
+        "endTime": 39780,
+        "pinyin": "nú"
+      },
+      {
+        "token": "人",
+        "startTime": 39780,
+        "endTime": 40340,
+        "pinyin": "rén"
+      },
+      {
+        "token": "的",
+        "startTime": 40340,
+        "endTime": 40520,
+        "pinyin": "de"
+      },
+      {
+        "token": "入",
+        "startTime": 40520,
+        "endTime": 40770,
+        "pinyin": "rù"
+      },
+      {
+        "token": "侵",
+        "startTime": 40770,
+        "endTime": 41020,
+        "pinyin": "qīn"
+      },
+      {
+        "token": "依",
+        "startTime": 41020,
+        "endTime": 41250,
+        "pinyin": "yī"
+      },
+      {
+        "token": "然",
+        "startTime": 41250,
+        "endTime": 41480,
+        "pinyin": "rán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "非常 薄弱 为了 抵御 外敌 秦始皇 扩建 了",
+    "translations": {
+      "en": "To defend against foreign enemies, Qin Shi Huang expanded"
+    },
+    "segments": [
+      {
+        "token": "非",
+        "startTime": 42780,
+        "endTime": 42920,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "常",
+        "startTime": 42920,
+        "endTime": 43060,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "薄",
+        "startTime": 43060,
+        "endTime": 43170,
+        "pinyin": "bó"
+      },
+      {
+        "token": "弱",
+        "startTime": 43170,
+        "endTime": 43280,
+        "pinyin": "ruò"
+      },
+      {
+        "token": "为",
+        "startTime": 43280,
+        "endTime": 43660,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "了",
+        "startTime": 43660,
+        "endTime": 44040,
+        "pinyin": "le"
+      },
+      {
+        "token": "抵",
+        "startTime": 44040,
+        "endTime": 44210,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "御",
+        "startTime": 44210,
+        "endTime": 44380,
+        "pinyin": "yù"
+      },
+      {
+        "token": "外",
+        "startTime": 44380,
+        "endTime": 44550,
+        "pinyin": "wài"
+      },
+      {
+        "token": "敌",
+        "startTime": 44550,
+        "endTime": 44720,
+        "pinyin": "dí"
+      },
+      {
+        "token": "秦",
+        "startTime": 44720,
+        "endTime": 44893,
+        "pinyin": "qín"
+      },
+      {
+        "token": "始",
+        "startTime": 44893,
+        "endTime": 45067,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "皇",
+        "startTime": 45067,
+        "endTime": 45240,
+        "pinyin": "huáng"
+      },
+      {
+        "token": "扩",
+        "startTime": 45240,
+        "endTime": 45490,
+        "pinyin": "kuò"
+      },
+      {
+        "token": "建",
+        "startTime": 45490,
+        "endTime": 45740,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "了",
+        "startTime": 45740,
+        "endTime": 45880,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "之前 所 建筑 的 小 城墙 巩固 强化",
+    "translations": {
+      "en": "the small walls built earlier, reinforcing and"
+    },
+    "segments": [
+      {
+        "token": "之",
+        "startTime": 45880,
+        "endTime": 46070,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "前",
+        "startTime": 46070,
+        "endTime": 46260,
+        "pinyin": "qián"
+      },
+      {
+        "token": "所",
+        "startTime": 46260,
+        "endTime": 46420,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "建",
+        "startTime": 46420,
+        "endTime": 46940,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "筑",
+        "startTime": 46940,
+        "endTime": 47460,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "的",
+        "startTime": 47460,
+        "endTime": 47640,
+        "pinyin": "de"
+      },
+      {
+        "token": "小",
+        "startTime": 47640,
+        "endTime": 47920,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "城",
+        "startTime": 47920,
+        "endTime": 48120,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 48120,
+        "endTime": 48320,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "巩",
+        "startTime": 48320,
+        "endTime": 48650,
+        "pinyin": "gǒng"
+      },
+      {
+        "token": "固",
+        "startTime": 48650,
+        "endTime": 48980,
+        "pinyin": "gù"
+      },
+      {
+        "token": "强",
+        "startTime": 48980,
+        "endTime": 49120,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "化",
+        "startTime": 49120,
+        "endTime": 49260,
+        "pinyin": "huà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它们",
+    "translations": {
+      "en": "connecting"
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 49260,
+        "endTime": 49470,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 49470,
+        "endTime": 49680,
+        "pinyin": "men"
+      }
+    ]
+  },
+  {
+    "sentence_text": "并 加以 连接 城墙 的 结构 起于 西部",
+    "translations": {
+      "en": "them. The wall structure started in the west"
+    },
+    "segments": [
+      {
+        "token": "并",
+        "startTime": 50400,
+        "endTime": 50620,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "加",
+        "startTime": 50620,
+        "endTime": 50750,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "以",
+        "startTime": 50750,
+        "endTime": 50880,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "连",
+        "startTime": 50880,
+        "endTime": 51030,
+        "pinyin": "lián"
+      },
+      {
+        "token": "接",
+        "startTime": 51030,
+        "endTime": 51180,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "城",
+        "startTime": 51180,
+        "endTime": 51390,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 51390,
+        "endTime": 51600,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "的",
+        "startTime": 51600,
+        "endTime": 51780,
+        "pinyin": "de"
+      },
+      {
+        "token": "结",
+        "startTime": 51780,
+        "endTime": 51940,
+        "pinyin": "jié"
+      },
+      {
+        "token": "构",
+        "startTime": 51940,
+        "endTime": 52100,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "起",
+        "startTime": 52100,
+        "endTime": 52590,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "于",
+        "startTime": 52590,
+        "endTime": 53080,
+        "pinyin": "yú"
+      },
+      {
+        "token": "西",
+        "startTime": 53080,
+        "endTime": 53220,
+        "pinyin": "xī"
+      },
+      {
+        "token": "部",
+        "startTime": 53220,
+        "endTime": 53360,
+        "pinyin": "bù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "的 林桃 至于",
+    "translations": {
+      "en": "at Lintao and"
+    },
+    "segments": [
+      {
+        "token": "的",
+        "startTime": 53360,
+        "endTime": 53500,
+        "pinyin": "de"
+      },
+      {
+        "token": "林",
+        "startTime": 53500,
+        "endTime": 53690,
+        "pinyin": "lín"
+      },
+      {
+        "token": "桃",
+        "startTime": 53690,
+        "endTime": 53880,
+        "pinyin": "táo"
+      },
+      {
+        "token": "至",
+        "startTime": 53880,
+        "endTime": 54110,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "于",
+        "startTime": 54110,
+        "endTime": 54340,
+        "pinyin": "yú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "东部 的 辽东 合在一起 它们",
+    "translations": {
+      "en": "ended in the east at Liaodong."
+    },
+    "segments": [
+      {
+        "token": "东",
+        "startTime": 54960,
+        "endTime": 55120,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "部",
+        "startTime": 55120,
+        "endTime": 55280,
+        "pinyin": "bù"
+      },
+      {
+        "token": "的",
+        "startTime": 55280,
+        "endTime": 55540,
+        "pinyin": "de"
+      },
+      {
+        "token": "辽",
+        "startTime": 55540,
+        "endTime": 55730,
+        "pinyin": "liáo"
+      },
+      {
+        "token": "东",
+        "startTime": 55730,
+        "endTime": 55920,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "合",
+        "startTime": 55920,
+        "endTime": 56245,
+        "pinyin": "hé"
+      },
+      {
+        "token": "在",
+        "startTime": 56245,
+        "endTime": 56570,
+        "pinyin": "zài"
+      },
+      {
+        "token": "一",
+        "startTime": 56570,
+        "endTime": 56895,
+        "pinyin": "yì"
+      },
+      {
+        "token": "起",
+        "startTime": 56895,
+        "endTime": 57220,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "它",
+        "startTime": 57220,
+        "endTime": 58110,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 58110,
+        "endTime": 59000,
+        "pinyin": "men"
+      }
+    ]
+  },
+  {
+    "sentence_text": "被 称为 长城 为了",
+    "translations": {
+      "en": "Together, they were called"
+    },
+    "segments": [
+      {
+        "token": "被",
+        "startTime": 59000,
+        "endTime": 59120,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "称",
+        "startTime": 59120,
+        "endTime": 59270,
+        "pinyin": "chēng"
+      },
+      {
+        "token": "为",
+        "startTime": 59270,
+        "endTime": 59420,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "长",
+        "startTime": 59420,
+        "endTime": 59650,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 59650,
+        "endTime": 59880,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "为",
+        "startTime": 59880,
+        "endTime": 60090,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "了",
+        "startTime": 60090,
+        "endTime": 60300,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "完成 这项 工程 秦始皇 征召 了 士兵 和",
+    "translations": {
+      "en": "the Great Wall. To complete this project, Qin"
+    },
+    "segments": [
+      {
+        "token": "完",
+        "startTime": 60960,
+        "endTime": 61130,
+        "pinyin": "wán"
+      },
+      {
+        "token": "成",
+        "startTime": 61130,
+        "endTime": 61300,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "这",
+        "startTime": 61300,
+        "endTime": 61510,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "项",
+        "startTime": 61510,
+        "endTime": 61720,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "工",
+        "startTime": 61720,
+        "endTime": 61860,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "程",
+        "startTime": 61860,
+        "endTime": 62000,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "秦",
+        "startTime": 62000,
+        "endTime": 62187,
+        "pinyin": "qín"
+      },
+      {
+        "token": "始",
+        "startTime": 62187,
+        "endTime": 62373,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "皇",
+        "startTime": 62373,
+        "endTime": 62560,
+        "pinyin": "huáng"
+      },
+      {
+        "token": "征",
+        "startTime": 62560,
+        "endTime": 63060,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "召",
+        "startTime": 63060,
+        "endTime": 63560,
+        "pinyin": "zhào"
+      },
+      {
+        "token": "了",
+        "startTime": 63560,
+        "endTime": 63700,
+        "pinyin": "le"
+      },
+      {
+        "token": "士",
+        "startTime": 63700,
+        "endTime": 63820,
+        "pinyin": "shì"
+      },
+      {
+        "token": "兵",
+        "startTime": 63820,
+        "endTime": 63940,
+        "pinyin": "bīng"
+      },
+      {
+        "token": "和",
+        "startTime": 63940,
+        "endTime": 64040,
+        "pinyin": "hé"
+      }
+    ]
+  },
+  {
+    "sentence_text": "平民 而 这 往往",
+    "translations": {
+      "en": "Shi Huang conscripted soldiers"
+    },
+    "segments": [
+      {
+        "token": "平",
+        "startTime": 64040,
+        "endTime": 64190,
+        "pinyin": "píng"
+      },
+      {
+        "token": "民",
+        "startTime": 64190,
+        "endTime": 64340,
+        "pinyin": "mín"
+      },
+      {
+        "token": "而",
+        "startTime": 64340,
+        "endTime": 64519,
+        "pinyin": "ér"
+      },
+      {
+        "token": "这",
+        "startTime": 64519,
+        "endTime": 64640,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "往",
+        "startTime": 64640,
+        "endTime": 64829,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "往",
+        "startTime": 64829,
+        "endTime": 65019,
+        "pinyin": "wǎng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "不是 基于 自愿 在 秦朝 被 记录 下",
+    "translations": {
+      "en": "and civilians, often involuntarily. Among the thousands"
+    },
+    "segments": [
+      {
+        "token": "不",
+        "startTime": 65700,
+        "endTime": 65870,
+        "pinyin": "bú"
+      },
+      {
+        "token": "是",
+        "startTime": 65870,
+        "endTime": 66040,
+        "pinyin": "shì"
+      },
+      {
+        "token": "基",
+        "startTime": 66040,
+        "endTime": 66220,
+        "pinyin": "jī"
+      },
+      {
+        "token": "于",
+        "startTime": 66220,
+        "endTime": 66400,
+        "pinyin": "yú"
+      },
+      {
+        "token": "自",
+        "startTime": 66400,
+        "endTime": 66540,
+        "pinyin": "zì"
+      },
+      {
+        "token": "愿",
+        "startTime": 66540,
+        "endTime": 66680,
+        "pinyin": "yuàn"
+      },
+      {
+        "token": "在",
+        "startTime": 66680,
+        "endTime": 66840,
+        "pinyin": "zài"
+      },
+      {
+        "token": "秦",
+        "startTime": 66840,
+        "endTime": 67020,
+        "pinyin": "qín"
+      },
+      {
+        "token": "朝",
+        "startTime": 67020,
+        "endTime": 67200,
+        "pinyin": "cháo"
+      },
+      {
+        "token": "被",
+        "startTime": 67200,
+        "endTime": 67340,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "记",
+        "startTime": 67340,
+        "endTime": 67528,
+        "pinyin": "jì"
+      },
+      {
+        "token": "录",
+        "startTime": 67528,
+        "endTime": 67715,
+        "pinyin": "lù"
+      },
+      {
+        "token": "下",
+        "startTime": 67715,
+        "endTime": 67875,
+        "pinyin": "xià"
+      }
+    ]
+  },
+  {
+    "sentence_text": "的 成千上万 的 建造 者 中 许多 人",
+    "translations": {
+      "en": "of recorded builders of the Qin dynasty,"
+    },
+    "segments": [
+      {
+        "token": "的",
+        "startTime": 67875,
+        "endTime": 68015,
+        "pinyin": "de"
+      },
+      {
+        "token": "成",
+        "startTime": 68015,
+        "endTime": 68370,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "千",
+        "startTime": 68370,
+        "endTime": 68725,
+        "pinyin": "qiān"
+      },
+      {
+        "token": "上",
+        "startTime": 68725,
+        "endTime": 69080,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "万",
+        "startTime": 69080,
+        "endTime": 69435,
+        "pinyin": "wàn"
+      },
+      {
+        "token": "的",
+        "startTime": 69435,
+        "endTime": 69575,
+        "pinyin": "de"
+      },
+      {
+        "token": "建",
+        "startTime": 69575,
+        "endTime": 69775,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "造",
+        "startTime": 69775,
+        "endTime": 69975,
+        "pinyin": "zào"
+      },
+      {
+        "token": "者",
+        "startTime": 69975,
+        "endTime": 70135,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "中",
+        "startTime": 70135,
+        "endTime": 70455,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "许",
+        "startTime": 70455,
+        "endTime": 70635,
+        "pinyin": "xǔ"
+      },
+      {
+        "token": "多",
+        "startTime": 70635,
+        "endTime": 70815,
+        "pinyin": "duō"
+      },
+      {
+        "token": "人",
+        "startTime": 70815,
+        "endTime": 70955,
+        "pinyin": "rén"
+      }
+    ]
+  },
+  {
+    "sentence_text": "都 是 被",
+    "translations": {
+      "en": "many were"
+    },
+    "segments": [
+      {
+        "token": "都",
+        "startTime": 70955,
+        "endTime": 71095,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "是",
+        "startTime": 71095,
+        "endTime": 71235,
+        "pinyin": "shì"
+      },
+      {
+        "token": "被",
+        "startTime": 71235,
+        "endTime": 71415,
+        "pinyin": "bèi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "强征 而 去 的 农民 另外 一些则",
+    "translations": {
+      "en": "forcibly conscripted peasants, while others were convicts"
+    },
+    "segments": [
+      {
+        "token": "强",
+        "startTime": 72075,
+        "endTime": 72225,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "征",
+        "startTime": 72225,
+        "endTime": 72375,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "而",
+        "startTime": 72375,
+        "endTime": 72655,
+        "pinyin": "ér"
+      },
+      {
+        "token": "去",
+        "startTime": 72655,
+        "endTime": 73115,
+        "pinyin": "qù"
+      },
+      {
+        "token": "的",
+        "startTime": 73115,
+        "endTime": 73255,
+        "pinyin": "de"
+      },
+      {
+        "token": "农",
+        "startTime": 73255,
+        "endTime": 73435,
+        "pinyin": "nóng"
+      },
+      {
+        "token": "民",
+        "startTime": 73435,
+        "endTime": 73615,
+        "pinyin": "mín"
+      },
+      {
+        "token": "另",
+        "startTime": 73615,
+        "endTime": 73765,
+        "pinyin": "lìng"
+      },
+      {
+        "token": "外",
+        "startTime": 73765,
+        "endTime": 73915,
+        "pinyin": "wài"
+      },
+      {
+        "token": "一",
+        "startTime": 73915,
+        "endTime": 74522,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 74522,
+        "endTime": 75128,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "则",
+        "startTime": 75128,
+        "endTime": 75735,
+        "pinyin": "zé"
+      }
+    ]
+  },
+  {
+    "sentence_text": "是 服刑 期 的 犯人 汉朝",
+    "translations": {
+      "en": "serving sentences. During the Han dynasty,"
+    },
+    "segments": [
+      {
+        "token": "是",
+        "startTime": 75735,
+        "endTime": 75935,
+        "pinyin": "shì"
+      },
+      {
+        "token": "服",
+        "startTime": 75935,
+        "endTime": 76135,
+        "pinyin": "fú"
+      },
+      {
+        "token": "刑",
+        "startTime": 76135,
+        "endTime": 76335,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "期",
+        "startTime": 76335,
+        "endTime": 76855,
+        "pinyin": "qī"
+      },
+      {
+        "token": "的",
+        "startTime": 76855,
+        "endTime": 76995,
+        "pinyin": "de"
+      },
+      {
+        "token": "犯",
+        "startTime": 76995,
+        "endTime": 77185,
+        "pinyin": "fàn"
+      },
+      {
+        "token": "人",
+        "startTime": 77185,
+        "endTime": 77375,
+        "pinyin": "rén"
+      },
+      {
+        "token": "汉",
+        "startTime": 77375,
+        "endTime": 77565,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "朝",
+        "startTime": 77565,
+        "endTime": 77755,
+        "pinyin": "cháo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "时期 长城 37 00 英里",
+    "translations": {
+      "en": "the Great Wall stretched 3,700 miles"
+    },
+    "segments": [
+      {
+        "token": "时",
+        "startTime": 78695,
+        "endTime": 78855,
+        "pinyin": "shí"
+      },
+      {
+        "token": "期",
+        "startTime": 78855,
+        "endTime": 79015,
+        "pinyin": "qī"
+      },
+      {
+        "token": "长",
+        "startTime": 79015,
+        "endTime": 79125,
+        "pinyin": "zhǎng"
+      },
+      {
+        "token": "城",
+        "startTime": 79125,
+        "endTime": 79235,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "3",
+        "startTime": 79235,
+        "endTime": 79335,
+        "pinyin": "3"
+      },
+      {
+        "token": "7",
+        "startTime": 79335,
+        "endTime": 79435,
+        "pinyin": "7"
+      },
+      {
+        "token": "0",
+        "startTime": 79435,
+        "endTime": 79685,
+        "pinyin": "0"
+      },
+      {
+        "token": "0",
+        "startTime": 79685,
+        "endTime": 79935,
+        "pinyin": "0"
+      },
+      {
+        "token": "英",
+        "startTime": 79935,
+        "endTime": 80125,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "里",
+        "startTime": 80125,
+        "endTime": 80315,
+        "pinyin": "lǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "从 敦煌 延伸 到 渤海",
+    "translations": {
+      "en": "from Dunhuang to the Bohai"
+    },
+    "segments": [
+      {
+        "token": "从",
+        "startTime": 81675,
+        "endTime": 81895,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "敦",
+        "startTime": 81895,
+        "endTime": 82095,
+        "pinyin": "dūn"
+      },
+      {
+        "token": "煌",
+        "startTime": 82095,
+        "endTime": 82295,
+        "pinyin": "huáng"
+      },
+      {
+        "token": "延",
+        "startTime": 82295,
+        "endTime": 82485,
+        "pinyin": "yán"
+      },
+      {
+        "token": "伸",
+        "startTime": 82485,
+        "endTime": 82675,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "到",
+        "startTime": 82675,
+        "endTime": 82895,
+        "pinyin": "dào"
+      },
+      {
+        "token": "渤",
+        "startTime": 82895,
+        "endTime": 83115,
+        "pinyin": "bó"
+      },
+      {
+        "token": "海",
+        "startTime": 83115,
+        "endTime": 83335,
+        "pinyin": "hǎi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "强制性 劳动 在 汉武帝 时期 持续 着",
+    "translations": {
+      "en": "Sea. Forced labor continued under Emperor Wu of"
+    },
+    "segments": [
+      {
+        "token": "强",
+        "startTime": 84255,
+        "endTime": 84448,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "制",
+        "startTime": 84448,
+        "endTime": 84642,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "性",
+        "startTime": 84642,
+        "endTime": 84835,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "劳",
+        "startTime": 84835,
+        "endTime": 84985,
+        "pinyin": "láo"
+      },
+      {
+        "token": "动",
+        "startTime": 84985,
+        "endTime": 85135,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "在",
+        "startTime": 85135,
+        "endTime": 85415,
+        "pinyin": "zài"
+      },
+      {
+        "token": "汉",
+        "startTime": 85415,
+        "endTime": 85555,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "武",
+        "startTime": 85555,
+        "endTime": 85695,
+        "pinyin": "wǔ"
+      },
+      {
+        "token": "帝",
+        "startTime": 85695,
+        "endTime": 85835,
+        "pinyin": "dì"
+      },
+      {
+        "token": "时",
+        "startTime": 85835,
+        "endTime": 86015,
+        "pinyin": "shí"
+      },
+      {
+        "token": "期",
+        "startTime": 86015,
+        "endTime": 86195,
+        "pinyin": "qī"
+      },
+      {
+        "token": "持",
+        "startTime": 86195,
+        "endTime": 86465,
+        "pinyin": "chí"
+      },
+      {
+        "token": "续",
+        "startTime": 86465,
+        "endTime": 86735,
+        "pinyin": "xù"
+      },
+      {
+        "token": "着",
+        "startTime": 86735,
+        "endTime": 86895,
+        "pinyin": "zhe"
+      }
+    ]
+  },
+  {
+    "sentence_text": "因而 城墙 被 视作 受苦 受害 之地 而",
+    "translations": {
+      "en": "Han, so the wall became notorious as a place"
+    },
+    "segments": [
+      {
+        "token": "因",
+        "startTime": 88055,
+        "endTime": 88245,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "而",
+        "startTime": 88245,
+        "endTime": 88435,
+        "pinyin": "ér"
+      },
+      {
+        "token": "城",
+        "startTime": 88435,
+        "endTime": 88615,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 88615,
+        "endTime": 88795,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "被",
+        "startTime": 88795,
+        "endTime": 89035,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "视",
+        "startTime": 89035,
+        "endTime": 89155,
+        "pinyin": "shì"
+      },
+      {
+        "token": "作",
+        "startTime": 89155,
+        "endTime": 89275,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "受",
+        "startTime": 89275,
+        "endTime": 89475,
+        "pinyin": "shòu"
+      },
+      {
+        "token": "苦",
+        "startTime": 89475,
+        "endTime": 89675,
+        "pinyin": "kǔ"
+      },
+      {
+        "token": "受",
+        "startTime": 89675,
+        "endTime": 89865,
+        "pinyin": "shòu"
+      },
+      {
+        "token": "害",
+        "startTime": 89865,
+        "endTime": 90055,
+        "pinyin": "hài"
+      },
+      {
+        "token": "之",
+        "startTime": 90055,
+        "endTime": 90205,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "地",
+        "startTime": 90205,
+        "endTime": 90355,
+        "pinyin": "dì"
+      },
+      {
+        "token": "而",
+        "startTime": 90355,
+        "endTime": 90715,
+        "pinyin": "ér"
+      }
+    ]
+  },
+  {
+    "sentence_text": "臭名昭彰",
+    "translations": {
+      "en": "of suffering."
+    },
+    "segments": [
+      {
+        "token": "臭",
+        "startTime": 90715,
+        "endTime": 90910,
+        "pinyin": "chòu"
+      },
+      {
+        "token": "名",
+        "startTime": 90910,
+        "endTime": 91105,
+        "pinyin": "míng"
+      },
+      {
+        "token": "昭",
+        "startTime": 91105,
+        "endTime": 91300,
+        "pinyin": "zhāo"
+      },
+      {
+        "token": "彰",
+        "startTime": 91300,
+        "endTime": 91495,
+        "pinyin": "zhāng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "纳伊 时期 的 诗歌 与 传说 描述 劳动者",
+    "translations": {
+      "en": "Poems and legends from the Han period describe laborers"
+    },
+    "segments": [
+      {
+        "token": "纳",
+        "startTime": 93395,
+        "endTime": 93535,
+        "pinyin": "nà"
+      },
+      {
+        "token": "伊",
+        "startTime": 93535,
+        "endTime": 93675,
+        "pinyin": "yī"
+      },
+      {
+        "token": "时",
+        "startTime": 93675,
+        "endTime": 93825,
+        "pinyin": "shí"
+      },
+      {
+        "token": "期",
+        "startTime": 93825,
+        "endTime": 93975,
+        "pinyin": "qī"
+      },
+      {
+        "token": "的",
+        "startTime": 93975,
+        "endTime": 94115,
+        "pinyin": "de"
+      },
+      {
+        "token": "诗",
+        "startTime": 94115,
+        "endTime": 94305,
+        "pinyin": "shī"
+      },
+      {
+        "token": "歌",
+        "startTime": 94305,
+        "endTime": 94495,
+        "pinyin": "gē"
+      },
+      {
+        "token": "与",
+        "startTime": 94495,
+        "endTime": 94755,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "传",
+        "startTime": 94755,
+        "endTime": 95195,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "说",
+        "startTime": 95195,
+        "endTime": 95635,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "描",
+        "startTime": 95635,
+        "endTime": 95795,
+        "pinyin": "miáo"
+      },
+      {
+        "token": "述",
+        "startTime": 95795,
+        "endTime": 95955,
+        "pinyin": "shù"
+      },
+      {
+        "token": "劳",
+        "startTime": 95955,
+        "endTime": 96135,
+        "pinyin": "láo"
+      },
+      {
+        "token": "动",
+        "startTime": 96135,
+        "endTime": 96315,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "者",
+        "startTime": 96315,
+        "endTime": 96495,
+        "pinyin": "zhě"
+      }
+    ]
+  },
+  {
+    "sentence_text": "被 掩埋 于 附近 大规模 墓地 甚至 是",
+    "translations": {
+      "en": "being buried in nearby mass graves or even within"
+    },
+    "segments": [
+      {
+        "token": "被",
+        "startTime": 96495,
+        "endTime": 96875,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "掩",
+        "startTime": 96875,
+        "endTime": 97025,
+        "pinyin": "yǎn"
+      },
+      {
+        "token": "埋",
+        "startTime": 97025,
+        "endTime": 97175,
+        "pinyin": "mái"
+      },
+      {
+        "token": "于",
+        "startTime": 97175,
+        "endTime": 97395,
+        "pinyin": "yú"
+      },
+      {
+        "token": "附",
+        "startTime": 97395,
+        "endTime": 97565,
+        "pinyin": "fù"
+      },
+      {
+        "token": "近",
+        "startTime": 97565,
+        "endTime": 97735,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "大",
+        "startTime": 97735,
+        "endTime": 97928,
+        "pinyin": "dà"
+      },
+      {
+        "token": "规",
+        "startTime": 97928,
+        "endTime": 98122,
+        "pinyin": "guī"
+      },
+      {
+        "token": "模",
+        "startTime": 98122,
+        "endTime": 98315,
+        "pinyin": "mó"
+      },
+      {
+        "token": "墓",
+        "startTime": 98315,
+        "endTime": 98785,
+        "pinyin": "mù"
+      },
+      {
+        "token": "地",
+        "startTime": 98785,
+        "endTime": 99255,
+        "pinyin": "dì"
+      },
+      {
+        "token": "甚",
+        "startTime": 99255,
+        "endTime": 99415,
+        "pinyin": "shèn"
+      },
+      {
+        "token": "至",
+        "startTime": 99415,
+        "endTime": 99575,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "是",
+        "startTime": 99575,
+        "endTime": 99775,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "城墙 之内 然而 城墙 内 并未 发现 人类",
+    "translations": {
+      "en": "the wall itself. However, no human remains have been found"
+    },
+    "segments": [
+      {
+        "token": "城",
+        "startTime": 99775,
+        "endTime": 99965,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 99965,
+        "endTime": 100155,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "之",
+        "startTime": 100155,
+        "endTime": 100635,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "内",
+        "startTime": 100635,
+        "endTime": 101115,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "然",
+        "startTime": 101115,
+        "endTime": 101265,
+        "pinyin": "rán"
+      },
+      {
+        "token": "而",
+        "startTime": 101265,
+        "endTime": 101415,
+        "pinyin": "ér"
+      },
+      {
+        "token": "城",
+        "startTime": 101415,
+        "endTime": 101585,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 101585,
+        "endTime": 101755,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "内",
+        "startTime": 101755,
+        "endTime": 102015,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "并",
+        "startTime": 102015,
+        "endTime": 102195,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "未",
+        "startTime": 102195,
+        "endTime": 102375,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "发",
+        "startTime": 102375,
+        "endTime": 102565,
+        "pinyin": "fā"
+      },
+      {
+        "token": "现",
+        "startTime": 102565,
+        "endTime": 102755,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "人",
+        "startTime": 102755,
+        "endTime": 102935,
+        "pinyin": "rén"
+      },
+      {
+        "token": "类",
+        "startTime": 102935,
+        "endTime": 103115,
+        "pinyin": "lèi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "尸骸 木坑 表明 那些 劳动者 大多 死 于",
+    "translations": {
+      "en": "inside the wall; wooden coffins suggest that most laborers died"
+    },
+    "segments": [
+      {
+        "token": "尸",
+        "startTime": 103115,
+        "endTime": 103345,
+        "pinyin": "shī"
+      },
+      {
+        "token": "骸",
+        "startTime": 103345,
+        "endTime": 103575,
+        "pinyin": "hái"
+      },
+      {
+        "token": "木",
+        "startTime": 103575,
+        "endTime": 104105,
+        "pinyin": "mù"
+      },
+      {
+        "token": "坑",
+        "startTime": 104105,
+        "endTime": 104635,
+        "pinyin": "kēng"
+      },
+      {
+        "token": "表",
+        "startTime": 104635,
+        "endTime": 104785,
+        "pinyin": "biǎo"
+      },
+      {
+        "token": "明",
+        "startTime": 104785,
+        "endTime": 104935,
+        "pinyin": "míng"
+      },
+      {
+        "token": "那",
+        "startTime": 104935,
+        "endTime": 105085,
+        "pinyin": "nà"
+      },
+      {
+        "token": "些",
+        "startTime": 105085,
+        "endTime": 105235,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "劳",
+        "startTime": 105235,
+        "endTime": 105388,
+        "pinyin": "láo"
+      },
+      {
+        "token": "动",
+        "startTime": 105388,
+        "endTime": 105542,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "者",
+        "startTime": 105542,
+        "endTime": 105695,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "大",
+        "startTime": 105695,
+        "endTime": 105895,
+        "pinyin": "dà"
+      },
+      {
+        "token": "多",
+        "startTime": 105895,
+        "endTime": 106095,
+        "pinyin": "duō"
+      },
+      {
+        "token": "死",
+        "startTime": 106095,
+        "endTime": 106355,
+        "pinyin": "sǐ"
+      },
+      {
+        "token": "于",
+        "startTime": 106355,
+        "endTime": 106495,
+        "pinyin": "yú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "意外 饥饿 与 疲劳",
+    "translations": {
+      "en": "from accidents, hunger, and exhaustion."
+    },
+    "segments": [
+      {
+        "token": "意",
+        "startTime": 106495,
+        "endTime": 106875,
+        "pinyin": "yì"
+      },
+      {
+        "token": "外",
+        "startTime": 106875,
+        "endTime": 107255,
+        "pinyin": "wài"
+      },
+      {
+        "token": "饥",
+        "startTime": 107255,
+        "endTime": 107465,
+        "pinyin": "jī"
+      },
+      {
+        "token": "饿",
+        "startTime": 107465,
+        "endTime": 107675,
+        "pinyin": "è"
+      },
+      {
+        "token": "与",
+        "startTime": 107675,
+        "endTime": 107995,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "疲",
+        "startTime": 107995,
+        "endTime": 108235,
+        "pinyin": "pí"
+      },
+      {
+        "token": "劳",
+        "startTime": 108235,
+        "endTime": 108475,
+        "pinyin": "láo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "长城 令人生畏 却 非 不可 战胜",
+    "translations": {
+      "en": "The Great Wall was formidable but not invincible."
+    },
+    "segments": [
+      {
+        "token": "长",
+        "startTime": 109455,
+        "endTime": 109695,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 109695,
+        "endTime": 109935,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "令",
+        "startTime": 109935,
+        "endTime": 110240,
+        "pinyin": "lìng"
+      },
+      {
+        "token": "人",
+        "startTime": 110240,
+        "endTime": 110545,
+        "pinyin": "rén"
+      },
+      {
+        "token": "生",
+        "startTime": 110545,
+        "endTime": 110850,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "畏",
+        "startTime": 110850,
+        "endTime": 111155,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "却",
+        "startTime": 111155,
+        "endTime": 111295,
+        "pinyin": "què"
+      },
+      {
+        "token": "非",
+        "startTime": 111295,
+        "endTime": 111435,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "不",
+        "startTime": 111435,
+        "endTime": 111605,
+        "pinyin": "bù"
+      },
+      {
+        "token": "可",
+        "startTime": 111605,
+        "endTime": 111775,
+        "pinyin": "kě"
+      },
+      {
+        "token": "战",
+        "startTime": 111775,
+        "endTime": 111975,
+        "pinyin": "zhàn"
+      },
+      {
+        "token": "胜",
+        "startTime": 111975,
+        "endTime": 112175,
+        "pinyin": "shèng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "成吉思汗 和 他 的 儿子 忽必烈 曾于 十三",
+    "translations": {
+      "en": "Genghis Khan and his son Kublai Khan managed to breach it"
+    },
+    "segments": [
+      {
+        "token": "成",
+        "startTime": 112815,
+        "endTime": 112960,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "吉",
+        "startTime": 112960,
+        "endTime": 113105,
+        "pinyin": "jí"
+      },
+      {
+        "token": "思",
+        "startTime": 113105,
+        "endTime": 113250,
+        "pinyin": "sī"
+      },
+      {
+        "token": "汗",
+        "startTime": 113250,
+        "endTime": 113395,
+        "pinyin": "hán"
+      },
+      {
+        "token": "和",
+        "startTime": 113395,
+        "endTime": 113595,
+        "pinyin": "hé"
+      },
+      {
+        "token": "他",
+        "startTime": 113595,
+        "endTime": 113835,
+        "pinyin": "tā"
+      },
+      {
+        "token": "的",
+        "startTime": 113835,
+        "endTime": 114015,
+        "pinyin": "de"
+      },
+      {
+        "token": "儿",
+        "startTime": 114015,
+        "endTime": 114165,
+        "pinyin": "ér"
+      },
+      {
+        "token": "子",
+        "startTime": 114165,
+        "endTime": 114315,
+        "pinyin": "zi"
+      },
+      {
+        "token": "忽",
+        "startTime": 114315,
+        "endTime": 114655,
+        "pinyin": "hū"
+      },
+      {
+        "token": "必",
+        "startTime": 114655,
+        "endTime": 114995,
+        "pinyin": "bì"
+      },
+      {
+        "token": "烈",
+        "startTime": 114995,
+        "endTime": 115335,
+        "pinyin": "liè"
+      },
+      {
+        "token": "曾",
+        "startTime": 115335,
+        "endTime": 115475,
+        "pinyin": "céng"
+      },
+      {
+        "token": "于",
+        "startTime": 115475,
+        "endTime": 115615,
+        "pinyin": "yú"
+      },
+      {
+        "token": "十",
+        "startTime": 115615,
+        "endTime": 115755,
+        "pinyin": "shí"
+      },
+      {
+        "token": "三",
+        "startTime": 115755,
+        "endTime": 115895,
+        "pinyin": "sān"
+      }
+    ]
+  },
+  {
+    "sentence_text": "世纪 蒙古 侵入 之际 设法 攻克 城墙",
+    "translations": {
+      "en": "during the Mongol invasion in the 13th century. After"
+    },
+    "segments": [
+      {
+        "token": "世",
+        "startTime": 115895,
+        "endTime": 116035,
+        "pinyin": "shì"
+      },
+      {
+        "token": "纪",
+        "startTime": 116035,
+        "endTime": 116175,
+        "pinyin": "jì"
+      },
+      {
+        "token": "蒙",
+        "startTime": 116175,
+        "endTime": 116405,
+        "pinyin": "méng"
+      },
+      {
+        "token": "古",
+        "startTime": 116405,
+        "endTime": 116635,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "侵",
+        "startTime": 116635,
+        "endTime": 116805,
+        "pinyin": "qīn"
+      },
+      {
+        "token": "入",
+        "startTime": 116805,
+        "endTime": 116975,
+        "pinyin": "rù"
+      },
+      {
+        "token": "之",
+        "startTime": 116975,
+        "endTime": 117275,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "际",
+        "startTime": 117275,
+        "endTime": 117575,
+        "pinyin": "jì"
+      },
+      {
+        "token": "设",
+        "startTime": 117575,
+        "endTime": 117755,
+        "pinyin": "shè"
+      },
+      {
+        "token": "法",
+        "startTime": 117755,
+        "endTime": 117935,
+        "pinyin": "fǎ"
+      },
+      {
+        "token": "攻",
+        "startTime": 117935,
+        "endTime": 118195,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "克",
+        "startTime": 118195,
+        "endTime": 118455,
+        "pinyin": "kè"
+      },
+      {
+        "token": "城",
+        "startTime": 118455,
+        "endTime": 119425,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 119425,
+        "endTime": 120395,
+        "pinyin": "qiáng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "13 68 年 明朝 执政 之后 他们 开始",
+    "translations": {
+      "en": "the Ming dynasty came to power in 1368, they began"
+    },
+    "segments": [
+      {
+        "token": "1",
+        "startTime": 120395,
+        "endTime": 120525,
+        "pinyin": "1"
+      },
+      {
+        "token": "3",
+        "startTime": 120525,
+        "endTime": 120655,
+        "pinyin": "3"
+      },
+      {
+        "token": "6",
+        "startTime": 120655,
+        "endTime": 120785,
+        "pinyin": "6"
+      },
+      {
+        "token": "8",
+        "startTime": 120785,
+        "endTime": 120915,
+        "pinyin": "8"
+      },
+      {
+        "token": "年",
+        "startTime": 120915,
+        "endTime": 121415,
+        "pinyin": "nián"
+      },
+      {
+        "token": "明",
+        "startTime": 121415,
+        "endTime": 121795,
+        "pinyin": "míng"
+      },
+      {
+        "token": "朝",
+        "startTime": 121795,
+        "endTime": 122175,
+        "pinyin": "cháo"
+      },
+      {
+        "token": "执",
+        "startTime": 122175,
+        "endTime": 122335,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "政",
+        "startTime": 122335,
+        "endTime": 122495,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "之",
+        "startTime": 122495,
+        "endTime": 122565,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "后",
+        "startTime": 122565,
+        "endTime": 122635,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "他",
+        "startTime": 122635,
+        "endTime": 123045,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 123045,
+        "endTime": 123455,
+        "pinyin": "men"
+      },
+      {
+        "token": "开",
+        "startTime": 123455,
+        "endTime": 123585,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 123585,
+        "endTime": 123715,
+        "pinyin": "shǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "使用 当地 窑 中 烧制 而成 的 砖",
+    "translations": {
+      "en": "to reinforce and strengthen the wall using"
+    },
+    "segments": [
+      {
+        "token": "使",
+        "startTime": 123715,
+        "endTime": 123905,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "用",
+        "startTime": 123905,
+        "endTime": 124095,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "当",
+        "startTime": 124095,
+        "endTime": 124315,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "地",
+        "startTime": 124315,
+        "endTime": 124535,
+        "pinyin": "dì"
+      },
+      {
+        "token": "窑",
+        "startTime": 124535,
+        "endTime": 124675,
+        "pinyin": "yáo"
+      },
+      {
+        "token": "中",
+        "startTime": 124675,
+        "endTime": 124915,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "烧",
+        "startTime": 124915,
+        "endTime": 125145,
+        "pinyin": "shāo"
+      },
+      {
+        "token": "制",
+        "startTime": 125145,
+        "endTime": 125375,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "而",
+        "startTime": 125375,
+        "endTime": 125515,
+        "pinyin": "ér"
+      },
+      {
+        "token": "成",
+        "startTime": 125515,
+        "endTime": 125655,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "的",
+        "startTime": 125655,
+        "endTime": 125835,
+        "pinyin": "de"
+      },
+      {
+        "token": "砖",
+        "startTime": 125835,
+        "endTime": 126075,
+        "pinyin": "zhuān"
+      }
+    ]
+  },
+  {
+    "sentence_text": "与 石头 重新 强化 和 加固 长城",
+    "translations": {
+      "en": "bricks and stones fired in local kilns."
+    },
+    "segments": [
+      {
+        "token": "与",
+        "startTime": 126075,
+        "endTime": 126295,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "石",
+        "startTime": 126295,
+        "endTime": 126795,
+        "pinyin": "shí"
+      },
+      {
+        "token": "头",
+        "startTime": 126795,
+        "endTime": 127295,
+        "pinyin": "tou"
+      },
+      {
+        "token": "重",
+        "startTime": 127295,
+        "endTime": 127515,
+        "pinyin": "chóng"
+      },
+      {
+        "token": "新",
+        "startTime": 127515,
+        "endTime": 127735,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "强",
+        "startTime": 127735,
+        "endTime": 127975,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "化",
+        "startTime": 127975,
+        "endTime": 128215,
+        "pinyin": "huà"
+      },
+      {
+        "token": "和",
+        "startTime": 128215,
+        "endTime": 128495,
+        "pinyin": "hé"
+      },
+      {
+        "token": "加",
+        "startTime": 128495,
+        "endTime": 128675,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "固",
+        "startTime": 128675,
+        "endTime": 128855,
+        "pinyin": "gù"
+      },
+      {
+        "token": "长",
+        "startTime": 128855,
+        "endTime": 129065,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 129065,
+        "endTime": 129275,
+        "pinyin": "chéng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "长城 平均 高 七米 宽 六米",
+    "translations": {
+      "en": "The Great Wall averages seven"
+    },
+    "segments": [
+      {
+        "token": "长",
+        "startTime": 130555,
+        "endTime": 130805,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 130805,
+        "endTime": 131055,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "平",
+        "startTime": 131055,
+        "endTime": 131335,
+        "pinyin": "píng"
+      },
+      {
+        "token": "均",
+        "startTime": 131335,
+        "endTime": 131615,
+        "pinyin": "jūn"
+      },
+      {
+        "token": "高",
+        "startTime": 131615,
+        "endTime": 131835,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "七",
+        "startTime": 131835,
+        "endTime": 132065,
+        "pinyin": "qī"
+      },
+      {
+        "token": "米",
+        "startTime": 132065,
+        "endTime": 132295,
+        "pinyin": "mǐ"
+      },
+      {
+        "token": "宽",
+        "startTime": 132295,
+        "endTime": 132795,
+        "pinyin": "kuān"
+      },
+      {
+        "token": "六",
+        "startTime": 132795,
+        "endTime": 133045,
+        "pinyin": "liù"
+      },
+      {
+        "token": "米",
+        "startTime": 133045,
+        "endTime": 133295,
+        "pinyin": "mǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "五千 五百 英里 的 城墙 中 间隔 着",
+    "translations": {
+      "en": "meters high and six meters wide, with watchtowers"
+    },
+    "segments": [
+      {
+        "token": "五",
+        "startTime": 134075,
+        "endTime": 134265,
+        "pinyin": "wǔ"
+      },
+      {
+        "token": "千",
+        "startTime": 134265,
+        "endTime": 134455,
+        "pinyin": "qiān"
+      },
+      {
+        "token": "五",
+        "startTime": 134455,
+        "endTime": 134575,
+        "pinyin": "wǔ"
+      },
+      {
+        "token": "百",
+        "startTime": 134575,
+        "endTime": 134695,
+        "pinyin": "bǎi"
+      },
+      {
+        "token": "英",
+        "startTime": 134695,
+        "endTime": 134865,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "里",
+        "startTime": 134865,
+        "endTime": 135035,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 135035,
+        "endTime": 135235,
+        "pinyin": "de"
+      },
+      {
+        "token": "城",
+        "startTime": 135235,
+        "endTime": 135395,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 135395,
+        "endTime": 135555,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "中",
+        "startTime": 135555,
+        "endTime": 135835,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "间",
+        "startTime": 135835,
+        "endTime": 136323,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "隔",
+        "startTime": 136323,
+        "endTime": 136810,
+        "pinyin": "gé"
+      },
+      {
+        "token": "着",
+        "startTime": 136810,
+        "endTime": 136970,
+        "pinyin": "zhe"
+      }
+    ]
+  },
+  {
+    "sentence_text": "瞭望台",
+    "translations": {
+      "en": "spaced along"
+    },
+    "segments": [
+      {
+        "token": "瞭",
+        "startTime": 136970,
+        "endTime": 137143,
+        "pinyin": "liào"
+      },
+      {
+        "token": "望",
+        "startTime": 137143,
+        "endTime": 137317,
+        "pinyin": "wàng"
+      },
+      {
+        "token": "台",
+        "startTime": 137317,
+        "endTime": 137490,
+        "pinyin": "tái"
+      }
+    ]
+  },
+  {
+    "sentence_text": "一旦 看到 有 侵入 者 瞭望台 之间 便会",
+    "translations": {
+      "en": "its 5,500-mile length. When invaders were spotted, signals"
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 138370,
+        "endTime": 138500,
+        "pinyin": "yí"
+      },
+      {
+        "token": "旦",
+        "startTime": 138500,
+        "endTime": 138630,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "看",
+        "startTime": 138630,
+        "endTime": 138760,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "到",
+        "startTime": 138760,
+        "endTime": 138890,
+        "pinyin": "dào"
+      },
+      {
+        "token": "有",
+        "startTime": 138890,
+        "endTime": 139170,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "侵",
+        "startTime": 139170,
+        "endTime": 139320,
+        "pinyin": "qīn"
+      },
+      {
+        "token": "入",
+        "startTime": 139320,
+        "endTime": 139470,
+        "pinyin": "rù"
+      },
+      {
+        "token": "者",
+        "startTime": 139470,
+        "endTime": 139730,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "瞭",
+        "startTime": 139730,
+        "endTime": 139917,
+        "pinyin": "liào"
+      },
+      {
+        "token": "望",
+        "startTime": 139917,
+        "endTime": 140103,
+        "pinyin": "wàng"
+      },
+      {
+        "token": "台",
+        "startTime": 140103,
+        "endTime": 140290,
+        "pinyin": "tái"
+      },
+      {
+        "token": "之",
+        "startTime": 140290,
+        "endTime": 140290,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 140290,
+        "endTime": 140290,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "便",
+        "startTime": 140290,
+        "endTime": 140730,
+        "pinyin": "biàn"
+      },
+      {
+        "token": "会",
+        "startTime": 140730,
+        "endTime": 141170,
+        "pinyin": "huì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "以 升起 的 狼烟 与 蜂火 传递 信号",
+    "translations": {
+      "en": "were relayed between watchtowers using smoke and fire"
+    },
+    "segments": [
+      {
+        "token": "以",
+        "startTime": 141170,
+        "endTime": 141310,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "升",
+        "startTime": 141310,
+        "endTime": 141520,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "起",
+        "startTime": 141520,
+        "endTime": 141730,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 141730,
+        "endTime": 141890,
+        "pinyin": "de"
+      },
+      {
+        "token": "狼",
+        "startTime": 141890,
+        "endTime": 142070,
+        "pinyin": "láng"
+      },
+      {
+        "token": "烟",
+        "startTime": 142070,
+        "endTime": 142250,
+        "pinyin": "yān"
+      },
+      {
+        "token": "与",
+        "startTime": 142250,
+        "endTime": 142510,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "蜂",
+        "startTime": 142510,
+        "endTime": 142520,
+        "pinyin": "fēng"
+      },
+      {
+        "token": "火",
+        "startTime": 142520,
+        "endTime": 142530,
+        "pinyin": "huǒ"
+      },
+      {
+        "token": "传",
+        "startTime": 142530,
+        "endTime": 143020,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "递",
+        "startTime": 143020,
+        "endTime": 143510,
+        "pinyin": "dì"
+      },
+      {
+        "token": "信",
+        "startTime": 143510,
+        "endTime": 143690,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "号",
+        "startTime": 143690,
+        "endTime": 143870,
+        "pinyin": "hào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "直到 援兵 抵达",
+    "translations": {
+      "en": "until reinforcements arrived."
+    },
+    "segments": [
+      {
+        "token": "直",
+        "startTime": 143950,
+        "endTime": 144190,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "到",
+        "startTime": 144190,
+        "endTime": 144430,
+        "pinyin": "dào"
+      },
+      {
+        "token": "援",
+        "startTime": 144430,
+        "endTime": 144620,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "兵",
+        "startTime": 144620,
+        "endTime": 144810,
+        "pinyin": "bīng"
+      },
+      {
+        "token": "抵",
+        "startTime": 144810,
+        "endTime": 145060,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "达",
+        "startTime": 145060,
+        "endTime": 145310,
+        "pinyin": "dá"
+      }
+    ]
+  },
+  {
+    "sentence_text": "城墙 上 的 小孔 让 弓箭手 能够 射击",
+    "translations": {
+      "en": "Small holes in the wall allowed archers to shoot"
+    },
+    "segments": [
+      {
+        "token": "城",
+        "startTime": 146250,
+        "endTime": 146420,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 146420,
+        "endTime": 146590,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "上",
+        "startTime": 146590,
+        "endTime": 146790,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "的",
+        "startTime": 146790,
+        "endTime": 146930,
+        "pinyin": "de"
+      },
+      {
+        "token": "小",
+        "startTime": 146930,
+        "endTime": 147150,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "孔",
+        "startTime": 147150,
+        "endTime": 147370,
+        "pinyin": "kǒng"
+      },
+      {
+        "token": "让",
+        "startTime": 147370,
+        "endTime": 147670,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "弓",
+        "startTime": 147670,
+        "endTime": 147850,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "箭",
+        "startTime": 147850,
+        "endTime": 148030,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "手",
+        "startTime": 148030,
+        "endTime": 148210,
+        "pinyin": "shǒu"
+      },
+      {
+        "token": "能",
+        "startTime": 148210,
+        "endTime": 148370,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 148370,
+        "endTime": 148530,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "射",
+        "startTime": 148530,
+        "endTime": 148720,
+        "pinyin": "shè"
+      },
+      {
+        "token": "击",
+        "startTime": 148720,
+        "endTime": 148910,
+        "pinyin": "jī"
+      }
+    ]
+  },
+  {
+    "sentence_text": "侵入 者 而 大孔 则 用于 投掷 石头",
+    "translations": {
+      "en": "at invaders, while larger holes were used"
+    },
+    "segments": [
+      {
+        "token": "侵",
+        "startTime": 148910,
+        "endTime": 149110,
+        "pinyin": "qīn"
+      },
+      {
+        "token": "入",
+        "startTime": 149110,
+        "endTime": 149310,
+        "pinyin": "rù"
+      },
+      {
+        "token": "者",
+        "startTime": 149310,
+        "endTime": 149850,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "而",
+        "startTime": 149850,
+        "endTime": 150010,
+        "pinyin": "ér"
+      },
+      {
+        "token": "大",
+        "startTime": 150010,
+        "endTime": 150180,
+        "pinyin": "dà"
+      },
+      {
+        "token": "孔",
+        "startTime": 150180,
+        "endTime": 150350,
+        "pinyin": "kǒng"
+      },
+      {
+        "token": "则",
+        "startTime": 150350,
+        "endTime": 150570,
+        "pinyin": "zé"
+      },
+      {
+        "token": "用",
+        "startTime": 150570,
+        "endTime": 150710,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "于",
+        "startTime": 150710,
+        "endTime": 150850,
+        "pinyin": "yú"
+      },
+      {
+        "token": "投",
+        "startTime": 150850,
+        "endTime": 151020,
+        "pinyin": "tóu"
+      },
+      {
+        "token": "掷",
+        "startTime": 151020,
+        "endTime": 151190,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "石",
+        "startTime": 151190,
+        "endTime": 151190,
+        "pinyin": "shí"
+      },
+      {
+        "token": "头",
+        "startTime": 151190,
+        "endTime": 151190,
+        "pinyin": "tou"
+      },
+      {
+        "token": "或",
+        "startTime": 151190,
+        "endTime": 151380,
+        "pinyin": "huò"
+      },
+      {
+        "token": "者",
+        "startTime": 151380,
+        "endTime": 151570,
+        "pinyin": "zhě"
+      }
+    ]
+  },
+  {
+    "sentence_text": "或者 其他 东西 但 即便 是 这种 全新",
+    "translations": {
+      "en": "to drop stones or other objects. But even this"
+    },
+    "segments": [
+      {
+        "token": "石",
+        "startTime": 151190,
+        "endTime": 151190,
+        "pinyin": "shí"
+      },
+      {
+        "token": "头",
+        "startTime": 151190,
+        "endTime": 151190,
+        "pinyin": "tou"
+      },
+      {
+        "token": "或",
+        "startTime": 151190,
+        "endTime": 151540,
+        "pinyin": "huò"
+      },
+      {
+        "token": "者",
+        "startTime": 151540,
+        "endTime": 151890,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "其",
+        "startTime": 151890,
+        "endTime": 152070,
+        "pinyin": "qí"
+      },
+      {
+        "token": "他",
+        "startTime": 152070,
+        "endTime": 152250,
+        "pinyin": "tā"
+      },
+      {
+        "token": "东",
+        "startTime": 152250,
+        "endTime": 152250,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "西",
+        "startTime": 152250,
+        "endTime": 152250,
+        "pinyin": "xī"
+      },
+      {
+        "token": "但",
+        "startTime": 152250,
+        "endTime": 153050,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "即",
+        "startTime": 153050,
+        "endTime": 153240,
+        "pinyin": "jí"
+      },
+      {
+        "token": "便",
+        "startTime": 153240,
+        "endTime": 153430,
+        "pinyin": "biàn"
+      },
+      {
+        "token": "是",
+        "startTime": 153430,
+        "endTime": 153590,
+        "pinyin": "shì"
+      },
+      {
+        "token": "这",
+        "startTime": 153590,
+        "endTime": 153590,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 153590,
+        "endTime": 153590,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "全",
+        "startTime": 153590,
+        "endTime": 153950,
+        "pinyin": "quán"
+      },
+      {
+        "token": "新",
+        "startTime": 153950,
+        "endTime": 154310,
+        "pinyin": "xīn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "改进 国 的 城墙 仍然 不够 好 16",
+    "translations": {
+      "en": "newly improved wall was not enough. In 1644,"
+    },
+    "segments": [
+      {
+        "token": "改",
+        "startTime": 154310,
+        "endTime": 154500,
+        "pinyin": "gǎi"
+      },
+      {
+        "token": "进",
+        "startTime": 154500,
+        "endTime": 154690,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "国",
+        "startTime": 154690,
+        "endTime": 154830,
+        "pinyin": "guó"
+      },
+      {
+        "token": "的",
+        "startTime": 154830,
+        "endTime": 154950,
+        "pinyin": "de"
+      },
+      {
+        "token": "城",
+        "startTime": 154950,
+        "endTime": 154950,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 154950,
+        "endTime": 154950,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "仍",
+        "startTime": 154950,
+        "endTime": 155400,
+        "pinyin": "réng"
+      },
+      {
+        "token": "然",
+        "startTime": 155400,
+        "endTime": 155850,
+        "pinyin": "rán"
+      },
+      {
+        "token": "不",
+        "startTime": 155850,
+        "endTime": 156020,
+        "pinyin": "bù"
+      },
+      {
+        "token": "够",
+        "startTime": 156020,
+        "endTime": 156190,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "好",
+        "startTime": 156190,
+        "endTime": 156730,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "1",
+        "startTime": 156730,
+        "endTime": 156860,
+        "pinyin": "1"
+      },
+      {
+        "token": "6",
+        "startTime": 156860,
+        "endTime": 156990,
+        "pinyin": "6"
+      }
+    ]
+  },
+  {
+    "sentence_text": "44 年",
+    "translations": {
+      "en": "the northern"
+    },
+    "segments": [
+      {
+        "token": "4",
+        "startTime": 156990,
+        "endTime": 157150,
+        "pinyin": "4"
+      },
+      {
+        "token": "4",
+        "startTime": 157150,
+        "endTime": 157310,
+        "pinyin": "4"
+      },
+      {
+        "token": "年",
+        "startTime": 157310,
+        "endTime": 157630,
+        "pinyin": "nián"
+      }
+    ]
+  },
+  {
+    "sentence_text": "北方 满族 推翻 明朝",
+    "translations": {
+      "en": "Manchus overthrew the Ming dynasty,"
+    },
+    "segments": [
+      {
+        "token": "北",
+        "startTime": 158630,
+        "endTime": 158820,
+        "pinyin": "běi"
+      },
+      {
+        "token": "方",
+        "startTime": 158820,
+        "endTime": 159010,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "满",
+        "startTime": 159010,
+        "endTime": 159190,
+        "pinyin": "mǎn"
+      },
+      {
+        "token": "族",
+        "startTime": 159190,
+        "endTime": 159370,
+        "pinyin": "zú"
+      },
+      {
+        "token": "推",
+        "startTime": 159370,
+        "endTime": 159570,
+        "pinyin": "tuī"
+      },
+      {
+        "token": "翻",
+        "startTime": 159570,
+        "endTime": 159770,
+        "pinyin": "fān"
+      },
+      {
+        "token": "明",
+        "startTime": 159770,
+        "endTime": 159970,
+        "pinyin": "míng"
+      },
+      {
+        "token": "朝",
+        "startTime": 159970,
+        "endTime": 160170,
+        "pinyin": "cháo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "建立 起 清朝",
+    "translations": {
+      "en": "established the Qing"
+    },
+    "segments": [
+      {
+        "token": "建",
+        "startTime": 161170,
+        "endTime": 161310,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "立",
+        "startTime": 161310,
+        "endTime": 161450,
+        "pinyin": "lì"
+      },
+      {
+        "token": "起",
+        "startTime": 161450,
+        "endTime": 161610,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "清",
+        "startTime": 161610,
+        "endTime": 161850,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "朝",
+        "startTime": 161850,
+        "endTime": 162090,
+        "pinyin": "cháo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "同时 合并 了 蒙古",
+    "translations": {
+      "en": "dynasty, and annexed Mongolia."
+    },
+    "segments": [
+      {
+        "token": "同",
+        "startTime": 163650,
+        "endTime": 163860,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "时",
+        "startTime": 163860,
+        "endTime": 164070,
+        "pinyin": "shí"
+      },
+      {
+        "token": "合",
+        "startTime": 164070,
+        "endTime": 164260,
+        "pinyin": "hé"
+      },
+      {
+        "token": "并",
+        "startTime": 164260,
+        "endTime": 164450,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "了",
+        "startTime": 164450,
+        "endTime": 164610,
+        "pinyin": "le"
+      },
+      {
+        "token": "蒙",
+        "startTime": 164610,
+        "endTime": 164790,
+        "pinyin": "méng"
+      },
+      {
+        "token": "古",
+        "startTime": 164790,
+        "endTime": 164970,
+        "pinyin": "gǔ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "因此 这是 第二次 中国 被 原想 以 城墙",
+    "translations": {
+      "en": "Thus, for the second time, China was ruled by the"
+    },
+    "segments": [
+      {
+        "token": "因",
+        "startTime": 166050,
+        "endTime": 166220,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "此",
+        "startTime": 166220,
+        "endTime": 166390,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "这",
+        "startTime": 166390,
+        "endTime": 166620,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "是",
+        "startTime": 166620,
+        "endTime": 166850,
+        "pinyin": "shì"
+      },
+      {
+        "token": "第",
+        "startTime": 166850,
+        "endTime": 167150,
+        "pinyin": "dì"
+      },
+      {
+        "token": "二",
+        "startTime": 167150,
+        "endTime": 167450,
+        "pinyin": "èr"
+      },
+      {
+        "token": "次",
+        "startTime": 167450,
+        "endTime": 167750,
+        "pinyin": "cì"
+      },
+      {
+        "token": "中",
+        "startTime": 167750,
+        "endTime": 167860,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 167860,
+        "endTime": 167970,
+        "pinyin": "guó"
+      },
+      {
+        "token": "被",
+        "startTime": 167970,
+        "endTime": 168230,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "原",
+        "startTime": 168230,
+        "endTime": 168420,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "想",
+        "startTime": 168420,
+        "endTime": 168610,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "以",
+        "startTime": 168610,
+        "endTime": 168810,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "城",
+        "startTime": 168810,
+        "endTime": 169000,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 169000,
+        "endTime": 169190,
+        "pinyin": "qiáng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "抵御 的 外族 统治",
+    "translations": {
+      "en": "very outsiders the wall was"
+    },
+    "segments": [
+      {
+        "token": "抵",
+        "startTime": 169190,
+        "endTime": 169340,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "御",
+        "startTime": 169340,
+        "endTime": 169490,
+        "pinyin": "yù"
+      },
+      {
+        "token": "的",
+        "startTime": 169490,
+        "endTime": 169650,
+        "pinyin": "de"
+      },
+      {
+        "token": "外",
+        "startTime": 169650,
+        "endTime": 169820,
+        "pinyin": "wài"
+      },
+      {
+        "token": "族",
+        "startTime": 169820,
+        "endTime": 169990,
+        "pinyin": "zú"
+      },
+      {
+        "token": "统",
+        "startTime": 169990,
+        "endTime": 170200,
+        "pinyin": "tǒng"
+      },
+      {
+        "token": "治",
+        "startTime": 170200,
+        "endTime": 170410,
+        "pinyin": "zhì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "随着 帝国 的 边界 扩展 到 长城 以外",
+    "translations": {
+      "en": "meant to keep out. As the empire's borders expanded"
+    },
+    "segments": [
+      {
+        "token": "随",
+        "startTime": 171610,
+        "endTime": 171760,
+        "pinyin": "suí"
+      },
+      {
+        "token": "着",
+        "startTime": 171760,
+        "endTime": 171910,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "帝",
+        "startTime": 171910,
+        "endTime": 172050,
+        "pinyin": "dì"
+      },
+      {
+        "token": "国",
+        "startTime": 172050,
+        "endTime": 172190,
+        "pinyin": "guó"
+      },
+      {
+        "token": "的",
+        "startTime": 172190,
+        "endTime": 172330,
+        "pinyin": "de"
+      },
+      {
+        "token": "边",
+        "startTime": 172330,
+        "endTime": 172500,
+        "pinyin": "biān"
+      },
+      {
+        "token": "界",
+        "startTime": 172500,
+        "endTime": 172670,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "扩",
+        "startTime": 172670,
+        "endTime": 172850,
+        "pinyin": "kuò"
+      },
+      {
+        "token": "展",
+        "startTime": 172850,
+        "endTime": 173030,
+        "pinyin": "zhǎn"
+      },
+      {
+        "token": "到",
+        "startTime": 173030,
+        "endTime": 173230,
+        "pinyin": "dào"
+      },
+      {
+        "token": "长",
+        "startTime": 173230,
+        "endTime": 173430,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 173430,
+        "endTime": 173630,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "以",
+        "startTime": 173630,
+        "endTime": 173800,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "外",
+        "startTime": 173800,
+        "endTime": 173970,
+        "pinyin": "wài"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 公式 失去 了 原本 的 目的 没有",
+    "translations": {
+      "en": "beyond the Great Wall, these fortifications lost their original purpose."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 174510,
+        "endTime": 174680,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 174680,
+        "endTime": 174850,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "公",
+        "startTime": 174850,
+        "endTime": 175020,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "式",
+        "startTime": 175020,
+        "endTime": 175190,
+        "pinyin": "shì"
+      },
+      {
+        "token": "失",
+        "startTime": 175190,
+        "endTime": 175420,
+        "pinyin": "shī"
+      },
+      {
+        "token": "去",
+        "startTime": 175420,
+        "endTime": 175650,
+        "pinyin": "qù"
+      },
+      {
+        "token": "了",
+        "startTime": 175650,
+        "endTime": 175870,
+        "pinyin": "le"
+      },
+      {
+        "token": "原",
+        "startTime": 175870,
+        "endTime": 176070,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "本",
+        "startTime": 176070,
+        "endTime": 176270,
+        "pinyin": "běn"
+      },
+      {
+        "token": "的",
+        "startTime": 176270,
+        "endTime": 176410,
+        "pinyin": "de"
+      },
+      {
+        "token": "目",
+        "startTime": 176410,
+        "endTime": 176850,
+        "pinyin": "mù"
+      },
+      {
+        "token": "的",
+        "startTime": 176850,
+        "endTime": 177290,
+        "pinyin": "dì"
+      },
+      {
+        "token": "没",
+        "startTime": 177290,
+        "endTime": 177440,
+        "pinyin": "méi"
+      },
+      {
+        "token": "有",
+        "startTime": 177440,
+        "endTime": 177590,
+        "pinyin": "yǒu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "了 定期 加固 城墙 失修 破损 夯土 被",
+    "translations": {
+      "en": "Without regular maintenance, the wall fell into disrepair: rammed"
+    },
+    "segments": [
+      {
+        "token": "了",
+        "startTime": 177590,
+        "endTime": 177730,
+        "pinyin": "le"
+      },
+      {
+        "token": "定",
+        "startTime": 177730,
+        "endTime": 177970,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "期",
+        "startTime": 177970,
+        "endTime": 178210,
+        "pinyin": "qī"
+      },
+      {
+        "token": "加",
+        "startTime": 178210,
+        "endTime": 178520,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "固",
+        "startTime": 178520,
+        "endTime": 178830,
+        "pinyin": "gù"
+      },
+      {
+        "token": "城",
+        "startTime": 178830,
+        "endTime": 179030,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 179030,
+        "endTime": 179230,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "失",
+        "startTime": 179230,
+        "endTime": 179700,
+        "pinyin": "shī"
+      },
+      {
+        "token": "修",
+        "startTime": 179700,
+        "endTime": 180170,
+        "pinyin": "xiū"
+      },
+      {
+        "token": "破",
+        "startTime": 180170,
+        "endTime": 180350,
+        "pinyin": "pò"
+      },
+      {
+        "token": "损",
+        "startTime": 180350,
+        "endTime": 180530,
+        "pinyin": "sǔn"
+      },
+      {
+        "token": "夯",
+        "startTime": 180530,
+        "endTime": 180730,
+        "pinyin": "hāng"
+      },
+      {
+        "token": "土",
+        "startTime": 180730,
+        "endTime": 180930,
+        "pinyin": "tǔ"
+      },
+      {
+        "token": "被",
+        "startTime": 180930,
+        "endTime": 181170,
+        "pinyin": "bèi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "侵蚀 砖 和 石头 则 被 盗窃 用作",
+    "translations": {
+      "en": "earth eroded, and bricks and stones were stolen"
+    },
+    "segments": [
+      {
+        "token": "侵",
+        "startTime": 181810,
+        "endTime": 181970,
+        "pinyin": "qīn"
+      },
+      {
+        "token": "蚀",
+        "startTime": 181970,
+        "endTime": 182130,
+        "pinyin": "shí"
+      },
+      {
+        "token": "砖",
+        "startTime": 182130,
+        "endTime": 182330,
+        "pinyin": "zhuān"
+      },
+      {
+        "token": "和",
+        "startTime": 182330,
+        "endTime": 182470,
+        "pinyin": "hé"
+      },
+      {
+        "token": "石",
+        "startTime": 182470,
+        "endTime": 182600,
+        "pinyin": "shí"
+      },
+      {
+        "token": "头",
+        "startTime": 182600,
+        "endTime": 182730,
+        "pinyin": "tou"
+      },
+      {
+        "token": "则",
+        "startTime": 182730,
+        "endTime": 182930,
+        "pinyin": "zé"
+      },
+      {
+        "token": "被",
+        "startTime": 182930,
+        "endTime": 183050,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "盗",
+        "startTime": 183050,
+        "endTime": 183230,
+        "pinyin": "dào"
+      },
+      {
+        "token": "窃",
+        "startTime": 183230,
+        "endTime": 183410,
+        "pinyin": "qiè"
+      },
+      {
+        "token": "用",
+        "startTime": 183410,
+        "endTime": 183580,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "作",
+        "startTime": 183580,
+        "endTime": 183750,
+        "pinyin": "zuò"
+      }
+    ]
+  },
+  {
+    "sentence_text": "建筑材料 但是 长城 的 使命 仍 未",
+    "translations": {
+      "en": "for building materials. But the Great Wall's mission was"
+    },
+    "segments": [
+      {
+        "token": "建",
+        "startTime": 183750,
+        "endTime": 184015,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "筑",
+        "startTime": 184015,
+        "endTime": 184280,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "材",
+        "startTime": 184280,
+        "endTime": 184545,
+        "pinyin": "cái"
+      },
+      {
+        "token": "料",
+        "startTime": 184545,
+        "endTime": 184810,
+        "pinyin": "liào"
+      },
+      {
+        "token": "但",
+        "startTime": 184810,
+        "endTime": 185150,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "是",
+        "startTime": 185150,
+        "endTime": 185490,
+        "pinyin": "shì"
+      },
+      {
+        "token": "长",
+        "startTime": 185490,
+        "endTime": 185670,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 185670,
+        "endTime": 185850,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "的",
+        "startTime": 185850,
+        "endTime": 186070,
+        "pinyin": "de"
+      },
+      {
+        "token": "使",
+        "startTime": 186070,
+        "endTime": 186360,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "命",
+        "startTime": 186360,
+        "endTime": 186650,
+        "pinyin": "mìng"
+      },
+      {
+        "token": "仍",
+        "startTime": 186650,
+        "endTime": 186970,
+        "pinyin": "réng"
+      },
+      {
+        "token": "未",
+        "startTime": 186970,
+        "endTime": 187150,
+        "pinyin": "wèi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "结束 第二次世界大战 期间 中国 用 部分 城墙",
+    "translations": {
+      "en": "not over. During World War II, China used parts of the wall"
+    },
+    "segments": [
+      {
+        "token": "结",
+        "startTime": 188150,
+        "endTime": 188290,
+        "pinyin": "jié"
+      },
+      {
+        "token": "束",
+        "startTime": 188290,
+        "endTime": 188430,
+        "pinyin": "shù"
+      },
+      {
+        "token": "第",
+        "startTime": 188430,
+        "endTime": 188673,
+        "pinyin": "dì"
+      },
+      {
+        "token": "二",
+        "startTime": 188673,
+        "endTime": 188916,
+        "pinyin": "èr"
+      },
+      {
+        "token": "次",
+        "startTime": 188916,
+        "endTime": 189159,
+        "pinyin": "cì"
+      },
+      {
+        "token": "世",
+        "startTime": 189159,
+        "endTime": 189401,
+        "pinyin": "shì"
+      },
+      {
+        "token": "界",
+        "startTime": 189401,
+        "endTime": 189644,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "大",
+        "startTime": 189644,
+        "endTime": 189887,
+        "pinyin": "dà"
+      },
+      {
+        "token": "战",
+        "startTime": 189887,
+        "endTime": 190130,
+        "pinyin": "zhàn"
+      },
+      {
+        "token": "期",
+        "startTime": 190130,
+        "endTime": 190250,
+        "pinyin": "qī"
+      },
+      {
+        "token": "间",
+        "startTime": 190250,
+        "endTime": 190370,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "中",
+        "startTime": 190370,
+        "endTime": 190620,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 190620,
+        "endTime": 190870,
+        "pinyin": "guó"
+      },
+      {
+        "token": "用",
+        "startTime": 190870,
+        "endTime": 191070,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "部",
+        "startTime": 191070,
+        "endTime": 191250,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 191250,
+        "endTime": 191430,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "城",
+        "startTime": 191430,
+        "endTime": 191570,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 191570,
+        "endTime": 191710,
+        "pinyin": "qiáng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "来 抵御 日本 的 侵略 一部分 城墙 仍然",
+    "translations": {
+      "en": "to resist Japanese invasion. Some sections are still rumored"
+    },
+    "segments": [
+      {
+        "token": "来",
+        "startTime": 191710,
+        "endTime": 192010,
+        "pinyin": "lái"
+      },
+      {
+        "token": "抵",
+        "startTime": 192010,
+        "endTime": 192220,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "御",
+        "startTime": 192220,
+        "endTime": 192430,
+        "pinyin": "yù"
+      },
+      {
+        "token": "日",
+        "startTime": 192430,
+        "endTime": 192850,
+        "pinyin": "rì"
+      },
+      {
+        "token": "本",
+        "startTime": 192850,
+        "endTime": 193270,
+        "pinyin": "běn"
+      },
+      {
+        "token": "的",
+        "startTime": 193270,
+        "endTime": 193450,
+        "pinyin": "de"
+      },
+      {
+        "token": "侵",
+        "startTime": 193450,
+        "endTime": 193690,
+        "pinyin": "qīn"
+      },
+      {
+        "token": "略",
+        "startTime": 193690,
+        "endTime": 193930,
+        "pinyin": "lüè"
+      },
+      {
+        "token": "一",
+        "startTime": 193930,
+        "endTime": 194203,
+        "pinyin": "yī"
+      },
+      {
+        "token": "部",
+        "startTime": 194203,
+        "endTime": 194477,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 194477,
+        "endTime": 194750,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "城",
+        "startTime": 194750,
+        "endTime": 194930,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "墙",
+        "startTime": 194930,
+        "endTime": 195110,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "仍",
+        "startTime": 195110,
+        "endTime": 195270,
+        "pinyin": "réng"
+      },
+      {
+        "token": "然",
+        "startTime": 195270,
+        "endTime": 195430,
+        "pinyin": "rán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "被 盛传 用于 军事训练 然而 今日 文化 才",
+    "translations": {
+      "en": "to be used for military training. Today, however, culture"
+    },
+    "segments": [
+      {
+        "token": "被",
+        "startTime": 195430,
+        "endTime": 195650,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "盛",
+        "startTime": 195650,
+        "endTime": 195820,
+        "pinyin": "shèng"
+      },
+      {
+        "token": "传",
+        "startTime": 195820,
+        "endTime": 195990,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "用",
+        "startTime": 195990,
+        "endTime": 196320,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "于",
+        "startTime": 196320,
+        "endTime": 196650,
+        "pinyin": "yú"
+      },
+      {
+        "token": "军",
+        "startTime": 196650,
+        "endTime": 196860,
+        "pinyin": "jūn"
+      },
+      {
+        "token": "事",
+        "startTime": 196860,
+        "endTime": 197070,
+        "pinyin": "shì"
+      },
+      {
+        "token": "训",
+        "startTime": 197070,
+        "endTime": 197280,
+        "pinyin": "xùn"
+      },
+      {
+        "token": "练",
+        "startTime": 197280,
+        "endTime": 197490,
+        "pinyin": "liàn"
+      },
+      {
+        "token": "然",
+        "startTime": 197490,
+        "endTime": 197860,
+        "pinyin": "rán"
+      },
+      {
+        "token": "而",
+        "startTime": 197860,
+        "endTime": 198230,
+        "pinyin": "ér"
+      },
+      {
+        "token": "今",
+        "startTime": 198230,
+        "endTime": 198380,
+        "pinyin": "jīn"
+      },
+      {
+        "token": "日",
+        "startTime": 198380,
+        "endTime": 198530,
+        "pinyin": "rì"
+      },
+      {
+        "token": "文",
+        "startTime": 198530,
+        "endTime": 198700,
+        "pinyin": "wén"
+      },
+      {
+        "token": "化",
+        "startTime": 198700,
+        "endTime": 198870,
+        "pinyin": "huà"
+      },
+      {
+        "token": "才",
+        "startTime": 198870,
+        "endTime": 199090,
+        "pinyin": "cái"
+      }
+    ]
+  },
+  {
+    "sentence_text": "是 长城 的 主要 目的 作为 地球 上",
+    "translations": {
+      "en": "is the Great Wall's main purpose. As"
+    },
+    "segments": [
+      {
+        "token": "是",
+        "startTime": 199090,
+        "endTime": 199310,
+        "pinyin": "shì"
+      },
+      {
+        "token": "长",
+        "startTime": 199310,
+        "endTime": 199750,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 199750,
+        "endTime": 200190,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "的",
+        "startTime": 200190,
+        "endTime": 200350,
+        "pinyin": "de"
+      },
+      {
+        "token": "主",
+        "startTime": 200350,
+        "endTime": 200480,
+        "pinyin": "zhǔ"
+      },
+      {
+        "token": "要",
+        "startTime": 200480,
+        "endTime": 200610,
+        "pinyin": "yào"
+      },
+      {
+        "token": "目",
+        "startTime": 200610,
+        "endTime": 200750,
+        "pinyin": "mù"
+      },
+      {
+        "token": "的",
+        "startTime": 200750,
+        "endTime": 200890,
+        "pinyin": "dì"
+      },
+      {
+        "token": "作",
+        "startTime": 200890,
+        "endTime": 201130,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "为",
+        "startTime": 201130,
+        "endTime": 201370,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "地",
+        "startTime": 201370,
+        "endTime": 201560,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 201560,
+        "endTime": 201750,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "上",
+        "startTime": 201750,
+        "endTime": 201930,
+        "pinyin": "shàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "大型 人工 建筑 19 87 年 被 联合国教科文组织",
+    "translations": {
+      "en": "a massive man-made structure on Earth, it was listed as a UNESCO"
+    },
+    "segments": [
+      {
+        "token": "大",
+        "startTime": 201930,
+        "endTime": 202110,
+        "pinyin": "dà"
+      },
+      {
+        "token": "型",
+        "startTime": 202110,
+        "endTime": 202290,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "人",
+        "startTime": 202290,
+        "endTime": 202640,
+        "pinyin": "rén"
+      },
+      {
+        "token": "工",
+        "startTime": 202640,
+        "endTime": 202990,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "建",
+        "startTime": 202990,
+        "endTime": 203230,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "筑",
+        "startTime": 203230,
+        "endTime": 203470,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "1",
+        "startTime": 203470,
+        "endTime": 203570,
+        "pinyin": "1"
+      },
+      {
+        "token": "9",
+        "startTime": 203570,
+        "endTime": 203670,
+        "pinyin": "9"
+      },
+      {
+        "token": "8",
+        "startTime": 203670,
+        "endTime": 203850,
+        "pinyin": "8"
+      },
+      {
+        "token": "7",
+        "startTime": 203850,
+        "endTime": 204030,
+        "pinyin": "7"
+      },
+      {
+        "token": "年",
+        "startTime": 204030,
+        "endTime": 204290,
+        "pinyin": "nián"
+      },
+      {
+        "token": "被",
+        "startTime": 204290,
+        "endTime": 204585,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "联",
+        "startTime": 204585,
+        "endTime": 204733,
+        "pinyin": "lián"
+      },
+      {
+        "token": "合",
+        "startTime": 204733,
+        "endTime": 204880,
+        "pinyin": "hé"
+      },
+      {
+        "token": "国",
+        "startTime": 204880,
+        "endTime": 205028,
+        "pinyin": "guó"
+      },
+      {
+        "token": "教",
+        "startTime": 205028,
+        "endTime": 205175,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "科",
+        "startTime": 205175,
+        "endTime": 205323,
+        "pinyin": "kē"
+      },
+      {
+        "token": "文",
+        "startTime": 205323,
+        "endTime": 205470,
+        "pinyin": "wén"
+      },
+      {
+        "token": "组",
+        "startTime": 205470,
+        "endTime": 205617,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "织",
+        "startTime": 205617,
+        "endTime": 205765,
+        "pinyin": "zhī"
+      }
+    ]
+  },
+  {
+    "sentence_text": "列为 世界 文化遗产 长城 起初 建造 用于",
+    "translations": {
+      "en": "World Heritage Site in 1987. Built originally to keep"
+    },
+    "segments": [
+      {
+        "token": "列",
+        "startTime": 205765,
+        "endTime": 205955,
+        "pinyin": "liè"
+      },
+      {
+        "token": "为",
+        "startTime": 205955,
+        "endTime": 206145,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "世",
+        "startTime": 206145,
+        "endTime": 206325,
+        "pinyin": "shì"
+      },
+      {
+        "token": "界",
+        "startTime": 206325,
+        "endTime": 206505,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "文",
+        "startTime": 206505,
+        "endTime": 206830,
+        "pinyin": "wén"
+      },
+      {
+        "token": "化",
+        "startTime": 206830,
+        "endTime": 207155,
+        "pinyin": "huà"
+      },
+      {
+        "token": "遗",
+        "startTime": 207155,
+        "endTime": 207480,
+        "pinyin": "yí"
+      },
+      {
+        "token": "产",
+        "startTime": 207480,
+        "endTime": 207805,
+        "pinyin": "chǎn"
+      },
+      {
+        "token": "长",
+        "startTime": 207805,
+        "endTime": 208005,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 208005,
+        "endTime": 208205,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "起",
+        "startTime": 208205,
+        "endTime": 208445,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "初",
+        "startTime": 208445,
+        "endTime": 208685,
+        "pinyin": "chū"
+      },
+      {
+        "token": "建",
+        "startTime": 208685,
+        "endTime": 208885,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "造",
+        "startTime": 208885,
+        "endTime": 209085,
+        "pinyin": "zào"
+      },
+      {
+        "token": "用",
+        "startTime": 209085,
+        "endTime": 209255,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "于",
+        "startTime": 209255,
+        "endTime": 209425,
+        "pinyin": "yú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "防御 外人 进入 中国 如今 每年 都 会",
+    "translations": {
+      "en": "outsiders out of China, it now welcomes millions"
+    },
+    "segments": [
+      {
+        "token": "防",
+        "startTime": 209425,
+        "endTime": 209605,
+        "pinyin": "fáng"
+      },
+      {
+        "token": "御",
+        "startTime": 209605,
+        "endTime": 209785,
+        "pinyin": "yù"
+      },
+      {
+        "token": "外",
+        "startTime": 209785,
+        "endTime": 209955,
+        "pinyin": "wài"
+      },
+      {
+        "token": "人",
+        "startTime": 209955,
+        "endTime": 210125,
+        "pinyin": "rén"
+      },
+      {
+        "token": "进",
+        "startTime": 210125,
+        "endTime": 210315,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "入",
+        "startTime": 210315,
+        "endTime": 210505,
+        "pinyin": "rù"
+      },
+      {
+        "token": "中",
+        "startTime": 210505,
+        "endTime": 210735,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 210735,
+        "endTime": 210965,
+        "pinyin": "guó"
+      },
+      {
+        "token": "如",
+        "startTime": 210965,
+        "endTime": 211275,
+        "pinyin": "rú"
+      },
+      {
+        "token": "今",
+        "startTime": 211275,
+        "endTime": 211585,
+        "pinyin": "jīn"
+      },
+      {
+        "token": "每",
+        "startTime": 211585,
+        "endTime": 211865,
+        "pinyin": "měi"
+      },
+      {
+        "token": "年",
+        "startTime": 211865,
+        "endTime": 212145,
+        "pinyin": "nián"
+      },
+      {
+        "token": "都",
+        "startTime": 212145,
+        "endTime": 212305,
+        "pinyin": "dū"
+      },
+      {
+        "token": "会",
+        "startTime": 212305,
+        "endTime": 212465,
+        "pinyin": "huì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "迎接 数百万 游客 实际上 ,",
+    "translations": {
+      "en": "of tourists each year. In fact,"
+    },
+    "segments": [
+      {
+        "token": "迎",
+        "startTime": 212465,
+        "endTime": 212635,
+        "pinyin": "yíng"
+      },
+      {
+        "token": "接",
+        "startTime": 212635,
+        "endTime": 212805,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "数",
+        "startTime": 212805,
+        "endTime": 213005,
+        "pinyin": "shù"
+      },
+      {
+        "token": "百",
+        "startTime": 213005,
+        "endTime": 213205,
+        "pinyin": "bǎi"
+      },
+      {
+        "token": "万",
+        "startTime": 213205,
+        "endTime": 213405,
+        "pinyin": "wàn"
+      },
+      {
+        "token": "游",
+        "startTime": 213405,
+        "endTime": 213915,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "客",
+        "startTime": 213915,
+        "endTime": 214425,
+        "pinyin": "kè"
+      },
+      {
+        "token": "实",
+        "startTime": 214425,
+        "endTime": 214738,
+        "pinyin": "shí"
+      },
+      {
+        "token": "际",
+        "startTime": 214738,
+        "endTime": 215052,
+        "pinyin": "jì"
+      },
+      {
+        "token": "上",
+        "startTime": 215052,
+        "endTime": 215365,
+        "pinyin": "shàng"
+      },
+      {
+        "token": ",",
+        "startTime": 215365,
+        "endTime": 215545,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "大量 涌入 的 游客 已 导致 长城 日益",
+    "translations": {
+      "en": "the massive influx of tourists has caused increasing"
+    },
+    "segments": [
+      {
+        "token": "大",
+        "startTime": 215545,
+        "endTime": 215725,
+        "pinyin": "dà"
+      },
+      {
+        "token": "量",
+        "startTime": 215725,
+        "endTime": 215905,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "涌",
+        "startTime": 215905,
+        "endTime": 216055,
+        "pinyin": "yǒng"
+      },
+      {
+        "token": "入",
+        "startTime": 216055,
+        "endTime": 216205,
+        "pinyin": "rù"
+      },
+      {
+        "token": "的",
+        "startTime": 216205,
+        "endTime": 216405,
+        "pinyin": "de"
+      },
+      {
+        "token": "游",
+        "startTime": 216405,
+        "endTime": 216605,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "客",
+        "startTime": 216605,
+        "endTime": 216805,
+        "pinyin": "kè"
+      },
+      {
+        "token": "已",
+        "startTime": 216805,
+        "endTime": 216965,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "导",
+        "startTime": 216965,
+        "endTime": 217125,
+        "pinyin": "dǎo"
+      },
+      {
+        "token": "致",
+        "startTime": 217125,
+        "endTime": 217285,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "长",
+        "startTime": 217285,
+        "endTime": 217525,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 217525,
+        "endTime": 217765,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "日",
+        "startTime": 217765,
+        "endTime": 217915,
+        "pinyin": "rì"
+      },
+      {
+        "token": "益",
+        "startTime": 217915,
+        "endTime": 218065,
+        "pinyin": "yì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "损坏 致使 中国政府 启动 保护措施",
+    "translations": {
+      "en": "damage to the Great Wall, prompting the Chinese government"
+    },
+    "segments": [
+      {
+        "token": "损",
+        "startTime": 218065,
+        "endTime": 218505,
+        "pinyin": "sǔn"
+      },
+      {
+        "token": "坏",
+        "startTime": 218505,
+        "endTime": 218945,
+        "pinyin": "huài"
+      },
+      {
+        "token": "致",
+        "startTime": 218945,
+        "endTime": 219115,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "使",
+        "startTime": 219115,
+        "endTime": 219285,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "中",
+        "startTime": 219285,
+        "endTime": 219470,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 219470,
+        "endTime": 219655,
+        "pinyin": "guó"
+      },
+      {
+        "token": "政",
+        "startTime": 219655,
+        "endTime": 219840,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "府",
+        "startTime": 219840,
+        "endTime": 220025,
+        "pinyin": "fǔ"
+      },
+      {
+        "token": "启",
+        "startTime": 220025,
+        "endTime": 220245,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "动",
+        "startTime": 220245,
+        "endTime": 220465,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "保",
+        "startTime": 220465,
+        "endTime": 220765,
+        "pinyin": "bǎo"
+      },
+      {
+        "token": "护",
+        "startTime": 220765,
+        "endTime": 221065,
+        "pinyin": "hù"
+      },
+      {
+        "token": "措",
+        "startTime": 221065,
+        "endTime": 221365,
+        "pinyin": "cuò"
+      },
+      {
+        "token": "施",
+        "startTime": 221365,
+        "endTime": 221665,
+        "pinyin": "shī"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 也 经常 被 宣称 为 唯一 一处",
+    "translations": {
+      "en": "to launch protective measures. It is also often"
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 221665,
+        "endTime": 221805,
+        "pinyin": "tā"
+      },
+      {
+        "token": "也",
+        "startTime": 221805,
+        "endTime": 221985,
+        "pinyin": "yě"
+      },
+      {
+        "token": "经",
+        "startTime": 221985,
+        "endTime": 222165,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "常",
+        "startTime": 222165,
+        "endTime": 222345,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "被",
+        "startTime": 222345,
+        "endTime": 222485,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "宣",
+        "startTime": 222485,
+        "endTime": 222785,
+        "pinyin": "xuān"
+      },
+      {
+        "token": "称",
+        "startTime": 222785,
+        "endTime": 223085,
+        "pinyin": "chēng"
+      },
+      {
+        "token": "为",
+        "startTime": 223085,
+        "endTime": 223145,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "唯",
+        "startTime": 223145,
+        "endTime": 223325,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "一",
+        "startTime": 223325,
+        "endTime": 223505,
+        "pinyin": "yī"
+      },
+      {
+        "token": "一",
+        "startTime": 223505,
+        "endTime": 223715,
+        "pinyin": "yī"
+      },
+      {
+        "token": "处",
+        "startTime": 223715,
+        "endTime": 223925,
+        "pinyin": "chù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "可自 太空 看见 的 人造 建筑 的 是 , 这种",
+    "translations": {
+      "en": "claimed to be the only man-made structure visible from space."
+    },
+    "segments": [
+      {
+        "token": "可",
+        "startTime": 223925,
+        "endTime": 224135,
+        "pinyin": "kě"
+      },
+      {
+        "token": "自",
+        "startTime": 224135,
+        "endTime": 224345,
+        "pinyin": "zì"
+      },
+      {
+        "token": "太",
+        "startTime": 224345,
+        "endTime": 224585,
+        "pinyin": "tài"
+      },
+      {
+        "token": "空",
+        "startTime": 224585,
+        "endTime": 224825,
+        "pinyin": "kōng"
+      },
+      {
+        "token": "看",
+        "startTime": 224825,
+        "endTime": 224995,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "见",
+        "startTime": 224995,
+        "endTime": 225165,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "的",
+        "startTime": 225165,
+        "endTime": 225485,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 225485,
+        "endTime": 225485,
+        "pinyin": "rén"
+      },
+      {
+        "token": "造",
+        "startTime": 225485,
+        "endTime": 225485,
+        "pinyin": "zào"
+      },
+      {
+        "token": "建",
+        "startTime": 225485,
+        "endTime": 226015,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "筑",
+        "startTime": 226015,
+        "endTime": 226545,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "的",
+        "startTime": 226545,
+        "endTime": 226778,
+        "pinyin": "de"
+      },
+      {
+        "token": "是",
+        "startTime": 226778,
+        "endTime": 227012,
+        "pinyin": "shì"
+      },
+      {
+        "token": ",",
+        "startTime": 227012,
+        "endTime": 227245,
+        "pinyin": ","
+      },
+      {
+        "token": "这",
+        "startTime": 227245,
+        "endTime": 227375,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 227375,
+        "endTime": 227505,
+        "pinyin": "zhǒng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "说法 不 完全正确 在 地球 的 轨道 上",
+    "translations": {
+      "en": "However, this claim is not entirely true. From Earth's"
+    },
+    "segments": [
+      {
+        "token": "说",
+        "startTime": 227505,
+        "endTime": 227675,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "法",
+        "startTime": 227675,
+        "endTime": 227845,
+        "pinyin": "fǎ"
+      },
+      {
+        "token": "不",
+        "startTime": 227845,
+        "endTime": 228045,
+        "pinyin": "bù"
+      },
+      {
+        "token": "完",
+        "startTime": 228045,
+        "endTime": 228320,
+        "pinyin": "wán"
+      },
+      {
+        "token": "全",
+        "startTime": 228320,
+        "endTime": 228595,
+        "pinyin": "quán"
+      },
+      {
+        "token": "正",
+        "startTime": 228595,
+        "endTime": 228870,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "确",
+        "startTime": 228870,
+        "endTime": 229145,
+        "pinyin": "què"
+      },
+      {
+        "token": "在",
+        "startTime": 229145,
+        "endTime": 229305,
+        "pinyin": "zài"
+      },
+      {
+        "token": "地",
+        "startTime": 229305,
+        "endTime": 229465,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 229465,
+        "endTime": 229625,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "的",
+        "startTime": 229625,
+        "endTime": 229765,
+        "pinyin": "de"
+      },
+      {
+        "token": "轨",
+        "startTime": 229765,
+        "endTime": 229905,
+        "pinyin": "guǐ"
+      },
+      {
+        "token": "道",
+        "startTime": 229905,
+        "endTime": 230045,
+        "pinyin": "dào"
+      },
+      {
+        "token": "上",
+        "startTime": 230045,
+        "endTime": 230525,
+        "pinyin": "shàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": ", 各种 建筑物 如 桥梁 、",
+    "translations": {
+      "en": "orbit, various structures such as bridges, highways,"
+    },
+    "segments": [
+      {
+        "token": ",",
+        "startTime": 230525,
+        "endTime": 230665,
+        "pinyin": ","
+      },
+      {
+        "token": "各",
+        "startTime": 230665,
+        "endTime": 230845,
+        "pinyin": "gè"
+      },
+      {
+        "token": "种",
+        "startTime": 230845,
+        "endTime": 231025,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "建",
+        "startTime": 231025,
+        "endTime": 231245,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "筑",
+        "startTime": 231245,
+        "endTime": 231465,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "物",
+        "startTime": 231465,
+        "endTime": 231685,
+        "pinyin": "wù"
+      },
+      {
+        "token": "如",
+        "startTime": 231685,
+        "endTime": 232005,
+        "pinyin": "rú"
+      },
+      {
+        "token": "桥",
+        "startTime": 232005,
+        "endTime": 232235,
+        "pinyin": "qiáo"
+      },
+      {
+        "token": "梁",
+        "startTime": 232235,
+        "endTime": 232465,
+        "pinyin": "liáng"
+      },
+      {
+        "token": "、",
+        "startTime": 232465,
+        "endTime": 232685,
+        "pinyin": "、"
+      }
+    ]
+  },
+  {
+    "sentence_text": "高速公路 以及 机场 均 可 看见 而 长城",
+    "translations": {
+      "en": "and airports are visible, while the Great Wall is faint"
+    },
+    "segments": [
+      {
+        "token": "高",
+        "startTime": 232685,
+        "endTime": 232875,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "速",
+        "startTime": 232875,
+        "endTime": 233065,
+        "pinyin": "sù"
+      },
+      {
+        "token": "公",
+        "startTime": 233065,
+        "endTime": 233255,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "路",
+        "startTime": 233255,
+        "endTime": 233445,
+        "pinyin": "lù"
+      },
+      {
+        "token": "以",
+        "startTime": 233445,
+        "endTime": 233675,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 233675,
+        "endTime": 233905,
+        "pinyin": "jí"
+      },
+      {
+        "token": "机",
+        "startTime": 233905,
+        "endTime": 234195,
+        "pinyin": "jī"
+      },
+      {
+        "token": "场",
+        "startTime": 234195,
+        "endTime": 234485,
+        "pinyin": "chǎng"
+      },
+      {
+        "token": "均",
+        "startTime": 234485,
+        "endTime": 234725,
+        "pinyin": "jūn"
+      },
+      {
+        "token": "可",
+        "startTime": 234725,
+        "endTime": 235185,
+        "pinyin": "kě"
+      },
+      {
+        "token": "看",
+        "startTime": 235185,
+        "endTime": 235375,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "见",
+        "startTime": 235375,
+        "endTime": 235565,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "而",
+        "startTime": 235565,
+        "endTime": 235845,
+        "pinyin": "ér"
+      },
+      {
+        "token": "长",
+        "startTime": 235845,
+        "endTime": 236215,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 236215,
+        "endTime": 236585,
+        "pinyin": "chéng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "却 若隐若现 从 月球 上 则 一点 也",
+    "translations": {
+      "en": "and elusive. From the Moon, it is not"
+    },
+    "segments": [
+      {
+        "token": "却",
+        "startTime": 236585,
+        "endTime": 236705,
+        "pinyin": "què"
+      },
+      {
+        "token": "若",
+        "startTime": 236705,
+        "endTime": 237135,
+        "pinyin": "ruò"
+      },
+      {
+        "token": "隐",
+        "startTime": 237135,
+        "endTime": 237565,
+        "pinyin": "yǐn"
+      },
+      {
+        "token": "若",
+        "startTime": 237565,
+        "endTime": 237995,
+        "pinyin": "ruò"
+      },
+      {
+        "token": "现",
+        "startTime": 237995,
+        "endTime": 238425,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "从",
+        "startTime": 238425,
+        "endTime": 238585,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "月",
+        "startTime": 238585,
+        "endTime": 238815,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "球",
+        "startTime": 238815,
+        "endTime": 239045,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "上",
+        "startTime": 239045,
+        "endTime": 239245,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "则",
+        "startTime": 239245,
+        "endTime": 239445,
+        "pinyin": "zé"
+      },
+      {
+        "token": "一",
+        "startTime": 239445,
+        "endTime": 239825,
+        "pinyin": "yì"
+      },
+      {
+        "token": "点",
+        "startTime": 239825,
+        "endTime": 240205,
+        "pinyin": "diǎn"
+      },
+      {
+        "token": "也",
+        "startTime": 240205,
+        "endTime": 240385,
+        "pinyin": "yě"
+      }
+    ]
+  },
+  {
+    "sentence_text": "看不到 如何 ,",
+    "translations": {
+      "en": "visible at all. So,"
+    },
+    "segments": [
+      {
+        "token": "看",
+        "startTime": 240385,
+        "endTime": 240465,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "不",
+        "startTime": 240465,
+        "endTime": 240545,
+        "pinyin": "bú"
+      },
+      {
+        "token": "到",
+        "startTime": 240545,
+        "endTime": 240625,
+        "pinyin": "dào"
+      },
+      {
+        "token": "如",
+        "startTime": 240625,
+        "endTime": 240892,
+        "pinyin": "rú"
+      },
+      {
+        "token": "何",
+        "startTime": 240892,
+        "endTime": 241158,
+        "pinyin": "hé"
+      },
+      {
+        "token": ",",
+        "startTime": 241158,
+        "endTime": 241425,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "地球 才 是 我们 应该 好好 研究 长城",
+    "translations": {
+      "en": "Earth is where we should study the"
+    },
+    "segments": [
+      {
+        "token": "地",
+        "startTime": 241425,
+        "endTime": 241625,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 241625,
+        "endTime": 241825,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "才",
+        "startTime": 241825,
+        "endTime": 242045,
+        "pinyin": "cái"
+      },
+      {
+        "token": "是",
+        "startTime": 242045,
+        "endTime": 242225,
+        "pinyin": "shì"
+      },
+      {
+        "token": "我",
+        "startTime": 242225,
+        "endTime": 242295,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 242295,
+        "endTime": 242365,
+        "pinyin": "men"
+      },
+      {
+        "token": "应",
+        "startTime": 242365,
+        "endTime": 242525,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "该",
+        "startTime": 242525,
+        "endTime": 242685,
+        "pinyin": "gāi"
+      },
+      {
+        "token": "好",
+        "startTime": 242685,
+        "endTime": 242795,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "好",
+        "startTime": 242795,
+        "endTime": 242905,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "研",
+        "startTime": 242905,
+        "endTime": 243155,
+        "pinyin": "yán"
+      },
+      {
+        "token": "究",
+        "startTime": 243155,
+        "endTime": 243405,
+        "pinyin": "jiū"
+      },
+      {
+        "token": "长",
+        "startTime": 243405,
+        "endTime": 243635,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 243635,
+        "endTime": 243865,
+        "pinyin": "chéng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "的 地方 因为 每隔 几年 都 会 有",
+    "translations": {
+      "en": "Great Wall, because every few years,"
+    },
+    "segments": [
+      {
+        "token": "的",
+        "startTime": 243865,
+        "endTime": 244005,
+        "pinyin": "de"
+      },
+      {
+        "token": "地",
+        "startTime": 244005,
+        "endTime": 244155,
+        "pinyin": "dì"
+      },
+      {
+        "token": "方",
+        "startTime": 244155,
+        "endTime": 244305,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "因",
+        "startTime": 244305,
+        "endTime": 244475,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "为",
+        "startTime": 244475,
+        "endTime": 244645,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "每",
+        "startTime": 244645,
+        "endTime": 244795,
+        "pinyin": "měi"
+      },
+      {
+        "token": "隔",
+        "startTime": 244795,
+        "endTime": 244945,
+        "pinyin": "gé"
+      },
+      {
+        "token": "几",
+        "startTime": 244945,
+        "endTime": 245125,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "年",
+        "startTime": 245125,
+        "endTime": 245305,
+        "pinyin": "nián"
+      },
+      {
+        "token": "都",
+        "startTime": 245305,
+        "endTime": 245505,
+        "pinyin": "dū"
+      },
+      {
+        "token": "会",
+        "startTime": 245505,
+        "endTime": 245625,
+        "pinyin": "huì"
+      },
+      {
+        "token": "有",
+        "startTime": 245625,
+        "endTime": 245765,
+        "pinyin": "yǒu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "新 的 部分 被 发现 它们 从 主体",
+    "translations": {
+      "en": "new sections are discovered extending from"
+    },
+    "segments": [
+      {
+        "token": "新",
+        "startTime": 245765,
+        "endTime": 245965,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "的",
+        "startTime": 245965,
+        "endTime": 246125,
+        "pinyin": "de"
+      },
+      {
+        "token": "部",
+        "startTime": 246125,
+        "endTime": 246235,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 246235,
+        "endTime": 246345,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "被",
+        "startTime": 246345,
+        "endTime": 246565,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "发",
+        "startTime": 246565,
+        "endTime": 246935,
+        "pinyin": "fā"
+      },
+      {
+        "token": "现",
+        "startTime": 246935,
+        "endTime": 247305,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "它",
+        "startTime": 247305,
+        "endTime": 247405,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 247405,
+        "endTime": 247505,
+        "pinyin": "men"
+      },
+      {
+        "token": "从",
+        "startTime": 247505,
+        "endTime": 247665,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "主",
+        "startTime": 247665,
+        "endTime": 247825,
+        "pinyin": "zhǔ"
+      },
+      {
+        "token": "体",
+        "startTime": 247825,
+        "endTime": 247985,
+        "pinyin": "tǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "部分 扩展 开去 不断 延伸 着 这 见证",
+    "translations": {
+      "en": "the main body, continuously stretching this great"
+    },
+    "segments": [
+      {
+        "token": "部",
+        "startTime": 247985,
+        "endTime": 248125,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 248125,
+        "endTime": 248265,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "扩",
+        "startTime": 248265,
+        "endTime": 248515,
+        "pinyin": "kuò"
+      },
+      {
+        "token": "展",
+        "startTime": 248515,
+        "endTime": 248765,
+        "pinyin": "zhǎn"
+      },
+      {
+        "token": "开",
+        "startTime": 248765,
+        "endTime": 248765,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "去",
+        "startTime": 248765,
+        "endTime": 248765,
+        "pinyin": "qù"
+      },
+      {
+        "token": "不",
+        "startTime": 248765,
+        "endTime": 249265,
+        "pinyin": "bù"
+      },
+      {
+        "token": "断",
+        "startTime": 249265,
+        "endTime": 249765,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "延",
+        "startTime": 249765,
+        "endTime": 249975,
+        "pinyin": "yán"
+      },
+      {
+        "token": "伸",
+        "startTime": 249975,
+        "endTime": 250185,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "着",
+        "startTime": 250185,
+        "endTime": 250445,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "这",
+        "startTime": 250445,
+        "endTime": 250685,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "见",
+        "startTime": 250685,
+        "endTime": 250845,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "证",
+        "startTime": 250845,
+        "endTime": 251005,
+        "pinyin": "zhèng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "人类 成就 的 伟大 奇迹",
+    "translations": {
+      "en": "wonder of human achievement. What's"
+    },
+    "segments": [
+      {
+        "token": "人",
+        "startTime": 251005,
+        "endTime": 251205,
+        "pinyin": "rén"
+      },
+      {
+        "token": "类",
+        "startTime": 251205,
+        "endTime": 251405,
+        "pinyin": "lèi"
+      },
+      {
+        "token": "成",
+        "startTime": 251405,
+        "endTime": 251635,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "就",
+        "startTime": 251635,
+        "endTime": 251865,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "的",
+        "startTime": 251865,
+        "endTime": 252045,
+        "pinyin": "de"
+      },
+      {
+        "token": "伟",
+        "startTime": 252045,
+        "endTime": 252375,
+        "pinyin": "wěi"
+      },
+      {
+        "token": "大",
+        "startTime": 252375,
+        "endTime": 252705,
+        "pinyin": "dà"
+      },
+      {
+        "token": "奇",
+        "startTime": 252705,
+        "endTime": 252965,
+        "pinyin": "qí"
+      },
+      {
+        "token": "迹",
+        "startTime": 252965,
+        "endTime": 253225,
+        "pinyin": "jì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 的 星座 什么 ?",
+    "translations": {
+      "en": "your zodiac sign?"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 254605,
+        "endTime": 254825,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 254825,
+        "endTime": 255045,
+        "pinyin": "de"
+      },
+      {
+        "token": "星",
+        "startTime": 255045,
+        "endTime": 255305,
+        "pinyin": "xīng"
+      },
+      {
+        "token": "座",
+        "startTime": 255305,
+        "endTime": 255565,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "什",
+        "startTime": 255565,
+        "endTime": 255725,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 255725,
+        "endTime": 255885,
+        "pinyin": "me"
+      },
+      {
+        "token": "?",
+        "startTime": 255885,
+        "endTime": 256045,
+        "pinyin": "?"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 中国 的 生肖 中 出生 年份 对应",
+    "translations": {
+      "en": "In the Chinese zodiac, birth years correspond to animals."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 256465,
+        "endTime": 256585,
+        "pinyin": "zài"
+      },
+      {
+        "token": "中",
+        "startTime": 256585,
+        "endTime": 256735,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 256735,
+        "endTime": 256885,
+        "pinyin": "guó"
+      },
+      {
+        "token": "的",
+        "startTime": 256885,
+        "endTime": 257045,
+        "pinyin": "de"
+      },
+      {
+        "token": "生",
+        "startTime": 257045,
+        "endTime": 257225,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "肖",
+        "startTime": 257225,
+        "endTime": 257405,
+        "pinyin": "xiào"
+      },
+      {
+        "token": "中",
+        "startTime": 257405,
+        "endTime": 258025,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "出",
+        "startTime": 258025,
+        "endTime": 258195,
+        "pinyin": "chū"
+      },
+      {
+        "token": "生",
+        "startTime": 258195,
+        "endTime": 258365,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "年",
+        "startTime": 258365,
+        "endTime": 258565,
+        "pinyin": "nián"
+      },
+      {
+        "token": "份",
+        "startTime": 258565,
+        "endTime": 258765,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "对",
+        "startTime": 258765,
+        "endTime": 258995,
+        "pinyin": "duì"
+      },
+      {
+        "token": "应",
+        "startTime": 258995,
+        "endTime": 259225,
+        "pinyin": "yìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "动物 一切 起源于 一次 大赛",
+    "translations": {
+      "en": "It all started with a great race. Watch"
+    },
+    "segments": [
+      {
+        "token": "动",
+        "startTime": 259225,
+        "endTime": 259625,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "物",
+        "startTime": 259625,
+        "endTime": 260025,
+        "pinyin": "wù"
+      },
+      {
+        "token": "一",
+        "startTime": 260025,
+        "endTime": 260235,
+        "pinyin": "yī"
+      },
+      {
+        "token": "切",
+        "startTime": 260235,
+        "endTime": 260445,
+        "pinyin": "qiè"
+      },
+      {
+        "token": "起",
+        "startTime": 260445,
+        "endTime": 260625,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "源",
+        "startTime": 260625,
+        "endTime": 260805,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "于",
+        "startTime": 260805,
+        "endTime": 260985,
+        "pinyin": "yú"
+      },
+      {
+        "token": "一",
+        "startTime": 260985,
+        "endTime": 261075,
+        "pinyin": "yī"
+      },
+      {
+        "token": "次",
+        "startTime": 261075,
+        "endTime": 261165,
+        "pinyin": "cì"
+      },
+      {
+        "token": "大",
+        "startTime": 261165,
+        "endTime": 261385,
+        "pinyin": "dà"
+      },
+      {
+        "token": "赛",
+        "startTime": 261385,
+        "endTime": 261605,
+        "pinyin": "sài"
+      }
+    ]
+  },
+  {
+    "sentence_text": "观看 这 段 视频 深入 了解 中国 生肖",
+    "translations": {
+      "en": "this video to learn more about the origins of the"
+    },
+    "segments": [
+      {
+        "token": "观",
+        "startTime": 262245,
+        "endTime": 262435,
+        "pinyin": "guān"
+      },
+      {
+        "token": "看",
+        "startTime": 262435,
+        "endTime": 262625,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "这",
+        "startTime": 262625,
+        "endTime": 262825,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "段",
+        "startTime": 262825,
+        "endTime": 262945,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "视",
+        "startTime": 262945,
+        "endTime": 263325,
+        "pinyin": "shì"
+      },
+      {
+        "token": "频",
+        "startTime": 263325,
+        "endTime": 263705,
+        "pinyin": "pín"
+      },
+      {
+        "token": "深",
+        "startTime": 263705,
+        "endTime": 263855,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "入",
+        "startTime": 263855,
+        "endTime": 264005,
+        "pinyin": "rù"
+      },
+      {
+        "token": "了",
+        "startTime": 264005,
+        "endTime": 264155,
+        "pinyin": "liǎo"
+      },
+      {
+        "token": "解",
+        "startTime": 264155,
+        "endTime": 264305,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "中",
+        "startTime": 264305,
+        "endTime": 264505,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 264505,
+        "endTime": 264705,
+        "pinyin": "guó"
+      },
+      {
+        "token": "生",
+        "startTime": 264705,
+        "endTime": 264985,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "肖",
+        "startTime": 264985,
+        "endTime": 265265,
+        "pinyin": "xiào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "的 起源",
+    "translations": {
+      "en": "Chinese zodiac."
+    },
+    "segments": [
+      {
+        "token": "的",
+        "startTime": 265265,
+        "endTime": 265445,
+        "pinyin": "de"
+      },
+      {
+        "token": "起",
+        "startTime": 265445,
+        "endTime": 265635,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "源",
+        "startTime": 265635,
+        "endTime": 265825,
+        "pinyin": "yuán"
+      }
+    ]
+  }
+]
