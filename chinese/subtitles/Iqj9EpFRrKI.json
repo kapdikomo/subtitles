@@ -1,0 +1,7402 @@
+[
+  {
+    "sentence_text": "哪个 年龄 的 人 最 聪明",
+    "translations": {
+      "en": "Which age group is the smartest?"
+    },
+    "segments": [
+      {
+        "token": "哪",
+        "startTime": 6980,
+        "endTime": 7130,
+        "pinyin": "nǎ"
+      },
+      {
+        "token": "个",
+        "startTime": 7130,
+        "endTime": 7280,
+        "pinyin": "ge"
+      },
+      {
+        "token": "年",
+        "startTime": 7280,
+        "endTime": 7470,
+        "pinyin": "nián"
+      },
+      {
+        "token": "龄",
+        "startTime": 7470,
+        "endTime": 7660,
+        "pinyin": "líng"
+      },
+      {
+        "token": "的",
+        "startTime": 7660,
+        "endTime": 7860,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 7860,
+        "endTime": 8140,
+        "pinyin": "rén"
+      },
+      {
+        "token": "最",
+        "startTime": 8140,
+        "endTime": 8440,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "聪",
+        "startTime": 8440,
+        "endTime": 8830,
+        "pinyin": "cōng"
+      },
+      {
+        "token": "明",
+        "startTime": 8830,
+        "endTime": 9220,
+        "pinyin": "míng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "也许 参加 一天 的 友谊 竞赛 会 带给 我 答案",
+    "translations": {
+      "en": "Maybe a day of friendly competition will give me the answer."
+    },
+    "segments": [
+      {
+        "token": "也",
+        "startTime": 9220,
+        "endTime": 9400,
+        "pinyin": "yě"
+      },
+      {
+        "token": "许",
+        "startTime": 9400,
+        "endTime": 9580,
+        "pinyin": "xǔ"
+      },
+      {
+        "token": "参",
+        "startTime": 9580,
+        "endTime": 9750,
+        "pinyin": "cān"
+      },
+      {
+        "token": "加",
+        "startTime": 9750,
+        "endTime": 9920,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "一",
+        "startTime": 9920,
+        "endTime": 10060,
+        "pinyin": "yī"
+      },
+      {
+        "token": "天",
+        "startTime": 10060,
+        "endTime": 10200,
+        "pinyin": "tiān"
+      },
+      {
+        "token": "的",
+        "startTime": 10200,
+        "endTime": 10460,
+        "pinyin": "de"
+      },
+      {
+        "token": "友",
+        "startTime": 10460,
+        "endTime": 10640,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "谊",
+        "startTime": 10640,
+        "endTime": 10820,
+        "pinyin": "yì"
+      },
+      {
+        "token": "竞",
+        "startTime": 10820,
+        "endTime": 11100,
+        "pinyin": "jìng"
+      },
+      {
+        "token": "赛",
+        "startTime": 11100,
+        "endTime": 11380,
+        "pinyin": "sài"
+      },
+      {
+        "token": "会",
+        "startTime": 11380,
+        "endTime": 11480,
+        "pinyin": "huì"
+      },
+      {
+        "token": "带",
+        "startTime": 11480,
+        "endTime": 11650,
+        "pinyin": "dài"
+      },
+      {
+        "token": "给",
+        "startTime": 11650,
+        "endTime": 11820,
+        "pinyin": "gěi"
+      },
+      {
+        "token": "我",
+        "startTime": 11820,
+        "endTime": 12040,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "答",
+        "startTime": 12040,
+        "endTime": 12590,
+        "pinyin": "dá"
+      },
+      {
+        "token": "案",
+        "startTime": 12590,
+        "endTime": 13140,
+        "pinyin": "àn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "明年 是 一年一度 的 头脑 争霸赛",
+    "translations": {
+      "en": "Next year is the annual Brain Battle."
+    },
+    "segments": [
+      {
+        "token": "明",
+        "startTime": 13140,
+        "endTime": 13320,
+        "pinyin": "míng"
+      },
+      {
+        "token": "年",
+        "startTime": 13320,
+        "endTime": 13500,
+        "pinyin": "nián"
+      },
+      {
+        "token": "是",
+        "startTime": 13500,
+        "endTime": 13660,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 13660,
+        "endTime": 13815,
+        "pinyin": "yī"
+      },
+      {
+        "token": "年",
+        "startTime": 13815,
+        "endTime": 13970,
+        "pinyin": "nián"
+      },
+      {
+        "token": "一",
+        "startTime": 13970,
+        "endTime": 14125,
+        "pinyin": "yī"
+      },
+      {
+        "token": "度",
+        "startTime": 14125,
+        "endTime": 14280,
+        "pinyin": "dù"
+      },
+      {
+        "token": "的",
+        "startTime": 14280,
+        "endTime": 14580,
+        "pinyin": "de"
+      },
+      {
+        "token": "头",
+        "startTime": 14580,
+        "endTime": 14770,
+        "pinyin": "tóu"
+      },
+      {
+        "token": "脑",
+        "startTime": 14770,
+        "endTime": 14960,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "争",
+        "startTime": 14960,
+        "endTime": 15280,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "霸",
+        "startTime": 15280,
+        "endTime": 15600,
+        "pinyin": "bà"
+      },
+      {
+        "token": "赛",
+        "startTime": 15600,
+        "endTime": 15920,
+        "pinyin": "sài"
+      }
+    ]
+  },
+  {
+    "sentence_text": "十个 两人 一组 的 团队 将 在 由 智力 挑战",
+    "translations": {
+      "en": "Ten two-person teams will compete in a decathlon of intellectual challenges,"
+    },
+    "segments": [
+      {
+        "token": "十",
+        "startTime": 15920,
+        "endTime": 16080,
+        "pinyin": "shí"
+      },
+      {
+        "token": "个",
+        "startTime": 16080,
+        "endTime": 16239,
+        "pinyin": "gè"
+      },
+      {
+        "token": "两",
+        "startTime": 16239,
+        "endTime": 16390,
+        "pinyin": "liǎng"
+      },
+      {
+        "token": "人",
+        "startTime": 16390,
+        "endTime": 16540,
+        "pinyin": "rén"
+      },
+      {
+        "token": "一",
+        "startTime": 16540,
+        "endTime": 16660,
+        "pinyin": "yī"
+      },
+      {
+        "token": "组",
+        "startTime": 16660,
+        "endTime": 16780,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "的",
+        "startTime": 16780,
+        "endTime": 16960,
+        "pinyin": "de"
+      },
+      {
+        "token": "团",
+        "startTime": 16960,
+        "endTime": 17140,
+        "pinyin": "tuán"
+      },
+      {
+        "token": "队",
+        "startTime": 17140,
+        "endTime": 17320,
+        "pinyin": "duì"
+      },
+      {
+        "token": "将",
+        "startTime": 17320,
+        "endTime": 17500,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "在",
+        "startTime": 17500,
+        "endTime": 17640,
+        "pinyin": "zài"
+      },
+      {
+        "token": "由",
+        "startTime": 17640,
+        "endTime": 17860,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "智",
+        "startTime": 17860,
+        "endTime": 18010,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "力",
+        "startTime": 18010,
+        "endTime": 18160,
+        "pinyin": "lì"
+      },
+      {
+        "token": "挑",
+        "startTime": 18160,
+        "endTime": 18490,
+        "pinyin": "tiǎo"
+      },
+      {
+        "token": "战",
+        "startTime": 18490,
+        "endTime": 18820,
+        "pinyin": "zhàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "知识 问答 和 谜题 组成 的 十项全能 竞赛 中 角逐",
+    "translations": {
+      "en": "trivia, and puzzles."
+    },
+    "segments": [
+      {
+        "token": "知",
+        "startTime": 18820,
+        "endTime": 18990,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "识",
+        "startTime": 18990,
+        "endTime": 19160,
+        "pinyin": "shí"
+      },
+      {
+        "token": "问",
+        "startTime": 19160,
+        "endTime": 19480,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "答",
+        "startTime": 19480,
+        "endTime": 19800,
+        "pinyin": "dá"
+      },
+      {
+        "token": "和",
+        "startTime": 19800,
+        "endTime": 19980,
+        "pinyin": "hé"
+      },
+      {
+        "token": "谜",
+        "startTime": 19980,
+        "endTime": 20160,
+        "pinyin": "mí"
+      },
+      {
+        "token": "题",
+        "startTime": 20160,
+        "endTime": 20340,
+        "pinyin": "tí"
+      },
+      {
+        "token": "组",
+        "startTime": 20340,
+        "endTime": 20500,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "成",
+        "startTime": 20500,
+        "endTime": 20660,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "的",
+        "startTime": 20660,
+        "endTime": 20900,
+        "pinyin": "de"
+      },
+      {
+        "token": "十",
+        "startTime": 20900,
+        "endTime": 21085,
+        "pinyin": "shí"
+      },
+      {
+        "token": "项",
+        "startTime": 21085,
+        "endTime": 21270,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "全",
+        "startTime": 21270,
+        "endTime": 21455,
+        "pinyin": "quán"
+      },
+      {
+        "token": "能",
+        "startTime": 21455,
+        "endTime": 21640,
+        "pinyin": "néng"
+      },
+      {
+        "token": "竞",
+        "startTime": 21640,
+        "endTime": 21800,
+        "pinyin": "jìng"
+      },
+      {
+        "token": "赛",
+        "startTime": 21800,
+        "endTime": 21960,
+        "pinyin": "sài"
+      },
+      {
+        "token": "中",
+        "startTime": 21960,
+        "endTime": 22140,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "角",
+        "startTime": 22140,
+        "endTime": 22860,
+        "pinyin": "jué"
+      },
+      {
+        "token": "逐",
+        "startTime": 22860,
+        "endTime": 23580,
+        "pinyin": "zhú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 为此 准备 了 一年",
+    "translations": {
+      "en": "I've been preparing for a year."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 23580,
+        "endTime": 23720,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "为",
+        "startTime": 23720,
+        "endTime": 23900,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "此",
+        "startTime": 23900,
+        "endTime": 24080,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "准",
+        "startTime": 24080,
+        "endTime": 24220,
+        "pinyin": "zhǔn"
+      },
+      {
+        "token": "备",
+        "startTime": 24220,
+        "endTime": 24360,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "了",
+        "startTime": 24360,
+        "endTime": 24520,
+        "pinyin": "le"
+      },
+      {
+        "token": "一",
+        "startTime": 24520,
+        "endTime": 24920,
+        "pinyin": "yī"
+      },
+      {
+        "token": "年",
+        "startTime": 24920,
+        "endTime": 25320,
+        "pinyin": "nián"
+      }
+    ]
+  },
+  {
+    "sentence_text": "需要 选择 最 聪明 、 最有 能力 的 队友",
+    "translations": {
+      "en": "I need to pick the smartest, most capable teammate,"
+    },
+    "segments": [
+      {
+        "token": "需",
+        "startTime": 25320,
+        "endTime": 25540,
+        "pinyin": "xū"
+      },
+      {
+        "token": "要",
+        "startTime": 25540,
+        "endTime": 25760,
+        "pinyin": "yào"
+      },
+      {
+        "token": "选",
+        "startTime": 25760,
+        "endTime": 26020,
+        "pinyin": "xuǎn"
+      },
+      {
+        "token": "择",
+        "startTime": 26020,
+        "endTime": 26280,
+        "pinyin": "zé"
+      },
+      {
+        "token": "最",
+        "startTime": 26280,
+        "endTime": 26720,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "聪",
+        "startTime": 26720,
+        "endTime": 26860,
+        "pinyin": "cōng"
+      },
+      {
+        "token": "明",
+        "startTime": 26860,
+        "endTime": 27000,
+        "pinyin": "míng"
+      },
+      {
+        "token": "、",
+        "startTime": 27000,
+        "endTime": 27180,
+        "pinyin": "、"
+      },
+      {
+        "token": "最",
+        "startTime": 27180,
+        "endTime": 27380,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "有",
+        "startTime": 27380,
+        "endTime": 27580,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "能",
+        "startTime": 27580,
+        "endTime": 27920,
+        "pinyin": "néng"
+      },
+      {
+        "token": "力",
+        "startTime": 27920,
+        "endTime": 28260,
+        "pinyin": "lì"
+      },
+      {
+        "token": "的",
+        "startTime": 28260,
+        "endTime": 28440,
+        "pinyin": "de"
+      },
+      {
+        "token": "队",
+        "startTime": 28440,
+        "endTime": 28610,
+        "pinyin": "duì"
+      },
+      {
+        "token": "友",
+        "startTime": 28610,
+        "endTime": 28780,
+        "pinyin": "yǒu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "并列 出 几个 可能 的",
+    "translations": {
+      "en": "and I've listed a few candidates."
+    },
+    "segments": [
+      {
+        "token": "并",
+        "startTime": 28780,
+        "endTime": 28910,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "列",
+        "startTime": 28910,
+        "endTime": 29040,
+        "pinyin": "liè"
+      },
+      {
+        "token": "出",
+        "startTime": 29040,
+        "endTime": 29340,
+        "pinyin": "chū"
+      },
+      {
+        "token": "几",
+        "startTime": 29340,
+        "endTime": 29490,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "个",
+        "startTime": 29490,
+        "endTime": 29640,
+        "pinyin": "gè"
+      },
+      {
+        "token": "可",
+        "startTime": 29640,
+        "endTime": 30110,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 30110,
+        "endTime": 30580,
+        "pinyin": "néng"
+      },
+      {
+        "token": "的",
+        "startTime": 30580,
+        "endTime": 31000,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "G ab ri ela 她 只有 八岁",
+    "translations": {
+      "en": "Gabriela is only eight years old,"
+    },
+    "segments": [
+      {
+        "token": "G",
+        "startTime": 31000,
+        "endTime": 31160,
+        "pinyin": "G"
+      },
+      {
+        "token": "a",
+        "startTime": 31160,
+        "endTime": 31190,
+        "pinyin": "a"
+      },
+      {
+        "token": "b",
+        "startTime": 31190,
+        "endTime": 31220,
+        "pinyin": "b"
+      },
+      {
+        "token": "r",
+        "startTime": 31220,
+        "endTime": 31290,
+        "pinyin": "r"
+      },
+      {
+        "token": "i",
+        "startTime": 31290,
+        "endTime": 31360,
+        "pinyin": "i"
+      },
+      {
+        "token": "e",
+        "startTime": 31360,
+        "endTime": 31580,
+        "pinyin": "e"
+      },
+      {
+        "token": "l",
+        "startTime": 31580,
+        "endTime": 31800,
+        "pinyin": "l"
+      },
+      {
+        "token": "a",
+        "startTime": 31800,
+        "endTime": 32020,
+        "pinyin": "a"
+      },
+      {
+        "token": "她",
+        "startTime": 32020,
+        "endTime": 32159,
+        "pinyin": "tā"
+      },
+      {
+        "token": "只",
+        "startTime": 32159,
+        "endTime": 32299,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "有",
+        "startTime": 32299,
+        "endTime": 32439,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "八",
+        "startTime": 32439,
+        "endTime": 32670,
+        "pinyin": "bā"
+      },
+      {
+        "token": "岁",
+        "startTime": 32670,
+        "endTime": 32900,
+        "pinyin": "suì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但别 低估 了 她",
+    "translations": {
+      "en": "but don't underestimate her."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 32900,
+        "endTime": 33160,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "别",
+        "startTime": 33160,
+        "endTime": 33420,
+        "pinyin": "bié"
+      },
+      {
+        "token": "低",
+        "startTime": 33420,
+        "endTime": 33610,
+        "pinyin": "dī"
+      },
+      {
+        "token": "估",
+        "startTime": 33610,
+        "endTime": 33800,
+        "pinyin": "gū"
+      },
+      {
+        "token": "了",
+        "startTime": 33800,
+        "endTime": 33980,
+        "pinyin": "le"
+      },
+      {
+        "token": "她",
+        "startTime": 33980,
+        "endTime": 34680,
+        "pinyin": "tā"
+      }
+    ]
+  },
+  {
+    "sentence_text": "她 能 流利地 说 两种 语言",
+    "translations": {
+      "en": "She's fluent in two languages,"
+    },
+    "segments": [
+      {
+        "token": "她",
+        "startTime": 34680,
+        "endTime": 34840,
+        "pinyin": "tā"
+      },
+      {
+        "token": "能",
+        "startTime": 34840,
+        "endTime": 35020,
+        "pinyin": "néng"
+      },
+      {
+        "token": "流",
+        "startTime": 35020,
+        "endTime": 35167,
+        "pinyin": "liú"
+      },
+      {
+        "token": "利",
+        "startTime": 35167,
+        "endTime": 35313,
+        "pinyin": "lì"
+      },
+      {
+        "token": "地",
+        "startTime": 35313,
+        "endTime": 35460,
+        "pinyin": "dì"
+      },
+      {
+        "token": "说",
+        "startTime": 35460,
+        "endTime": 35660,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "两",
+        "startTime": 35660,
+        "endTime": 35870,
+        "pinyin": "liǎng"
+      },
+      {
+        "token": "种",
+        "startTime": 35870,
+        "endTime": 36080,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "语",
+        "startTime": 36080,
+        "endTime": 36290,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "言",
+        "startTime": 36290,
+        "endTime": 36500,
+        "pinyin": "yán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而且 还是 一个 极具 创造力 的 人",
+    "translations": {
+      "en": "and she's incredibly creative."
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 36500,
+        "endTime": 36750,
+        "pinyin": "ér"
+      },
+      {
+        "token": "且",
+        "startTime": 36750,
+        "endTime": 37000,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "还",
+        "startTime": 37000,
+        "endTime": 37110,
+        "pinyin": "hái"
+      },
+      {
+        "token": "是",
+        "startTime": 37110,
+        "endTime": 37220,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 37220,
+        "endTime": 37380,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 37380,
+        "endTime": 37540,
+        "pinyin": "gè"
+      },
+      {
+        "token": "极",
+        "startTime": 37540,
+        "endTime": 37710,
+        "pinyin": "jí"
+      },
+      {
+        "token": "具",
+        "startTime": 37710,
+        "endTime": 37880,
+        "pinyin": "jù"
+      },
+      {
+        "token": "创",
+        "startTime": 37880,
+        "endTime": 38067,
+        "pinyin": "chuàng"
+      },
+      {
+        "token": "造",
+        "startTime": 38067,
+        "endTime": 38253,
+        "pinyin": "zào"
+      },
+      {
+        "token": "力",
+        "startTime": 38253,
+        "endTime": 38440,
+        "pinyin": "lì"
+      },
+      {
+        "token": "的",
+        "startTime": 38440,
+        "endTime": 39280,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 39280,
+        "endTime": 39480,
+        "pinyin": "rén"
+      }
+    ]
+  },
+  {
+    "sentence_text": "其次 Em ma",
+    "translations": {
+      "en": "Then there's Emma."
+    },
+    "segments": [
+      {
+        "token": "其",
+        "startTime": 39480,
+        "endTime": 39730,
+        "pinyin": "qí"
+      },
+      {
+        "token": "次",
+        "startTime": 39730,
+        "endTime": 39980,
+        "pinyin": "cì"
+      },
+      {
+        "token": "E",
+        "startTime": 39980,
+        "endTime": 40080,
+        "pinyin": "E"
+      },
+      {
+        "token": "m",
+        "startTime": 40080,
+        "endTime": 40180,
+        "pinyin": "m"
+      }
+    ]
+  },
+  {
+    "sentence_text": "她 能 背诵 圆周率 前 一百位",
+    "translations": {
+      "en": "She can recite the first hundred digits of pi,"
+    },
+    "segments": [
+      {
+        "token": "m",
+        "startTime": 40180,
+        "endTime": 40180,
+        "pinyin": "m"
+      },
+      {
+        "token": "a",
+        "startTime": 40180,
+        "endTime": 40180,
+        "pinyin": "a"
+      },
+      {
+        "token": "她",
+        "startTime": 40180,
+        "endTime": 40800,
+        "pinyin": "tā"
+      },
+      {
+        "token": "能",
+        "startTime": 40800,
+        "endTime": 40960,
+        "pinyin": "néng"
+      },
+      {
+        "token": "背",
+        "startTime": 40960,
+        "endTime": 41100,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "诵",
+        "startTime": 41100,
+        "endTime": 41240,
+        "pinyin": "sòng"
+      },
+      {
+        "token": "圆",
+        "startTime": 41240,
+        "endTime": 41433,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "周",
+        "startTime": 41433,
+        "endTime": 41627,
+        "pinyin": "zhōu"
+      },
+      {
+        "token": "率",
+        "startTime": 41627,
+        "endTime": 41820,
+        "pinyin": "lǜ"
+      },
+      {
+        "token": "前",
+        "startTime": 41820,
+        "endTime": 42120,
+        "pinyin": "qián"
+      },
+      {
+        "token": "一",
+        "startTime": 42120,
+        "endTime": 42340,
+        "pinyin": "yī"
+      },
+      {
+        "token": "百",
+        "startTime": 42340,
+        "endTime": 42560,
+        "pinyin": "bǎi"
+      },
+      {
+        "token": "位",
+        "startTime": 42560,
+        "endTime": 42780,
+        "pinyin": "wèi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "以 设计 卫星 为生",
+    "translations": {
+      "en": "designs satellites for a living,"
+    },
+    "segments": [
+      {
+        "token": "以",
+        "startTime": 42780,
+        "endTime": 43120,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "设",
+        "startTime": 43120,
+        "endTime": 43250,
+        "pinyin": "shè"
+      },
+      {
+        "token": "计",
+        "startTime": 43250,
+        "endTime": 43380,
+        "pinyin": "jì"
+      },
+      {
+        "token": "卫",
+        "startTime": 43380,
+        "endTime": 43570,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "星",
+        "startTime": 43570,
+        "endTime": 43760,
+        "pinyin": "xīng"
+      },
+      {
+        "token": "为",
+        "startTime": 43760,
+        "endTime": 44150,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "生",
+        "startTime": 44150,
+        "endTime": 44540,
+        "pinyin": "shēng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "并 擅长 烘烤 完美 的 淡 奶酥",
+    "translations": {
+      "en": "and bakes perfect soufflés."
+    },
+    "segments": [
+      {
+        "token": "并",
+        "startTime": 44540,
+        "endTime": 44700,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "擅",
+        "startTime": 44700,
+        "endTime": 44890,
+        "pinyin": "shàn"
+      },
+      {
+        "token": "长",
+        "startTime": 44890,
+        "endTime": 45080,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "烘",
+        "startTime": 45080,
+        "endTime": 45270,
+        "pinyin": "hōng"
+      },
+      {
+        "token": "烤",
+        "startTime": 45270,
+        "endTime": 45460,
+        "pinyin": "kǎo"
+      },
+      {
+        "token": "完",
+        "startTime": 45460,
+        "endTime": 45720,
+        "pinyin": "wán"
+      },
+      {
+        "token": "美",
+        "startTime": 45720,
+        "endTime": 45980,
+        "pinyin": "měi"
+      },
+      {
+        "token": "的",
+        "startTime": 45980,
+        "endTime": 46140,
+        "pinyin": "de"
+      },
+      {
+        "token": "淡",
+        "startTime": 46140,
+        "endTime": 46300,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "奶",
+        "startTime": 46300,
+        "endTime": 46890,
+        "pinyin": "nǎi"
+      },
+      {
+        "token": "酥",
+        "startTime": 46890,
+        "endTime": 47480,
+        "pinyin": "sū"
+      }
+    ]
+  },
+  {
+    "sentence_text": "或者 我 可以 选择 T ay lor 先生",
+    "translations": {
+      "en": "Or I could choose Mr. Taylor,"
+    },
+    "segments": [
+      {
+        "token": "或",
+        "startTime": 47480,
+        "endTime": 47600,
+        "pinyin": "huò"
+      },
+      {
+        "token": "者",
+        "startTime": 47600,
+        "endTime": 47720,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "我",
+        "startTime": 47720,
+        "endTime": 47960,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "可",
+        "startTime": 47960,
+        "endTime": 48040,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 48040,
+        "endTime": 48120,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "选",
+        "startTime": 48120,
+        "endTime": 48310,
+        "pinyin": "xuǎn"
+      },
+      {
+        "token": "择",
+        "startTime": 48310,
+        "endTime": 48500,
+        "pinyin": "zé"
+      },
+      {
+        "token": "T",
+        "startTime": 48500,
+        "endTime": 48700,
+        "pinyin": "T"
+      },
+      {
+        "token": "a",
+        "startTime": 48700,
+        "endTime": 48740,
+        "pinyin": "a"
+      },
+      {
+        "token": "y",
+        "startTime": 48740,
+        "endTime": 48780,
+        "pinyin": "y"
+      },
+      {
+        "token": "l",
+        "startTime": 48780,
+        "endTime": 48807,
+        "pinyin": "l"
+      },
+      {
+        "token": "o",
+        "startTime": 48807,
+        "endTime": 48833,
+        "pinyin": "o"
+      },
+      {
+        "token": "r",
+        "startTime": 48833,
+        "endTime": 48860,
+        "pinyin": "r"
+      },
+      {
+        "token": "先",
+        "startTime": 48860,
+        "endTime": 49300,
+        "pinyin": "xiān"
+      },
+      {
+        "token": "生",
+        "startTime": 49300,
+        "endTime": 49740,
+        "pinyin": "shēng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他 是 邻里 中 最好 的 棋手",
+    "translations": {
+      "en": "the best chess player in the neighborhood,"
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 49740,
+        "endTime": 50000,
+        "pinyin": "tā"
+      },
+      {
+        "token": "是",
+        "startTime": 50000,
+        "endTime": 50200,
+        "pinyin": "shì"
+      },
+      {
+        "token": "邻",
+        "startTime": 50200,
+        "endTime": 50370,
+        "pinyin": "lín"
+      },
+      {
+        "token": "里",
+        "startTime": 50370,
+        "endTime": 50540,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "中",
+        "startTime": 50540,
+        "endTime": 50800,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "最",
+        "startTime": 50800,
+        "endTime": 50940,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "好",
+        "startTime": 50940,
+        "endTime": 51080,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 51080,
+        "endTime": 51360,
+        "pinyin": "de"
+      },
+      {
+        "token": "棋",
+        "startTime": 51360,
+        "endTime": 51760,
+        "pinyin": "qí"
+      },
+      {
+        "token": "手",
+        "startTime": 51760,
+        "endTime": 52160,
+        "pinyin": "shǒu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "更 不用说 他 还 参加 过 二十多 届 头脑 争霸赛",
+    "translations": {
+      "en": "not to mention he's competed in over twenty Brain Battles,"
+    },
+    "segments": [
+      {
+        "token": "更",
+        "startTime": 52160,
+        "endTime": 52440,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "不",
+        "startTime": 52440,
+        "endTime": 52633,
+        "pinyin": "bú"
+      },
+      {
+        "token": "用",
+        "startTime": 52633,
+        "endTime": 52827,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "说",
+        "startTime": 52827,
+        "endTime": 53020,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "他",
+        "startTime": 53020,
+        "endTime": 53180,
+        "pinyin": "tā"
+      },
+      {
+        "token": "还",
+        "startTime": 53180,
+        "endTime": 53340,
+        "pinyin": "hái"
+      },
+      {
+        "token": "参",
+        "startTime": 53340,
+        "endTime": 53560,
+        "pinyin": "cān"
+      },
+      {
+        "token": "加",
+        "startTime": 53560,
+        "endTime": 53780,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "过",
+        "startTime": 53780,
+        "endTime": 53880,
+        "pinyin": "guò"
+      },
+      {
+        "token": "二",
+        "startTime": 53880,
+        "endTime": 54067,
+        "pinyin": "èr"
+      },
+      {
+        "token": "十",
+        "startTime": 54067,
+        "endTime": 54253,
+        "pinyin": "shí"
+      },
+      {
+        "token": "多",
+        "startTime": 54253,
+        "endTime": 54440,
+        "pinyin": "duō"
+      },
+      {
+        "token": "届",
+        "startTime": 54440,
+        "endTime": 54660,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "头",
+        "startTime": 54660,
+        "endTime": 54820,
+        "pinyin": "tóu"
+      },
+      {
+        "token": "脑",
+        "startTime": 54820,
+        "endTime": 54980,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "争",
+        "startTime": 54980,
+        "endTime": 55293,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "霸",
+        "startTime": 55293,
+        "endTime": 55607,
+        "pinyin": "bà"
+      },
+      {
+        "token": "赛",
+        "startTime": 55607,
+        "endTime": 55920,
+        "pinyin": "sài"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而且 五次 夺冠",
+    "translations": {
+      "en": "and won five times."
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 55920,
+        "endTime": 56260,
+        "pinyin": "ér"
+      },
+      {
+        "token": "且",
+        "startTime": 56260,
+        "endTime": 56600,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "五",
+        "startTime": 56600,
+        "endTime": 57160,
+        "pinyin": "wǔ"
+      },
+      {
+        "token": "次",
+        "startTime": 57160,
+        "endTime": 57720,
+        "pinyin": "cì"
+      },
+      {
+        "token": "夺",
+        "startTime": 57720,
+        "endTime": 57870,
+        "pinyin": "duó"
+      },
+      {
+        "token": "冠",
+        "startTime": 57870,
+        "endTime": 58020,
+        "pinyin": "guàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 不 确定 选 谁",
+    "translations": {
+      "en": "I'm not sure who to choose."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 58020,
+        "endTime": 58280,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "不",
+        "startTime": 58280,
+        "endTime": 58460,
+        "pinyin": "bù"
+      },
+      {
+        "token": "确",
+        "startTime": 58460,
+        "endTime": 59080,
+        "pinyin": "què"
+      },
+      {
+        "token": "定",
+        "startTime": 59080,
+        "endTime": 59700,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "选",
+        "startTime": 59700,
+        "endTime": 59860,
+        "pinyin": "xuǎn"
+      },
+      {
+        "token": "谁",
+        "startTime": 59860,
+        "endTime": 60320,
+        "pinyin": "shuí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "谁 才 是 最 聪明 的",
+    "translations": {
+      "en": "Who is the smartest?"
+    },
+    "segments": [
+      {
+        "token": "谁",
+        "startTime": 60320,
+        "endTime": 60500,
+        "pinyin": "shuí"
+      },
+      {
+        "token": "才",
+        "startTime": 60500,
+        "endTime": 60640,
+        "pinyin": "cái"
+      },
+      {
+        "token": "是",
+        "startTime": 60640,
+        "endTime": 60940,
+        "pinyin": "shì"
+      },
+      {
+        "token": "最",
+        "startTime": 60940,
+        "endTime": 61060,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "聪",
+        "startTime": 61060,
+        "endTime": 62620,
+        "pinyin": "cōng"
+      },
+      {
+        "token": "明",
+        "startTime": 62620,
+        "endTime": 64180,
+        "pinyin": "míng"
+      },
+      {
+        "token": "的",
+        "startTime": 64180,
+        "endTime": 64319,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "艾 美尔 应该 在 明天 的 比赛 中选 谁 做 队友",
+    "translations": {
+      "en": "Who should Emile pick as a teammate in tomorrow's competition?"
+    },
+    "segments": [
+      {
+        "token": "艾",
+        "startTime": 64319,
+        "endTime": 64420,
+        "pinyin": "ài"
+      },
+      {
+        "token": "美",
+        "startTime": 64420,
+        "endTime": 64540,
+        "pinyin": "měi"
+      },
+      {
+        "token": "尔",
+        "startTime": 64540,
+        "endTime": 64660,
+        "pinyin": "ěr"
+      },
+      {
+        "token": "应",
+        "startTime": 64660,
+        "endTime": 64830,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "该",
+        "startTime": 64830,
+        "endTime": 65000,
+        "pinyin": "gāi"
+      },
+      {
+        "token": "在",
+        "startTime": 65000,
+        "endTime": 65160,
+        "pinyin": "zài"
+      },
+      {
+        "token": "明",
+        "startTime": 65160,
+        "endTime": 65300,
+        "pinyin": "míng"
+      },
+      {
+        "token": "天",
+        "startTime": 65300,
+        "endTime": 65440,
+        "pinyin": "tiān"
+      },
+      {
+        "token": "的",
+        "startTime": 65440,
+        "endTime": 65560,
+        "pinyin": "de"
+      },
+      {
+        "token": "比",
+        "startTime": 65560,
+        "endTime": 65770,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "赛",
+        "startTime": 65770,
+        "endTime": 65980,
+        "pinyin": "sài"
+      },
+      {
+        "token": "中",
+        "startTime": 65980,
+        "endTime": 66250,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "选",
+        "startTime": 66250,
+        "endTime": 66520,
+        "pinyin": "xuǎn"
+      },
+      {
+        "token": "谁",
+        "startTime": 66520,
+        "endTime": 66720,
+        "pinyin": "shuí"
+      },
+      {
+        "token": "做",
+        "startTime": 66720,
+        "endTime": 66920,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "队",
+        "startTime": 66920,
+        "endTime": 67220,
+        "pinyin": "duì"
+      },
+      {
+        "token": "友",
+        "startTime": 67220,
+        "endTime": 67520,
+        "pinyin": "yǒu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "为何 选 这个 人 呢",
+    "translations": {
+      "en": "Why choose this person?"
+    },
+    "segments": [
+      {
+        "token": "为",
+        "startTime": 67520,
+        "endTime": 67770,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "何",
+        "startTime": 67770,
+        "endTime": 68020,
+        "pinyin": "hé"
+      },
+      {
+        "token": "选",
+        "startTime": 68020,
+        "endTime": 68200,
+        "pinyin": "xuǎn"
+      },
+      {
+        "token": "这",
+        "startTime": 68200,
+        "endTime": 68620,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "个",
+        "startTime": 68620,
+        "endTime": 69040,
+        "pinyin": "ge"
+      },
+      {
+        "token": "人",
+        "startTime": 69040,
+        "endTime": 69540,
+        "pinyin": "rén"
+      },
+      {
+        "token": "呢",
+        "startTime": 69540,
+        "endTime": 69960,
+        "pinyin": "ne"
+      }
+    ]
+  },
+  {
+    "sentence_text": "当然 这是 情况 而定",
+    "translations": {
+      "en": "Of course, it depends on the situation."
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 69960,
+        "endTime": 70420,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "然",
+        "startTime": 70420,
+        "endTime": 70880,
+        "pinyin": "rán"
+      },
+      {
+        "token": "这",
+        "startTime": 70880,
+        "endTime": 71040,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "是",
+        "startTime": 71040,
+        "endTime": 71200,
+        "pinyin": "shì"
+      },
+      {
+        "token": "情",
+        "startTime": 71200,
+        "endTime": 71360,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 71360,
+        "endTime": 71520,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "而",
+        "startTime": 71520,
+        "endTime": 71760,
+        "pinyin": "ér"
+      },
+      {
+        "token": "定",
+        "startTime": 71760,
+        "endTime": 72000,
+        "pinyin": "dìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "虽然 I Q 测试 挂钩 ,",
+    "translations": {
+      "en": "Although IQ tests are related,"
+    },
+    "segments": [
+      {
+        "token": "虽",
+        "startTime": 72000,
+        "endTime": 72160,
+        "pinyin": "suī"
+      },
+      {
+        "token": "然",
+        "startTime": 72160,
+        "endTime": 72320,
+        "pinyin": "rán"
+      },
+      {
+        "token": "I",
+        "startTime": 72320,
+        "endTime": 72590,
+        "pinyin": "I"
+      },
+      {
+        "token": "Q",
+        "startTime": 72590,
+        "endTime": 72710,
+        "pinyin": "Q"
+      },
+      {
+        "token": "测",
+        "startTime": 72710,
+        "endTime": 72930,
+        "pinyin": "cè"
+      },
+      {
+        "token": "试",
+        "startTime": 72930,
+        "endTime": 73150,
+        "pinyin": "shì"
+      },
+      {
+        "token": "挂",
+        "startTime": 73150,
+        "endTime": 73570,
+        "pinyin": "guà"
+      },
+      {
+        "token": "钩",
+        "startTime": 73570,
+        "endTime": 73990,
+        "pinyin": "gōu"
+      },
+      {
+        "token": ",",
+        "startTime": 73990,
+        "endTime": 74130,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 这些 测试 通常 会 忽略",
+    "translations": {
+      "en": "these tests usually ignore"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 74130,
+        "endTime": 74270,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "这",
+        "startTime": 74270,
+        "endTime": 74450,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 74450,
+        "endTime": 74630,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "测",
+        "startTime": 74630,
+        "endTime": 74890,
+        "pinyin": "cè"
+      },
+      {
+        "token": "试",
+        "startTime": 74890,
+        "endTime": 75150,
+        "pinyin": "shì"
+      },
+      {
+        "token": "通",
+        "startTime": 75150,
+        "endTime": 75320,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "常",
+        "startTime": 75320,
+        "endTime": 75490,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "会",
+        "startTime": 75490,
+        "endTime": 75730,
+        "pinyin": "huì"
+      },
+      {
+        "token": "忽",
+        "startTime": 75730,
+        "endTime": 75900,
+        "pinyin": "hū"
+      },
+      {
+        "token": "略",
+        "startTime": 75900,
+        "endTime": 76070,
+        "pinyin": "lüè"
+      }
+    ]
+  },
+  {
+    "sentence_text": "一个 人 各种 能力 的 范围 以及 深度 。",
+    "translations": {
+      "en": "the range and depth of a person's various abilities."
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 76070,
+        "endTime": 76330,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 76330,
+        "endTime": 76590,
+        "pinyin": "gè"
+      },
+      {
+        "token": "人",
+        "startTime": 76590,
+        "endTime": 76770,
+        "pinyin": "rén"
+      },
+      {
+        "token": "各",
+        "startTime": 76770,
+        "endTime": 76960,
+        "pinyin": "gè"
+      },
+      {
+        "token": "种",
+        "startTime": 76960,
+        "endTime": 77150,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "能",
+        "startTime": 77150,
+        "endTime": 77340,
+        "pinyin": "néng"
+      },
+      {
+        "token": "力",
+        "startTime": 77340,
+        "endTime": 77530,
+        "pinyin": "lì"
+      },
+      {
+        "token": "的",
+        "startTime": 77530,
+        "endTime": 77730,
+        "pinyin": "de"
+      },
+      {
+        "token": "范",
+        "startTime": 77730,
+        "endTime": 77890,
+        "pinyin": "fàn"
+      },
+      {
+        "token": "围",
+        "startTime": 77890,
+        "endTime": 78050,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "以",
+        "startTime": 78050,
+        "endTime": 78670,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 78670,
+        "endTime": 79290,
+        "pinyin": "jí"
+      },
+      {
+        "token": "深",
+        "startTime": 79290,
+        "endTime": 79460,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "度",
+        "startTime": 79460,
+        "endTime": 79630,
+        "pinyin": "dù"
+      },
+      {
+        "token": "。",
+        "startTime": 79630,
+        "endTime": 80130,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "因此 , 我们 将 把 聪明 的 概念 分为 创造力 、",
+    "translations": {
+      "en": "Therefore, we will divide the concept of intelligence into categories like creativity,"
+    },
+    "segments": [
+      {
+        "token": "因",
+        "startTime": 80130,
+        "endTime": 80320,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "此",
+        "startTime": 80320,
+        "endTime": 80510,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": ",",
+        "startTime": 80510,
+        "endTime": 80950,
+        "pinyin": ","
+      },
+      {
+        "token": "我",
+        "startTime": 80950,
+        "endTime": 81140,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 81140,
+        "endTime": 81330,
+        "pinyin": "men"
+      },
+      {
+        "token": "将",
+        "startTime": 81330,
+        "endTime": 81490,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "把",
+        "startTime": 81490,
+        "endTime": 81750,
+        "pinyin": "bǎ"
+      },
+      {
+        "token": "聪",
+        "startTime": 81750,
+        "endTime": 82000,
+        "pinyin": "cōng"
+      },
+      {
+        "token": "明",
+        "startTime": 82000,
+        "endTime": 82250,
+        "pinyin": "míng"
+      },
+      {
+        "token": "的",
+        "startTime": 82250,
+        "endTime": 82990,
+        "pinyin": "de"
+      },
+      {
+        "token": "概",
+        "startTime": 82990,
+        "endTime": 83360,
+        "pinyin": "gài"
+      },
+      {
+        "token": "念",
+        "startTime": 83360,
+        "endTime": 83730,
+        "pinyin": "niàn"
+      },
+      {
+        "token": "分",
+        "startTime": 83730,
+        "endTime": 83890,
+        "pinyin": "fēn"
+      },
+      {
+        "token": "为",
+        "startTime": 83890,
+        "endTime": 84050,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "创",
+        "startTime": 84050,
+        "endTime": 84377,
+        "pinyin": "chuàng"
+      },
+      {
+        "token": "造",
+        "startTime": 84377,
+        "endTime": 84703,
+        "pinyin": "zào"
+      },
+      {
+        "token": "力",
+        "startTime": 84703,
+        "endTime": 85030,
+        "pinyin": "lì"
+      },
+      {
+        "token": "、",
+        "startTime": 85030,
+        "endTime": 85210,
+        "pinyin": "、"
+      }
+    ]
+  },
+  {
+    "sentence_text": "记忆力 和 学习 能力 等 类别 ,",
+    "translations": {
+      "en": "memory, and learning ability,"
+    },
+    "segments": [
+      {
+        "token": "记",
+        "startTime": 85210,
+        "endTime": 85443,
+        "pinyin": "jì"
+      },
+      {
+        "token": "忆",
+        "startTime": 85443,
+        "endTime": 85677,
+        "pinyin": "yì"
+      },
+      {
+        "token": "力",
+        "startTime": 85677,
+        "endTime": 85910,
+        "pinyin": "lì"
+      },
+      {
+        "token": "和",
+        "startTime": 85910,
+        "endTime": 86090,
+        "pinyin": "hé"
+      },
+      {
+        "token": "学",
+        "startTime": 86090,
+        "endTime": 86430,
+        "pinyin": "xué"
+      },
+      {
+        "token": "习",
+        "startTime": 86430,
+        "endTime": 86770,
+        "pinyin": "xí"
+      },
+      {
+        "token": "能",
+        "startTime": 86770,
+        "endTime": 86950,
+        "pinyin": "néng"
+      },
+      {
+        "token": "力",
+        "startTime": 86950,
+        "endTime": 87130,
+        "pinyin": "lì"
+      },
+      {
+        "token": "等",
+        "startTime": 87130,
+        "endTime": 87270,
+        "pinyin": "děng"
+      },
+      {
+        "token": "类",
+        "startTime": 87270,
+        "endTime": 87470,
+        "pinyin": "lèi"
+      },
+      {
+        "token": "别",
+        "startTime": 87470,
+        "endTime": 87670,
+        "pinyin": "bié"
+      },
+      {
+        "token": ",",
+        "startTime": 87670,
+        "endTime": 87910,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "并 探索 大脑 什么 时候 最 擅长 其中",
+    "translations": {
+      "en": "and explore when the brain is best at each."
+    },
+    "segments": [
+      {
+        "token": "并",
+        "startTime": 87910,
+        "endTime": 88290,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "探",
+        "startTime": 88290,
+        "endTime": 88560,
+        "pinyin": "tàn"
+      },
+      {
+        "token": "索",
+        "startTime": 88560,
+        "endTime": 88830,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "大",
+        "startTime": 88830,
+        "endTime": 89040,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 89040,
+        "endTime": 89250,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "什",
+        "startTime": 89250,
+        "endTime": 89380,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 89380,
+        "endTime": 89510,
+        "pinyin": "me"
+      },
+      {
+        "token": "时",
+        "startTime": 89510,
+        "endTime": 89700,
+        "pinyin": "shí"
+      },
+      {
+        "token": "候",
+        "startTime": 89700,
+        "endTime": 89890,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "最",
+        "startTime": 89890,
+        "endTime": 90630,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "擅",
+        "startTime": 90630,
+        "endTime": 90810,
+        "pinyin": "shàn"
+      },
+      {
+        "token": "长",
+        "startTime": 90810,
+        "endTime": 90990,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "其",
+        "startTime": 90990,
+        "endTime": 91150,
+        "pinyin": "qí"
+      },
+      {
+        "token": "中",
+        "startTime": 91150,
+        "endTime": 91310,
+        "pinyin": "zhōng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "开始 , 在 生命 中 头 几年 ,",
+    "translations": {
+      "en": "Starting in the first few years of life,"
+    },
+    "segments": [
+      {
+        "token": "开",
+        "startTime": 91310,
+        "endTime": 91530,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 91530,
+        "endTime": 91750,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": ",",
+        "startTime": 91750,
+        "endTime": 91970,
+        "pinyin": ","
+      },
+      {
+        "token": "在",
+        "startTime": 91970,
+        "endTime": 92070,
+        "pinyin": "zài"
+      },
+      {
+        "token": "生",
+        "startTime": 92070,
+        "endTime": 92240,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "命",
+        "startTime": 92240,
+        "endTime": 92410,
+        "pinyin": "mìng"
+      },
+      {
+        "token": "中",
+        "startTime": 92410,
+        "endTime": 92610,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "头",
+        "startTime": 92610,
+        "endTime": 92790,
+        "pinyin": "tóu"
+      },
+      {
+        "token": "几",
+        "startTime": 92790,
+        "endTime": 93030,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "年",
+        "startTime": 93030,
+        "endTime": 93270,
+        "pinyin": "nián"
+      },
+      {
+        "token": ",",
+        "startTime": 93270,
+        "endTime": 93710,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 的 大脑 迅速 成长 , 称为 突出 发生 。",
+    "translations": {
+      "en": "your brain grows rapidly, a process called synaptogenesis."
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 93710,
+        "endTime": 93910,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 93910,
+        "endTime": 94030,
+        "pinyin": "de"
+      },
+      {
+        "token": "大",
+        "startTime": 94030,
+        "endTime": 94250,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 94250,
+        "endTime": 94470,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "迅",
+        "startTime": 94470,
+        "endTime": 94830,
+        "pinyin": "xùn"
+      },
+      {
+        "token": "速",
+        "startTime": 94830,
+        "endTime": 95190,
+        "pinyin": "sù"
+      },
+      {
+        "token": "成",
+        "startTime": 95190,
+        "endTime": 95330,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "长",
+        "startTime": 95330,
+        "endTime": 95470,
+        "pinyin": "zhǎng"
+      },
+      {
+        "token": ",",
+        "startTime": 95470,
+        "endTime": 95690,
+        "pinyin": ","
+      },
+      {
+        "token": "称",
+        "startTime": 95690,
+        "endTime": 95900,
+        "pinyin": "chēng"
+      },
+      {
+        "token": "为",
+        "startTime": 95900,
+        "endTime": 96110,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "突",
+        "startTime": 96110,
+        "endTime": 96470,
+        "pinyin": "tū"
+      },
+      {
+        "token": "出",
+        "startTime": 96470,
+        "endTime": 96830,
+        "pinyin": "chū"
+      },
+      {
+        "token": "发",
+        "startTime": 96830,
+        "endTime": 96970,
+        "pinyin": "fā"
+      },
+      {
+        "token": "生",
+        "startTime": 96970,
+        "endTime": 97110,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "。",
+        "startTime": 97110,
+        "endTime": 97330,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "每秒 形成 100 万个 新 的 神经 连接",
+    "translations": {
+      "en": "One million new neural connections form every second."
+    },
+    "segments": [
+      {
+        "token": "每",
+        "startTime": 97330,
+        "endTime": 97510,
+        "pinyin": "měi"
+      },
+      {
+        "token": "秒",
+        "startTime": 97510,
+        "endTime": 97690,
+        "pinyin": "miǎo"
+      },
+      {
+        "token": "形",
+        "startTime": 97690,
+        "endTime": 97760,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "成",
+        "startTime": 97760,
+        "endTime": 97830,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "1",
+        "startTime": 97830,
+        "endTime": 97943,
+        "pinyin": "1"
+      },
+      {
+        "token": "0",
+        "startTime": 97943,
+        "endTime": 98057,
+        "pinyin": "0"
+      },
+      {
+        "token": "0",
+        "startTime": 98057,
+        "endTime": 98170,
+        "pinyin": "0"
+      },
+      {
+        "token": "万",
+        "startTime": 98170,
+        "endTime": 98440,
+        "pinyin": "wàn"
+      },
+      {
+        "token": "个",
+        "startTime": 98440,
+        "endTime": 98710,
+        "pinyin": "gè"
+      },
+      {
+        "token": "新",
+        "startTime": 98710,
+        "endTime": 99010,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "的",
+        "startTime": 99010,
+        "endTime": 99230,
+        "pinyin": "de"
+      },
+      {
+        "token": "神",
+        "startTime": 99230,
+        "endTime": 99400,
+        "pinyin": "shén"
+      },
+      {
+        "token": "经",
+        "startTime": 99400,
+        "endTime": 99570,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "连",
+        "startTime": 99570,
+        "endTime": 100370,
+        "pinyin": "lián"
+      },
+      {
+        "token": "接",
+        "startTime": 100370,
+        "endTime": 101170,
+        "pinyin": "jiē"
+      }
+    ]
+  },
+  {
+    "sentence_text": "随着 大脑 发育 , 它会 经历 休整 过程",
+    "translations": {
+      "en": "As the brain develops, it undergoes a pruning process"
+    },
+    "segments": [
+      {
+        "token": "随",
+        "startTime": 101170,
+        "endTime": 101310,
+        "pinyin": "suí"
+      },
+      {
+        "token": "着",
+        "startTime": 101310,
+        "endTime": 101450,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "大",
+        "startTime": 101450,
+        "endTime": 101600,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 101600,
+        "endTime": 101750,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "发",
+        "startTime": 101750,
+        "endTime": 102090,
+        "pinyin": "fā"
+      },
+      {
+        "token": "育",
+        "startTime": 102090,
+        "endTime": 102430,
+        "pinyin": "yù"
+      },
+      {
+        "token": ",",
+        "startTime": 102430,
+        "endTime": 102530,
+        "pinyin": ","
+      },
+      {
+        "token": "它",
+        "startTime": 102530,
+        "endTime": 102740,
+        "pinyin": "tā"
+      },
+      {
+        "token": "会",
+        "startTime": 102740,
+        "endTime": 102950,
+        "pinyin": "huì"
+      },
+      {
+        "token": "经",
+        "startTime": 102950,
+        "endTime": 103160,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "历",
+        "startTime": 103160,
+        "endTime": 103370,
+        "pinyin": "lì"
+      },
+      {
+        "token": "休",
+        "startTime": 103370,
+        "endTime": 103620,
+        "pinyin": "xiū"
+      },
+      {
+        "token": "整",
+        "startTime": 103620,
+        "endTime": 103870,
+        "pinyin": "zhěng"
+      },
+      {
+        "token": "过",
+        "startTime": 103870,
+        "endTime": 104310,
+        "pinyin": "guò"
+      },
+      {
+        "token": "程",
+        "startTime": 104310,
+        "endTime": 104750,
+        "pinyin": "chéng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "基于 你 的 经历 和 所处 环境",
+    "translations": {
+      "en": "based on your experiences and environment."
+    },
+    "segments": [
+      {
+        "token": "基",
+        "startTime": 104750,
+        "endTime": 104950,
+        "pinyin": "jī"
+      },
+      {
+        "token": "于",
+        "startTime": 104950,
+        "endTime": 105150,
+        "pinyin": "yú"
+      },
+      {
+        "token": "你",
+        "startTime": 105150,
+        "endTime": 105370,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 105370,
+        "endTime": 105550,
+        "pinyin": "de"
+      },
+      {
+        "token": "经",
+        "startTime": 105550,
+        "endTime": 105770,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "历",
+        "startTime": 105770,
+        "endTime": 105990,
+        "pinyin": "lì"
+      },
+      {
+        "token": "和",
+        "startTime": 105990,
+        "endTime": 106130,
+        "pinyin": "hé"
+      },
+      {
+        "token": "所",
+        "startTime": 106130,
+        "endTime": 106540,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "处",
+        "startTime": 106540,
+        "endTime": 106950,
+        "pinyin": "chù"
+      },
+      {
+        "token": "环",
+        "startTime": 106950,
+        "endTime": 107110,
+        "pinyin": "huán"
+      },
+      {
+        "token": "境",
+        "startTime": 107110,
+        "endTime": 107270,
+        "pinyin": "jìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "使用 的 连接 将 得到 加强",
+    "translations": {
+      "en": "Connections that are used are strengthened,"
+    },
+    "segments": [
+      {
+        "token": "使",
+        "startTime": 107270,
+        "endTime": 107450,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "用",
+        "startTime": 107450,
+        "endTime": 107630,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "的",
+        "startTime": 107630,
+        "endTime": 107870,
+        "pinyin": "de"
+      },
+      {
+        "token": "连",
+        "startTime": 107870,
+        "endTime": 108080,
+        "pinyin": "lián"
+      },
+      {
+        "token": "接",
+        "startTime": 108080,
+        "endTime": 108290,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "将",
+        "startTime": 108290,
+        "endTime": 108470,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "得",
+        "startTime": 108470,
+        "endTime": 108960,
+        "pinyin": "dé"
+      },
+      {
+        "token": "到",
+        "startTime": 108960,
+        "endTime": 109450,
+        "pinyin": "dào"
+      },
+      {
+        "token": "加",
+        "startTime": 109450,
+        "endTime": 109620,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "强",
+        "startTime": 109620,
+        "endTime": 109790,
+        "pinyin": "qiáng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "未 使用 的 连接 将 被 删除",
+    "translations": {
+      "en": "and unused connections are eliminated."
+    },
+    "segments": [
+      {
+        "token": "未",
+        "startTime": 109790,
+        "endTime": 109970,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "使",
+        "startTime": 109970,
+        "endTime": 110150,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "用",
+        "startTime": 110150,
+        "endTime": 110330,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "的",
+        "startTime": 110330,
+        "endTime": 110530,
+        "pinyin": "de"
+      },
+      {
+        "token": "连",
+        "startTime": 110530,
+        "endTime": 110760,
+        "pinyin": "lián"
+      },
+      {
+        "token": "接",
+        "startTime": 110760,
+        "endTime": 110990,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "将",
+        "startTime": 110990,
+        "endTime": 111290,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "被",
+        "startTime": 111290,
+        "endTime": 112290,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "删",
+        "startTime": 112290,
+        "endTime": 112480,
+        "pinyin": "shān"
+      },
+      {
+        "token": "除",
+        "startTime": 112480,
+        "endTime": 112670,
+        "pinyin": "chú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "经常 使用 的 神经 通路 有 随窍 包裹 在 一层 绝缘层 中",
+    "translations": {
+      "en": "Frequently used neural pathways are wrapped in an insulating layer,"
+    },
+    "segments": [
+      {
+        "token": "经",
+        "startTime": 112670,
+        "endTime": 112830,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "常",
+        "startTime": 112830,
+        "endTime": 112990,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "使",
+        "startTime": 112990,
+        "endTime": 113140,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "用",
+        "startTime": 113140,
+        "endTime": 113290,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "的",
+        "startTime": 113290,
+        "endTime": 113450,
+        "pinyin": "de"
+      },
+      {
+        "token": "神",
+        "startTime": 113450,
+        "endTime": 113640,
+        "pinyin": "shén"
+      },
+      {
+        "token": "经",
+        "startTime": 113640,
+        "endTime": 113830,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "通",
+        "startTime": 113830,
+        "endTime": 114110,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "路",
+        "startTime": 114110,
+        "endTime": 114390,
+        "pinyin": "lù"
+      },
+      {
+        "token": "有",
+        "startTime": 114390,
+        "endTime": 115090,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "随",
+        "startTime": 115090,
+        "endTime": 115230,
+        "pinyin": "suí"
+      },
+      {
+        "token": "窍",
+        "startTime": 115230,
+        "endTime": 115370,
+        "pinyin": "qiào"
+      },
+      {
+        "token": "包",
+        "startTime": 115370,
+        "endTime": 115560,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "裹",
+        "startTime": 115560,
+        "endTime": 115750,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "在",
+        "startTime": 115750,
+        "endTime": 115930,
+        "pinyin": "zài"
+      },
+      {
+        "token": "一",
+        "startTime": 115930,
+        "endTime": 116160,
+        "pinyin": "yī"
+      },
+      {
+        "token": "层",
+        "startTime": 116160,
+        "endTime": 116390,
+        "pinyin": "céng"
+      },
+      {
+        "token": "绝",
+        "startTime": 116390,
+        "endTime": 116763,
+        "pinyin": "jué"
+      },
+      {
+        "token": "缘",
+        "startTime": 116763,
+        "endTime": 117137,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "层",
+        "startTime": 117137,
+        "endTime": 117510,
+        "pinyin": "céng"
+      },
+      {
+        "token": "中",
+        "startTime": 117510,
+        "endTime": 117615,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "使",
+        "startTime": 117615,
+        "endTime": 117720,
+        "pinyin": "shǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "使 信息 传播 更 快",
+    "translations": {
+      "en": "making information travel faster."
+    },
+    "segments": [
+      {
+        "token": "信",
+        "startTime": 117930,
+        "endTime": 118160,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "息",
+        "startTime": 118160,
+        "endTime": 118390,
+        "pinyin": "xī"
+      },
+      {
+        "token": "传",
+        "startTime": 118390,
+        "endTime": 118990,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "播",
+        "startTime": 118990,
+        "endTime": 119590,
+        "pinyin": "bō"
+      },
+      {
+        "token": "更",
+        "startTime": 119590,
+        "endTime": 119780,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "快",
+        "startTime": 119780,
+        "endTime": 119970,
+        "pinyin": "kuài"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 创造 了 一个 更 高效 精良 的 大脑",
+    "translations": {
+      "en": "This creates a more efficient and refined brain."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 119970,
+        "endTime": 120190,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "创",
+        "startTime": 120190,
+        "endTime": 120350,
+        "pinyin": "chuàng"
+      },
+      {
+        "token": "造",
+        "startTime": 120350,
+        "endTime": 120510,
+        "pinyin": "zào"
+      },
+      {
+        "token": "了",
+        "startTime": 120510,
+        "endTime": 120750,
+        "pinyin": "le"
+      },
+      {
+        "token": "一",
+        "startTime": 120750,
+        "endTime": 121060,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 121060,
+        "endTime": 121370,
+        "pinyin": "gè"
+      },
+      {
+        "token": "更",
+        "startTime": 121370,
+        "endTime": 121730,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "高",
+        "startTime": 121730,
+        "endTime": 121990,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "效",
+        "startTime": 121990,
+        "endTime": 122250,
+        "pinyin": "xiào"
+      },
+      {
+        "token": "精",
+        "startTime": 122250,
+        "endTime": 123040,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "良",
+        "startTime": 123040,
+        "endTime": 123830,
+        "pinyin": "liáng"
+      },
+      {
+        "token": "的",
+        "startTime": 123830,
+        "endTime": 124010,
+        "pinyin": "de"
+      },
+      {
+        "token": "大",
+        "startTime": 124010,
+        "endTime": 124170,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 124170,
+        "endTime": 124330,
+        "pinyin": "nǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 这种 大脑 重塑 在 不同 的 时间 发生 在 脑区 内部 和 之间",
+    "translations": {
+      "en": "But this brain remodeling occurs within and between brain regions at different times."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 124330,
+        "endTime": 124510,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "这",
+        "startTime": 124510,
+        "endTime": 124740,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 124740,
+        "endTime": 124970,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "大",
+        "startTime": 124970,
+        "endTime": 125120,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 125120,
+        "endTime": 125270,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "重",
+        "startTime": 125270,
+        "endTime": 125410,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "塑",
+        "startTime": 125410,
+        "endTime": 125550,
+        "pinyin": "sù"
+      },
+      {
+        "token": "在",
+        "startTime": 125550,
+        "endTime": 125750,
+        "pinyin": "zài"
+      },
+      {
+        "token": "不",
+        "startTime": 125750,
+        "endTime": 126020,
+        "pinyin": "bù"
+      },
+      {
+        "token": "同",
+        "startTime": 126020,
+        "endTime": 126290,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "的",
+        "startTime": 126290,
+        "endTime": 126470,
+        "pinyin": "de"
+      },
+      {
+        "token": "时",
+        "startTime": 126470,
+        "endTime": 126630,
+        "pinyin": "shí"
+      },
+      {
+        "token": "间",
+        "startTime": 126630,
+        "endTime": 126790,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "发",
+        "startTime": 126790,
+        "endTime": 126980,
+        "pinyin": "fā"
+      },
+      {
+        "token": "生",
+        "startTime": 126980,
+        "endTime": 127170,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "在",
+        "startTime": 127170,
+        "endTime": 127390,
+        "pinyin": "zài"
+      },
+      {
+        "token": "脑",
+        "startTime": 127390,
+        "endTime": 127640,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "区",
+        "startTime": 127640,
+        "endTime": 127890,
+        "pinyin": "qū"
+      },
+      {
+        "token": "内",
+        "startTime": 127890,
+        "endTime": 128330,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "部",
+        "startTime": 128330,
+        "endTime": 128770,
+        "pinyin": "bù"
+      },
+      {
+        "token": "和",
+        "startTime": 128770,
+        "endTime": 128910,
+        "pinyin": "hé"
+      },
+      {
+        "token": "之",
+        "startTime": 128910,
+        "endTime": 129060,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 129060,
+        "endTime": 129210,
+        "pinyin": "jiān"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 不同 的 年龄段 得到 发展",
+    "translations": {
+      "en": "It develops at different ages."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 129210,
+        "endTime": 129390,
+        "pinyin": "zài"
+      },
+      {
+        "token": "不",
+        "startTime": 129390,
+        "endTime": 129530,
+        "pinyin": "bù"
+      },
+      {
+        "token": "同",
+        "startTime": 129530,
+        "endTime": 129670,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "的",
+        "startTime": 129670,
+        "endTime": 129890,
+        "pinyin": "de"
+      },
+      {
+        "token": "年",
+        "startTime": 129890,
+        "endTime": 130090,
+        "pinyin": "nián"
+      },
+      {
+        "token": "龄",
+        "startTime": 130090,
+        "endTime": 130290,
+        "pinyin": "líng"
+      },
+      {
+        "token": "段",
+        "startTime": 130290,
+        "endTime": 130490,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "得",
+        "startTime": 130490,
+        "endTime": 131360,
+        "pinyin": "dé"
+      },
+      {
+        "token": "到",
+        "startTime": 131360,
+        "endTime": 132230,
+        "pinyin": "dào"
+      },
+      {
+        "token": "发",
+        "startTime": 132230,
+        "endTime": 132580,
+        "pinyin": "fā"
+      },
+      {
+        "token": "展",
+        "startTime": 132580,
+        "endTime": 132930,
+        "pinyin": "zhǎn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "比如说 在 孩童 时期",
+    "translations": {
+      "en": "For example, in childhood,"
+    },
+    "segments": [
+      {
+        "token": "比",
+        "startTime": 132930,
+        "endTime": 133150,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "如",
+        "startTime": 133150,
+        "endTime": 133370,
+        "pinyin": "rú"
+      },
+      {
+        "token": "说",
+        "startTime": 133370,
+        "endTime": 133590,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "在",
+        "startTime": 133590,
+        "endTime": 134130,
+        "pinyin": "zài"
+      },
+      {
+        "token": "孩",
+        "startTime": 134130,
+        "endTime": 134310,
+        "pinyin": "hái"
+      },
+      {
+        "token": "童",
+        "startTime": 134310,
+        "endTime": 134490,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "时",
+        "startTime": 134490,
+        "endTime": 134660,
+        "pinyin": "shí"
+      },
+      {
+        "token": "期",
+        "startTime": 134660,
+        "endTime": 134830,
+        "pinyin": "qī"
+      }
+    ]
+  },
+  {
+    "sentence_text": "大脑 参与 语言 学习 的 部分 发育 特别",
+    "translations": {
+      "en": "the parts of the brain involved in language learning develop particularly well."
+    },
+    "segments": [
+      {
+        "token": "大",
+        "startTime": 134830,
+        "endTime": 134990,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 134990,
+        "endTime": 135150,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "参",
+        "startTime": 135150,
+        "endTime": 135350,
+        "pinyin": "cān"
+      },
+      {
+        "token": "与",
+        "startTime": 135350,
+        "endTime": 135550,
+        "pinyin": "yù"
+      },
+      {
+        "token": "语",
+        "startTime": 135550,
+        "endTime": 135740,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "言",
+        "startTime": 135740,
+        "endTime": 135930,
+        "pinyin": "yán"
+      },
+      {
+        "token": "学",
+        "startTime": 135930,
+        "endTime": 136170,
+        "pinyin": "xué"
+      },
+      {
+        "token": "习",
+        "startTime": 136170,
+        "endTime": 136410,
+        "pinyin": "xí"
+      },
+      {
+        "token": "的",
+        "startTime": 136410,
+        "endTime": 136610,
+        "pinyin": "de"
+      },
+      {
+        "token": "部",
+        "startTime": 136610,
+        "endTime": 136840,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 136840,
+        "endTime": 137070,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "发",
+        "startTime": 137070,
+        "endTime": 137520,
+        "pinyin": "fā"
+      },
+      {
+        "token": "育",
+        "startTime": 137520,
+        "endTime": 137970,
+        "pinyin": "yù"
+      },
+      {
+        "token": "特",
+        "startTime": 137970,
+        "endTime": 138110,
+        "pinyin": "tè"
+      },
+      {
+        "token": "别",
+        "startTime": 138110,
+        "endTime": 138250,
+        "pinyin": "bié"
+      }
+    ]
+  },
+  {
+    "sentence_text": "为什么 很多 孩子 能够 学会 并 掌握 多种语言",
+    "translations": {
+      "en": "That's why many children can learn and master multiple languages."
+    },
+    "segments": [
+      {
+        "token": "为",
+        "startTime": 138250,
+        "endTime": 138370,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "什",
+        "startTime": 138370,
+        "endTime": 138490,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 138490,
+        "endTime": 138610,
+        "pinyin": "me"
+      },
+      {
+        "token": "很",
+        "startTime": 138610,
+        "endTime": 138810,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "多",
+        "startTime": 138810,
+        "endTime": 139010,
+        "pinyin": "duō"
+      },
+      {
+        "token": "孩",
+        "startTime": 139010,
+        "endTime": 139210,
+        "pinyin": "hái"
+      },
+      {
+        "token": "子",
+        "startTime": 139210,
+        "endTime": 139410,
+        "pinyin": "zi"
+      },
+      {
+        "token": "能",
+        "startTime": 139410,
+        "endTime": 139560,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 139560,
+        "endTime": 139710,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "学",
+        "startTime": 139710,
+        "endTime": 139960,
+        "pinyin": "xué"
+      },
+      {
+        "token": "会",
+        "startTime": 139960,
+        "endTime": 140210,
+        "pinyin": "huì"
+      },
+      {
+        "token": "并",
+        "startTime": 140210,
+        "endTime": 140390,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "掌",
+        "startTime": 140390,
+        "endTime": 140570,
+        "pinyin": "zhǎng"
+      },
+      {
+        "token": "握",
+        "startTime": 140570,
+        "endTime": 140750,
+        "pinyin": "wò"
+      },
+      {
+        "token": "多",
+        "startTime": 140750,
+        "endTime": 141100,
+        "pinyin": "duō"
+      },
+      {
+        "token": "种",
+        "startTime": 141100,
+        "endTime": 141450,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "语",
+        "startTime": 141450,
+        "endTime": 141800,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "言",
+        "startTime": 141800,
+        "endTime": 142150,
+        "pinyin": "yán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "然而 前额 叶 皮层",
+    "translations": {
+      "en": "However, the prefrontal cortex,"
+    },
+    "segments": [
+      {
+        "token": "然",
+        "startTime": 142150,
+        "endTime": 142340,
+        "pinyin": "rán"
+      },
+      {
+        "token": "而",
+        "startTime": 142340,
+        "endTime": 142530,
+        "pinyin": "ér"
+      },
+      {
+        "token": "前",
+        "startTime": 142530,
+        "endTime": 142910,
+        "pinyin": "qián"
+      },
+      {
+        "token": "额",
+        "startTime": 142910,
+        "endTime": 143290,
+        "pinyin": "é"
+      },
+      {
+        "token": "叶",
+        "startTime": 143290,
+        "endTime": 143510,
+        "pinyin": "yè"
+      },
+      {
+        "token": "皮",
+        "startTime": 143510,
+        "endTime": 143915,
+        "pinyin": "pí"
+      },
+      {
+        "token": "层",
+        "startTime": 143915,
+        "endTime": 144320,
+        "pinyin": "céng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "大脑 负责 认知 控制 和 意志 的 一个 部分 发育 缓慢",
+    "translations": {
+      "en": "the part of the brain responsible for cognitive control and willpower, develops slowly."
+    },
+    "segments": [
+      {
+        "token": "大",
+        "startTime": 144320,
+        "endTime": 144470,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 144470,
+        "endTime": 144620,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "负",
+        "startTime": 144620,
+        "endTime": 144780,
+        "pinyin": "fù"
+      },
+      {
+        "token": "责",
+        "startTime": 144780,
+        "endTime": 144940,
+        "pinyin": "zé"
+      },
+      {
+        "token": "认",
+        "startTime": 144940,
+        "endTime": 145120,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "知",
+        "startTime": 145120,
+        "endTime": 145300,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "控",
+        "startTime": 145300,
+        "endTime": 145540,
+        "pinyin": "kòng"
+      },
+      {
+        "token": "制",
+        "startTime": 145540,
+        "endTime": 145780,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "和",
+        "startTime": 145780,
+        "endTime": 145960,
+        "pinyin": "hé"
+      },
+      {
+        "token": "意",
+        "startTime": 145960,
+        "endTime": 146140,
+        "pinyin": "yì"
+      },
+      {
+        "token": "志",
+        "startTime": 146140,
+        "endTime": 146320,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "的",
+        "startTime": 146320,
+        "endTime": 146440,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 146440,
+        "endTime": 146520,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 146520,
+        "endTime": 146600,
+        "pinyin": "gè"
+      },
+      {
+        "token": "部",
+        "startTime": 146600,
+        "endTime": 146810,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 146810,
+        "endTime": 147020,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "发",
+        "startTime": 147020,
+        "endTime": 147310,
+        "pinyin": "fā"
+      },
+      {
+        "token": "育",
+        "startTime": 147310,
+        "endTime": 147600,
+        "pinyin": "yù"
+      },
+      {
+        "token": "缓",
+        "startTime": 147600,
+        "endTime": 148180,
+        "pinyin": "huǎn"
+      },
+      {
+        "token": "慢",
+        "startTime": 148180,
+        "endTime": 148760,
+        "pinyin": "màn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "因此 , 许多 小孩 可能 不 擅长 策略性 游戏",
+    "translations": {
+      "en": "Therefore, many children may not be good at strategic games,"
+    },
+    "segments": [
+      {
+        "token": "因",
+        "startTime": 148760,
+        "endTime": 149080,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "此",
+        "startTime": 149080,
+        "endTime": 149400,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": ",",
+        "startTime": 149400,
+        "endTime": 149520,
+        "pinyin": ","
+      },
+      {
+        "token": "许",
+        "startTime": 149520,
+        "endTime": 149690,
+        "pinyin": "xǔ"
+      },
+      {
+        "token": "多",
+        "startTime": 149690,
+        "endTime": 149860,
+        "pinyin": "duō"
+      },
+      {
+        "token": "小",
+        "startTime": 149860,
+        "endTime": 150060,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "孩",
+        "startTime": 150060,
+        "endTime": 150260,
+        "pinyin": "hái"
+      },
+      {
+        "token": "可",
+        "startTime": 150260,
+        "endTime": 150490,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 150490,
+        "endTime": 150720,
+        "pinyin": "néng"
+      },
+      {
+        "token": "不",
+        "startTime": 150720,
+        "endTime": 150900,
+        "pinyin": "bù"
+      },
+      {
+        "token": "擅",
+        "startTime": 150900,
+        "endTime": 151140,
+        "pinyin": "shàn"
+      },
+      {
+        "token": "长",
+        "startTime": 151140,
+        "endTime": 151380,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "策",
+        "startTime": 151380,
+        "endTime": 151660,
+        "pinyin": "cè"
+      },
+      {
+        "token": "略",
+        "startTime": 151660,
+        "endTime": 151940,
+        "pinyin": "lüè"
+      },
+      {
+        "token": "性",
+        "startTime": 151940,
+        "endTime": 152220,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "游",
+        "startTime": 152220,
+        "endTime": 152340,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "戏",
+        "startTime": 152340,
+        "endTime": 152460,
+        "pinyin": "xì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "比如 下象棋 或 跳棋",
+    "translations": {
+      "en": "like chess or checkers,"
+    },
+    "segments": [
+      {
+        "token": "比",
+        "startTime": 152460,
+        "endTime": 152690,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "如",
+        "startTime": 152690,
+        "endTime": 152920,
+        "pinyin": "rú"
+      },
+      {
+        "token": "下",
+        "startTime": 152920,
+        "endTime": 153120,
+        "pinyin": "xià"
+      },
+      {
+        "token": "象",
+        "startTime": 153120,
+        "endTime": 153320,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "棋",
+        "startTime": 153320,
+        "endTime": 153520,
+        "pinyin": "qí"
+      },
+      {
+        "token": "或",
+        "startTime": 153520,
+        "endTime": 154300,
+        "pinyin": "huò"
+      },
+      {
+        "token": "跳",
+        "startTime": 154300,
+        "endTime": 154500,
+        "pinyin": "tiào"
+      },
+      {
+        "token": "棋",
+        "startTime": 154500,
+        "endTime": 154700,
+        "pinyin": "qí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 需要 持续 地 专注 力 计划 和 抽象思维",
+    "translations": {
+      "en": "which require sustained focus, planning, and abstract thinking."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 154700,
+        "endTime": 155000,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "需",
+        "startTime": 155000,
+        "endTime": 155160,
+        "pinyin": "xū"
+      },
+      {
+        "token": "要",
+        "startTime": 155160,
+        "endTime": 155320,
+        "pinyin": "yào"
+      },
+      {
+        "token": "持",
+        "startTime": 155320,
+        "endTime": 155510,
+        "pinyin": "chí"
+      },
+      {
+        "token": "续",
+        "startTime": 155510,
+        "endTime": 155700,
+        "pinyin": "xù"
+      },
+      {
+        "token": "地",
+        "startTime": 155700,
+        "endTime": 155960,
+        "pinyin": "dì"
+      },
+      {
+        "token": "专",
+        "startTime": 155960,
+        "endTime": 156250,
+        "pinyin": "zhuān"
+      },
+      {
+        "token": "注",
+        "startTime": 156250,
+        "endTime": 156540,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "力",
+        "startTime": 156540,
+        "endTime": 156940,
+        "pinyin": "lì"
+      },
+      {
+        "token": "计",
+        "startTime": 156940,
+        "endTime": 157200,
+        "pinyin": "jì"
+      },
+      {
+        "token": "划",
+        "startTime": 157200,
+        "endTime": 157460,
+        "pinyin": "huà"
+      },
+      {
+        "token": "和",
+        "startTime": 157460,
+        "endTime": 157760,
+        "pinyin": "hé"
+      },
+      {
+        "token": "抽",
+        "startTime": 157760,
+        "endTime": 158145,
+        "pinyin": "chōu"
+      },
+      {
+        "token": "象",
+        "startTime": 158145,
+        "endTime": 158530,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "思",
+        "startTime": 158530,
+        "endTime": 158915,
+        "pinyin": "sī"
+      },
+      {
+        "token": "维",
+        "startTime": 158915,
+        "endTime": 159300,
+        "pinyin": "wéi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "同时 , 孩子 们 倾向 于 自由 探索性 地 学习",
+    "translations": {
+      "en": "At the same time, children tend to learn through free exploration."
+    },
+    "segments": [
+      {
+        "token": "同",
+        "startTime": 159300,
+        "endTime": 159430,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "时",
+        "startTime": 159430,
+        "endTime": 159560,
+        "pinyin": "shí"
+      },
+      {
+        "token": ",",
+        "startTime": 159560,
+        "endTime": 159720,
+        "pinyin": ","
+      },
+      {
+        "token": "孩",
+        "startTime": 159720,
+        "endTime": 159920,
+        "pinyin": "hái"
+      },
+      {
+        "token": "子",
+        "startTime": 159920,
+        "endTime": 160120,
+        "pinyin": "zi"
+      },
+      {
+        "token": "们",
+        "startTime": 160120,
+        "endTime": 160320,
+        "pinyin": "men"
+      },
+      {
+        "token": "倾",
+        "startTime": 160320,
+        "endTime": 160570,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "向",
+        "startTime": 160570,
+        "endTime": 160820,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "于",
+        "startTime": 160820,
+        "endTime": 161220,
+        "pinyin": "yú"
+      },
+      {
+        "token": "自",
+        "startTime": 161220,
+        "endTime": 161420,
+        "pinyin": "zì"
+      },
+      {
+        "token": "由",
+        "startTime": 161420,
+        "endTime": 161620,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "探",
+        "startTime": 161620,
+        "endTime": 162060,
+        "pinyin": "tàn"
+      },
+      {
+        "token": "索",
+        "startTime": 162060,
+        "endTime": 162500,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "性",
+        "startTime": 162500,
+        "endTime": 162940,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "地",
+        "startTime": 162940,
+        "endTime": 163060,
+        "pinyin": "dì"
+      },
+      {
+        "token": "学",
+        "startTime": 163060,
+        "endTime": 163330,
+        "pinyin": "xué"
+      },
+      {
+        "token": "习",
+        "startTime": 163330,
+        "endTime": 163600,
+        "pinyin": "xí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他们 用 更 负 想象力 的 方法 解 谜题",
+    "translations": {
+      "en": "They solve puzzles with more imaginative methods,"
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 163600,
+        "endTime": 163790,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 163790,
+        "endTime": 163980,
+        "pinyin": "men"
+      },
+      {
+        "token": "用",
+        "startTime": 163980,
+        "endTime": 164200,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "更",
+        "startTime": 164200,
+        "endTime": 164360,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "负",
+        "startTime": 164360,
+        "endTime": 164520,
+        "pinyin": "fù"
+      },
+      {
+        "token": "想",
+        "startTime": 164520,
+        "endTime": 164727,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "象",
+        "startTime": 164727,
+        "endTime": 164933,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "力",
+        "startTime": 164933,
+        "endTime": 165140,
+        "pinyin": "lì"
+      },
+      {
+        "token": "的",
+        "startTime": 165140,
+        "endTime": 165320,
+        "pinyin": "de"
+      },
+      {
+        "token": "方",
+        "startTime": 165320,
+        "endTime": 165800,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "法",
+        "startTime": 165800,
+        "endTime": 166280,
+        "pinyin": "fǎ"
+      },
+      {
+        "token": "解",
+        "startTime": 166280,
+        "endTime": 166520,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "谜",
+        "startTime": 166520,
+        "endTime": 166670,
+        "pinyin": "mí"
+      },
+      {
+        "token": "题",
+        "startTime": 166670,
+        "endTime": 166820,
+        "pinyin": "tí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而且 大部分 很少 怕 犯错",
+    "translations": {
+      "en": "and most are rarely afraid of making mistakes."
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 166820,
+        "endTime": 167140,
+        "pinyin": "ér"
+      },
+      {
+        "token": "且",
+        "startTime": 167140,
+        "endTime": 167460,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "大",
+        "startTime": 167460,
+        "endTime": 168440,
+        "pinyin": "dà"
+      },
+      {
+        "token": "部",
+        "startTime": 168440,
+        "endTime": 169420,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 169420,
+        "endTime": 170400,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "很",
+        "startTime": 170400,
+        "endTime": 170600,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "少",
+        "startTime": 170600,
+        "endTime": 170800,
+        "pinyin": "shǎo"
+      },
+      {
+        "token": "怕",
+        "startTime": 170800,
+        "endTime": 171020,
+        "pinyin": "pà"
+      },
+      {
+        "token": "犯",
+        "startTime": 171020,
+        "endTime": 171220,
+        "pinyin": "fàn"
+      },
+      {
+        "token": "错",
+        "startTime": 171220,
+        "endTime": 171420,
+        "pinyin": "cuò"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 成年人 有 他们 独特 的 能力",
+    "translations": {
+      "en": "But adults have their own unique abilities."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 171420,
+        "endTime": 171620,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "成",
+        "startTime": 171620,
+        "endTime": 171867,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "年",
+        "startTime": 171867,
+        "endTime": 172113,
+        "pinyin": "nián"
+      },
+      {
+        "token": "人",
+        "startTime": 172113,
+        "endTime": 172360,
+        "pinyin": "rén"
+      },
+      {
+        "token": "有",
+        "startTime": 172360,
+        "endTime": 172520,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "他",
+        "startTime": 172520,
+        "endTime": 172950,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 172950,
+        "endTime": 173380,
+        "pinyin": "men"
+      },
+      {
+        "token": "独",
+        "startTime": 173380,
+        "endTime": 173550,
+        "pinyin": "dú"
+      },
+      {
+        "token": "特",
+        "startTime": 173550,
+        "endTime": 173720,
+        "pinyin": "tè"
+      },
+      {
+        "token": "的",
+        "startTime": 173720,
+        "endTime": 173940,
+        "pinyin": "de"
+      },
+      {
+        "token": "能",
+        "startTime": 173940,
+        "endTime": 174090,
+        "pinyin": "néng"
+      },
+      {
+        "token": "力",
+        "startTime": 174090,
+        "endTime": 174240,
+        "pinyin": "lì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "成年人 得益于 发达 的 前额 叶 皮层",
+    "translations": {
+      "en": "Adults benefit from a developed prefrontal cortex,"
+    },
+    "segments": [
+      {
+        "token": "成",
+        "startTime": 174240,
+        "endTime": 174473,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "年",
+        "startTime": 174473,
+        "endTime": 174707,
+        "pinyin": "nián"
+      },
+      {
+        "token": "人",
+        "startTime": 174707,
+        "endTime": 174940,
+        "pinyin": "rén"
+      },
+      {
+        "token": "得",
+        "startTime": 174940,
+        "endTime": 175127,
+        "pinyin": "dé"
+      },
+      {
+        "token": "益",
+        "startTime": 175127,
+        "endTime": 175313,
+        "pinyin": "yì"
+      },
+      {
+        "token": "于",
+        "startTime": 175313,
+        "endTime": 175500,
+        "pinyin": "yú"
+      },
+      {
+        "token": "发",
+        "startTime": 175500,
+        "endTime": 175920,
+        "pinyin": "fā"
+      },
+      {
+        "token": "达",
+        "startTime": 175920,
+        "endTime": 176340,
+        "pinyin": "dá"
+      },
+      {
+        "token": "的",
+        "startTime": 176340,
+        "endTime": 176520,
+        "pinyin": "de"
+      },
+      {
+        "token": "前",
+        "startTime": 176520,
+        "endTime": 176600,
+        "pinyin": "qián"
+      },
+      {
+        "token": "额",
+        "startTime": 176600,
+        "endTime": 176680,
+        "pinyin": "é"
+      },
+      {
+        "token": "叶",
+        "startTime": 176680,
+        "endTime": 176900,
+        "pinyin": "yè"
+      },
+      {
+        "token": "皮",
+        "startTime": 176900,
+        "endTime": 177060,
+        "pinyin": "pí"
+      },
+      {
+        "token": "层",
+        "startTime": 177060,
+        "endTime": 177220,
+        "pinyin": "céng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "让 他们 能够 更好 地去 执行",
+    "translations": {
+      "en": "which allows them to better perform"
+    },
+    "segments": [
+      {
+        "token": "让",
+        "startTime": 177220,
+        "endTime": 177540,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "他",
+        "startTime": 177540,
+        "endTime": 177660,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 177660,
+        "endTime": 177780,
+        "pinyin": "men"
+      },
+      {
+        "token": "能",
+        "startTime": 177780,
+        "endTime": 177990,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 177990,
+        "endTime": 178200,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "更",
+        "startTime": 178200,
+        "endTime": 178320,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "好",
+        "startTime": 178320,
+        "endTime": 178440,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "地",
+        "startTime": 178440,
+        "endTime": 178770,
+        "pinyin": "dì"
+      },
+      {
+        "token": "去",
+        "startTime": 178770,
+        "endTime": 179100,
+        "pinyin": "qù"
+      },
+      {
+        "token": "执",
+        "startTime": 179100,
+        "endTime": 179400,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "行",
+        "startTime": 179400,
+        "endTime": 179700,
+        "pinyin": "xíng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "需要 学习 专注 和 记忆 的 技能",
+    "translations": {
+      "en": "skills that require learning, focus, and memory."
+    },
+    "segments": [
+      {
+        "token": "需",
+        "startTime": 179700,
+        "endTime": 179970,
+        "pinyin": "xū"
+      },
+      {
+        "token": "要",
+        "startTime": 179970,
+        "endTime": 180240,
+        "pinyin": "yào"
+      },
+      {
+        "token": "学",
+        "startTime": 180240,
+        "endTime": 180370,
+        "pinyin": "xué"
+      },
+      {
+        "token": "习",
+        "startTime": 180370,
+        "endTime": 180500,
+        "pinyin": "xí"
+      },
+      {
+        "token": "专",
+        "startTime": 180500,
+        "endTime": 180970,
+        "pinyin": "zhuān"
+      },
+      {
+        "token": "注",
+        "startTime": 180970,
+        "endTime": 181440,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "和",
+        "startTime": 181440,
+        "endTime": 181600,
+        "pinyin": "hé"
+      },
+      {
+        "token": "记",
+        "startTime": 181600,
+        "endTime": 181780,
+        "pinyin": "jì"
+      },
+      {
+        "token": "忆",
+        "startTime": 181780,
+        "endTime": 181960,
+        "pinyin": "yì"
+      },
+      {
+        "token": "的",
+        "startTime": 181960,
+        "endTime": 182140,
+        "pinyin": "de"
+      },
+      {
+        "token": "技",
+        "startTime": 182140,
+        "endTime": 182370,
+        "pinyin": "jì"
+      },
+      {
+        "token": "能",
+        "startTime": 182370,
+        "endTime": 182600,
+        "pinyin": "néng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他们 能够 更 快且 高效 地 解决 谜题 或 完成 填字游戏",
+    "translations": {
+      "en": "They can solve puzzles or complete crossword puzzles faster and more efficiently."
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 182600,
+        "endTime": 182810,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 182810,
+        "endTime": 183020,
+        "pinyin": "men"
+      },
+      {
+        "token": "能",
+        "startTime": 183020,
+        "endTime": 183190,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 183190,
+        "endTime": 183360,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "更",
+        "startTime": 183360,
+        "endTime": 183540,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "快",
+        "startTime": 183540,
+        "endTime": 183790,
+        "pinyin": "kuài"
+      },
+      {
+        "token": "且",
+        "startTime": 183790,
+        "endTime": 184040,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "高",
+        "startTime": 184040,
+        "endTime": 184450,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "效",
+        "startTime": 184450,
+        "endTime": 184860,
+        "pinyin": "xiào"
+      },
+      {
+        "token": "地",
+        "startTime": 184860,
+        "endTime": 185080,
+        "pinyin": "dì"
+      },
+      {
+        "token": "解",
+        "startTime": 185080,
+        "endTime": 185310,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "决",
+        "startTime": 185310,
+        "endTime": 185540,
+        "pinyin": "jué"
+      },
+      {
+        "token": "谜",
+        "startTime": 185540,
+        "endTime": 186170,
+        "pinyin": "mí"
+      },
+      {
+        "token": "题",
+        "startTime": 186170,
+        "endTime": 186800,
+        "pinyin": "tí"
+      },
+      {
+        "token": "或",
+        "startTime": 186800,
+        "endTime": 186960,
+        "pinyin": "huò"
+      },
+      {
+        "token": "完",
+        "startTime": 186960,
+        "endTime": 187190,
+        "pinyin": "wán"
+      },
+      {
+        "token": "成",
+        "startTime": 187190,
+        "endTime": 187420,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "填",
+        "startTime": 187420,
+        "endTime": 187600,
+        "pinyin": "tián"
+      },
+      {
+        "token": "字",
+        "startTime": 187600,
+        "endTime": 187780,
+        "pinyin": "zì"
+      },
+      {
+        "token": "游",
+        "startTime": 187780,
+        "endTime": 187960,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "戏",
+        "startTime": 187960,
+        "endTime": 188140,
+        "pinyin": "xì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "成年 后期 随着 大脑 的 记忆 中心 海马 体 的 萎缩",
+    "translations": {
+      "en": "In later adulthood, as the brain's memory center, the hippocampus, shrinks,"
+    },
+    "segments": [
+      {
+        "token": "成",
+        "startTime": 188140,
+        "endTime": 188310,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "年",
+        "startTime": 188310,
+        "endTime": 188480,
+        "pinyin": "nián"
+      },
+      {
+        "token": "后",
+        "startTime": 188480,
+        "endTime": 188660,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "期",
+        "startTime": 188660,
+        "endTime": 188840,
+        "pinyin": "qī"
+      },
+      {
+        "token": "随",
+        "startTime": 188840,
+        "endTime": 189060,
+        "pinyin": "suí"
+      },
+      {
+        "token": "着",
+        "startTime": 189060,
+        "endTime": 189280,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "大",
+        "startTime": 189280,
+        "endTime": 189450,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 189450,
+        "endTime": 189620,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 189620,
+        "endTime": 189800,
+        "pinyin": "de"
+      },
+      {
+        "token": "记",
+        "startTime": 189800,
+        "endTime": 190170,
+        "pinyin": "jì"
+      },
+      {
+        "token": "忆",
+        "startTime": 190170,
+        "endTime": 190540,
+        "pinyin": "yì"
+      },
+      {
+        "token": "中",
+        "startTime": 190540,
+        "endTime": 190680,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "心",
+        "startTime": 190680,
+        "endTime": 190820,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "海",
+        "startTime": 190820,
+        "endTime": 190990,
+        "pinyin": "hǎi"
+      },
+      {
+        "token": "马",
+        "startTime": 190990,
+        "endTime": 191160,
+        "pinyin": "mǎ"
+      },
+      {
+        "token": "体",
+        "startTime": 191160,
+        "endTime": 191440,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 191440,
+        "endTime": 191700,
+        "pinyin": "de"
+      },
+      {
+        "token": "萎",
+        "startTime": 191700,
+        "endTime": 192070,
+        "pinyin": "wēi"
+      },
+      {
+        "token": "缩",
+        "startTime": 192070,
+        "endTime": 192440,
+        "pinyin": "suō"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 技能 可能 会 下降",
+    "translations": {
+      "en": "These skills may decline"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 192440,
+        "endTime": 192630,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 192630,
+        "endTime": 192820,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "技",
+        "startTime": 192820,
+        "endTime": 193050,
+        "pinyin": "jì"
+      },
+      {
+        "token": "能",
+        "startTime": 193050,
+        "endTime": 193280,
+        "pinyin": "néng"
+      },
+      {
+        "token": "可",
+        "startTime": 193280,
+        "endTime": 193510,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 193510,
+        "endTime": 193740,
+        "pinyin": "néng"
+      },
+      {
+        "token": "会",
+        "startTime": 193740,
+        "endTime": 193940,
+        "pinyin": "huì"
+      },
+      {
+        "token": "下",
+        "startTime": 193940,
+        "endTime": 194190,
+        "pinyin": "xià"
+      },
+      {
+        "token": "降",
+        "startTime": 194190,
+        "endTime": 194440,
+        "pinyin": "jiàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 我们 常说 越 老越 智慧 是 有 据 可循 的",
+    "translations": {
+      "en": "But as we often say, there is evidence that older people are wiser"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 194440,
+        "endTime": 194720,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "我",
+        "startTime": 194720,
+        "endTime": 194900,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 194900,
+        "endTime": 195080,
+        "pinyin": "men"
+      },
+      {
+        "token": "常",
+        "startTime": 195080,
+        "endTime": 195260,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "说",
+        "startTime": 195260,
+        "endTime": 195440,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "越",
+        "startTime": 195440,
+        "endTime": 196220,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "老",
+        "startTime": 196220,
+        "endTime": 196380,
+        "pinyin": "lǎo"
+      },
+      {
+        "token": "越",
+        "startTime": 196380,
+        "endTime": 196540,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "智",
+        "startTime": 196540,
+        "endTime": 196760,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "慧",
+        "startTime": 196760,
+        "endTime": 196980,
+        "pinyin": "huì"
+      },
+      {
+        "token": "是",
+        "startTime": 196980,
+        "endTime": 197140,
+        "pinyin": "shì"
+      },
+      {
+        "token": "有",
+        "startTime": 197140,
+        "endTime": 197360,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "据",
+        "startTime": 197360,
+        "endTime": 198000,
+        "pinyin": "jù"
+      },
+      {
+        "token": "可",
+        "startTime": 198000,
+        "endTime": 198130,
+        "pinyin": "kě"
+      },
+      {
+        "token": "循",
+        "startTime": 198130,
+        "endTime": 198260,
+        "pinyin": "xún"
+      },
+      {
+        "token": "的",
+        "startTime": 198260,
+        "endTime": 198520,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "历经 一生 的 学习 , 年长者 有 更 多 知识 可以 回顾 病 使用 , 使 他们 在 知识 问答 中 更具 优势 。",
+    "translations": {
+      "en": "After a lifetime of learning, older adults have more knowledge to draw on and use, giving them an edge in knowledge-based quizzes."
+    },
+    "segments": [
+      {
+        "token": "历",
+        "startTime": 198520,
+        "endTime": 198690,
+        "pinyin": "lì"
+      },
+      {
+        "token": "经",
+        "startTime": 198690,
+        "endTime": 198860,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "一",
+        "startTime": 198860,
+        "endTime": 199100,
+        "pinyin": "yī"
+      },
+      {
+        "token": "生",
+        "startTime": 199100,
+        "endTime": 199340,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "的",
+        "startTime": 199340,
+        "endTime": 199500,
+        "pinyin": "de"
+      },
+      {
+        "token": "学",
+        "startTime": 199500,
+        "endTime": 199640,
+        "pinyin": "xué"
+      },
+      {
+        "token": "习",
+        "startTime": 199640,
+        "endTime": 199780,
+        "pinyin": "xí"
+      },
+      {
+        "token": ",",
+        "startTime": 199780,
+        "endTime": 200000,
+        "pinyin": ","
+      },
+      {
+        "token": "年",
+        "startTime": 200000,
+        "endTime": 200213,
+        "pinyin": "nián"
+      },
+      {
+        "token": "长",
+        "startTime": 200213,
+        "endTime": 200427,
+        "pinyin": "zhǎng"
+      },
+      {
+        "token": "者",
+        "startTime": 200427,
+        "endTime": 200640,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "有",
+        "startTime": 200640,
+        "endTime": 201240,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "更",
+        "startTime": 201240,
+        "endTime": 201360,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "多",
+        "startTime": 201360,
+        "endTime": 201520,
+        "pinyin": "duō"
+      },
+      {
+        "token": "知",
+        "startTime": 201520,
+        "endTime": 201750,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "识",
+        "startTime": 201750,
+        "endTime": 201980,
+        "pinyin": "shí"
+      },
+      {
+        "token": "可",
+        "startTime": 201980,
+        "endTime": 202140,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 202140,
+        "endTime": 202300,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "回",
+        "startTime": 202300,
+        "endTime": 202470,
+        "pinyin": "huí"
+      },
+      {
+        "token": "顾",
+        "startTime": 202470,
+        "endTime": 202640,
+        "pinyin": "gù"
+      },
+      {
+        "token": "病",
+        "startTime": 202640,
+        "endTime": 202940,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "使",
+        "startTime": 202940,
+        "endTime": 203100,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "用",
+        "startTime": 203100,
+        "endTime": 203260,
+        "pinyin": "yòng"
+      },
+      {
+        "token": ",",
+        "startTime": 203260,
+        "endTime": 204140,
+        "pinyin": ","
+      },
+      {
+        "token": "使",
+        "startTime": 204140,
+        "endTime": 204340,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "他",
+        "startTime": 204340,
+        "endTime": 204410,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 204410,
+        "endTime": 204480,
+        "pinyin": "men"
+      },
+      {
+        "token": "在",
+        "startTime": 204480,
+        "endTime": 204680,
+        "pinyin": "zài"
+      },
+      {
+        "token": "知",
+        "startTime": 204680,
+        "endTime": 204860,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "识",
+        "startTime": 204860,
+        "endTime": 205040,
+        "pinyin": "shí"
+      },
+      {
+        "token": "问",
+        "startTime": 205040,
+        "endTime": 205160,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "答",
+        "startTime": 205160,
+        "endTime": 205280,
+        "pinyin": "dá"
+      },
+      {
+        "token": "中",
+        "startTime": 205280,
+        "endTime": 205440,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "更",
+        "startTime": 205440,
+        "endTime": 205610,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "具",
+        "startTime": 205610,
+        "endTime": 205780,
+        "pinyin": "jù"
+      },
+      {
+        "token": "优",
+        "startTime": 205780,
+        "endTime": 206020,
+        "pinyin": "yōu"
+      },
+      {
+        "token": "势",
+        "startTime": 206020,
+        "endTime": 206260,
+        "pinyin": "shì"
+      },
+      {
+        "token": "。",
+        "startTime": 206260,
+        "endTime": 206500,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "艾米尔 应该 考虑 的 其他 因素 包括 他 自己 的 优势 。",
+    "translations": {
+      "en": "Other factors Emil should consider include his own strengths."
+    },
+    "segments": [
+      {
+        "token": "艾",
+        "startTime": 206500,
+        "endTime": 206660,
+        "pinyin": "ài"
+      },
+      {
+        "token": "米",
+        "startTime": 206660,
+        "endTime": 206820,
+        "pinyin": "mǐ"
+      },
+      {
+        "token": "尔",
+        "startTime": 206820,
+        "endTime": 206980,
+        "pinyin": "ěr"
+      },
+      {
+        "token": "应",
+        "startTime": 206980,
+        "endTime": 207380,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "该",
+        "startTime": 207380,
+        "endTime": 207780,
+        "pinyin": "gāi"
+      },
+      {
+        "token": "考",
+        "startTime": 207780,
+        "endTime": 208000,
+        "pinyin": "kǎo"
+      },
+      {
+        "token": "虑",
+        "startTime": 208000,
+        "endTime": 208220,
+        "pinyin": "lǜ"
+      },
+      {
+        "token": "的",
+        "startTime": 208220,
+        "endTime": 208360,
+        "pinyin": "de"
+      },
+      {
+        "token": "其",
+        "startTime": 208360,
+        "endTime": 208750,
+        "pinyin": "qí"
+      },
+      {
+        "token": "他",
+        "startTime": 208750,
+        "endTime": 209140,
+        "pinyin": "tā"
+      },
+      {
+        "token": "因",
+        "startTime": 209140,
+        "endTime": 209280,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "素",
+        "startTime": 209280,
+        "endTime": 209420,
+        "pinyin": "sù"
+      },
+      {
+        "token": "包",
+        "startTime": 209420,
+        "endTime": 209630,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "括",
+        "startTime": 209630,
+        "endTime": 209840,
+        "pinyin": "kuò"
+      },
+      {
+        "token": "他",
+        "startTime": 209840,
+        "endTime": 210000,
+        "pinyin": "tā"
+      },
+      {
+        "token": "自",
+        "startTime": 210000,
+        "endTime": 210190,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 210190,
+        "endTime": 210380,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 210380,
+        "endTime": 210600,
+        "pinyin": "de"
+      },
+      {
+        "token": "优",
+        "startTime": 210600,
+        "endTime": 210810,
+        "pinyin": "yōu"
+      },
+      {
+        "token": "势",
+        "startTime": 210810,
+        "endTime": 211020,
+        "pinyin": "shì"
+      },
+      {
+        "token": "。",
+        "startTime": 211020,
+        "endTime": 211200,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "作为 青少年 , 大脑 前额 叶 皮质 区域 比 儿时 更加 发达 ,",
+    "translations": {
+      "en": "As a teenager, the prefrontal cortex area of the brain is more developed than in childhood,"
+    },
+    "segments": [
+      {
+        "token": "作",
+        "startTime": 211200,
+        "endTime": 211410,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "为",
+        "startTime": 211410,
+        "endTime": 211620,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "青",
+        "startTime": 211620,
+        "endTime": 211920,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "少",
+        "startTime": 211920,
+        "endTime": 212220,
+        "pinyin": "shào"
+      },
+      {
+        "token": "年",
+        "startTime": 212220,
+        "endTime": 212520,
+        "pinyin": "nián"
+      },
+      {
+        "token": ",",
+        "startTime": 212520,
+        "endTime": 212920,
+        "pinyin": ","
+      },
+      {
+        "token": "大",
+        "startTime": 212920,
+        "endTime": 213070,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 213070,
+        "endTime": 213220,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "前",
+        "startTime": 213220,
+        "endTime": 213390,
+        "pinyin": "qián"
+      },
+      {
+        "token": "额",
+        "startTime": 213390,
+        "endTime": 213560,
+        "pinyin": "é"
+      },
+      {
+        "token": "叶",
+        "startTime": 213560,
+        "endTime": 213660,
+        "pinyin": "yè"
+      },
+      {
+        "token": "皮",
+        "startTime": 213660,
+        "endTime": 213870,
+        "pinyin": "pí"
+      },
+      {
+        "token": "质",
+        "startTime": 213870,
+        "endTime": 214080,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "区",
+        "startTime": 214080,
+        "endTime": 214370,
+        "pinyin": "qū"
+      },
+      {
+        "token": "域",
+        "startTime": 214370,
+        "endTime": 214660,
+        "pinyin": "yù"
+      },
+      {
+        "token": "比",
+        "startTime": 214660,
+        "endTime": 214900,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "儿",
+        "startTime": 214900,
+        "endTime": 215120,
+        "pinyin": "ér"
+      },
+      {
+        "token": "时",
+        "startTime": 215120,
+        "endTime": 215340,
+        "pinyin": "shí"
+      },
+      {
+        "token": "更",
+        "startTime": 215340,
+        "endTime": 215555,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "加",
+        "startTime": 215555,
+        "endTime": 215770,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "发",
+        "startTime": 215770,
+        "endTime": 216020,
+        "pinyin": "fā"
+      },
+      {
+        "token": "达",
+        "startTime": 216020,
+        "endTime": 216270,
+        "pinyin": "dá"
+      },
+      {
+        "token": ",",
+        "startTime": 216270,
+        "endTime": 216450,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 也 使得 你 能 更具 逻辑 , 更 擅长 解决 数学 谜题",
+    "translations": {
+      "en": "Which also makes you more logical and better at solving math puzzles"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 216450,
+        "endTime": 217230,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "也",
+        "startTime": 217230,
+        "endTime": 217430,
+        "pinyin": "yě"
+      },
+      {
+        "token": "使",
+        "startTime": 217430,
+        "endTime": 217620,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "得",
+        "startTime": 217620,
+        "endTime": 217810,
+        "pinyin": "de"
+      },
+      {
+        "token": "你",
+        "startTime": 217810,
+        "endTime": 217970,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "能",
+        "startTime": 217970,
+        "endTime": 218090,
+        "pinyin": "néng"
+      },
+      {
+        "token": "更",
+        "startTime": 218090,
+        "endTime": 218480,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "具",
+        "startTime": 218480,
+        "endTime": 218870,
+        "pinyin": "jù"
+      },
+      {
+        "token": "逻",
+        "startTime": 218870,
+        "endTime": 219050,
+        "pinyin": "luó"
+      },
+      {
+        "token": "辑",
+        "startTime": 219050,
+        "endTime": 219230,
+        "pinyin": "jí"
+      },
+      {
+        "token": ",",
+        "startTime": 219230,
+        "endTime": 219350,
+        "pinyin": ","
+      },
+      {
+        "token": "更",
+        "startTime": 219350,
+        "endTime": 219530,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "擅",
+        "startTime": 219530,
+        "endTime": 219710,
+        "pinyin": "shàn"
+      },
+      {
+        "token": "长",
+        "startTime": 219710,
+        "endTime": 219890,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "解",
+        "startTime": 219890,
+        "endTime": 220140,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "决",
+        "startTime": 220140,
+        "endTime": 220390,
+        "pinyin": "jué"
+      },
+      {
+        "token": "数",
+        "startTime": 220390,
+        "endTime": 220580,
+        "pinyin": "shù"
+      },
+      {
+        "token": "学",
+        "startTime": 220580,
+        "endTime": 220770,
+        "pinyin": "xué"
+      },
+      {
+        "token": "谜",
+        "startTime": 220770,
+        "endTime": 220960,
+        "pinyin": "mí"
+      },
+      {
+        "token": "题",
+        "startTime": 220960,
+        "endTime": 221150,
+        "pinyin": "tí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "同时 在 大脑 深处 对 A my a 这样 的 青少年 成为 好奇 、",
+    "translations": {
+      "en": "Meanwhile, deep in the brain, teenagers like Amy become curious,"
+    },
+    "segments": [
+      {
+        "token": "同",
+        "startTime": 221150,
+        "endTime": 221440,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "时",
+        "startTime": 221440,
+        "endTime": 221730,
+        "pinyin": "shí"
+      },
+      {
+        "token": "在",
+        "startTime": 221730,
+        "endTime": 221890,
+        "pinyin": "zài"
+      },
+      {
+        "token": "大",
+        "startTime": 221890,
+        "endTime": 222480,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 222480,
+        "endTime": 223070,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "深",
+        "startTime": 223070,
+        "endTime": 223220,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "处",
+        "startTime": 223220,
+        "endTime": 223370,
+        "pinyin": "chù"
+      },
+      {
+        "token": "对",
+        "startTime": 223370,
+        "endTime": 223610,
+        "pinyin": "duì"
+      },
+      {
+        "token": "A",
+        "startTime": 223610,
+        "endTime": 223910,
+        "pinyin": "A"
+      },
+      {
+        "token": "m",
+        "startTime": 223910,
+        "endTime": 223930,
+        "pinyin": "m"
+      },
+      {
+        "token": "y",
+        "startTime": 223930,
+        "endTime": 223950,
+        "pinyin": "y"
+      },
+      {
+        "token": "a",
+        "startTime": 223950,
+        "endTime": 223990,
+        "pinyin": "a"
+      },
+      {
+        "token": "这",
+        "startTime": 223990,
+        "endTime": 224120,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "样",
+        "startTime": 224120,
+        "endTime": 224250,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "的",
+        "startTime": 224250,
+        "endTime": 224390,
+        "pinyin": "de"
+      },
+      {
+        "token": "青",
+        "startTime": 224390,
+        "endTime": 224577,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "少",
+        "startTime": 224577,
+        "endTime": 224763,
+        "pinyin": "shǎo"
+      },
+      {
+        "token": "年",
+        "startTime": 224763,
+        "endTime": 224950,
+        "pinyin": "nián"
+      },
+      {
+        "token": "成",
+        "startTime": 224950,
+        "endTime": 225150,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "为",
+        "startTime": 225150,
+        "endTime": 225350,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "好",
+        "startTime": 225350,
+        "endTime": 225850,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "奇",
+        "startTime": 225850,
+        "endTime": 226350,
+        "pinyin": "qí"
+      },
+      {
+        "token": "、",
+        "startTime": 226350,
+        "endTime": 226390,
+        "pinyin": "、"
+      }
+    ]
+  },
+  {
+    "sentence_text": "富有 冒险 精神 的 学习者",
+    "translations": {
+      "en": "Adventurous learners"
+    },
+    "segments": [
+      {
+        "token": "富",
+        "startTime": 226390,
+        "endTime": 226590,
+        "pinyin": "fù"
+      },
+      {
+        "token": "有",
+        "startTime": 226590,
+        "endTime": 226790,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "冒",
+        "startTime": 226790,
+        "endTime": 226990,
+        "pinyin": "mào"
+      },
+      {
+        "token": "险",
+        "startTime": 226990,
+        "endTime": 227190,
+        "pinyin": "xiǎn"
+      },
+      {
+        "token": "精",
+        "startTime": 227190,
+        "endTime": 227410,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "神",
+        "startTime": 227410,
+        "endTime": 227630,
+        "pinyin": "shén"
+      },
+      {
+        "token": "的",
+        "startTime": 227630,
+        "endTime": 227870,
+        "pinyin": "de"
+      },
+      {
+        "token": "学",
+        "startTime": 227870,
+        "endTime": 228305,
+        "pinyin": "xué"
+      },
+      {
+        "token": "习",
+        "startTime": 228305,
+        "endTime": 228740,
+        "pinyin": "xí"
+      },
+      {
+        "token": "者",
+        "startTime": 228740,
+        "endTime": 229175,
+        "pinyin": "zhě"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 很多 你 可以 认为 青少年 是 一个多 面兽",
+    "translations": {
+      "en": "In many ways, you could think of a teenager as a multi-faceted beast"
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 229390,
+        "endTime": 229630,
+        "pinyin": "zài"
+      },
+      {
+        "token": "很",
+        "startTime": 229630,
+        "endTime": 229630,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "多",
+        "startTime": 229630,
+        "endTime": 229630,
+        "pinyin": "duō"
+      },
+      {
+        "token": "你",
+        "startTime": 229630,
+        "endTime": 229910,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "可",
+        "startTime": 229910,
+        "endTime": 230190,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 230190,
+        "endTime": 230470,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "认",
+        "startTime": 230470,
+        "endTime": 230680,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "为",
+        "startTime": 230680,
+        "endTime": 230890,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "青",
+        "startTime": 230890,
+        "endTime": 231097,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "少",
+        "startTime": 231097,
+        "endTime": 231303,
+        "pinyin": "shào"
+      },
+      {
+        "token": "年",
+        "startTime": 231303,
+        "endTime": 231510,
+        "pinyin": "nián"
+      },
+      {
+        "token": "是",
+        "startTime": 231510,
+        "endTime": 231710,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 231710,
+        "endTime": 231850,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 231850,
+        "endTime": 231990,
+        "pinyin": "gè"
+      },
+      {
+        "token": "多",
+        "startTime": 231990,
+        "endTime": 232130,
+        "pinyin": "duō"
+      },
+      {
+        "token": "面",
+        "startTime": 232130,
+        "endTime": 232443,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "兽",
+        "startTime": 232443,
+        "endTime": 232755,
+        "pinyin": "shòu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他们 的 大脑 敢于 寻求 新 的 体验 并 迅速 学习",
+    "translations": {
+      "en": "Their brains are eager to seek new experiences and learn quickly"
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 233110,
+        "endTime": 233160,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 233160,
+        "endTime": 233210,
+        "pinyin": "men"
+      },
+      {
+        "token": "的",
+        "startTime": 233210,
+        "endTime": 233430,
+        "pinyin": "de"
+      },
+      {
+        "token": "大",
+        "startTime": 233430,
+        "endTime": 233600,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 233600,
+        "endTime": 233770,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "敢",
+        "startTime": 233770,
+        "endTime": 233960,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "于",
+        "startTime": 233960,
+        "endTime": 234150,
+        "pinyin": "yú"
+      },
+      {
+        "token": "寻",
+        "startTime": 234150,
+        "endTime": 234370,
+        "pinyin": "xún"
+      },
+      {
+        "token": "求",
+        "startTime": 234370,
+        "endTime": 234590,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "新",
+        "startTime": 234590,
+        "endTime": 234830,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "的",
+        "startTime": 234830,
+        "endTime": 235030,
+        "pinyin": "de"
+      },
+      {
+        "token": "体",
+        "startTime": 235030,
+        "endTime": 235240,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "验",
+        "startTime": 235240,
+        "endTime": 235450,
+        "pinyin": "yàn"
+      },
+      {
+        "token": "并",
+        "startTime": 235450,
+        "endTime": 235710,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "迅",
+        "startTime": 235710,
+        "endTime": 235960,
+        "pinyin": "xùn"
+      },
+      {
+        "token": "速",
+        "startTime": 235960,
+        "endTime": 236210,
+        "pinyin": "sù"
+      },
+      {
+        "token": "学",
+        "startTime": 236210,
+        "endTime": 236790,
+        "pinyin": "xué"
+      },
+      {
+        "token": "习",
+        "startTime": 236790,
+        "endTime": 237370,
+        "pinyin": "xí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 正 处于 一个 动态 的 阶段",
+    "translations": {
+      "en": "You are in a dynamic phase"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 237370,
+        "endTime": 237510,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "正",
+        "startTime": 237510,
+        "endTime": 237630,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "处",
+        "startTime": 237630,
+        "endTime": 237800,
+        "pinyin": "chǔ"
+      },
+      {
+        "token": "于",
+        "startTime": 237800,
+        "endTime": 237970,
+        "pinyin": "yú"
+      },
+      {
+        "token": "一",
+        "startTime": 237970,
+        "endTime": 238090,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 238090,
+        "endTime": 238210,
+        "pinyin": "gè"
+      },
+      {
+        "token": "动",
+        "startTime": 238210,
+        "endTime": 238430,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "态",
+        "startTime": 238430,
+        "endTime": 238650,
+        "pinyin": "tài"
+      },
+      {
+        "token": "的",
+        "startTime": 238650,
+        "endTime": 238790,
+        "pinyin": "de"
+      },
+      {
+        "token": "阶",
+        "startTime": 238790,
+        "endTime": 239200,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "段",
+        "startTime": 239200,
+        "endTime": 239610,
+        "pinyin": "duàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 所 做 的 选择 和 你 所 关注 的 技能",
+    "translations": {
+      "en": "The choices you make and the skills you focus on"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 239610,
+        "endTime": 239750,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "所",
+        "startTime": 239750,
+        "endTime": 239890,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "做",
+        "startTime": 239890,
+        "endTime": 240030,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "的",
+        "startTime": 240030,
+        "endTime": 240110,
+        "pinyin": "de"
+      },
+      {
+        "token": "选",
+        "startTime": 240110,
+        "endTime": 240350,
+        "pinyin": "xuǎn"
+      },
+      {
+        "token": "择",
+        "startTime": 240350,
+        "endTime": 240590,
+        "pinyin": "zé"
+      },
+      {
+        "token": "和",
+        "startTime": 240590,
+        "endTime": 240810,
+        "pinyin": "hé"
+      },
+      {
+        "token": "你",
+        "startTime": 240810,
+        "endTime": 240970,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "所",
+        "startTime": 240970,
+        "endTime": 241130,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "关",
+        "startTime": 241130,
+        "endTime": 241310,
+        "pinyin": "guān"
+      },
+      {
+        "token": "注",
+        "startTime": 241310,
+        "endTime": 241490,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "的",
+        "startTime": 241490,
+        "endTime": 241630,
+        "pinyin": "de"
+      },
+      {
+        "token": "技",
+        "startTime": 241630,
+        "endTime": 242010,
+        "pinyin": "jì"
+      },
+      {
+        "token": "能",
+        "startTime": 242010,
+        "endTime": 242390,
+        "pinyin": "néng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "实际上 可以 指导 你 大脑 的 发展",
+    "translations": {
+      "en": "Can actually guide your brain's development"
+    },
+    "segments": [
+      {
+        "token": "实",
+        "startTime": 242390,
+        "endTime": 242550,
+        "pinyin": "shí"
+      },
+      {
+        "token": "际",
+        "startTime": 242550,
+        "endTime": 242710,
+        "pinyin": "jì"
+      },
+      {
+        "token": "上",
+        "startTime": 242710,
+        "endTime": 242870,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "可",
+        "startTime": 242870,
+        "endTime": 243030,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 243030,
+        "endTime": 243190,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "指",
+        "startTime": 243190,
+        "endTime": 243440,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "导",
+        "startTime": 243440,
+        "endTime": 243690,
+        "pinyin": "dǎo"
+      },
+      {
+        "token": "你",
+        "startTime": 243690,
+        "endTime": 243910,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "大",
+        "startTime": 243910,
+        "endTime": 244090,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 244090,
+        "endTime": 244270,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 244270,
+        "endTime": 244430,
+        "pinyin": "de"
+      },
+      {
+        "token": "发",
+        "startTime": 244430,
+        "endTime": 245020,
+        "pinyin": "fā"
+      },
+      {
+        "token": "展",
+        "startTime": 245020,
+        "endTime": 245610,
+        "pinyin": "zhǎn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "那么 哪个 年龄段 的 人 最 聪明 的 没有 唯一 的 答案",
+    "translations": {
+      "en": "So there is no single answer to which age group is the smartest"
+    },
+    "segments": [
+      {
+        "token": "那",
+        "startTime": 245610,
+        "endTime": 245700,
+        "pinyin": "nà"
+      },
+      {
+        "token": "么",
+        "startTime": 245700,
+        "endTime": 245790,
+        "pinyin": "me"
+      },
+      {
+        "token": "哪",
+        "startTime": 245790,
+        "endTime": 246100,
+        "pinyin": "nǎ"
+      },
+      {
+        "token": "个",
+        "startTime": 246100,
+        "endTime": 246410,
+        "pinyin": "ge"
+      },
+      {
+        "token": "年",
+        "startTime": 246410,
+        "endTime": 246550,
+        "pinyin": "nián"
+      },
+      {
+        "token": "龄",
+        "startTime": 246550,
+        "endTime": 246690,
+        "pinyin": "líng"
+      },
+      {
+        "token": "段",
+        "startTime": 246690,
+        "endTime": 246830,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "的",
+        "startTime": 246830,
+        "endTime": 247050,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 247050,
+        "endTime": 247370,
+        "pinyin": "rén"
+      },
+      {
+        "token": "最",
+        "startTime": 247370,
+        "endTime": 247630,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "聪",
+        "startTime": 247630,
+        "endTime": 247760,
+        "pinyin": "cōng"
+      },
+      {
+        "token": "明",
+        "startTime": 247760,
+        "endTime": 247890,
+        "pinyin": "míng"
+      },
+      {
+        "token": "的",
+        "startTime": 247890,
+        "endTime": 248690,
+        "pinyin": "de"
+      },
+      {
+        "token": "没",
+        "startTime": 248690,
+        "endTime": 248880,
+        "pinyin": "méi"
+      },
+      {
+        "token": "有",
+        "startTime": 248880,
+        "endTime": 249070,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "唯",
+        "startTime": 249070,
+        "endTime": 249240,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "一",
+        "startTime": 249240,
+        "endTime": 249410,
+        "pinyin": "yī"
+      },
+      {
+        "token": "的",
+        "startTime": 249410,
+        "endTime": 250130,
+        "pinyin": "de"
+      },
+      {
+        "token": "答",
+        "startTime": 250130,
+        "endTime": 250250,
+        "pinyin": "dá"
+      },
+      {
+        "token": "案",
+        "startTime": 250250,
+        "endTime": 250370,
+        "pinyin": "àn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "可以 8 岁 16 岁 25 岁 65 岁 以及 中间 的 任意 年龄",
+    "translations": {
+      "en": "It could be 8, 16, 25, 65, or any age in between"
+    },
+    "segments": [
+      {
+        "token": "可",
+        "startTime": 250370,
+        "endTime": 250450,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 250450,
+        "endTime": 250530,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "8",
+        "startTime": 250530,
+        "endTime": 250730,
+        "pinyin": "8"
+      },
+      {
+        "token": "岁",
+        "startTime": 250730,
+        "endTime": 251150,
+        "pinyin": "suì"
+      },
+      {
+        "token": "1",
+        "startTime": 251150,
+        "endTime": 251330,
+        "pinyin": "1"
+      },
+      {
+        "token": "6",
+        "startTime": 251330,
+        "endTime": 251510,
+        "pinyin": "6"
+      },
+      {
+        "token": "岁",
+        "startTime": 251510,
+        "endTime": 252230,
+        "pinyin": "suì"
+      },
+      {
+        "token": "2",
+        "startTime": 252230,
+        "endTime": 252350,
+        "pinyin": "2"
+      },
+      {
+        "token": "5",
+        "startTime": 252350,
+        "endTime": 252470,
+        "pinyin": "5"
+      },
+      {
+        "token": "岁",
+        "startTime": 252470,
+        "endTime": 253150,
+        "pinyin": "suì"
+      },
+      {
+        "token": "6",
+        "startTime": 253150,
+        "endTime": 253260,
+        "pinyin": "6"
+      },
+      {
+        "token": "5",
+        "startTime": 253260,
+        "endTime": 253370,
+        "pinyin": "5"
+      },
+      {
+        "token": "岁",
+        "startTime": 253370,
+        "endTime": 254250,
+        "pinyin": "suì"
+      },
+      {
+        "token": "以",
+        "startTime": 254250,
+        "endTime": 254360,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 254360,
+        "endTime": 254470,
+        "pinyin": "jí"
+      },
+      {
+        "token": "中",
+        "startTime": 254470,
+        "endTime": 254690,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "间",
+        "startTime": 254690,
+        "endTime": 254910,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 254910,
+        "endTime": 255090,
+        "pinyin": "de"
+      },
+      {
+        "token": "任",
+        "startTime": 255090,
+        "endTime": 255260,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "意",
+        "startTime": 255260,
+        "endTime": 255430,
+        "pinyin": "yì"
+      },
+      {
+        "token": "年",
+        "startTime": 255430,
+        "endTime": 255990,
+        "pinyin": "nián"
+      },
+      {
+        "token": "龄",
+        "startTime": 255990,
+        "endTime": 256550,
+        "pinyin": "líng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 大脑 在 人生 不同 阶段 关注 发展 不同 的 技能",
+    "translations": {
+      "en": "Our brains focus on developing different skills at different stages of life"
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 256550,
+        "endTime": 256630,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 256630,
+        "endTime": 256710,
+        "pinyin": "men"
+      },
+      {
+        "token": "大",
+        "startTime": 256710,
+        "endTime": 256910,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 256910,
+        "endTime": 257110,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "在",
+        "startTime": 257110,
+        "endTime": 257290,
+        "pinyin": "zài"
+      },
+      {
+        "token": "人",
+        "startTime": 257290,
+        "endTime": 257450,
+        "pinyin": "rén"
+      },
+      {
+        "token": "生",
+        "startTime": 257450,
+        "endTime": 257610,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "不",
+        "startTime": 257610,
+        "endTime": 257740,
+        "pinyin": "bù"
+      },
+      {
+        "token": "同",
+        "startTime": 257740,
+        "endTime": 257870,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "阶",
+        "startTime": 257870,
+        "endTime": 257920,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "段",
+        "startTime": 257920,
+        "endTime": 257970,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "关",
+        "startTime": 257970,
+        "endTime": 258390,
+        "pinyin": "guān"
+      },
+      {
+        "token": "注",
+        "startTime": 258390,
+        "endTime": 258810,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "发",
+        "startTime": 258810,
+        "endTime": 259000,
+        "pinyin": "fā"
+      },
+      {
+        "token": "展",
+        "startTime": 259000,
+        "endTime": 259190,
+        "pinyin": "zhǎn"
+      },
+      {
+        "token": "不",
+        "startTime": 259190,
+        "endTime": 259300,
+        "pinyin": "bù"
+      },
+      {
+        "token": "同",
+        "startTime": 259300,
+        "endTime": 259410,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "的",
+        "startTime": 259410,
+        "endTime": 259670,
+        "pinyin": "de"
+      },
+      {
+        "token": "技",
+        "startTime": 259670,
+        "endTime": 260040,
+        "pinyin": "jì"
+      },
+      {
+        "token": "能",
+        "startTime": 260040,
+        "endTime": 260410,
+        "pinyin": "néng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "以 应对 生活 中 相应 的 挑战 和 需求",
+    "translations": {
+      "en": "To meet the corresponding challenges and needs in life"
+    },
+    "segments": [
+      {
+        "token": "以",
+        "startTime": 260410,
+        "endTime": 260550,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "应",
+        "startTime": 260550,
+        "endTime": 260700,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "对",
+        "startTime": 260700,
+        "endTime": 260850,
+        "pinyin": "duì"
+      },
+      {
+        "token": "生",
+        "startTime": 260850,
+        "endTime": 261000,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "活",
+        "startTime": 261000,
+        "endTime": 261150,
+        "pinyin": "huó"
+      },
+      {
+        "token": "中",
+        "startTime": 261150,
+        "endTime": 261390,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "相",
+        "startTime": 261390,
+        "endTime": 261610,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "应",
+        "startTime": 261610,
+        "endTime": 261830,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "的",
+        "startTime": 261830,
+        "endTime": 261950,
+        "pinyin": "de"
+      },
+      {
+        "token": "挑",
+        "startTime": 261950,
+        "endTime": 262200,
+        "pinyin": "tiǎo"
+      },
+      {
+        "token": "战",
+        "startTime": 262200,
+        "endTime": 262450,
+        "pinyin": "zhàn"
+      },
+      {
+        "token": "和",
+        "startTime": 262450,
+        "endTime": 262670,
+        "pinyin": "hé"
+      },
+      {
+        "token": "需",
+        "startTime": 262670,
+        "endTime": 263190,
+        "pinyin": "xū"
+      },
+      {
+        "token": "求",
+        "startTime": 263190,
+        "endTime": 263710,
+        "pinyin": "qiú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "所以 不管 艾米尔 选择 谁",
+    "translations": {
+      "en": "So no matter who Emil chooses,"
+    },
+    "segments": [
+      {
+        "token": "所",
+        "startTime": 263710,
+        "endTime": 263810,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "以",
+        "startTime": 263810,
+        "endTime": 263910,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "不",
+        "startTime": 263910,
+        "endTime": 264140,
+        "pinyin": "bù"
+      },
+      {
+        "token": "管",
+        "startTime": 264140,
+        "endTime": 264370,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "艾",
+        "startTime": 264370,
+        "endTime": 264503,
+        "pinyin": "ài"
+      },
+      {
+        "token": "米",
+        "startTime": 264503,
+        "endTime": 264637,
+        "pinyin": "mǐ"
+      },
+      {
+        "token": "尔",
+        "startTime": 264637,
+        "endTime": 264770,
+        "pinyin": "ěr"
+      },
+      {
+        "token": "选",
+        "startTime": 264770,
+        "endTime": 264990,
+        "pinyin": "xuǎn"
+      },
+      {
+        "token": "择",
+        "startTime": 264990,
+        "endTime": 265210,
+        "pinyin": "zé"
+      },
+      {
+        "token": "谁",
+        "startTime": 265210,
+        "endTime": 265790,
+        "pinyin": "shuí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "拥有 一个 跨 年龄段 的 团队 才 是 好 策略",
+    "translations": {
+      "en": "Having a team that spans different ages is a good strategy"
+    },
+    "segments": [
+      {
+        "token": "拥",
+        "startTime": 265790,
+        "endTime": 265950,
+        "pinyin": "yōng"
+      },
+      {
+        "token": "有",
+        "startTime": 265950,
+        "endTime": 266110,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "一",
+        "startTime": 266110,
+        "endTime": 266230,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 266230,
+        "endTime": 266350,
+        "pinyin": "gè"
+      },
+      {
+        "token": "跨",
+        "startTime": 266350,
+        "endTime": 266530,
+        "pinyin": "kuà"
+      },
+      {
+        "token": "年",
+        "startTime": 266530,
+        "endTime": 266683,
+        "pinyin": "nián"
+      },
+      {
+        "token": "龄",
+        "startTime": 266683,
+        "endTime": 266837,
+        "pinyin": "líng"
+      },
+      {
+        "token": "段",
+        "startTime": 266837,
+        "endTime": 266990,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "的",
+        "startTime": 266990,
+        "endTime": 267170,
+        "pinyin": "de"
+      },
+      {
+        "token": "团",
+        "startTime": 267170,
+        "endTime": 267360,
+        "pinyin": "tuán"
+      },
+      {
+        "token": "队",
+        "startTime": 267360,
+        "endTime": 267550,
+        "pinyin": "duì"
+      },
+      {
+        "token": "才",
+        "startTime": 267550,
+        "endTime": 267810,
+        "pinyin": "cái"
+      },
+      {
+        "token": "是",
+        "startTime": 267810,
+        "endTime": 267970,
+        "pinyin": "shì"
+      },
+      {
+        "token": "好",
+        "startTime": 267970,
+        "endTime": 268210,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "策",
+        "startTime": 268210,
+        "endTime": 270590,
+        "pinyin": "cè"
+      },
+      {
+        "token": "略",
+        "startTime": 270590,
+        "endTime": 272970,
+        "pinyin": "lüè"
+      }
+    ]
+  },
+  {
+    "sentence_text": "通过 这些 视频 继续 学习",
+    "translations": {
+      "en": "Keep learning through these videos"
+    },
+    "segments": [
+      {
+        "token": "通",
+        "startTime": 272970,
+        "endTime": 273120,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "过",
+        "startTime": 273120,
+        "endTime": 273270,
+        "pinyin": "guò"
+      },
+      {
+        "token": "这",
+        "startTime": 273270,
+        "endTime": 273410,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 273410,
+        "endTime": 273550,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "视",
+        "startTime": 273550,
+        "endTime": 273670,
+        "pinyin": "shì"
+      },
+      {
+        "token": "频",
+        "startTime": 273670,
+        "endTime": 273790,
+        "pinyin": "pín"
+      },
+      {
+        "token": "继",
+        "startTime": 273790,
+        "endTime": 274000,
+        "pinyin": "jì"
+      },
+      {
+        "token": "续",
+        "startTime": 274000,
+        "endTime": 274210,
+        "pinyin": "xù"
+      },
+      {
+        "token": "学",
+        "startTime": 274210,
+        "endTime": 274450,
+        "pinyin": "xué"
+      },
+      {
+        "token": "习",
+        "startTime": 274450,
+        "endTime": 274690,
+        "pinyin": "xí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "并且 不要 忘记 订阅",
+    "translations": {
+      "en": "And don't forget to subscribe"
+    },
+    "segments": [
+      {
+        "token": "并",
+        "startTime": 274690,
+        "endTime": 274940,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "且",
+        "startTime": 274940,
+        "endTime": 275190,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "不",
+        "startTime": 275190,
+        "endTime": 275340,
+        "pinyin": "bú"
+      },
+      {
+        "token": "要",
+        "startTime": 275340,
+        "endTime": 275490,
+        "pinyin": "yào"
+      },
+      {
+        "token": "忘",
+        "startTime": 275490,
+        "endTime": 275660,
+        "pinyin": "wàng"
+      },
+      {
+        "token": "记",
+        "startTime": 275660,
+        "endTime": 275830,
+        "pinyin": "jì"
+      },
+      {
+        "token": "订",
+        "startTime": 275830,
+        "endTime": 276180,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "阅",
+        "startTime": 276180,
+        "endTime": 276530,
+        "pinyin": "yuè"
+      }
+    ]
+  },
+  {
+    "sentence_text": "千万 不要 错过 学习 新 东西 的 机会",
+    "translations": {
+      "en": "Don't miss the chance to learn something new"
+    },
+    "segments": [
+      {
+        "token": "千",
+        "startTime": 276530,
+        "endTime": 276690,
+        "pinyin": "qiān"
+      },
+      {
+        "token": "万",
+        "startTime": 276690,
+        "endTime": 276850,
+        "pinyin": "wàn"
+      },
+      {
+        "token": "不",
+        "startTime": 276850,
+        "endTime": 276980,
+        "pinyin": "bú"
+      },
+      {
+        "token": "要",
+        "startTime": 276980,
+        "endTime": 277110,
+        "pinyin": "yào"
+      },
+      {
+        "token": "错",
+        "startTime": 277110,
+        "endTime": 277300,
+        "pinyin": "cuò"
+      },
+      {
+        "token": "过",
+        "startTime": 277300,
+        "endTime": 277490,
+        "pinyin": "guò"
+      },
+      {
+        "token": "学",
+        "startTime": 277490,
+        "endTime": 277700,
+        "pinyin": "xué"
+      },
+      {
+        "token": "习",
+        "startTime": 277700,
+        "endTime": 277910,
+        "pinyin": "xí"
+      },
+      {
+        "token": "新",
+        "startTime": 277910,
+        "endTime": 278130,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "东",
+        "startTime": 278130,
+        "endTime": 278320,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "西",
+        "startTime": 278320,
+        "endTime": 278510,
+        "pinyin": "xī"
+      },
+      {
+        "token": "的",
+        "startTime": 278510,
+        "endTime": 278630,
+        "pinyin": "de"
+      },
+      {
+        "token": "机",
+        "startTime": 278630,
+        "endTime": 278800,
+        "pinyin": "jī"
+      },
+      {
+        "token": "会",
+        "startTime": 278800,
+        "endTime": 278970,
+        "pinyin": "huì"
+      }
+    ]
+  }
+]
