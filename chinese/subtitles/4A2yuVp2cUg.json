@@ -1,0 +1,7698 @@
+[
+  {
+    "sentence_text": "当 考古学家 考察 位于 中国 西部 图 鲁番 的 古墓 时",
+    "translations": {
+      "en": "When archaeologists examined ancient tombs in Turpan, western China,"
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 7960,
+        "endTime": 8080,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "考",
+        "startTime": 8080,
+        "endTime": 8280,
+        "pinyin": "kǎo"
+      },
+      {
+        "token": "古",
+        "startTime": 8280,
+        "endTime": 8480,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "学",
+        "startTime": 8480,
+        "endTime": 8680,
+        "pinyin": "xué"
+      },
+      {
+        "token": "家",
+        "startTime": 8680,
+        "endTime": 8880,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "考",
+        "startTime": 8880,
+        "endTime": 9100,
+        "pinyin": "kǎo"
+      },
+      {
+        "token": "察",
+        "startTime": 9100,
+        "endTime": 9320,
+        "pinyin": "chá"
+      },
+      {
+        "token": "位",
+        "startTime": 9320,
+        "endTime": 9460,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "于",
+        "startTime": 9460,
+        "endTime": 9600,
+        "pinyin": "yú"
+      },
+      {
+        "token": "中",
+        "startTime": 9600,
+        "endTime": 9720,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 9720,
+        "endTime": 9840,
+        "pinyin": "guó"
+      },
+      {
+        "token": "西",
+        "startTime": 9840,
+        "endTime": 10090,
+        "pinyin": "xī"
+      },
+      {
+        "token": "部",
+        "startTime": 10090,
+        "endTime": 10340,
+        "pinyin": "bù"
+      },
+      {
+        "token": "图",
+        "startTime": 10340,
+        "endTime": 10560,
+        "pinyin": "tú"
+      },
+      {
+        "token": "鲁",
+        "startTime": 10560,
+        "endTime": 10720,
+        "pinyin": "lǔ"
+      },
+      {
+        "token": "番",
+        "startTime": 10720,
+        "endTime": 10880,
+        "pinyin": "fān"
+      },
+      {
+        "token": "的",
+        "startTime": 10880,
+        "endTime": 11100,
+        "pinyin": "de"
+      },
+      {
+        "token": "古",
+        "startTime": 11100,
+        "endTime": 11290,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "墓",
+        "startTime": 11290,
+        "endTime": 11480,
+        "pinyin": "mù"
+      },
+      {
+        "token": "时",
+        "startTime": 11480,
+        "endTime": 12400,
+        "pinyin": "shí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他们 惊奇 地 发现 了 许多 保存 完好 、 熟悉 的 文物",
+    "translations": {
+      "en": "they were amazed to find many well-preserved, familiar artifacts."
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 12400,
+        "endTime": 12490,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 12490,
+        "endTime": 12580,
+        "pinyin": "men"
+      },
+      {
+        "token": "惊",
+        "startTime": 12580,
+        "endTime": 12780,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "奇",
+        "startTime": 12780,
+        "endTime": 12980,
+        "pinyin": "qí"
+      },
+      {
+        "token": "地",
+        "startTime": 12980,
+        "endTime": 13120,
+        "pinyin": "dì"
+      },
+      {
+        "token": "发",
+        "startTime": 13120,
+        "endTime": 13280,
+        "pinyin": "fā"
+      },
+      {
+        "token": "现",
+        "startTime": 13280,
+        "endTime": 13440,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "了",
+        "startTime": 13440,
+        "endTime": 13600,
+        "pinyin": "le"
+      },
+      {
+        "token": "许",
+        "startTime": 13600,
+        "endTime": 13750,
+        "pinyin": "xǔ"
+      },
+      {
+        "token": "多",
+        "startTime": 13750,
+        "endTime": 13900,
+        "pinyin": "duō"
+      },
+      {
+        "token": "保",
+        "startTime": 13900,
+        "endTime": 14100,
+        "pinyin": "bǎo"
+      },
+      {
+        "token": "存",
+        "startTime": 14100,
+        "endTime": 14300,
+        "pinyin": "cún"
+      },
+      {
+        "token": "完",
+        "startTime": 14300,
+        "endTime": 14720,
+        "pinyin": "wán"
+      },
+      {
+        "token": "好",
+        "startTime": 14720,
+        "endTime": 15140,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "、",
+        "startTime": 15140,
+        "endTime": 15420,
+        "pinyin": "、"
+      },
+      {
+        "token": "熟",
+        "startTime": 15420,
+        "endTime": 15570,
+        "pinyin": "shú"
+      },
+      {
+        "token": "悉",
+        "startTime": 15570,
+        "endTime": 15720,
+        "pinyin": "xī"
+      },
+      {
+        "token": "的",
+        "startTime": 15720,
+        "endTime": 15860,
+        "pinyin": "de"
+      },
+      {
+        "token": "文",
+        "startTime": 15860,
+        "endTime": 16450,
+        "pinyin": "wén"
+      },
+      {
+        "token": "物",
+        "startTime": 16450,
+        "endTime": 17040,
+        "pinyin": "wù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "虽然 经过 一千多年 的 淬炼",
+    "translations": {
+      "en": "Despite over a thousand years of wear,"
+    },
+    "segments": [
+      {
+        "token": "虽",
+        "startTime": 17040,
+        "endTime": 17200,
+        "pinyin": "suī"
+      },
+      {
+        "token": "然",
+        "startTime": 17200,
+        "endTime": 17360,
+        "pinyin": "rán"
+      },
+      {
+        "token": "经",
+        "startTime": 17360,
+        "endTime": 17560,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "过",
+        "startTime": 17560,
+        "endTime": 17760,
+        "pinyin": "guò"
+      },
+      {
+        "token": "一",
+        "startTime": 17760,
+        "endTime": 17900,
+        "pinyin": "yī"
+      },
+      {
+        "token": "千",
+        "startTime": 17900,
+        "endTime": 18040,
+        "pinyin": "qiān"
+      },
+      {
+        "token": "多",
+        "startTime": 18040,
+        "endTime": 18180,
+        "pinyin": "duō"
+      },
+      {
+        "token": "年",
+        "startTime": 18180,
+        "endTime": 18320,
+        "pinyin": "nián"
+      },
+      {
+        "token": "的",
+        "startTime": 18320,
+        "endTime": 18540,
+        "pinyin": "de"
+      },
+      {
+        "token": "淬",
+        "startTime": 18540,
+        "endTime": 18890,
+        "pinyin": "cuì"
+      },
+      {
+        "token": "炼",
+        "startTime": 18890,
+        "endTime": 19240,
+        "pinyin": "liàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 那里 依然 有着 一些 小小的 星月 形 水饺",
+    "translations": {
+      "en": "there were still some small crescent-shaped dumplings."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 19240,
+        "endTime": 19400,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "那",
+        "startTime": 19400,
+        "endTime": 19550,
+        "pinyin": "nà"
+      },
+      {
+        "token": "里",
+        "startTime": 19550,
+        "endTime": 19700,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "依",
+        "startTime": 19700,
+        "endTime": 19850,
+        "pinyin": "yī"
+      },
+      {
+        "token": "然",
+        "startTime": 19850,
+        "endTime": 20000,
+        "pinyin": "rán"
+      },
+      {
+        "token": "有",
+        "startTime": 20000,
+        "endTime": 20170,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "着",
+        "startTime": 20170,
+        "endTime": 20340,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "一",
+        "startTime": 20340,
+        "endTime": 20690,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 20690,
+        "endTime": 21040,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "小",
+        "startTime": 21040,
+        "endTime": 21187,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "小",
+        "startTime": 21187,
+        "endTime": 21333,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 21333,
+        "endTime": 21480,
+        "pinyin": "de"
+      },
+      {
+        "token": "星",
+        "startTime": 21480,
+        "endTime": 21700,
+        "pinyin": "xīng"
+      },
+      {
+        "token": "月",
+        "startTime": 21700,
+        "endTime": 21920,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "形",
+        "startTime": 21920,
+        "endTime": 22680,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "水",
+        "startTime": 22680,
+        "endTime": 22820,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "饺",
+        "startTime": 22820,
+        "endTime": 22960,
+        "pinyin": "jiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "到底 是 谁 发明 了 饺子 仍然 是 一个 谜",
+    "translations": {
+      "en": "Who exactly invented dumplings remains a mystery,"
+    },
+    "segments": [
+      {
+        "token": "到",
+        "startTime": 22960,
+        "endTime": 23190,
+        "pinyin": "dào"
+      },
+      {
+        "token": "底",
+        "startTime": 23190,
+        "endTime": 23420,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 23420,
+        "endTime": 23660,
+        "pinyin": "shì"
+      },
+      {
+        "token": "谁",
+        "startTime": 23660,
+        "endTime": 23820,
+        "pinyin": "shuí"
+      },
+      {
+        "token": "发",
+        "startTime": 23820,
+        "endTime": 23990,
+        "pinyin": "fā"
+      },
+      {
+        "token": "明",
+        "startTime": 23990,
+        "endTime": 24160,
+        "pinyin": "míng"
+      },
+      {
+        "token": "了",
+        "startTime": 24160,
+        "endTime": 24380,
+        "pinyin": "le"
+      },
+      {
+        "token": "饺",
+        "startTime": 24380,
+        "endTime": 24650,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 24650,
+        "endTime": 24920,
+        "pinyin": "zi"
+      },
+      {
+        "token": "仍",
+        "startTime": 24920,
+        "endTime": 25120,
+        "pinyin": "réng"
+      },
+      {
+        "token": "然",
+        "startTime": 25120,
+        "endTime": 25320,
+        "pinyin": "rán"
+      },
+      {
+        "token": "是",
+        "startTime": 25320,
+        "endTime": 25840,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 25840,
+        "endTime": 25970,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 25970,
+        "endTime": 26100,
+        "pinyin": "gè"
+      },
+      {
+        "token": "谜",
+        "startTime": 26100,
+        "endTime": 26200,
+        "pinyin": "mí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 也 有 学者 猜测 他们 最早 是 由 生活 在 中国 西部 以及 中亚 的 游牧 突厥 民族",
+    "translations": {
+      "en": "but some scholars speculate they were first spread worldwide in ancient times"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 26200,
+        "endTime": 26380,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "也",
+        "startTime": 26380,
+        "endTime": 26500,
+        "pinyin": "yě"
+      },
+      {
+        "token": "有",
+        "startTime": 26500,
+        "endTime": 26660,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "学",
+        "startTime": 26660,
+        "endTime": 27000,
+        "pinyin": "xué"
+      },
+      {
+        "token": "者",
+        "startTime": 27000,
+        "endTime": 27340,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "猜",
+        "startTime": 27340,
+        "endTime": 27550,
+        "pinyin": "cāi"
+      },
+      {
+        "token": "测",
+        "startTime": 27550,
+        "endTime": 27760,
+        "pinyin": "cè"
+      },
+      {
+        "token": "他",
+        "startTime": 27760,
+        "endTime": 27930,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 27930,
+        "endTime": 28100,
+        "pinyin": "men"
+      },
+      {
+        "token": "最",
+        "startTime": 28100,
+        "endTime": 28210,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "早",
+        "startTime": 28210,
+        "endTime": 28320,
+        "pinyin": "zǎo"
+      },
+      {
+        "token": "是",
+        "startTime": 28320,
+        "endTime": 28540,
+        "pinyin": "shì"
+      },
+      {
+        "token": "由",
+        "startTime": 28540,
+        "endTime": 28800,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "生",
+        "startTime": 28800,
+        "endTime": 29030,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "活",
+        "startTime": 29030,
+        "endTime": 29260,
+        "pinyin": "huó"
+      },
+      {
+        "token": "在",
+        "startTime": 29260,
+        "endTime": 29440,
+        "pinyin": "zài"
+      },
+      {
+        "token": "中",
+        "startTime": 29440,
+        "endTime": 29640,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 29640,
+        "endTime": 29840,
+        "pinyin": "guó"
+      },
+      {
+        "token": "西",
+        "startTime": 29840,
+        "endTime": 30020,
+        "pinyin": "xī"
+      },
+      {
+        "token": "部",
+        "startTime": 30020,
+        "endTime": 30200,
+        "pinyin": "bù"
+      },
+      {
+        "token": "以",
+        "startTime": 30200,
+        "endTime": 30380,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 30380,
+        "endTime": 30560,
+        "pinyin": "jí"
+      },
+      {
+        "token": "中",
+        "startTime": 30560,
+        "endTime": 30760,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "亚",
+        "startTime": 30760,
+        "endTime": 30960,
+        "pinyin": "yà"
+      },
+      {
+        "token": "的",
+        "startTime": 30960,
+        "endTime": 31100,
+        "pinyin": "de"
+      },
+      {
+        "token": "游",
+        "startTime": 31100,
+        "endTime": 31300,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "牧",
+        "startTime": 31300,
+        "endTime": 31500,
+        "pinyin": "mù"
+      },
+      {
+        "token": "突",
+        "startTime": 31500,
+        "endTime": 31810,
+        "pinyin": "tū"
+      },
+      {
+        "token": "厥",
+        "startTime": 31810,
+        "endTime": 32119,
+        "pinyin": "jué"
+      },
+      {
+        "token": "民",
+        "startTime": 32119,
+        "endTime": 32270,
+        "pinyin": "mín"
+      },
+      {
+        "token": "族",
+        "startTime": 32270,
+        "endTime": 32420,
+        "pinyin": "zú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 古时候 将 其 传播 至 世界各地 的",
+    "translations": {
+      "en": "by the nomadic Turkic peoples living in western China and Central Asia."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 32420,
+        "endTime": 32600,
+        "pinyin": "zài"
+      },
+      {
+        "token": "古",
+        "startTime": 32600,
+        "endTime": 32800,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "时",
+        "startTime": 32800,
+        "endTime": 33000,
+        "pinyin": "shí"
+      },
+      {
+        "token": "候",
+        "startTime": 33000,
+        "endTime": 33200,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "将",
+        "startTime": 33200,
+        "endTime": 33420,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "其",
+        "startTime": 33420,
+        "endTime": 33580,
+        "pinyin": "qí"
+      },
+      {
+        "token": "传",
+        "startTime": 33580,
+        "endTime": 33870,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "播",
+        "startTime": 33870,
+        "endTime": 34160,
+        "pinyin": "bō"
+      },
+      {
+        "token": "至",
+        "startTime": 34160,
+        "endTime": 34340,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "世",
+        "startTime": 34340,
+        "endTime": 34485,
+        "pinyin": "shì"
+      },
+      {
+        "token": "界",
+        "startTime": 34485,
+        "endTime": 34630,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "各",
+        "startTime": 34630,
+        "endTime": 34775,
+        "pinyin": "gè"
+      },
+      {
+        "token": "地",
+        "startTime": 34775,
+        "endTime": 34920,
+        "pinyin": "dì"
+      },
+      {
+        "token": "的",
+        "startTime": 34920,
+        "endTime": 35200,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "之所以 这样 认为 是因为 M ant y 的 意思 是 饺子 或者 包子",
+    "translations": {
+      "en": "This is believed because \"Mantı\" means dumpling or bun,"
+    },
+    "segments": [
+      {
+        "token": "之",
+        "startTime": 35200,
+        "endTime": 35453,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "所",
+        "startTime": 35453,
+        "endTime": 35707,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "以",
+        "startTime": 35707,
+        "endTime": 35960,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "这",
+        "startTime": 35960,
+        "endTime": 36170,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "样",
+        "startTime": 36170,
+        "endTime": 36380,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "认",
+        "startTime": 36380,
+        "endTime": 36540,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "为",
+        "startTime": 36540,
+        "endTime": 36700,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "是",
+        "startTime": 36700,
+        "endTime": 36867,
+        "pinyin": "shì"
+      },
+      {
+        "token": "因",
+        "startTime": 36867,
+        "endTime": 37033,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "为",
+        "startTime": 37033,
+        "endTime": 37200,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "M",
+        "startTime": 37200,
+        "endTime": 37540,
+        "pinyin": "M"
+      },
+      {
+        "token": "a",
+        "startTime": 37540,
+        "endTime": 37580,
+        "pinyin": "a"
+      },
+      {
+        "token": "n",
+        "startTime": 37580,
+        "endTime": 37620,
+        "pinyin": "n"
+      },
+      {
+        "token": "t",
+        "startTime": 37620,
+        "endTime": 37660,
+        "pinyin": "t"
+      },
+      {
+        "token": "y",
+        "startTime": 37660,
+        "endTime": 37740,
+        "pinyin": "y"
+      },
+      {
+        "token": "的",
+        "startTime": 37740,
+        "endTime": 37880,
+        "pinyin": "de"
+      },
+      {
+        "token": "意",
+        "startTime": 37880,
+        "endTime": 37970,
+        "pinyin": "yì"
+      },
+      {
+        "token": "思",
+        "startTime": 37970,
+        "endTime": 38060,
+        "pinyin": "sī"
+      },
+      {
+        "token": "是",
+        "startTime": 38060,
+        "endTime": 38320,
+        "pinyin": "shì"
+      },
+      {
+        "token": "饺",
+        "startTime": 38320,
+        "endTime": 38690,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 38690,
+        "endTime": 39060,
+        "pinyin": "zi"
+      },
+      {
+        "token": "或",
+        "startTime": 39060,
+        "endTime": 39280,
+        "pinyin": "huò"
+      },
+      {
+        "token": "者",
+        "startTime": 39280,
+        "endTime": 39500,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "包",
+        "startTime": 39500,
+        "endTime": 39780,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "子",
+        "startTime": 39780,
+        "endTime": 40060,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "然后 他 似乎 在 其他 几种 语言 中 也 作为 饺子 的 瓷根",
+    "translations": {
+      "en": "and it seems to be the root word for dumplings in several other languages."
+    },
+    "segments": [
+      {
+        "token": "然",
+        "startTime": 40060,
+        "endTime": 40200,
+        "pinyin": "rán"
+      },
+      {
+        "token": "后",
+        "startTime": 40200,
+        "endTime": 40340,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "他",
+        "startTime": 40340,
+        "endTime": 40540,
+        "pinyin": "tā"
+      },
+      {
+        "token": "似",
+        "startTime": 40540,
+        "endTime": 40670,
+        "pinyin": "sì"
+      },
+      {
+        "token": "乎",
+        "startTime": 40670,
+        "endTime": 40800,
+        "pinyin": "hū"
+      },
+      {
+        "token": "在",
+        "startTime": 40800,
+        "endTime": 40920,
+        "pinyin": "zài"
+      },
+      {
+        "token": "其",
+        "startTime": 40920,
+        "endTime": 41090,
+        "pinyin": "qí"
+      },
+      {
+        "token": "他",
+        "startTime": 41090,
+        "endTime": 41260,
+        "pinyin": "tā"
+      },
+      {
+        "token": "几",
+        "startTime": 41260,
+        "endTime": 41400,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "种",
+        "startTime": 41400,
+        "endTime": 41540,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "语",
+        "startTime": 41540,
+        "endTime": 41700,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "言",
+        "startTime": 41700,
+        "endTime": 41860,
+        "pinyin": "yán"
+      },
+      {
+        "token": "中",
+        "startTime": 41860,
+        "endTime": 41860,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "也",
+        "startTime": 41860,
+        "endTime": 42500,
+        "pinyin": "yě"
+      },
+      {
+        "token": "作",
+        "startTime": 42500,
+        "endTime": 42650,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "为",
+        "startTime": 42650,
+        "endTime": 42800,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "饺",
+        "startTime": 42800,
+        "endTime": 42970,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 42970,
+        "endTime": 43140,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 43140,
+        "endTime": 43300,
+        "pinyin": "de"
+      },
+      {
+        "token": "瓷",
+        "startTime": 43300,
+        "endTime": 43770,
+        "pinyin": "cí"
+      },
+      {
+        "token": "根",
+        "startTime": 43770,
+        "endTime": 44240,
+        "pinyin": "gēn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "古代 突厥 人 可能 是 用 肉馅 包 饺子",
+    "translations": {
+      "en": "Ancient Turks may have filled dumplings with meat,"
+    },
+    "segments": [
+      {
+        "token": "古",
+        "startTime": 44240,
+        "endTime": 44380,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "代",
+        "startTime": 44380,
+        "endTime": 44520,
+        "pinyin": "dài"
+      },
+      {
+        "token": "突",
+        "startTime": 44520,
+        "endTime": 44680,
+        "pinyin": "tū"
+      },
+      {
+        "token": "厥",
+        "startTime": 44680,
+        "endTime": 44840,
+        "pinyin": "jué"
+      },
+      {
+        "token": "人",
+        "startTime": 44840,
+        "endTime": 44980,
+        "pinyin": "rén"
+      },
+      {
+        "token": "可",
+        "startTime": 44980,
+        "endTime": 45120,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 45120,
+        "endTime": 45260,
+        "pinyin": "néng"
+      },
+      {
+        "token": "是",
+        "startTime": 45260,
+        "endTime": 45480,
+        "pinyin": "shì"
+      },
+      {
+        "token": "用",
+        "startTime": 45480,
+        "endTime": 45600,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "肉",
+        "startTime": 45600,
+        "endTime": 45820,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "馅",
+        "startTime": 45820,
+        "endTime": 46040,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "包",
+        "startTime": 46040,
+        "endTime": 46360,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "饺",
+        "startTime": 46360,
+        "endTime": 46950,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 46950,
+        "endTime": 47540,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 目前 尚 不 清楚 这种 做法 是从 什么 时候 开始 的",
+    "translations": {
+      "en": "but it's unclear when this practice began,"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 47540,
+        "endTime": 47700,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "目",
+        "startTime": 47700,
+        "endTime": 47800,
+        "pinyin": "mù"
+      },
+      {
+        "token": "前",
+        "startTime": 47800,
+        "endTime": 47900,
+        "pinyin": "qián"
+      },
+      {
+        "token": "尚",
+        "startTime": 47900,
+        "endTime": 48120,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "不",
+        "startTime": 48120,
+        "endTime": 48280,
+        "pinyin": "bù"
+      },
+      {
+        "token": "清",
+        "startTime": 48280,
+        "endTime": 48370,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "楚",
+        "startTime": 48370,
+        "endTime": 48460,
+        "pinyin": "chǔ"
+      },
+      {
+        "token": "这",
+        "startTime": 48460,
+        "endTime": 48650,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 48650,
+        "endTime": 48840,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "做",
+        "startTime": 48840,
+        "endTime": 48840,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "法",
+        "startTime": 48840,
+        "endTime": 48840,
+        "pinyin": "fǎ"
+      },
+      {
+        "token": "是",
+        "startTime": 48840,
+        "endTime": 49130,
+        "pinyin": "shì"
+      },
+      {
+        "token": "从",
+        "startTime": 49130,
+        "endTime": 49420,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "什",
+        "startTime": 49420,
+        "endTime": 49570,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 49570,
+        "endTime": 49720,
+        "pinyin": "me"
+      },
+      {
+        "token": "时",
+        "startTime": 49720,
+        "endTime": 49820,
+        "pinyin": "shí"
+      },
+      {
+        "token": "候",
+        "startTime": 49820,
+        "endTime": 49920,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "开",
+        "startTime": 49920,
+        "endTime": 50080,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 50080,
+        "endTime": 50240,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 50240,
+        "endTime": 50520,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "或者 他们 是否 从 别人 那儿 学会 了 包 饺子 这门 艺术",
+    "translations": {
+      "en": "or if they learned the art of making dumplings from others."
+    },
+    "segments": [
+      {
+        "token": "或",
+        "startTime": 50520,
+        "endTime": 50690,
+        "pinyin": "huò"
+      },
+      {
+        "token": "者",
+        "startTime": 50690,
+        "endTime": 50860,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "他",
+        "startTime": 50860,
+        "endTime": 50960,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 50960,
+        "endTime": 51060,
+        "pinyin": "men"
+      },
+      {
+        "token": "是",
+        "startTime": 51060,
+        "endTime": 51200,
+        "pinyin": "shì"
+      },
+      {
+        "token": "否",
+        "startTime": 51200,
+        "endTime": 51340,
+        "pinyin": "fǒu"
+      },
+      {
+        "token": "从",
+        "startTime": 51340,
+        "endTime": 51500,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "别",
+        "startTime": 51500,
+        "endTime": 51700,
+        "pinyin": "bié"
+      },
+      {
+        "token": "人",
+        "startTime": 51700,
+        "endTime": 51900,
+        "pinyin": "rén"
+      },
+      {
+        "token": "那",
+        "startTime": 51900,
+        "endTime": 51900,
+        "pinyin": "nà"
+      },
+      {
+        "token": "儿",
+        "startTime": 51900,
+        "endTime": 51900,
+        "pinyin": "ér"
+      },
+      {
+        "token": "学",
+        "startTime": 51900,
+        "endTime": 52240,
+        "pinyin": "xué"
+      },
+      {
+        "token": "会",
+        "startTime": 52240,
+        "endTime": 52580,
+        "pinyin": "huì"
+      },
+      {
+        "token": "了",
+        "startTime": 52580,
+        "endTime": 52720,
+        "pinyin": "le"
+      },
+      {
+        "token": "包",
+        "startTime": 52720,
+        "endTime": 52840,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "饺",
+        "startTime": 52840,
+        "endTime": 53020,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 53020,
+        "endTime": 53200,
+        "pinyin": "zi"
+      },
+      {
+        "token": "这",
+        "startTime": 53200,
+        "endTime": 53350,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "门",
+        "startTime": 53350,
+        "endTime": 53500,
+        "pinyin": "mén"
+      },
+      {
+        "token": "艺",
+        "startTime": 53500,
+        "endTime": 53840,
+        "pinyin": "yì"
+      },
+      {
+        "token": "术",
+        "startTime": 53840,
+        "endTime": 54180,
+        "pinyin": "shù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "然而 无论如何 饺子 肯定 是 在 中国 古代 开始 获得 了 人气",
+    "translations": {
+      "en": "However, dumplings certainly gained popularity in ancient China."
+    },
+    "segments": [
+      {
+        "token": "然",
+        "startTime": 54180,
+        "endTime": 54320,
+        "pinyin": "rán"
+      },
+      {
+        "token": "而",
+        "startTime": 54320,
+        "endTime": 54460,
+        "pinyin": "ér"
+      },
+      {
+        "token": "无",
+        "startTime": 54460,
+        "endTime": 54660,
+        "pinyin": "wú"
+      },
+      {
+        "token": "论",
+        "startTime": 54660,
+        "endTime": 54860,
+        "pinyin": "lùn"
+      },
+      {
+        "token": "如",
+        "startTime": 54860,
+        "endTime": 55060,
+        "pinyin": "rú"
+      },
+      {
+        "token": "何",
+        "startTime": 55060,
+        "endTime": 55260,
+        "pinyin": "hé"
+      },
+      {
+        "token": "饺",
+        "startTime": 55260,
+        "endTime": 55450,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 55450,
+        "endTime": 55640,
+        "pinyin": "zi"
+      },
+      {
+        "token": "肯",
+        "startTime": 55640,
+        "endTime": 55790,
+        "pinyin": "kěn"
+      },
+      {
+        "token": "定",
+        "startTime": 55790,
+        "endTime": 55940,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "是",
+        "startTime": 55940,
+        "endTime": 56080,
+        "pinyin": "shì"
+      },
+      {
+        "token": "在",
+        "startTime": 56080,
+        "endTime": 56220,
+        "pinyin": "zài"
+      },
+      {
+        "token": "中",
+        "startTime": 56220,
+        "endTime": 56410,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 56410,
+        "endTime": 56600,
+        "pinyin": "guó"
+      },
+      {
+        "token": "古",
+        "startTime": 56600,
+        "endTime": 56830,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "代",
+        "startTime": 56830,
+        "endTime": 57060,
+        "pinyin": "dài"
+      },
+      {
+        "token": "开",
+        "startTime": 57060,
+        "endTime": 57300,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 57300,
+        "endTime": 57540,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "获",
+        "startTime": 57540,
+        "endTime": 57770,
+        "pinyin": "huò"
+      },
+      {
+        "token": "得",
+        "startTime": 57770,
+        "endTime": 58000,
+        "pinyin": "dé"
+      },
+      {
+        "token": "了",
+        "startTime": 58000,
+        "endTime": 58100,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "饺子 第一次 由 文字 记载 了 下来",
+    "translations": {
+      "en": "Dumplings were first recorded in writing"
+    },
+    "segments": [
+      {
+        "token": "人",
+        "startTime": 58100,
+        "endTime": 58100,
+        "pinyin": "rén"
+      },
+      {
+        "token": "气",
+        "startTime": 58100,
+        "endTime": 58100,
+        "pinyin": "qì"
+      },
+      {
+        "token": "饺",
+        "startTime": 58100,
+        "endTime": 58680,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 58680,
+        "endTime": 59260,
+        "pinyin": "zi"
+      },
+      {
+        "token": "第",
+        "startTime": 59260,
+        "endTime": 59420,
+        "pinyin": "dì"
+      },
+      {
+        "token": "一",
+        "startTime": 59420,
+        "endTime": 59580,
+        "pinyin": "yī"
+      },
+      {
+        "token": "次",
+        "startTime": 59580,
+        "endTime": 59740,
+        "pinyin": "cì"
+      },
+      {
+        "token": "由",
+        "startTime": 59740,
+        "endTime": 59980,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "文",
+        "startTime": 59980,
+        "endTime": 60240,
+        "pinyin": "wén"
+      },
+      {
+        "token": "字",
+        "startTime": 60240,
+        "endTime": 60500,
+        "pinyin": "zì"
+      },
+      {
+        "token": "记",
+        "startTime": 60500,
+        "endTime": 60730,
+        "pinyin": "jì"
+      },
+      {
+        "token": "载",
+        "startTime": 60730,
+        "endTime": 60960,
+        "pinyin": "zǎi"
+      },
+      {
+        "token": "了",
+        "startTime": 60960,
+        "endTime": 61120,
+        "pinyin": "le"
+      },
+      {
+        "token": "下",
+        "startTime": 61120,
+        "endTime": 61420,
+        "pinyin": "xià"
+      },
+      {
+        "token": "来",
+        "startTime": 61420,
+        "endTime": 61720,
+        "pinyin": "lái"
+      }
+    ]
+  },
+  {
+    "sentence_text": "17 00 多年 前 在 文人 树西 的 一场 令人 垂涎 的 狂想曲",
+    "translations": {
+      "en": "over 1,700 years ago, in a mouthwatering fantasy by the scholar Shu Xi."
+    },
+    "segments": [
+      {
+        "token": "1",
+        "startTime": 61720,
+        "endTime": 61960,
+        "pinyin": "1"
+      },
+      {
+        "token": "7",
+        "startTime": 61960,
+        "endTime": 62200,
+        "pinyin": "7"
+      },
+      {
+        "token": "0",
+        "startTime": 62200,
+        "endTime": 62300,
+        "pinyin": "0"
+      },
+      {
+        "token": "0",
+        "startTime": 62300,
+        "endTime": 62400,
+        "pinyin": "0"
+      },
+      {
+        "token": "多",
+        "startTime": 62400,
+        "endTime": 62910,
+        "pinyin": "duō"
+      },
+      {
+        "token": "年",
+        "startTime": 62910,
+        "endTime": 63420,
+        "pinyin": "nián"
+      },
+      {
+        "token": "前",
+        "startTime": 63420,
+        "endTime": 63580,
+        "pinyin": "qián"
+      },
+      {
+        "token": "在",
+        "startTime": 63580,
+        "endTime": 63740,
+        "pinyin": "zài"
+      },
+      {
+        "token": "文",
+        "startTime": 63740,
+        "endTime": 63950,
+        "pinyin": "wén"
+      },
+      {
+        "token": "人",
+        "startTime": 63950,
+        "endTime": 64160,
+        "pinyin": "rén"
+      },
+      {
+        "token": "树",
+        "startTime": 64160,
+        "endTime": 64310,
+        "pinyin": "shù"
+      },
+      {
+        "token": "西",
+        "startTime": 64310,
+        "endTime": 64459,
+        "pinyin": "xī"
+      },
+      {
+        "token": "的",
+        "startTime": 64459,
+        "endTime": 64560,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 64560,
+        "endTime": 64700,
+        "pinyin": "yī"
+      },
+      {
+        "token": "场",
+        "startTime": 64700,
+        "endTime": 64840,
+        "pinyin": "chǎng"
+      },
+      {
+        "token": "令",
+        "startTime": 64840,
+        "endTime": 65060,
+        "pinyin": "lìng"
+      },
+      {
+        "token": "人",
+        "startTime": 65060,
+        "endTime": 65280,
+        "pinyin": "rén"
+      },
+      {
+        "token": "垂",
+        "startTime": 65280,
+        "endTime": 65420,
+        "pinyin": "chuí"
+      },
+      {
+        "token": "涎",
+        "startTime": 65420,
+        "endTime": 65560,
+        "pinyin": "xián"
+      },
+      {
+        "token": "的",
+        "startTime": 65560,
+        "endTime": 65760,
+        "pinyin": "de"
+      },
+      {
+        "token": "狂",
+        "startTime": 65760,
+        "endTime": 66160,
+        "pinyin": "kuáng"
+      },
+      {
+        "token": "想",
+        "startTime": 66160,
+        "endTime": 66560,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "曲",
+        "startTime": 66560,
+        "endTime": 66960,
+        "pinyin": "qū"
+      }
+    ]
+  },
+  {
+    "sentence_text": "树西 在 他 的 诗 中 提及 了 某些 来自 异域 的 烹饪 方法",
+    "translations": {
+      "en": "Shu Xi mentioned some exotic cooking methods in his poem,"
+    },
+    "segments": [
+      {
+        "token": "树",
+        "startTime": 66960,
+        "endTime": 67280,
+        "pinyin": "shù"
+      },
+      {
+        "token": "西",
+        "startTime": 67280,
+        "endTime": 67600,
+        "pinyin": "xī"
+      },
+      {
+        "token": "在",
+        "startTime": 67600,
+        "endTime": 67900,
+        "pinyin": "zài"
+      },
+      {
+        "token": "他",
+        "startTime": 67900,
+        "endTime": 68060,
+        "pinyin": "tā"
+      },
+      {
+        "token": "的",
+        "startTime": 68060,
+        "endTime": 68260,
+        "pinyin": "de"
+      },
+      {
+        "token": "诗",
+        "startTime": 68260,
+        "endTime": 68880,
+        "pinyin": "shī"
+      },
+      {
+        "token": "中",
+        "startTime": 68880,
+        "endTime": 69020,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "提",
+        "startTime": 69020,
+        "endTime": 69190,
+        "pinyin": "tí"
+      },
+      {
+        "token": "及",
+        "startTime": 69190,
+        "endTime": 69360,
+        "pinyin": "jí"
+      },
+      {
+        "token": "了",
+        "startTime": 69360,
+        "endTime": 69600,
+        "pinyin": "le"
+      },
+      {
+        "token": "某",
+        "startTime": 69600,
+        "endTime": 69770,
+        "pinyin": "mǒu"
+      },
+      {
+        "token": "些",
+        "startTime": 69770,
+        "endTime": 69940,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "来",
+        "startTime": 69940,
+        "endTime": 70135,
+        "pinyin": "lái"
+      },
+      {
+        "token": "自",
+        "startTime": 70135,
+        "endTime": 70330,
+        "pinyin": "zì"
+      },
+      {
+        "token": "异",
+        "startTime": 70330,
+        "endTime": 70540,
+        "pinyin": "yì"
+      },
+      {
+        "token": "域",
+        "startTime": 70540,
+        "endTime": 70750,
+        "pinyin": "yù"
+      },
+      {
+        "token": "的",
+        "startTime": 70750,
+        "endTime": 70890,
+        "pinyin": "de"
+      },
+      {
+        "token": "烹",
+        "startTime": 70890,
+        "endTime": 71690,
+        "pinyin": "pēng"
+      },
+      {
+        "token": "饪",
+        "startTime": 71690,
+        "endTime": 72490,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "方",
+        "startTime": 72490,
+        "endTime": 72650,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "法",
+        "startTime": 72650,
+        "endTime": 72810,
+        "pinyin": "fǎ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他 描绘 了 一种 用 小麦 蒸成 的 食物 名为 馒头",
+    "translations": {
+      "en": "describing a steamed wheat food called \"mantou.\""
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 72810,
+        "endTime": 72950,
+        "pinyin": "tā"
+      },
+      {
+        "token": "描",
+        "startTime": 72950,
+        "endTime": 73090,
+        "pinyin": "miáo"
+      },
+      {
+        "token": "绘",
+        "startTime": 73090,
+        "endTime": 73230,
+        "pinyin": "huì"
+      },
+      {
+        "token": "了",
+        "startTime": 73230,
+        "endTime": 73230,
+        "pinyin": "le"
+      },
+      {
+        "token": "一",
+        "startTime": 73230,
+        "endTime": 73750,
+        "pinyin": "yī"
+      },
+      {
+        "token": "种",
+        "startTime": 73750,
+        "endTime": 74270,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "用",
+        "startTime": 74270,
+        "endTime": 74450,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "小",
+        "startTime": 74450,
+        "endTime": 74650,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "麦",
+        "startTime": 74650,
+        "endTime": 74850,
+        "pinyin": "mài"
+      },
+      {
+        "token": "蒸",
+        "startTime": 74850,
+        "endTime": 75020,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "成",
+        "startTime": 75020,
+        "endTime": 75190,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "的",
+        "startTime": 75190,
+        "endTime": 75190,
+        "pinyin": "de"
+      },
+      {
+        "token": "食",
+        "startTime": 75190,
+        "endTime": 75440,
+        "pinyin": "shí"
+      },
+      {
+        "token": "物",
+        "startTime": 75440,
+        "endTime": 75690,
+        "pinyin": "wù"
+      },
+      {
+        "token": "名",
+        "startTime": 75690,
+        "endTime": 75770,
+        "pinyin": "míng"
+      },
+      {
+        "token": "为",
+        "startTime": 75770,
+        "endTime": 75850,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "馒",
+        "startTime": 75850,
+        "endTime": 76470,
+        "pinyin": "mán"
+      },
+      {
+        "token": "头",
+        "startTime": 76470,
+        "endTime": 77090,
+        "pinyin": "tou"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他 虔诚地 记录 了 揉 面团 的 制作 过程 称作 烙丸",
+    "translations": {
+      "en": "He faithfully recorded the process of kneading dough, called \"luo wan,\""
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 77090,
+        "endTime": 77250,
+        "pinyin": "tā"
+      },
+      {
+        "token": "虔",
+        "startTime": 77250,
+        "endTime": 77397,
+        "pinyin": "qián"
+      },
+      {
+        "token": "诚",
+        "startTime": 77397,
+        "endTime": 77543,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "地",
+        "startTime": 77543,
+        "endTime": 77690,
+        "pinyin": "dì"
+      },
+      {
+        "token": "记",
+        "startTime": 77690,
+        "endTime": 77870,
+        "pinyin": "jì"
+      },
+      {
+        "token": "录",
+        "startTime": 77870,
+        "endTime": 78050,
+        "pinyin": "lù"
+      },
+      {
+        "token": "了",
+        "startTime": 78050,
+        "endTime": 78290,
+        "pinyin": "le"
+      },
+      {
+        "token": "揉",
+        "startTime": 78290,
+        "endTime": 78570,
+        "pinyin": "róu"
+      },
+      {
+        "token": "面",
+        "startTime": 78570,
+        "endTime": 78760,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "团",
+        "startTime": 78760,
+        "endTime": 78950,
+        "pinyin": "tuán"
+      },
+      {
+        "token": "的",
+        "startTime": 78950,
+        "endTime": 79050,
+        "pinyin": "de"
+      },
+      {
+        "token": "制",
+        "startTime": 79050,
+        "endTime": 79290,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "作",
+        "startTime": 79290,
+        "endTime": 79530,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "过",
+        "startTime": 79530,
+        "endTime": 79930,
+        "pinyin": "guò"
+      },
+      {
+        "token": "程",
+        "startTime": 79930,
+        "endTime": 80330,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "称",
+        "startTime": 80330,
+        "endTime": 81330,
+        "pinyin": "chēng"
+      },
+      {
+        "token": "作",
+        "startTime": 81330,
+        "endTime": 82330,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "烙",
+        "startTime": 82330,
+        "endTime": 82510,
+        "pinyin": "lào"
+      },
+      {
+        "token": "丸",
+        "startTime": 82510,
+        "endTime": 82690,
+        "pinyin": "wán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "丸子 里 装满 了 猪肉 羊肉 和 香料",
+    "translations": {
+      "en": "with fillings of pork, mutton, and spices,"
+    },
+    "segments": [
+      {
+        "token": "丸",
+        "startTime": 82690,
+        "endTime": 82810,
+        "pinyin": "wán"
+      },
+      {
+        "token": "子",
+        "startTime": 82810,
+        "endTime": 82930,
+        "pinyin": "zi"
+      },
+      {
+        "token": "里",
+        "startTime": 82930,
+        "endTime": 83130,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "装",
+        "startTime": 83130,
+        "endTime": 83310,
+        "pinyin": "zhuāng"
+      },
+      {
+        "token": "满",
+        "startTime": 83310,
+        "endTime": 83490,
+        "pinyin": "mǎn"
+      },
+      {
+        "token": "了",
+        "startTime": 83490,
+        "endTime": 83490,
+        "pinyin": "le"
+      },
+      {
+        "token": "猪",
+        "startTime": 83490,
+        "endTime": 83900,
+        "pinyin": "zhū"
+      },
+      {
+        "token": "肉",
+        "startTime": 83900,
+        "endTime": 84310,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "羊",
+        "startTime": 84310,
+        "endTime": 84520,
+        "pinyin": "yáng"
+      },
+      {
+        "token": "肉",
+        "startTime": 84520,
+        "endTime": 84730,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "和",
+        "startTime": 84730,
+        "endTime": 85350,
+        "pinyin": "hé"
+      },
+      {
+        "token": "香",
+        "startTime": 85350,
+        "endTime": 85530,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "料",
+        "startTime": 85530,
+        "endTime": 85710,
+        "pinyin": "liào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而后 蘸 一点 黑 肉酱 一口 下肚",
+    "translations": {
+      "en": "then dipped in a bit of dark meat sauce and swallowed in one bite."
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 85710,
+        "endTime": 85890,
+        "pinyin": "ér"
+      },
+      {
+        "token": "后",
+        "startTime": 85890,
+        "endTime": 86070,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "蘸",
+        "startTime": 86070,
+        "endTime": 86310,
+        "pinyin": "zhàn"
+      },
+      {
+        "token": "一",
+        "startTime": 86310,
+        "endTime": 86670,
+        "pinyin": "yì"
+      },
+      {
+        "token": "点",
+        "startTime": 86670,
+        "endTime": 87030,
+        "pinyin": "diǎn"
+      },
+      {
+        "token": "黑",
+        "startTime": 87030,
+        "endTime": 87190,
+        "pinyin": "hēi"
+      },
+      {
+        "token": "肉",
+        "startTime": 87190,
+        "endTime": 87500,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "酱",
+        "startTime": 87500,
+        "endTime": 87810,
+        "pinyin": "jiàng"
+      },
+      {
+        "token": "一",
+        "startTime": 87810,
+        "endTime": 88170,
+        "pinyin": "yī"
+      },
+      {
+        "token": "口",
+        "startTime": 88170,
+        "endTime": 88530,
+        "pinyin": "kǒu"
+      },
+      {
+        "token": "下",
+        "startTime": 88530,
+        "endTime": 88740,
+        "pinyin": "xià"
+      },
+      {
+        "token": "肚",
+        "startTime": 88740,
+        "endTime": 88950,
+        "pinyin": "dù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "让 人 口水直流 好似 梦 之 盛宴",
+    "translations": {
+      "en": "A mouthwatering feast like a dream."
+    },
+    "segments": [
+      {
+        "token": "让",
+        "startTime": 88950,
+        "endTime": 89250,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "人",
+        "startTime": 89250,
+        "endTime": 89470,
+        "pinyin": "rén"
+      },
+      {
+        "token": "口",
+        "startTime": 89470,
+        "endTime": 89795,
+        "pinyin": "kǒu"
+      },
+      {
+        "token": "水",
+        "startTime": 89795,
+        "endTime": 90120,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "直",
+        "startTime": 90120,
+        "endTime": 90445,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "流",
+        "startTime": 90445,
+        "endTime": 90770,
+        "pinyin": "liú"
+      },
+      {
+        "token": "好",
+        "startTime": 90770,
+        "endTime": 91030,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "似",
+        "startTime": 91030,
+        "endTime": 91290,
+        "pinyin": "sì"
+      },
+      {
+        "token": "梦",
+        "startTime": 91290,
+        "endTime": 92290,
+        "pinyin": "mèng"
+      },
+      {
+        "token": "之",
+        "startTime": 92290,
+        "endTime": 92450,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "盛",
+        "startTime": 92450,
+        "endTime": 92630,
+        "pinyin": "shèng"
+      },
+      {
+        "token": "宴",
+        "startTime": 92630,
+        "endTime": 92810,
+        "pinyin": "yàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 接下来 的 一千年 里 饺子 在 中国 不断 发展",
+    "translations": {
+      "en": "Over the next thousand years, dumplings continued to evolve in China."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 92810,
+        "endTime": 92910,
+        "pinyin": "zài"
+      },
+      {
+        "token": "接",
+        "startTime": 92910,
+        "endTime": 93070,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "下",
+        "startTime": 93070,
+        "endTime": 93230,
+        "pinyin": "xià"
+      },
+      {
+        "token": "来",
+        "startTime": 93230,
+        "endTime": 93390,
+        "pinyin": "lái"
+      },
+      {
+        "token": "的",
+        "startTime": 93390,
+        "endTime": 93630,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 93630,
+        "endTime": 93970,
+        "pinyin": "yī"
+      },
+      {
+        "token": "千",
+        "startTime": 93970,
+        "endTime": 94310,
+        "pinyin": "qiān"
+      },
+      {
+        "token": "年",
+        "startTime": 94310,
+        "endTime": 94650,
+        "pinyin": "nián"
+      },
+      {
+        "token": "里",
+        "startTime": 94650,
+        "endTime": 95010,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "饺",
+        "startTime": 95010,
+        "endTime": 95160,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 95160,
+        "endTime": 95310,
+        "pinyin": "zi"
+      },
+      {
+        "token": "在",
+        "startTime": 95310,
+        "endTime": 95530,
+        "pinyin": "zài"
+      },
+      {
+        "token": "中",
+        "startTime": 95530,
+        "endTime": 95730,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 95730,
+        "endTime": 95930,
+        "pinyin": "guó"
+      },
+      {
+        "token": "不",
+        "startTime": 95930,
+        "endTime": 96540,
+        "pinyin": "bù"
+      },
+      {
+        "token": "断",
+        "startTime": 96540,
+        "endTime": 97150,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "发",
+        "startTime": 97150,
+        "endTime": 97340,
+        "pinyin": "fā"
+      },
+      {
+        "token": "展",
+        "startTime": 97340,
+        "endTime": 97530,
+        "pinyin": "zhǎn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "一些 地区 不再 使用 传统 的 肉馅",
+    "translations": {
+      "en": "Some regions stopped using traditional meat fillings."
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 97530,
+        "endTime": 97700,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 97700,
+        "endTime": 97870,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "地",
+        "startTime": 97870,
+        "endTime": 98020,
+        "pinyin": "dì"
+      },
+      {
+        "token": "区",
+        "startTime": 98020,
+        "endTime": 98170,
+        "pinyin": "qū"
+      },
+      {
+        "token": "不",
+        "startTime": 98170,
+        "endTime": 98370,
+        "pinyin": "bù"
+      },
+      {
+        "token": "再",
+        "startTime": 98370,
+        "endTime": 98570,
+        "pinyin": "zài"
+      },
+      {
+        "token": "使",
+        "startTime": 98570,
+        "endTime": 98740,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "用",
+        "startTime": 98740,
+        "endTime": 98910,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "传",
+        "startTime": 98910,
+        "endTime": 99240,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "统",
+        "startTime": 99240,
+        "endTime": 99570,
+        "pinyin": "tǒng"
+      },
+      {
+        "token": "的",
+        "startTime": 99570,
+        "endTime": 99710,
+        "pinyin": "de"
+      },
+      {
+        "token": "肉",
+        "startTime": 99710,
+        "endTime": 99870,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "馅",
+        "startTime": 99870,
+        "endTime": 100030,
+        "pinyin": "xiàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而是 开始 包素 馅 饺子",
+    "translations": {
+      "en": "And began making vegetarian dumplings instead."
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 100030,
+        "endTime": 100380,
+        "pinyin": "ér"
+      },
+      {
+        "token": "是",
+        "startTime": 100380,
+        "endTime": 100730,
+        "pinyin": "shì"
+      },
+      {
+        "token": "开",
+        "startTime": 100730,
+        "endTime": 100970,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 100970,
+        "endTime": 101210,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "包",
+        "startTime": 101210,
+        "endTime": 101600,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "素",
+        "startTime": 101600,
+        "endTime": 101990,
+        "pinyin": "sù"
+      },
+      {
+        "token": "馅",
+        "startTime": 101990,
+        "endTime": 102090,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "饺",
+        "startTime": 102090,
+        "endTime": 102240,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 102240,
+        "endTime": 102390,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "由于 小麦 在 中国 北方 以外 地区 更难 种植",
+    "translations": {
+      "en": "Since wheat was harder to grow outside northern China,"
+    },
+    "segments": [
+      {
+        "token": "由",
+        "startTime": 102390,
+        "endTime": 102620,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "于",
+        "startTime": 102620,
+        "endTime": 102850,
+        "pinyin": "yú"
+      },
+      {
+        "token": "小",
+        "startTime": 102850,
+        "endTime": 103030,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "麦",
+        "startTime": 103030,
+        "endTime": 103210,
+        "pinyin": "mài"
+      },
+      {
+        "token": "在",
+        "startTime": 103210,
+        "endTime": 103350,
+        "pinyin": "zài"
+      },
+      {
+        "token": "中",
+        "startTime": 103350,
+        "endTime": 103500,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 103500,
+        "endTime": 103650,
+        "pinyin": "guó"
+      },
+      {
+        "token": "北",
+        "startTime": 103650,
+        "endTime": 103810,
+        "pinyin": "běi"
+      },
+      {
+        "token": "方",
+        "startTime": 103810,
+        "endTime": 103970,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "以",
+        "startTime": 103970,
+        "endTime": 104150,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "外",
+        "startTime": 104150,
+        "endTime": 104330,
+        "pinyin": "wài"
+      },
+      {
+        "token": "地",
+        "startTime": 104330,
+        "endTime": 104630,
+        "pinyin": "dì"
+      },
+      {
+        "token": "区",
+        "startTime": 104630,
+        "endTime": 104930,
+        "pinyin": "qū"
+      },
+      {
+        "token": "更",
+        "startTime": 104930,
+        "endTime": 105040,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "难",
+        "startTime": 105040,
+        "endTime": 105150,
+        "pinyin": "nán"
+      },
+      {
+        "token": "种",
+        "startTime": 105150,
+        "endTime": 105320,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "植",
+        "startTime": 105320,
+        "endTime": 105490,
+        "pinyin": "zhí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "人们 还 发明 了 新 的 烹饪 方法",
+    "translations": {
+      "en": "people also invented new cooking methods."
+    },
+    "segments": [
+      {
+        "token": "人",
+        "startTime": 105490,
+        "endTime": 105770,
+        "pinyin": "rén"
+      },
+      {
+        "token": "们",
+        "startTime": 105770,
+        "endTime": 106050,
+        "pinyin": "men"
+      },
+      {
+        "token": "还",
+        "startTime": 106050,
+        "endTime": 106290,
+        "pinyin": "hái"
+      },
+      {
+        "token": "发",
+        "startTime": 106290,
+        "endTime": 106440,
+        "pinyin": "fā"
+      },
+      {
+        "token": "明",
+        "startTime": 106440,
+        "endTime": 106590,
+        "pinyin": "míng"
+      },
+      {
+        "token": "了",
+        "startTime": 106590,
+        "endTime": 106850,
+        "pinyin": "le"
+      },
+      {
+        "token": "新",
+        "startTime": 106850,
+        "endTime": 108050,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "的",
+        "startTime": 108050,
+        "endTime": 108270,
+        "pinyin": "de"
+      },
+      {
+        "token": "烹",
+        "startTime": 108270,
+        "endTime": 108430,
+        "pinyin": "pēng"
+      },
+      {
+        "token": "饪",
+        "startTime": 108430,
+        "endTime": 108590,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "方",
+        "startTime": 108590,
+        "endTime": 108750,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "法",
+        "startTime": 108750,
+        "endTime": 108910,
+        "pinyin": "fǎ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "其他 地区 的 人 开始 用 米饭 、 木薯 粉 和 红薯 来 制作 水饺",
+    "translations": {
+      "en": "Other regions started making dumplings with rice, tapioca flour, and sweet potatoes."
+    },
+    "segments": [
+      {
+        "token": "其",
+        "startTime": 108910,
+        "endTime": 109210,
+        "pinyin": "qí"
+      },
+      {
+        "token": "他",
+        "startTime": 109210,
+        "endTime": 109510,
+        "pinyin": "tā"
+      },
+      {
+        "token": "地",
+        "startTime": 109510,
+        "endTime": 109880,
+        "pinyin": "dì"
+      },
+      {
+        "token": "区",
+        "startTime": 109880,
+        "endTime": 110250,
+        "pinyin": "qū"
+      },
+      {
+        "token": "的",
+        "startTime": 110250,
+        "endTime": 110730,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 110730,
+        "endTime": 110810,
+        "pinyin": "rén"
+      },
+      {
+        "token": "开",
+        "startTime": 110810,
+        "endTime": 110980,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 110980,
+        "endTime": 111150,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "用",
+        "startTime": 111150,
+        "endTime": 111530,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "米",
+        "startTime": 111530,
+        "endTime": 111780,
+        "pinyin": "mǐ"
+      },
+      {
+        "token": "饭",
+        "startTime": 111780,
+        "endTime": 112030,
+        "pinyin": "fàn"
+      },
+      {
+        "token": "、",
+        "startTime": 112030,
+        "endTime": 112230,
+        "pinyin": "、"
+      },
+      {
+        "token": "木",
+        "startTime": 112230,
+        "endTime": 112380,
+        "pinyin": "mù"
+      },
+      {
+        "token": "薯",
+        "startTime": 112380,
+        "endTime": 112530,
+        "pinyin": "shǔ"
+      },
+      {
+        "token": "粉",
+        "startTime": 112530,
+        "endTime": 112770,
+        "pinyin": "fěn"
+      },
+      {
+        "token": "和",
+        "startTime": 112770,
+        "endTime": 113150,
+        "pinyin": "hé"
+      },
+      {
+        "token": "红",
+        "startTime": 113150,
+        "endTime": 113280,
+        "pinyin": "hóng"
+      },
+      {
+        "token": "薯",
+        "startTime": 113280,
+        "endTime": 113410,
+        "pinyin": "shǔ"
+      },
+      {
+        "token": "来",
+        "startTime": 113410,
+        "endTime": 113730,
+        "pinyin": "lái"
+      },
+      {
+        "token": "制",
+        "startTime": 113730,
+        "endTime": 113900,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "作",
+        "startTime": 113900,
+        "endTime": 114070,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "水",
+        "startTime": 114070,
+        "endTime": 114210,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "饺",
+        "startTime": 114210,
+        "endTime": 114350,
+        "pinyin": "jiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "中国 不同 地区 的 饺子 与 历史 的 联系 很难 准确 追溯",
+    "translations": {
+      "en": "The historical ties between dumplings and different regions of China are hard to trace precisely."
+    },
+    "segments": [
+      {
+        "token": "中",
+        "startTime": 114350,
+        "endTime": 114670,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 114670,
+        "endTime": 114990,
+        "pinyin": "guó"
+      },
+      {
+        "token": "不",
+        "startTime": 114990,
+        "endTime": 115250,
+        "pinyin": "bù"
+      },
+      {
+        "token": "同",
+        "startTime": 115250,
+        "endTime": 115510,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "地",
+        "startTime": 115510,
+        "endTime": 115700,
+        "pinyin": "dì"
+      },
+      {
+        "token": "区",
+        "startTime": 115700,
+        "endTime": 115890,
+        "pinyin": "qū"
+      },
+      {
+        "token": "的",
+        "startTime": 115890,
+        "endTime": 116070,
+        "pinyin": "de"
+      },
+      {
+        "token": "饺",
+        "startTime": 116070,
+        "endTime": 116460,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 116460,
+        "endTime": 116850,
+        "pinyin": "zi"
+      },
+      {
+        "token": "与",
+        "startTime": 116850,
+        "endTime": 117150,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "历",
+        "startTime": 117150,
+        "endTime": 117360,
+        "pinyin": "lì"
+      },
+      {
+        "token": "史",
+        "startTime": 117360,
+        "endTime": 117570,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 117570,
+        "endTime": 118050,
+        "pinyin": "de"
+      },
+      {
+        "token": "联",
+        "startTime": 118050,
+        "endTime": 118170,
+        "pinyin": "lián"
+      },
+      {
+        "token": "系",
+        "startTime": 118170,
+        "endTime": 118290,
+        "pinyin": "xì"
+      },
+      {
+        "token": "很",
+        "startTime": 118290,
+        "endTime": 118470,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "难",
+        "startTime": 118470,
+        "endTime": 118650,
+        "pinyin": "nán"
+      },
+      {
+        "token": "准",
+        "startTime": 118650,
+        "endTime": 118780,
+        "pinyin": "zhǔn"
+      },
+      {
+        "token": "确",
+        "startTime": 118780,
+        "endTime": 118910,
+        "pinyin": "què"
+      },
+      {
+        "token": "追",
+        "startTime": 118910,
+        "endTime": 119100,
+        "pinyin": "zhuī"
+      },
+      {
+        "token": "溯",
+        "startTime": 119100,
+        "endTime": 119290,
+        "pinyin": "sù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但是 食品 历史学家 根据 现有 的 线索 做 了 最 可能 的 推测",
+    "translations": {
+      "en": "But food historians have made the most likely guesses based on available clues."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 119290,
+        "endTime": 119610,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "是",
+        "startTime": 119610,
+        "endTime": 119930,
+        "pinyin": "shì"
+      },
+      {
+        "token": "食",
+        "startTime": 119930,
+        "endTime": 120150,
+        "pinyin": "shí"
+      },
+      {
+        "token": "品",
+        "startTime": 120150,
+        "endTime": 120370,
+        "pinyin": "pǐn"
+      },
+      {
+        "token": "历",
+        "startTime": 120370,
+        "endTime": 120590,
+        "pinyin": "lì"
+      },
+      {
+        "token": "史",
+        "startTime": 120590,
+        "endTime": 120810,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "学",
+        "startTime": 120810,
+        "endTime": 121030,
+        "pinyin": "xué"
+      },
+      {
+        "token": "家",
+        "startTime": 121030,
+        "endTime": 121250,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "根",
+        "startTime": 121250,
+        "endTime": 121390,
+        "pinyin": "gēn"
+      },
+      {
+        "token": "据",
+        "startTime": 121390,
+        "endTime": 121530,
+        "pinyin": "jù"
+      },
+      {
+        "token": "现",
+        "startTime": 121530,
+        "endTime": 121720,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "有",
+        "startTime": 121720,
+        "endTime": 121910,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "的",
+        "startTime": 121910,
+        "endTime": 122130,
+        "pinyin": "de"
+      },
+      {
+        "token": "线",
+        "startTime": 122130,
+        "endTime": 122450,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "索",
+        "startTime": 122450,
+        "endTime": 122770,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "做",
+        "startTime": 122770,
+        "endTime": 122930,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "了",
+        "startTime": 122930,
+        "endTime": 123190,
+        "pinyin": "le"
+      },
+      {
+        "token": "最",
+        "startTime": 123190,
+        "endTime": 123370,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "可",
+        "startTime": 123370,
+        "endTime": 123560,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 123560,
+        "endTime": 123750,
+        "pinyin": "néng"
+      },
+      {
+        "token": "的",
+        "startTime": 123750,
+        "endTime": 123970,
+        "pinyin": "de"
+      },
+      {
+        "token": "推",
+        "startTime": 123970,
+        "endTime": 124230,
+        "pinyin": "tuī"
+      },
+      {
+        "token": "测",
+        "startTime": 124230,
+        "endTime": 124490,
+        "pinyin": "cè"
+      }
+    ]
+  },
+  {
+    "sentence_text": "突厥 部落 13 00 年 左右 建立 了 奥斯曼帝国",
+    "translations": {
+      "en": "Around 1300, Turkic tribes established the Ottoman Empire."
+    },
+    "segments": [
+      {
+        "token": "突",
+        "startTime": 124490,
+        "endTime": 124650,
+        "pinyin": "tū"
+      },
+      {
+        "token": "厥",
+        "startTime": 124650,
+        "endTime": 124810,
+        "pinyin": "jué"
+      },
+      {
+        "token": "部",
+        "startTime": 124810,
+        "endTime": 124900,
+        "pinyin": "bù"
+      },
+      {
+        "token": "落",
+        "startTime": 124900,
+        "endTime": 124990,
+        "pinyin": "luò"
+      },
+      {
+        "token": "1",
+        "startTime": 124990,
+        "endTime": 125200,
+        "pinyin": "1"
+      },
+      {
+        "token": "3",
+        "startTime": 125200,
+        "endTime": 125410,
+        "pinyin": "3"
+      },
+      {
+        "token": "0",
+        "startTime": 125410,
+        "endTime": 125570,
+        "pinyin": "0"
+      },
+      {
+        "token": "0",
+        "startTime": 125570,
+        "endTime": 125730,
+        "pinyin": "0"
+      },
+      {
+        "token": "年",
+        "startTime": 125730,
+        "endTime": 125870,
+        "pinyin": "nián"
+      },
+      {
+        "token": "左",
+        "startTime": 125870,
+        "endTime": 126050,
+        "pinyin": "zuǒ"
+      },
+      {
+        "token": "右",
+        "startTime": 126050,
+        "endTime": 126230,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "建",
+        "startTime": 126230,
+        "endTime": 126590,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "立",
+        "startTime": 126590,
+        "endTime": 126950,
+        "pinyin": "lì"
+      },
+      {
+        "token": "了",
+        "startTime": 126950,
+        "endTime": 127090,
+        "pinyin": "le"
+      },
+      {
+        "token": "奥",
+        "startTime": 127090,
+        "endTime": 127394,
+        "pinyin": "ào"
+      },
+      {
+        "token": "斯",
+        "startTime": 127394,
+        "endTime": 127698,
+        "pinyin": "sī"
+      },
+      {
+        "token": "曼",
+        "startTime": 127698,
+        "endTime": 128002,
+        "pinyin": "màn"
+      },
+      {
+        "token": "帝",
+        "startTime": 128002,
+        "endTime": 128306,
+        "pinyin": "dì"
+      },
+      {
+        "token": "国",
+        "startTime": 128306,
+        "endTime": 128610,
+        "pinyin": "guó"
+      }
+    ]
+  },
+  {
+    "sentence_text": "并 将 包裹 好 的 食物 带到 了 西方",
+    "translations": {
+      "en": "And brought filled dumplings to the West."
+    },
+    "segments": [
+      {
+        "token": "并",
+        "startTime": 128610,
+        "endTime": 128790,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "将",
+        "startTime": 128790,
+        "endTime": 128910,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "包",
+        "startTime": 128910,
+        "endTime": 129090,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "裹",
+        "startTime": 129090,
+        "endTime": 129270,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "好",
+        "startTime": 129270,
+        "endTime": 129490,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 129490,
+        "endTime": 129770,
+        "pinyin": "de"
+      },
+      {
+        "token": "食",
+        "startTime": 129770,
+        "endTime": 129930,
+        "pinyin": "shí"
+      },
+      {
+        "token": "物",
+        "startTime": 129930,
+        "endTime": 130090,
+        "pinyin": "wù"
+      },
+      {
+        "token": "带",
+        "startTime": 130090,
+        "endTime": 130220,
+        "pinyin": "dài"
+      },
+      {
+        "token": "到",
+        "startTime": 130220,
+        "endTime": 130350,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 130350,
+        "endTime": 130610,
+        "pinyin": "le"
+      },
+      {
+        "token": "西",
+        "startTime": 130610,
+        "endTime": 131490,
+        "pinyin": "xī"
+      },
+      {
+        "token": "方",
+        "startTime": 131490,
+        "endTime": 132370,
+        "pinyin": "fāng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 现在 的 土耳其 大多数 人 由于 伊斯兰教 的 饮食 限制",
+    "translations": {
+      "en": "In what is now Turkey, most people, due to Islamic dietary restrictions,"
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 132370,
+        "endTime": 132570,
+        "pinyin": "zài"
+      },
+      {
+        "token": "现",
+        "startTime": 132570,
+        "endTime": 132750,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "在",
+        "startTime": 132750,
+        "endTime": 132930,
+        "pinyin": "zài"
+      },
+      {
+        "token": "的",
+        "startTime": 132930,
+        "endTime": 133070,
+        "pinyin": "de"
+      },
+      {
+        "token": "土",
+        "startTime": 133070,
+        "endTime": 133370,
+        "pinyin": "tǔ"
+      },
+      {
+        "token": "耳",
+        "startTime": 133370,
+        "endTime": 133670,
+        "pinyin": "ěr"
+      },
+      {
+        "token": "其",
+        "startTime": 133670,
+        "endTime": 133970,
+        "pinyin": "qí"
+      },
+      {
+        "token": "大",
+        "startTime": 133970,
+        "endTime": 134137,
+        "pinyin": "dà"
+      },
+      {
+        "token": "多",
+        "startTime": 134137,
+        "endTime": 134303,
+        "pinyin": "duō"
+      },
+      {
+        "token": "数",
+        "startTime": 134303,
+        "endTime": 134470,
+        "pinyin": "shù"
+      },
+      {
+        "token": "人",
+        "startTime": 134470,
+        "endTime": 134610,
+        "pinyin": "rén"
+      },
+      {
+        "token": "由",
+        "startTime": 134610,
+        "endTime": 134740,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "于",
+        "startTime": 134740,
+        "endTime": 134870,
+        "pinyin": "yú"
+      },
+      {
+        "token": "伊",
+        "startTime": 134870,
+        "endTime": 135015,
+        "pinyin": "yī"
+      },
+      {
+        "token": "斯",
+        "startTime": 135015,
+        "endTime": 135160,
+        "pinyin": "sī"
+      },
+      {
+        "token": "兰",
+        "startTime": 135160,
+        "endTime": 135305,
+        "pinyin": "lán"
+      },
+      {
+        "token": "教",
+        "startTime": 135305,
+        "endTime": 135450,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "的",
+        "startTime": 135450,
+        "endTime": 135590,
+        "pinyin": "de"
+      },
+      {
+        "token": "饮",
+        "startTime": 135590,
+        "endTime": 135920,
+        "pinyin": "yǐn"
+      },
+      {
+        "token": "食",
+        "startTime": 135920,
+        "endTime": 136250,
+        "pinyin": "shí"
+      },
+      {
+        "token": "限",
+        "startTime": 136250,
+        "endTime": 136370,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "制",
+        "startTime": 136370,
+        "endTime": 136490,
+        "pinyin": "zhì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "不会 用 猪肉 煲 饺子",
+    "translations": {
+      "en": "do not make dumplings with pork."
+    },
+    "segments": [
+      {
+        "token": "不",
+        "startTime": 136490,
+        "endTime": 136770,
+        "pinyin": "bú"
+      },
+      {
+        "token": "会",
+        "startTime": 136770,
+        "endTime": 137050,
+        "pinyin": "huì"
+      },
+      {
+        "token": "用",
+        "startTime": 137050,
+        "endTime": 137230,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "猪",
+        "startTime": 137230,
+        "endTime": 137410,
+        "pinyin": "zhū"
+      },
+      {
+        "token": "肉",
+        "startTime": 137410,
+        "endTime": 137590,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "煲",
+        "startTime": 137590,
+        "endTime": 138470,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "饺",
+        "startTime": 138470,
+        "endTime": 138630,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 138630,
+        "endTime": 138790,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而是 由 羊肉 等 食材 做 饺子馅",
+    "translations": {
+      "en": "Instead, they use lamb and other ingredients for the filling."
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 138790,
+        "endTime": 139110,
+        "pinyin": "ér"
+      },
+      {
+        "token": "是",
+        "startTime": 139110,
+        "endTime": 139430,
+        "pinyin": "shì"
+      },
+      {
+        "token": "由",
+        "startTime": 139430,
+        "endTime": 139610,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "羊",
+        "startTime": 139610,
+        "endTime": 139895,
+        "pinyin": "yáng"
+      },
+      {
+        "token": "肉",
+        "startTime": 139895,
+        "endTime": 140180,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "等",
+        "startTime": 140180,
+        "endTime": 140380,
+        "pinyin": "děng"
+      },
+      {
+        "token": "食",
+        "startTime": 140380,
+        "endTime": 140660,
+        "pinyin": "shí"
+      },
+      {
+        "token": "材",
+        "startTime": 140660,
+        "endTime": 140940,
+        "pinyin": "cái"
+      },
+      {
+        "token": "做",
+        "startTime": 140940,
+        "endTime": 141140,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "饺",
+        "startTime": 141140,
+        "endTime": 141467,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 141467,
+        "endTime": 141793,
+        "pinyin": "zi"
+      },
+      {
+        "token": "馅",
+        "startTime": 141793,
+        "endTime": 142120,
+        "pinyin": "xiàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "淋上 大蒜 、 酸奶 和 热 黄油",
+    "translations": {
+      "en": "Topped with garlic, yogurt, and hot butter."
+    },
+    "segments": [
+      {
+        "token": "淋",
+        "startTime": 142120,
+        "endTime": 142610,
+        "pinyin": "lín"
+      },
+      {
+        "token": "上",
+        "startTime": 142610,
+        "endTime": 143100,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "大",
+        "startTime": 143100,
+        "endTime": 143290,
+        "pinyin": "dà"
+      },
+      {
+        "token": "蒜",
+        "startTime": 143290,
+        "endTime": 143480,
+        "pinyin": "suàn"
+      },
+      {
+        "token": "、",
+        "startTime": 143480,
+        "endTime": 143840,
+        "pinyin": "、"
+      },
+      {
+        "token": "酸",
+        "startTime": 143840,
+        "endTime": 144000,
+        "pinyin": "suān"
+      },
+      {
+        "token": "奶",
+        "startTime": 144000,
+        "endTime": 144160,
+        "pinyin": "nǎi"
+      },
+      {
+        "token": "和",
+        "startTime": 144160,
+        "endTime": 144460,
+        "pinyin": "hé"
+      },
+      {
+        "token": "热",
+        "startTime": 144460,
+        "endTime": 144940,
+        "pinyin": "rè"
+      },
+      {
+        "token": "黄",
+        "startTime": 144940,
+        "endTime": 145120,
+        "pinyin": "huáng"
+      },
+      {
+        "token": "油",
+        "startTime": 145120,
+        "endTime": 145300,
+        "pinyin": "yóu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "然后 再 撒 上 香草 和 香料",
+    "translations": {
+      "en": "Then sprinkled with herbs and spices."
+    },
+    "segments": [
+      {
+        "token": "然",
+        "startTime": 145300,
+        "endTime": 145620,
+        "pinyin": "rán"
+      },
+      {
+        "token": "后",
+        "startTime": 145620,
+        "endTime": 145940,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "再",
+        "startTime": 145940,
+        "endTime": 146120,
+        "pinyin": "zài"
+      },
+      {
+        "token": "撒",
+        "startTime": 146120,
+        "endTime": 146360,
+        "pinyin": "sā"
+      },
+      {
+        "token": "上",
+        "startTime": 146360,
+        "endTime": 146560,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "香",
+        "startTime": 146560,
+        "endTime": 147180,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "草",
+        "startTime": 147180,
+        "endTime": 147800,
+        "pinyin": "cǎo"
+      },
+      {
+        "token": "和",
+        "startTime": 147800,
+        "endTime": 147960,
+        "pinyin": "hé"
+      },
+      {
+        "token": "香",
+        "startTime": 147960,
+        "endTime": 148110,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "料",
+        "startTime": 148110,
+        "endTime": 148260,
+        "pinyin": "liào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "有 学者 认为 蒙古 帝国 也 帮助 传播 了 饺子",
+    "translations": {
+      "en": "Some scholars believe the Mongol Empire also helped spread dumplings."
+    },
+    "segments": [
+      {
+        "token": "有",
+        "startTime": 148260,
+        "endTime": 148260,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "学",
+        "startTime": 148260,
+        "endTime": 148650,
+        "pinyin": "xué"
+      },
+      {
+        "token": "者",
+        "startTime": 148650,
+        "endTime": 149040,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "认",
+        "startTime": 149040,
+        "endTime": 149230,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "为",
+        "startTime": 149230,
+        "endTime": 149420,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "蒙",
+        "startTime": 149420,
+        "endTime": 149740,
+        "pinyin": "méng"
+      },
+      {
+        "token": "古",
+        "startTime": 149740,
+        "endTime": 150060,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "帝",
+        "startTime": 150060,
+        "endTime": 150290,
+        "pinyin": "dì"
+      },
+      {
+        "token": "国",
+        "startTime": 150290,
+        "endTime": 150520,
+        "pinyin": "guó"
+      },
+      {
+        "token": "也",
+        "startTime": 150520,
+        "endTime": 150660,
+        "pinyin": "yě"
+      },
+      {
+        "token": "帮",
+        "startTime": 150660,
+        "endTime": 150830,
+        "pinyin": "bāng"
+      },
+      {
+        "token": "助",
+        "startTime": 150830,
+        "endTime": 151000,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "传",
+        "startTime": 151000,
+        "endTime": 151500,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "播",
+        "startTime": 151500,
+        "endTime": 152000,
+        "pinyin": "bō"
+      },
+      {
+        "token": "了",
+        "startTime": 152000,
+        "endTime": 152100,
+        "pinyin": "le"
+      },
+      {
+        "token": "饺",
+        "startTime": 152100,
+        "endTime": 152250,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 152250,
+        "endTime": 152400,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "也许 是 他们 将 饺子 带到 东欧 部分 地区",
+    "translations": {
+      "en": "Perhaps they brought them to parts of Eastern Europe."
+    },
+    "segments": [
+      {
+        "token": "也",
+        "startTime": 152400,
+        "endTime": 152610,
+        "pinyin": "yě"
+      },
+      {
+        "token": "许",
+        "startTime": 152610,
+        "endTime": 152820,
+        "pinyin": "xǔ"
+      },
+      {
+        "token": "是",
+        "startTime": 152820,
+        "endTime": 152980,
+        "pinyin": "shì"
+      },
+      {
+        "token": "他",
+        "startTime": 152980,
+        "endTime": 153160,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 153160,
+        "endTime": 153340,
+        "pinyin": "men"
+      },
+      {
+        "token": "将",
+        "startTime": 153340,
+        "endTime": 153660,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "饺",
+        "startTime": 153660,
+        "endTime": 153870,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 153870,
+        "endTime": 154080,
+        "pinyin": "zi"
+      },
+      {
+        "token": "带",
+        "startTime": 154080,
+        "endTime": 154630,
+        "pinyin": "dài"
+      },
+      {
+        "token": "到",
+        "startTime": 154630,
+        "endTime": 155180,
+        "pinyin": "dào"
+      },
+      {
+        "token": "东",
+        "startTime": 155180,
+        "endTime": 155330,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "欧",
+        "startTime": 155330,
+        "endTime": 155480,
+        "pinyin": "ōu"
+      },
+      {
+        "token": "部",
+        "startTime": 155480,
+        "endTime": 155600,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 155600,
+        "endTime": 155720,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "地",
+        "startTime": 155720,
+        "endTime": 155870,
+        "pinyin": "dì"
+      },
+      {
+        "token": "区",
+        "startTime": 155870,
+        "endTime": 156020,
+        "pinyin": "qū"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 饺子 可能 来自 中国 或 直接 来自 蒙古人 雇用 来 管理 其 帝国 的 一些 突厥 人",
+    "translations": {
+      "en": "These dumplings may have come from China or directly from some Turkic people employed by the Mongols to administer their empire."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 156020,
+        "endTime": 156190,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 156190,
+        "endTime": 156360,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "饺",
+        "startTime": 156360,
+        "endTime": 156780,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 156780,
+        "endTime": 157200,
+        "pinyin": "zi"
+      },
+      {
+        "token": "可",
+        "startTime": 157200,
+        "endTime": 157410,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 157410,
+        "endTime": 157620,
+        "pinyin": "néng"
+      },
+      {
+        "token": "来",
+        "startTime": 157620,
+        "endTime": 157790,
+        "pinyin": "lái"
+      },
+      {
+        "token": "自",
+        "startTime": 157790,
+        "endTime": 157960,
+        "pinyin": "zì"
+      },
+      {
+        "token": "中",
+        "startTime": 157960,
+        "endTime": 158150,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 158150,
+        "endTime": 158340,
+        "pinyin": "guó"
+      },
+      {
+        "token": "或",
+        "startTime": 158340,
+        "endTime": 158620,
+        "pinyin": "huò"
+      },
+      {
+        "token": "直",
+        "startTime": 158620,
+        "endTime": 158800,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "接",
+        "startTime": 158800,
+        "endTime": 158980,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "来",
+        "startTime": 158980,
+        "endTime": 159170,
+        "pinyin": "lái"
+      },
+      {
+        "token": "自",
+        "startTime": 159170,
+        "endTime": 159360,
+        "pinyin": "zì"
+      },
+      {
+        "token": "蒙",
+        "startTime": 159360,
+        "endTime": 159540,
+        "pinyin": "méng"
+      },
+      {
+        "token": "古",
+        "startTime": 159540,
+        "endTime": 159720,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "人",
+        "startTime": 159720,
+        "endTime": 159900,
+        "pinyin": "rén"
+      },
+      {
+        "token": "雇",
+        "startTime": 159900,
+        "endTime": 160030,
+        "pinyin": "gù"
+      },
+      {
+        "token": "用",
+        "startTime": 160030,
+        "endTime": 160160,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "来",
+        "startTime": 160160,
+        "endTime": 160380,
+        "pinyin": "lái"
+      },
+      {
+        "token": "管",
+        "startTime": 160380,
+        "endTime": 160590,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "理",
+        "startTime": 160590,
+        "endTime": 160800,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "其",
+        "startTime": 160800,
+        "endTime": 161960,
+        "pinyin": "qí"
+      },
+      {
+        "token": "帝",
+        "startTime": 161960,
+        "endTime": 162080,
+        "pinyin": "dì"
+      },
+      {
+        "token": "国",
+        "startTime": 162080,
+        "endTime": 162200,
+        "pinyin": "guó"
+      },
+      {
+        "token": "的",
+        "startTime": 162200,
+        "endTime": 162520,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 162520,
+        "endTime": 162900,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 162900,
+        "endTime": 163280,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "突",
+        "startTime": 163280,
+        "endTime": 163380,
+        "pinyin": "tū"
+      },
+      {
+        "token": "厥",
+        "startTime": 163380,
+        "endTime": 163480,
+        "pinyin": "jué"
+      },
+      {
+        "token": "人",
+        "startTime": 163480,
+        "endTime": 163720,
+        "pinyin": "rén"
+      }
+    ]
+  },
+  {
+    "sentence_text": "有人 认为 这 就是 为何 出现 了 像是 俄罗斯 饺子",
+    "translations": {
+      "en": "Some think this is why dumplings like Russian pelmeni appeared."
+    },
+    "segments": [
+      {
+        "token": "有",
+        "startTime": 163720,
+        "endTime": 163890,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "人",
+        "startTime": 163890,
+        "endTime": 164060,
+        "pinyin": "rén"
+      },
+      {
+        "token": "认",
+        "startTime": 164060,
+        "endTime": 164350,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "为",
+        "startTime": 164350,
+        "endTime": 164640,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "这",
+        "startTime": 164640,
+        "endTime": 164800,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "就",
+        "startTime": 164800,
+        "endTime": 164970,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "是",
+        "startTime": 164970,
+        "endTime": 165140,
+        "pinyin": "shì"
+      },
+      {
+        "token": "为",
+        "startTime": 165140,
+        "endTime": 165280,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "何",
+        "startTime": 165280,
+        "endTime": 165420,
+        "pinyin": "hé"
+      },
+      {
+        "token": "出",
+        "startTime": 165420,
+        "endTime": 165800,
+        "pinyin": "chū"
+      },
+      {
+        "token": "现",
+        "startTime": 165800,
+        "endTime": 166180,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "了",
+        "startTime": 166180,
+        "endTime": 166340,
+        "pinyin": "le"
+      },
+      {
+        "token": "像",
+        "startTime": 166340,
+        "endTime": 166600,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "是",
+        "startTime": 166600,
+        "endTime": 166860,
+        "pinyin": "shì"
+      },
+      {
+        "token": "俄",
+        "startTime": 166860,
+        "endTime": 167053,
+        "pinyin": "é"
+      },
+      {
+        "token": "罗",
+        "startTime": 167053,
+        "endTime": 167247,
+        "pinyin": "luó"
+      },
+      {
+        "token": "斯",
+        "startTime": 167247,
+        "endTime": 167440,
+        "pinyin": "sī"
+      },
+      {
+        "token": "饺",
+        "startTime": 167440,
+        "endTime": 167630,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 167630,
+        "endTime": 167820,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "还有 更大 的 波兰 饺子 和 乌克兰 饺子",
+    "translations": {
+      "en": "There are also larger Polish pierogi and Ukrainian varenyky"
+    },
+    "segments": [
+      {
+        "token": "还",
+        "startTime": 167820,
+        "endTime": 167990,
+        "pinyin": "hái"
+      },
+      {
+        "token": "有",
+        "startTime": 167990,
+        "endTime": 168160,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "更",
+        "startTime": 168160,
+        "endTime": 168320,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "大",
+        "startTime": 168320,
+        "endTime": 168480,
+        "pinyin": "dà"
+      },
+      {
+        "token": "的",
+        "startTime": 168480,
+        "endTime": 168940,
+        "pinyin": "de"
+      },
+      {
+        "token": "波",
+        "startTime": 168940,
+        "endTime": 169110,
+        "pinyin": "bō"
+      },
+      {
+        "token": "兰",
+        "startTime": 169110,
+        "endTime": 169280,
+        "pinyin": "lán"
+      },
+      {
+        "token": "饺",
+        "startTime": 169280,
+        "endTime": 169490,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 169490,
+        "endTime": 169700,
+        "pinyin": "zi"
+      },
+      {
+        "token": "和",
+        "startTime": 169700,
+        "endTime": 169960,
+        "pinyin": "hé"
+      },
+      {
+        "token": "乌",
+        "startTime": 169960,
+        "endTime": 170433,
+        "pinyin": "wū"
+      },
+      {
+        "token": "克",
+        "startTime": 170433,
+        "endTime": 170907,
+        "pinyin": "kè"
+      },
+      {
+        "token": "兰",
+        "startTime": 170907,
+        "endTime": 171380,
+        "pinyin": "lán"
+      },
+      {
+        "token": "饺",
+        "startTime": 171380,
+        "endTime": 171490,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 171490,
+        "endTime": 171600,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "主要 食材 是 土豆 、 卷心菜 、 奶酪 和 樱桃 之类 的 东西",
+    "translations": {
+      "en": "The main ingredients are things like potatoes, cabbage, cheese, and cherries"
+    },
+    "segments": [
+      {
+        "token": "主",
+        "startTime": 171600,
+        "endTime": 171940,
+        "pinyin": "zhǔ"
+      },
+      {
+        "token": "要",
+        "startTime": 171940,
+        "endTime": 172280,
+        "pinyin": "yào"
+      },
+      {
+        "token": "食",
+        "startTime": 172280,
+        "endTime": 172430,
+        "pinyin": "shí"
+      },
+      {
+        "token": "材",
+        "startTime": 172430,
+        "endTime": 172580,
+        "pinyin": "cái"
+      },
+      {
+        "token": "是",
+        "startTime": 172580,
+        "endTime": 172820,
+        "pinyin": "shì"
+      },
+      {
+        "token": "土",
+        "startTime": 172820,
+        "endTime": 173000,
+        "pinyin": "tǔ"
+      },
+      {
+        "token": "豆",
+        "startTime": 173000,
+        "endTime": 173180,
+        "pinyin": "dòu"
+      },
+      {
+        "token": "、",
+        "startTime": 173180,
+        "endTime": 173400,
+        "pinyin": "、"
+      },
+      {
+        "token": "卷",
+        "startTime": 173400,
+        "endTime": 173533,
+        "pinyin": "juǎn"
+      },
+      {
+        "token": "心",
+        "startTime": 173533,
+        "endTime": 173667,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "菜",
+        "startTime": 173667,
+        "endTime": 173800,
+        "pinyin": "cài"
+      },
+      {
+        "token": "、",
+        "startTime": 173800,
+        "endTime": 174380,
+        "pinyin": "、"
+      },
+      {
+        "token": "奶",
+        "startTime": 174380,
+        "endTime": 174520,
+        "pinyin": "nǎi"
+      },
+      {
+        "token": "酪",
+        "startTime": 174520,
+        "endTime": 174660,
+        "pinyin": "lào"
+      },
+      {
+        "token": "和",
+        "startTime": 174660,
+        "endTime": 174840,
+        "pinyin": "hé"
+      },
+      {
+        "token": "樱",
+        "startTime": 174840,
+        "endTime": 174980,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "桃",
+        "startTime": 174980,
+        "endTime": 175120,
+        "pinyin": "táo"
+      },
+      {
+        "token": "之",
+        "startTime": 175120,
+        "endTime": 175290,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "类",
+        "startTime": 175290,
+        "endTime": 175460,
+        "pinyin": "lèi"
+      },
+      {
+        "token": "的",
+        "startTime": 175460,
+        "endTime": 175580,
+        "pinyin": "de"
+      },
+      {
+        "token": "东",
+        "startTime": 175580,
+        "endTime": 176000,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "西",
+        "startTime": 176000,
+        "endTime": 176420,
+        "pinyin": "xī"
+      }
+    ]
+  },
+  {
+    "sentence_text": "蒙古 帝国 也 控制 了 朝鲜 并 可能 也 M ando 可以 跟 泡菜 等 地方 食材 同时",
+    "translations": {
+      "en": "The Mongol Empire also controlled Korea and may have combined Mando with local ingredients like kimchi"
+    },
+    "segments": [
+      {
+        "token": "蒙",
+        "startTime": 176420,
+        "endTime": 176630,
+        "pinyin": "méng"
+      },
+      {
+        "token": "古",
+        "startTime": 176630,
+        "endTime": 176840,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "帝",
+        "startTime": 176840,
+        "endTime": 177030,
+        "pinyin": "dì"
+      },
+      {
+        "token": "国",
+        "startTime": 177030,
+        "endTime": 177220,
+        "pinyin": "guó"
+      },
+      {
+        "token": "也",
+        "startTime": 177220,
+        "endTime": 177400,
+        "pinyin": "yě"
+      },
+      {
+        "token": "控",
+        "startTime": 177400,
+        "endTime": 177570,
+        "pinyin": "kòng"
+      },
+      {
+        "token": "制",
+        "startTime": 177570,
+        "endTime": 177740,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "了",
+        "startTime": 177740,
+        "endTime": 177880,
+        "pinyin": "le"
+      },
+      {
+        "token": "朝",
+        "startTime": 177880,
+        "endTime": 178000,
+        "pinyin": "cháo"
+      },
+      {
+        "token": "鲜",
+        "startTime": 178000,
+        "endTime": 178120,
+        "pinyin": "xiān"
+      },
+      {
+        "token": "并",
+        "startTime": 178120,
+        "endTime": 178620,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "可",
+        "startTime": 178620,
+        "endTime": 178790,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 178790,
+        "endTime": 178960,
+        "pinyin": "néng"
+      },
+      {
+        "token": "也",
+        "startTime": 178960,
+        "endTime": 179100,
+        "pinyin": "yě"
+      },
+      {
+        "token": "M",
+        "startTime": 179100,
+        "endTime": 179400,
+        "pinyin": "M"
+      },
+      {
+        "token": "a",
+        "startTime": 179400,
+        "endTime": 179460,
+        "pinyin": "a"
+      },
+      {
+        "token": "n",
+        "startTime": 179460,
+        "endTime": 179520,
+        "pinyin": "n"
+      },
+      {
+        "token": "d",
+        "startTime": 179520,
+        "endTime": 179580,
+        "pinyin": "d"
+      },
+      {
+        "token": "o",
+        "startTime": 179580,
+        "endTime": 179640,
+        "pinyin": "o"
+      },
+      {
+        "token": "可",
+        "startTime": 179640,
+        "endTime": 179840,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 179840,
+        "endTime": 180040,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "跟",
+        "startTime": 180040,
+        "endTime": 180260,
+        "pinyin": "gēn"
+      },
+      {
+        "token": "泡",
+        "startTime": 180260,
+        "endTime": 180480,
+        "pinyin": "pào"
+      },
+      {
+        "token": "菜",
+        "startTime": 180480,
+        "endTime": 180700,
+        "pinyin": "cài"
+      },
+      {
+        "token": "等",
+        "startTime": 180700,
+        "endTime": 180880,
+        "pinyin": "děng"
+      },
+      {
+        "token": "地",
+        "startTime": 180880,
+        "endTime": 181050,
+        "pinyin": "dì"
+      },
+      {
+        "token": "方",
+        "startTime": 181050,
+        "endTime": 181220,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "食",
+        "startTime": 181220,
+        "endTime": 181360,
+        "pinyin": "shí"
+      },
+      {
+        "token": "材",
+        "startTime": 181360,
+        "endTime": 181500,
+        "pinyin": "cái"
+      },
+      {
+        "token": "同",
+        "startTime": 181500,
+        "endTime": 181930,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "时",
+        "startTime": 181930,
+        "endTime": 182360,
+        "pinyin": "shí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "后来 当 品种 多样 的 中国 饺子 被 介绍 到 更 多 国家 之后",
+    "translations": {
+      "en": "Later, when diverse Chinese dumplings were introduced to more countries"
+    },
+    "segments": [
+      {
+        "token": "后",
+        "startTime": 182360,
+        "endTime": 182580,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "来",
+        "startTime": 182580,
+        "endTime": 182800,
+        "pinyin": "lái"
+      },
+      {
+        "token": "当",
+        "startTime": 182800,
+        "endTime": 183240,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "品",
+        "startTime": 183240,
+        "endTime": 183410,
+        "pinyin": "pǐn"
+      },
+      {
+        "token": "种",
+        "startTime": 183410,
+        "endTime": 183580,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "多",
+        "startTime": 183580,
+        "endTime": 183730,
+        "pinyin": "duō"
+      },
+      {
+        "token": "样",
+        "startTime": 183730,
+        "endTime": 183880,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "的",
+        "startTime": 183880,
+        "endTime": 184020,
+        "pinyin": "de"
+      },
+      {
+        "token": "中",
+        "startTime": 184020,
+        "endTime": 184140,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 184140,
+        "endTime": 184260,
+        "pinyin": "guó"
+      },
+      {
+        "token": "饺",
+        "startTime": 184260,
+        "endTime": 184440,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 184440,
+        "endTime": 184620,
+        "pinyin": "zi"
+      },
+      {
+        "token": "被",
+        "startTime": 184620,
+        "endTime": 184760,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "介",
+        "startTime": 184760,
+        "endTime": 184900,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "绍",
+        "startTime": 184900,
+        "endTime": 185040,
+        "pinyin": "shào"
+      },
+      {
+        "token": "到",
+        "startTime": 185040,
+        "endTime": 185220,
+        "pinyin": "dào"
+      },
+      {
+        "token": "更",
+        "startTime": 185220,
+        "endTime": 185480,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "多",
+        "startTime": 185480,
+        "endTime": 185680,
+        "pinyin": "duō"
+      },
+      {
+        "token": "国",
+        "startTime": 185680,
+        "endTime": 185860,
+        "pinyin": "guó"
+      },
+      {
+        "token": "家",
+        "startTime": 185860,
+        "endTime": 186040,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "之",
+        "startTime": 186040,
+        "endTime": 186310,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "后",
+        "startTime": 186310,
+        "endTime": 186580,
+        "pinyin": "hòu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "说 英语 的 人 开始 叫 称之为 D um plings",
+    "translations": {
+      "en": "English speakers began calling them dumplings"
+    },
+    "segments": [
+      {
+        "token": "说",
+        "startTime": 186580,
+        "endTime": 186740,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "英",
+        "startTime": 186740,
+        "endTime": 186890,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "语",
+        "startTime": 186890,
+        "endTime": 187040,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "的",
+        "startTime": 187040,
+        "endTime": 187240,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 187240,
+        "endTime": 187560,
+        "pinyin": "rén"
+      },
+      {
+        "token": "开",
+        "startTime": 187560,
+        "endTime": 187740,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 187740,
+        "endTime": 187920,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "叫",
+        "startTime": 187920,
+        "endTime": 188040,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "称",
+        "startTime": 188040,
+        "endTime": 188087,
+        "pinyin": "chēng"
+      },
+      {
+        "token": "之",
+        "startTime": 188087,
+        "endTime": 188133,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "为",
+        "startTime": 188133,
+        "endTime": 188180,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "D",
+        "startTime": 188180,
+        "endTime": 188360,
+        "pinyin": "D"
+      },
+      {
+        "token": "u",
+        "startTime": 188360,
+        "endTime": 188430,
+        "pinyin": "u"
+      },
+      {
+        "token": "m",
+        "startTime": 188430,
+        "endTime": 188500,
+        "pinyin": "m"
+      },
+      {
+        "token": "p",
+        "startTime": 188500,
+        "endTime": 188533,
+        "pinyin": "p"
+      },
+      {
+        "token": "l",
+        "startTime": 188533,
+        "endTime": 188567,
+        "pinyin": "l"
+      },
+      {
+        "token": "i",
+        "startTime": 188567,
+        "endTime": 188600,
+        "pinyin": "i"
+      },
+      {
+        "token": "n",
+        "startTime": 188600,
+        "endTime": 188633,
+        "pinyin": "n"
+      },
+      {
+        "token": "g",
+        "startTime": 188633,
+        "endTime": 188667,
+        "pinyin": "g"
+      },
+      {
+        "token": "s",
+        "startTime": 188667,
+        "endTime": 188700,
+        "pinyin": "s"
+      }
+    ]
+  },
+  {
+    "sentence_text": "饺子 这个 词 的 意思 是 小肉块 并且 认为 最早 始于 16 世纪 的 英国",
+    "translations": {
+      "en": "The word dumpling means a small lump of meat and is believed to have originated in 16th-century England"
+    },
+    "segments": [
+      {
+        "token": "饺",
+        "startTime": 188700,
+        "endTime": 189170,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 189170,
+        "endTime": 189640,
+        "pinyin": "zi"
+      },
+      {
+        "token": "这",
+        "startTime": 189640,
+        "endTime": 189760,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "个",
+        "startTime": 189760,
+        "endTime": 189880,
+        "pinyin": "gè"
+      },
+      {
+        "token": "词",
+        "startTime": 189880,
+        "endTime": 189960,
+        "pinyin": "cí"
+      },
+      {
+        "token": "的",
+        "startTime": 189960,
+        "endTime": 190100,
+        "pinyin": "de"
+      },
+      {
+        "token": "意",
+        "startTime": 190100,
+        "endTime": 190190,
+        "pinyin": "yì"
+      },
+      {
+        "token": "思",
+        "startTime": 190190,
+        "endTime": 190280,
+        "pinyin": "sī"
+      },
+      {
+        "token": "是",
+        "startTime": 190280,
+        "endTime": 190480,
+        "pinyin": "shì"
+      },
+      {
+        "token": "小",
+        "startTime": 190480,
+        "endTime": 190753,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "肉",
+        "startTime": 190753,
+        "endTime": 191027,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "块",
+        "startTime": 191027,
+        "endTime": 191300,
+        "pinyin": "kuài"
+      },
+      {
+        "token": "并",
+        "startTime": 191300,
+        "endTime": 191550,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "且",
+        "startTime": 191550,
+        "endTime": 191800,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "认",
+        "startTime": 191800,
+        "endTime": 191920,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "为",
+        "startTime": 191920,
+        "endTime": 192040,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "最",
+        "startTime": 192040,
+        "endTime": 192210,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "早",
+        "startTime": 192210,
+        "endTime": 192380,
+        "pinyin": "zǎo"
+      },
+      {
+        "token": "始",
+        "startTime": 192380,
+        "endTime": 192570,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "于",
+        "startTime": 192570,
+        "endTime": 192760,
+        "pinyin": "yú"
+      },
+      {
+        "token": "1",
+        "startTime": 192760,
+        "endTime": 192920,
+        "pinyin": "1"
+      },
+      {
+        "token": "6",
+        "startTime": 192920,
+        "endTime": 193080,
+        "pinyin": "6"
+      },
+      {
+        "token": "世",
+        "startTime": 193080,
+        "endTime": 193260,
+        "pinyin": "shì"
+      },
+      {
+        "token": "纪",
+        "startTime": 193260,
+        "endTime": 193440,
+        "pinyin": "jì"
+      },
+      {
+        "token": "的",
+        "startTime": 193440,
+        "endTime": 193580,
+        "pinyin": "de"
+      },
+      {
+        "token": "英",
+        "startTime": 193580,
+        "endTime": 194180,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "国",
+        "startTime": 194180,
+        "endTime": 194780,
+        "pinyin": "guó"
+      }
+    ]
+  },
+  {
+    "sentence_text": "是 被 用来 描述 掉 在 液体 中 的 面团 球",
+    "translations": {
+      "en": "It was used to describe dough balls dropped into liquid"
+    },
+    "segments": [
+      {
+        "token": "是",
+        "startTime": 194780,
+        "endTime": 194880,
+        "pinyin": "shì"
+      },
+      {
+        "token": "被",
+        "startTime": 194880,
+        "endTime": 195020,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "用",
+        "startTime": 195020,
+        "endTime": 195150,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "来",
+        "startTime": 195150,
+        "endTime": 195280,
+        "pinyin": "lái"
+      },
+      {
+        "token": "描",
+        "startTime": 195280,
+        "endTime": 195480,
+        "pinyin": "miáo"
+      },
+      {
+        "token": "述",
+        "startTime": 195480,
+        "endTime": 195680,
+        "pinyin": "shù"
+      },
+      {
+        "token": "掉",
+        "startTime": 195680,
+        "endTime": 195860,
+        "pinyin": "diào"
+      },
+      {
+        "token": "在",
+        "startTime": 195860,
+        "endTime": 196080,
+        "pinyin": "zài"
+      },
+      {
+        "token": "液",
+        "startTime": 196080,
+        "endTime": 196260,
+        "pinyin": "yè"
+      },
+      {
+        "token": "体",
+        "startTime": 196260,
+        "endTime": 196440,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "中",
+        "startTime": 196440,
+        "endTime": 196600,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "的",
+        "startTime": 196600,
+        "endTime": 196780,
+        "pinyin": "de"
+      },
+      {
+        "token": "面",
+        "startTime": 196780,
+        "endTime": 197010,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "团",
+        "startTime": 197010,
+        "endTime": 197240,
+        "pinyin": "tuán"
+      },
+      {
+        "token": "球",
+        "startTime": 197240,
+        "endTime": 197455,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "像",
+        "startTime": 197455,
+        "endTime": 197670,
+        "pinyin": "xiàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "像 德式 土豆 角 K an ood le 和 脆饼 面丸",
+    "translations": {
+      "en": "Like German potato dumplings (Knödel) and crispy bread dumplings"
+    },
+    "segments": [
+      {
+        "token": "德",
+        "startTime": 198100,
+        "endTime": 198280,
+        "pinyin": "dé"
+      },
+      {
+        "token": "式",
+        "startTime": 198280,
+        "endTime": 198460,
+        "pinyin": "shì"
+      },
+      {
+        "token": "土",
+        "startTime": 198460,
+        "endTime": 198590,
+        "pinyin": "tǔ"
+      },
+      {
+        "token": "豆",
+        "startTime": 198590,
+        "endTime": 198720,
+        "pinyin": "dòu"
+      },
+      {
+        "token": "角",
+        "startTime": 198720,
+        "endTime": 198900,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "K",
+        "startTime": 198900,
+        "endTime": 199180,
+        "pinyin": "K"
+      },
+      {
+        "token": "a",
+        "startTime": 199180,
+        "endTime": 199210,
+        "pinyin": "a"
+      },
+      {
+        "token": "n",
+        "startTime": 199210,
+        "endTime": 199240,
+        "pinyin": "n"
+      },
+      {
+        "token": "o",
+        "startTime": 199240,
+        "endTime": 199293,
+        "pinyin": "o"
+      },
+      {
+        "token": "o",
+        "startTime": 199293,
+        "endTime": 199347,
+        "pinyin": "o"
+      },
+      {
+        "token": "d",
+        "startTime": 199347,
+        "endTime": 199400,
+        "pinyin": "d"
+      },
+      {
+        "token": "l",
+        "startTime": 199400,
+        "endTime": 199480,
+        "pinyin": "l"
+      },
+      {
+        "token": "e",
+        "startTime": 199480,
+        "endTime": 199560,
+        "pinyin": "e"
+      },
+      {
+        "token": "和",
+        "startTime": 199560,
+        "endTime": 199760,
+        "pinyin": "hé"
+      },
+      {
+        "token": "脆",
+        "startTime": 199760,
+        "endTime": 199920,
+        "pinyin": "cuì"
+      },
+      {
+        "token": "饼",
+        "startTime": 199920,
+        "endTime": 200080,
+        "pinyin": "bǐng"
+      },
+      {
+        "token": "面",
+        "startTime": 200080,
+        "endTime": 200370,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "丸",
+        "startTime": 200370,
+        "endTime": 200660,
+        "pinyin": "wán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它们 没有 馅 所以 这个 词 实际上 是 令人困惑 得 不 准确",
+    "translations": {
+      "en": "They have no filling, so the word is actually confusingly inaccurate"
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 200660,
+        "endTime": 200790,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 200790,
+        "endTime": 200920,
+        "pinyin": "men"
+      },
+      {
+        "token": "没",
+        "startTime": 200920,
+        "endTime": 201030,
+        "pinyin": "méi"
+      },
+      {
+        "token": "有",
+        "startTime": 201030,
+        "endTime": 201140,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "馅",
+        "startTime": 201140,
+        "endTime": 201660,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "所",
+        "startTime": 201660,
+        "endTime": 201770,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "以",
+        "startTime": 201770,
+        "endTime": 201880,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "这",
+        "startTime": 201880,
+        "endTime": 202050,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "个",
+        "startTime": 202050,
+        "endTime": 202220,
+        "pinyin": "ge"
+      },
+      {
+        "token": "词",
+        "startTime": 202220,
+        "endTime": 202340,
+        "pinyin": "cí"
+      },
+      {
+        "token": "实",
+        "startTime": 202340,
+        "endTime": 202520,
+        "pinyin": "shí"
+      },
+      {
+        "token": "际",
+        "startTime": 202520,
+        "endTime": 202700,
+        "pinyin": "jì"
+      },
+      {
+        "token": "上",
+        "startTime": 202700,
+        "endTime": 202880,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "是",
+        "startTime": 202880,
+        "endTime": 203120,
+        "pinyin": "shì"
+      },
+      {
+        "token": "令",
+        "startTime": 203120,
+        "endTime": 203320,
+        "pinyin": "lìng"
+      },
+      {
+        "token": "人",
+        "startTime": 203320,
+        "endTime": 203520,
+        "pinyin": "rén"
+      },
+      {
+        "token": "困",
+        "startTime": 203520,
+        "endTime": 203720,
+        "pinyin": "kùn"
+      },
+      {
+        "token": "惑",
+        "startTime": 203720,
+        "endTime": 203920,
+        "pinyin": "huò"
+      },
+      {
+        "token": "得",
+        "startTime": 203920,
+        "endTime": 204080,
+        "pinyin": "dé"
+      },
+      {
+        "token": "不",
+        "startTime": 204080,
+        "endTime": 204220,
+        "pinyin": "bù"
+      },
+      {
+        "token": "准",
+        "startTime": 204220,
+        "endTime": 204450,
+        "pinyin": "zhǔn"
+      },
+      {
+        "token": "确",
+        "startTime": 204450,
+        "endTime": 204680,
+        "pinyin": "què"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 它 仍然 被 记住 了",
+    "translations": {
+      "en": "But it has still stuck"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 204680,
+        "endTime": 204960,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "它",
+        "startTime": 204960,
+        "endTime": 205080,
+        "pinyin": "tā"
+      },
+      {
+        "token": "仍",
+        "startTime": 205080,
+        "endTime": 205280,
+        "pinyin": "réng"
+      },
+      {
+        "token": "然",
+        "startTime": 205280,
+        "endTime": 205480,
+        "pinyin": "rán"
+      },
+      {
+        "token": "被",
+        "startTime": 205480,
+        "endTime": 205680,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "记",
+        "startTime": 205680,
+        "endTime": 205860,
+        "pinyin": "jì"
+      },
+      {
+        "token": "住",
+        "startTime": 205860,
+        "endTime": 206040,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "了",
+        "startTime": 206040,
+        "endTime": 206840,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "当 日本 在 二战 期间 占领 中国 时",
+    "translations": {
+      "en": "When Japan occupied China during World War II"
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 206840,
+        "endTime": 207020,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "日",
+        "startTime": 207020,
+        "endTime": 207130,
+        "pinyin": "rì"
+      },
+      {
+        "token": "本",
+        "startTime": 207130,
+        "endTime": 207240,
+        "pinyin": "běn"
+      },
+      {
+        "token": "在",
+        "startTime": 207240,
+        "endTime": 207540,
+        "pinyin": "zài"
+      },
+      {
+        "token": "二",
+        "startTime": 207540,
+        "endTime": 207680,
+        "pinyin": "èr"
+      },
+      {
+        "token": "战",
+        "startTime": 207680,
+        "endTime": 207820,
+        "pinyin": "zhàn"
+      },
+      {
+        "token": "期",
+        "startTime": 207820,
+        "endTime": 208010,
+        "pinyin": "qī"
+      },
+      {
+        "token": "间",
+        "startTime": 208010,
+        "endTime": 208200,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "占",
+        "startTime": 208200,
+        "endTime": 208400,
+        "pinyin": "zhàn"
+      },
+      {
+        "token": "领",
+        "startTime": 208400,
+        "endTime": 208600,
+        "pinyin": "lǐng"
+      },
+      {
+        "token": "中",
+        "startTime": 208600,
+        "endTime": 208760,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 208760,
+        "endTime": 208920,
+        "pinyin": "guó"
+      },
+      {
+        "token": "时",
+        "startTime": 208920,
+        "endTime": 210220,
+        "pinyin": "shí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "中国 的 饺子 被 带到 了 日本",
+    "translations": {
+      "en": "Chinese dumplings were brought to Japan"
+    },
+    "segments": [
+      {
+        "token": "中",
+        "startTime": 210220,
+        "endTime": 210380,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 210380,
+        "endTime": 210540,
+        "pinyin": "guó"
+      },
+      {
+        "token": "的",
+        "startTime": 210540,
+        "endTime": 210720,
+        "pinyin": "de"
+      },
+      {
+        "token": "饺",
+        "startTime": 210720,
+        "endTime": 210865,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 210865,
+        "endTime": 211010,
+        "pinyin": "zi"
+      },
+      {
+        "token": "被",
+        "startTime": 211010,
+        "endTime": 211170,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "带",
+        "startTime": 211170,
+        "endTime": 211360,
+        "pinyin": "dài"
+      },
+      {
+        "token": "到",
+        "startTime": 211360,
+        "endTime": 211550,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 211550,
+        "endTime": 212010,
+        "pinyin": "le"
+      },
+      {
+        "token": "日",
+        "startTime": 212010,
+        "endTime": 212260,
+        "pinyin": "rì"
+      },
+      {
+        "token": "本",
+        "startTime": 212260,
+        "endTime": 212510,
+        "pinyin": "běn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 那里 他们 又 被 G yo za 并且 通常 是 被 煎炸 的",
+    "translations": {
+      "en": "Where they became gyoza and are usually pan-fried"
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 212510,
+        "endTime": 212650,
+        "pinyin": "zài"
+      },
+      {
+        "token": "那",
+        "startTime": 212650,
+        "endTime": 212740,
+        "pinyin": "nà"
+      },
+      {
+        "token": "里",
+        "startTime": 212740,
+        "endTime": 212830,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "他",
+        "startTime": 212830,
+        "endTime": 213000,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 213000,
+        "endTime": 213170,
+        "pinyin": "men"
+      },
+      {
+        "token": "又",
+        "startTime": 213170,
+        "endTime": 213290,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "被",
+        "startTime": 213290,
+        "endTime": 213490,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "G",
+        "startTime": 213490,
+        "endTime": 213870,
+        "pinyin": "G"
+      },
+      {
+        "token": "y",
+        "startTime": 213870,
+        "endTime": 213940,
+        "pinyin": "y"
+      },
+      {
+        "token": "o",
+        "startTime": 213940,
+        "endTime": 214010,
+        "pinyin": "o"
+      },
+      {
+        "token": "z",
+        "startTime": 214010,
+        "endTime": 214940,
+        "pinyin": "z"
+      },
+      {
+        "token": "a",
+        "startTime": 214940,
+        "endTime": 215870,
+        "pinyin": "a"
+      },
+      {
+        "token": "并",
+        "startTime": 215870,
+        "endTime": 216030,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "且",
+        "startTime": 216030,
+        "endTime": 216190,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "通",
+        "startTime": 216190,
+        "endTime": 216400,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "常",
+        "startTime": 216400,
+        "endTime": 216610,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "是",
+        "startTime": 216610,
+        "endTime": 216970,
+        "pinyin": "shì"
+      },
+      {
+        "token": "被",
+        "startTime": 216970,
+        "endTime": 217110,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "煎",
+        "startTime": 217110,
+        "endTime": 217410,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "炸",
+        "startTime": 217410,
+        "endTime": 217710,
+        "pinyin": "zhà"
+      },
+      {
+        "token": "的",
+        "startTime": 217710,
+        "endTime": 218710,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "那么 在 意大利 的 每个 地区 为什么 都 有 自己 各式各样 的 意大利 饺 呢",
+    "translations": {
+      "en": "So why does every region in Italy have its own variety of ravioli?"
+    },
+    "segments": [
+      {
+        "token": "那",
+        "startTime": 218710,
+        "endTime": 218790,
+        "pinyin": "nà"
+      },
+      {
+        "token": "么",
+        "startTime": 218790,
+        "endTime": 218870,
+        "pinyin": "me"
+      },
+      {
+        "token": "在",
+        "startTime": 218870,
+        "endTime": 219210,
+        "pinyin": "zài"
+      },
+      {
+        "token": "意",
+        "startTime": 219210,
+        "endTime": 219337,
+        "pinyin": "yì"
+      },
+      {
+        "token": "大",
+        "startTime": 219337,
+        "endTime": 219463,
+        "pinyin": "dà"
+      },
+      {
+        "token": "利",
+        "startTime": 219463,
+        "endTime": 219590,
+        "pinyin": "lì"
+      },
+      {
+        "token": "的",
+        "startTime": 219590,
+        "endTime": 219750,
+        "pinyin": "de"
+      },
+      {
+        "token": "每",
+        "startTime": 219750,
+        "endTime": 219850,
+        "pinyin": "měi"
+      },
+      {
+        "token": "个",
+        "startTime": 219850,
+        "endTime": 219950,
+        "pinyin": "gè"
+      },
+      {
+        "token": "地",
+        "startTime": 219950,
+        "endTime": 220250,
+        "pinyin": "dì"
+      },
+      {
+        "token": "区",
+        "startTime": 220250,
+        "endTime": 220550,
+        "pinyin": "qū"
+      },
+      {
+        "token": "为",
+        "startTime": 220550,
+        "endTime": 220643,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "什",
+        "startTime": 220643,
+        "endTime": 220737,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 220737,
+        "endTime": 220830,
+        "pinyin": "me"
+      },
+      {
+        "token": "都",
+        "startTime": 220830,
+        "endTime": 221190,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "有",
+        "startTime": 221190,
+        "endTime": 221410,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "自",
+        "startTime": 221410,
+        "endTime": 221690,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 221690,
+        "endTime": 221970,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "各",
+        "startTime": 221970,
+        "endTime": 222150,
+        "pinyin": "gè"
+      },
+      {
+        "token": "式",
+        "startTime": 222150,
+        "endTime": 222330,
+        "pinyin": "shì"
+      },
+      {
+        "token": "各",
+        "startTime": 222330,
+        "endTime": 222510,
+        "pinyin": "gè"
+      },
+      {
+        "token": "样",
+        "startTime": 222510,
+        "endTime": 222690,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "的",
+        "startTime": 222690,
+        "endTime": 222810,
+        "pinyin": "de"
+      },
+      {
+        "token": "意",
+        "startTime": 222810,
+        "endTime": 223543,
+        "pinyin": "yì"
+      },
+      {
+        "token": "大",
+        "startTime": 223543,
+        "endTime": 224277,
+        "pinyin": "dà"
+      },
+      {
+        "token": "利",
+        "startTime": 224277,
+        "endTime": 225010,
+        "pinyin": "lì"
+      },
+      {
+        "token": "饺",
+        "startTime": 225010,
+        "endTime": 225190,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "呢",
+        "startTime": 225190,
+        "endTime": 225430,
+        "pinyin": "ne"
+      }
+    ]
+  },
+  {
+    "sentence_text": "一些 历史学家 认为 阿拉伯 征服者 在 九世纪 和 十一 世纪 之间",
+    "translations": {
+      "en": "Some historians believe Arab conquerors between the 9th and 11th centuries"
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 225430,
+        "endTime": 225550,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 225550,
+        "endTime": 225670,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "历",
+        "startTime": 225670,
+        "endTime": 225915,
+        "pinyin": "lì"
+      },
+      {
+        "token": "史",
+        "startTime": 225915,
+        "endTime": 226160,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "学",
+        "startTime": 226160,
+        "endTime": 226405,
+        "pinyin": "xué"
+      },
+      {
+        "token": "家",
+        "startTime": 226405,
+        "endTime": 226650,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "认",
+        "startTime": 226650,
+        "endTime": 226780,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "为",
+        "startTime": 226780,
+        "endTime": 226910,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "阿",
+        "startTime": 226910,
+        "endTime": 227110,
+        "pinyin": "ā"
+      },
+      {
+        "token": "拉",
+        "startTime": 227110,
+        "endTime": 227310,
+        "pinyin": "lā"
+      },
+      {
+        "token": "伯",
+        "startTime": 227310,
+        "endTime": 227510,
+        "pinyin": "bó"
+      },
+      {
+        "token": "征",
+        "startTime": 227510,
+        "endTime": 227770,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "服",
+        "startTime": 227770,
+        "endTime": 228030,
+        "pinyin": "fú"
+      },
+      {
+        "token": "者",
+        "startTime": 228030,
+        "endTime": 228290,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "在",
+        "startTime": 228290,
+        "endTime": 228450,
+        "pinyin": "zài"
+      },
+      {
+        "token": "九",
+        "startTime": 228450,
+        "endTime": 228650,
+        "pinyin": "jiǔ"
+      },
+      {
+        "token": "世",
+        "startTime": 228650,
+        "endTime": 228850,
+        "pinyin": "shì"
+      },
+      {
+        "token": "纪",
+        "startTime": 228850,
+        "endTime": 229050,
+        "pinyin": "jì"
+      },
+      {
+        "token": "和",
+        "startTime": 229050,
+        "endTime": 229210,
+        "pinyin": "hé"
+      },
+      {
+        "token": "十",
+        "startTime": 229210,
+        "endTime": 229370,
+        "pinyin": "shí"
+      },
+      {
+        "token": "一",
+        "startTime": 229370,
+        "endTime": 229530,
+        "pinyin": "yī"
+      },
+      {
+        "token": "世",
+        "startTime": 229530,
+        "endTime": 229980,
+        "pinyin": "shì"
+      },
+      {
+        "token": "纪",
+        "startTime": 229980,
+        "endTime": 230430,
+        "pinyin": "jì"
+      },
+      {
+        "token": "之",
+        "startTime": 230430,
+        "endTime": 230600,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 230600,
+        "endTime": 230770,
+        "pinyin": "jiān"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他们 统治 的 时候 带来 了 饺子 但 并非 所有人 都 认同 此 观点",
+    "translations": {
+      "en": "Brought dumplings during their rule, but not everyone agrees"
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 230770,
+        "endTime": 230930,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 230930,
+        "endTime": 231090,
+        "pinyin": "men"
+      },
+      {
+        "token": "统",
+        "startTime": 231090,
+        "endTime": 231140,
+        "pinyin": "tǒng"
+      },
+      {
+        "token": "治",
+        "startTime": 231140,
+        "endTime": 231190,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "的",
+        "startTime": 231190,
+        "endTime": 231290,
+        "pinyin": "de"
+      },
+      {
+        "token": "时",
+        "startTime": 231290,
+        "endTime": 231390,
+        "pinyin": "shí"
+      },
+      {
+        "token": "候",
+        "startTime": 231390,
+        "endTime": 231490,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "带",
+        "startTime": 231490,
+        "endTime": 231760,
+        "pinyin": "dài"
+      },
+      {
+        "token": "来",
+        "startTime": 231760,
+        "endTime": 232030,
+        "pinyin": "lái"
+      },
+      {
+        "token": "了",
+        "startTime": 232030,
+        "endTime": 232290,
+        "pinyin": "le"
+      },
+      {
+        "token": "饺",
+        "startTime": 232290,
+        "endTime": 232670,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 232670,
+        "endTime": 233050,
+        "pinyin": "zi"
+      },
+      {
+        "token": "但",
+        "startTime": 233050,
+        "endTime": 233290,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "并",
+        "startTime": 233290,
+        "endTime": 233490,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "非",
+        "startTime": 233490,
+        "endTime": 233690,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "所",
+        "startTime": 233690,
+        "endTime": 233917,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "有",
+        "startTime": 233917,
+        "endTime": 234143,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "人",
+        "startTime": 234143,
+        "endTime": 234370,
+        "pinyin": "rén"
+      },
+      {
+        "token": "都",
+        "startTime": 234370,
+        "endTime": 234530,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "认",
+        "startTime": 234530,
+        "endTime": 234780,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "同",
+        "startTime": 234780,
+        "endTime": 235030,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "此",
+        "startTime": 235030,
+        "endTime": 235970,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "观",
+        "startTime": 235970,
+        "endTime": 236090,
+        "pinyin": "guān"
+      },
+      {
+        "token": "点",
+        "startTime": 236090,
+        "endTime": 236210,
+        "pinyin": "diǎn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "不太可能 所有 饺子 式 的 菜肴 都 是 来自 同一个 传统 根源",
+    "translations": {
+      "en": "It's unlikely that all dumpling-like dishes come from a single traditional root"
+    },
+    "segments": [
+      {
+        "token": "不",
+        "startTime": 236210,
+        "endTime": 236445,
+        "pinyin": "bù"
+      },
+      {
+        "token": "太",
+        "startTime": 236445,
+        "endTime": 236680,
+        "pinyin": "tài"
+      },
+      {
+        "token": "可",
+        "startTime": 236680,
+        "endTime": 236915,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 236915,
+        "endTime": 237150,
+        "pinyin": "néng"
+      },
+      {
+        "token": "所",
+        "startTime": 237150,
+        "endTime": 237350,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "有",
+        "startTime": 237350,
+        "endTime": 237550,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "饺",
+        "startTime": 237550,
+        "endTime": 237680,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 237680,
+        "endTime": 237810,
+        "pinyin": "zi"
+      },
+      {
+        "token": "式",
+        "startTime": 237810,
+        "endTime": 237970,
+        "pinyin": "shì"
+      },
+      {
+        "token": "的",
+        "startTime": 237970,
+        "endTime": 238130,
+        "pinyin": "de"
+      },
+      {
+        "token": "菜",
+        "startTime": 238130,
+        "endTime": 238350,
+        "pinyin": "cài"
+      },
+      {
+        "token": "肴",
+        "startTime": 238350,
+        "endTime": 238570,
+        "pinyin": "yáo"
+      },
+      {
+        "token": "都",
+        "startTime": 238570,
+        "endTime": 238790,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "是",
+        "startTime": 238790,
+        "endTime": 238930,
+        "pinyin": "shì"
+      },
+      {
+        "token": "来",
+        "startTime": 238930,
+        "endTime": 239180,
+        "pinyin": "lái"
+      },
+      {
+        "token": "自",
+        "startTime": 239180,
+        "endTime": 239430,
+        "pinyin": "zì"
+      },
+      {
+        "token": "同",
+        "startTime": 239430,
+        "endTime": 239637,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "一",
+        "startTime": 239637,
+        "endTime": 239843,
+        "pinyin": "yī"
+      },
+      {
+        "token": "个",
+        "startTime": 239843,
+        "endTime": 240050,
+        "pinyin": "gè"
+      },
+      {
+        "token": "传",
+        "startTime": 240050,
+        "endTime": 240420,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "统",
+        "startTime": 240420,
+        "endTime": 240790,
+        "pinyin": "tǒng"
+      },
+      {
+        "token": "根",
+        "startTime": 240790,
+        "endTime": 240970,
+        "pinyin": "gēn"
+      },
+      {
+        "token": "源",
+        "startTime": 240970,
+        "endTime": 241150,
+        "pinyin": "yuán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 许多 情况 下 , 它 可能 只是 来自 不同 文化 的 烹饪 家",
+    "translations": {
+      "en": "In many cases, it may just be that cooks from different cultures"
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 241150,
+        "endTime": 241470,
+        "pinyin": "zài"
+      },
+      {
+        "token": "许",
+        "startTime": 241470,
+        "endTime": 241720,
+        "pinyin": "xǔ"
+      },
+      {
+        "token": "多",
+        "startTime": 241720,
+        "endTime": 241970,
+        "pinyin": "duō"
+      },
+      {
+        "token": "情",
+        "startTime": 241970,
+        "endTime": 242120,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 242120,
+        "endTime": 242270,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "下",
+        "startTime": 242270,
+        "endTime": 242550,
+        "pinyin": "xià"
+      },
+      {
+        "token": ",",
+        "startTime": 242550,
+        "endTime": 243070,
+        "pinyin": ","
+      },
+      {
+        "token": "它",
+        "startTime": 243070,
+        "endTime": 243190,
+        "pinyin": "tā"
+      },
+      {
+        "token": "可",
+        "startTime": 243190,
+        "endTime": 243320,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 243320,
+        "endTime": 243450,
+        "pinyin": "néng"
+      },
+      {
+        "token": "只",
+        "startTime": 243450,
+        "endTime": 243690,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 243690,
+        "endTime": 243930,
+        "pinyin": "shì"
+      },
+      {
+        "token": "来",
+        "startTime": 243930,
+        "endTime": 244180,
+        "pinyin": "lái"
+      },
+      {
+        "token": "自",
+        "startTime": 244180,
+        "endTime": 244430,
+        "pinyin": "zì"
+      },
+      {
+        "token": "不",
+        "startTime": 244430,
+        "endTime": 244860,
+        "pinyin": "bù"
+      },
+      {
+        "token": "同",
+        "startTime": 244860,
+        "endTime": 245290,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "文",
+        "startTime": 245290,
+        "endTime": 245490,
+        "pinyin": "wén"
+      },
+      {
+        "token": "化",
+        "startTime": 245490,
+        "endTime": 245690,
+        "pinyin": "huà"
+      },
+      {
+        "token": "的",
+        "startTime": 245690,
+        "endTime": 245850,
+        "pinyin": "de"
+      },
+      {
+        "token": "烹",
+        "startTime": 245850,
+        "endTime": 246080,
+        "pinyin": "pēng"
+      },
+      {
+        "token": "饪",
+        "startTime": 246080,
+        "endTime": 246310,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "家",
+        "startTime": 246310,
+        "endTime": 246490,
+        "pinyin": "jiā"
+      }
+    ]
+  },
+  {
+    "sentence_text": "共享 了 相似 的 灵感",
+    "translations": {
+      "en": "Shared similar inspirations"
+    },
+    "segments": [
+      {
+        "token": "共",
+        "startTime": 246490,
+        "endTime": 246880,
+        "pinyin": "gòng"
+      },
+      {
+        "token": "享",
+        "startTime": 246880,
+        "endTime": 247270,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "了",
+        "startTime": 247270,
+        "endTime": 247450,
+        "pinyin": "le"
+      },
+      {
+        "token": "相",
+        "startTime": 247450,
+        "endTime": 247630,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "似",
+        "startTime": 247630,
+        "endTime": 247810,
+        "pinyin": "sì"
+      },
+      {
+        "token": "的",
+        "startTime": 247810,
+        "endTime": 247990,
+        "pinyin": "de"
+      },
+      {
+        "token": "灵",
+        "startTime": 247990,
+        "endTime": 248270,
+        "pinyin": "líng"
+      },
+      {
+        "token": "感",
+        "startTime": 248270,
+        "endTime": 248550,
+        "pinyin": "gǎn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "把 烹饪 馅料 包裹 在 面团 如何 , 我们 都 感谢 这些 丰满 的 完美 口袋",
+    "translations": {
+      "en": "How about wrapping savory fillings in dough? We all thank these plump, perfect pockets"
+    },
+    "segments": [
+      {
+        "token": "把",
+        "startTime": 248550,
+        "endTime": 248630,
+        "pinyin": "bǎ"
+      },
+      {
+        "token": "烹",
+        "startTime": 248630,
+        "endTime": 248830,
+        "pinyin": "pēng"
+      },
+      {
+        "token": "饪",
+        "startTime": 248830,
+        "endTime": 249030,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "馅",
+        "startTime": 249030,
+        "endTime": 249230,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "料",
+        "startTime": 249230,
+        "endTime": 249430,
+        "pinyin": "liào"
+      },
+      {
+        "token": "包",
+        "startTime": 249430,
+        "endTime": 249790,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "裹",
+        "startTime": 249790,
+        "endTime": 250150,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "在",
+        "startTime": 250150,
+        "endTime": 250150,
+        "pinyin": "zài"
+      },
+      {
+        "token": "面",
+        "startTime": 250150,
+        "endTime": 250610,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "团",
+        "startTime": 250610,
+        "endTime": 251070,
+        "pinyin": "tuán"
+      },
+      {
+        "token": "如",
+        "startTime": 251070,
+        "endTime": 251297,
+        "pinyin": "rú"
+      },
+      {
+        "token": "何",
+        "startTime": 251297,
+        "endTime": 251523,
+        "pinyin": "hé"
+      },
+      {
+        "token": ",",
+        "startTime": 251523,
+        "endTime": 251750,
+        "pinyin": ","
+      },
+      {
+        "token": "我",
+        "startTime": 251750,
+        "endTime": 251810,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 251810,
+        "endTime": 251870,
+        "pinyin": "men"
+      },
+      {
+        "token": "都",
+        "startTime": 251870,
+        "endTime": 251990,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "感",
+        "startTime": 251990,
+        "endTime": 252140,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "谢",
+        "startTime": 252140,
+        "endTime": 252290,
+        "pinyin": "xiè"
+      },
+      {
+        "token": "这",
+        "startTime": 252290,
+        "endTime": 252460,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 252460,
+        "endTime": 252630,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "丰",
+        "startTime": 252630,
+        "endTime": 252850,
+        "pinyin": "fēng"
+      },
+      {
+        "token": "满",
+        "startTime": 252850,
+        "endTime": 253070,
+        "pinyin": "mǎn"
+      },
+      {
+        "token": "的",
+        "startTime": 253070,
+        "endTime": 253270,
+        "pinyin": "de"
+      },
+      {
+        "token": "完",
+        "startTime": 253270,
+        "endTime": 253540,
+        "pinyin": "wán"
+      },
+      {
+        "token": "美",
+        "startTime": 253540,
+        "endTime": 253810,
+        "pinyin": "měi"
+      },
+      {
+        "token": "口",
+        "startTime": 253810,
+        "endTime": 254280,
+        "pinyin": "kǒu"
+      },
+      {
+        "token": "袋",
+        "startTime": 254280,
+        "endTime": 254750,
+        "pinyin": "dài"
+      }
+    ]
+  },
+  {
+    "sentence_text": "以及 让 饺子 多样 和 神圣 的 , 错综复杂 的 , 神秘 的 历史",
+    "translations": {
+      "en": "And the intricate, mysterious history that makes dumplings diverse and sacred."
+    },
+    "segments": [
+      {
+        "token": "以",
+        "startTime": 254750,
+        "endTime": 254830,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 254830,
+        "endTime": 254910,
+        "pinyin": "jí"
+      },
+      {
+        "token": "让",
+        "startTime": 254910,
+        "endTime": 255190,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "饺",
+        "startTime": 255190,
+        "endTime": 255390,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 255390,
+        "endTime": 255590,
+        "pinyin": "zi"
+      },
+      {
+        "token": "多",
+        "startTime": 255590,
+        "endTime": 255840,
+        "pinyin": "duō"
+      },
+      {
+        "token": "样",
+        "startTime": 255840,
+        "endTime": 256090,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "和",
+        "startTime": 256090,
+        "endTime": 256430,
+        "pinyin": "hé"
+      },
+      {
+        "token": "神",
+        "startTime": 256430,
+        "endTime": 256730,
+        "pinyin": "shén"
+      },
+      {
+        "token": "圣",
+        "startTime": 256730,
+        "endTime": 257030,
+        "pinyin": "shèng"
+      },
+      {
+        "token": "的",
+        "startTime": 257030,
+        "endTime": 257610,
+        "pinyin": "de"
+      },
+      {
+        "token": ",",
+        "startTime": 257610,
+        "endTime": 257690,
+        "pinyin": ","
+      },
+      {
+        "token": "错",
+        "startTime": 257690,
+        "endTime": 257990,
+        "pinyin": "cuò"
+      },
+      {
+        "token": "综",
+        "startTime": 257990,
+        "endTime": 258290,
+        "pinyin": "zōng"
+      },
+      {
+        "token": "复",
+        "startTime": 258290,
+        "endTime": 258590,
+        "pinyin": "fù"
+      },
+      {
+        "token": "杂",
+        "startTime": 258590,
+        "endTime": 258890,
+        "pinyin": "zá"
+      },
+      {
+        "token": "的",
+        "startTime": 258890,
+        "endTime": 259150,
+        "pinyin": "de"
+      },
+      {
+        "token": ",",
+        "startTime": 259150,
+        "endTime": 259450,
+        "pinyin": ","
+      },
+      {
+        "token": "神",
+        "startTime": 259450,
+        "endTime": 259700,
+        "pinyin": "shén"
+      },
+      {
+        "token": "秘",
+        "startTime": 259700,
+        "endTime": 259950,
+        "pinyin": "mì"
+      },
+      {
+        "token": "的",
+        "startTime": 259950,
+        "endTime": 260190,
+        "pinyin": "de"
+      },
+      {
+        "token": "历",
+        "startTime": 260190,
+        "endTime": 261620,
+        "pinyin": "lì"
+      },
+      {
+        "token": "史",
+        "startTime": 261620,
+        "endTime": 263050,
+        "pinyin": "shǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "T ab Ed 致力于 为 使用 多种语言 的 尽可能 多 的 人",
+    "translations": {
+      "en": "T ab Ed is dedicated to providing free, high-quality educational content"
+    },
+    "segments": [
+      {
+        "token": "T",
+        "startTime": 263050,
+        "endTime": 263230,
+        "pinyin": "T"
+      },
+      {
+        "token": "a",
+        "startTime": 263230,
+        "endTime": 263290,
+        "pinyin": "a"
+      },
+      {
+        "token": "b",
+        "startTime": 263290,
+        "endTime": 263350,
+        "pinyin": "b"
+      },
+      {
+        "token": "E",
+        "startTime": 263350,
+        "endTime": 263490,
+        "pinyin": "E"
+      },
+      {
+        "token": "d",
+        "startTime": 263490,
+        "endTime": 263630,
+        "pinyin": "d"
+      },
+      {
+        "token": "致",
+        "startTime": 263630,
+        "endTime": 263890,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "力",
+        "startTime": 263890,
+        "endTime": 264150,
+        "pinyin": "lì"
+      },
+      {
+        "token": "于",
+        "startTime": 264150,
+        "endTime": 264410,
+        "pinyin": "yú"
+      },
+      {
+        "token": "为",
+        "startTime": 264410,
+        "endTime": 264550,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "使",
+        "startTime": 264550,
+        "endTime": 264750,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "用",
+        "startTime": 264750,
+        "endTime": 264950,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "多",
+        "startTime": 264950,
+        "endTime": 265140,
+        "pinyin": "duō"
+      },
+      {
+        "token": "种",
+        "startTime": 265140,
+        "endTime": 265330,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "语",
+        "startTime": 265330,
+        "endTime": 265520,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "言",
+        "startTime": 265520,
+        "endTime": 265710,
+        "pinyin": "yán"
+      },
+      {
+        "token": "的",
+        "startTime": 265710,
+        "endTime": 265910,
+        "pinyin": "de"
+      },
+      {
+        "token": "尽",
+        "startTime": 265910,
+        "endTime": 266050,
+        "pinyin": "jǐn"
+      },
+      {
+        "token": "可",
+        "startTime": 266050,
+        "endTime": 266190,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 266190,
+        "endTime": 266330,
+        "pinyin": "néng"
+      },
+      {
+        "token": "多",
+        "startTime": 266330,
+        "endTime": 266570,
+        "pinyin": "duō"
+      },
+      {
+        "token": "的",
+        "startTime": 266570,
+        "endTime": 266570,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 266570,
+        "endTime": 267250,
+        "pinyin": "rén"
+      }
+    ]
+  },
+  {
+    "sentence_text": "提供 免费 的 高质量 教育 内容",
+    "translations": {
+      "en": "to as many people as possible, in multiple languages."
+    },
+    "segments": [
+      {
+        "token": "提",
+        "startTime": 267250,
+        "endTime": 267470,
+        "pinyin": "tí"
+      },
+      {
+        "token": "供",
+        "startTime": 267470,
+        "endTime": 267690,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "免",
+        "startTime": 267690,
+        "endTime": 267860,
+        "pinyin": "miǎn"
+      },
+      {
+        "token": "费",
+        "startTime": 267860,
+        "endTime": 268030,
+        "pinyin": "fèi"
+      },
+      {
+        "token": "的",
+        "startTime": 268030,
+        "endTime": 268190,
+        "pinyin": "de"
+      },
+      {
+        "token": "高",
+        "startTime": 268190,
+        "endTime": 268370,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "质",
+        "startTime": 268370,
+        "endTime": 268550,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "量",
+        "startTime": 268550,
+        "endTime": 268730,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "教",
+        "startTime": 268730,
+        "endTime": 268850,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "育",
+        "startTime": 268850,
+        "endTime": 268970,
+        "pinyin": "yù"
+      },
+      {
+        "token": "内",
+        "startTime": 268970,
+        "endTime": 269310,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "容",
+        "startTime": 269310,
+        "endTime": 269650,
+        "pinyin": "róng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "通过 向 我们 P atre on 捐款 来 帮助 支持 我们 的 非盈利 使命",
+    "translations": {
+      "en": "Help support our non-profit mission by donating to our Patreon."
+    },
+    "segments": [
+      {
+        "token": "通",
+        "startTime": 269650,
+        "endTime": 269850,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "过",
+        "startTime": 269850,
+        "endTime": 270050,
+        "pinyin": "guò"
+      },
+      {
+        "token": "向",
+        "startTime": 270050,
+        "endTime": 270330,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "我",
+        "startTime": 270330,
+        "endTime": 270400,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 270400,
+        "endTime": 270470,
+        "pinyin": "men"
+      },
+      {
+        "token": "P",
+        "startTime": 270470,
+        "endTime": 270550,
+        "pinyin": "P"
+      },
+      {
+        "token": "a",
+        "startTime": 270550,
+        "endTime": 270615,
+        "pinyin": "a"
+      },
+      {
+        "token": "t",
+        "startTime": 270615,
+        "endTime": 270680,
+        "pinyin": "t"
+      },
+      {
+        "token": "r",
+        "startTime": 270680,
+        "endTime": 270745,
+        "pinyin": "r"
+      },
+      {
+        "token": "e",
+        "startTime": 270745,
+        "endTime": 270810,
+        "pinyin": "e"
+      },
+      {
+        "token": "o",
+        "startTime": 270810,
+        "endTime": 270840,
+        "pinyin": "o"
+      },
+      {
+        "token": "n",
+        "startTime": 270840,
+        "endTime": 270870,
+        "pinyin": "n"
+      },
+      {
+        "token": "捐",
+        "startTime": 270870,
+        "endTime": 271100,
+        "pinyin": "juān"
+      },
+      {
+        "token": "款",
+        "startTime": 271100,
+        "endTime": 271330,
+        "pinyin": "kuǎn"
+      },
+      {
+        "token": "来",
+        "startTime": 271330,
+        "endTime": 271710,
+        "pinyin": "lái"
+      },
+      {
+        "token": "帮",
+        "startTime": 271710,
+        "endTime": 271880,
+        "pinyin": "bāng"
+      },
+      {
+        "token": "助",
+        "startTime": 271880,
+        "endTime": 272050,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "支",
+        "startTime": 272050,
+        "endTime": 272160,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "持",
+        "startTime": 272160,
+        "endTime": 272270,
+        "pinyin": "chí"
+      },
+      {
+        "token": "我",
+        "startTime": 272270,
+        "endTime": 272440,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 272440,
+        "endTime": 272610,
+        "pinyin": "men"
+      },
+      {
+        "token": "的",
+        "startTime": 272610,
+        "endTime": 272770,
+        "pinyin": "de"
+      },
+      {
+        "token": "非",
+        "startTime": 272770,
+        "endTime": 272970,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "盈",
+        "startTime": 272970,
+        "endTime": 273170,
+        "pinyin": "yíng"
+      },
+      {
+        "token": "利",
+        "startTime": 273170,
+        "endTime": 273370,
+        "pinyin": "lì"
+      },
+      {
+        "token": "使",
+        "startTime": 273370,
+        "endTime": 273820,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "命",
+        "startTime": 273820,
+        "endTime": 274270,
+        "pinyin": "mìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "并且 不要 忘记 订阅 此 频道",
+    "translations": {
+      "en": "And don't forget to subscribe to this channel."
+    },
+    "segments": [
+      {
+        "token": "并",
+        "startTime": 274270,
+        "endTime": 274450,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "且",
+        "startTime": 274450,
+        "endTime": 274630,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "不",
+        "startTime": 274630,
+        "endTime": 274880,
+        "pinyin": "bú"
+      },
+      {
+        "token": "要",
+        "startTime": 274880,
+        "endTime": 275130,
+        "pinyin": "yào"
+      },
+      {
+        "token": "忘",
+        "startTime": 275130,
+        "endTime": 275340,
+        "pinyin": "wàng"
+      },
+      {
+        "token": "记",
+        "startTime": 275340,
+        "endTime": 275550,
+        "pinyin": "jì"
+      },
+      {
+        "token": "订",
+        "startTime": 275550,
+        "endTime": 275770,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "阅",
+        "startTime": 275770,
+        "endTime": 275990,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "此",
+        "startTime": 275990,
+        "endTime": 276230,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "频",
+        "startTime": 276230,
+        "endTime": 276430,
+        "pinyin": "pín"
+      },
+      {
+        "token": "道",
+        "startTime": 276430,
+        "endTime": 276630,
+        "pinyin": "dào"
+      }
+    ]
+  }
+]
