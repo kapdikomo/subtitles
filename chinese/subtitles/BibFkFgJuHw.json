@@ -1,0 +1,8194 @@
+[
+  {
+    "sentence_text": "遭到 拒绝 会 让 人 感到 受伤",
+    "translations": {
+      "en": "Being rejected can feel hurtful."
+    },
+    "segments": [
+      {
+        "token": "遭",
+        "startTime": 7240,
+        "endTime": 7380,
+        "pinyin": "zāo"
+      },
+      {
+        "token": "到",
+        "startTime": 7380,
+        "endTime": 7520,
+        "pinyin": "dào"
+      },
+      {
+        "token": "拒",
+        "startTime": 7520,
+        "endTime": 7710,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 7710,
+        "endTime": 7900,
+        "pinyin": "jué"
+      },
+      {
+        "token": "会",
+        "startTime": 7900,
+        "endTime": 8240,
+        "pinyin": "huì"
+      },
+      {
+        "token": "让",
+        "startTime": 8240,
+        "endTime": 8420,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "人",
+        "startTime": 8420,
+        "endTime": 8560,
+        "pinyin": "rén"
+      },
+      {
+        "token": "感",
+        "startTime": 8560,
+        "endTime": 8700,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "到",
+        "startTime": 8700,
+        "endTime": 8840,
+        "pinyin": "dào"
+      },
+      {
+        "token": "受",
+        "startTime": 8840,
+        "endTime": 9330,
+        "pinyin": "shòu"
+      },
+      {
+        "token": "伤",
+        "startTime": 9330,
+        "endTime": 9820,
+        "pinyin": "shāng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "感觉 自己 不 被 需要 是 非常 痛苦 的",
+    "translations": {
+      "en": "Feeling unwanted is extremely painful."
+    },
+    "segments": [
+      {
+        "token": "感",
+        "startTime": 9820,
+        "endTime": 10010,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "觉",
+        "startTime": 10010,
+        "endTime": 10200,
+        "pinyin": "jué"
+      },
+      {
+        "token": "自",
+        "startTime": 10200,
+        "endTime": 10330,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 10330,
+        "endTime": 10460,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "不",
+        "startTime": 10460,
+        "endTime": 10800,
+        "pinyin": "bù"
+      },
+      {
+        "token": "被",
+        "startTime": 10800,
+        "endTime": 10940,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "需",
+        "startTime": 10940,
+        "endTime": 11070,
+        "pinyin": "xū"
+      },
+      {
+        "token": "要",
+        "startTime": 11070,
+        "endTime": 11200,
+        "pinyin": "yào"
+      },
+      {
+        "token": "是",
+        "startTime": 11200,
+        "endTime": 11560,
+        "pinyin": "shì"
+      },
+      {
+        "token": "非",
+        "startTime": 11560,
+        "endTime": 11690,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "常",
+        "startTime": 11690,
+        "endTime": 11820,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "痛",
+        "startTime": 11820,
+        "endTime": 12060,
+        "pinyin": "tòng"
+      },
+      {
+        "token": "苦",
+        "startTime": 12060,
+        "endTime": 12300,
+        "pinyin": "kǔ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 说 的 是 真真切切 的 痛苦",
+    "translations": {
+      "en": "We're talking about genuine pain."
+    },
+    "segments": [
+      {
+        "token": "的",
+        "startTime": 12300,
+        "endTime": 12300,
+        "pinyin": "de"
+      },
+      {
+        "token": "我",
+        "startTime": 12300,
+        "endTime": 12580,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 12580,
+        "endTime": 12860,
+        "pinyin": "men"
+      },
+      {
+        "token": "说",
+        "startTime": 12860,
+        "endTime": 13040,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "的",
+        "startTime": 13040,
+        "endTime": 13300,
+        "pinyin": "de"
+      },
+      {
+        "token": "是",
+        "startTime": 13300,
+        "endTime": 13600,
+        "pinyin": "shì"
+      },
+      {
+        "token": "真",
+        "startTime": 13600,
+        "endTime": 13760,
+        "pinyin": "zhēn"
+      },
+      {
+        "token": "真",
+        "startTime": 13760,
+        "endTime": 13920,
+        "pinyin": "zhēn"
+      },
+      {
+        "token": "切",
+        "startTime": 13920,
+        "endTime": 14080,
+        "pinyin": "qiè"
+      },
+      {
+        "token": "切",
+        "startTime": 14080,
+        "endTime": 14240,
+        "pinyin": "qiè"
+      },
+      {
+        "token": "的",
+        "startTime": 14240,
+        "endTime": 14400,
+        "pinyin": "de"
+      },
+      {
+        "token": "痛",
+        "startTime": 14400,
+        "endTime": 15010,
+        "pinyin": "tòng"
+      },
+      {
+        "token": "苦",
+        "startTime": 15010,
+        "endTime": 15620,
+        "pinyin": "kǔ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "功能性 磁共振 成像 研究 发现",
+    "translations": {
+      "en": "Functional MRI studies have found"
+    },
+    "segments": [
+      {
+        "token": "功",
+        "startTime": 15620,
+        "endTime": 15826,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "能",
+        "startTime": 15826,
+        "endTime": 16033,
+        "pinyin": "néng"
+      },
+      {
+        "token": "性",
+        "startTime": 16033,
+        "endTime": 16239,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "磁",
+        "startTime": 16239,
+        "endTime": 16399,
+        "pinyin": "cí"
+      },
+      {
+        "token": "共",
+        "startTime": 16399,
+        "endTime": 16560,
+        "pinyin": "gòng"
+      },
+      {
+        "token": "振",
+        "startTime": 16560,
+        "endTime": 16720,
+        "pinyin": "zhèn"
+      },
+      {
+        "token": "成",
+        "startTime": 16720,
+        "endTime": 16920,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "像",
+        "startTime": 16920,
+        "endTime": 17120,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "研",
+        "startTime": 17120,
+        "endTime": 17280,
+        "pinyin": "yán"
+      },
+      {
+        "token": "究",
+        "startTime": 17280,
+        "endTime": 17440,
+        "pinyin": "jiū"
+      },
+      {
+        "token": "发",
+        "startTime": 17440,
+        "endTime": 17900,
+        "pinyin": "fā"
+      },
+      {
+        "token": "现",
+        "startTime": 17900,
+        "endTime": 18360,
+        "pinyin": "xiàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "拒绝 会 引发 大脑 中 处理 身体 疼痛 的",
+    "translations": {
+      "en": "that rejection activates multiple neural regions"
+    },
+    "segments": [
+      {
+        "token": "拒",
+        "startTime": 18360,
+        "endTime": 18620,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 18620,
+        "endTime": 18880,
+        "pinyin": "jué"
+      },
+      {
+        "token": "会",
+        "startTime": 18880,
+        "endTime": 19060,
+        "pinyin": "huì"
+      },
+      {
+        "token": "引",
+        "startTime": 19060,
+        "endTime": 19270,
+        "pinyin": "yǐn"
+      },
+      {
+        "token": "发",
+        "startTime": 19270,
+        "endTime": 19480,
+        "pinyin": "fā"
+      },
+      {
+        "token": "大",
+        "startTime": 19480,
+        "endTime": 19640,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 19640,
+        "endTime": 19800,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "中",
+        "startTime": 19800,
+        "endTime": 20060,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "处",
+        "startTime": 20060,
+        "endTime": 20200,
+        "pinyin": "chǔ"
+      },
+      {
+        "token": "理",
+        "startTime": 20200,
+        "endTime": 20340,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "身",
+        "startTime": 20340,
+        "endTime": 20500,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "体",
+        "startTime": 20500,
+        "endTime": 20660,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "疼",
+        "startTime": 20660,
+        "endTime": 20840,
+        "pinyin": "téng"
+      },
+      {
+        "token": "痛",
+        "startTime": 20840,
+        "endTime": 21020,
+        "pinyin": "tòng"
+      },
+      {
+        "token": "的",
+        "startTime": 21020,
+        "endTime": 21160,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "多个 神经 区域 的 活动",
+    "translations": {
+      "en": "in the brain that process physical pain."
+    },
+    "segments": [
+      {
+        "token": "多",
+        "startTime": 21160,
+        "endTime": 21300,
+        "pinyin": "duō"
+      },
+      {
+        "token": "个",
+        "startTime": 21300,
+        "endTime": 21440,
+        "pinyin": "gè"
+      },
+      {
+        "token": "神",
+        "startTime": 21440,
+        "endTime": 21630,
+        "pinyin": "shén"
+      },
+      {
+        "token": "经",
+        "startTime": 21630,
+        "endTime": 21820,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "区",
+        "startTime": 21820,
+        "endTime": 21930,
+        "pinyin": "qū"
+      },
+      {
+        "token": "域",
+        "startTime": 21930,
+        "endTime": 22040,
+        "pinyin": "yù"
+      },
+      {
+        "token": "的",
+        "startTime": 22040,
+        "endTime": 22200,
+        "pinyin": "de"
+      },
+      {
+        "token": "活",
+        "startTime": 22200,
+        "endTime": 22830,
+        "pinyin": "huó"
+      },
+      {
+        "token": "动",
+        "startTime": 22830,
+        "endTime": 23460,
+        "pinyin": "dòng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而且 我们 用来 描述 拒绝 的 语言",
+    "translations": {
+      "en": "And the language we use to describe rejection"
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 23460,
+        "endTime": 23600,
+        "pinyin": "ér"
+      },
+      {
+        "token": "且",
+        "startTime": 23600,
+        "endTime": 23740,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "我",
+        "startTime": 23740,
+        "endTime": 23860,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 23860,
+        "endTime": 23980,
+        "pinyin": "men"
+      },
+      {
+        "token": "用",
+        "startTime": 23980,
+        "endTime": 24190,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "来",
+        "startTime": 24190,
+        "endTime": 24400,
+        "pinyin": "lái"
+      },
+      {
+        "token": "描",
+        "startTime": 24400,
+        "endTime": 24580,
+        "pinyin": "miáo"
+      },
+      {
+        "token": "述",
+        "startTime": 24580,
+        "endTime": 24760,
+        "pinyin": "shù"
+      },
+      {
+        "token": "拒",
+        "startTime": 24760,
+        "endTime": 24890,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 24890,
+        "endTime": 25020,
+        "pinyin": "jué"
+      },
+      {
+        "token": "的",
+        "startTime": 25020,
+        "endTime": 25200,
+        "pinyin": "de"
+      },
+      {
+        "token": "语",
+        "startTime": 25200,
+        "endTime": 25510,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "言",
+        "startTime": 25510,
+        "endTime": 25820,
+        "pinyin": "yán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "反映 了 这种 体验",
+    "translations": {
+      "en": "reflects this experience."
+    },
+    "segments": [
+      {
+        "token": "反",
+        "startTime": 25820,
+        "endTime": 25950,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "映",
+        "startTime": 25950,
+        "endTime": 26080,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "了",
+        "startTime": 26080,
+        "endTime": 26180,
+        "pinyin": "le"
+      },
+      {
+        "token": "这",
+        "startTime": 26180,
+        "endTime": 26980,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 26980,
+        "endTime": 27780,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "体",
+        "startTime": 27780,
+        "endTime": 27920,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "验",
+        "startTime": 27920,
+        "endTime": 28060,
+        "pinyin": "yàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "研究 人员 记录 了 十几种",
+    "translations": {
+      "en": "Researchers have documented over a dozen"
+    },
+    "segments": [
+      {
+        "token": "研",
+        "startTime": 28060,
+        "endTime": 28190,
+        "pinyin": "yán"
+      },
+      {
+        "token": "究",
+        "startTime": 28190,
+        "endTime": 28320,
+        "pinyin": "jiū"
+      },
+      {
+        "token": "人",
+        "startTime": 28320,
+        "endTime": 28460,
+        "pinyin": "rén"
+      },
+      {
+        "token": "员",
+        "startTime": 28460,
+        "endTime": 28600,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "记",
+        "startTime": 28600,
+        "endTime": 28780,
+        "pinyin": "jì"
+      },
+      {
+        "token": "录",
+        "startTime": 28780,
+        "endTime": 28960,
+        "pinyin": "lù"
+      },
+      {
+        "token": "了",
+        "startTime": 28960,
+        "endTime": 29140,
+        "pinyin": "le"
+      },
+      {
+        "token": "十",
+        "startTime": 29140,
+        "endTime": 29393,
+        "pinyin": "shí"
+      },
+      {
+        "token": "几",
+        "startTime": 29393,
+        "endTime": 29647,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "种",
+        "startTime": 29647,
+        "endTime": 29900,
+        "pinyin": "zhǒng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "将 遭到 拒绝 与 受伤 联系 起来 的 语言",
+    "translations": {
+      "en": "terms linking rejection to injury,"
+    },
+    "segments": [
+      {
+        "token": "将",
+        "startTime": 29900,
+        "endTime": 30060,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "遭",
+        "startTime": 30060,
+        "endTime": 30250,
+        "pinyin": "zāo"
+      },
+      {
+        "token": "到",
+        "startTime": 30250,
+        "endTime": 30440,
+        "pinyin": "dào"
+      },
+      {
+        "token": "拒",
+        "startTime": 30440,
+        "endTime": 30670,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 30670,
+        "endTime": 30900,
+        "pinyin": "jué"
+      },
+      {
+        "token": "与",
+        "startTime": 30900,
+        "endTime": 31100,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "受",
+        "startTime": 31100,
+        "endTime": 31280,
+        "pinyin": "shòu"
+      },
+      {
+        "token": "伤",
+        "startTime": 31280,
+        "endTime": 31460,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "联",
+        "startTime": 31460,
+        "endTime": 31600,
+        "pinyin": "lián"
+      },
+      {
+        "token": "系",
+        "startTime": 31600,
+        "endTime": 31740,
+        "pinyin": "xì"
+      },
+      {
+        "token": "起",
+        "startTime": 31740,
+        "endTime": 31850,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "来",
+        "startTime": 31850,
+        "endTime": 31960,
+        "pinyin": "lái"
+      },
+      {
+        "token": "的",
+        "startTime": 31960,
+        "endTime": 32740,
+        "pinyin": "de"
+      },
+      {
+        "token": "语",
+        "startTime": 32740,
+        "endTime": 32840,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "言",
+        "startTime": 32840,
+        "endTime": 32940,
+        "pinyin": "yán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "比如 使用 心碎 或 伤心 等 表述",
+    "translations": {
+      "en": "such as using phrases like heartbreak or heartache."
+    },
+    "segments": [
+      {
+        "token": "比",
+        "startTime": 32940,
+        "endTime": 33120,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "如",
+        "startTime": 33120,
+        "endTime": 33300,
+        "pinyin": "rú"
+      },
+      {
+        "token": "使",
+        "startTime": 33300,
+        "endTime": 33510,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "用",
+        "startTime": 33510,
+        "endTime": 33720,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "心",
+        "startTime": 33720,
+        "endTime": 34040,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "碎",
+        "startTime": 34040,
+        "endTime": 34360,
+        "pinyin": "suì"
+      },
+      {
+        "token": "或",
+        "startTime": 34360,
+        "endTime": 34540,
+        "pinyin": "huò"
+      },
+      {
+        "token": "伤",
+        "startTime": 34540,
+        "endTime": 34740,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "心",
+        "startTime": 34740,
+        "endTime": 34940,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "等",
+        "startTime": 34940,
+        "endTime": 36100,
+        "pinyin": "děng"
+      },
+      {
+        "token": "表",
+        "startTime": 36100,
+        "endTime": 36170,
+        "pinyin": "biǎo"
+      },
+      {
+        "token": "述",
+        "startTime": 36170,
+        "endTime": 36240,
+        "pinyin": "shù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "那么 为何 遭到 拒绝 会 引发 如此 强烈 的 反应",
+    "translations": {
+      "en": "So why does rejection trigger such a strong reaction?"
+    },
+    "segments": [
+      {
+        "token": "那",
+        "startTime": 36240,
+        "endTime": 36640,
+        "pinyin": "nà"
+      },
+      {
+        "token": "么",
+        "startTime": 36640,
+        "endTime": 37040,
+        "pinyin": "me"
+      },
+      {
+        "token": "为",
+        "startTime": 37040,
+        "endTime": 37170,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "何",
+        "startTime": 37170,
+        "endTime": 37300,
+        "pinyin": "hé"
+      },
+      {
+        "token": "遭",
+        "startTime": 37300,
+        "endTime": 37450,
+        "pinyin": "zāo"
+      },
+      {
+        "token": "到",
+        "startTime": 37450,
+        "endTime": 37600,
+        "pinyin": "dào"
+      },
+      {
+        "token": "拒",
+        "startTime": 37600,
+        "endTime": 37800,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 37800,
+        "endTime": 38000,
+        "pinyin": "jué"
+      },
+      {
+        "token": "会",
+        "startTime": 38000,
+        "endTime": 38140,
+        "pinyin": "huì"
+      },
+      {
+        "token": "引",
+        "startTime": 38140,
+        "endTime": 38290,
+        "pinyin": "yǐn"
+      },
+      {
+        "token": "发",
+        "startTime": 38290,
+        "endTime": 38440,
+        "pinyin": "fā"
+      },
+      {
+        "token": "如",
+        "startTime": 38440,
+        "endTime": 38650,
+        "pinyin": "rú"
+      },
+      {
+        "token": "此",
+        "startTime": 38650,
+        "endTime": 38860,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "强",
+        "startTime": 38860,
+        "endTime": 39010,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "烈",
+        "startTime": 39010,
+        "endTime": 39160,
+        "pinyin": "liè"
+      },
+      {
+        "token": "的",
+        "startTime": 39160,
+        "endTime": 40320,
+        "pinyin": "de"
+      },
+      {
+        "token": "反",
+        "startTime": 40320,
+        "endTime": 40500,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 40500,
+        "endTime": 40680,
+        "pinyin": "yìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "有 什么 方法 可以 应对 这种 独特 的 痛苦 呢",
+    "translations": {
+      "en": "Are there ways to cope with this unique pain?"
+    },
+    "segments": [
+      {
+        "token": "有",
+        "startTime": 40680,
+        "endTime": 40940,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "什",
+        "startTime": 40940,
+        "endTime": 41200,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 41200,
+        "endTime": 41460,
+        "pinyin": "me"
+      },
+      {
+        "token": "方",
+        "startTime": 41460,
+        "endTime": 41660,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "法",
+        "startTime": 41660,
+        "endTime": 41860,
+        "pinyin": "fǎ"
+      },
+      {
+        "token": "可",
+        "startTime": 41860,
+        "endTime": 42000,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 42000,
+        "endTime": 42140,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "应",
+        "startTime": 42140,
+        "endTime": 42340,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "对",
+        "startTime": 42340,
+        "endTime": 42540,
+        "pinyin": "duì"
+      },
+      {
+        "token": "这",
+        "startTime": 42540,
+        "endTime": 42680,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 42680,
+        "endTime": 42820,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "独",
+        "startTime": 42820,
+        "endTime": 44580,
+        "pinyin": "dú"
+      },
+      {
+        "token": "特",
+        "startTime": 44580,
+        "endTime": 46340,
+        "pinyin": "tè"
+      },
+      {
+        "token": "的",
+        "startTime": 46340,
+        "endTime": 46540,
+        "pinyin": "de"
+      },
+      {
+        "token": "痛",
+        "startTime": 46540,
+        "endTime": 46670,
+        "pinyin": "tòng"
+      },
+      {
+        "token": "苦",
+        "startTime": 46670,
+        "endTime": 46800,
+        "pinyin": "kǔ"
+      },
+      {
+        "token": "呢",
+        "startTime": 46800,
+        "endTime": 47000,
+        "pinyin": "ne"
+      }
+    ]
+  },
+  {
+    "sentence_text": "心理学家 通常 将 遭到 拒绝 描述 为",
+    "translations": {
+      "en": "Psychologists often describe rejection as"
+    },
+    "segments": [
+      {
+        "token": "心",
+        "startTime": 47000,
+        "endTime": 47180,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "理",
+        "startTime": 47180,
+        "endTime": 47360,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "学",
+        "startTime": 47360,
+        "endTime": 47540,
+        "pinyin": "xué"
+      },
+      {
+        "token": "家",
+        "startTime": 47540,
+        "endTime": 47720,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "通",
+        "startTime": 47720,
+        "endTime": 47890,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "常",
+        "startTime": 47890,
+        "endTime": 48060,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "将",
+        "startTime": 48060,
+        "endTime": 48260,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "遭",
+        "startTime": 48260,
+        "endTime": 48580,
+        "pinyin": "zāo"
+      },
+      {
+        "token": "到",
+        "startTime": 48580,
+        "endTime": 48900,
+        "pinyin": "dào"
+      },
+      {
+        "token": "拒",
+        "startTime": 48900,
+        "endTime": 49250,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 49250,
+        "endTime": 49600,
+        "pinyin": "jué"
+      },
+      {
+        "token": "描",
+        "startTime": 49600,
+        "endTime": 49710,
+        "pinyin": "miáo"
+      },
+      {
+        "token": "述",
+        "startTime": 49710,
+        "endTime": 49820,
+        "pinyin": "shù"
+      },
+      {
+        "token": "为",
+        "startTime": 49820,
+        "endTime": 49960,
+        "pinyin": "wèi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "当 我们 认为 其他人 不 重视",
+    "translations": {
+      "en": "what happens when we perceive that others don't value"
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 49960,
+        "endTime": 50100,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "我",
+        "startTime": 50100,
+        "endTime": 50280,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 50280,
+        "endTime": 50460,
+        "pinyin": "men"
+      },
+      {
+        "token": "认",
+        "startTime": 50460,
+        "endTime": 50630,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "为",
+        "startTime": 50630,
+        "endTime": 50800,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "其",
+        "startTime": 50800,
+        "endTime": 50993,
+        "pinyin": "qí"
+      },
+      {
+        "token": "他",
+        "startTime": 50993,
+        "endTime": 51187,
+        "pinyin": "tā"
+      },
+      {
+        "token": "人",
+        "startTime": 51187,
+        "endTime": 51380,
+        "pinyin": "rén"
+      },
+      {
+        "token": "不",
+        "startTime": 51380,
+        "endTime": 51580,
+        "pinyin": "bù"
+      },
+      {
+        "token": "重",
+        "startTime": 51580,
+        "endTime": 51730,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "视",
+        "startTime": 51730,
+        "endTime": 51880,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "与 我们 建立 社会 联系 时所 发生 的 情况",
+    "translations": {
+      "en": "forming a social bond with us."
+    },
+    "segments": [
+      {
+        "token": "与",
+        "startTime": 51880,
+        "endTime": 52080,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "我",
+        "startTime": 52080,
+        "endTime": 52260,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 52260,
+        "endTime": 52440,
+        "pinyin": "men"
+      },
+      {
+        "token": "建",
+        "startTime": 52440,
+        "endTime": 52620,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "立",
+        "startTime": 52620,
+        "endTime": 52800,
+        "pinyin": "lì"
+      },
+      {
+        "token": "社",
+        "startTime": 52800,
+        "endTime": 53010,
+        "pinyin": "shè"
+      },
+      {
+        "token": "会",
+        "startTime": 53010,
+        "endTime": 53220,
+        "pinyin": "huì"
+      },
+      {
+        "token": "联",
+        "startTime": 53220,
+        "endTime": 53350,
+        "pinyin": "lián"
+      },
+      {
+        "token": "系",
+        "startTime": 53350,
+        "endTime": 53480,
+        "pinyin": "xì"
+      },
+      {
+        "token": "时",
+        "startTime": 53480,
+        "endTime": 53910,
+        "pinyin": "shí"
+      },
+      {
+        "token": "所",
+        "startTime": 53910,
+        "endTime": 54340,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "发",
+        "startTime": 54340,
+        "endTime": 54910,
+        "pinyin": "fā"
+      },
+      {
+        "token": "生",
+        "startTime": 54910,
+        "endTime": 55480,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "的",
+        "startTime": 55480,
+        "endTime": 55680,
+        "pinyin": "de"
+      },
+      {
+        "token": "情",
+        "startTime": 55680,
+        "endTime": 55810,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 55810,
+        "endTime": 55940,
+        "pinyin": "kuàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "当 我们 被 恋人 抛弃",
+    "translations": {
+      "en": "This occurs when we are abandoned by a lover,"
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 55940,
+        "endTime": 56180,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "我",
+        "startTime": 56180,
+        "endTime": 56510,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 56510,
+        "endTime": 56840,
+        "pinyin": "men"
+      },
+      {
+        "token": "被",
+        "startTime": 56840,
+        "endTime": 57080,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "恋",
+        "startTime": 57080,
+        "endTime": 57250,
+        "pinyin": "liàn"
+      },
+      {
+        "token": "人",
+        "startTime": 57250,
+        "endTime": 57420,
+        "pinyin": "rén"
+      },
+      {
+        "token": "抛",
+        "startTime": 57420,
+        "endTime": 57820,
+        "pinyin": "pāo"
+      },
+      {
+        "token": "弃",
+        "startTime": 57820,
+        "endTime": 58220,
+        "pinyin": "qì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "被 群体 排斥 或 被 彻底 歧视 时",
+    "translations": {
+      "en": "excluded from a group, or outright discriminated against."
+    },
+    "segments": [
+      {
+        "token": "被",
+        "startTime": 58220,
+        "endTime": 58400,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "群",
+        "startTime": 58400,
+        "endTime": 58570,
+        "pinyin": "qún"
+      },
+      {
+        "token": "体",
+        "startTime": 58570,
+        "endTime": 58740,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "排",
+        "startTime": 58740,
+        "endTime": 58940,
+        "pinyin": "pái"
+      },
+      {
+        "token": "斥",
+        "startTime": 58940,
+        "endTime": 59140,
+        "pinyin": "chì"
+      },
+      {
+        "token": "或",
+        "startTime": 59140,
+        "endTime": 59280,
+        "pinyin": "huò"
+      },
+      {
+        "token": "被",
+        "startTime": 59280,
+        "endTime": 59820,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "彻",
+        "startTime": 59820,
+        "endTime": 60060,
+        "pinyin": "chè"
+      },
+      {
+        "token": "底",
+        "startTime": 60060,
+        "endTime": 60300,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "歧",
+        "startTime": 60300,
+        "endTime": 60580,
+        "pinyin": "qí"
+      },
+      {
+        "token": "视",
+        "startTime": 60580,
+        "endTime": 60860,
+        "pinyin": "shì"
+      },
+      {
+        "token": "时",
+        "startTime": 60860,
+        "endTime": 61020,
+        "pinyin": "shí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这种 情况 就 会 发生",
+    "translations": {
+      "en": "But notably,"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 61020,
+        "endTime": 61730,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 61730,
+        "endTime": 62440,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "情",
+        "startTime": 62440,
+        "endTime": 62560,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 62560,
+        "endTime": 62680,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "就",
+        "startTime": 62680,
+        "endTime": 62840,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "会",
+        "startTime": 62840,
+        "endTime": 63520,
+        "pinyin": "huì"
+      },
+      {
+        "token": "发",
+        "startTime": 63520,
+        "endTime": 63680,
+        "pinyin": "fā"
+      },
+      {
+        "token": "生",
+        "startTime": 63680,
+        "endTime": 63840,
+        "pinyin": "shēng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 值得注意 的 是",
+    "translations": {
+      "en": "But it is worth noting"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 63840,
+        "endTime": 64000,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "值",
+        "startTime": 64000,
+        "endTime": 64155,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "得",
+        "startTime": 64155,
+        "endTime": 64310,
+        "pinyin": "de"
+      },
+      {
+        "token": "注",
+        "startTime": 64310,
+        "endTime": 64465,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "意",
+        "startTime": 64465,
+        "endTime": 64620,
+        "pinyin": "yì"
+      },
+      {
+        "token": "的",
+        "startTime": 64620,
+        "endTime": 64760,
+        "pinyin": "de"
+      },
+      {
+        "token": "是",
+        "startTime": 64760,
+        "endTime": 64920,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 人际交往 中 的 拒绝",
+    "translations": {
+      "en": "These interpersonal rejections"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 64920,
+        "endTime": 65160,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 65160,
+        "endTime": 65400,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "人",
+        "startTime": 65400,
+        "endTime": 65525,
+        "pinyin": "rén"
+      },
+      {
+        "token": "际",
+        "startTime": 65525,
+        "endTime": 65650,
+        "pinyin": "jì"
+      },
+      {
+        "token": "交",
+        "startTime": 65650,
+        "endTime": 65775,
+        "pinyin": "jiāo"
+      },
+      {
+        "token": "往",
+        "startTime": 65775,
+        "endTime": 65900,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "中",
+        "startTime": 65900,
+        "endTime": 66060,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "的",
+        "startTime": 66060,
+        "endTime": 66260,
+        "pinyin": "de"
+      },
+      {
+        "token": "拒",
+        "startTime": 66260,
+        "endTime": 66900,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 66900,
+        "endTime": 67540,
+        "pinyin": "jué"
+      }
+    ]
+  },
+  {
+    "sentence_text": "具有 一个 社会 因素",
+    "translations": {
+      "en": "have a social element"
+    },
+    "segments": [
+      {
+        "token": "具",
+        "startTime": 67540,
+        "endTime": 67680,
+        "pinyin": "jù"
+      },
+      {
+        "token": "有",
+        "startTime": 67680,
+        "endTime": 67820,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "一",
+        "startTime": 67820,
+        "endTime": 68080,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 68080,
+        "endTime": 68340,
+        "pinyin": "gè"
+      },
+      {
+        "token": "社",
+        "startTime": 68340,
+        "endTime": 68530,
+        "pinyin": "shè"
+      },
+      {
+        "token": "会",
+        "startTime": 68530,
+        "endTime": 68720,
+        "pinyin": "huì"
+      },
+      {
+        "token": "因",
+        "startTime": 68720,
+        "endTime": 68920,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "素",
+        "startTime": 68920,
+        "endTime": 69120,
+        "pinyin": "sù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "使 其 与 找 不到 工作 区分 开来",
+    "translations": {
+      "en": "that sets them apart from not getting a job."
+    },
+    "segments": [
+      {
+        "token": "使",
+        "startTime": 69120,
+        "endTime": 69320,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "其",
+        "startTime": 69320,
+        "endTime": 70860,
+        "pinyin": "qí"
+      },
+      {
+        "token": "与",
+        "startTime": 70860,
+        "endTime": 71060,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "找",
+        "startTime": 71060,
+        "endTime": 71240,
+        "pinyin": "zhǎo"
+      },
+      {
+        "token": "不",
+        "startTime": 71240,
+        "endTime": 71390,
+        "pinyin": "bú"
+      },
+      {
+        "token": "到",
+        "startTime": 71390,
+        "endTime": 71540,
+        "pinyin": "dào"
+      },
+      {
+        "token": "工",
+        "startTime": 71540,
+        "endTime": 71870,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "作",
+        "startTime": 71870,
+        "endTime": 72200,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "区",
+        "startTime": 72200,
+        "endTime": 72310,
+        "pinyin": "qū"
+      },
+      {
+        "token": "分",
+        "startTime": 72310,
+        "endTime": 72420,
+        "pinyin": "fēn"
+      },
+      {
+        "token": "开",
+        "startTime": 72420,
+        "endTime": 72550,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "来",
+        "startTime": 72550,
+        "endTime": 72680,
+        "pinyin": "lái"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 这些 经历 中",
+    "translations": {
+      "en": "In these experiences,"
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 72680,
+        "endTime": 72980,
+        "pinyin": "zài"
+      },
+      {
+        "token": "这",
+        "startTime": 72980,
+        "endTime": 73110,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 73110,
+        "endTime": 73240,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "经",
+        "startTime": 73240,
+        "endTime": 73370,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "历",
+        "startTime": 73370,
+        "endTime": 73500,
+        "pinyin": "lì"
+      },
+      {
+        "token": "中",
+        "startTime": 73500,
+        "endTime": 73840,
+        "pinyin": "zhōng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 认为 拒绝 的 一方",
+    "translations": {
+      "en": "we feel that the rejecting party"
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 73840,
+        "endTime": 73980,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 73980,
+        "endTime": 74120,
+        "pinyin": "men"
+      },
+      {
+        "token": "认",
+        "startTime": 74120,
+        "endTime": 74230,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "为",
+        "startTime": 74230,
+        "endTime": 74340,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "拒",
+        "startTime": 74340,
+        "endTime": 74490,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 74490,
+        "endTime": 74640,
+        "pinyin": "jué"
+      },
+      {
+        "token": "的",
+        "startTime": 74640,
+        "endTime": 74800,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 74800,
+        "endTime": 76030,
+        "pinyin": "yī"
+      },
+      {
+        "token": "方",
+        "startTime": 76030,
+        "endTime": 77260,
+        "pinyin": "fāng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "轻视 了 我们 之间 的 关系",
+    "translations": {
+      "en": "has devalued our relationship."
+    },
+    "segments": [
+      {
+        "token": "轻",
+        "startTime": 77260,
+        "endTime": 77440,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "视",
+        "startTime": 77440,
+        "endTime": 77620,
+        "pinyin": "shì"
+      },
+      {
+        "token": "了",
+        "startTime": 77620,
+        "endTime": 77930,
+        "pinyin": "le"
+      },
+      {
+        "token": "我",
+        "startTime": 77930,
+        "endTime": 78110,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 78110,
+        "endTime": 78290,
+        "pinyin": "men"
+      },
+      {
+        "token": "之",
+        "startTime": 78290,
+        "endTime": 78440,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 78440,
+        "endTime": 78590,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 78590,
+        "endTime": 78670,
+        "pinyin": "de"
+      },
+      {
+        "token": "关",
+        "startTime": 78670,
+        "endTime": 78900,
+        "pinyin": "guān"
+      },
+      {
+        "token": "系",
+        "startTime": 78900,
+        "endTime": 79130,
+        "pinyin": "xì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "虽说 我们 越 看重 一段 关系",
+    "translations": {
+      "en": "Although the more we value a relationship,"
+    },
+    "segments": [
+      {
+        "token": "虽",
+        "startTime": 79130,
+        "endTime": 79360,
+        "pinyin": "suī"
+      },
+      {
+        "token": "说",
+        "startTime": 79360,
+        "endTime": 79590,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "我",
+        "startTime": 79590,
+        "endTime": 79740,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 79740,
+        "endTime": 79890,
+        "pinyin": "men"
+      },
+      {
+        "token": "越",
+        "startTime": 79890,
+        "endTime": 80070,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "看",
+        "startTime": 80070,
+        "endTime": 80270,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "重",
+        "startTime": 80270,
+        "endTime": 80470,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "一",
+        "startTime": 80470,
+        "endTime": 80610,
+        "pinyin": "yī"
+      },
+      {
+        "token": "段",
+        "startTime": 80610,
+        "endTime": 80750,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "关",
+        "startTime": 80750,
+        "endTime": 80930,
+        "pinyin": "guān"
+      },
+      {
+        "token": "系",
+        "startTime": 80930,
+        "endTime": 81110,
+        "pinyin": "xì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "遭到 拒绝 时 感受 到 的 痛苦 就 越 大",
+    "translations": {
+      "en": "the greater the pain we feel when rejected,"
+    },
+    "segments": [
+      {
+        "token": "遭",
+        "startTime": 81110,
+        "endTime": 81230,
+        "pinyin": "zāo"
+      },
+      {
+        "token": "到",
+        "startTime": 81230,
+        "endTime": 81350,
+        "pinyin": "dào"
+      },
+      {
+        "token": "拒",
+        "startTime": 81350,
+        "endTime": 81950,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 81950,
+        "endTime": 82550,
+        "pinyin": "jué"
+      },
+      {
+        "token": "时",
+        "startTime": 82550,
+        "endTime": 82770,
+        "pinyin": "shí"
+      },
+      {
+        "token": "感",
+        "startTime": 82770,
+        "endTime": 82930,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "受",
+        "startTime": 82930,
+        "endTime": 83090,
+        "pinyin": "shòu"
+      },
+      {
+        "token": "到",
+        "startTime": 83090,
+        "endTime": 83250,
+        "pinyin": "dào"
+      },
+      {
+        "token": "的",
+        "startTime": 83250,
+        "endTime": 83370,
+        "pinyin": "de"
+      },
+      {
+        "token": "痛",
+        "startTime": 83370,
+        "endTime": 83520,
+        "pinyin": "tòng"
+      },
+      {
+        "token": "苦",
+        "startTime": 83520,
+        "endTime": 83670,
+        "pinyin": "kǔ"
+      },
+      {
+        "token": "就",
+        "startTime": 83670,
+        "endTime": 83830,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "越",
+        "startTime": 83830,
+        "endTime": 84290,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "大",
+        "startTime": 84290,
+        "endTime": 84450,
+        "pinyin": "dà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 即使 是 陌生人 的 拒绝",
+    "translations": {
+      "en": "even rejection by a stranger"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 84450,
+        "endTime": 84650,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "即",
+        "startTime": 84650,
+        "endTime": 84880,
+        "pinyin": "jí"
+      },
+      {
+        "token": "使",
+        "startTime": 84880,
+        "endTime": 85110,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 85110,
+        "endTime": 85330,
+        "pinyin": "shì"
+      },
+      {
+        "token": "陌",
+        "startTime": 85330,
+        "endTime": 85950,
+        "pinyin": "mò"
+      },
+      {
+        "token": "生",
+        "startTime": 85950,
+        "endTime": 86570,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "人",
+        "startTime": 86570,
+        "endTime": 87190,
+        "pinyin": "rén"
+      },
+      {
+        "token": "的",
+        "startTime": 87190,
+        "endTime": 87370,
+        "pinyin": "de"
+      },
+      {
+        "token": "拒",
+        "startTime": 87370,
+        "endTime": 87490,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 87490,
+        "endTime": 87610,
+        "pinyin": "jué"
+      }
+    ]
+  },
+  {
+    "sentence_text": "也 会 伤害 我们 的 感情",
+    "translations": {
+      "en": "can hurt our feelings."
+    },
+    "segments": [
+      {
+        "token": "也",
+        "startTime": 87610,
+        "endTime": 87790,
+        "pinyin": "yě"
+      },
+      {
+        "token": "会",
+        "startTime": 87790,
+        "endTime": 87870,
+        "pinyin": "huì"
+      },
+      {
+        "token": "伤",
+        "startTime": 87870,
+        "endTime": 88040,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "害",
+        "startTime": 88040,
+        "endTime": 88210,
+        "pinyin": "hài"
+      },
+      {
+        "token": "我",
+        "startTime": 88210,
+        "endTime": 88390,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 88390,
+        "endTime": 88570,
+        "pinyin": "men"
+      },
+      {
+        "token": "的",
+        "startTime": 88570,
+        "endTime": 89790,
+        "pinyin": "de"
+      },
+      {
+        "token": "感",
+        "startTime": 89790,
+        "endTime": 89970,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "情",
+        "startTime": 89970,
+        "endTime": 90150,
+        "pinyin": "qíng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 似乎 是 一种 过度 反应",
+    "translations": {
+      "en": "This might seem like an overreaction,"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 90150,
+        "endTime": 90310,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "似",
+        "startTime": 90310,
+        "endTime": 90510,
+        "pinyin": "sì"
+      },
+      {
+        "token": "乎",
+        "startTime": 90510,
+        "endTime": 90710,
+        "pinyin": "hū"
+      },
+      {
+        "token": "是",
+        "startTime": 90710,
+        "endTime": 90870,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 90870,
+        "endTime": 91020,
+        "pinyin": "yī"
+      },
+      {
+        "token": "种",
+        "startTime": 91020,
+        "endTime": 91170,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "过",
+        "startTime": 91170,
+        "endTime": 91490,
+        "pinyin": "guò"
+      },
+      {
+        "token": "度",
+        "startTime": 91490,
+        "endTime": 91810,
+        "pinyin": "dù"
+      },
+      {
+        "token": "反",
+        "startTime": 91810,
+        "endTime": 92020,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 92020,
+        "endTime": 92230,
+        "pinyin": "yìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 就 像 身体 上 的 疼痛",
+    "translations": {
+      "en": "but just as physical pain"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 92230,
+        "endTime": 92570,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "就",
+        "startTime": 92570,
+        "endTime": 92810,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "像",
+        "startTime": 92810,
+        "endTime": 92990,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "身",
+        "startTime": 92990,
+        "endTime": 93180,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "体",
+        "startTime": 93180,
+        "endTime": 93370,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "上",
+        "startTime": 93370,
+        "endTime": 93570,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "的",
+        "startTime": 93570,
+        "endTime": 93690,
+        "pinyin": "de"
+      },
+      {
+        "token": "疼",
+        "startTime": 93690,
+        "endTime": 93840,
+        "pinyin": "téng"
+      },
+      {
+        "token": "痛",
+        "startTime": 93840,
+        "endTime": 93990,
+        "pinyin": "tòng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "提醒 我们 注意 对 我们 身体健康 的 威胁 一样",
+    "translations": {
+      "en": "alerts us to threats to our physical health,"
+    },
+    "segments": [
+      {
+        "token": "提",
+        "startTime": 93990,
+        "endTime": 94140,
+        "pinyin": "tí"
+      },
+      {
+        "token": "醒",
+        "startTime": 94140,
+        "endTime": 94290,
+        "pinyin": "xǐng"
+      },
+      {
+        "token": "我",
+        "startTime": 94290,
+        "endTime": 94870,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 94870,
+        "endTime": 95450,
+        "pinyin": "men"
+      },
+      {
+        "token": "注",
+        "startTime": 95450,
+        "endTime": 95600,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "意",
+        "startTime": 95600,
+        "endTime": 95750,
+        "pinyin": "yì"
+      },
+      {
+        "token": "对",
+        "startTime": 95750,
+        "endTime": 95850,
+        "pinyin": "duì"
+      },
+      {
+        "token": "我",
+        "startTime": 95850,
+        "endTime": 96070,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 96070,
+        "endTime": 96290,
+        "pinyin": "men"
+      },
+      {
+        "token": "身",
+        "startTime": 96290,
+        "endTime": 96425,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "体",
+        "startTime": 96425,
+        "endTime": 96560,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "健",
+        "startTime": 96560,
+        "endTime": 96695,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "康",
+        "startTime": 96695,
+        "endTime": 96830,
+        "pinyin": "kāng"
+      },
+      {
+        "token": "的",
+        "startTime": 96830,
+        "endTime": 96830,
+        "pinyin": "de"
+      },
+      {
+        "token": "威",
+        "startTime": 96830,
+        "endTime": 97260,
+        "pinyin": "wēi"
+      },
+      {
+        "token": "胁",
+        "startTime": 97260,
+        "endTime": 97690,
+        "pinyin": "xié"
+      },
+      {
+        "token": "一",
+        "startTime": 97690,
+        "endTime": 97900,
+        "pinyin": "yī"
+      },
+      {
+        "token": "样",
+        "startTime": 97900,
+        "endTime": 98110,
+        "pinyin": "yàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "受伤 的 感觉 会 提醒 我们",
+    "translations": {
+      "en": "feelings of hurt remind us"
+    },
+    "segments": [
+      {
+        "token": "受",
+        "startTime": 98110,
+        "endTime": 98290,
+        "pinyin": "shòu"
+      },
+      {
+        "token": "伤",
+        "startTime": 98290,
+        "endTime": 98470,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "的",
+        "startTime": 98470,
+        "endTime": 98610,
+        "pinyin": "de"
+      },
+      {
+        "token": "感",
+        "startTime": 98610,
+        "endTime": 99660,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "觉",
+        "startTime": 99660,
+        "endTime": 100710,
+        "pinyin": "jué"
+      },
+      {
+        "token": "会",
+        "startTime": 100710,
+        "endTime": 100990,
+        "pinyin": "huì"
+      },
+      {
+        "token": "提",
+        "startTime": 100990,
+        "endTime": 101140,
+        "pinyin": "tí"
+      },
+      {
+        "token": "醒",
+        "startTime": 101140,
+        "endTime": 101290,
+        "pinyin": "xǐng"
+      },
+      {
+        "token": "我",
+        "startTime": 101290,
+        "endTime": 101450,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 101450,
+        "endTime": 101610,
+        "pinyin": "men"
+      }
+    ]
+  },
+  {
+    "sentence_text": "注意 对 我们 社会 福祉 的 威胁",
+    "translations": {
+      "en": "of threats to our social well-being."
+    },
+    "segments": [
+      {
+        "token": "注",
+        "startTime": 101610,
+        "endTime": 102110,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "意",
+        "startTime": 102110,
+        "endTime": 102610,
+        "pinyin": "yì"
+      },
+      {
+        "token": "对",
+        "startTime": 102610,
+        "endTime": 102730,
+        "pinyin": "duì"
+      },
+      {
+        "token": "我",
+        "startTime": 102730,
+        "endTime": 102850,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 102850,
+        "endTime": 102970,
+        "pinyin": "men"
+      },
+      {
+        "token": "社",
+        "startTime": 102970,
+        "endTime": 103150,
+        "pinyin": "shè"
+      },
+      {
+        "token": "会",
+        "startTime": 103150,
+        "endTime": 103330,
+        "pinyin": "huì"
+      },
+      {
+        "token": "福",
+        "startTime": 103330,
+        "endTime": 103490,
+        "pinyin": "fú"
+      },
+      {
+        "token": "祉",
+        "startTime": 103490,
+        "endTime": 103650,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 103650,
+        "endTime": 103830,
+        "pinyin": "de"
+      },
+      {
+        "token": "威",
+        "startTime": 103830,
+        "endTime": 104030,
+        "pinyin": "wēi"
+      },
+      {
+        "token": "胁",
+        "startTime": 104030,
+        "endTime": 104230,
+        "pinyin": "xié"
+      }
+    ]
+  },
+  {
+    "sentence_text": "一些 行为 学家 认为",
+    "translations": {
+      "en": "Some behavioral scientists believe"
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 104230,
+        "endTime": 104460,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 104460,
+        "endTime": 104690,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "行",
+        "startTime": 104690,
+        "endTime": 104860,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "为",
+        "startTime": 104860,
+        "endTime": 105030,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "学",
+        "startTime": 105030,
+        "endTime": 105370,
+        "pinyin": "xué"
+      },
+      {
+        "token": "家",
+        "startTime": 105370,
+        "endTime": 105710,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "认",
+        "startTime": 105710,
+        "endTime": 105880,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "为",
+        "startTime": 105880,
+        "endTime": 106050,
+        "pinyin": "wéi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "当 我们 的 史前 祖先",
+    "translations": {
+      "en": "that when our prehistoric ancestors"
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 106050,
+        "endTime": 106250,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "我",
+        "startTime": 106250,
+        "endTime": 106430,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 106430,
+        "endTime": 106610,
+        "pinyin": "men"
+      },
+      {
+        "token": "的",
+        "startTime": 106610,
+        "endTime": 106710,
+        "pinyin": "de"
+      },
+      {
+        "token": "史",
+        "startTime": 106710,
+        "endTime": 106860,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "前",
+        "startTime": 106860,
+        "endTime": 107010,
+        "pinyin": "qián"
+      },
+      {
+        "token": "祖",
+        "startTime": 107010,
+        "endTime": 107150,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "先",
+        "startTime": 107150,
+        "endTime": 107290,
+        "pinyin": "xiān"
+      }
+    ]
+  },
+  {
+    "sentence_text": "生活 在 小 氏族 中",
+    "translations": {
+      "en": "lived in small clans"
+    },
+    "segments": [
+      {
+        "token": "生",
+        "startTime": 107290,
+        "endTime": 107460,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "活",
+        "startTime": 107460,
+        "endTime": 107630,
+        "pinyin": "huó"
+      },
+      {
+        "token": "在",
+        "startTime": 107630,
+        "endTime": 108490,
+        "pinyin": "zài"
+      },
+      {
+        "token": "小",
+        "startTime": 108490,
+        "endTime": 108710,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "氏",
+        "startTime": 108710,
+        "endTime": 108850,
+        "pinyin": "shì"
+      },
+      {
+        "token": "族",
+        "startTime": 108850,
+        "endTime": 108990,
+        "pinyin": "zú"
+      },
+      {
+        "token": "中",
+        "startTime": 108990,
+        "endTime": 109110,
+        "pinyin": "zhōng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "并 依靠 他们 认识 的 每个 人来 生存 时",
+    "translations": {
+      "en": "and depended on everyone they knew for survival,"
+    },
+    "segments": [
+      {
+        "token": "并",
+        "startTime": 109110,
+        "endTime": 109290,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "依",
+        "startTime": 109290,
+        "endTime": 109450,
+        "pinyin": "yī"
+      },
+      {
+        "token": "靠",
+        "startTime": 109450,
+        "endTime": 109610,
+        "pinyin": "kào"
+      },
+      {
+        "token": "他",
+        "startTime": 109610,
+        "endTime": 109830,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 109830,
+        "endTime": 110050,
+        "pinyin": "men"
+      },
+      {
+        "token": "认",
+        "startTime": 110050,
+        "endTime": 110810,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "识",
+        "startTime": 110810,
+        "endTime": 111570,
+        "pinyin": "shí"
+      },
+      {
+        "token": "的",
+        "startTime": 111570,
+        "endTime": 111770,
+        "pinyin": "de"
+      },
+      {
+        "token": "每",
+        "startTime": 111770,
+        "endTime": 111900,
+        "pinyin": "měi"
+      },
+      {
+        "token": "个",
+        "startTime": 111900,
+        "endTime": 112030,
+        "pinyin": "gè"
+      },
+      {
+        "token": "人",
+        "startTime": 112030,
+        "endTime": 112140,
+        "pinyin": "rén"
+      },
+      {
+        "token": "来",
+        "startTime": 112140,
+        "endTime": 112250,
+        "pinyin": "lái"
+      },
+      {
+        "token": "生",
+        "startTime": 112250,
+        "endTime": 112440,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "存",
+        "startTime": 112440,
+        "endTime": 112630,
+        "pinyin": "cún"
+      },
+      {
+        "token": "时",
+        "startTime": 112630,
+        "endTime": 112830,
+        "pinyin": "shí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这种 警告 系统 就 发展 起来 了",
+    "translations": {
+      "en": "this warning system developed."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 112830,
+        "endTime": 112830,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 112830,
+        "endTime": 112830,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "警",
+        "startTime": 112830,
+        "endTime": 113270,
+        "pinyin": "jǐng"
+      },
+      {
+        "token": "告",
+        "startTime": 113270,
+        "endTime": 113710,
+        "pinyin": "gào"
+      },
+      {
+        "token": "系",
+        "startTime": 113710,
+        "endTime": 113900,
+        "pinyin": "xì"
+      },
+      {
+        "token": "统",
+        "startTime": 113900,
+        "endTime": 114090,
+        "pinyin": "tǒng"
+      },
+      {
+        "token": "就",
+        "startTime": 114090,
+        "endTime": 114230,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "发",
+        "startTime": 114230,
+        "endTime": 114370,
+        "pinyin": "fā"
+      },
+      {
+        "token": "展",
+        "startTime": 114370,
+        "endTime": 114510,
+        "pinyin": "zhǎn"
+      },
+      {
+        "token": "起",
+        "startTime": 114510,
+        "endTime": 114790,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "来",
+        "startTime": 114790,
+        "endTime": 115070,
+        "pinyin": "lái"
+      },
+      {
+        "token": "了",
+        "startTime": 115070,
+        "endTime": 115170,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 人 可能 已经 进化 到",
+    "translations": {
+      "en": "These people may have evolved to"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 115170,
+        "endTime": 115320,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 115320,
+        "endTime": 115470,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "人",
+        "startTime": 115470,
+        "endTime": 115870,
+        "pinyin": "rén"
+      },
+      {
+        "token": "可",
+        "startTime": 115870,
+        "endTime": 116110,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 116110,
+        "endTime": 116350,
+        "pinyin": "néng"
+      },
+      {
+        "token": "已",
+        "startTime": 116350,
+        "endTime": 116570,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "经",
+        "startTime": 116570,
+        "endTime": 116790,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "进",
+        "startTime": 116790,
+        "endTime": 118260,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "化",
+        "startTime": 118260,
+        "endTime": 119730,
+        "pinyin": "huà"
+      },
+      {
+        "token": "到",
+        "startTime": 119730,
+        "endTime": 119890,
+        "pinyin": "dào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "将 任何人 的 拒绝",
+    "translations": {
+      "en": "view anyone's rejection"
+    },
+    "segments": [
+      {
+        "token": "将",
+        "startTime": 119890,
+        "endTime": 120110,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "任",
+        "startTime": 120110,
+        "endTime": 120270,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "何",
+        "startTime": 120270,
+        "endTime": 120430,
+        "pinyin": "hé"
+      },
+      {
+        "token": "人",
+        "startTime": 120430,
+        "endTime": 120590,
+        "pinyin": "rén"
+      },
+      {
+        "token": "的",
+        "startTime": 120590,
+        "endTime": 120770,
+        "pinyin": "de"
+      },
+      {
+        "token": "拒",
+        "startTime": 120770,
+        "endTime": 120990,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 120990,
+        "endTime": 121210,
+        "pinyin": "jué"
+      }
+    ]
+  },
+  {
+    "sentence_text": "都 视为 对 其 安全 的 潜在 威胁",
+    "translations": {
+      "en": "as a potential threat to their safety"
+    },
+    "segments": [
+      {
+        "token": "都",
+        "startTime": 121210,
+        "endTime": 121350,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "视",
+        "startTime": 121350,
+        "endTime": 121500,
+        "pinyin": "shì"
+      },
+      {
+        "token": "为",
+        "startTime": 121500,
+        "endTime": 121650,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "对",
+        "startTime": 121650,
+        "endTime": 121830,
+        "pinyin": "duì"
+      },
+      {
+        "token": "其",
+        "startTime": 121830,
+        "endTime": 122910,
+        "pinyin": "qí"
+      },
+      {
+        "token": "安",
+        "startTime": 122910,
+        "endTime": 123080,
+        "pinyin": "ān"
+      },
+      {
+        "token": "全",
+        "startTime": 123080,
+        "endTime": 123250,
+        "pinyin": "quán"
+      },
+      {
+        "token": "的",
+        "startTime": 123250,
+        "endTime": 123370,
+        "pinyin": "de"
+      },
+      {
+        "token": "潜",
+        "startTime": 123370,
+        "endTime": 123520,
+        "pinyin": "qián"
+      },
+      {
+        "token": "在",
+        "startTime": 123520,
+        "endTime": 123670,
+        "pinyin": "zài"
+      },
+      {
+        "token": "威",
+        "startTime": 123670,
+        "endTime": 123840,
+        "pinyin": "wēi"
+      },
+      {
+        "token": "胁",
+        "startTime": 123840,
+        "endTime": 124010,
+        "pinyin": "xié"
+      }
+    ]
+  },
+  {
+    "sentence_text": "尽管 这种 进化 理论 无法 得到 证实",
+    "translations": {
+      "en": "Although this evolutionary theory cannot be proven"
+    },
+    "segments": [
+      {
+        "token": "尽",
+        "startTime": 124010,
+        "endTime": 124160,
+        "pinyin": "jǐn"
+      },
+      {
+        "token": "管",
+        "startTime": 124160,
+        "endTime": 124310,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "这",
+        "startTime": 124310,
+        "endTime": 124460,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 124460,
+        "endTime": 124610,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "进",
+        "startTime": 124610,
+        "endTime": 125140,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "化",
+        "startTime": 125140,
+        "endTime": 125670,
+        "pinyin": "huà"
+      },
+      {
+        "token": "理",
+        "startTime": 125670,
+        "endTime": 125850,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "论",
+        "startTime": 125850,
+        "endTime": 126030,
+        "pinyin": "lùn"
+      },
+      {
+        "token": "无",
+        "startTime": 126030,
+        "endTime": 126160,
+        "pinyin": "wú"
+      },
+      {
+        "token": "法",
+        "startTime": 126160,
+        "endTime": 126290,
+        "pinyin": "fǎ"
+      },
+      {
+        "token": "得",
+        "startTime": 126290,
+        "endTime": 126420,
+        "pinyin": "dé"
+      },
+      {
+        "token": "到",
+        "startTime": 126420,
+        "endTime": 126550,
+        "pinyin": "dào"
+      },
+      {
+        "token": "证",
+        "startTime": 126550,
+        "endTime": 126740,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "实",
+        "startTime": 126740,
+        "endTime": 126930,
+        "pinyin": "shí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 无论 这种 警告 系统 来自 何处",
+    "translations": {
+      "en": "But no matter where this warning system comes from"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 126930,
+        "endTime": 127410,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "无",
+        "startTime": 127410,
+        "endTime": 127650,
+        "pinyin": "wú"
+      },
+      {
+        "token": "论",
+        "startTime": 127650,
+        "endTime": 127890,
+        "pinyin": "lùn"
+      },
+      {
+        "token": "这",
+        "startTime": 127890,
+        "endTime": 128060,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 128060,
+        "endTime": 128230,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "警",
+        "startTime": 128230,
+        "endTime": 128440,
+        "pinyin": "jǐng"
+      },
+      {
+        "token": "告",
+        "startTime": 128440,
+        "endTime": 128650,
+        "pinyin": "gào"
+      },
+      {
+        "token": "系",
+        "startTime": 128650,
+        "endTime": 128800,
+        "pinyin": "xì"
+      },
+      {
+        "token": "统",
+        "startTime": 128800,
+        "endTime": 128950,
+        "pinyin": "tǒng"
+      },
+      {
+        "token": "来",
+        "startTime": 128950,
+        "endTime": 129130,
+        "pinyin": "lái"
+      },
+      {
+        "token": "自",
+        "startTime": 129130,
+        "endTime": 129310,
+        "pinyin": "zì"
+      },
+      {
+        "token": "何",
+        "startTime": 129310,
+        "endTime": 130200,
+        "pinyin": "hé"
+      },
+      {
+        "token": "处",
+        "startTime": 130200,
+        "endTime": 131090,
+        "pinyin": "chù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 都 没有 知道 人们 如何 的 时候",
+    "translations": {
+      "en": "it doesn't know how people"
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 131090,
+        "endTime": 131990,
+        "pinyin": "tā"
+      },
+      {
+        "token": "都",
+        "startTime": 131990,
+        "endTime": 132250,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "没",
+        "startTime": 132250,
+        "endTime": 132410,
+        "pinyin": "méi"
+      },
+      {
+        "token": "有",
+        "startTime": 132410,
+        "endTime": 132570,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "知",
+        "startTime": 132570,
+        "endTime": 132690,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "道",
+        "startTime": 132690,
+        "endTime": 132810,
+        "pinyin": "dào"
+      },
+      {
+        "token": "人",
+        "startTime": 132810,
+        "endTime": 133030,
+        "pinyin": "rén"
+      },
+      {
+        "token": "们",
+        "startTime": 133030,
+        "endTime": 133250,
+        "pinyin": "men"
+      },
+      {
+        "token": "如",
+        "startTime": 133250,
+        "endTime": 133320,
+        "pinyin": "rú"
+      },
+      {
+        "token": "何",
+        "startTime": 133320,
+        "endTime": 133390,
+        "pinyin": "hé"
+      },
+      {
+        "token": "的",
+        "startTime": 133390,
+        "endTime": 133663,
+        "pinyin": "de"
+      },
+      {
+        "token": "时",
+        "startTime": 133663,
+        "endTime": 133937,
+        "pinyin": "shí"
+      },
+      {
+        "token": "候",
+        "startTime": 133937,
+        "endTime": 134210,
+        "pinyin": "hòu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "试着 问 自己 以下 问题",
+    "translations": {
+      "en": "Try asking yourself the following questions"
+    },
+    "segments": [
+      {
+        "token": "试",
+        "startTime": 134210,
+        "endTime": 134430,
+        "pinyin": "shì"
+      },
+      {
+        "token": "着",
+        "startTime": 134430,
+        "endTime": 134650,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "问",
+        "startTime": 134650,
+        "endTime": 134750,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "自",
+        "startTime": 134750,
+        "endTime": 134920,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 134920,
+        "endTime": 135090,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "以",
+        "startTime": 135090,
+        "endTime": 135260,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "下",
+        "startTime": 135260,
+        "endTime": 135430,
+        "pinyin": "xià"
+      },
+      {
+        "token": "问",
+        "startTime": 135430,
+        "endTime": 136330,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "题",
+        "startTime": 136330,
+        "endTime": 137230,
+        "pinyin": "tí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "首先 要 考虑 的 是",
+    "translations": {
+      "en": "First, consider"
+    },
+    "segments": [
+      {
+        "token": "首",
+        "startTime": 137230,
+        "endTime": 137350,
+        "pinyin": "shǒu"
+      },
+      {
+        "token": "先",
+        "startTime": 137350,
+        "endTime": 137470,
+        "pinyin": "xiān"
+      },
+      {
+        "token": "要",
+        "startTime": 137470,
+        "endTime": 137750,
+        "pinyin": "yào"
+      },
+      {
+        "token": "考",
+        "startTime": 137750,
+        "endTime": 137890,
+        "pinyin": "kǎo"
+      },
+      {
+        "token": "虑",
+        "startTime": 137890,
+        "endTime": 138030,
+        "pinyin": "lǜ"
+      },
+      {
+        "token": "的",
+        "startTime": 138030,
+        "endTime": 138310,
+        "pinyin": "de"
+      },
+      {
+        "token": "是",
+        "startTime": 138310,
+        "endTime": 139010,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 与 拒绝 方 之间 的 关系",
+    "translations": {
+      "en": "your relationship with the person who rejected you"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 139010,
+        "endTime": 139150,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "与",
+        "startTime": 139150,
+        "endTime": 139370,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "拒",
+        "startTime": 139370,
+        "endTime": 139530,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 139530,
+        "endTime": 139690,
+        "pinyin": "jué"
+      },
+      {
+        "token": "方",
+        "startTime": 139690,
+        "endTime": 139910,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "之",
+        "startTime": 139910,
+        "endTime": 140030,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 140030,
+        "endTime": 140150,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 140150,
+        "endTime": 140250,
+        "pinyin": "de"
+      },
+      {
+        "token": "关",
+        "startTime": 140250,
+        "endTime": 140930,
+        "pinyin": "guān"
+      },
+      {
+        "token": "系",
+        "startTime": 140930,
+        "endTime": 141610,
+        "pinyin": "xì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 人 是否 很 了解 你",
+    "translations": {
+      "en": "Does this person know you well"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 141610,
+        "endTime": 141870,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "个",
+        "startTime": 141870,
+        "endTime": 142130,
+        "pinyin": "ge"
+      },
+      {
+        "token": "人",
+        "startTime": 142130,
+        "endTime": 142310,
+        "pinyin": "rén"
+      },
+      {
+        "token": "是",
+        "startTime": 142310,
+        "endTime": 142440,
+        "pinyin": "shì"
+      },
+      {
+        "token": "否",
+        "startTime": 142440,
+        "endTime": 142570,
+        "pinyin": "fǒu"
+      },
+      {
+        "token": "很",
+        "startTime": 142570,
+        "endTime": 142790,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "了",
+        "startTime": 142790,
+        "endTime": 143420,
+        "pinyin": "liǎo"
+      },
+      {
+        "token": "解",
+        "startTime": 143420,
+        "endTime": 144050,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "你",
+        "startTime": 144050,
+        "endTime": 144230,
+        "pinyin": "nǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 很 看重 他 、 他 的 意见 吗",
+    "translations": {
+      "en": "Do you value them and their opinion"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 144230,
+        "endTime": 144390,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "很",
+        "startTime": 144390,
+        "endTime": 144630,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "看",
+        "startTime": 144630,
+        "endTime": 144940,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "重",
+        "startTime": 144940,
+        "endTime": 145250,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "他",
+        "startTime": 145250,
+        "endTime": 145550,
+        "pinyin": "tā"
+      },
+      {
+        "token": "、",
+        "startTime": 145550,
+        "endTime": 145790,
+        "pinyin": "、"
+      },
+      {
+        "token": "他",
+        "startTime": 145790,
+        "endTime": 145930,
+        "pinyin": "tā"
+      },
+      {
+        "token": "的",
+        "startTime": 145930,
+        "endTime": 145990,
+        "pinyin": "de"
+      },
+      {
+        "token": "意",
+        "startTime": 145990,
+        "endTime": 146320,
+        "pinyin": "yì"
+      },
+      {
+        "token": "见",
+        "startTime": 146320,
+        "endTime": 146650,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "吗",
+        "startTime": 146650,
+        "endTime": 146890,
+        "pinyin": "ma"
+      }
+    ]
+  },
+  {
+    "sentence_text": "或者 你们 只是 泛泛之交",
+    "translations": {
+      "en": "Or are you just casual acquaintances"
+    },
+    "segments": [
+      {
+        "token": "或",
+        "startTime": 146890,
+        "endTime": 147050,
+        "pinyin": "huò"
+      },
+      {
+        "token": "者",
+        "startTime": 147050,
+        "endTime": 147210,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "你",
+        "startTime": 147210,
+        "endTime": 147380,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "们",
+        "startTime": 147380,
+        "endTime": 147550,
+        "pinyin": "men"
+      },
+      {
+        "token": "只",
+        "startTime": 147550,
+        "endTime": 148120,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 148120,
+        "endTime": 148690,
+        "pinyin": "shì"
+      },
+      {
+        "token": "泛",
+        "startTime": 148690,
+        "endTime": 148845,
+        "pinyin": "fàn"
+      },
+      {
+        "token": "泛",
+        "startTime": 148845,
+        "endTime": 149000,
+        "pinyin": "fàn"
+      },
+      {
+        "token": "之",
+        "startTime": 149000,
+        "endTime": 149155,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "交",
+        "startTime": 149155,
+        "endTime": 149310,
+        "pinyin": "jiāo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 是 后者",
+    "translations": {
+      "en": "If it's the latter"
+    },
+    "segments": [
+      {
+        "token": "如",
+        "startTime": 149310,
+        "endTime": 149630,
+        "pinyin": "rú"
+      },
+      {
+        "token": "果",
+        "startTime": 149630,
+        "endTime": 149950,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "是",
+        "startTime": 149950,
+        "endTime": 150190,
+        "pinyin": "shì"
+      },
+      {
+        "token": "后",
+        "startTime": 150190,
+        "endTime": 150380,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "者",
+        "startTime": 150380,
+        "endTime": 150570,
+        "pinyin": "zhě"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 可能 有助于 你 回答 第二个 问题",
+    "translations": {
+      "en": "this may help you answer the second question"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 150570,
+        "endTime": 150710,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "可",
+        "startTime": 150710,
+        "endTime": 150880,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 150880,
+        "endTime": 151050,
+        "pinyin": "néng"
+      },
+      {
+        "token": "有",
+        "startTime": 151050,
+        "endTime": 151210,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "助",
+        "startTime": 151210,
+        "endTime": 151370,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "于",
+        "startTime": 151370,
+        "endTime": 151530,
+        "pinyin": "yú"
+      },
+      {
+        "token": "你",
+        "startTime": 151530,
+        "endTime": 151650,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "回",
+        "startTime": 151650,
+        "endTime": 152030,
+        "pinyin": "huí"
+      },
+      {
+        "token": "答",
+        "startTime": 152030,
+        "endTime": 152410,
+        "pinyin": "dá"
+      },
+      {
+        "token": "第",
+        "startTime": 152410,
+        "endTime": 152590,
+        "pinyin": "dì"
+      },
+      {
+        "token": "二",
+        "startTime": 152590,
+        "endTime": 152770,
+        "pinyin": "èr"
+      },
+      {
+        "token": "个",
+        "startTime": 152770,
+        "endTime": 152950,
+        "pinyin": "gè"
+      },
+      {
+        "token": "问",
+        "startTime": 152950,
+        "endTime": 153040,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "题",
+        "startTime": 153040,
+        "endTime": 153130,
+        "pinyin": "tí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "真的 很 重要 吗",
+    "translations": {
+      "en": "Does it really matter"
+    },
+    "segments": [
+      {
+        "token": "真",
+        "startTime": 153130,
+        "endTime": 153270,
+        "pinyin": "zhēn"
+      },
+      {
+        "token": "的",
+        "startTime": 153270,
+        "endTime": 153410,
+        "pinyin": "de"
+      },
+      {
+        "token": "很",
+        "startTime": 153410,
+        "endTime": 153550,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "重",
+        "startTime": 153550,
+        "endTime": 153760,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "要",
+        "startTime": 153760,
+        "endTime": 153970,
+        "pinyin": "yào"
+      },
+      {
+        "token": "吗",
+        "startTime": 153970,
+        "endTime": 154840,
+        "pinyin": "ma"
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 一个 陌生人 觉得 你 的 笑话 不好 笑",
+    "translations": {
+      "en": "If a stranger thinks your joke isn't funny"
+    },
+    "segments": [
+      {
+        "token": "如",
+        "startTime": 154840,
+        "endTime": 154950,
+        "pinyin": "rú"
+      },
+      {
+        "token": "果",
+        "startTime": 154950,
+        "endTime": 155060,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "一",
+        "startTime": 155060,
+        "endTime": 155190,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 155190,
+        "endTime": 155320,
+        "pinyin": "gè"
+      },
+      {
+        "token": "陌",
+        "startTime": 155320,
+        "endTime": 155467,
+        "pinyin": "mò"
+      },
+      {
+        "token": "生",
+        "startTime": 155467,
+        "endTime": 155613,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "人",
+        "startTime": 155613,
+        "endTime": 155760,
+        "pinyin": "rén"
+      },
+      {
+        "token": "觉",
+        "startTime": 155760,
+        "endTime": 155860,
+        "pinyin": "jué"
+      },
+      {
+        "token": "得",
+        "startTime": 155860,
+        "endTime": 155960,
+        "pinyin": "de"
+      },
+      {
+        "token": "你",
+        "startTime": 155960,
+        "endTime": 156240,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 156240,
+        "endTime": 156420,
+        "pinyin": "de"
+      },
+      {
+        "token": "笑",
+        "startTime": 156420,
+        "endTime": 156670,
+        "pinyin": "xiào"
+      },
+      {
+        "token": "话",
+        "startTime": 156670,
+        "endTime": 156920,
+        "pinyin": "huà"
+      },
+      {
+        "token": "不",
+        "startTime": 156920,
+        "endTime": 157270,
+        "pinyin": "bù"
+      },
+      {
+        "token": "好",
+        "startTime": 157270,
+        "endTime": 157620,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "笑",
+        "startTime": 157620,
+        "endTime": 157780,
+        "pinyin": "xiào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 可能 会 感到 难受",
+    "translations": {
+      "en": "you might feel upset"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 157780,
+        "endTime": 158020,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "可",
+        "startTime": 158020,
+        "endTime": 158170,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 158170,
+        "endTime": 158320,
+        "pinyin": "néng"
+      },
+      {
+        "token": "会",
+        "startTime": 158320,
+        "endTime": 158460,
+        "pinyin": "huì"
+      },
+      {
+        "token": "感",
+        "startTime": 158460,
+        "endTime": 158950,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "到",
+        "startTime": 158950,
+        "endTime": 159440,
+        "pinyin": "dào"
+      },
+      {
+        "token": "难",
+        "startTime": 159440,
+        "endTime": 159570,
+        "pinyin": "nán"
+      },
+      {
+        "token": "受",
+        "startTime": 159570,
+        "endTime": 159700,
+        "pinyin": "shòu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 既然 这个 拒绝 对 你 的 生活 影响 不 大",
+    "translations": {
+      "en": "But since this rejection has little impact on your life"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 159700,
+        "endTime": 159920,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "既",
+        "startTime": 159920,
+        "endTime": 160080,
+        "pinyin": "jì"
+      },
+      {
+        "token": "然",
+        "startTime": 160080,
+        "endTime": 160240,
+        "pinyin": "rán"
+      },
+      {
+        "token": "这",
+        "startTime": 160240,
+        "endTime": 160430,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "个",
+        "startTime": 160430,
+        "endTime": 160620,
+        "pinyin": "ge"
+      },
+      {
+        "token": "拒",
+        "startTime": 160620,
+        "endTime": 160760,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 160760,
+        "endTime": 160900,
+        "pinyin": "jué"
+      },
+      {
+        "token": "对",
+        "startTime": 160900,
+        "endTime": 161140,
+        "pinyin": "duì"
+      },
+      {
+        "token": "你",
+        "startTime": 161140,
+        "endTime": 161260,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 161260,
+        "endTime": 161480,
+        "pinyin": "de"
+      },
+      {
+        "token": "生",
+        "startTime": 161480,
+        "endTime": 161760,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "活",
+        "startTime": 161760,
+        "endTime": 162040,
+        "pinyin": "huó"
+      },
+      {
+        "token": "影",
+        "startTime": 162040,
+        "endTime": 162170,
+        "pinyin": "yǐng"
+      },
+      {
+        "token": "响",
+        "startTime": 162170,
+        "endTime": 162300,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "不",
+        "startTime": 162300,
+        "endTime": 162440,
+        "pinyin": "bù"
+      },
+      {
+        "token": "大",
+        "startTime": 162440,
+        "endTime": 162620,
+        "pinyin": "dà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "那么 过激 的 反应 就 说 不通 了",
+    "translations": {
+      "en": "an overreaction doesn't make sense"
+    },
+    "segments": [
+      {
+        "token": "那",
+        "startTime": 162620,
+        "endTime": 162770,
+        "pinyin": "nà"
+      },
+      {
+        "token": "么",
+        "startTime": 162770,
+        "endTime": 162920,
+        "pinyin": "me"
+      },
+      {
+        "token": "过",
+        "startTime": 162920,
+        "endTime": 163070,
+        "pinyin": "guò"
+      },
+      {
+        "token": "激",
+        "startTime": 163070,
+        "endTime": 163220,
+        "pinyin": "jī"
+      },
+      {
+        "token": "的",
+        "startTime": 163220,
+        "endTime": 163280,
+        "pinyin": "de"
+      },
+      {
+        "token": "反",
+        "startTime": 163280,
+        "endTime": 163840,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 163840,
+        "endTime": 164400,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "就",
+        "startTime": 164400,
+        "endTime": 164920,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "说",
+        "startTime": 164920,
+        "endTime": 165060,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "不",
+        "startTime": 165060,
+        "endTime": 165240,
+        "pinyin": "bù"
+      },
+      {
+        "token": "通",
+        "startTime": 165240,
+        "endTime": 165420,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "了",
+        "startTime": 165420,
+        "endTime": 165600,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "当然 即使 是 一个 小小的 拒绝",
+    "translations": {
+      "en": "Of course, even a small rejection"
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 165600,
+        "endTime": 165730,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "然",
+        "startTime": 165730,
+        "endTime": 165860,
+        "pinyin": "rán"
+      },
+      {
+        "token": "即",
+        "startTime": 165860,
+        "endTime": 165860,
+        "pinyin": "jí"
+      },
+      {
+        "token": "使",
+        "startTime": 165860,
+        "endTime": 165860,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 165860,
+        "endTime": 166480,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 166480,
+        "endTime": 166620,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 166620,
+        "endTime": 166760,
+        "pinyin": "gè"
+      },
+      {
+        "token": "小",
+        "startTime": 166760,
+        "endTime": 166900,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "小",
+        "startTime": 166900,
+        "endTime": 167040,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 167040,
+        "endTime": 167180,
+        "pinyin": "de"
+      },
+      {
+        "token": "拒",
+        "startTime": 167180,
+        "endTime": 167350,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 167350,
+        "endTime": 167520,
+        "pinyin": "jué"
+      }
+    ]
+  },
+  {
+    "sentence_text": "要 无视 它 也 是 说 起来 容易 做 起来 难",
+    "translations": {
+      "en": "It's easier said than done to ignore it."
+    },
+    "segments": [
+      {
+        "token": "要",
+        "startTime": 167520,
+        "endTime": 167620,
+        "pinyin": "yào"
+      },
+      {
+        "token": "无",
+        "startTime": 167620,
+        "endTime": 167720,
+        "pinyin": "wú"
+      },
+      {
+        "token": "视",
+        "startTime": 167720,
+        "endTime": 167820,
+        "pinyin": "shì"
+      },
+      {
+        "token": "它",
+        "startTime": 167820,
+        "endTime": 168080,
+        "pinyin": "tā"
+      },
+      {
+        "token": "也",
+        "startTime": 168080,
+        "endTime": 168180,
+        "pinyin": "yě"
+      },
+      {
+        "token": "是",
+        "startTime": 168180,
+        "endTime": 168320,
+        "pinyin": "shì"
+      },
+      {
+        "token": "说",
+        "startTime": 168320,
+        "endTime": 169040,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "起",
+        "startTime": 169040,
+        "endTime": 169150,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "来",
+        "startTime": 169150,
+        "endTime": 169260,
+        "pinyin": "lái"
+      },
+      {
+        "token": "容",
+        "startTime": 169260,
+        "endTime": 169380,
+        "pinyin": "róng"
+      },
+      {
+        "token": "易",
+        "startTime": 169380,
+        "endTime": 169500,
+        "pinyin": "yì"
+      },
+      {
+        "token": "做",
+        "startTime": 169500,
+        "endTime": 169720,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "起",
+        "startTime": 169720,
+        "endTime": 169890,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "来",
+        "startTime": 169890,
+        "endTime": 170060,
+        "pinyin": "lái"
+      },
+      {
+        "token": "难",
+        "startTime": 170060,
+        "endTime": 170220,
+        "pinyin": "nán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "因为 你 对 自己 的 看法",
+    "translations": {
+      "en": "Because how you see yourself"
+    },
+    "segments": [
+      {
+        "token": "因",
+        "startTime": 170220,
+        "endTime": 170350,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "为",
+        "startTime": 170350,
+        "endTime": 170480,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "你",
+        "startTime": 170480,
+        "endTime": 170680,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "对",
+        "startTime": 170680,
+        "endTime": 170980,
+        "pinyin": "duì"
+      },
+      {
+        "token": "自",
+        "startTime": 170980,
+        "endTime": 171090,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 171090,
+        "endTime": 171200,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 171200,
+        "endTime": 171400,
+        "pinyin": "de"
+      },
+      {
+        "token": "看",
+        "startTime": 171400,
+        "endTime": 172530,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "法",
+        "startTime": 172530,
+        "endTime": 173660,
+        "pinyin": "fǎ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "也 是 需要 考虑 的 一个 因素",
+    "translations": {
+      "en": "is also a factor to consider."
+    },
+    "segments": [
+      {
+        "token": "也",
+        "startTime": 173660,
+        "endTime": 173840,
+        "pinyin": "yě"
+      },
+      {
+        "token": "是",
+        "startTime": 173840,
+        "endTime": 174000,
+        "pinyin": "shì"
+      },
+      {
+        "token": "需",
+        "startTime": 174000,
+        "endTime": 174230,
+        "pinyin": "xū"
+      },
+      {
+        "token": "要",
+        "startTime": 174230,
+        "endTime": 174460,
+        "pinyin": "yào"
+      },
+      {
+        "token": "考",
+        "startTime": 174460,
+        "endTime": 174810,
+        "pinyin": "kǎo"
+      },
+      {
+        "token": "虑",
+        "startTime": 174810,
+        "endTime": 175160,
+        "pinyin": "lǜ"
+      },
+      {
+        "token": "的",
+        "startTime": 175160,
+        "endTime": 175340,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 175340,
+        "endTime": 175500,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 175500,
+        "endTime": 175660,
+        "pinyin": "gè"
+      },
+      {
+        "token": "因",
+        "startTime": 175660,
+        "endTime": 175920,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "素",
+        "startTime": 175920,
+        "endTime": 176180,
+        "pinyin": "sù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 某些 情况 下",
+    "translations": {
+      "en": "In some situations,"
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 176180,
+        "endTime": 176300,
+        "pinyin": "zài"
+      },
+      {
+        "token": "某",
+        "startTime": 176300,
+        "endTime": 176460,
+        "pinyin": "mǒu"
+      },
+      {
+        "token": "些",
+        "startTime": 176460,
+        "endTime": 176620,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "情",
+        "startTime": 176620,
+        "endTime": 176820,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 176820,
+        "endTime": 177020,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "下",
+        "startTime": 177020,
+        "endTime": 177160,
+        "pinyin": "xià"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 可能 会 比 在 其他 情况 下 更 有 自信",
+    "translations": {
+      "en": "you may feel more confident than in others."
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 177160,
+        "endTime": 177360,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "可",
+        "startTime": 177360,
+        "endTime": 177960,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 177960,
+        "endTime": 178560,
+        "pinyin": "néng"
+      },
+      {
+        "token": "会",
+        "startTime": 178560,
+        "endTime": 178820,
+        "pinyin": "huì"
+      },
+      {
+        "token": "比",
+        "startTime": 178820,
+        "endTime": 178980,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "在",
+        "startTime": 178980,
+        "endTime": 179040,
+        "pinyin": "zài"
+      },
+      {
+        "token": "其",
+        "startTime": 179040,
+        "endTime": 179210,
+        "pinyin": "qí"
+      },
+      {
+        "token": "他",
+        "startTime": 179210,
+        "endTime": 179380,
+        "pinyin": "tā"
+      },
+      {
+        "token": "情",
+        "startTime": 179380,
+        "endTime": 179570,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 179570,
+        "endTime": 179760,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "下",
+        "startTime": 179760,
+        "endTime": 179980,
+        "pinyin": "xià"
+      },
+      {
+        "token": "更",
+        "startTime": 179980,
+        "endTime": 180120,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "有",
+        "startTime": 180120,
+        "endTime": 180760,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "自",
+        "startTime": 180760,
+        "endTime": 180840,
+        "pinyin": "zì"
+      },
+      {
+        "token": "信",
+        "startTime": 180840,
+        "endTime": 180920,
+        "pinyin": "xìn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而且 当 人们 自我 评价 较 低时",
+    "translations": {
+      "en": "And when people have low self-esteem,"
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 180920,
+        "endTime": 181110,
+        "pinyin": "ér"
+      },
+      {
+        "token": "且",
+        "startTime": 181110,
+        "endTime": 181300,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "当",
+        "startTime": 181300,
+        "endTime": 181500,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "人",
+        "startTime": 181500,
+        "endTime": 181700,
+        "pinyin": "rén"
+      },
+      {
+        "token": "们",
+        "startTime": 181700,
+        "endTime": 181900,
+        "pinyin": "men"
+      },
+      {
+        "token": "自",
+        "startTime": 181900,
+        "endTime": 182110,
+        "pinyin": "zì"
+      },
+      {
+        "token": "我",
+        "startTime": 182110,
+        "endTime": 182320,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "评",
+        "startTime": 182320,
+        "endTime": 183360,
+        "pinyin": "píng"
+      },
+      {
+        "token": "价",
+        "startTime": 183360,
+        "endTime": 184400,
+        "pinyin": "jià"
+      },
+      {
+        "token": "较",
+        "startTime": 184400,
+        "endTime": 184620,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "低",
+        "startTime": 184620,
+        "endTime": 184780,
+        "pinyin": "dī"
+      },
+      {
+        "token": "时",
+        "startTime": 184780,
+        "endTime": 184940,
+        "pinyin": "shí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他们 往往 对 拒绝 尤为 敏感",
+    "translations": {
+      "en": "they tend to be especially sensitive to rejection,"
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 184940,
+        "endTime": 185130,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 185130,
+        "endTime": 185320,
+        "pinyin": "men"
+      },
+      {
+        "token": "往",
+        "startTime": 185320,
+        "endTime": 185480,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "往",
+        "startTime": 185480,
+        "endTime": 185640,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "对",
+        "startTime": 185640,
+        "endTime": 185820,
+        "pinyin": "duì"
+      },
+      {
+        "token": "拒",
+        "startTime": 185820,
+        "endTime": 186000,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 186000,
+        "endTime": 186180,
+        "pinyin": "jué"
+      },
+      {
+        "token": "尤",
+        "startTime": 186180,
+        "endTime": 186330,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "为",
+        "startTime": 186330,
+        "endTime": 186480,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "敏",
+        "startTime": 186480,
+        "endTime": 186640,
+        "pinyin": "mǐn"
+      },
+      {
+        "token": "感",
+        "startTime": 186640,
+        "endTime": 186800,
+        "pinyin": "gǎn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "敏感 到 甚至 更 有 可能",
+    "translations": {
+      "en": "so much so that they're more likely"
+    },
+    "segments": [
+      {
+        "token": "敏",
+        "startTime": 186800,
+        "endTime": 187010,
+        "pinyin": "mǐn"
+      },
+      {
+        "token": "感",
+        "startTime": 187010,
+        "endTime": 187220,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "到",
+        "startTime": 187220,
+        "endTime": 187580,
+        "pinyin": "dào"
+      },
+      {
+        "token": "甚",
+        "startTime": 187580,
+        "endTime": 187750,
+        "pinyin": "shèn"
+      },
+      {
+        "token": "至",
+        "startTime": 187750,
+        "endTime": 187920,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "更",
+        "startTime": 187920,
+        "endTime": 188140,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "有",
+        "startTime": 188140,
+        "endTime": 192900,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "可",
+        "startTime": 192900,
+        "endTime": 193080,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 193080,
+        "endTime": 193260,
+        "pinyin": "néng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "为什么 反思 自我 并 问问 自己",
+    "translations": {
+      "en": "Why reflecting on yourself and asking"
+    },
+    "segments": [
+      {
+        "token": "为",
+        "startTime": 193260,
+        "endTime": 193387,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "什",
+        "startTime": 193387,
+        "endTime": 193513,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 193513,
+        "endTime": 193640,
+        "pinyin": "me"
+      },
+      {
+        "token": "反",
+        "startTime": 193640,
+        "endTime": 194010,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "思",
+        "startTime": 194010,
+        "endTime": 194380,
+        "pinyin": "sī"
+      },
+      {
+        "token": "自",
+        "startTime": 194380,
+        "endTime": 194690,
+        "pinyin": "zì"
+      },
+      {
+        "token": "我",
+        "startTime": 194690,
+        "endTime": 195000,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "并",
+        "startTime": 195000,
+        "endTime": 195160,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "问",
+        "startTime": 195160,
+        "endTime": 195300,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "问",
+        "startTime": 195300,
+        "endTime": 195440,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "自",
+        "startTime": 195440,
+        "endTime": 195610,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 195610,
+        "endTime": 195780,
+        "pinyin": "jǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "对方 是否 真的 在 拒绝 你",
+    "translations": {
+      "en": "whether the other person is really rejecting you"
+    },
+    "segments": [
+      {
+        "token": "对",
+        "startTime": 195780,
+        "endTime": 196000,
+        "pinyin": "duì"
+      },
+      {
+        "token": "方",
+        "startTime": 196000,
+        "endTime": 196220,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "是",
+        "startTime": 196220,
+        "endTime": 196440,
+        "pinyin": "shì"
+      },
+      {
+        "token": "否",
+        "startTime": 196440,
+        "endTime": 196660,
+        "pinyin": "fǒu"
+      },
+      {
+        "token": "真",
+        "startTime": 196660,
+        "endTime": 196840,
+        "pinyin": "zhēn"
+      },
+      {
+        "token": "的",
+        "startTime": 196840,
+        "endTime": 197020,
+        "pinyin": "de"
+      },
+      {
+        "token": "在",
+        "startTime": 197020,
+        "endTime": 197180,
+        "pinyin": "zài"
+      },
+      {
+        "token": "拒",
+        "startTime": 197180,
+        "endTime": 197340,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 197340,
+        "endTime": 197500,
+        "pinyin": "jué"
+      },
+      {
+        "token": "你",
+        "startTime": 197500,
+        "endTime": 197660,
+        "pinyin": "nǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "会 有所 帮助",
+    "translations": {
+      "en": "can help."
+    },
+    "segments": [
+      {
+        "token": "会",
+        "startTime": 197660,
+        "endTime": 197920,
+        "pinyin": "huì"
+      },
+      {
+        "token": "有",
+        "startTime": 197920,
+        "endTime": 198060,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "所",
+        "startTime": 198060,
+        "endTime": 198200,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "帮",
+        "startTime": 198200,
+        "endTime": 198930,
+        "pinyin": "bāng"
+      },
+      {
+        "token": "助",
+        "startTime": 198930,
+        "endTime": 199660,
+        "pinyin": "zhù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 似乎 是 一个 奇怪 的 问题",
+    "translations": {
+      "en": "It seems like a strange question,"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 199660,
+        "endTime": 199840,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "似",
+        "startTime": 199840,
+        "endTime": 199980,
+        "pinyin": "sì"
+      },
+      {
+        "token": "乎",
+        "startTime": 199980,
+        "endTime": 200120,
+        "pinyin": "hū"
+      },
+      {
+        "token": "是",
+        "startTime": 200120,
+        "endTime": 200280,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 200280,
+        "endTime": 200360,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 200360,
+        "endTime": 200440,
+        "pinyin": "gè"
+      },
+      {
+        "token": "奇",
+        "startTime": 200440,
+        "endTime": 200550,
+        "pinyin": "qí"
+      },
+      {
+        "token": "怪",
+        "startTime": 200550,
+        "endTime": 200660,
+        "pinyin": "guài"
+      },
+      {
+        "token": "的",
+        "startTime": 200660,
+        "endTime": 200860,
+        "pinyin": "de"
+      },
+      {
+        "token": "问",
+        "startTime": 200860,
+        "endTime": 201410,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "题",
+        "startTime": 201410,
+        "endTime": 201960,
+        "pinyin": "tí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 你 可能 会 发现",
+    "translations": {
+      "en": "but you might find"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 201960,
+        "endTime": 202100,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "你",
+        "startTime": 202100,
+        "endTime": 202220,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "可",
+        "startTime": 202220,
+        "endTime": 202330,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 202330,
+        "endTime": 202440,
+        "pinyin": "néng"
+      },
+      {
+        "token": "会",
+        "startTime": 202440,
+        "endTime": 202600,
+        "pinyin": "huì"
+      },
+      {
+        "token": "发",
+        "startTime": 202600,
+        "endTime": 202930,
+        "pinyin": "fā"
+      },
+      {
+        "token": "现",
+        "startTime": 202930,
+        "endTime": 203260,
+        "pinyin": "xiàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "虽然 对方 没有 像 你 希望 的 那样 对待 你",
+    "translations": {
+      "en": "that even if they don't treat you as you'd hoped,"
+    },
+    "segments": [
+      {
+        "token": "虽",
+        "startTime": 203260,
+        "endTime": 203400,
+        "pinyin": "suī"
+      },
+      {
+        "token": "然",
+        "startTime": 203400,
+        "endTime": 203540,
+        "pinyin": "rán"
+      },
+      {
+        "token": "对",
+        "startTime": 203540,
+        "endTime": 203690,
+        "pinyin": "duì"
+      },
+      {
+        "token": "方",
+        "startTime": 203690,
+        "endTime": 203840,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "没",
+        "startTime": 203840,
+        "endTime": 203990,
+        "pinyin": "méi"
+      },
+      {
+        "token": "有",
+        "startTime": 203990,
+        "endTime": 204140,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "像",
+        "startTime": 204140,
+        "endTime": 204380,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "你",
+        "startTime": 204380,
+        "endTime": 204580,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "希",
+        "startTime": 204580,
+        "endTime": 204730,
+        "pinyin": "xī"
+      },
+      {
+        "token": "望",
+        "startTime": 204730,
+        "endTime": 204880,
+        "pinyin": "wàng"
+      },
+      {
+        "token": "的",
+        "startTime": 204880,
+        "endTime": 205020,
+        "pinyin": "de"
+      },
+      {
+        "token": "那",
+        "startTime": 205020,
+        "endTime": 205120,
+        "pinyin": "nà"
+      },
+      {
+        "token": "样",
+        "startTime": 205120,
+        "endTime": 205220,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "对",
+        "startTime": 205220,
+        "endTime": 205360,
+        "pinyin": "duì"
+      },
+      {
+        "token": "待",
+        "startTime": 205360,
+        "endTime": 205500,
+        "pinyin": "dài"
+      },
+      {
+        "token": "你",
+        "startTime": 205500,
+        "endTime": 206180,
+        "pinyin": "nǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 他们 仍然 重视 你们 之间 的 关系",
+    "translations": {
+      "en": "they still value your relationship."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 206180,
+        "endTime": 206300,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "他",
+        "startTime": 206300,
+        "endTime": 206410,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 206410,
+        "endTime": 206520,
+        "pinyin": "men"
+      },
+      {
+        "token": "仍",
+        "startTime": 206520,
+        "endTime": 206740,
+        "pinyin": "réng"
+      },
+      {
+        "token": "然",
+        "startTime": 206740,
+        "endTime": 206960,
+        "pinyin": "rán"
+      },
+      {
+        "token": "重",
+        "startTime": 206960,
+        "endTime": 207170,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "视",
+        "startTime": 207170,
+        "endTime": 207380,
+        "pinyin": "shì"
+      },
+      {
+        "token": "你",
+        "startTime": 207380,
+        "endTime": 207490,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "们",
+        "startTime": 207490,
+        "endTime": 207600,
+        "pinyin": "men"
+      },
+      {
+        "token": "之",
+        "startTime": 207600,
+        "endTime": 207780,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 207780,
+        "endTime": 207960,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 207960,
+        "endTime": 208100,
+        "pinyin": "de"
+      },
+      {
+        "token": "关",
+        "startTime": 208100,
+        "endTime": 209120,
+        "pinyin": "guān"
+      },
+      {
+        "token": "系",
+        "startTime": 209120,
+        "endTime": 210140,
+        "pinyin": "xì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 某些 情况 下 思考 一下 你 是否 期望 得到 超出 合理 范围 的 认可",
+    "translations": {
+      "en": "In some cases, it also helps to consider whether you're expecting more recognition than is reasonable."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 210140,
+        "endTime": 210340,
+        "pinyin": "zài"
+      },
+      {
+        "token": "某",
+        "startTime": 210340,
+        "endTime": 210470,
+        "pinyin": "mǒu"
+      },
+      {
+        "token": "些",
+        "startTime": 210470,
+        "endTime": 210600,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "情",
+        "startTime": 210600,
+        "endTime": 210730,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 210730,
+        "endTime": 210860,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "下",
+        "startTime": 210860,
+        "endTime": 211480,
+        "pinyin": "xià"
+      },
+      {
+        "token": "思",
+        "startTime": 211480,
+        "endTime": 211630,
+        "pinyin": "sī"
+      },
+      {
+        "token": "考",
+        "startTime": 211630,
+        "endTime": 211780,
+        "pinyin": "kǎo"
+      },
+      {
+        "token": "一",
+        "startTime": 211780,
+        "endTime": 211920,
+        "pinyin": "yī"
+      },
+      {
+        "token": "下",
+        "startTime": 211920,
+        "endTime": 212060,
+        "pinyin": "xià"
+      },
+      {
+        "token": "你",
+        "startTime": 212060,
+        "endTime": 212620,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 212620,
+        "endTime": 212810,
+        "pinyin": "shì"
+      },
+      {
+        "token": "否",
+        "startTime": 212810,
+        "endTime": 213000,
+        "pinyin": "fǒu"
+      },
+      {
+        "token": "期",
+        "startTime": 213000,
+        "endTime": 213120,
+        "pinyin": "qī"
+      },
+      {
+        "token": "望",
+        "startTime": 213120,
+        "endTime": 213240,
+        "pinyin": "wàng"
+      },
+      {
+        "token": "得",
+        "startTime": 213240,
+        "endTime": 213410,
+        "pinyin": "dé"
+      },
+      {
+        "token": "到",
+        "startTime": 213410,
+        "endTime": 213580,
+        "pinyin": "dào"
+      },
+      {
+        "token": "超",
+        "startTime": 213580,
+        "endTime": 213760,
+        "pinyin": "chāo"
+      },
+      {
+        "token": "出",
+        "startTime": 213760,
+        "endTime": 213940,
+        "pinyin": "chū"
+      },
+      {
+        "token": "合",
+        "startTime": 213940,
+        "endTime": 214080,
+        "pinyin": "hé"
+      },
+      {
+        "token": "理",
+        "startTime": 214080,
+        "endTime": 214220,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "范",
+        "startTime": 214220,
+        "endTime": 214350,
+        "pinyin": "fàn"
+      },
+      {
+        "token": "围",
+        "startTime": 214350,
+        "endTime": 214480,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "的",
+        "startTime": 214480,
+        "endTime": 214640,
+        "pinyin": "de"
+      },
+      {
+        "token": "认",
+        "startTime": 214640,
+        "endTime": 215210,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "可",
+        "startTime": 215210,
+        "endTime": 215780,
+        "pinyin": "kě"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 也 会 有所 帮助",
+    "translations": {},
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 215780,
+        "endTime": 215920,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "也",
+        "startTime": 215920,
+        "endTime": 216040,
+        "pinyin": "yě"
+      },
+      {
+        "token": "会",
+        "startTime": 216040,
+        "endTime": 216200,
+        "pinyin": "huì"
+      },
+      {
+        "token": "有",
+        "startTime": 216200,
+        "endTime": 216350,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "所",
+        "startTime": 216350,
+        "endTime": 216500,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "帮",
+        "startTime": 216500,
+        "endTime": 216950,
+        "pinyin": "bāng"
+      },
+      {
+        "token": "助",
+        "startTime": 216950,
+        "endTime": 217400,
+        "pinyin": "zhù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "不幸 的 是 在 问 了 这些 问题 之后",
+    "translations": {
+      "en": "Unfortunately, after asking these questions,"
+    },
+    "segments": [
+      {
+        "token": "不",
+        "startTime": 217400,
+        "endTime": 217400,
+        "pinyin": "bù"
+      },
+      {
+        "token": "幸",
+        "startTime": 217400,
+        "endTime": 217400,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "的",
+        "startTime": 217400,
+        "endTime": 218240,
+        "pinyin": "de"
+      },
+      {
+        "token": "是",
+        "startTime": 218240,
+        "endTime": 218380,
+        "pinyin": "shì"
+      },
+      {
+        "token": "在",
+        "startTime": 218380,
+        "endTime": 218500,
+        "pinyin": "zài"
+      },
+      {
+        "token": "问",
+        "startTime": 218500,
+        "endTime": 218640,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "了",
+        "startTime": 218640,
+        "endTime": 218720,
+        "pinyin": "le"
+      },
+      {
+        "token": "这",
+        "startTime": 218720,
+        "endTime": 218840,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 218840,
+        "endTime": 218960,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "问",
+        "startTime": 218960,
+        "endTime": 219010,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "题",
+        "startTime": 219010,
+        "endTime": 219060,
+        "pinyin": "tí"
+      },
+      {
+        "token": "之",
+        "startTime": 219060,
+        "endTime": 219490,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "后",
+        "startTime": 219490,
+        "endTime": 219920,
+        "pinyin": "hòu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 可能 仍然 会 得出 这样 的 结论",
+    "translations": {
+      "en": "you may still conclude"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 219920,
+        "endTime": 220160,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "可",
+        "startTime": 220160,
+        "endTime": 220340,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 220340,
+        "endTime": 220520,
+        "pinyin": "néng"
+      },
+      {
+        "token": "仍",
+        "startTime": 220520,
+        "endTime": 220700,
+        "pinyin": "réng"
+      },
+      {
+        "token": "然",
+        "startTime": 220700,
+        "endTime": 220880,
+        "pinyin": "rán"
+      },
+      {
+        "token": "会",
+        "startTime": 220880,
+        "endTime": 221100,
+        "pinyin": "huì"
+      },
+      {
+        "token": "得",
+        "startTime": 221100,
+        "endTime": 221270,
+        "pinyin": "dé"
+      },
+      {
+        "token": "出",
+        "startTime": 221270,
+        "endTime": 221440,
+        "pinyin": "chū"
+      },
+      {
+        "token": "这",
+        "startTime": 221440,
+        "endTime": 221920,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "样",
+        "startTime": 221920,
+        "endTime": 222400,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "的",
+        "startTime": 222400,
+        "endTime": 222560,
+        "pinyin": "de"
+      },
+      {
+        "token": "结",
+        "startTime": 222560,
+        "endTime": 222690,
+        "pinyin": "jié"
+      },
+      {
+        "token": "论",
+        "startTime": 222690,
+        "endTime": 222820,
+        "pinyin": "lùn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "某个 与 你 亲近 的 人 并 不 像 你 一样 重视 你们 之间 的 关系",
+    "translations": {
+      "en": "that someone close to you doesn't value the relationship as much as you do."
+    },
+    "segments": [
+      {
+        "token": "某",
+        "startTime": 222820,
+        "endTime": 223010,
+        "pinyin": "mǒu"
+      },
+      {
+        "token": "个",
+        "startTime": 223010,
+        "endTime": 223200,
+        "pinyin": "gè"
+      },
+      {
+        "token": "与",
+        "startTime": 223200,
+        "endTime": 223200,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "你",
+        "startTime": 223200,
+        "endTime": 223640,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "亲",
+        "startTime": 223640,
+        "endTime": 223810,
+        "pinyin": "qīn"
+      },
+      {
+        "token": "近",
+        "startTime": 223810,
+        "endTime": 223980,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "的",
+        "startTime": 223980,
+        "endTime": 224200,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 224200,
+        "endTime": 224360,
+        "pinyin": "rén"
+      },
+      {
+        "token": "并",
+        "startTime": 224360,
+        "endTime": 224460,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "不",
+        "startTime": 224460,
+        "endTime": 224740,
+        "pinyin": "bù"
+      },
+      {
+        "token": "像",
+        "startTime": 224740,
+        "endTime": 224900,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "你",
+        "startTime": 224900,
+        "endTime": 225080,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "一",
+        "startTime": 225080,
+        "endTime": 225260,
+        "pinyin": "yī"
+      },
+      {
+        "token": "样",
+        "startTime": 225260,
+        "endTime": 225440,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "重",
+        "startTime": 225440,
+        "endTime": 225570,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "视",
+        "startTime": 225570,
+        "endTime": 225700,
+        "pinyin": "shì"
+      },
+      {
+        "token": "你",
+        "startTime": 225700,
+        "endTime": 226670,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "们",
+        "startTime": 226670,
+        "endTime": 227640,
+        "pinyin": "men"
+      },
+      {
+        "token": "之",
+        "startTime": 227640,
+        "endTime": 227780,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 227780,
+        "endTime": 227920,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 227920,
+        "endTime": 228160,
+        "pinyin": "de"
+      },
+      {
+        "token": "关",
+        "startTime": 228160,
+        "endTime": 228290,
+        "pinyin": "guān"
+      },
+      {
+        "token": "系",
+        "startTime": 228290,
+        "endTime": 228420,
+        "pinyin": "xì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这是 一个 痛苦 的 认识",
+    "translations": {
+      "en": "This is a painful realization,"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 228420,
+        "endTime": 228890,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "是",
+        "startTime": 228890,
+        "endTime": 229360,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 229360,
+        "endTime": 229520,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 229520,
+        "endTime": 229680,
+        "pinyin": "gè"
+      },
+      {
+        "token": "痛",
+        "startTime": 229680,
+        "endTime": 229810,
+        "pinyin": "tòng"
+      },
+      {
+        "token": "苦",
+        "startTime": 229810,
+        "endTime": 229940,
+        "pinyin": "kǔ"
+      },
+      {
+        "token": "的",
+        "startTime": 229940,
+        "endTime": 230100,
+        "pinyin": "de"
+      },
+      {
+        "token": "认",
+        "startTime": 230100,
+        "endTime": 230250,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "识",
+        "startTime": 230250,
+        "endTime": 230400,
+        "pinyin": "shí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 它 可以 帮助 你 记住 两件事",
+    "translations": {
+      "en": "but it can help you remember two things."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 230400,
+        "endTime": 230560,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "它",
+        "startTime": 230560,
+        "endTime": 230640,
+        "pinyin": "tā"
+      },
+      {
+        "token": "可",
+        "startTime": 230640,
+        "endTime": 230820,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 230820,
+        "endTime": 231000,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "帮",
+        "startTime": 231000,
+        "endTime": 231495,
+        "pinyin": "bāng"
+      },
+      {
+        "token": "助",
+        "startTime": 231495,
+        "endTime": 231990,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "你",
+        "startTime": 231990,
+        "endTime": 232850,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "记",
+        "startTime": 232850,
+        "endTime": 233020,
+        "pinyin": "jì"
+      },
+      {
+        "token": "住",
+        "startTime": 233020,
+        "endTime": 233190,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "两",
+        "startTime": 233190,
+        "endTime": 233423,
+        "pinyin": "liǎng"
+      },
+      {
+        "token": "件",
+        "startTime": 233423,
+        "endTime": 233657,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "事",
+        "startTime": 233657,
+        "endTime": 233890,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "首先 这次 拒绝 不 只是 你 一方 的 问题",
+    "translations": {
+      "en": "First, this rejection isn’t just your problem."
+    },
+    "segments": [
+      {
+        "token": "首",
+        "startTime": 233890,
+        "endTime": 234090,
+        "pinyin": "shǒu"
+      },
+      {
+        "token": "先",
+        "startTime": 234090,
+        "endTime": 234290,
+        "pinyin": "xiān"
+      },
+      {
+        "token": "这",
+        "startTime": 234290,
+        "endTime": 234400,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "次",
+        "startTime": 234400,
+        "endTime": 234510,
+        "pinyin": "cì"
+      },
+      {
+        "token": "拒",
+        "startTime": 234510,
+        "endTime": 235030,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 235030,
+        "endTime": 235550,
+        "pinyin": "jué"
+      },
+      {
+        "token": "不",
+        "startTime": 235550,
+        "endTime": 235690,
+        "pinyin": "bù"
+      },
+      {
+        "token": "只",
+        "startTime": 235690,
+        "endTime": 235890,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 235890,
+        "endTime": 236090,
+        "pinyin": "shì"
+      },
+      {
+        "token": "你",
+        "startTime": 236090,
+        "endTime": 236270,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "一",
+        "startTime": 236270,
+        "endTime": 236360,
+        "pinyin": "yī"
+      },
+      {
+        "token": "方",
+        "startTime": 236360,
+        "endTime": 236450,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "的",
+        "startTime": 236450,
+        "endTime": 236570,
+        "pinyin": "de"
+      },
+      {
+        "token": "问",
+        "startTime": 236570,
+        "endTime": 236720,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "题",
+        "startTime": 236720,
+        "endTime": 236870,
+        "pinyin": "tí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "对方 想 从 你们 的 关系 中 得到 不 一样 的 东西",
+    "translations": {
+      "en": "The other person wants something different from your relationship,"
+    },
+    "segments": [
+      {
+        "token": "对",
+        "startTime": 236870,
+        "endTime": 237090,
+        "pinyin": "duì"
+      },
+      {
+        "token": "方",
+        "startTime": 237090,
+        "endTime": 237310,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "想",
+        "startTime": 237310,
+        "endTime": 237450,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "从",
+        "startTime": 237450,
+        "endTime": 237630,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "你",
+        "startTime": 237630,
+        "endTime": 237740,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "们",
+        "startTime": 237740,
+        "endTime": 237850,
+        "pinyin": "men"
+      },
+      {
+        "token": "的",
+        "startTime": 237850,
+        "endTime": 237970,
+        "pinyin": "de"
+      },
+      {
+        "token": "关",
+        "startTime": 237970,
+        "endTime": 238540,
+        "pinyin": "guān"
+      },
+      {
+        "token": "系",
+        "startTime": 238540,
+        "endTime": 239110,
+        "pinyin": "xì"
+      },
+      {
+        "token": "中",
+        "startTime": 239110,
+        "endTime": 239310,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "得",
+        "startTime": 239310,
+        "endTime": 239420,
+        "pinyin": "dé"
+      },
+      {
+        "token": "到",
+        "startTime": 239420,
+        "endTime": 239530,
+        "pinyin": "dào"
+      },
+      {
+        "token": "不",
+        "startTime": 239530,
+        "endTime": 239730,
+        "pinyin": "bù"
+      },
+      {
+        "token": "一",
+        "startTime": 239730,
+        "endTime": 239860,
+        "pinyin": "yí"
+      },
+      {
+        "token": "样",
+        "startTime": 239860,
+        "endTime": 239990,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "的",
+        "startTime": 239990,
+        "endTime": 240150,
+        "pinyin": "de"
+      },
+      {
+        "token": "东",
+        "startTime": 240150,
+        "endTime": 240330,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "西",
+        "startTime": 240330,
+        "endTime": 240510,
+        "pinyin": "xī"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而且 他们 想要 的 可能 是 不合理 的 不 公正 的",
+    "translations": {
+      "en": "and what they want may be unreasonable, unfair,"
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 240510,
+        "endTime": 240680,
+        "pinyin": "ér"
+      },
+      {
+        "token": "且",
+        "startTime": 240680,
+        "endTime": 240850,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "他",
+        "startTime": 240850,
+        "endTime": 241080,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 241080,
+        "endTime": 241310,
+        "pinyin": "men"
+      },
+      {
+        "token": "想",
+        "startTime": 241310,
+        "endTime": 241530,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "要",
+        "startTime": 241530,
+        "endTime": 241750,
+        "pinyin": "yào"
+      },
+      {
+        "token": "的",
+        "startTime": 241750,
+        "endTime": 241810,
+        "pinyin": "de"
+      },
+      {
+        "token": "可",
+        "startTime": 241810,
+        "endTime": 242050,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 242050,
+        "endTime": 242290,
+        "pinyin": "néng"
+      },
+      {
+        "token": "是",
+        "startTime": 242290,
+        "endTime": 242630,
+        "pinyin": "shì"
+      },
+      {
+        "token": "不",
+        "startTime": 242630,
+        "endTime": 242790,
+        "pinyin": "bù"
+      },
+      {
+        "token": "合",
+        "startTime": 242790,
+        "endTime": 242950,
+        "pinyin": "hé"
+      },
+      {
+        "token": "理",
+        "startTime": 242950,
+        "endTime": 243110,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 243110,
+        "endTime": 243250,
+        "pinyin": "de"
+      },
+      {
+        "token": "不",
+        "startTime": 243250,
+        "endTime": 243390,
+        "pinyin": "bù"
+      },
+      {
+        "token": "公",
+        "startTime": 243390,
+        "endTime": 243540,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "正",
+        "startTime": 243540,
+        "endTime": 243690,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "的",
+        "startTime": 243690,
+        "endTime": 244790,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "或者 根本 不是 你 能 给予 的",
+    "translations": {
+      "en": "or simply not something you can give."
+    },
+    "segments": [
+      {
+        "token": "或",
+        "startTime": 244790,
+        "endTime": 244800,
+        "pinyin": "huò"
+      },
+      {
+        "token": "者",
+        "startTime": 244800,
+        "endTime": 244810,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "根",
+        "startTime": 244810,
+        "endTime": 245280,
+        "pinyin": "gēn"
+      },
+      {
+        "token": "本",
+        "startTime": 245280,
+        "endTime": 245750,
+        "pinyin": "běn"
+      },
+      {
+        "token": "不",
+        "startTime": 245750,
+        "endTime": 245920,
+        "pinyin": "bú"
+      },
+      {
+        "token": "是",
+        "startTime": 245920,
+        "endTime": 246090,
+        "pinyin": "shì"
+      },
+      {
+        "token": "你",
+        "startTime": 246090,
+        "endTime": 246230,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "能",
+        "startTime": 246230,
+        "endTime": 246430,
+        "pinyin": "néng"
+      },
+      {
+        "token": "给",
+        "startTime": 246430,
+        "endTime": 246570,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "予",
+        "startTime": 246570,
+        "endTime": 246710,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "的",
+        "startTime": 246710,
+        "endTime": 246810,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "第二 他们 的 拒绝 并 不 代表 你 有 问题",
+    "translations": {
+      "en": "Second, their rejection doesn’t mean something is wrong with you."
+    },
+    "segments": [
+      {
+        "token": "第",
+        "startTime": 246810,
+        "endTime": 246960,
+        "pinyin": "dì"
+      },
+      {
+        "token": "二",
+        "startTime": 246960,
+        "endTime": 247110,
+        "pinyin": "èr"
+      },
+      {
+        "token": "他",
+        "startTime": 247110,
+        "endTime": 247940,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 247940,
+        "endTime": 248770,
+        "pinyin": "men"
+      },
+      {
+        "token": "的",
+        "startTime": 248770,
+        "endTime": 248930,
+        "pinyin": "de"
+      },
+      {
+        "token": "拒",
+        "startTime": 248930,
+        "endTime": 249080,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 249080,
+        "endTime": 249230,
+        "pinyin": "jué"
+      },
+      {
+        "token": "并",
+        "startTime": 249230,
+        "endTime": 249390,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "不",
+        "startTime": 249390,
+        "endTime": 249490,
+        "pinyin": "bù"
+      },
+      {
+        "token": "代",
+        "startTime": 249490,
+        "endTime": 249490,
+        "pinyin": "dài"
+      },
+      {
+        "token": "表",
+        "startTime": 249490,
+        "endTime": 249490,
+        "pinyin": "biǎo"
+      },
+      {
+        "token": "你",
+        "startTime": 249490,
+        "endTime": 250310,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "有",
+        "startTime": 250310,
+        "endTime": 250470,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "问",
+        "startTime": 250470,
+        "endTime": 250640,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "题",
+        "startTime": 250640,
+        "endTime": 250810,
+        "pinyin": "tí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 感受 到 的 痛苦 只是 与 之 相关 的 一个 系统",
+    "translations": {
+      "en": "The pain you feel is part of a system"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 250810,
+        "endTime": 250990,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "感",
+        "startTime": 250990,
+        "endTime": 251160,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "受",
+        "startTime": 251160,
+        "endTime": 251330,
+        "pinyin": "shòu"
+      },
+      {
+        "token": "到",
+        "startTime": 251330,
+        "endTime": 251550,
+        "pinyin": "dào"
+      },
+      {
+        "token": "的",
+        "startTime": 251550,
+        "endTime": 251950,
+        "pinyin": "de"
+      },
+      {
+        "token": "痛",
+        "startTime": 251950,
+        "endTime": 252130,
+        "pinyin": "tòng"
+      },
+      {
+        "token": "苦",
+        "startTime": 252130,
+        "endTime": 252310,
+        "pinyin": "kǔ"
+      },
+      {
+        "token": "只",
+        "startTime": 252310,
+        "endTime": 252520,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 252520,
+        "endTime": 252730,
+        "pinyin": "shì"
+      },
+      {
+        "token": "与",
+        "startTime": 252730,
+        "endTime": 252930,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "之",
+        "startTime": 252930,
+        "endTime": 253070,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "相",
+        "startTime": 253070,
+        "endTime": 253200,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "关",
+        "startTime": 253200,
+        "endTime": 253330,
+        "pinyin": "guān"
+      },
+      {
+        "token": "的",
+        "startTime": 253330,
+        "endTime": 253490,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 253490,
+        "endTime": 253630,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 253630,
+        "endTime": 253770,
+        "pinyin": "gè"
+      },
+      {
+        "token": "系",
+        "startTime": 253770,
+        "endTime": 254790,
+        "pinyin": "xì"
+      },
+      {
+        "token": "统",
+        "startTime": 254790,
+        "endTime": 255810,
+        "pinyin": "tǒng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 促使 你 思考 你 的 人际关系",
+    "translations": {
+      "en": "that’s prompting you to think about your relationships."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 255810,
+        "endTime": 255910,
+        "pinyin": "zài"
+      },
+      {
+        "token": "促",
+        "startTime": 255910,
+        "endTime": 256200,
+        "pinyin": "cù"
+      },
+      {
+        "token": "使",
+        "startTime": 256200,
+        "endTime": 256490,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "你",
+        "startTime": 256490,
+        "endTime": 256690,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "思",
+        "startTime": 256690,
+        "endTime": 256890,
+        "pinyin": "sī"
+      },
+      {
+        "token": "考",
+        "startTime": 256890,
+        "endTime": 257090,
+        "pinyin": "kǎo"
+      },
+      {
+        "token": "你",
+        "startTime": 257090,
+        "endTime": 257290,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 257290,
+        "endTime": 257490,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 257490,
+        "endTime": 257630,
+        "pinyin": "rén"
+      },
+      {
+        "token": "际",
+        "startTime": 257630,
+        "endTime": 257770,
+        "pinyin": "jì"
+      },
+      {
+        "token": "关",
+        "startTime": 257770,
+        "endTime": 257910,
+        "pinyin": "guān"
+      },
+      {
+        "token": "系",
+        "startTime": 257910,
+        "endTime": 258050,
+        "pinyin": "xì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 可以 找到 线索 帮助 你 更好 地 理解 这次 拒绝",
+    "translations": {
+      "en": "You can find clues to better understand this rejection"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 258050,
+        "endTime": 258157,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "可",
+        "startTime": 258157,
+        "endTime": 258263,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 258263,
+        "endTime": 258370,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "找",
+        "startTime": 258370,
+        "endTime": 258610,
+        "pinyin": "zhǎo"
+      },
+      {
+        "token": "到",
+        "startTime": 258610,
+        "endTime": 258850,
+        "pinyin": "dào"
+      },
+      {
+        "token": "线",
+        "startTime": 258850,
+        "endTime": 259230,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "索",
+        "startTime": 259230,
+        "endTime": 259610,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "帮",
+        "startTime": 259610,
+        "endTime": 259780,
+        "pinyin": "bāng"
+      },
+      {
+        "token": "助",
+        "startTime": 259780,
+        "endTime": 259950,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "你",
+        "startTime": 259950,
+        "endTime": 260110,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "更",
+        "startTime": 260110,
+        "endTime": 260270,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "好",
+        "startTime": 260270,
+        "endTime": 260430,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "地",
+        "startTime": 260430,
+        "endTime": 260550,
+        "pinyin": "dì"
+      },
+      {
+        "token": "理",
+        "startTime": 260550,
+        "endTime": 260710,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "解",
+        "startTime": 260710,
+        "endTime": 260870,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "这",
+        "startTime": 260870,
+        "endTime": 261030,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "次",
+        "startTime": 261030,
+        "endTime": 261190,
+        "pinyin": "cì"
+      },
+      {
+        "token": "拒",
+        "startTime": 261190,
+        "endTime": 261710,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 261710,
+        "endTime": 262230,
+        "pinyin": "jué"
+      }
+    ]
+  },
+  {
+    "sentence_text": "并 批判性 地 思考 你 想 和 这个 人 建立 什么样 的 关系",
+    "translations": {
+      "en": "and critically consider what kind of relationship you want with this person."
+    },
+    "segments": [
+      {
+        "token": "并",
+        "startTime": 262230,
+        "endTime": 262410,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "批",
+        "startTime": 262410,
+        "endTime": 262603,
+        "pinyin": "pī"
+      },
+      {
+        "token": "判",
+        "startTime": 262603,
+        "endTime": 262797,
+        "pinyin": "pàn"
+      },
+      {
+        "token": "性",
+        "startTime": 262797,
+        "endTime": 262990,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "地",
+        "startTime": 262990,
+        "endTime": 263090,
+        "pinyin": "dì"
+      },
+      {
+        "token": "思",
+        "startTime": 263090,
+        "endTime": 263380,
+        "pinyin": "sī"
+      },
+      {
+        "token": "考",
+        "startTime": 263380,
+        "endTime": 263670,
+        "pinyin": "kǎo"
+      },
+      {
+        "token": "你",
+        "startTime": 263670,
+        "endTime": 264010,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "想",
+        "startTime": 264010,
+        "endTime": 264250,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "和",
+        "startTime": 264250,
+        "endTime": 264510,
+        "pinyin": "hé"
+      },
+      {
+        "token": "这",
+        "startTime": 264510,
+        "endTime": 264680,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "个",
+        "startTime": 264680,
+        "endTime": 264850,
+        "pinyin": "ge"
+      },
+      {
+        "token": "人",
+        "startTime": 264850,
+        "endTime": 264930,
+        "pinyin": "rén"
+      },
+      {
+        "token": "建",
+        "startTime": 264930,
+        "endTime": 265040,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "立",
+        "startTime": 265040,
+        "endTime": 265150,
+        "pinyin": "lì"
+      },
+      {
+        "token": "什",
+        "startTime": 265150,
+        "endTime": 265290,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 265290,
+        "endTime": 265430,
+        "pinyin": "me"
+      },
+      {
+        "token": "样",
+        "startTime": 265430,
+        "endTime": 265570,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "的",
+        "startTime": 265570,
+        "endTime": 267050,
+        "pinyin": "de"
+      },
+      {
+        "token": "关",
+        "startTime": 267050,
+        "endTime": 267220,
+        "pinyin": "guān"
+      },
+      {
+        "token": "系",
+        "startTime": 267220,
+        "endTime": 267390,
+        "pinyin": "xì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "每 段 关系 和 每次 拒绝 都 是 独一无二 的",
+    "translations": {
+      "en": "Every relationship and every rejection is unique,"
+    },
+    "segments": [
+      {
+        "token": "每",
+        "startTime": 267390,
+        "endTime": 267630,
+        "pinyin": "měi"
+      },
+      {
+        "token": "段",
+        "startTime": 267630,
+        "endTime": 267810,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "关",
+        "startTime": 267810,
+        "endTime": 267970,
+        "pinyin": "guān"
+      },
+      {
+        "token": "系",
+        "startTime": 267970,
+        "endTime": 268130,
+        "pinyin": "xì"
+      },
+      {
+        "token": "和",
+        "startTime": 268130,
+        "endTime": 268270,
+        "pinyin": "hé"
+      },
+      {
+        "token": "每",
+        "startTime": 268270,
+        "endTime": 268440,
+        "pinyin": "měi"
+      },
+      {
+        "token": "次",
+        "startTime": 268440,
+        "endTime": 268610,
+        "pinyin": "cì"
+      },
+      {
+        "token": "拒",
+        "startTime": 268610,
+        "endTime": 268730,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 268730,
+        "endTime": 268850,
+        "pinyin": "jué"
+      },
+      {
+        "token": "都",
+        "startTime": 268850,
+        "endTime": 269110,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "是",
+        "startTime": 269110,
+        "endTime": 269270,
+        "pinyin": "shì"
+      },
+      {
+        "token": "独",
+        "startTime": 269270,
+        "endTime": 269575,
+        "pinyin": "dú"
+      },
+      {
+        "token": "一",
+        "startTime": 269575,
+        "endTime": 269880,
+        "pinyin": "yī"
+      },
+      {
+        "token": "无",
+        "startTime": 269880,
+        "endTime": 270185,
+        "pinyin": "wú"
+      },
+      {
+        "token": "二",
+        "startTime": 270185,
+        "endTime": 270490,
+        "pinyin": "èr"
+      },
+      {
+        "token": "的",
+        "startTime": 270490,
+        "endTime": 270610,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 无论 具体情况 如何",
+    "translations": {
+      "en": "but no matter the specifics,"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 270610,
+        "endTime": 270730,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "无",
+        "startTime": 270730,
+        "endTime": 270890,
+        "pinyin": "wú"
+      },
+      {
+        "token": "论",
+        "startTime": 270890,
+        "endTime": 271050,
+        "pinyin": "lùn"
+      },
+      {
+        "token": "具",
+        "startTime": 271050,
+        "endTime": 271290,
+        "pinyin": "jù"
+      },
+      {
+        "token": "体",
+        "startTime": 271290,
+        "endTime": 271530,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "情",
+        "startTime": 271530,
+        "endTime": 271770,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 271770,
+        "endTime": 272010,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "如",
+        "startTime": 272010,
+        "endTime": 272160,
+        "pinyin": "rú"
+      },
+      {
+        "token": "何",
+        "startTime": 272160,
+        "endTime": 272310,
+        "pinyin": "hé"
+      }
+    ]
+  },
+  {
+    "sentence_text": "重要 的 是 要 记住 不是 只有 你 一个 人 在 经历 这些",
+    "translations": {
+      "en": "it’s important to remember you’re not alone in this."
+    },
+    "segments": [
+      {
+        "token": "重",
+        "startTime": 272310,
+        "endTime": 272430,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "要",
+        "startTime": 272430,
+        "endTime": 272550,
+        "pinyin": "yào"
+      },
+      {
+        "token": "的",
+        "startTime": 272550,
+        "endTime": 272670,
+        "pinyin": "de"
+      },
+      {
+        "token": "是",
+        "startTime": 272670,
+        "endTime": 272850,
+        "pinyin": "shì"
+      },
+      {
+        "token": "要",
+        "startTime": 272850,
+        "endTime": 272990,
+        "pinyin": "yào"
+      },
+      {
+        "token": "记",
+        "startTime": 272990,
+        "endTime": 273430,
+        "pinyin": "jì"
+      },
+      {
+        "token": "住",
+        "startTime": 273430,
+        "endTime": 273870,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "不",
+        "startTime": 273870,
+        "endTime": 274030,
+        "pinyin": "bú"
+      },
+      {
+        "token": "是",
+        "startTime": 274030,
+        "endTime": 274190,
+        "pinyin": "shì"
+      },
+      {
+        "token": "只",
+        "startTime": 274190,
+        "endTime": 274430,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "有",
+        "startTime": 274430,
+        "endTime": 274670,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "你",
+        "startTime": 274670,
+        "endTime": 274850,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "一",
+        "startTime": 274850,
+        "endTime": 275000,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 275000,
+        "endTime": 275150,
+        "pinyin": "gè"
+      },
+      {
+        "token": "人",
+        "startTime": 275150,
+        "endTime": 275250,
+        "pinyin": "rén"
+      },
+      {
+        "token": "在",
+        "startTime": 275250,
+        "endTime": 275430,
+        "pinyin": "zài"
+      },
+      {
+        "token": "经",
+        "startTime": 275430,
+        "endTime": 276000,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "历",
+        "startTime": 276000,
+        "endTime": 276570,
+        "pinyin": "lì"
+      },
+      {
+        "token": "这",
+        "startTime": 276570,
+        "endTime": 276690,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 276690,
+        "endTime": 276810,
+        "pinyin": "xiē"
+      }
+    ]
+  },
+  {
+    "sentence_text": "每个 人 一生 中 都 会 遇到 被 拒绝 的 情况",
+    "translations": {
+      "en": "Everyone faces rejection in their life,"
+    },
+    "segments": [
+      {
+        "token": "每",
+        "startTime": 276810,
+        "endTime": 276990,
+        "pinyin": "měi"
+      },
+      {
+        "token": "个",
+        "startTime": 276990,
+        "endTime": 277170,
+        "pinyin": "gè"
+      },
+      {
+        "token": "人",
+        "startTime": 277170,
+        "endTime": 277330,
+        "pinyin": "rén"
+      },
+      {
+        "token": "一",
+        "startTime": 277330,
+        "endTime": 277580,
+        "pinyin": "yī"
+      },
+      {
+        "token": "生",
+        "startTime": 277580,
+        "endTime": 277830,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "中",
+        "startTime": 277830,
+        "endTime": 277910,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "都",
+        "startTime": 277910,
+        "endTime": 278050,
+        "pinyin": "dū"
+      },
+      {
+        "token": "会",
+        "startTime": 278050,
+        "endTime": 278190,
+        "pinyin": "huì"
+      },
+      {
+        "token": "遇",
+        "startTime": 278190,
+        "endTime": 278360,
+        "pinyin": "yù"
+      },
+      {
+        "token": "到",
+        "startTime": 278360,
+        "endTime": 278530,
+        "pinyin": "dào"
+      },
+      {
+        "token": "被",
+        "startTime": 278530,
+        "endTime": 278650,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "拒",
+        "startTime": 278650,
+        "endTime": 279110,
+        "pinyin": "jù"
+      },
+      {
+        "token": "绝",
+        "startTime": 279110,
+        "endTime": 279570,
+        "pinyin": "jué"
+      },
+      {
+        "token": "的",
+        "startTime": 279570,
+        "endTime": 279750,
+        "pinyin": "de"
+      },
+      {
+        "token": "情",
+        "startTime": 279750,
+        "endTime": 279880,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 279880,
+        "endTime": 280010,
+        "pinyin": "kuàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "即使 是 那些 看起来 对 自己 所处 的 关系 充满信心 的 人",
+    "translations": {
+      "en": "even those who seem confident in their relationships."
+    },
+    "segments": [
+      {
+        "token": "即",
+        "startTime": 280010,
+        "endTime": 280140,
+        "pinyin": "jí"
+      },
+      {
+        "token": "使",
+        "startTime": 280140,
+        "endTime": 280270,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 280270,
+        "endTime": 280470,
+        "pinyin": "shì"
+      },
+      {
+        "token": "那",
+        "startTime": 280470,
+        "endTime": 280470,
+        "pinyin": "nà"
+      },
+      {
+        "token": "些",
+        "startTime": 280470,
+        "endTime": 280470,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "看",
+        "startTime": 280470,
+        "endTime": 280730,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "起",
+        "startTime": 280730,
+        "endTime": 280990,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "来",
+        "startTime": 280990,
+        "endTime": 281250,
+        "pinyin": "lái"
+      },
+      {
+        "token": "对",
+        "startTime": 281250,
+        "endTime": 281550,
+        "pinyin": "duì"
+      },
+      {
+        "token": "自",
+        "startTime": 281550,
+        "endTime": 281680,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 281680,
+        "endTime": 281810,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "所",
+        "startTime": 281810,
+        "endTime": 281970,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "处",
+        "startTime": 281970,
+        "endTime": 282130,
+        "pinyin": "chù"
+      },
+      {
+        "token": "的",
+        "startTime": 282130,
+        "endTime": 282310,
+        "pinyin": "de"
+      },
+      {
+        "token": "关",
+        "startTime": 282310,
+        "endTime": 282480,
+        "pinyin": "guān"
+      },
+      {
+        "token": "系",
+        "startTime": 282480,
+        "endTime": 282650,
+        "pinyin": "xì"
+      },
+      {
+        "token": "充",
+        "startTime": 282650,
+        "endTime": 282970,
+        "pinyin": "chōng"
+      },
+      {
+        "token": "满",
+        "startTime": 282970,
+        "endTime": 283290,
+        "pinyin": "mǎn"
+      },
+      {
+        "token": "信",
+        "startTime": 283290,
+        "endTime": 283610,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "心",
+        "startTime": 283610,
+        "endTime": 283930,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "的",
+        "startTime": 283930,
+        "endTime": 284110,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 284110,
+        "endTime": 284190,
+        "pinyin": "rén"
+      }
+    ]
+  },
+  {
+    "sentence_text": "要 应对 这种 普遍 经历 最 常见 的 一个 方法",
+    "translations": {
+      "en": "One of the most common ways to cope with this universal experience"
+    },
+    "segments": [
+      {
+        "token": "要",
+        "startTime": 284190,
+        "endTime": 284370,
+        "pinyin": "yào"
+      },
+      {
+        "token": "应",
+        "startTime": 284370,
+        "endTime": 284510,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "对",
+        "startTime": 284510,
+        "endTime": 284650,
+        "pinyin": "duì"
+      },
+      {
+        "token": "这",
+        "startTime": 284650,
+        "endTime": 284840,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 284840,
+        "endTime": 285030,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "普",
+        "startTime": 285030,
+        "endTime": 285290,
+        "pinyin": "pǔ"
+      },
+      {
+        "token": "遍",
+        "startTime": 285290,
+        "endTime": 285550,
+        "pinyin": "biàn"
+      },
+      {
+        "token": "经",
+        "startTime": 285550,
+        "endTime": 285750,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "历",
+        "startTime": 285750,
+        "endTime": 285950,
+        "pinyin": "lì"
+      },
+      {
+        "token": "最",
+        "startTime": 285950,
+        "endTime": 286110,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "常",
+        "startTime": 286110,
+        "endTime": 286170,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "见",
+        "startTime": 286170,
+        "endTime": 286230,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "的",
+        "startTime": 286230,
+        "endTime": 286450,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 286450,
+        "endTime": 286830,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 286830,
+        "endTime": 287210,
+        "pinyin": "gè"
+      },
+      {
+        "token": "方",
+        "startTime": 287210,
+        "endTime": 287360,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "法",
+        "startTime": 287360,
+        "endTime": 287510,
+        "pinyin": "fǎ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "就是 与 那些 已经 接受 你 的 人 重新 建立联系",
+    "translations": {
+      "en": "is to reconnect with those who already accept you."
+    },
+    "segments": [
+      {
+        "token": "就",
+        "startTime": 287510,
+        "endTime": 287690,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "是",
+        "startTime": 287690,
+        "endTime": 287870,
+        "pinyin": "shì"
+      },
+      {
+        "token": "与",
+        "startTime": 287870,
+        "endTime": 288150,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "那",
+        "startTime": 288150,
+        "endTime": 288350,
+        "pinyin": "nà"
+      },
+      {
+        "token": "些",
+        "startTime": 288350,
+        "endTime": 288550,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "已",
+        "startTime": 288550,
+        "endTime": 288760,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "经",
+        "startTime": 288760,
+        "endTime": 288970,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "接",
+        "startTime": 288970,
+        "endTime": 289220,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "受",
+        "startTime": 289220,
+        "endTime": 289470,
+        "pinyin": "shòu"
+      },
+      {
+        "token": "你",
+        "startTime": 289470,
+        "endTime": 289590,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 289590,
+        "endTime": 289890,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 289890,
+        "endTime": 291730,
+        "pinyin": "rén"
+      },
+      {
+        "token": "重",
+        "startTime": 291730,
+        "endTime": 291920,
+        "pinyin": "chóng"
+      },
+      {
+        "token": "新",
+        "startTime": 291920,
+        "endTime": 292110,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "建",
+        "startTime": 292110,
+        "endTime": 292230,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "立",
+        "startTime": 292230,
+        "endTime": 292350,
+        "pinyin": "lì"
+      },
+      {
+        "token": "联",
+        "startTime": 292350,
+        "endTime": 292470,
+        "pinyin": "lián"
+      },
+      {
+        "token": "系",
+        "startTime": 292470,
+        "endTime": 292590,
+        "pinyin": "xì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "订阅 我们 的 频道 或是 观看 这些 视频",
+    "translations": {
+      "en": "Subscribe to our channel or watch these videos"
+    },
+    "segments": [
+      {
+        "token": "订",
+        "startTime": 292590,
+        "endTime": 292990,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "阅",
+        "startTime": 292990,
+        "endTime": 293390,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "我",
+        "startTime": 293390,
+        "endTime": 293560,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 293560,
+        "endTime": 293730,
+        "pinyin": "men"
+      },
+      {
+        "token": "的",
+        "startTime": 293730,
+        "endTime": 293950,
+        "pinyin": "de"
+      },
+      {
+        "token": "频",
+        "startTime": 293950,
+        "endTime": 294110,
+        "pinyin": "pín"
+      },
+      {
+        "token": "道",
+        "startTime": 294110,
+        "endTime": 294270,
+        "pinyin": "dào"
+      },
+      {
+        "token": "或",
+        "startTime": 294270,
+        "endTime": 294770,
+        "pinyin": "huò"
+      },
+      {
+        "token": "是",
+        "startTime": 294770,
+        "endTime": 295270,
+        "pinyin": "shì"
+      },
+      {
+        "token": "观",
+        "startTime": 295270,
+        "endTime": 295450,
+        "pinyin": "guān"
+      },
+      {
+        "token": "看",
+        "startTime": 295450,
+        "endTime": 295630,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "这",
+        "startTime": 295630,
+        "endTime": 295820,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 295820,
+        "endTime": 296010,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "视",
+        "startTime": 296010,
+        "endTime": 296200,
+        "pinyin": "shì"
+      },
+      {
+        "token": "频",
+        "startTime": 296200,
+        "endTime": 296390,
+        "pinyin": "pín"
+      }
+    ]
+  },
+  {
+    "sentence_text": "为 脑子 补充 营养 的 同时 了解 它 的 运行 原理",
+    "translations": {
+      "en": "to nourish your mind and understand how it works."
+    },
+    "segments": [
+      {
+        "token": "为",
+        "startTime": 296390,
+        "endTime": 296490,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "脑",
+        "startTime": 296490,
+        "endTime": 296650,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "子",
+        "startTime": 296650,
+        "endTime": 296810,
+        "pinyin": "zi"
+      },
+      {
+        "token": "补",
+        "startTime": 296810,
+        "endTime": 297140,
+        "pinyin": "bǔ"
+      },
+      {
+        "token": "充",
+        "startTime": 297140,
+        "endTime": 297470,
+        "pinyin": "chōng"
+      },
+      {
+        "token": "营",
+        "startTime": 297470,
+        "endTime": 297740,
+        "pinyin": "yíng"
+      },
+      {
+        "token": "养",
+        "startTime": 297740,
+        "endTime": 298010,
+        "pinyin": "yǎng"
+      },
+      {
+        "token": "的",
+        "startTime": 298010,
+        "endTime": 298330,
+        "pinyin": "de"
+      },
+      {
+        "token": "同",
+        "startTime": 298330,
+        "endTime": 298550,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "时",
+        "startTime": 298550,
+        "endTime": 298770,
+        "pinyin": "shí"
+      },
+      {
+        "token": "了",
+        "startTime": 298770,
+        "endTime": 299250,
+        "pinyin": "liǎo"
+      },
+      {
+        "token": "解",
+        "startTime": 299250,
+        "endTime": 299730,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "它",
+        "startTime": 299730,
+        "endTime": 299870,
+        "pinyin": "tā"
+      },
+      {
+        "token": "的",
+        "startTime": 299870,
+        "endTime": 300030,
+        "pinyin": "de"
+      },
+      {
+        "token": "运",
+        "startTime": 300030,
+        "endTime": 300300,
+        "pinyin": "yùn"
+      },
+      {
+        "token": "行",
+        "startTime": 300300,
+        "endTime": 300570,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "原",
+        "startTime": 300570,
+        "endTime": 300880,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "理",
+        "startTime": 300880,
+        "endTime": 301190,
+        "pinyin": "lǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "您 的 大脑",
+    "translations": {
+      "en": "Your brain"
+    },
+    "segments": [
+      {
+        "token": "您",
+        "startTime": 301190,
+        "endTime": 301470,
+        "pinyin": "nín"
+      },
+      {
+        "token": "的",
+        "startTime": 301470,
+        "endTime": 301790,
+        "pinyin": "de"
+      },
+      {
+        "token": "大",
+        "startTime": 301790,
+        "endTime": 301870,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 301870,
+        "endTime": 301950,
+        "pinyin": "nǎo"
+      }
+    ]
+  }
+]
