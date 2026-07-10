@@ -1,39 +1,208 @@
 [
   {
-    "sentence_text": "Musique seule dans le une danse",
+    "sentence_text": "Oh ma douce souffrance",
     "translations": {
-      "en": "Music alone in the dance"
+      "en": "Oh my sweet suffering"
     },
     "segments": [
       {
-        "token": "Musique",
-        "startTime": 0,
-        "endTime": 30000
+        "token": "Oh",
+        "startTime": 16080,
+        "endTime": 16840
       },
       {
-        "token": "Déambule",
-        "startTime": 30000,
-        "endTime": 30800
+        "token": "ma",
+        "startTime": 16840,
+        "endTime": 17600
+      },
+      {
+        "token": "douce",
+        "startTime": 17600,
+        "endTime": 18360
+      },
+      {
+        "token": "souffrance",
+        "startTime": 18360,
+        "endTime": 19120
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pourquoi s'acharner?",
+    "translations": {
+      "en": "Why keep at it?"
+    },
+    "segments": [
+      {
+        "token": "Pourquoi",
+        "startTime": 19120,
+        "endTime": 20010
+      },
+      {
+        "token": "s'acharner?",
+        "startTime": 20010,
+        "endTime": 20900
+      }
+    ]
+  },
+  {
+    "sentence_text": "Tu recommences",
+    "translations": {
+      "en": "You start again"
+    },
+    "segments": [
+      {
+        "token": "Tu",
+        "startTime": 20900,
+        "endTime": 21790
+      },
+      {
+        "token": "recommences",
+        "startTime": 21790,
+        "endTime": 23400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je ne suis qu'un être sans importance",
+    "translations": {
+      "en": "I'm just a being of no importance"
+    },
+    "segments": [
+      {
+        "token": "Je",
+        "startTime": 23400,
+        "endTime": 23886
+      },
+      {
+        "token": "ne",
+        "startTime": 23886,
+        "endTime": 24371
+      },
+      {
+        "token": "suis",
+        "startTime": 24371,
+        "endTime": 24857
+      },
+      {
+        "token": "qu'un",
+        "startTime": 24857,
+        "endTime": 25343
+      },
+      {
+        "token": "être",
+        "startTime": 25343,
+        "endTime": 25829
+      },
+      {
+        "token": "sans",
+        "startTime": 25829,
+        "endTime": 26314
+      },
+      {
+        "token": "importance",
+        "startTime": 26314,
+        "endTime": 27440
+      }
+    ]
+  },
+  {
+    "sentence_text": "Sans lui, je suis un peu paro",
+    "translations": {
+      "en": "Without him, I'm a bit lost"
+    },
+    "segments": [
+      {
+        "token": "Sans",
+        "startTime": 27440,
+        "endTime": 27777
+      },
+      {
+        "token": "lui,",
+        "startTime": 27777,
+        "endTime": 28114
+      },
+      {
+        "token": "je",
+        "startTime": 28114,
+        "endTime": 28451
+      },
+      {
+        "token": "suis",
+        "startTime": 28451,
+        "endTime": 28789
+      },
+      {
+        "token": "un",
+        "startTime": 28789,
+        "endTime": 29126
+      },
+      {
+        "token": "peu",
+        "startTime": 29126,
+        "endTime": 29463
+      },
+      {
+        "token": "paro",
+        "startTime": 29463,
+        "endTime": 29800
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je déambule seule dans le métro",
+    "translations": {},
+    "segments": [
+      {
+        "token": "Je",
+        "startTime": 29800,
+        "endTime": 30267
+      },
+      {
+        "token": "déambule",
+        "startTime": 30267,
+        "endTime": 30733
       },
       {
         "token": "seule",
-        "startTime": 30800,
-        "endTime": 31160
+        "startTime": 30733,
+        "endTime": 31200
       },
       {
         "token": "dans",
-        "startTime": 31160,
-        "endTime": 31420
+        "startTime": 31200,
+        "endTime": 31667
       },
       {
         "token": "le",
-        "startTime": 31420,
-        "endTime": 31560
+        "startTime": 31667,
+        "endTime": 32133
       },
       {
-        "token": "métro,",
-        "startTime": 31560,
-        "endTime": 32119
+        "token": "métro",
+        "startTime": 32133,
+        "endTime": 32600
+      }
+    ]
+  },
+  {
+    "sentence_text": "Une dernière danse",
+    "translations": {},
+    "segments": [
+      {
+        "token": "Une",
+        "startTime": 32600,
+        "endTime": 33453
+      },
+      {
+        "token": "dernière",
+        "startTime": 33453,
+        "endTime": 34307
+      },
+      {
+        "token": "danse",
+        "startTime": 34307,
+        "endTime": 35160
       }
     ]
   },
@@ -44,67 +213,67 @@
     },
     "segments": [
       {
-        "token": "une",
-        "startTime": 32119,
-        "endTime": 32960
-      },
-      {
-        "token": "dernière",
-        "startTime": 32960,
-        "endTime": 33420
-      },
-      {
-        "token": "danse",
-        "startTime": 33420,
-        "endTime": 35720
-      },
-      {
         "token": "Pour",
-        "startTime": 35720,
-        "endTime": 36140
+        "startTime": 35880,
+        "endTime": 36592
       },
       {
         "token": "oublier",
-        "startTime": 36140,
-        "endTime": 36680
+        "startTime": 36592,
+        "endTime": 37304
+      },
+      {
+        "token": "ma",
+        "startTime": 37304,
+        "endTime": 38016
+      },
+      {
+        "token": "peine",
+        "startTime": 38016,
+        "endTime": 38728
+      },
+      {
+        "token": "immense",
+        "startTime": 38728,
+        "endTime": 40160
       }
     ]
   },
   {
-    "sentence_text": "Je veux m'enfuir, que tout recommence",
+    "sentence_text": "Je veux m'enfuir que tout recommence",
     "translations": {
-      "en": "I want to run away, let it all start over"
+      "en": "I want to run away, let it all start again"
     },
     "segments": [
       {
-        "token": "ma",
-        "startTime": 36680,
-        "endTime": 37040
-      },
-      {
-        "token": "peine",
-        "startTime": 37040,
-        "endTime": 37460
-      },
-      {
-        "token": "immense",
-        "startTime": 37460,
-        "endTime": 40100
-      },
-      {
         "token": "Je",
-        "startTime": 40100,
-        "endTime": 40280
+        "startTime": 40160,
+        "endTime": 40813
       },
       {
         "token": "veux",
-        "startTime": 40280,
-        "endTime": 40420
+        "startTime": 40813,
+        "endTime": 41467
       },
       {
-        "token": "m'enfuir,",
-        "startTime": 40420,
-        "endTime": 41380
+        "token": "m'enfuir",
+        "startTime": 41467,
+        "endTime": 42120
+      },
+      {
+        "token": "que",
+        "startTime": 42120,
+        "endTime": 42773
+      },
+      {
+        "token": "tout",
+        "startTime": 42773,
+        "endTime": 43427
+      },
+      {
+        "token": "recommence",
+        "startTime": 43427,
+        "endTime": 44080
       }
     ]
   },
@@ -115,24 +284,24 @@
     },
     "segments": [
       {
-        "token": "que",
-        "startTime": 41380,
-        "endTime": 41440
-      },
-      {
-        "token": "tout",
-        "startTime": 41440,
-        "endTime": 41680
-      },
-      {
-        "token": "recommence",
-        "startTime": 41680,
-        "endTime": 44200
-      },
-      {
         "token": "Oh",
-        "startTime": 44200,
-        "endTime": 44600
+        "startTime": 44080,
+        "endTime": 45050
+      },
+      {
+        "token": "ma",
+        "startTime": 45050,
+        "endTime": 46020
+      },
+      {
+        "token": "douce",
+        "startTime": 46020,
+        "endTime": 46990
+      },
+      {
+        "token": "souffrance",
+        "startTime": 46990,
+        "endTime": 49920
       }
     ]
   },
@@ -143,44 +312,44 @@
     },
     "segments": [
       {
-        "token": "ma",
-        "startTime": 44600,
-        "endTime": 44900
-      },
-      {
-        "token": "douce",
-        "startTime": 44900,
-        "endTime": 45440
-      },
-      {
-        "token": "souffrance",
-        "startTime": 45440,
-        "endTime": 50000
-      },
-      {
         "token": "Je",
-        "startTime": 50000,
-        "endTime": 50200
+        "startTime": 49920,
+        "endTime": 50495
       },
       {
         "token": "remue",
-        "startTime": 50200,
-        "endTime": 51040
+        "startTime": 50495,
+        "endTime": 51070
       },
       {
         "token": "le",
-        "startTime": 51040,
-        "endTime": 51280
+        "startTime": 51070,
+        "endTime": 51645
       },
       {
         "token": "ciel,",
-        "startTime": 51280,
-        "endTime": 52420
+        "startTime": 51645,
+        "endTime": 52220
       },
       {
         "token": "le",
-        "startTime": 52420,
-        "endTime": 52440
+        "startTime": 52220,
+        "endTime": 52795
+      },
+      {
+        "token": "jour,",
+        "startTime": 52795,
+        "endTime": 53370
+      },
+      {
+        "token": "la",
+        "startTime": 53370,
+        "endTime": 53945
+      },
+      {
+        "token": "nuit",
+        "startTime": 53945,
+        "endTime": 54520
       }
     ]
   },
@@ -191,489 +360,511 @@
     },
     "segments": [
       {
-        "token": "jour,",
-        "startTime": 52440,
-        "endTime": 52880
-      },
-      {
-        "token": "la",
-        "startTime": 52880,
-        "endTime": 53180
-      },
-      {
-        "token": "nuit",
-        "startTime": 53180,
-        "endTime": 54560
-      },
-      {
         "token": "Je",
-        "startTime": 54560,
-        "endTime": 54820
+        "startTime": 54520,
+        "endTime": 55097
       },
       {
         "token": "danse",
-        "startTime": 54820,
-        "endTime": 55320
+        "startTime": 55097,
+        "endTime": 55674
       },
       {
         "token": "avec",
-        "startTime": 55320,
-        "endTime": 55980
+        "startTime": 55674,
+        "endTime": 56251
       },
       {
         "token": "le",
-        "startTime": 55980,
-        "endTime": 56420
+        "startTime": 56251,
+        "endTime": 56829
+      },
+      {
+        "token": "vent,",
+        "startTime": 56829,
+        "endTime": 57406
+      },
+      {
+        "token": "la",
+        "startTime": 57406,
+        "endTime": 57983
+      },
+      {
+        "token": "pluie",
+        "startTime": 57983,
+        "endTime": 58560
       }
     ]
   },
   {
-    "sentence_text": "Un peu d'amour, un brin de miel",
+    "sentence_text": "Un peu d’amour, un brin de miel",
     "translations": {
       "en": "A little love, a bit of honey"
     },
     "segments": [
       {
-        "token": "vent,",
-        "startTime": 56420,
-        "endTime": 57140
-      },
-      {
-        "token": "la",
-        "startTime": 57140,
-        "endTime": 57420
-      },
-      {
-        "token": "pluie",
-        "startTime": 57420,
-        "endTime": 58800
-      },
-      {
         "token": "Un",
-        "startTime": 58800,
-        "endTime": 59080
+        "startTime": 58560,
+        "endTime": 59029
       },
       {
         "token": "peu",
-        "startTime": 59080,
-        "endTime": 59380
+        "startTime": 59029,
+        "endTime": 59497
       },
       {
-        "token": "d'amour,",
-        "startTime": 59380,
-        "endTime": 60280
+        "token": "d’amour,",
+        "startTime": 59497,
+        "endTime": 59966
       },
       {
         "token": "un",
-        "startTime": 60280,
-        "endTime": 60560
-      }
-    ]
-  },
-  {
-    "sentence_text": "et je danse, danse, danse, danse, danse, danse",
-    "translations": {
-      "en": "and I dance, dance, dance, dance, dance, dance"
-    },
-    "segments": [
+        "startTime": 59966,
+        "endTime": 60434
+      },
       {
         "token": "brin",
-        "startTime": 60560,
-        "endTime": 60900
+        "startTime": 60434,
+        "endTime": 60903
       },
       {
         "token": "de",
-        "startTime": 60900,
-        "endTime": 61360
+        "startTime": 60903,
+        "endTime": 61371
       },
       {
         "token": "miel",
-        "startTime": 61360,
-        "endTime": 61820
-      },
-      {
-        "token": "et",
-        "startTime": 61820,
-        "endTime": 62140
-      },
-      {
-        "token": "je",
-        "startTime": 62140,
-        "endTime": 62440
-      },
-      {
-        "token": "danse,",
-        "startTime": 62440,
-        "endTime": 63300
-      },
-      {
-        "token": "danse,",
-        "startTime": 63300,
-        "endTime": 64360
-      },
-      {
-        "token": "danse,",
-        "startTime": 64360,
-        "endTime": 64379
+        "startTime": 61371,
+        "endTime": 61840
       }
     ]
   },
   {
-    "sentence_text": "Et dans le bruit je cours et j'ai peur",
+    "sentence_text": "Et je danse, danse, danse, danse, danse, danse, danse",
     "translations": {
-      "en": "And in the noise I run and I'm afraid"
+      "en": "And I dance, dance, dance, dance, dance, dance, dance"
     },
     "segments": [
       {
-        "token": "danse,",
-        "startTime": 64379,
-        "endTime": 65420
+        "token": "Et",
+        "startTime": 61840,
+        "endTime": 62693
+      },
+      {
+        "token": "je",
+        "startTime": 62693,
+        "endTime": 63547
       },
       {
         "token": "danse,",
-        "startTime": 65420,
-        "endTime": 65920
+        "startTime": 63547,
+        "endTime": 64400
+      },
+      {
+        "token": "danse,",
+        "startTime": 64400,
+        "endTime": 65253
+      },
+      {
+        "token": "danse,",
+        "startTime": 65253,
+        "endTime": 66107
+      },
+      {
+        "token": "danse,",
+        "startTime": 66107,
+        "endTime": 66107
+      },
+      {
+        "token": "danse,",
+        "startTime": 66107,
+        "endTime": 66107
+      },
+      {
+        "token": "danse,",
+        "startTime": 66107,
+        "endTime": 66107
       },
       {
         "token": "danse",
-        "startTime": 65920,
-        "endTime": 67020
-      },
+        "startTime": 66107,
+        "endTime": 66960
+      }
+    ]
+  },
+  {
+    "sentence_text": "Et dans le bruit, je cours et j’ai peur",
+    "translations": {
+      "en": "And in the noise, I run and I'm afraid"
+    },
+    "segments": [
       {
         "token": "Et",
-        "startTime": 67020,
-        "endTime": 67340
+        "startTime": 66960,
+        "endTime": 67436
       },
       {
         "token": "dans",
-        "startTime": 67340,
-        "endTime": 67660
+        "startTime": 67436,
+        "endTime": 67911
       },
       {
         "token": "le",
-        "startTime": 67660,
-        "endTime": 67820
+        "startTime": 67911,
+        "endTime": 68387
       },
       {
-        "token": "bruit",
-        "startTime": 67820,
-        "endTime": 68240
+        "token": "bruit,",
+        "startTime": 68387,
+        "endTime": 68862
       },
       {
         "token": "je",
-        "startTime": 68240,
-        "endTime": 68860
+        "startTime": 68862,
+        "endTime": 69338
       },
       {
         "token": "cours",
-        "startTime": 68860,
-        "endTime": 69180
-      }
-    ]
-  },
-  {
-    "sentence_text": "Et ça m'entoure, il y a la douleur",
-    "translations": {
-      "en": "And it surrounds me, there is the pain"
-    },
-    "segments": [
-      {
-        "token": "et",
-        "startTime": 69180,
-        "endTime": 69520
+        "startTime": 69338,
+        "endTime": 69813
       },
       {
-        "token": "j'ai",
-        "startTime": 69520,
-        "endTime": 69980
+        "token": "et",
+        "startTime": 69813,
+        "endTime": 70289
+      },
+      {
+        "token": "j’ai",
+        "startTime": 70289,
+        "endTime": 70764
       },
       {
         "token": "peur",
-        "startTime": 69980,
-        "endTime": 71400
-      },
-      {
-        "token": "Et",
-        "startTime": 71400,
-        "endTime": 71760
-      },
-      {
-        "token": "ça",
-        "startTime": 71760,
-        "endTime": 71940
-      },
-      {
-        "token": "m'entoure,",
-        "startTime": 71940,
-        "endTime": 72860
-      },
-      {
-        "token": "il",
-        "startTime": 72860,
-        "endTime": 73020
-      },
-      {
-        "token": "y",
-        "startTime": 73020,
-        "endTime": 73140
+        "startTime": 70764,
+        "endTime": 71240
       }
     ]
   },
   {
-    "sentence_text": "Dans tout Paris je m'abandonne",
+    "sentence_text": "Est-ce mon tour?",
     "translations": {
-      "en": "In all of Paris I abandon myself"
+      "en": "Is it my turn?"
     },
     "segments": [
       {
-        "token": "a",
-        "startTime": 73140,
-        "endTime": 73180
+        "token": "Est-ce",
+        "startTime": 71240,
+        "endTime": 71953
+      },
+      {
+        "token": "mon",
+        "startTime": 71953,
+        "endTime": 72667
+      },
+      {
+        "token": "tour?",
+        "startTime": 72667,
+        "endTime": 73380
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vient la douleur",
+    "translations": {
+      "en": "The pain comes"
+    },
+    "segments": [
+      {
+        "token": "Vient",
+        "startTime": 73380,
+        "endTime": 74093
       },
       {
         "token": "la",
-        "startTime": 73180,
-        "endTime": 73500
+        "startTime": 74093,
+        "endTime": 74807
       },
       {
         "token": "douleur",
-        "startTime": 73500,
-        "endTime": 75220
-      },
+        "startTime": 74807,
+        "endTime": 75520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dans tout Paris, je m’abandonne",
+    "translations": {
+      "en": "All over Paris, I let myself go"
+    },
+    "segments": [
       {
         "token": "Dans",
-        "startTime": 75220,
-        "endTime": 75700
+        "startTime": 75520,
+        "endTime": 76160
       },
       {
         "token": "tout",
-        "startTime": 75700,
-        "endTime": 76000
+        "startTime": 76160,
+        "endTime": 76800
+      },
+      {
+        "token": "Paris,",
+        "startTime": 76800,
+        "endTime": 77440
+      },
+      {
+        "token": "je",
+        "startTime": 77440,
+        "endTime": 78080
+      },
+      {
+        "token": "m’abandonne",
+        "startTime": 78080,
+        "endTime": 78720
       }
     ]
   },
   {
-    "sentence_text": "et je m'envole, vole, vole, vole, vole, vole",
+    "sentence_text": "Et je m’envole, vole, vole, vole, vole, vole, vole",
     "translations": {
-      "en": "and I fly, fly, fly, fly, fly, fly"
+      "en": "And I fly, fly, fly, fly, fly, fly, fly"
     },
     "segments": [
       {
-        "token": "Paris",
-        "startTime": 76000,
-        "endTime": 76500
+        "token": "Et",
+        "startTime": 78720,
+        "endTime": 79552
       },
       {
         "token": "je",
-        "startTime": 76500,
-        "endTime": 77160
+        "startTime": 79552,
+        "endTime": 80384
       },
       {
-        "token": "m'abandonne",
-        "startTime": 77160,
-        "endTime": 78640
-      },
-      {
-        "token": "et",
-        "startTime": 78640,
-        "endTime": 78860
-      },
-      {
-        "token": "je",
-        "startTime": 78860,
-        "endTime": 79120
-      },
-      {
-        "token": "m'envole,",
-        "startTime": 79120,
-        "endTime": 80000
+        "token": "m’envole,",
+        "startTime": 80384,
+        "endTime": 81216
       },
       {
         "token": "vole,",
-        "startTime": 80000,
-        "endTime": 80540
+        "startTime": 81216,
+        "endTime": 82048
       },
       {
         "token": "vole,",
-        "startTime": 80540,
-        "endTime": 81060
-      }
-    ]
-  },
-  {
-    "sentence_text": "Que Sur ce chemin, ton absence",
-    "translations": {
-      "en": "Only on this path, your absence"
-    },
-    "segments": [
-      {
-        "token": "vole,",
-        "startTime": 81060,
-        "endTime": 81680
+        "startTime": 82048,
+        "endTime": 82048
       },
       {
         "token": "vole,",
-        "startTime": 81680,
-        "endTime": 82180
+        "startTime": 82048,
+        "endTime": 82048
+      },
+      {
+        "token": "vole,",
+        "startTime": 82048,
+        "endTime": 82048
+      },
+      {
+        "token": "vole,",
+        "startTime": 82048,
+        "endTime": 82048
       },
       {
         "token": "vole",
-        "startTime": 82180,
-        "endTime": 82620
-      },
+        "startTime": 82048,
+        "endTime": 82880
+      }
+    ]
+  },
+  {
+    "sentence_text": "Que d'espérance",
+    "translations": {},
+    "segments": [
       {
         "token": "Que",
-        "startTime": 82620,
-        "endTime": 83000
+        "startTime": 82880,
+        "endTime": 84400
       },
       {
         "token": "d'espérance",
-        "startTime": 83000,
-        "endTime": 85900
-      },
-      {
-        "token": "Sur",
-        "startTime": 85900,
-        "endTime": 86060
+        "startTime": 84400,
+        "endTime": 85920
       }
     ]
   },
   {
-    "sentence_text": "J'ai beau trimer sans toi ma vie",
+    "sentence_text": "Sur ce chemin en ton absence",
     "translations": {
-      "en": "I try in vain without you my life"
+      "en": "On this path in your absence"
     },
     "segments": [
       {
-        "token": "ce",
-        "startTime": 86060,
-        "endTime": 86320
+        "token": "Sur",
+        "startTime": 85920,
+        "endTime": 86567
       },
       {
-        "token": "chemin,",
-        "startTime": 86320,
-        "endTime": 87300
+        "token": "ce",
+        "startTime": 86567,
+        "endTime": 87213
+      },
+      {
+        "token": "chemin",
+        "startTime": 87213,
+        "endTime": 87860
+      },
+      {
+        "token": "en",
+        "startTime": 87860,
+        "endTime": 88507
       },
       {
         "token": "ton",
-        "startTime": 87300,
-        "endTime": 87580
+        "startTime": 88507,
+        "endTime": 89153
       },
       {
         "token": "absence",
-        "startTime": 87580,
-        "endTime": 90180
-      },
+        "startTime": 89153,
+        "endTime": 89800
+      }
+    ]
+  },
+  {
+    "sentence_text": "J'ai beau trimer, sans toi ma vie n'est qu’un décor",
+    "translations": {},
+    "segments": [
       {
         "token": "J'ai",
-        "startTime": 90180,
-        "endTime": 90420
+        "startTime": 90240,
+        "endTime": 90688
       },
       {
         "token": "beau",
-        "startTime": 90420,
-        "endTime": 90620
+        "startTime": 90688,
+        "endTime": 91136
       },
       {
-        "token": "trimer",
-        "startTime": 90620,
-        "endTime": 91080
-      }
-    ]
-  },
-  {
-    "sentence_text": "N'est qu'un qui bruit vide de sens",
-    "translations": {
-      "en": "Is just an empty noise without meaning"
-    },
-    "segments": [
+        "token": "trimer,",
+        "startTime": 91136,
+        "endTime": 91584
+      },
       {
         "token": "sans",
-        "startTime": 91080,
-        "endTime": 91600
+        "startTime": 91584,
+        "endTime": 92032
       },
       {
         "token": "toi",
-        "startTime": 91600,
-        "endTime": 91860
+        "startTime": 92032,
+        "endTime": 92480
       },
       {
         "token": "ma",
-        "startTime": 91860,
-        "endTime": 92020
+        "startTime": 92480,
+        "endTime": 92928
       },
       {
         "token": "vie",
-        "startTime": 92020,
-        "endTime": 92380
+        "startTime": 92928,
+        "endTime": 93376
       },
       {
-        "token": "N'est",
-        "startTime": 92380,
-        "endTime": 92840
+        "token": "n'est",
+        "startTime": 93376,
+        "endTime": 93824
       },
       {
-        "token": "qu'un",
-        "startTime": 92840,
-        "endTime": 93600
+        "token": "qu’un",
+        "startTime": 93824,
+        "endTime": 94272
       },
       {
         "token": "décor",
-        "startTime": 93600,
-        "endTime": 94600
+        "startTime": 94272,
+        "endTime": 94720
       }
     ]
   },
   {
-    "sentence_text": "Je remue le ciel le jour et la nuit",
+    "sentence_text": "qui brille, vide de sens",
     "translations": {
-      "en": "I stir the sky the day and the night"
+      "en": "that shines, empty of meaning"
     },
     "segments": [
       {
         "token": "qui",
-        "startTime": 94600,
-        "endTime": 94960
+        "startTime": 94720,
+        "endTime": 95392
       },
       {
-        "token": "bruit",
-        "startTime": 94960,
-        "endTime": 95600
+        "token": "brille,",
+        "startTime": 95392,
+        "endTime": 96064
       },
       {
         "token": "vide",
-        "startTime": 95600,
-        "endTime": 95920
+        "startTime": 96064,
+        "endTime": 96736
       },
       {
         "token": "de",
-        "startTime": 95920,
-        "endTime": 96460
+        "startTime": 96736,
+        "endTime": 97408
       },
       {
         "token": "sens",
-        "startTime": 96460,
-        "endTime": 100160
-      },
+        "startTime": 97408,
+        "endTime": 100040
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je remue le ciel, le jour, la nuit",
+    "translations": {
+      "en": "I stir the sky, the day, the night"
+    },
+    "segments": [
       {
         "token": "Je",
-        "startTime": 100160,
-        "endTime": 100320
+        "startTime": 100040,
+        "endTime": 100615
       },
       {
         "token": "remue",
-        "startTime": 100320,
-        "endTime": 101060
+        "startTime": 100615,
+        "endTime": 101190
       },
       {
         "token": "le",
-        "startTime": 101060,
-        "endTime": 101340
+        "startTime": 101190,
+        "endTime": 101765
       },
       {
-        "token": "ciel",
-        "startTime": 101340,
-        "endTime": 101660
+        "token": "ciel,",
+        "startTime": 101765,
+        "endTime": 102340
+      },
+      {
+        "token": "le",
+        "startTime": 102340,
+        "endTime": 102915
+      },
+      {
+        "token": "jour,",
+        "startTime": 102915,
+        "endTime": 103490
+      },
+      {
+        "token": "la",
+        "startTime": 103490,
+        "endTime": 104065
+      },
+      {
+        "token": "nuit",
+        "startTime": 104065,
+        "endTime": 104640
       }
     ]
   },
@@ -684,391 +875,420 @@
     },
     "segments": [
       {
-        "token": "le",
-        "startTime": 101660,
-        "endTime": 102520
-      },
-      {
-        "token": "jour",
-        "startTime": 102520,
-        "endTime": 102680
-      },
-      {
-        "token": "et",
-        "startTime": 102680,
-        "endTime": 103160
-      },
-      {
-        "token": "la",
-        "startTime": 103160,
-        "endTime": 103420
-      },
-      {
-        "token": "nuit",
-        "startTime": 103420,
-        "endTime": 104560
-      },
-      {
         "token": "Je",
-        "startTime": 104560,
-        "endTime": 104940
+        "startTime": 104640,
+        "endTime": 105217
       },
       {
         "token": "danse",
-        "startTime": 104940,
-        "endTime": 105320
-      }
-    ]
-  },
-  {
-    "sentence_text": "Un peu d'amour, un vin de miel",
-    "translations": {
-      "en": "A little love, a wine of honey"
-    },
-    "segments": [
+        "startTime": 105217,
+        "endTime": 105794
+      },
       {
         "token": "avec",
-        "startTime": 105320,
-        "endTime": 106040
+        "startTime": 105794,
+        "endTime": 106371
       },
       {
         "token": "le",
-        "startTime": 106040,
-        "endTime": 106760
+        "startTime": 106371,
+        "endTime": 106949
       },
       {
         "token": "vent,",
-        "startTime": 106760,
-        "endTime": 107310
+        "startTime": 106949,
+        "endTime": 107526
       },
       {
         "token": "la",
-        "startTime": 107310,
-        "endTime": 107550
+        "startTime": 107526,
+        "endTime": 108103
       },
       {
         "token": "pluie",
-        "startTime": 107550,
-        "endTime": 108910
-      },
-      {
-        "token": "Un",
-        "startTime": 108910,
-        "endTime": 109330
-      },
-      {
-        "token": "peu",
-        "startTime": 109330,
-        "endTime": 109470
+        "startTime": 108103,
+        "endTime": 108680
       }
     ]
   },
   {
-    "sentence_text": "et je danse, danse, danse, danse, danse, danse",
+    "sentence_text": "Un peu d’amour, un brin de miel",
     "translations": {
-      "en": "and I dance, dance, dance, dance, dance, dance"
+      "en": "A little love, a bit of honey"
     },
     "segments": [
       {
-        "token": "d'amour,",
-        "startTime": 109470,
-        "endTime": 110410
+        "token": "Un",
+        "startTime": 108680,
+        "endTime": 109149
+      },
+      {
+        "token": "peu",
+        "startTime": 109149,
+        "endTime": 109617
+      },
+      {
+        "token": "d’amour,",
+        "startTime": 109617,
+        "endTime": 110086
       },
       {
         "token": "un",
-        "startTime": 110410,
-        "endTime": 110750
+        "startTime": 110086,
+        "endTime": 110554
       },
       {
-        "token": "vin",
-        "startTime": 110750,
-        "endTime": 110950
+        "token": "brin",
+        "startTime": 110554,
+        "endTime": 111023
       },
       {
         "token": "de",
-        "startTime": 110950,
-        "endTime": 111470
+        "startTime": 111023,
+        "endTime": 111491
       },
       {
         "token": "miel",
-        "startTime": 111470,
-        "endTime": 111930
-      },
-      {
-        "token": "et",
-        "startTime": 111930,
-        "endTime": 112250
-      },
-      {
-        "token": "je",
-        "startTime": 112250,
-        "endTime": 112570
-      },
-      {
-        "token": "danse,",
-        "startTime": 112570,
-        "endTime": 113370
+        "startTime": 111491,
+        "endTime": 111960
       }
     ]
   },
   {
-    "sentence_text": "Et dans le bruit, je cours et j'ai peur",
+    "sentence_text": "Et je danse, danse, danse, danse, danse, danse, danse",
+    "translations": {
+      "en": "And I dance, dance, dance, dance, dance, dance, dance"
+    },
+    "segments": [
+      {
+        "token": "Et",
+        "startTime": 111960,
+        "endTime": 112813
+      },
+      {
+        "token": "je",
+        "startTime": 112813,
+        "endTime": 113667
+      },
+      {
+        "token": "danse,",
+        "startTime": 113667,
+        "endTime": 114520
+      },
+      {
+        "token": "danse,",
+        "startTime": 114520,
+        "endTime": 115373
+      },
+      {
+        "token": "danse,",
+        "startTime": 115373,
+        "endTime": 116227
+      },
+      {
+        "token": "danse,",
+        "startTime": 116227,
+        "endTime": 116227
+      },
+      {
+        "token": "danse,",
+        "startTime": 116227,
+        "endTime": 116227
+      },
+      {
+        "token": "danse,",
+        "startTime": 116227,
+        "endTime": 116227
+      },
+      {
+        "token": "danse",
+        "startTime": 116227,
+        "endTime": 117080
+      }
+    ]
+  },
+  {
+    "sentence_text": "Et dans le bruit, je cours et j’ai peur",
     "translations": {
       "en": "And in the noise, I run and I'm afraid"
     },
     "segments": [
       {
-        "token": "danse,",
-        "startTime": 113370,
-        "endTime": 113910
-      },
-      {
-        "token": "danse,",
-        "startTime": 113910,
-        "endTime": 114450
-      },
-      {
-        "token": "danse,",
-        "startTime": 114450,
-        "endTime": 115370
-      },
-      {
-        "token": "danse,",
-        "startTime": 115370,
-        "endTime": 115910
-      },
-      {
-        "token": "danse",
-        "startTime": 115910,
-        "endTime": 117210
-      },
-      {
         "token": "Et",
-        "startTime": 117210,
-        "endTime": 117430
+        "startTime": 117080,
+        "endTime": 117556
       },
       {
         "token": "dans",
-        "startTime": 117430,
-        "endTime": 117730
+        "startTime": 117556,
+        "endTime": 118031
       },
       {
         "token": "le",
-        "startTime": 117730,
-        "endTime": 117910
+        "startTime": 118031,
+        "endTime": 118507
       },
       {
         "token": "bruit,",
-        "startTime": 117910,
-        "endTime": 118590
-      }
-    ]
-  },
-  {
-    "sentence_text": "Et seulement tout revient la douleur",
-    "translations": {
-      "en": "And only then the pain returns"
-    },
-    "segments": [
+        "startTime": 118507,
+        "endTime": 118982
+      },
       {
         "token": "je",
-        "startTime": 118590,
-        "endTime": 118950
+        "startTime": 118982,
+        "endTime": 119458
       },
       {
         "token": "cours",
-        "startTime": 118950,
-        "endTime": 119330
+        "startTime": 119458,
+        "endTime": 119933
       },
       {
         "token": "et",
-        "startTime": 119330,
-        "endTime": 119590
+        "startTime": 119933,
+        "endTime": 120409
       },
       {
-        "token": "j'ai",
-        "startTime": 119590,
-        "endTime": 120030
+        "token": "j’ai",
+        "startTime": 120409,
+        "endTime": 120884
       },
       {
         "token": "peur",
-        "startTime": 120030,
-        "endTime": 121470
-      },
-      {
-        "token": "Et",
-        "startTime": 121470,
-        "endTime": 121850
+        "startTime": 120884,
+        "endTime": 121360
       }
     ]
   },
   {
-    "sentence_text": "Dans tout Paris, je m'abandonne",
+    "sentence_text": "Est-ce mon tour?",
     "translations": {
-      "en": "In all of Paris, I surrender"
+      "en": "Is it my turn?"
     },
     "segments": [
       {
-        "token": "seulement",
-        "startTime": 121850,
-        "endTime": 122110
+        "token": "Est-ce",
+        "startTime": 121360,
+        "endTime": 122073
       },
       {
-        "token": "tout",
-        "startTime": 122110,
-        "endTime": 122530
+        "token": "mon",
+        "startTime": 122073,
+        "endTime": 122787
       },
       {
-        "token": "revient",
-        "startTime": 122530,
-        "endTime": 123150
+        "token": "tour?",
+        "startTime": 122787,
+        "endTime": 123500
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vient la douleur",
+    "translations": {
+      "en": "Pain comes"
+    },
+    "segments": [
+      {
+        "token": "Vient",
+        "startTime": 123500,
+        "endTime": 124213
       },
       {
         "token": "la",
-        "startTime": 123150,
-        "endTime": 123570
+        "startTime": 124213,
+        "endTime": 124927
       },
       {
         "token": "douleur",
-        "startTime": 123570,
-        "endTime": 124810
+        "startTime": 124927,
+        "endTime": 125640
       }
     ]
   },
   {
-    "sentence_text": "et je m'envole, vole, vole, vole, vole",
+    "sentence_text": "Dans tout Paris, je m’abandonne",
     "translations": {
-      "en": "and I fly, fly, fly, fly, fly"
+      "en": "In all of Paris, I abandon myself"
     },
     "segments": [
       {
         "token": "Dans",
-        "startTime": 124810,
-        "endTime": 125770
+        "startTime": 125640,
+        "endTime": 126280
       },
       {
         "token": "tout",
-        "startTime": 125770,
-        "endTime": 126070
+        "startTime": 126280,
+        "endTime": 126920
       },
       {
         "token": "Paris,",
-        "startTime": 126070,
-        "endTime": 127130
+        "startTime": 126920,
+        "endTime": 127560
       },
       {
         "token": "je",
-        "startTime": 127130,
-        "endTime": 127270
+        "startTime": 127560,
+        "endTime": 128200
       },
       {
-        "token": "m'abandonne",
-        "startTime": 127270,
-        "endTime": 128650
-      },
-      {
-        "token": "et",
-        "startTime": 128650,
-        "endTime": 128930
-      },
-      {
-        "token": "je",
-        "startTime": 128930,
-        "endTime": 129190
+        "token": "m’abandonne",
+        "startTime": 128200,
+        "endTime": 128840
       }
     ]
   },
   {
-    "sentence_text": "Dans ces douces phrases",
+    "sentence_text": "Et je m’envole, vole, vole, vole, vole, vole, vole",
     "translations": {
-      "en": "In these sweet phrases"
+      "en": "And I fly, fly, fly, fly, fly, fly, fly"
     },
     "segments": [
       {
-        "token": "m'envole,",
-        "startTime": 129190,
-        "endTime": 130050
+        "token": "Et",
+        "startTime": 128840,
+        "endTime": 129776
+      },
+      {
+        "token": "je",
+        "startTime": 129776,
+        "endTime": 130712
+      },
+      {
+        "token": "m’envole,",
+        "startTime": 130712,
+        "endTime": 131648
       },
       {
         "token": "vole,",
-        "startTime": 130050,
-        "endTime": 130570
+        "startTime": 131648,
+        "endTime": 132584
       },
       {
         "token": "vole,",
-        "startTime": 130570,
-        "endTime": 131110
+        "startTime": 132584,
+        "endTime": 132584
       },
       {
         "token": "vole,",
-        "startTime": 131110,
-        "endTime": 131610
-      }
-    ]
-  },
-  {
-    "sentence_text": "Dont j'ai toutes les offences",
-    "translations": {
-      "en": "For which I've committed all offenses"
-    },
-    "segments": [
+        "startTime": 132584,
+        "endTime": 132584
+      },
+      {
+        "token": "vole,",
+        "startTime": 132584,
+        "endTime": 132584
+      },
+      {
+        "token": "vole,",
+        "startTime": 132584,
+        "endTime": 132584
+      },
       {
         "token": "vole",
-        "startTime": 131610,
-        "endTime": 132110
-      },
-      {
-        "token": "Dans",
-        "startTime": 132110,
-        "endTime": 135170
-      },
-      {
-        "token": "ces",
-        "startTime": 135170,
-        "endTime": 149510
-      },
-      {
-        "token": "douces",
-        "startTime": 149510,
-        "endTime": 150130
-      },
-      {
-        "token": "phrases",
-        "startTime": 150130,
-        "endTime": 152650
+        "startTime": 132584,
+        "endTime": 149080
       }
     ]
   },
   {
-    "sentence_text": "comment mon cœur est immense",
+    "sentence_text": "Dans cette douce soufrance",
     "translations": {
-      "en": "how immense my heart is"
+      "en": "In this sweet suffering"
     },
+    "segments": [
+      {
+        "token": "Dans",
+        "startTime": 149080,
+        "endTime": 149990
+      },
+      {
+        "token": "cette",
+        "startTime": 149990,
+        "endTime": 150900
+      },
+      {
+        "token": "douce",
+        "startTime": 150900,
+        "endTime": 151810
+      },
+      {
+        "token": "soufrance",
+        "startTime": 151810,
+        "endTime": 152720
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dont j’ai payé toutes les offenses",
+    "translations": {},
     "segments": [
       {
         "token": "Dont",
-        "startTime": 152650,
-        "endTime": 152930
+        "startTime": 152720,
+        "endTime": 153373
       },
       {
-        "token": "j'ai",
-        "startTime": 152930,
-        "endTime": 153210
+        "token": "j’ai",
+        "startTime": 153373,
+        "endTime": 154027
       },
       {
         "token": "payé",
-        "startTime": 153210,
-        "endTime": 153690
+        "startTime": 154027,
+        "endTime": 154680
       },
       {
         "token": "toutes",
-        "startTime": 153690,
-        "endTime": 154050
+        "startTime": 154680,
+        "endTime": 155333
       },
       {
         "token": "les",
-        "startTime": 154050,
-        "endTime": 154390
+        "startTime": 155333,
+        "endTime": 155987
+      },
+      {
+        "token": "offenses",
+        "startTime": 155987,
+        "endTime": 156640
+      }
+    ]
+  },
+  {
+    "sentence_text": "Écoute comme mon cœur est immense",
+    "translations": {},
+    "segments": [
+      {
+        "token": "Écoute",
+        "startTime": 156640,
+        "endTime": 157387
+      },
+      {
+        "token": "comme",
+        "startTime": 157387,
+        "endTime": 158133
+      },
+      {
+        "token": "mon",
+        "startTime": 158133,
+        "endTime": 158880
+      },
+      {
+        "token": "cœur",
+        "startTime": 158880,
+        "endTime": 159627
+      },
+      {
+        "token": "est",
+        "startTime": 159627,
+        "endTime": 160373
+      },
+      {
+        "token": "immense",
+        "startTime": 160373,
+        "endTime": 161120
       }
     ]
   },
@@ -1079,34 +1299,34 @@
     },
     "segments": [
       {
-        "token": "offences",
-        "startTime": 154390,
-        "endTime": 156890
+        "token": "Je",
+        "startTime": 161120,
+        "endTime": 161800
       },
       {
-        "token": "Écoute",
-        "startTime": 156890,
-        "endTime": 157290
+        "token": "suis",
+        "startTime": 161800,
+        "endTime": 162480
       },
       {
-        "token": "comment",
-        "startTime": 157290,
-        "endTime": 157650
+        "token": "une",
+        "startTime": 162480,
+        "endTime": 163160
       },
       {
-        "token": "mon",
-        "startTime": 157650,
-        "endTime": 158270
+        "token": "enfant",
+        "startTime": 163160,
+        "endTime": 163840
       },
       {
-        "token": "cœur",
-        "startTime": 158270,
-        "endTime": 158290
+        "token": "du",
+        "startTime": 163840,
+        "endTime": 164520
       },
       {
-        "token": "est",
-        "startTime": 158290,
-        "endTime": 158550
+        "token": "monde",
+        "startTime": 164520,
+        "endTime": 166800
       }
     ]
   },
@@ -1117,327 +1337,368 @@
     },
     "segments": [
       {
-        "token": "immense",
-        "startTime": 158550,
-        "endTime": 161110
-      },
-      {
         "token": "Je",
-        "startTime": 161110,
-        "endTime": 161130
+        "startTime": 166800,
+        "endTime": 167375
       },
-      {
-        "token": "suis",
-        "startTime": 161130,
-        "endTime": 161470
-      },
-      {
-        "token": "une",
-        "startTime": 161470,
-        "endTime": 161830
-      },
-      {
-        "token": "enfant",
-        "startTime": 161830,
-        "endTime": 162350
-      },
-      {
-        "token": "du",
-        "startTime": 162350,
-        "endTime": 162830
-      },
-      {
-        "token": "monde",
-        "startTime": 162830,
-        "endTime": 166750
-      },
-      {
-        "token": "Je",
-        "startTime": 166750,
-        "endTime": 167090
-      }
-    ]
-  },
-  {
-    "sentence_text": "Je danse avec le temps, la pluie",
-    "translations": {
-      "en": "I dance with time, the rain"
-    },
-    "segments": [
       {
         "token": "remue",
-        "startTime": 167090,
-        "endTime": 167670
+        "startTime": 167375,
+        "endTime": 167950
       },
       {
         "token": "le",
-        "startTime": 167670,
-        "endTime": 168010
+        "startTime": 167950,
+        "endTime": 168525
       },
       {
         "token": "ciel,",
-        "startTime": 168010,
-        "endTime": 169050
+        "startTime": 168525,
+        "endTime": 169100
       },
       {
         "token": "le",
-        "startTime": 169050,
-        "endTime": 169230
+        "startTime": 169100,
+        "endTime": 169675
       },
       {
         "token": "jour,",
-        "startTime": 169230,
-        "endTime": 169930
+        "startTime": 169675,
+        "endTime": 170250
       },
       {
         "token": "la",
-        "startTime": 169930,
-        "endTime": 170150
+        "startTime": 170250,
+        "endTime": 170825
       },
       {
         "token": "nuit",
-        "startTime": 170150,
-        "endTime": 171370
+        "startTime": 170825,
+        "endTime": 171400
       }
     ]
   },
   {
-    "sentence_text": "Un peu d'amour, un brin de miel",
+    "sentence_text": "Je danse avec le vent, la pluie",
+    "translations": {
+      "en": "I dance with the wind, the rain"
+    },
+    "segments": [
+      {
+        "token": "Je",
+        "startTime": 171400,
+        "endTime": 171977
+      },
+      {
+        "token": "danse",
+        "startTime": 171977,
+        "endTime": 172554
+      },
+      {
+        "token": "avec",
+        "startTime": 172554,
+        "endTime": 173131
+      },
+      {
+        "token": "le",
+        "startTime": 173131,
+        "endTime": 173709
+      },
+      {
+        "token": "vent,",
+        "startTime": 173709,
+        "endTime": 174286
+      },
+      {
+        "token": "la",
+        "startTime": 174286,
+        "endTime": 174863
+      },
+      {
+        "token": "pluie",
+        "startTime": 174863,
+        "endTime": 175440
+      }
+    ]
+  },
+  {
+    "sentence_text": "Un peu d’amour, un brin de miel",
     "translations": {
       "en": "A little love, a bit of honey"
     },
     "segments": [
       {
-        "token": "Je",
-        "startTime": 171370,
-        "endTime": 171670
-      },
-      {
-        "token": "danse",
-        "startTime": 171670,
-        "endTime": 172130
-      },
-      {
-        "token": "avec",
-        "startTime": 172130,
-        "endTime": 172910
-      },
-      {
-        "token": "le",
-        "startTime": 172910,
-        "endTime": 173310
-      },
-      {
-        "token": "temps,",
-        "startTime": 173310,
-        "endTime": 173990
-      },
-      {
-        "token": "la",
-        "startTime": 173990,
-        "endTime": 174250
-      },
-      {
-        "token": "pluie",
-        "startTime": 174250,
-        "endTime": 175490
-      }
-    ]
-  },
-  {
-    "sentence_text": "Je danse, danse, danse, danse, danse, danse",
-    "translations": {
-      "en": "I dance, dance, dance, dance, dance, dance"
-    },
-    "segments": [
-      {
         "token": "Un",
-        "startTime": 175490,
-        "endTime": 176030
+        "startTime": 175440,
+        "endTime": 175909
       },
       {
         "token": "peu",
-        "startTime": 176030,
-        "endTime": 176210
+        "startTime": 175909,
+        "endTime": 176377
       },
       {
-        "token": "d'amour,",
-        "startTime": 176210,
-        "endTime": 177210
+        "token": "d’amour,",
+        "startTime": 176377,
+        "endTime": 176846
       },
       {
         "token": "un",
-        "startTime": 177210,
-        "endTime": 177530
+        "startTime": 176846,
+        "endTime": 177314
       },
       {
         "token": "brin",
-        "startTime": 177530,
-        "endTime": 177790
+        "startTime": 177314,
+        "endTime": 177783
       },
       {
         "token": "de",
-        "startTime": 177790,
-        "endTime": 178270
+        "startTime": 177783,
+        "endTime": 178251
       },
       {
         "token": "miel",
-        "startTime": 178270,
-        "endTime": 178330
+        "startTime": 178251,
+        "endTime": 178720
       }
     ]
   },
   {
-    "sentence_text": "Et dans le bruit, je cours et j'ai peur",
+    "sentence_text": "Et je danse, danse, danse, danse, danse, danse, danse",
+    "translations": {
+      "en": "And I dance, dance, dance, dance, dance, dance, dance"
+    },
+    "segments": [
+      {
+        "token": "Et",
+        "startTime": 178720,
+        "endTime": 179573
+      },
+      {
+        "token": "je",
+        "startTime": 179573,
+        "endTime": 180427
+      },
+      {
+        "token": "danse,",
+        "startTime": 180427,
+        "endTime": 181280
+      },
+      {
+        "token": "danse,",
+        "startTime": 181280,
+        "endTime": 182133
+      },
+      {
+        "token": "danse,",
+        "startTime": 182133,
+        "endTime": 182987
+      },
+      {
+        "token": "danse,",
+        "startTime": 182987,
+        "endTime": 182987
+      },
+      {
+        "token": "danse,",
+        "startTime": 182987,
+        "endTime": 182987
+      },
+      {
+        "token": "danse,",
+        "startTime": 182987,
+        "endTime": 182987
+      },
+      {
+        "token": "danse",
+        "startTime": 182987,
+        "endTime": 183840
+      }
+    ]
+  },
+  {
+    "sentence_text": "Et dans le bruit, je cours et j’ai peur",
     "translations": {
       "en": "And in the noise, I run and I'm afraid"
     },
     "segments": [
       {
-        "token": "Je",
-        "startTime": 178330,
-        "endTime": 179250
-      },
-      {
-        "token": "danse,",
-        "startTime": 179250,
-        "endTime": 180250
-      },
-      {
-        "token": "danse,",
-        "startTime": 180250,
-        "endTime": 180710
-      },
-      {
-        "token": "danse,",
-        "startTime": 180710,
-        "endTime": 181190
-      },
-      {
-        "token": "danse,",
-        "startTime": 181190,
-        "endTime": 181730
-      },
-      {
-        "token": "danse,",
-        "startTime": 181730,
-        "endTime": 182810
-      },
-      {
-        "token": "danse",
-        "startTime": 182810,
-        "endTime": 183890
-      },
-      {
         "token": "Et",
-        "startTime": 183890,
-        "endTime": 184170
+        "startTime": 183840,
+        "endTime": 184316
       },
       {
         "token": "dans",
-        "startTime": 184170,
-        "endTime": 184510
-      }
-    ]
-  },
-  {
-    "sentence_text": "Et c'est mon tour, il y a la douleur",
-    "translations": {
-      "en": "And it's my turn, there is the pain"
-    },
-    "segments": [
+        "startTime": 184316,
+        "endTime": 184791
+      },
       {
         "token": "le",
-        "startTime": 184510,
-        "endTime": 184670
+        "startTime": 184791,
+        "endTime": 185267
       },
       {
         "token": "bruit,",
-        "startTime": 184670,
-        "endTime": 185490
+        "startTime": 185267,
+        "endTime": 185742
       },
       {
         "token": "je",
-        "startTime": 185490,
-        "endTime": 185730
+        "startTime": 185742,
+        "endTime": 186218
       },
       {
         "token": "cours",
-        "startTime": 185730,
-        "endTime": 186090
+        "startTime": 186218,
+        "endTime": 186693
       },
       {
         "token": "et",
-        "startTime": 186090,
-        "endTime": 186430
+        "startTime": 186693,
+        "endTime": 187169
       },
       {
-        "token": "j'ai",
-        "startTime": 186430,
-        "endTime": 186750
+        "token": "j’ai",
+        "startTime": 187169,
+        "endTime": 187644
       },
       {
         "token": "peur",
-        "startTime": 186750,
-        "endTime": 188250
-      },
-      {
-        "token": "Et",
-        "startTime": 188250,
-        "endTime": 188470
-      },
-      {
-        "token": "c'est",
-        "startTime": 188470,
-        "endTime": 188850
+        "startTime": 187644,
+        "endTime": 188120
       }
     ]
   },
   {
-    "sentence_text": "Dans tout Paris, je m'abandonne et je m'envole",
+    "sentence_text": "Est-ce mon tour?",
     "translations": {
-      "en": "In all of Paris, I surrender and I fly away"
+      "en": "Is it my turn?"
     },
     "segments": [
       {
+        "token": "Est-ce",
+        "startTime": 188120,
+        "endTime": 188833
+      },
+      {
         "token": "mon",
-        "startTime": 188850,
-        "endTime": 188990
+        "startTime": 188833,
+        "endTime": 189547
       },
       {
-        "token": "tour,",
-        "startTime": 188990,
-        "endTime": 189750
-      },
+        "token": "tour?",
+        "startTime": 189547,
+        "endTime": 190260
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vient la douleur",
+    "translations": {
+      "en": "Pain comes"
+    },
+    "segments": [
       {
-        "token": "il",
-        "startTime": 189750,
-        "endTime": 189850
-      },
-      {
-        "token": "y",
-        "startTime": 189850,
-        "endTime": 189930
-      },
-      {
-        "token": "a",
-        "startTime": 189930,
-        "endTime": 189990
+        "token": "Vient",
+        "startTime": 190260,
+        "endTime": 190973
       },
       {
         "token": "la",
-        "startTime": 189990,
-        "endTime": 190310
+        "startTime": 190973,
+        "endTime": 191687
       },
       {
         "token": "douleur",
-        "startTime": 190310,
-        "endTime": 191750
-      },
+        "startTime": 191687,
+        "endTime": 192400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dans tout Paris, je m’abandonne",
+    "translations": {
+      "en": "In all of Paris, I let go"
+    },
+    "segments": [
       {
         "token": "Dans",
-        "startTime": 191750,
-        "endTime": 192550
+        "startTime": 192400,
+        "endTime": 193040
+      },
+      {
+        "token": "tout",
+        "startTime": 193040,
+        "endTime": 193680
+      },
+      {
+        "token": "Paris,",
+        "startTime": 193680,
+        "endTime": 194320
+      },
+      {
+        "token": "je",
+        "startTime": 194320,
+        "endTime": 194960
+      },
+      {
+        "token": "m’abandonne",
+        "startTime": 194960,
+        "endTime": 195600
+      }
+    ]
+  },
+  {
+    "sentence_text": "Et je m’envole, vole, vole, vole, vole, vole, vole",
+    "translations": {
+      "en": "And I fly, fly, fly, fly, fly, fly, fly"
+    },
+    "segments": [
+      {
+        "token": "Et",
+        "startTime": 195600,
+        "endTime": 196536
+      },
+      {
+        "token": "je",
+        "startTime": 196536,
+        "endTime": 197472
+      },
+      {
+        "token": "m’envole,",
+        "startTime": 197472,
+        "endTime": 198408
+      },
+      {
+        "token": "vole,",
+        "startTime": 198408,
+        "endTime": 199344
+      },
+      {
+        "token": "vole,",
+        "startTime": 199344,
+        "endTime": 199344
+      },
+      {
+        "token": "vole,",
+        "startTime": 199344,
+        "endTime": 199344
+      },
+      {
+        "token": "vole,",
+        "startTime": 199344,
+        "endTime": 199344
+      },
+      {
+        "token": "vole,",
+        "startTime": 199344,
+        "endTime": 199344
+      },
+      {
+        "token": "vole",
+        "startTime": 199344,
+        "endTime": 200280
       }
     ]
   }
