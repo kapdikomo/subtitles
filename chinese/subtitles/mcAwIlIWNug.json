@@ -1,0 +1,6500 @@
+[
+  {
+    "sentence_text": "中点线 近在眼前 了",
+    "translations": {
+      "en": "The midpoint is right ahead."
+    },
+    "segments": [
+      {
+        "token": "中",
+        "startTime": 8000,
+        "endTime": 8200,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "点",
+        "startTime": 8200,
+        "endTime": 8400,
+        "pinyin": "diǎn"
+      },
+      {
+        "token": "线",
+        "startTime": 8400,
+        "endTime": 8600,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "近",
+        "startTime": 8600,
+        "endTime": 8815,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "在",
+        "startTime": 8815,
+        "endTime": 9030,
+        "pinyin": "zài"
+      },
+      {
+        "token": "眼",
+        "startTime": 9030,
+        "endTime": 9245,
+        "pinyin": "yǎn"
+      },
+      {
+        "token": "前",
+        "startTime": 9245,
+        "endTime": 9460,
+        "pinyin": "qián"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 开始 加速 你 的 步伐 逐渐 变 快",
+    "translations": {
+      "en": "You start to pick up speed, your pace gradually quickening."
+    },
+    "segments": [
+      {
+        "token": "了",
+        "startTime": 9460,
+        "endTime": 9460,
+        "pinyin": "le"
+      },
+      {
+        "token": "你",
+        "startTime": 9460,
+        "endTime": 10200,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "开",
+        "startTime": 10200,
+        "endTime": 10360,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 10360,
+        "endTime": 10520,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "加",
+        "startTime": 10520,
+        "endTime": 11570,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "速",
+        "startTime": 11570,
+        "endTime": 12620,
+        "pinyin": "sù"
+      },
+      {
+        "token": "你",
+        "startTime": 12620,
+        "endTime": 12840,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 12840,
+        "endTime": 13060,
+        "pinyin": "de"
+      },
+      {
+        "token": "步",
+        "startTime": 13060,
+        "endTime": 13270,
+        "pinyin": "bù"
+      },
+      {
+        "token": "伐",
+        "startTime": 13270,
+        "endTime": 13480,
+        "pinyin": "fá"
+      },
+      {
+        "token": "逐",
+        "startTime": 13480,
+        "endTime": 13650,
+        "pinyin": "zhú"
+      },
+      {
+        "token": "渐",
+        "startTime": 13650,
+        "endTime": 13820,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "变",
+        "startTime": 13820,
+        "endTime": 14720,
+        "pinyin": "biàn"
+      },
+      {
+        "token": "快",
+        "startTime": 14720,
+        "endTime": 14980,
+        "pinyin": "kuài"
+      }
+    ]
+  },
+  {
+    "sentence_text": "呼吸 也 越来越 深 心跳 加速 汗如雨下",
+    "translations": {
+      "en": "Your breathing deepens, your heart races, and sweat pours down."
+    },
+    "segments": [
+      {
+        "token": "呼",
+        "startTime": 14980,
+        "endTime": 15160,
+        "pinyin": "hū"
+      },
+      {
+        "token": "吸",
+        "startTime": 15160,
+        "endTime": 15340,
+        "pinyin": "xī"
+      },
+      {
+        "token": "也",
+        "startTime": 15340,
+        "endTime": 15500,
+        "pinyin": "yě"
+      },
+      {
+        "token": "越",
+        "startTime": 15500,
+        "endTime": 15860,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "来",
+        "startTime": 15860,
+        "endTime": 16220,
+        "pinyin": "lái"
+      },
+      {
+        "token": "越",
+        "startTime": 16220,
+        "endTime": 16580,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "深",
+        "startTime": 16580,
+        "endTime": 16860,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "心",
+        "startTime": 16860,
+        "endTime": 17100,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "跳",
+        "startTime": 17100,
+        "endTime": 17340,
+        "pinyin": "tiào"
+      },
+      {
+        "token": "加",
+        "startTime": 17340,
+        "endTime": 17860,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "速",
+        "startTime": 17860,
+        "endTime": 18380,
+        "pinyin": "sù"
+      },
+      {
+        "token": "汗",
+        "startTime": 18380,
+        "endTime": 19105,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "如",
+        "startTime": 19105,
+        "endTime": 19830,
+        "pinyin": "rú"
+      },
+      {
+        "token": "雨",
+        "startTime": 19830,
+        "endTime": 20555,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "下",
+        "startTime": 20555,
+        "endTime": 21280,
+        "pinyin": "xià"
+      }
+    ]
+  },
+  {
+    "sentence_text": "汗水 是 如何 突然 之间 出现 的",
+    "translations": {
+      "en": "How does sweat suddenly appear?"
+    },
+    "segments": [
+      {
+        "token": "汗",
+        "startTime": 21280,
+        "endTime": 21490,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "水",
+        "startTime": 21490,
+        "endTime": 21700,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 21700,
+        "endTime": 21900,
+        "pinyin": "shì"
+      },
+      {
+        "token": "如",
+        "startTime": 21900,
+        "endTime": 22170,
+        "pinyin": "rú"
+      },
+      {
+        "token": "何",
+        "startTime": 22170,
+        "endTime": 22440,
+        "pinyin": "hé"
+      },
+      {
+        "token": "突",
+        "startTime": 22440,
+        "endTime": 22600,
+        "pinyin": "tū"
+      },
+      {
+        "token": "然",
+        "startTime": 22600,
+        "endTime": 22760,
+        "pinyin": "rán"
+      },
+      {
+        "token": "之",
+        "startTime": 22760,
+        "endTime": 22950,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 22950,
+        "endTime": 23140,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "出",
+        "startTime": 23140,
+        "endTime": 23530,
+        "pinyin": "chū"
+      },
+      {
+        "token": "现",
+        "startTime": 23530,
+        "endTime": 23920,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "的",
+        "startTime": 23920,
+        "endTime": 24080,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 又 有 什么 作用 呢",
+    "translations": {
+      "en": "And what purpose does it serve?"
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 24080,
+        "endTime": 24200,
+        "pinyin": "tā"
+      },
+      {
+        "token": "又",
+        "startTime": 24200,
+        "endTime": 24480,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "有",
+        "startTime": 24480,
+        "endTime": 24720,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "什",
+        "startTime": 24720,
+        "endTime": 25790,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 25790,
+        "endTime": 26860,
+        "pinyin": "me"
+      },
+      {
+        "token": "作",
+        "startTime": 26860,
+        "endTime": 26940,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "用",
+        "startTime": 26940,
+        "endTime": 27020,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "呢",
+        "startTime": 27020,
+        "endTime": 27220,
+        "pinyin": "ne"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 在 很多 情况 下 都 会 流汗",
+    "translations": {
+      "en": "We sweat in many situations."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 27220,
+        "endTime": 27370,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 27370,
+        "endTime": 27520,
+        "pinyin": "men"
+      },
+      {
+        "token": "在",
+        "startTime": 27520,
+        "endTime": 27840,
+        "pinyin": "zài"
+      },
+      {
+        "token": "很",
+        "startTime": 27840,
+        "endTime": 28050,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "多",
+        "startTime": 28050,
+        "endTime": 28260,
+        "pinyin": "duō"
+      },
+      {
+        "token": "情",
+        "startTime": 28260,
+        "endTime": 28480,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 28480,
+        "endTime": 28700,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "下",
+        "startTime": 28700,
+        "endTime": 29420,
+        "pinyin": "xià"
+      },
+      {
+        "token": "都",
+        "startTime": 29420,
+        "endTime": 29540,
+        "pinyin": "dū"
+      },
+      {
+        "token": "会",
+        "startTime": 29540,
+        "endTime": 29740,
+        "pinyin": "huì"
+      },
+      {
+        "token": "流",
+        "startTime": 29740,
+        "endTime": 30200,
+        "pinyin": "liú"
+      },
+      {
+        "token": "汗",
+        "startTime": 30200,
+        "endTime": 30660,
+        "pinyin": "hàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "例如 吃 辣 、 紧张 以及 生病",
+    "translations": {
+      "en": "For example, when eating spicy food, feeling nervous, or being sick."
+    },
+    "segments": [
+      {
+        "token": "例",
+        "startTime": 30660,
+        "endTime": 30880,
+        "pinyin": "lì"
+      },
+      {
+        "token": "如",
+        "startTime": 30880,
+        "endTime": 31100,
+        "pinyin": "rú"
+      },
+      {
+        "token": "吃",
+        "startTime": 31100,
+        "endTime": 31740,
+        "pinyin": "chī"
+      },
+      {
+        "token": "辣",
+        "startTime": 31740,
+        "endTime": 32080,
+        "pinyin": "là"
+      },
+      {
+        "token": "、",
+        "startTime": 32080,
+        "endTime": 34760,
+        "pinyin": "、"
+      },
+      {
+        "token": "紧",
+        "startTime": 34760,
+        "endTime": 34970,
+        "pinyin": "jǐn"
+      },
+      {
+        "token": "张",
+        "startTime": 34970,
+        "endTime": 35180,
+        "pinyin": "zhāng"
+      },
+      {
+        "token": "以",
+        "startTime": 35180,
+        "endTime": 35510,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 35510,
+        "endTime": 35840,
+        "pinyin": "jí"
+      },
+      {
+        "token": "生",
+        "startTime": 35840,
+        "endTime": 36040,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "病",
+        "startTime": 36040,
+        "endTime": 36240,
+        "pinyin": "bìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 运动 可能 是 其中 最 寻常 的 一种 情况",
+    "translations": {
+      "en": "But exercise is probably the most common one."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 36240,
+        "endTime": 36400,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "运",
+        "startTime": 36400,
+        "endTime": 36700,
+        "pinyin": "yùn"
+      },
+      {
+        "token": "动",
+        "startTime": 36700,
+        "endTime": 37000,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "可",
+        "startTime": 37000,
+        "endTime": 37160,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 37160,
+        "endTime": 37320,
+        "pinyin": "néng"
+      },
+      {
+        "token": "是",
+        "startTime": 37320,
+        "endTime": 37380,
+        "pinyin": "shì"
+      },
+      {
+        "token": "其",
+        "startTime": 37380,
+        "endTime": 38110,
+        "pinyin": "qí"
+      },
+      {
+        "token": "中",
+        "startTime": 38110,
+        "endTime": 38840,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "最",
+        "startTime": 38840,
+        "endTime": 39020,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "寻",
+        "startTime": 39020,
+        "endTime": 39140,
+        "pinyin": "xún"
+      },
+      {
+        "token": "常",
+        "startTime": 39140,
+        "endTime": 39260,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "的",
+        "startTime": 39260,
+        "endTime": 39540,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 39540,
+        "endTime": 40040,
+        "pinyin": "yī"
+      },
+      {
+        "token": "种",
+        "startTime": 40040,
+        "endTime": 40540,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "情",
+        "startTime": 40540,
+        "endTime": 40740,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 40740,
+        "endTime": 40940,
+        "pinyin": "kuàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 这种 情况 下 出汗 是 对于 体内 细胞 运动 的 一种 反应",
+    "translations": {
+      "en": "In this case, sweating is a response to cellular activity in the body."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 40940,
+        "endTime": 41100,
+        "pinyin": "zài"
+      },
+      {
+        "token": "这",
+        "startTime": 41100,
+        "endTime": 41240,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 41240,
+        "endTime": 41380,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "情",
+        "startTime": 41380,
+        "endTime": 41590,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 41590,
+        "endTime": 41800,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "下",
+        "startTime": 41800,
+        "endTime": 41880,
+        "pinyin": "xià"
+      },
+      {
+        "token": "出",
+        "startTime": 41880,
+        "endTime": 42050,
+        "pinyin": "chū"
+      },
+      {
+        "token": "汗",
+        "startTime": 42050,
+        "endTime": 42220,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "是",
+        "startTime": 42220,
+        "endTime": 42360,
+        "pinyin": "shì"
+      },
+      {
+        "token": "对",
+        "startTime": 42360,
+        "endTime": 42440,
+        "pinyin": "duì"
+      },
+      {
+        "token": "于",
+        "startTime": 42440,
+        "endTime": 42520,
+        "pinyin": "yú"
+      },
+      {
+        "token": "体",
+        "startTime": 42520,
+        "endTime": 43350,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "内",
+        "startTime": 43350,
+        "endTime": 44180,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "细",
+        "startTime": 44180,
+        "endTime": 44380,
+        "pinyin": "xì"
+      },
+      {
+        "token": "胞",
+        "startTime": 44380,
+        "endTime": 44580,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "运",
+        "startTime": 44580,
+        "endTime": 44760,
+        "pinyin": "yùn"
+      },
+      {
+        "token": "动",
+        "startTime": 44760,
+        "endTime": 44940,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "的",
+        "startTime": 44940,
+        "endTime": 45120,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 45120,
+        "endTime": 45570,
+        "pinyin": "yī"
+      },
+      {
+        "token": "种",
+        "startTime": 45570,
+        "endTime": 46020,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "反",
+        "startTime": 46020,
+        "endTime": 46180,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 46180,
+        "endTime": 46340,
+        "pinyin": "yìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "当 你 的 速度 加快",
+    "translations": {
+      "en": "As you speed up,"
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 46340,
+        "endTime": 46480,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "你",
+        "startTime": 46480,
+        "endTime": 46620,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 46620,
+        "endTime": 46740,
+        "pinyin": "de"
+      },
+      {
+        "token": "速",
+        "startTime": 46740,
+        "endTime": 46950,
+        "pinyin": "sù"
+      },
+      {
+        "token": "度",
+        "startTime": 46950,
+        "endTime": 47160,
+        "pinyin": "dù"
+      },
+      {
+        "token": "加",
+        "startTime": 47160,
+        "endTime": 47280,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "快",
+        "startTime": 47280,
+        "endTime": 47400,
+        "pinyin": "kuài"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 身上 的 肌肉 更 努力 地 工作",
+    "translations": {
+      "en": "your muscles work harder,"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 47400,
+        "endTime": 48040,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "身",
+        "startTime": 48040,
+        "endTime": 48140,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "上",
+        "startTime": 48140,
+        "endTime": 48240,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "的",
+        "startTime": 48240,
+        "endTime": 48440,
+        "pinyin": "de"
+      },
+      {
+        "token": "肌",
+        "startTime": 48440,
+        "endTime": 48610,
+        "pinyin": "jī"
+      },
+      {
+        "token": "肉",
+        "startTime": 48610,
+        "endTime": 48780,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "更",
+        "startTime": 48780,
+        "endTime": 49060,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "努",
+        "startTime": 49060,
+        "endTime": 49190,
+        "pinyin": "nǔ"
+      },
+      {
+        "token": "力",
+        "startTime": 49190,
+        "endTime": 49320,
+        "pinyin": "lì"
+      },
+      {
+        "token": "地",
+        "startTime": 49320,
+        "endTime": 50860,
+        "pinyin": "dì"
+      },
+      {
+        "token": "工",
+        "startTime": 50860,
+        "endTime": 50990,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "作",
+        "startTime": 50990,
+        "endTime": 51120,
+        "pinyin": "zuò"
+      }
+    ]
+  },
+  {
+    "sentence_text": "需要 的 能量 也 就 越 多",
+    "translations": {
+      "en": "requiring more energy."
+    },
+    "segments": [
+      {
+        "token": "需",
+        "startTime": 51120,
+        "endTime": 51290,
+        "pinyin": "xū"
+      },
+      {
+        "token": "要",
+        "startTime": 51290,
+        "endTime": 51460,
+        "pinyin": "yào"
+      },
+      {
+        "token": "的",
+        "startTime": 51460,
+        "endTime": 51840,
+        "pinyin": "de"
+      },
+      {
+        "token": "能",
+        "startTime": 51840,
+        "endTime": 52060,
+        "pinyin": "néng"
+      },
+      {
+        "token": "量",
+        "startTime": 52060,
+        "endTime": 52280,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "也",
+        "startTime": 52280,
+        "endTime": 52420,
+        "pinyin": "yě"
+      },
+      {
+        "token": "就",
+        "startTime": 52420,
+        "endTime": 52540,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "越",
+        "startTime": 52540,
+        "endTime": 52700,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "多",
+        "startTime": 52700,
+        "endTime": 53140,
+        "pinyin": "duō"
+      }
+    ]
+  },
+  {
+    "sentence_text": "一种 名为 细胞 呼吸 的 过程",
+    "translations": {
+      "en": "A process called cellular respiration,"
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 53140,
+        "endTime": 53360,
+        "pinyin": "yī"
+      },
+      {
+        "token": "种",
+        "startTime": 53360,
+        "endTime": 53580,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "名",
+        "startTime": 53580,
+        "endTime": 53760,
+        "pinyin": "míng"
+      },
+      {
+        "token": "为",
+        "startTime": 53760,
+        "endTime": 53940,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "细",
+        "startTime": 53940,
+        "endTime": 54110,
+        "pinyin": "xì"
+      },
+      {
+        "token": "胞",
+        "startTime": 54110,
+        "endTime": 54280,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "呼",
+        "startTime": 54280,
+        "endTime": 54480,
+        "pinyin": "hū"
+      },
+      {
+        "token": "吸",
+        "startTime": 54480,
+        "endTime": 54680,
+        "pinyin": "xī"
+      },
+      {
+        "token": "的",
+        "startTime": 54680,
+        "endTime": 55240,
+        "pinyin": "de"
+      },
+      {
+        "token": "过",
+        "startTime": 55240,
+        "endTime": 55430,
+        "pinyin": "guò"
+      },
+      {
+        "token": "程",
+        "startTime": 55430,
+        "endTime": 55620,
+        "pinyin": "chéng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "AT P 也 就是 细胞 的 能量 货币",
+    "translations": {
+      "en": "ATP—the energy currency of cells—"
+    },
+    "segments": [
+      {
+        "token": "A",
+        "startTime": 55620,
+        "endTime": 55740,
+        "pinyin": "A"
+      },
+      {
+        "token": "T",
+        "startTime": 55740,
+        "endTime": 55860,
+        "pinyin": "T"
+      },
+      {
+        "token": "P",
+        "startTime": 55860,
+        "endTime": 56880,
+        "pinyin": "P"
+      },
+      {
+        "token": "也",
+        "startTime": 56880,
+        "endTime": 57040,
+        "pinyin": "yě"
+      },
+      {
+        "token": "就",
+        "startTime": 57040,
+        "endTime": 57170,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "是",
+        "startTime": 57170,
+        "endTime": 57300,
+        "pinyin": "shì"
+      },
+      {
+        "token": "细",
+        "startTime": 57300,
+        "endTime": 57500,
+        "pinyin": "xì"
+      },
+      {
+        "token": "胞",
+        "startTime": 57500,
+        "endTime": 57700,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "的",
+        "startTime": 57700,
+        "endTime": 57880,
+        "pinyin": "de"
+      },
+      {
+        "token": "能",
+        "startTime": 57880,
+        "endTime": 58110,
+        "pinyin": "néng"
+      },
+      {
+        "token": "量",
+        "startTime": 58110,
+        "endTime": 58340,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "货",
+        "startTime": 58340,
+        "endTime": 59960,
+        "pinyin": "huò"
+      },
+      {
+        "token": "币",
+        "startTime": 59960,
+        "endTime": 61580,
+        "pinyin": "bì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这一 过程 大部分 发生 在 线粒体 中",
+    "translations": {
+      "en": "mostly occurs in the mitochondria."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 61580,
+        "endTime": 61710,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "一",
+        "startTime": 61710,
+        "endTime": 61840,
+        "pinyin": "yī"
+      },
+      {
+        "token": "过",
+        "startTime": 61840,
+        "endTime": 62010,
+        "pinyin": "guò"
+      },
+      {
+        "token": "程",
+        "startTime": 62010,
+        "endTime": 62180,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "大",
+        "startTime": 62180,
+        "endTime": 62340,
+        "pinyin": "dà"
+      },
+      {
+        "token": "部",
+        "startTime": 62340,
+        "endTime": 62500,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 62500,
+        "endTime": 62660,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "发",
+        "startTime": 62660,
+        "endTime": 62860,
+        "pinyin": "fā"
+      },
+      {
+        "token": "生",
+        "startTime": 62860,
+        "endTime": 63060,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "在",
+        "startTime": 63060,
+        "endTime": 63220,
+        "pinyin": "zài"
+      },
+      {
+        "token": "线",
+        "startTime": 63220,
+        "endTime": 63407,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "粒",
+        "startTime": 63407,
+        "endTime": 63593,
+        "pinyin": "lì"
+      },
+      {
+        "token": "体",
+        "startTime": 63593,
+        "endTime": 63780,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "中",
+        "startTime": 63780,
+        "endTime": 66320,
+        "pinyin": "zhōng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 运动 越 多 , 线粒体 就 越 努力 工作",
+    "translations": {
+      "en": "The more you exercise, the harder the mitochondria work,"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 66320,
+        "endTime": 66500,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "运",
+        "startTime": 66500,
+        "endTime": 66690,
+        "pinyin": "yùn"
+      },
+      {
+        "token": "动",
+        "startTime": 66690,
+        "endTime": 66880,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "越",
+        "startTime": 66880,
+        "endTime": 66960,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "多",
+        "startTime": 66960,
+        "endTime": 67560,
+        "pinyin": "duō"
+      },
+      {
+        "token": ",",
+        "startTime": 67560,
+        "endTime": 67680,
+        "pinyin": ","
+      },
+      {
+        "token": "线",
+        "startTime": 67680,
+        "endTime": 67840,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "粒",
+        "startTime": 67840,
+        "endTime": 68000,
+        "pinyin": "lì"
+      },
+      {
+        "token": "体",
+        "startTime": 68000,
+        "endTime": 68160,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "就",
+        "startTime": 68160,
+        "endTime": 68280,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "越",
+        "startTime": 68280,
+        "endTime": 68500,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "努",
+        "startTime": 68500,
+        "endTime": 68750,
+        "pinyin": "nǔ"
+      },
+      {
+        "token": "力",
+        "startTime": 68750,
+        "endTime": 69000,
+        "pinyin": "lì"
+      },
+      {
+        "token": "工",
+        "startTime": 69000,
+        "endTime": 69320,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "作",
+        "startTime": 69320,
+        "endTime": 69640,
+        "pinyin": "zuò"
+      }
+    ]
+  },
+  {
+    "sentence_text": "为 你 的 身体 供应 所 需",
+    "translations": {
+      "en": "supplying your body with what it needs."
+    },
+    "segments": [
+      {
+        "token": "为",
+        "startTime": 69640,
+        "endTime": 69800,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "你",
+        "startTime": 69800,
+        "endTime": 70000,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 70000,
+        "endTime": 70200,
+        "pinyin": "de"
+      },
+      {
+        "token": "身",
+        "startTime": 70200,
+        "endTime": 70370,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "体",
+        "startTime": 70370,
+        "endTime": 70540,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "供",
+        "startTime": 70540,
+        "endTime": 70678,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "应",
+        "startTime": 70678,
+        "endTime": 70815,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "所",
+        "startTime": 70815,
+        "endTime": 70955,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "需",
+        "startTime": 70955,
+        "endTime": 71855,
+        "pinyin": "xū"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但是 , 这些 工作 都 是 有 代价 的 ,",
+    "translations": {
+      "en": "But this work comes at a cost:"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 71855,
+        "endTime": 72008,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "是",
+        "startTime": 72008,
+        "endTime": 72162,
+        "pinyin": "shì"
+      },
+      {
+        "token": ",",
+        "startTime": 72162,
+        "endTime": 72315,
+        "pinyin": ","
+      },
+      {
+        "token": "这",
+        "startTime": 72315,
+        "endTime": 72605,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 72605,
+        "endTime": 72895,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "工",
+        "startTime": 72895,
+        "endTime": 73035,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "作",
+        "startTime": 73035,
+        "endTime": 73175,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "都",
+        "startTime": 73175,
+        "endTime": 73455,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "是",
+        "startTime": 73455,
+        "endTime": 73575,
+        "pinyin": "shì"
+      },
+      {
+        "token": "有",
+        "startTime": 73575,
+        "endTime": 73715,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "代",
+        "startTime": 73715,
+        "endTime": 74045,
+        "pinyin": "dài"
+      },
+      {
+        "token": "价",
+        "startTime": 74045,
+        "endTime": 74375,
+        "pinyin": "jià"
+      },
+      {
+        "token": "的",
+        "startTime": 74375,
+        "endTime": 74615,
+        "pinyin": "de"
+      },
+      {
+        "token": ",",
+        "startTime": 74615,
+        "endTime": 74815,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 细胞 AT P 时 , 它们 会 同时 散发 热量 。",
+    "translations": {
+      "en": "when cells produce ATP, they also release heat."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 74815,
+        "endTime": 74935,
+        "pinyin": "zài"
+      },
+      {
+        "token": "细",
+        "startTime": 74935,
+        "endTime": 75115,
+        "pinyin": "xì"
+      },
+      {
+        "token": "胞",
+        "startTime": 75115,
+        "endTime": 75295,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "A",
+        "startTime": 75295,
+        "endTime": 75395,
+        "pinyin": "A"
+      },
+      {
+        "token": "T",
+        "startTime": 75395,
+        "endTime": 75495,
+        "pinyin": "T"
+      },
+      {
+        "token": "P",
+        "startTime": 75495,
+        "endTime": 75775,
+        "pinyin": "P"
+      },
+      {
+        "token": "时",
+        "startTime": 75775,
+        "endTime": 76395,
+        "pinyin": "shí"
+      },
+      {
+        "token": ",",
+        "startTime": 76395,
+        "endTime": 76515,
+        "pinyin": ","
+      },
+      {
+        "token": "它",
+        "startTime": 76515,
+        "endTime": 76615,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 76615,
+        "endTime": 76715,
+        "pinyin": "men"
+      },
+      {
+        "token": "会",
+        "startTime": 76715,
+        "endTime": 76895,
+        "pinyin": "huì"
+      },
+      {
+        "token": "同",
+        "startTime": 76895,
+        "endTime": 77165,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "时",
+        "startTime": 77165,
+        "endTime": 77435,
+        "pinyin": "shí"
+      },
+      {
+        "token": "散",
+        "startTime": 77435,
+        "endTime": 77635,
+        "pinyin": "sàn"
+      },
+      {
+        "token": "发",
+        "startTime": 77635,
+        "endTime": 77835,
+        "pinyin": "fā"
+      },
+      {
+        "token": "热",
+        "startTime": 77835,
+        "endTime": 78435,
+        "pinyin": "rè"
+      },
+      {
+        "token": "量",
+        "startTime": 78435,
+        "endTime": 79035,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "。",
+        "startTime": 79035,
+        "endTime": 79235,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 热量 刺激 你 体内 的 温度 感应器 。",
+    "translations": {
+      "en": "This heat stimulates temperature sensors in your body."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 79235,
+        "endTime": 79395,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 79395,
+        "endTime": 79555,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "热",
+        "startTime": 79555,
+        "endTime": 79795,
+        "pinyin": "rè"
+      },
+      {
+        "token": "量",
+        "startTime": 79795,
+        "endTime": 80035,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "刺",
+        "startTime": 80035,
+        "endTime": 80195,
+        "pinyin": "cì"
+      },
+      {
+        "token": "激",
+        "startTime": 80195,
+        "endTime": 80355,
+        "pinyin": "jī"
+      },
+      {
+        "token": "你",
+        "startTime": 80355,
+        "endTime": 80495,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "体",
+        "startTime": 80495,
+        "endTime": 80675,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "内",
+        "startTime": 80675,
+        "endTime": 80855,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "的",
+        "startTime": 80855,
+        "endTime": 80975,
+        "pinyin": "de"
+      },
+      {
+        "token": "温",
+        "startTime": 80975,
+        "endTime": 81195,
+        "pinyin": "wēn"
+      },
+      {
+        "token": "度",
+        "startTime": 81195,
+        "endTime": 81415,
+        "pinyin": "dù"
+      },
+      {
+        "token": "感",
+        "startTime": 81415,
+        "endTime": 82115,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 82115,
+        "endTime": 82815,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "器",
+        "startTime": 82815,
+        "endTime": 83515,
+        "pinyin": "qì"
+      },
+      {
+        "token": "。",
+        "startTime": 83515,
+        "endTime": 83715,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "感应器 接收 了 你 肌肉 细胞 所 产生 的 多余 热量 ,",
+    "translations": {
+      "en": "Sensors detect the excess heat generated by your muscle cells,"
+    },
+    "segments": [
+      {
+        "token": "感",
+        "startTime": 83715,
+        "endTime": 83982,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 83982,
+        "endTime": 84248,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "器",
+        "startTime": 84248,
+        "endTime": 84515,
+        "pinyin": "qì"
+      },
+      {
+        "token": "接",
+        "startTime": 84515,
+        "endTime": 84675,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "收",
+        "startTime": 84675,
+        "endTime": 84835,
+        "pinyin": "shōu"
+      },
+      {
+        "token": "了",
+        "startTime": 84835,
+        "endTime": 84955,
+        "pinyin": "le"
+      },
+      {
+        "token": "你",
+        "startTime": 84955,
+        "endTime": 85195,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "肌",
+        "startTime": 85195,
+        "endTime": 85355,
+        "pinyin": "jī"
+      },
+      {
+        "token": "肉",
+        "startTime": 85355,
+        "endTime": 85515,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "细",
+        "startTime": 85515,
+        "endTime": 85695,
+        "pinyin": "xì"
+      },
+      {
+        "token": "胞",
+        "startTime": 85695,
+        "endTime": 85875,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "所",
+        "startTime": 85875,
+        "endTime": 86135,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "产",
+        "startTime": 86135,
+        "endTime": 86285,
+        "pinyin": "chǎn"
+      },
+      {
+        "token": "生",
+        "startTime": 86285,
+        "endTime": 86435,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "的",
+        "startTime": 86435,
+        "endTime": 86575,
+        "pinyin": "de"
+      },
+      {
+        "token": "多",
+        "startTime": 86575,
+        "endTime": 86705,
+        "pinyin": "duō"
+      },
+      {
+        "token": "余",
+        "startTime": 86705,
+        "endTime": 86835,
+        "pinyin": "yú"
+      },
+      {
+        "token": "热",
+        "startTime": 86835,
+        "endTime": 86965,
+        "pinyin": "rè"
+      },
+      {
+        "token": "量",
+        "startTime": 86965,
+        "endTime": 87095,
+        "pinyin": "liàng"
+      },
+      {
+        "token": ",",
+        "startTime": 87095,
+        "endTime": 88175,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "并 把 这 一 信息 传给 负责 调控 体温 的 下丘脑 。",
+    "translations": {
+      "en": "and transmit this information to the hypothalamus, which regulates body temperature."
+    },
+    "segments": [
+      {
+        "token": "并",
+        "startTime": 88175,
+        "endTime": 88275,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "把",
+        "startTime": 88275,
+        "endTime": 88455,
+        "pinyin": "bǎ"
+      },
+      {
+        "token": "这",
+        "startTime": 88455,
+        "endTime": 88575,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "一",
+        "startTime": 88575,
+        "endTime": 88755,
+        "pinyin": "yī"
+      },
+      {
+        "token": "信",
+        "startTime": 88755,
+        "endTime": 89045,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "息",
+        "startTime": 89045,
+        "endTime": 89335,
+        "pinyin": "xī"
+      },
+      {
+        "token": "传",
+        "startTime": 89335,
+        "endTime": 89595,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "给",
+        "startTime": 89595,
+        "endTime": 89855,
+        "pinyin": "gěi"
+      },
+      {
+        "token": "负",
+        "startTime": 89855,
+        "endTime": 90075,
+        "pinyin": "fù"
+      },
+      {
+        "token": "责",
+        "startTime": 90075,
+        "endTime": 90295,
+        "pinyin": "zé"
+      },
+      {
+        "token": "调",
+        "startTime": 90295,
+        "endTime": 90505,
+        "pinyin": "tiáo"
+      },
+      {
+        "token": "控",
+        "startTime": 90505,
+        "endTime": 90715,
+        "pinyin": "kòng"
+      },
+      {
+        "token": "体",
+        "startTime": 90715,
+        "endTime": 90905,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "温",
+        "startTime": 90905,
+        "endTime": 91095,
+        "pinyin": "wēn"
+      },
+      {
+        "token": "的",
+        "startTime": 91095,
+        "endTime": 91355,
+        "pinyin": "de"
+      },
+      {
+        "token": "下",
+        "startTime": 91355,
+        "endTime": 91848,
+        "pinyin": "xià"
+      },
+      {
+        "token": "丘",
+        "startTime": 91848,
+        "endTime": 92342,
+        "pinyin": "qiū"
+      },
+      {
+        "token": "脑",
+        "startTime": 92342,
+        "endTime": 92835,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "。",
+        "startTime": 92835,
+        "endTime": 93015,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "下丘脑 对此 做出 反应",
+    "translations": {
+      "en": "The hypothalamus responds"
+    },
+    "segments": [
+      {
+        "token": "下",
+        "startTime": 93015,
+        "endTime": 93195,
+        "pinyin": "xià"
+      },
+      {
+        "token": "丘",
+        "startTime": 93195,
+        "endTime": 93375,
+        "pinyin": "qiū"
+      },
+      {
+        "token": "脑",
+        "startTime": 93375,
+        "endTime": 93555,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "对",
+        "startTime": 93555,
+        "endTime": 93775,
+        "pinyin": "duì"
+      },
+      {
+        "token": "此",
+        "startTime": 93775,
+        "endTime": 93995,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "做",
+        "startTime": 93995,
+        "endTime": 94165,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "出",
+        "startTime": 94165,
+        "endTime": 94335,
+        "pinyin": "chū"
+      },
+      {
+        "token": "反",
+        "startTime": 94335,
+        "endTime": 94765,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 94765,
+        "endTime": 95195,
+        "pinyin": "yìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "通过 遍布 人体 的 交感神经 系统",
+    "translations": {
+      "en": "by sending signals through the sympathetic nervous system throughout your body"
+    },
+    "segments": [
+      {
+        "token": "通",
+        "startTime": 95195,
+        "endTime": 95365,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "过",
+        "startTime": 95365,
+        "endTime": 95535,
+        "pinyin": "guò"
+      },
+      {
+        "token": "遍",
+        "startTime": 95535,
+        "endTime": 95695,
+        "pinyin": "biàn"
+      },
+      {
+        "token": "布",
+        "startTime": 95695,
+        "endTime": 95855,
+        "pinyin": "bù"
+      },
+      {
+        "token": "人",
+        "startTime": 95855,
+        "endTime": 96015,
+        "pinyin": "rén"
+      },
+      {
+        "token": "体",
+        "startTime": 96015,
+        "endTime": 96175,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 96175,
+        "endTime": 96375,
+        "pinyin": "de"
+      },
+      {
+        "token": "交",
+        "startTime": 96375,
+        "endTime": 96565,
+        "pinyin": "jiāo"
+      },
+      {
+        "token": "感",
+        "startTime": 96565,
+        "endTime": 96755,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "神",
+        "startTime": 96755,
+        "endTime": 96945,
+        "pinyin": "shén"
+      },
+      {
+        "token": "经",
+        "startTime": 96945,
+        "endTime": 97135,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "系",
+        "startTime": 97135,
+        "endTime": 97485,
+        "pinyin": "xì"
+      },
+      {
+        "token": "统",
+        "startTime": 97485,
+        "endTime": 97835,
+        "pinyin": "tǒng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "向 皮肤 中 的 汗线 发出信号",
+    "translations": {
+      "en": "to the sweat glands in your skin."
+    },
+    "segments": [
+      {
+        "token": "向",
+        "startTime": 97835,
+        "endTime": 98075,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "皮",
+        "startTime": 98075,
+        "endTime": 98265,
+        "pinyin": "pí"
+      },
+      {
+        "token": "肤",
+        "startTime": 98265,
+        "endTime": 98455,
+        "pinyin": "fū"
+      },
+      {
+        "token": "中",
+        "startTime": 98455,
+        "endTime": 98635,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "的",
+        "startTime": 98635,
+        "endTime": 98795,
+        "pinyin": "de"
+      },
+      {
+        "token": "汗",
+        "startTime": 98795,
+        "endTime": 99055,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "线",
+        "startTime": 99055,
+        "endTime": 99315,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "发",
+        "startTime": 99315,
+        "endTime": 99840,
+        "pinyin": "fā"
+      },
+      {
+        "token": "出",
+        "startTime": 99840,
+        "endTime": 100365,
+        "pinyin": "chū"
+      },
+      {
+        "token": "信",
+        "startTime": 100365,
+        "endTime": 100890,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "号",
+        "startTime": 100890,
+        "endTime": 101415,
+        "pinyin": "hào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 汗线 遍布 你 的 全身",
+    "translations": {
+      "en": "These sweat glands are spread across your entire body,"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 101415,
+        "endTime": 101595,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 101595,
+        "endTime": 101775,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "汗",
+        "startTime": 101775,
+        "endTime": 102065,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "线",
+        "startTime": 102065,
+        "endTime": 102355,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "遍",
+        "startTime": 102355,
+        "endTime": 102555,
+        "pinyin": "biàn"
+      },
+      {
+        "token": "布",
+        "startTime": 102555,
+        "endTime": 102755,
+        "pinyin": "bù"
+      },
+      {
+        "token": "你",
+        "startTime": 102755,
+        "endTime": 102915,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 102915,
+        "endTime": 104495,
+        "pinyin": "de"
+      },
+      {
+        "token": "全",
+        "startTime": 104495,
+        "endTime": 104675,
+        "pinyin": "quán"
+      },
+      {
+        "token": "身",
+        "startTime": 104675,
+        "endTime": 104855,
+        "pinyin": "shēn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "密集 分布 于 手掌 、 脚掌 和 头部",
+    "translations": {
+      "en": "densely concentrated on your palms, soles, and head."
+    },
+    "segments": [
+      {
+        "token": "密",
+        "startTime": 104855,
+        "endTime": 105035,
+        "pinyin": "mì"
+      },
+      {
+        "token": "集",
+        "startTime": 105035,
+        "endTime": 105215,
+        "pinyin": "jí"
+      },
+      {
+        "token": "分",
+        "startTime": 105215,
+        "endTime": 105655,
+        "pinyin": "fēn"
+      },
+      {
+        "token": "布",
+        "startTime": 105655,
+        "endTime": 106095,
+        "pinyin": "bù"
+      },
+      {
+        "token": "于",
+        "startTime": 106095,
+        "endTime": 107015,
+        "pinyin": "yú"
+      },
+      {
+        "token": "手",
+        "startTime": 107015,
+        "endTime": 107245,
+        "pinyin": "shǒu"
+      },
+      {
+        "token": "掌",
+        "startTime": 107245,
+        "endTime": 107475,
+        "pinyin": "zhǎng"
+      },
+      {
+        "token": "、",
+        "startTime": 107475,
+        "endTime": 108295,
+        "pinyin": "、"
+      },
+      {
+        "token": "脚",
+        "startTime": 108295,
+        "endTime": 109475,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "掌",
+        "startTime": 109475,
+        "endTime": 110655,
+        "pinyin": "zhǎng"
+      },
+      {
+        "token": "和",
+        "startTime": 110655,
+        "endTime": 110815,
+        "pinyin": "hé"
+      },
+      {
+        "token": "头",
+        "startTime": 110815,
+        "endTime": 111005,
+        "pinyin": "tóu"
+      },
+      {
+        "token": "部",
+        "startTime": 111005,
+        "endTime": 111195,
+        "pinyin": "bù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "当汗线 最初 接到 信号 时",
+    "translations": {
+      "en": "When the sweat glands first receive the signal,"
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 111195,
+        "endTime": 111402,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "汗",
+        "startTime": 111402,
+        "endTime": 111608,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "线",
+        "startTime": 111608,
+        "endTime": 111815,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "最",
+        "startTime": 111815,
+        "endTime": 111975,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "初",
+        "startTime": 111975,
+        "endTime": 112135,
+        "pinyin": "chū"
+      },
+      {
+        "token": "接",
+        "startTime": 112135,
+        "endTime": 112595,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "到",
+        "startTime": 112595,
+        "endTime": 113055,
+        "pinyin": "dào"
+      },
+      {
+        "token": "信",
+        "startTime": 113055,
+        "endTime": 113255,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "号",
+        "startTime": 113255,
+        "endTime": 113455,
+        "pinyin": "hào"
+      },
+      {
+        "token": "时",
+        "startTime": 113455,
+        "endTime": 113635,
+        "pinyin": "shí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 汗线 弯 圆 曲折 的 底部",
+    "translations": {
+      "en": "at the coiled base of the sweat gland,"
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 113635,
+        "endTime": 113835,
+        "pinyin": "zài"
+      },
+      {
+        "token": "汗",
+        "startTime": 113835,
+        "endTime": 114035,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "线",
+        "startTime": 114035,
+        "endTime": 114235,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "弯",
+        "startTime": 114235,
+        "endTime": 114355,
+        "pinyin": "wān"
+      },
+      {
+        "token": "圆",
+        "startTime": 114355,
+        "endTime": 114515,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "曲",
+        "startTime": 114515,
+        "endTime": 115035,
+        "pinyin": "qū"
+      },
+      {
+        "token": "折",
+        "startTime": 115035,
+        "endTime": 115555,
+        "pinyin": "zhé"
+      },
+      {
+        "token": "的",
+        "startTime": 115555,
+        "endTime": 115755,
+        "pinyin": "de"
+      },
+      {
+        "token": "底",
+        "startTime": 115755,
+        "endTime": 115925,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "部",
+        "startTime": 115925,
+        "endTime": 116095,
+        "pinyin": "bù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "细胞 周围 的 液体 中 含有 大量 的 钠离子 和 氯离子",
+    "translations": {
+      "en": "the fluid surrounding the cells contains a high concentration of sodium and chloride ions."
+    },
+    "segments": [
+      {
+        "token": "细",
+        "startTime": 116095,
+        "endTime": 116205,
+        "pinyin": "xì"
+      },
+      {
+        "token": "胞",
+        "startTime": 116205,
+        "endTime": 116315,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "周",
+        "startTime": 116315,
+        "endTime": 116475,
+        "pinyin": "zhōu"
+      },
+      {
+        "token": "围",
+        "startTime": 116475,
+        "endTime": 116635,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "的",
+        "startTime": 116635,
+        "endTime": 116635,
+        "pinyin": "de"
+      },
+      {
+        "token": "液",
+        "startTime": 116635,
+        "endTime": 116975,
+        "pinyin": "yè"
+      },
+      {
+        "token": "体",
+        "startTime": 116975,
+        "endTime": 117315,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "中",
+        "startTime": 117315,
+        "endTime": 117495,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "含",
+        "startTime": 117495,
+        "endTime": 117695,
+        "pinyin": "hán"
+      },
+      {
+        "token": "有",
+        "startTime": 117695,
+        "endTime": 117895,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "大",
+        "startTime": 117895,
+        "endTime": 118115,
+        "pinyin": "dà"
+      },
+      {
+        "token": "量",
+        "startTime": 118115,
+        "endTime": 118335,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "的",
+        "startTime": 118335,
+        "endTime": 118435,
+        "pinyin": "de"
+      },
+      {
+        "token": "钠",
+        "startTime": 118435,
+        "endTime": 118615,
+        "pinyin": "nà"
+      },
+      {
+        "token": "离",
+        "startTime": 118615,
+        "endTime": 118795,
+        "pinyin": "lí"
+      },
+      {
+        "token": "子",
+        "startTime": 118795,
+        "endTime": 118975,
+        "pinyin": "zi"
+      },
+      {
+        "token": "和",
+        "startTime": 118975,
+        "endTime": 120255,
+        "pinyin": "hé"
+      },
+      {
+        "token": "氯",
+        "startTime": 120255,
+        "endTime": 120402,
+        "pinyin": "lǜ"
+      },
+      {
+        "token": "离",
+        "startTime": 120402,
+        "endTime": 120548,
+        "pinyin": "lí"
+      },
+      {
+        "token": "子",
+        "startTime": 120548,
+        "endTime": 120695,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 细胞 将 这些 离子 抽送 进 一个 贯穿 汗线 的 小 空心 管",
+    "translations": {
+      "en": "These cells pump these ions into a small hollow tube running through the sweat gland."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 120695,
+        "endTime": 121025,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 121025,
+        "endTime": 121355,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "细",
+        "startTime": 121355,
+        "endTime": 121565,
+        "pinyin": "xì"
+      },
+      {
+        "token": "胞",
+        "startTime": 121565,
+        "endTime": 121775,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "将",
+        "startTime": 121775,
+        "endTime": 121875,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "这",
+        "startTime": 121875,
+        "endTime": 122135,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 122135,
+        "endTime": 122395,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "离",
+        "startTime": 122395,
+        "endTime": 122615,
+        "pinyin": "lí"
+      },
+      {
+        "token": "子",
+        "startTime": 122615,
+        "endTime": 122835,
+        "pinyin": "zi"
+      },
+      {
+        "token": "抽",
+        "startTime": 122835,
+        "endTime": 122965,
+        "pinyin": "chōu"
+      },
+      {
+        "token": "送",
+        "startTime": 122965,
+        "endTime": 123095,
+        "pinyin": "sòng"
+      },
+      {
+        "token": "进",
+        "startTime": 123095,
+        "endTime": 123375,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "一",
+        "startTime": 123375,
+        "endTime": 123605,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 123605,
+        "endTime": 123835,
+        "pinyin": "gè"
+      },
+      {
+        "token": "贯",
+        "startTime": 123835,
+        "endTime": 123985,
+        "pinyin": "guàn"
+      },
+      {
+        "token": "穿",
+        "startTime": 123985,
+        "endTime": 124135,
+        "pinyin": "chuān"
+      },
+      {
+        "token": "汗",
+        "startTime": 124135,
+        "endTime": 124395,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "线",
+        "startTime": 124395,
+        "endTime": 124655,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "的",
+        "startTime": 124655,
+        "endTime": 124775,
+        "pinyin": "de"
+      },
+      {
+        "token": "小",
+        "startTime": 124775,
+        "endTime": 125975,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "空",
+        "startTime": 125975,
+        "endTime": 126165,
+        "pinyin": "kōng"
+      },
+      {
+        "token": "心",
+        "startTime": 126165,
+        "endTime": 126355,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "管",
+        "startTime": 126355,
+        "endTime": 127195,
+        "pinyin": "guǎn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "紧接着 由于 管内 比管外 严度 更 高",
+    "translations": {
+      "en": "Then, because the inside of the tube is saltier than the outside,"
+    },
+    "segments": [
+      {
+        "token": "紧",
+        "startTime": 127195,
+        "endTime": 127348,
+        "pinyin": "jǐn"
+      },
+      {
+        "token": "接",
+        "startTime": 127348,
+        "endTime": 127502,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "着",
+        "startTime": 127502,
+        "endTime": 127655,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "由",
+        "startTime": 127655,
+        "endTime": 127945,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "于",
+        "startTime": 127945,
+        "endTime": 128235,
+        "pinyin": "yú"
+      },
+      {
+        "token": "管",
+        "startTime": 128235,
+        "endTime": 128485,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "内",
+        "startTime": 128485,
+        "endTime": 128735,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "比",
+        "startTime": 128735,
+        "endTime": 128915,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "管",
+        "startTime": 128915,
+        "endTime": 129095,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "外",
+        "startTime": 129095,
+        "endTime": 129275,
+        "pinyin": "wài"
+      },
+      {
+        "token": "严",
+        "startTime": 129275,
+        "endTime": 129795,
+        "pinyin": "yán"
+      },
+      {
+        "token": "度",
+        "startTime": 129795,
+        "endTime": 130315,
+        "pinyin": "dù"
+      },
+      {
+        "token": "更",
+        "startTime": 130315,
+        "endTime": 130475,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "高",
+        "startTime": 130475,
+        "endTime": 130635,
+        "pinyin": "gāo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "渗透 作用 使 水分 进入 管中",
+    "translations": {
+      "en": "osmosis draws water into the tube."
+    },
+    "segments": [
+      {
+        "token": "渗",
+        "startTime": 130635,
+        "endTime": 130795,
+        "pinyin": "shèn"
+      },
+      {
+        "token": "透",
+        "startTime": 130795,
+        "endTime": 130955,
+        "pinyin": "tòu"
+      },
+      {
+        "token": "作",
+        "startTime": 130955,
+        "endTime": 131205,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "用",
+        "startTime": 131205,
+        "endTime": 131455,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "使",
+        "startTime": 131455,
+        "endTime": 131755,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "水",
+        "startTime": 131755,
+        "endTime": 131945,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 131945,
+        "endTime": 132135,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "进",
+        "startTime": 132135,
+        "endTime": 133055,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "入",
+        "startTime": 133055,
+        "endTime": 133975,
+        "pinyin": "rù"
+      },
+      {
+        "token": "管",
+        "startTime": 133975,
+        "endTime": 134135,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "中",
+        "startTime": 134135,
+        "endTime": 134295,
+        "pinyin": "zhōng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "随着 这些 主要 分泌物 在 空心 管 的 底部 越积越 多",
+    "translations": {
+      "en": "As these primary secretions accumulate at the base of the hollow tube,"
+    },
+    "segments": [
+      {
+        "token": "随",
+        "startTime": 134295,
+        "endTime": 134425,
+        "pinyin": "suí"
+      },
+      {
+        "token": "着",
+        "startTime": 134425,
+        "endTime": 134555,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "这",
+        "startTime": 134555,
+        "endTime": 134765,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 134765,
+        "endTime": 134975,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "主",
+        "startTime": 134975,
+        "endTime": 135125,
+        "pinyin": "zhǔ"
+      },
+      {
+        "token": "要",
+        "startTime": 135125,
+        "endTime": 135275,
+        "pinyin": "yào"
+      },
+      {
+        "token": "分",
+        "startTime": 135275,
+        "endTime": 135595,
+        "pinyin": "fēn"
+      },
+      {
+        "token": "泌",
+        "startTime": 135595,
+        "endTime": 135915,
+        "pinyin": "mì"
+      },
+      {
+        "token": "物",
+        "startTime": 135915,
+        "endTime": 136235,
+        "pinyin": "wù"
+      },
+      {
+        "token": "在",
+        "startTime": 136235,
+        "endTime": 136435,
+        "pinyin": "zài"
+      },
+      {
+        "token": "空",
+        "startTime": 136435,
+        "endTime": 136585,
+        "pinyin": "kōng"
+      },
+      {
+        "token": "心",
+        "startTime": 136585,
+        "endTime": 136735,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "管",
+        "startTime": 136735,
+        "endTime": 137015,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "的",
+        "startTime": 137015,
+        "endTime": 137275,
+        "pinyin": "de"
+      },
+      {
+        "token": "底",
+        "startTime": 137275,
+        "endTime": 137395,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "部",
+        "startTime": 137395,
+        "endTime": 137515,
+        "pinyin": "bù"
+      },
+      {
+        "token": "越",
+        "startTime": 137515,
+        "endTime": 138028,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "积",
+        "startTime": 138028,
+        "endTime": 138542,
+        "pinyin": "jī"
+      },
+      {
+        "token": "越",
+        "startTime": 138542,
+        "endTime": 139055,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "多",
+        "startTime": 139055,
+        "endTime": 139295,
+        "pinyin": "duō"
+      }
+    ]
+  },
+  {
+    "sentence_text": "压力 使水 上升 到 小 管长 而直 的 部分 中",
+    "translations": {
+      "en": "pressure forces the water up into the long, straight portion of the tube."
+    },
+    "segments": [
+      {
+        "token": "压",
+        "startTime": 139295,
+        "endTime": 139545,
+        "pinyin": "yā"
+      },
+      {
+        "token": "力",
+        "startTime": 139545,
+        "endTime": 139795,
+        "pinyin": "lì"
+      },
+      {
+        "token": "使",
+        "startTime": 139795,
+        "endTime": 139945,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "水",
+        "startTime": 139945,
+        "endTime": 140095,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "上",
+        "startTime": 140095,
+        "endTime": 140325,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "升",
+        "startTime": 140325,
+        "endTime": 140555,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "到",
+        "startTime": 140555,
+        "endTime": 140915,
+        "pinyin": "dào"
+      },
+      {
+        "token": "小",
+        "startTime": 140915,
+        "endTime": 141155,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "管",
+        "startTime": 141155,
+        "endTime": 141315,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "长",
+        "startTime": 141315,
+        "endTime": 141475,
+        "pinyin": "zhǎng"
+      },
+      {
+        "token": "而",
+        "startTime": 141475,
+        "endTime": 141615,
+        "pinyin": "ér"
+      },
+      {
+        "token": "直",
+        "startTime": 141615,
+        "endTime": 141755,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "的",
+        "startTime": 141755,
+        "endTime": 143855,
+        "pinyin": "de"
+      },
+      {
+        "token": "部",
+        "startTime": 143855,
+        "endTime": 144043,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 144043,
+        "endTime": 144230,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "中",
+        "startTime": 144230,
+        "endTime": 144450,
+        "pinyin": "zhōng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 渗出 皮肤 之前",
+    "translations": {
+      "en": "Before it exits the skin,"
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 144450,
+        "endTime": 144690,
+        "pinyin": "zài"
+      },
+      {
+        "token": "渗",
+        "startTime": 144690,
+        "endTime": 145220,
+        "pinyin": "shèn"
+      },
+      {
+        "token": "出",
+        "startTime": 145220,
+        "endTime": 145750,
+        "pinyin": "chū"
+      },
+      {
+        "token": "皮",
+        "startTime": 145750,
+        "endTime": 145950,
+        "pinyin": "pí"
+      },
+      {
+        "token": "肤",
+        "startTime": 145950,
+        "endTime": 146150,
+        "pinyin": "fū"
+      },
+      {
+        "token": "之",
+        "startTime": 146150,
+        "endTime": 146340,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "前",
+        "startTime": 146340,
+        "endTime": 146530,
+        "pinyin": "qián"
+      }
+    ]
+  },
+  {
+    "sentence_text": "小管 周围 的 细胞 会 尽可能 多地 吸收 盐分",
+    "translations": {
+      "en": "the cells surrounding the tube absorb as much salt as possible,"
+    },
+    "segments": [
+      {
+        "token": "小",
+        "startTime": 146530,
+        "endTime": 146680,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "管",
+        "startTime": 146680,
+        "endTime": 146830,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "周",
+        "startTime": 146830,
+        "endTime": 147150,
+        "pinyin": "zhōu"
+      },
+      {
+        "token": "围",
+        "startTime": 147150,
+        "endTime": 147470,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "的",
+        "startTime": 147470,
+        "endTime": 147770,
+        "pinyin": "de"
+      },
+      {
+        "token": "细",
+        "startTime": 147770,
+        "endTime": 147900,
+        "pinyin": "xì"
+      },
+      {
+        "token": "胞",
+        "startTime": 147900,
+        "endTime": 148030,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "会",
+        "startTime": 148030,
+        "endTime": 148270,
+        "pinyin": "huì"
+      },
+      {
+        "token": "尽",
+        "startTime": 148270,
+        "endTime": 148437,
+        "pinyin": "jǐn"
+      },
+      {
+        "token": "可",
+        "startTime": 148437,
+        "endTime": 148603,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 148603,
+        "endTime": 148770,
+        "pinyin": "néng"
+      },
+      {
+        "token": "多",
+        "startTime": 148770,
+        "endTime": 149170,
+        "pinyin": "duō"
+      },
+      {
+        "token": "地",
+        "startTime": 149170,
+        "endTime": 149570,
+        "pinyin": "dì"
+      },
+      {
+        "token": "吸",
+        "startTime": 149570,
+        "endTime": 149720,
+        "pinyin": "xī"
+      },
+      {
+        "token": "收",
+        "startTime": 149720,
+        "endTime": 149870,
+        "pinyin": "shōu"
+      },
+      {
+        "token": "盐",
+        "startTime": 149870,
+        "endTime": 150050,
+        "pinyin": "yán"
+      },
+      {
+        "token": "分",
+        "startTime": 150050,
+        "endTime": 150230,
+        "pinyin": "fèn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "以 确保 这一 过程 继续 进行",
+    "translations": {
+      "en": "to ensure this process continues."
+    },
+    "segments": [
+      {
+        "token": "以",
+        "startTime": 150230,
+        "endTime": 150270,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "确",
+        "startTime": 150270,
+        "endTime": 150460,
+        "pinyin": "què"
+      },
+      {
+        "token": "保",
+        "startTime": 150460,
+        "endTime": 150650,
+        "pinyin": "bǎo"
+      },
+      {
+        "token": "这",
+        "startTime": 150650,
+        "endTime": 150890,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "一",
+        "startTime": 150890,
+        "endTime": 151130,
+        "pinyin": "yī"
+      },
+      {
+        "token": "过",
+        "startTime": 151130,
+        "endTime": 151940,
+        "pinyin": "guò"
+      },
+      {
+        "token": "程",
+        "startTime": 151940,
+        "endTime": 152750,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "继",
+        "startTime": 152750,
+        "endTime": 152920,
+        "pinyin": "jì"
+      },
+      {
+        "token": "续",
+        "startTime": 152920,
+        "endTime": 153090,
+        "pinyin": "xù"
+      },
+      {
+        "token": "进",
+        "startTime": 153090,
+        "endTime": 153230,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "行",
+        "startTime": 153230,
+        "endTime": 153370,
+        "pinyin": "xíng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "汗液 中 的 水分 能 吸收 你 身体 的 热量",
+    "translations": {
+      "en": "The water in the sweat absorbs heat from your body,"
+    },
+    "segments": [
+      {
+        "token": "汗",
+        "startTime": 153370,
+        "endTime": 153570,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "液",
+        "startTime": 153570,
+        "endTime": 153770,
+        "pinyin": "yè"
+      },
+      {
+        "token": "中",
+        "startTime": 153770,
+        "endTime": 154170,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "的",
+        "startTime": 154170,
+        "endTime": 154430,
+        "pinyin": "de"
+      },
+      {
+        "token": "水",
+        "startTime": 154430,
+        "endTime": 154590,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 154590,
+        "endTime": 154750,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "能",
+        "startTime": 154750,
+        "endTime": 154970,
+        "pinyin": "néng"
+      },
+      {
+        "token": "吸",
+        "startTime": 154970,
+        "endTime": 155120,
+        "pinyin": "xī"
+      },
+      {
+        "token": "收",
+        "startTime": 155120,
+        "endTime": 155270,
+        "pinyin": "shōu"
+      },
+      {
+        "token": "你",
+        "startTime": 155270,
+        "endTime": 155390,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "身",
+        "startTime": 155390,
+        "endTime": 155910,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "体",
+        "startTime": 155910,
+        "endTime": 156430,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 156430,
+        "endTime": 156590,
+        "pinyin": "de"
+      },
+      {
+        "token": "热",
+        "startTime": 156590,
+        "endTime": 156770,
+        "pinyin": "rè"
+      },
+      {
+        "token": "量",
+        "startTime": 156770,
+        "endTime": 156950,
+        "pinyin": "liàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 到达 肌肤 表层 时 蒸发 带走 热量",
+    "translations": {
+      "en": "and evaporates upon reaching the skin's surface, carrying that heat away."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 156950,
+        "endTime": 157090,
+        "pinyin": "zài"
+      },
+      {
+        "token": "到",
+        "startTime": 157090,
+        "endTime": 157330,
+        "pinyin": "dào"
+      },
+      {
+        "token": "达",
+        "startTime": 157330,
+        "endTime": 157570,
+        "pinyin": "dá"
+      },
+      {
+        "token": "肌",
+        "startTime": 157570,
+        "endTime": 157770,
+        "pinyin": "jī"
+      },
+      {
+        "token": "肤",
+        "startTime": 157770,
+        "endTime": 157970,
+        "pinyin": "fū"
+      },
+      {
+        "token": "表",
+        "startTime": 157970,
+        "endTime": 158300,
+        "pinyin": "biǎo"
+      },
+      {
+        "token": "层",
+        "startTime": 158300,
+        "endTime": 158630,
+        "pinyin": "céng"
+      },
+      {
+        "token": "时",
+        "startTime": 158630,
+        "endTime": 158850,
+        "pinyin": "shí"
+      },
+      {
+        "token": "蒸",
+        "startTime": 158850,
+        "endTime": 159220,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "发",
+        "startTime": 159220,
+        "endTime": 159590,
+        "pinyin": "fā"
+      },
+      {
+        "token": "带",
+        "startTime": 159590,
+        "endTime": 159790,
+        "pinyin": "dài"
+      },
+      {
+        "token": "走",
+        "startTime": 159790,
+        "endTime": 159990,
+        "pinyin": "zǒu"
+      },
+      {
+        "token": "热",
+        "startTime": 159990,
+        "endTime": 160240,
+        "pinyin": "rè"
+      },
+      {
+        "token": "量",
+        "startTime": 160240,
+        "endTime": 160490,
+        "pinyin": "liàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "以此 来 降低 你 的 体温",
+    "translations": {
+      "en": "This lowers your body temperature."
+    },
+    "segments": [
+      {
+        "token": "以",
+        "startTime": 160490,
+        "endTime": 160710,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "此",
+        "startTime": 160710,
+        "endTime": 160930,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "来",
+        "startTime": 160930,
+        "endTime": 161190,
+        "pinyin": "lái"
+      },
+      {
+        "token": "降",
+        "startTime": 161190,
+        "endTime": 162380,
+        "pinyin": "jiàng"
+      },
+      {
+        "token": "低",
+        "startTime": 162380,
+        "endTime": 163570,
+        "pinyin": "dī"
+      },
+      {
+        "token": "你",
+        "startTime": 163570,
+        "endTime": 163710,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 163710,
+        "endTime": 163850,
+        "pinyin": "de"
+      },
+      {
+        "token": "体",
+        "startTime": 163850,
+        "endTime": 164050,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "温",
+        "startTime": 164050,
+        "endTime": 164250,
+        "pinyin": "wēn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这一 过程 叫做 蒸发 冷却",
+    "translations": {
+      "en": "This process is called evaporative cooling."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 164250,
+        "endTime": 164490,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "一",
+        "startTime": 164490,
+        "endTime": 164730,
+        "pinyin": "yī"
+      },
+      {
+        "token": "过",
+        "startTime": 164730,
+        "endTime": 164920,
+        "pinyin": "guò"
+      },
+      {
+        "token": "程",
+        "startTime": 164920,
+        "endTime": 165110,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "叫",
+        "startTime": 165110,
+        "endTime": 165520,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "做",
+        "startTime": 165520,
+        "endTime": 165930,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "蒸",
+        "startTime": 165930,
+        "endTime": 166060,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "发",
+        "startTime": 166060,
+        "endTime": 166190,
+        "pinyin": "fā"
+      },
+      {
+        "token": "冷",
+        "startTime": 166190,
+        "endTime": 166370,
+        "pinyin": "lěng"
+      },
+      {
+        "token": "却",
+        "startTime": 166370,
+        "endTime": 166550,
+        "pinyin": "què"
+      }
+    ]
+  },
+  {
+    "sentence_text": "是 我们 祖先 的 一种 重要 的 适应性 演化",
+    "translations": {
+      "en": "It was an important adaptive evolution for our ancestors."
+    },
+    "segments": [
+      {
+        "token": "是",
+        "startTime": 166550,
+        "endTime": 166710,
+        "pinyin": "shì"
+      },
+      {
+        "token": "我",
+        "startTime": 166710,
+        "endTime": 166800,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 166800,
+        "endTime": 166890,
+        "pinyin": "men"
+      },
+      {
+        "token": "祖",
+        "startTime": 166890,
+        "endTime": 167090,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "先",
+        "startTime": 167090,
+        "endTime": 167290,
+        "pinyin": "xiān"
+      },
+      {
+        "token": "的",
+        "startTime": 167290,
+        "endTime": 167510,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 167510,
+        "endTime": 167700,
+        "pinyin": "yī"
+      },
+      {
+        "token": "种",
+        "startTime": 167700,
+        "endTime": 167890,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "重",
+        "startTime": 167890,
+        "endTime": 168060,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "要",
+        "startTime": 168060,
+        "endTime": 168230,
+        "pinyin": "yào"
+      },
+      {
+        "token": "的",
+        "startTime": 168230,
+        "endTime": 170070,
+        "pinyin": "de"
+      },
+      {
+        "token": "适",
+        "startTime": 170070,
+        "endTime": 170223,
+        "pinyin": "shì"
+      },
+      {
+        "token": "应",
+        "startTime": 170223,
+        "endTime": 170377,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "性",
+        "startTime": 170377,
+        "endTime": 170530,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "演",
+        "startTime": 170530,
+        "endTime": 170750,
+        "pinyin": "yǎn"
+      },
+      {
+        "token": "化",
+        "startTime": 170750,
+        "endTime": 170970,
+        "pinyin": "huà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这种 冷却 效应 不光 在 运动 中 发挥作用",
+    "translations": {
+      "en": "This cooling effect doesn't only work during exercise."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 170970,
+        "endTime": 171260,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 171260,
+        "endTime": 171550,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "冷",
+        "startTime": 171550,
+        "endTime": 171700,
+        "pinyin": "lěng"
+      },
+      {
+        "token": "却",
+        "startTime": 171700,
+        "endTime": 171850,
+        "pinyin": "què"
+      },
+      {
+        "token": "效",
+        "startTime": 171850,
+        "endTime": 172030,
+        "pinyin": "xiào"
+      },
+      {
+        "token": "应",
+        "startTime": 172030,
+        "endTime": 172210,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "不",
+        "startTime": 172210,
+        "endTime": 172400,
+        "pinyin": "bù"
+      },
+      {
+        "token": "光",
+        "startTime": 172400,
+        "endTime": 172590,
+        "pinyin": "guāng"
+      },
+      {
+        "token": "在",
+        "startTime": 172590,
+        "endTime": 172710,
+        "pinyin": "zài"
+      },
+      {
+        "token": "运",
+        "startTime": 172710,
+        "endTime": 173190,
+        "pinyin": "yùn"
+      },
+      {
+        "token": "动",
+        "startTime": 173190,
+        "endTime": 173670,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "中",
+        "startTime": 173670,
+        "endTime": 173890,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "发",
+        "startTime": 173890,
+        "endTime": 174110,
+        "pinyin": "fā"
+      },
+      {
+        "token": "挥",
+        "startTime": 174110,
+        "endTime": 174330,
+        "pinyin": "huī"
+      },
+      {
+        "token": "作",
+        "startTime": 174330,
+        "endTime": 174550,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "用",
+        "startTime": 174550,
+        "endTime": 174770,
+        "pinyin": "yòng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 在 其他 情况 下 也 会 出汗",
+    "translations": {
+      "en": "We also sweat in other situations."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 174770,
+        "endTime": 175070,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 175070,
+        "endTime": 175370,
+        "pinyin": "men"
+      },
+      {
+        "token": "在",
+        "startTime": 175370,
+        "endTime": 175590,
+        "pinyin": "zài"
+      },
+      {
+        "token": "其",
+        "startTime": 175590,
+        "endTime": 176490,
+        "pinyin": "qí"
+      },
+      {
+        "token": "他",
+        "startTime": 176490,
+        "endTime": 177390,
+        "pinyin": "tā"
+      },
+      {
+        "token": "情",
+        "startTime": 177390,
+        "endTime": 177580,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 177580,
+        "endTime": 177770,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "下",
+        "startTime": 177770,
+        "endTime": 177930,
+        "pinyin": "xià"
+      },
+      {
+        "token": "也",
+        "startTime": 177930,
+        "endTime": 178150,
+        "pinyin": "yě"
+      },
+      {
+        "token": "会",
+        "startTime": 178150,
+        "endTime": 178310,
+        "pinyin": "huì"
+      },
+      {
+        "token": "出",
+        "startTime": 178310,
+        "endTime": 178620,
+        "pinyin": "chū"
+      },
+      {
+        "token": "汗",
+        "startTime": 178620,
+        "endTime": 178930,
+        "pinyin": "hàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "吃 辣 的 东西 会 让 一些 人 脸部 大量 出汗",
+    "translations": {
+      "en": "Eating spicy food makes some people sweat heavily on their face."
+    },
+    "segments": [
+      {
+        "token": "吃",
+        "startTime": 178930,
+        "endTime": 179150,
+        "pinyin": "chī"
+      },
+      {
+        "token": "辣",
+        "startTime": 179150,
+        "endTime": 179390,
+        "pinyin": "là"
+      },
+      {
+        "token": "的",
+        "startTime": 179390,
+        "endTime": 179630,
+        "pinyin": "de"
+      },
+      {
+        "token": "东",
+        "startTime": 179630,
+        "endTime": 179890,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "西",
+        "startTime": 179890,
+        "endTime": 180150,
+        "pinyin": "xī"
+      },
+      {
+        "token": "会",
+        "startTime": 180150,
+        "endTime": 180330,
+        "pinyin": "huì"
+      },
+      {
+        "token": "让",
+        "startTime": 180330,
+        "endTime": 180570,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "一",
+        "startTime": 180570,
+        "endTime": 181820,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 181820,
+        "endTime": 183070,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "人",
+        "startTime": 183070,
+        "endTime": 183350,
+        "pinyin": "rén"
+      },
+      {
+        "token": "脸",
+        "startTime": 183350,
+        "endTime": 183600,
+        "pinyin": "liǎn"
+      },
+      {
+        "token": "部",
+        "startTime": 183600,
+        "endTime": 183850,
+        "pinyin": "bù"
+      },
+      {
+        "token": "大",
+        "startTime": 183850,
+        "endTime": 184160,
+        "pinyin": "dà"
+      },
+      {
+        "token": "量",
+        "startTime": 184160,
+        "endTime": 184470,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "出",
+        "startTime": 184470,
+        "endTime": 184650,
+        "pinyin": "chū"
+      },
+      {
+        "token": "汗",
+        "startTime": 184650,
+        "endTime": 184830,
+        "pinyin": "hàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 是因为 香辛料 同样 会 刺激 大脑 的 一些 神经 反应",
+    "translations": {
+      "en": "This is because spices also stimulate certain neural responses in the brain."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 184830,
+        "endTime": 185030,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "是",
+        "startTime": 185030,
+        "endTime": 185190,
+        "pinyin": "shì"
+      },
+      {
+        "token": "因",
+        "startTime": 185190,
+        "endTime": 185350,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "为",
+        "startTime": 185350,
+        "endTime": 185510,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "香",
+        "startTime": 185510,
+        "endTime": 185623,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "辛",
+        "startTime": 185623,
+        "endTime": 185737,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "料",
+        "startTime": 185737,
+        "endTime": 185850,
+        "pinyin": "liào"
+      },
+      {
+        "token": "同",
+        "startTime": 185850,
+        "endTime": 186060,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "样",
+        "startTime": 186060,
+        "endTime": 186270,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "会",
+        "startTime": 186270,
+        "endTime": 186510,
+        "pinyin": "huì"
+      },
+      {
+        "token": "刺",
+        "startTime": 186510,
+        "endTime": 187150,
+        "pinyin": "cì"
+      },
+      {
+        "token": "激",
+        "startTime": 187150,
+        "endTime": 187790,
+        "pinyin": "jī"
+      },
+      {
+        "token": "大",
+        "startTime": 187790,
+        "endTime": 187960,
+        "pinyin": "dà"
+      },
+      {
+        "token": "脑",
+        "startTime": 187960,
+        "endTime": 188130,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 188130,
+        "endTime": 188270,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 188270,
+        "endTime": 188480,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 188480,
+        "endTime": 188690,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "神",
+        "startTime": 188690,
+        "endTime": 188890,
+        "pinyin": "shén"
+      },
+      {
+        "token": "经",
+        "startTime": 188890,
+        "endTime": 189090,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "反",
+        "startTime": 189090,
+        "endTime": 189300,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 189300,
+        "endTime": 189510,
+        "pinyin": "yìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 反应 会 激活 感知 热量 增高 的 温度 感应器",
+    "translations": {
+      "en": "These responses activate temperature sensors that perceive increased heat."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 189510,
+        "endTime": 189680,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 189680,
+        "endTime": 189850,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "反",
+        "startTime": 189850,
+        "endTime": 190040,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 190040,
+        "endTime": 190230,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "会",
+        "startTime": 190230,
+        "endTime": 190430,
+        "pinyin": "huì"
+      },
+      {
+        "token": "激",
+        "startTime": 190430,
+        "endTime": 190670,
+        "pinyin": "jī"
+      },
+      {
+        "token": "活",
+        "startTime": 190670,
+        "endTime": 190910,
+        "pinyin": "huó"
+      },
+      {
+        "token": "感",
+        "startTime": 190910,
+        "endTime": 191590,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "知",
+        "startTime": 191590,
+        "endTime": 192270,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "热",
+        "startTime": 192270,
+        "endTime": 192480,
+        "pinyin": "rè"
+      },
+      {
+        "token": "量",
+        "startTime": 192480,
+        "endTime": 192690,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "增",
+        "startTime": 192690,
+        "endTime": 192880,
+        "pinyin": "zēng"
+      },
+      {
+        "token": "高",
+        "startTime": 192880,
+        "endTime": 193070,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "的",
+        "startTime": 193070,
+        "endTime": 193350,
+        "pinyin": "de"
+      },
+      {
+        "token": "温",
+        "startTime": 193350,
+        "endTime": 193490,
+        "pinyin": "wēn"
+      },
+      {
+        "token": "度",
+        "startTime": 193490,
+        "endTime": 193630,
+        "pinyin": "dù"
+      },
+      {
+        "token": "感",
+        "startTime": 193630,
+        "endTime": 193837,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 193837,
+        "endTime": 194043,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "器",
+        "startTime": 194043,
+        "endTime": 194250,
+        "pinyin": "qì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "出汗 也 是 战斗 或 逃跑 反应 的 一部分",
+    "translations": {
+      "en": "Sweating is also part of the fight-or-flight response."
+    },
+    "segments": [
+      {
+        "token": "出",
+        "startTime": 194250,
+        "endTime": 194350,
+        "pinyin": "chū"
+      },
+      {
+        "token": "汗",
+        "startTime": 194350,
+        "endTime": 194450,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "也",
+        "startTime": 194450,
+        "endTime": 194590,
+        "pinyin": "yě"
+      },
+      {
+        "token": "是",
+        "startTime": 194590,
+        "endTime": 195350,
+        "pinyin": "shì"
+      },
+      {
+        "token": "战",
+        "startTime": 195350,
+        "endTime": 195460,
+        "pinyin": "zhàn"
+      },
+      {
+        "token": "斗",
+        "startTime": 195460,
+        "endTime": 195570,
+        "pinyin": "dòu"
+      },
+      {
+        "token": "或",
+        "startTime": 195570,
+        "endTime": 195810,
+        "pinyin": "huò"
+      },
+      {
+        "token": "逃",
+        "startTime": 195810,
+        "endTime": 195960,
+        "pinyin": "táo"
+      },
+      {
+        "token": "跑",
+        "startTime": 195960,
+        "endTime": 196110,
+        "pinyin": "pǎo"
+      },
+      {
+        "token": "反",
+        "startTime": 196110,
+        "endTime": 196300,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 196300,
+        "endTime": 196490,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "的",
+        "startTime": 196490,
+        "endTime": 196750,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 196750,
+        "endTime": 196930,
+        "pinyin": "yī"
+      },
+      {
+        "token": "部",
+        "startTime": 196930,
+        "endTime": 197110,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 197110,
+        "endTime": 197290,
+        "pinyin": "fèn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "這種 反應 一般 在 焦慮 的 情況 下會 被 激活",
+    "translations": {
+      "en": "This response is typically activated in anxious situations."
+    },
+    "segments": [
+      {
+        "token": "這",
+        "startTime": 197290,
+        "endTime": 197460,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "種",
+        "startTime": 197460,
+        "endTime": 197630,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "反",
+        "startTime": 197630,
+        "endTime": 197790,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "應",
+        "startTime": 197790,
+        "endTime": 197950,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "一",
+        "startTime": 197950,
+        "endTime": 198430,
+        "pinyin": "yì"
+      },
+      {
+        "token": "般",
+        "startTime": 198430,
+        "endTime": 198910,
+        "pinyin": "bān"
+      },
+      {
+        "token": "在",
+        "startTime": 198910,
+        "endTime": 199030,
+        "pinyin": "zài"
+      },
+      {
+        "token": "焦",
+        "startTime": 199030,
+        "endTime": 199200,
+        "pinyin": "jiāo"
+      },
+      {
+        "token": "慮",
+        "startTime": 199200,
+        "endTime": 199370,
+        "pinyin": "lǜ"
+      },
+      {
+        "token": "的",
+        "startTime": 199370,
+        "endTime": 199510,
+        "pinyin": "de"
+      },
+      {
+        "token": "情",
+        "startTime": 199510,
+        "endTime": 199660,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "況",
+        "startTime": 199660,
+        "endTime": 199810,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "下",
+        "startTime": 199810,
+        "endTime": 200070,
+        "pinyin": "xià"
+      },
+      {
+        "token": "會",
+        "startTime": 200070,
+        "endTime": 200330,
+        "pinyin": "huì"
+      },
+      {
+        "token": "被",
+        "startTime": 200330,
+        "endTime": 200450,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "激",
+        "startTime": 200450,
+        "endTime": 200650,
+        "pinyin": "jī"
+      },
+      {
+        "token": "活",
+        "startTime": 200650,
+        "endTime": 200850,
+        "pinyin": "huó"
+      }
+    ]
+  },
+  {
+    "sentence_text": "例如 邀請 某人 約會 或是 參加 工作面 試",
+    "translations": {
+      "en": "For example, asking someone on a date or attending a job interview."
+    },
+    "segments": [
+      {
+        "token": "例",
+        "startTime": 200850,
+        "endTime": 201000,
+        "pinyin": "lì"
+      },
+      {
+        "token": "如",
+        "startTime": 201000,
+        "endTime": 201150,
+        "pinyin": "rú"
+      },
+      {
+        "token": "邀",
+        "startTime": 201150,
+        "endTime": 201180,
+        "pinyin": "yāo"
+      },
+      {
+        "token": "請",
+        "startTime": 201180,
+        "endTime": 201210,
+        "pinyin": "qǐng"
+      },
+      {
+        "token": "某",
+        "startTime": 201210,
+        "endTime": 201920,
+        "pinyin": "mǒu"
+      },
+      {
+        "token": "人",
+        "startTime": 201920,
+        "endTime": 202630,
+        "pinyin": "rén"
+      },
+      {
+        "token": "約",
+        "startTime": 202630,
+        "endTime": 202740,
+        "pinyin": "yuē"
+      },
+      {
+        "token": "會",
+        "startTime": 202740,
+        "endTime": 202850,
+        "pinyin": "huì"
+      },
+      {
+        "token": "或",
+        "startTime": 202850,
+        "endTime": 203120,
+        "pinyin": "huò"
+      },
+      {
+        "token": "是",
+        "startTime": 203120,
+        "endTime": 203390,
+        "pinyin": "shì"
+      },
+      {
+        "token": "參",
+        "startTime": 203390,
+        "endTime": 203560,
+        "pinyin": "cān"
+      },
+      {
+        "token": "加",
+        "startTime": 203560,
+        "endTime": 203730,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "工",
+        "startTime": 203730,
+        "endTime": 203930,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "作",
+        "startTime": 203930,
+        "endTime": 204130,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "面",
+        "startTime": 204130,
+        "endTime": 204330,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "試",
+        "startTime": 204330,
+        "endTime": 204510,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "這是 因為 腎 上腺素 刺激 肌肉 運動 使 血管 變寬",
+    "translations": {
+      "en": "This is because adrenaline stimulates muscle movement and widens blood vessels."
+    },
+    "segments": [
+      {
+        "token": "這",
+        "startTime": 204510,
+        "endTime": 204690,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "是",
+        "startTime": 204690,
+        "endTime": 204870,
+        "pinyin": "shì"
+      },
+      {
+        "token": "因",
+        "startTime": 204870,
+        "endTime": 205240,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "為",
+        "startTime": 205240,
+        "endTime": 205610,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "腎",
+        "startTime": 205610,
+        "endTime": 205790,
+        "pinyin": "shèn"
+      },
+      {
+        "token": "上",
+        "startTime": 205790,
+        "endTime": 206870,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "腺",
+        "startTime": 206870,
+        "endTime": 207950,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "素",
+        "startTime": 207950,
+        "endTime": 209030,
+        "pinyin": "sù"
+      },
+      {
+        "token": "刺",
+        "startTime": 209030,
+        "endTime": 209200,
+        "pinyin": "cì"
+      },
+      {
+        "token": "激",
+        "startTime": 209200,
+        "endTime": 209370,
+        "pinyin": "jī"
+      },
+      {
+        "token": "肌",
+        "startTime": 209370,
+        "endTime": 209590,
+        "pinyin": "jī"
+      },
+      {
+        "token": "肉",
+        "startTime": 209590,
+        "endTime": 209810,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "運",
+        "startTime": 209810,
+        "endTime": 209980,
+        "pinyin": "yùn"
+      },
+      {
+        "token": "動",
+        "startTime": 209980,
+        "endTime": 210150,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "使",
+        "startTime": 210150,
+        "endTime": 210330,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "血",
+        "startTime": 210330,
+        "endTime": 210580,
+        "pinyin": "xuè"
+      },
+      {
+        "token": "管",
+        "startTime": 210580,
+        "endTime": 210830,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "變",
+        "startTime": 210830,
+        "endTime": 210970,
+        "pinyin": "biàn"
+      },
+      {
+        "token": "寬",
+        "startTime": 210970,
+        "endTime": 211110,
+        "pinyin": "kuān"
+      }
+    ]
+  },
+  {
+    "sentence_text": "這兩者 都 會 增加 熱量 從 而 觸發 流汗 反應",
+    "translations": {
+      "en": "Both increase heat, triggering the sweating response."
+    },
+    "segments": [
+      {
+        "token": "這",
+        "startTime": 211110,
+        "endTime": 211410,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "兩",
+        "startTime": 211410,
+        "endTime": 211710,
+        "pinyin": "liǎng"
+      },
+      {
+        "token": "者",
+        "startTime": 211710,
+        "endTime": 212010,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "都",
+        "startTime": 212010,
+        "endTime": 212310,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "會",
+        "startTime": 212310,
+        "endTime": 213730,
+        "pinyin": "huì"
+      },
+      {
+        "token": "增",
+        "startTime": 213730,
+        "endTime": 213840,
+        "pinyin": "zēng"
+      },
+      {
+        "token": "加",
+        "startTime": 213840,
+        "endTime": 213950,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "熱",
+        "startTime": 213950,
+        "endTime": 214140,
+        "pinyin": "rè"
+      },
+      {
+        "token": "量",
+        "startTime": 214140,
+        "endTime": 214330,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "從",
+        "startTime": 214330,
+        "endTime": 214510,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "而",
+        "startTime": 214510,
+        "endTime": 214770,
+        "pinyin": "ér"
+      },
+      {
+        "token": "觸",
+        "startTime": 214770,
+        "endTime": 214970,
+        "pinyin": "chù"
+      },
+      {
+        "token": "發",
+        "startTime": 214970,
+        "endTime": 215170,
+        "pinyin": "fā"
+      },
+      {
+        "token": "流",
+        "startTime": 215170,
+        "endTime": 215758,
+        "pinyin": "liú"
+      },
+      {
+        "token": "汗",
+        "startTime": 215758,
+        "endTime": 216345,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "反",
+        "startTime": 216345,
+        "endTime": 216565,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "應",
+        "startTime": 216565,
+        "endTime": 216785,
+        "pinyin": "yīng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我們 在 生病 時 也 會 出汗",
+    "translations": {
+      "en": "We also sweat when we are sick."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 216785,
+        "endTime": 216985,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "們",
+        "startTime": 216985,
+        "endTime": 217185,
+        "pinyin": "men"
+      },
+      {
+        "token": "在",
+        "startTime": 217185,
+        "endTime": 217965,
+        "pinyin": "zài"
+      },
+      {
+        "token": "生",
+        "startTime": 217965,
+        "endTime": 218165,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "病",
+        "startTime": 218165,
+        "endTime": 218365,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "時",
+        "startTime": 218365,
+        "endTime": 218585,
+        "pinyin": "shí"
+      },
+      {
+        "token": "也",
+        "startTime": 218585,
+        "endTime": 218825,
+        "pinyin": "yě"
+      },
+      {
+        "token": "會",
+        "startTime": 218825,
+        "endTime": 218945,
+        "pinyin": "huì"
+      },
+      {
+        "token": "出",
+        "startTime": 218945,
+        "endTime": 219125,
+        "pinyin": "chū"
+      },
+      {
+        "token": "汗",
+        "startTime": 219125,
+        "endTime": 219305,
+        "pinyin": "hàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "等 我們 發燒 時 炎症 式 下 丘腦 發出 指令",
+    "translations": {
+      "en": "When we have a fever, the inflamed hypothalamus sends signals."
+    },
+    "segments": [
+      {
+        "token": "等",
+        "startTime": 219305,
+        "endTime": 219485,
+        "pinyin": "děng"
+      },
+      {
+        "token": "我",
+        "startTime": 219485,
+        "endTime": 219705,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "們",
+        "startTime": 219705,
+        "endTime": 219925,
+        "pinyin": "men"
+      },
+      {
+        "token": "發",
+        "startTime": 219925,
+        "endTime": 220215,
+        "pinyin": "fā"
+      },
+      {
+        "token": "燒",
+        "startTime": 220215,
+        "endTime": 220505,
+        "pinyin": "shāo"
+      },
+      {
+        "token": "時",
+        "startTime": 220505,
+        "endTime": 220665,
+        "pinyin": "shí"
+      },
+      {
+        "token": "炎",
+        "startTime": 220665,
+        "endTime": 220795,
+        "pinyin": "yán"
+      },
+      {
+        "token": "症",
+        "startTime": 220795,
+        "endTime": 220925,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "式",
+        "startTime": 220925,
+        "endTime": 221785,
+        "pinyin": "shì"
+      },
+      {
+        "token": "下",
+        "startTime": 221785,
+        "endTime": 221965,
+        "pinyin": "xià"
+      },
+      {
+        "token": "丘",
+        "startTime": 221965,
+        "endTime": 222075,
+        "pinyin": "qiū"
+      },
+      {
+        "token": "腦",
+        "startTime": 222075,
+        "endTime": 222185,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "發",
+        "startTime": 222185,
+        "endTime": 222405,
+        "pinyin": "fā"
+      },
+      {
+        "token": "出",
+        "startTime": 222405,
+        "endTime": 222625,
+        "pinyin": "chū"
+      },
+      {
+        "token": "指",
+        "startTime": 222625,
+        "endTime": 222745,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "令",
+        "startTime": 222745,
+        "endTime": 222865,
+        "pinyin": "lìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "增加 肌肉 運動 從 而將 更 多 的 能量 轉化 為 熱量",
+    "translations": {
+      "en": "It increases muscle movement to convert more energy into heat."
+    },
+    "segments": [
+      {
+        "token": "增",
+        "startTime": 222865,
+        "endTime": 223135,
+        "pinyin": "zēng"
+      },
+      {
+        "token": "加",
+        "startTime": 223135,
+        "endTime": 223405,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "肌",
+        "startTime": 223405,
+        "endTime": 223605,
+        "pinyin": "jī"
+      },
+      {
+        "token": "肉",
+        "startTime": 223605,
+        "endTime": 223805,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "運",
+        "startTime": 223805,
+        "endTime": 225255,
+        "pinyin": "yùn"
+      },
+      {
+        "token": "動",
+        "startTime": 225255,
+        "endTime": 226705,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "從",
+        "startTime": 226705,
+        "endTime": 226865,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "而",
+        "startTime": 226865,
+        "endTime": 226995,
+        "pinyin": "ér"
+      },
+      {
+        "token": "將",
+        "startTime": 226995,
+        "endTime": 227125,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "更",
+        "startTime": 227125,
+        "endTime": 227345,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "多",
+        "startTime": 227345,
+        "endTime": 227565,
+        "pinyin": "duō"
+      },
+      {
+        "token": "的",
+        "startTime": 227565,
+        "endTime": 227785,
+        "pinyin": "de"
+      },
+      {
+        "token": "能",
+        "startTime": 227785,
+        "endTime": 227995,
+        "pinyin": "néng"
+      },
+      {
+        "token": "量",
+        "startTime": 227995,
+        "endTime": 228205,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "轉",
+        "startTime": 228205,
+        "endTime": 228795,
+        "pinyin": "zhuǎn"
+      },
+      {
+        "token": "化",
+        "startTime": 228795,
+        "endTime": 229385,
+        "pinyin": "huà"
+      },
+      {
+        "token": "為",
+        "startTime": 229385,
+        "endTime": 229605,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "熱",
+        "startTime": 229605,
+        "endTime": 229715,
+        "pinyin": "rè"
+      },
+      {
+        "token": "量",
+        "startTime": 229715,
+        "endTime": 229825,
+        "pinyin": "liàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "這會 讓 你 的 體溫 整體 上升",
+    "translations": {
+      "en": "This raises your overall body temperature."
+    },
+    "segments": [
+      {
+        "token": "這",
+        "startTime": 229825,
+        "endTime": 230045,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "會",
+        "startTime": 230045,
+        "endTime": 230265,
+        "pinyin": "huì"
+      },
+      {
+        "token": "讓",
+        "startTime": 230265,
+        "endTime": 230445,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "你",
+        "startTime": 230445,
+        "endTime": 230985,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 230985,
+        "endTime": 231165,
+        "pinyin": "de"
+      },
+      {
+        "token": "體",
+        "startTime": 231165,
+        "endTime": 231325,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "溫",
+        "startTime": 231325,
+        "endTime": 231485,
+        "pinyin": "wēn"
+      },
+      {
+        "token": "整",
+        "startTime": 231485,
+        "endTime": 231685,
+        "pinyin": "zhěng"
+      },
+      {
+        "token": "體",
+        "startTime": 231685,
+        "endTime": 231885,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "上",
+        "startTime": 231885,
+        "endTime": 232155,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "升",
+        "startTime": 232155,
+        "endTime": 232425,
+        "pinyin": "shēng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "這是 一種 保護 機制",
+    "translations": {
+      "en": "This is a protective mechanism."
+    },
+    "segments": [
+      {
+        "token": "這",
+        "startTime": 232425,
+        "endTime": 232595,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "是",
+        "startTime": 232595,
+        "endTime": 232765,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 232765,
+        "endTime": 232945,
+        "pinyin": "yī"
+      },
+      {
+        "token": "種",
+        "startTime": 232945,
+        "endTime": 233125,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "保",
+        "startTime": 233125,
+        "endTime": 233915,
+        "pinyin": "bǎo"
+      },
+      {
+        "token": "護",
+        "startTime": 233915,
+        "endTime": 234705,
+        "pinyin": "hù"
+      },
+      {
+        "token": "機",
+        "startTime": 234705,
+        "endTime": 234875,
+        "pinyin": "jī"
+      },
+      {
+        "token": "制",
+        "startTime": 234875,
+        "endTime": 235045,
+        "pinyin": "zhì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "使得 傳染源 在 你 體內 不易 生存",
+    "translations": {
+      "en": "It makes it harder for infectious agents to survive in your body."
+    },
+    "segments": [
+      {
+        "token": "使",
+        "startTime": 235045,
+        "endTime": 235225,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "得",
+        "startTime": 235225,
+        "endTime": 235405,
+        "pinyin": "de"
+      },
+      {
+        "token": "傳",
+        "startTime": 235405,
+        "endTime": 235405,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "染",
+        "startTime": 235405,
+        "endTime": 235405,
+        "pinyin": "rǎn"
+      },
+      {
+        "token": "源",
+        "startTime": 235405,
+        "endTime": 235405,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "在",
+        "startTime": 235405,
+        "endTime": 236565,
+        "pinyin": "zài"
+      },
+      {
+        "token": "你",
+        "startTime": 236565,
+        "endTime": 236725,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "體",
+        "startTime": 236725,
+        "endTime": 236895,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "內",
+        "startTime": 236895,
+        "endTime": 237065,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "不",
+        "startTime": 237065,
+        "endTime": 237245,
+        "pinyin": "bù"
+      },
+      {
+        "token": "易",
+        "startTime": 237245,
+        "endTime": 237425,
+        "pinyin": "yì"
+      },
+      {
+        "token": "生",
+        "startTime": 237425,
+        "endTime": 237945,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "存",
+        "startTime": 237945,
+        "endTime": 238465,
+        "pinyin": "cún"
+      }
+    ]
+  },
+  {
+    "sentence_text": "就 像 跑步 時一樣",
+    "translations": {
+      "en": "Just like when running."
+    },
+    "segments": [
+      {
+        "token": "就",
+        "startTime": 238465,
+        "endTime": 238565,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "像",
+        "startTime": 238565,
+        "endTime": 238745,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "跑",
+        "startTime": 238745,
+        "endTime": 238925,
+        "pinyin": "pǎo"
+      },
+      {
+        "token": "步",
+        "startTime": 238925,
+        "endTime": 239105,
+        "pinyin": "bù"
+      },
+      {
+        "token": "時",
+        "startTime": 239105,
+        "endTime": 239412,
+        "pinyin": "shí"
+      },
+      {
+        "token": "一",
+        "startTime": 239412,
+        "endTime": 239718,
+        "pinyin": "yī"
+      },
+      {
+        "token": "樣",
+        "startTime": 239718,
+        "endTime": 240025,
+        "pinyin": "yàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "流汗 幫 你 帶 走 熱量",
+    "translations": {
+      "en": "Sweat helps carry away heat."
+    },
+    "segments": [
+      {
+        "token": "流",
+        "startTime": 240025,
+        "endTime": 240215,
+        "pinyin": "liú"
+      },
+      {
+        "token": "汗",
+        "startTime": 240215,
+        "endTime": 240405,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "幫",
+        "startTime": 240405,
+        "endTime": 240565,
+        "pinyin": "bāng"
+      },
+      {
+        "token": "你",
+        "startTime": 240565,
+        "endTime": 240745,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "帶",
+        "startTime": 240745,
+        "endTime": 240765,
+        "pinyin": "dài"
+      },
+      {
+        "token": "走",
+        "startTime": 240765,
+        "endTime": 241425,
+        "pinyin": "zǒu"
+      },
+      {
+        "token": "熱",
+        "startTime": 241425,
+        "endTime": 241605,
+        "pinyin": "rè"
+      },
+      {
+        "token": "量",
+        "startTime": 241605,
+        "endTime": 241785,
+        "pinyin": "liàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "等 你 退燒 或是 贏得 赛跑 之后",
+    "translations": {
+      "en": "After you cool down from a fever or finish a race,"
+    },
+    "segments": [
+      {
+        "token": "等",
+        "startTime": 241785,
+        "endTime": 241945,
+        "pinyin": "děng"
+      },
+      {
+        "token": "你",
+        "startTime": 241945,
+        "endTime": 242145,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "退",
+        "startTime": 242145,
+        "endTime": 242325,
+        "pinyin": "tuì"
+      },
+      {
+        "token": "燒",
+        "startTime": 242325,
+        "endTime": 242505,
+        "pinyin": "shāo"
+      },
+      {
+        "token": "或",
+        "startTime": 242505,
+        "endTime": 242715,
+        "pinyin": "huò"
+      },
+      {
+        "token": "是",
+        "startTime": 242715,
+        "endTime": 242925,
+        "pinyin": "shì"
+      },
+      {
+        "token": "贏",
+        "startTime": 242925,
+        "endTime": 243065,
+        "pinyin": "yíng"
+      },
+      {
+        "token": "得",
+        "startTime": 243065,
+        "endTime": 243205,
+        "pinyin": "dé"
+      },
+      {
+        "token": "赛",
+        "startTime": 243205,
+        "endTime": 243685,
+        "pinyin": "sài"
+      },
+      {
+        "token": "跑",
+        "startTime": 243685,
+        "endTime": 244165,
+        "pinyin": "pǎo"
+      },
+      {
+        "token": "之",
+        "startTime": 244165,
+        "endTime": 244375,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "后",
+        "startTime": 244375,
+        "endTime": 244585,
+        "pinyin": "hòu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "温度 感应器 会 感受 到 热量 下降",
+    "translations": {
+      "en": "temperature sensors detect the drop in heat,"
+    },
+    "segments": [
+      {
+        "token": "温",
+        "startTime": 244585,
+        "endTime": 244825,
+        "pinyin": "wēn"
+      },
+      {
+        "token": "度",
+        "startTime": 244825,
+        "endTime": 245065,
+        "pinyin": "dù"
+      },
+      {
+        "token": "感",
+        "startTime": 245065,
+        "endTime": 245305,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 245305,
+        "endTime": 245545,
+        "pinyin": "yìng"
+      },
+      {
+        "token": "器",
+        "startTime": 245545,
+        "endTime": 245785,
+        "pinyin": "qì"
+      },
+      {
+        "token": "会",
+        "startTime": 245785,
+        "endTime": 246105,
+        "pinyin": "huì"
+      },
+      {
+        "token": "感",
+        "startTime": 246105,
+        "endTime": 246315,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "受",
+        "startTime": 246315,
+        "endTime": 246525,
+        "pinyin": "shòu"
+      },
+      {
+        "token": "到",
+        "startTime": 246525,
+        "endTime": 246745,
+        "pinyin": "dào"
+      },
+      {
+        "token": "热",
+        "startTime": 246745,
+        "endTime": 247605,
+        "pinyin": "rè"
+      },
+      {
+        "token": "量",
+        "startTime": 247605,
+        "endTime": 248465,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "下",
+        "startTime": 248465,
+        "endTime": 248565,
+        "pinyin": "xià"
+      },
+      {
+        "token": "降",
+        "startTime": 248565,
+        "endTime": 248665,
+        "pinyin": "jiàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "下丘脑 也 随之 中止 流汗 反应",
+    "translations": {
+      "en": "and the hypothalamus stops the sweating response."
+    },
+    "segments": [
+      {
+        "token": "下",
+        "startTime": 248665,
+        "endTime": 248998,
+        "pinyin": "xià"
+      },
+      {
+        "token": "丘",
+        "startTime": 248998,
+        "endTime": 249332,
+        "pinyin": "qiū"
+      },
+      {
+        "token": "脑",
+        "startTime": 249332,
+        "endTime": 249665,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "也",
+        "startTime": 249665,
+        "endTime": 249705,
+        "pinyin": "yě"
+      },
+      {
+        "token": "随",
+        "startTime": 249705,
+        "endTime": 249885,
+        "pinyin": "suí"
+      },
+      {
+        "token": "之",
+        "startTime": 249885,
+        "endTime": 250065,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "中",
+        "startTime": 250065,
+        "endTime": 250265,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "止",
+        "startTime": 250265,
+        "endTime": 250465,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "流",
+        "startTime": 250465,
+        "endTime": 250925,
+        "pinyin": "liú"
+      },
+      {
+        "token": "汗",
+        "startTime": 250925,
+        "endTime": 251385,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "反",
+        "startTime": 251385,
+        "endTime": 251535,
+        "pinyin": "fǎn"
+      },
+      {
+        "token": "应",
+        "startTime": 251535,
+        "endTime": 251685,
+        "pinyin": "yìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 一些 情况 下 , 例如 跑 完步 后",
+    "translations": {
+      "en": "In some cases, like after a run,"
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 251685,
+        "endTime": 251865,
+        "pinyin": "zài"
+      },
+      {
+        "token": "一",
+        "startTime": 251865,
+        "endTime": 252055,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 252055,
+        "endTime": 252245,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "情",
+        "startTime": 252245,
+        "endTime": 252355,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "况",
+        "startTime": 252355,
+        "endTime": 252465,
+        "pinyin": "kuàng"
+      },
+      {
+        "token": "下",
+        "startTime": 252465,
+        "endTime": 252685,
+        "pinyin": "xià"
+      },
+      {
+        "token": ",",
+        "startTime": 252685,
+        "endTime": 252885,
+        "pinyin": ","
+      },
+      {
+        "token": "例",
+        "startTime": 252885,
+        "endTime": 253075,
+        "pinyin": "lì"
+      },
+      {
+        "token": "如",
+        "startTime": 253075,
+        "endTime": 253265,
+        "pinyin": "rú"
+      },
+      {
+        "token": "跑",
+        "startTime": 253265,
+        "endTime": 253465,
+        "pinyin": "pǎo"
+      },
+      {
+        "token": "完",
+        "startTime": 253465,
+        "endTime": 253915,
+        "pinyin": "wán"
+      },
+      {
+        "token": "步",
+        "startTime": 253915,
+        "endTime": 254365,
+        "pinyin": "bù"
+      },
+      {
+        "token": "后",
+        "startTime": 254365,
+        "endTime": 254525,
+        "pinyin": "hòu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "下丘脑 也 会 向 你 的",
+    "translations": {
+      "en": "the hypothalamus also sends signals to your"
+    },
+    "segments": [
+      {
+        "token": "下",
+        "startTime": 254525,
+        "endTime": 254718,
+        "pinyin": "xià"
+      },
+      {
+        "token": "丘",
+        "startTime": 254718,
+        "endTime": 254912,
+        "pinyin": "qiū"
+      },
+      {
+        "token": "脑",
+        "startTime": 254912,
+        "endTime": 255105,
+        "pinyin": "nǎo"
+      },
+      {
+        "token": "也",
+        "startTime": 255105,
+        "endTime": 255345,
+        "pinyin": "yě"
+      },
+      {
+        "token": "会",
+        "startTime": 255345,
+        "endTime": 255505,
+        "pinyin": "huì"
+      },
+      {
+        "token": "向",
+        "startTime": 255505,
+        "endTime": 255645,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "你",
+        "startTime": 255645,
+        "endTime": 255865,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 255865,
+        "endTime": 256925,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "所以 , 当 你 在 尽力 完成 下 一个",
+    "translations": {
+      "en": "So, as you push through your next"
+    },
+    "segments": [
+      {
+        "token": "所",
+        "startTime": 256925,
+        "endTime": 257212,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "以",
+        "startTime": 257212,
+        "endTime": 257498,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": ",",
+        "startTime": 257498,
+        "endTime": 257785,
+        "pinyin": ","
+      },
+      {
+        "token": "当",
+        "startTime": 257785,
+        "endTime": 257925,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "你",
+        "startTime": 257925,
+        "endTime": 258165,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "在",
+        "startTime": 258165,
+        "endTime": 258345,
+        "pinyin": "zài"
+      },
+      {
+        "token": "尽",
+        "startTime": 258345,
+        "endTime": 258555,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "力",
+        "startTime": 258555,
+        "endTime": 258765,
+        "pinyin": "lì"
+      },
+      {
+        "token": "完",
+        "startTime": 258765,
+        "endTime": 259035,
+        "pinyin": "wán"
+      },
+      {
+        "token": "成",
+        "startTime": 259035,
+        "endTime": 259305,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "下",
+        "startTime": 259305,
+        "endTime": 259465,
+        "pinyin": "xià"
+      },
+      {
+        "token": "一",
+        "startTime": 259465,
+        "endTime": 259855,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 259855,
+        "endTime": 260245,
+        "pinyin": "gè"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 可以 将 汗水 想成 你 身体 的 专属 校准器",
+    "translations": {
+      "en": "think of sweat as your body’s personal calibrator,"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 260245,
+        "endTime": 260332,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "可",
+        "startTime": 260332,
+        "endTime": 260418,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 260418,
+        "endTime": 260505,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "将",
+        "startTime": 260505,
+        "endTime": 260765,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "汗",
+        "startTime": 260765,
+        "endTime": 261035,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "水",
+        "startTime": 261035,
+        "endTime": 261305,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "想",
+        "startTime": 261305,
+        "endTime": 261475,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "成",
+        "startTime": 261475,
+        "endTime": 261645,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "你",
+        "startTime": 261645,
+        "endTime": 261805,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "身",
+        "startTime": 261805,
+        "endTime": 261995,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "体",
+        "startTime": 261995,
+        "endTime": 262185,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 262185,
+        "endTime": 262305,
+        "pinyin": "de"
+      },
+      {
+        "token": "专",
+        "startTime": 262305,
+        "endTime": 262515,
+        "pinyin": "zhuān"
+      },
+      {
+        "token": "属",
+        "startTime": 262515,
+        "endTime": 262725,
+        "pinyin": "shǔ"
+      },
+      {
+        "token": "校",
+        "startTime": 262725,
+        "endTime": 263152,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "准",
+        "startTime": 263152,
+        "endTime": 263578,
+        "pinyin": "zhǔn"
+      },
+      {
+        "token": "器",
+        "startTime": 263578,
+        "endTime": 264005,
+        "pinyin": "qì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "让 你 能够 再 多 坚持 一英里",
+    "translations": {
+      "en": "helping you go one more mile."
+    },
+    "segments": [
+      {
+        "token": "让",
+        "startTime": 264005,
+        "endTime": 264205,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "你",
+        "startTime": 264205,
+        "endTime": 264365,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "能",
+        "startTime": 264365,
+        "endTime": 264515,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 264515,
+        "endTime": 264665,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "再",
+        "startTime": 264665,
+        "endTime": 265025,
+        "pinyin": "zài"
+      },
+      {
+        "token": "多",
+        "startTime": 265025,
+        "endTime": 265285,
+        "pinyin": "duō"
+      },
+      {
+        "token": "坚",
+        "startTime": 265285,
+        "endTime": 265545,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "持",
+        "startTime": 265545,
+        "endTime": 265805,
+        "pinyin": "chí"
+      },
+      {
+        "token": "一",
+        "startTime": 265805,
+        "endTime": 266598,
+        "pinyin": "yī"
+      },
+      {
+        "token": "英",
+        "startTime": 266598,
+        "endTime": 267392,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "里",
+        "startTime": 267392,
+        "endTime": 268185,
+        "pinyin": "lǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "您 是否 觉得 不够 了解 自己 的 身",
+    "translations": {
+      "en": "Do you feel you don’t know your own body well enough?"
+    },
+    "segments": [
+      {
+        "token": "您",
+        "startTime": 268185,
+        "endTime": 268225,
+        "pinyin": "nín"
+      },
+      {
+        "token": "是",
+        "startTime": 268225,
+        "endTime": 268405,
+        "pinyin": "shì"
+      },
+      {
+        "token": "否",
+        "startTime": 268405,
+        "endTime": 268585,
+        "pinyin": "fǒu"
+      },
+      {
+        "token": "觉",
+        "startTime": 268585,
+        "endTime": 268695,
+        "pinyin": "jué"
+      },
+      {
+        "token": "得",
+        "startTime": 268695,
+        "endTime": 268805,
+        "pinyin": "de"
+      },
+      {
+        "token": "不",
+        "startTime": 268805,
+        "endTime": 269005,
+        "pinyin": "bù"
+      },
+      {
+        "token": "够",
+        "startTime": 269005,
+        "endTime": 269205,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "了",
+        "startTime": 269205,
+        "endTime": 269385,
+        "pinyin": "liǎo"
+      },
+      {
+        "token": "解",
+        "startTime": 269385,
+        "endTime": 269565,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "自",
+        "startTime": 269565,
+        "endTime": 269695,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 269695,
+        "endTime": 269825,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 269825,
+        "endTime": 270045,
+        "pinyin": "de"
+      },
+      {
+        "token": "身",
+        "startTime": 270045,
+        "endTime": 270135,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "体",
+        "startTime": 270135,
+        "endTime": 270225,
+        "pinyin": "tǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "体 订阅 此 频道",
+    "translations": {
+      "en": "Subscribe to this channel"
+    },
+    "segments": [
+      {
+        "token": "订",
+        "startTime": 270985,
+        "endTime": 271165,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "阅",
+        "startTime": 271165,
+        "endTime": 271345,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "此",
+        "startTime": 271345,
+        "endTime": 271545,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "频",
+        "startTime": 271545,
+        "endTime": 271875,
+        "pinyin": "pín"
+      },
+      {
+        "token": "道",
+        "startTime": 271875,
+        "endTime": 272205,
+        "pinyin": "dào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "了解 从 秃头 、 肌肉 增长 到",
+    "translations": {
+      "en": "to learn about everything from baldness and muscle growth to"
+    },
+    "segments": [
+      {
+        "token": "了",
+        "startTime": 272205,
+        "endTime": 272365,
+        "pinyin": "liǎo"
+      },
+      {
+        "token": "解",
+        "startTime": 272365,
+        "endTime": 272525,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "从",
+        "startTime": 272525,
+        "endTime": 272725,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "秃",
+        "startTime": 272725,
+        "endTime": 273035,
+        "pinyin": "tū"
+      },
+      {
+        "token": "头",
+        "startTime": 273035,
+        "endTime": 273345,
+        "pinyin": "tóu"
+      },
+      {
+        "token": "、",
+        "startTime": 273345,
+        "endTime": 273485,
+        "pinyin": "、"
+      },
+      {
+        "token": "肌",
+        "startTime": 273485,
+        "endTime": 273645,
+        "pinyin": "jī"
+      },
+      {
+        "token": "肉",
+        "startTime": 273645,
+        "endTime": 273805,
+        "pinyin": "ròu"
+      },
+      {
+        "token": "增",
+        "startTime": 273805,
+        "endTime": 274095,
+        "pinyin": "zēng"
+      },
+      {
+        "token": "长",
+        "startTime": 274095,
+        "endTime": 274385,
+        "pinyin": "zhǎng"
+      },
+      {
+        "token": "到",
+        "startTime": 274385,
+        "endTime": 274605,
+        "pinyin": "dào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "身体 不同 部位 长毛 的 原因",
+    "translations": {
+      "en": "why hair grows on different parts of the body."
+    },
+    "segments": [
+      {
+        "token": "身",
+        "startTime": 274605,
+        "endTime": 274855,
+        "pinyin": "shēn"
+      },
+      {
+        "token": "体",
+        "startTime": 274855,
+        "endTime": 275105,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "不",
+        "startTime": 275105,
+        "endTime": 275265,
+        "pinyin": "bù"
+      },
+      {
+        "token": "同",
+        "startTime": 275265,
+        "endTime": 275425,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "部",
+        "startTime": 275425,
+        "endTime": 275645,
+        "pinyin": "bù"
+      },
+      {
+        "token": "位",
+        "startTime": 275645,
+        "endTime": 275865,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "长",
+        "startTime": 275865,
+        "endTime": 276465,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "毛",
+        "startTime": 276465,
+        "endTime": 277065,
+        "pinyin": "máo"
+      },
+      {
+        "token": "的",
+        "startTime": 277065,
+        "endTime": 277245,
+        "pinyin": "de"
+      },
+      {
+        "token": "原",
+        "startTime": 277245,
+        "endTime": 277535,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "因",
+        "startTime": 277535,
+        "endTime": 277825,
+        "pinyin": "yīn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "敬请 继续 关注",
+    "translations": {
+      "en": "Stay tuned,"
+    },
+    "segments": [
+      {
+        "token": "敬",
+        "startTime": 277825,
+        "endTime": 278005,
+        "pinyin": "jìng"
+      },
+      {
+        "token": "请",
+        "startTime": 278005,
+        "endTime": 278185,
+        "pinyin": "qǐng"
+      },
+      {
+        "token": "继",
+        "startTime": 278185,
+        "endTime": 278495,
+        "pinyin": "jì"
+      },
+      {
+        "token": "续",
+        "startTime": 278495,
+        "endTime": 278805,
+        "pinyin": "xù"
+      },
+      {
+        "token": "关",
+        "startTime": 278805,
+        "endTime": 279105,
+        "pinyin": "guān"
+      },
+      {
+        "token": "注",
+        "startTime": 279105,
+        "endTime": 279405,
+        "pinyin": "zhù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "永保 探索",
+    "translations": {
+      "en": "and keep exploring."
+    },
+    "segments": [
+      {
+        "token": "永",
+        "startTime": 279405,
+        "endTime": 279645,
+        "pinyin": "yǒng"
+      },
+      {
+        "token": "保",
+        "startTime": 279645,
+        "endTime": 279885,
+        "pinyin": "bǎo"
+      },
+      {
+        "token": "探",
+        "startTime": 279885,
+        "endTime": 280005,
+        "pinyin": "tàn"
+      },
+      {
+        "token": "索",
+        "startTime": 280005,
+        "endTime": 280125,
+        "pinyin": "suǒ"
+      }
+    ]
+  }
+]
