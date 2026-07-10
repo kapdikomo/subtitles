@@ -1,0 +1,668 @@
+[
+  {
+    "sentence_text": "我 的 家庭 我 十岁 了",
+    "translations": {
+      "en": "I am ten years old in my family."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 1780,
+        "endTime": 2240,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 2240,
+        "endTime": 2620,
+        "pinyin": "de"
+      },
+      {
+        "token": "家",
+        "startTime": 2620,
+        "endTime": 7100,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "庭",
+        "startTime": 7100,
+        "endTime": 11580,
+        "pinyin": "tíng"
+      },
+      {
+        "token": "我",
+        "startTime": 11580,
+        "endTime": 12000,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "十",
+        "startTime": 12000,
+        "endTime": 13740,
+        "pinyin": "shí"
+      },
+      {
+        "token": "岁",
+        "startTime": 13740,
+        "endTime": 15480,
+        "pinyin": "suì"
+      },
+      {
+        "token": "了",
+        "startTime": 15480,
+        "endTime": 15980,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 的 表哥 二十岁 了",
+    "translations": {
+      "en": "My cousin is twenty years old."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 15980,
+        "endTime": 16360,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 16360,
+        "endTime": 16700,
+        "pinyin": "de"
+      },
+      {
+        "token": "表",
+        "startTime": 16700,
+        "endTime": 17230,
+        "pinyin": "biǎo"
+      },
+      {
+        "token": "哥",
+        "startTime": 17230,
+        "endTime": 17760,
+        "pinyin": "gē"
+      },
+      {
+        "token": "二",
+        "startTime": 17760,
+        "endTime": 19920,
+        "pinyin": "èr"
+      },
+      {
+        "token": "十",
+        "startTime": 19920,
+        "endTime": 22080,
+        "pinyin": "shí"
+      },
+      {
+        "token": "岁",
+        "startTime": 22080,
+        "endTime": 24240,
+        "pinyin": "suì"
+      },
+      {
+        "token": "了",
+        "startTime": 24240,
+        "endTime": 24520,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 的 妈妈 三十岁 了",
+    "translations": {
+      "en": "My mom is thirty years old."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 24520,
+        "endTime": 24940,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 24940,
+        "endTime": 25560,
+        "pinyin": "de"
+      },
+      {
+        "token": "妈",
+        "startTime": 25560,
+        "endTime": 25920,
+        "pinyin": "mā"
+      },
+      {
+        "token": "妈",
+        "startTime": 25920,
+        "endTime": 26280,
+        "pinyin": "mā"
+      },
+      {
+        "token": "三",
+        "startTime": 26280,
+        "endTime": 27847,
+        "pinyin": "sān"
+      },
+      {
+        "token": "十",
+        "startTime": 27847,
+        "endTime": 29413,
+        "pinyin": "shí"
+      },
+      {
+        "token": "岁",
+        "startTime": 29413,
+        "endTime": 30980,
+        "pinyin": "suì"
+      },
+      {
+        "token": "了",
+        "startTime": 30980,
+        "endTime": 31620,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 的 爸爸 四十岁 了 。",
+    "translations": {
+      "en": "My dad is forty years old."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 31620,
+        "endTime": 32460,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 32460,
+        "endTime": 32820,
+        "pinyin": "de"
+      },
+      {
+        "token": "爸",
+        "startTime": 32820,
+        "endTime": 34500,
+        "pinyin": "bà"
+      },
+      {
+        "token": "爸",
+        "startTime": 34500,
+        "endTime": 36180,
+        "pinyin": "bà"
+      },
+      {
+        "token": "四",
+        "startTime": 36180,
+        "endTime": 36507,
+        "pinyin": "sì"
+      },
+      {
+        "token": "十",
+        "startTime": 36507,
+        "endTime": 36833,
+        "pinyin": "shí"
+      },
+      {
+        "token": "岁",
+        "startTime": 36833,
+        "endTime": 37160,
+        "pinyin": "suì"
+      },
+      {
+        "token": "了",
+        "startTime": 37160,
+        "endTime": 37620,
+        "pinyin": "le"
+      },
+      {
+        "token": "。",
+        "startTime": 37620,
+        "endTime": 38340,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 的 姑姑 五十岁 了 。",
+    "translations": {
+      "en": "My aunt is fifty years old."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 38340,
+        "endTime": 38720,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 38720,
+        "endTime": 39080,
+        "pinyin": "de"
+      },
+      {
+        "token": "姑",
+        "startTime": 39080,
+        "endTime": 40000,
+        "pinyin": "gū"
+      },
+      {
+        "token": "姑",
+        "startTime": 40000,
+        "endTime": 40920,
+        "pinyin": "gū"
+      },
+      {
+        "token": "五",
+        "startTime": 40920,
+        "endTime": 41233,
+        "pinyin": "wǔ"
+      },
+      {
+        "token": "十",
+        "startTime": 41233,
+        "endTime": 41547,
+        "pinyin": "shí"
+      },
+      {
+        "token": "岁",
+        "startTime": 41547,
+        "endTime": 41860,
+        "pinyin": "suì"
+      },
+      {
+        "token": "了",
+        "startTime": 41860,
+        "endTime": 42340,
+        "pinyin": "le"
+      },
+      {
+        "token": "。",
+        "startTime": 42340,
+        "endTime": 43080,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 的 姑父 六十岁 了 。",
+    "translations": {
+      "en": "My uncle is sixty years old."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 43080,
+        "endTime": 43460,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 43460,
+        "endTime": 43800,
+        "pinyin": "de"
+      },
+      {
+        "token": "姑",
+        "startTime": 43800,
+        "endTime": 46240,
+        "pinyin": "gū"
+      },
+      {
+        "token": "父",
+        "startTime": 46240,
+        "endTime": 48680,
+        "pinyin": "fù"
+      },
+      {
+        "token": "六",
+        "startTime": 48680,
+        "endTime": 48993,
+        "pinyin": "liù"
+      },
+      {
+        "token": "十",
+        "startTime": 48993,
+        "endTime": 49307,
+        "pinyin": "shí"
+      },
+      {
+        "token": "岁",
+        "startTime": 49307,
+        "endTime": 49620,
+        "pinyin": "suì"
+      },
+      {
+        "token": "了",
+        "startTime": 49620,
+        "endTime": 50120,
+        "pinyin": "le"
+      },
+      {
+        "token": "。",
+        "startTime": 50120,
+        "endTime": 50860,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 的 奶奶 七十岁 了 。",
+    "translations": {
+      "en": "My grandma is seventy years old."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 50860,
+        "endTime": 51240,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 51240,
+        "endTime": 51600,
+        "pinyin": "de"
+      },
+      {
+        "token": "奶",
+        "startTime": 51600,
+        "endTime": 52940,
+        "pinyin": "nǎi"
+      },
+      {
+        "token": "奶",
+        "startTime": 52940,
+        "endTime": 54280,
+        "pinyin": "nǎi"
+      },
+      {
+        "token": "七",
+        "startTime": 54280,
+        "endTime": 54607,
+        "pinyin": "qī"
+      },
+      {
+        "token": "十",
+        "startTime": 54607,
+        "endTime": 54933,
+        "pinyin": "shí"
+      },
+      {
+        "token": "岁",
+        "startTime": 54933,
+        "endTime": 55260,
+        "pinyin": "suì"
+      },
+      {
+        "token": "了",
+        "startTime": 55260,
+        "endTime": 55720,
+        "pinyin": "le"
+      },
+      {
+        "token": "。",
+        "startTime": 55720,
+        "endTime": 56460,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 的 爷爷 八十岁 了 。",
+    "translations": {
+      "en": "My grandpa is eighty years old."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 56460,
+        "endTime": 56900,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 56900,
+        "endTime": 57260,
+        "pinyin": "de"
+      },
+      {
+        "token": "爷",
+        "startTime": 57260,
+        "endTime": 58630,
+        "pinyin": "yé"
+      },
+      {
+        "token": "爷",
+        "startTime": 58630,
+        "endTime": 60000,
+        "pinyin": "yé"
+      },
+      {
+        "token": "八",
+        "startTime": 60000,
+        "endTime": 60360,
+        "pinyin": "bā"
+      },
+      {
+        "token": "十",
+        "startTime": 60360,
+        "endTime": 60720,
+        "pinyin": "shí"
+      },
+      {
+        "token": "岁",
+        "startTime": 60720,
+        "endTime": 61080,
+        "pinyin": "suì"
+      },
+      {
+        "token": "了",
+        "startTime": 61080,
+        "endTime": 61440,
+        "pinyin": "le"
+      },
+      {
+        "token": "。",
+        "startTime": 61440,
+        "endTime": 61880,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 的 曾祖母 九十岁 了 。",
+    "translations": {
+      "en": "My great-grandmother is ninety years old."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 61880,
+        "endTime": 62620,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 62620,
+        "endTime": 63020,
+        "pinyin": "de"
+      },
+      {
+        "token": "曾",
+        "startTime": 63020,
+        "endTime": 65540,
+        "pinyin": "zēng"
+      },
+      {
+        "token": "祖",
+        "startTime": 65540,
+        "endTime": 68060,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "母",
+        "startTime": 68060,
+        "endTime": 70580,
+        "pinyin": "mǔ"
+      },
+      {
+        "token": "九",
+        "startTime": 70580,
+        "endTime": 70900,
+        "pinyin": "jiǔ"
+      },
+      {
+        "token": "十",
+        "startTime": 70900,
+        "endTime": 71220,
+        "pinyin": "shí"
+      },
+      {
+        "token": "岁",
+        "startTime": 71220,
+        "endTime": 71540,
+        "pinyin": "suì"
+      },
+      {
+        "token": "了",
+        "startTime": 71540,
+        "endTime": 72000,
+        "pinyin": "le"
+      },
+      {
+        "token": "。",
+        "startTime": 72000,
+        "endTime": 72780,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 的 鹦鹉 一百岁 了 。",
+    "translations": {
+      "en": "My parrot is one hundred years old."
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 72780,
+        "endTime": 73160,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 73160,
+        "endTime": 73560,
+        "pinyin": "de"
+      },
+      {
+        "token": "鹦",
+        "startTime": 73560,
+        "endTime": 74650,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "鹉",
+        "startTime": 74650,
+        "endTime": 75740,
+        "pinyin": "wǔ"
+      },
+      {
+        "token": "一",
+        "startTime": 75740,
+        "endTime": 76040,
+        "pinyin": "yì"
+      },
+      {
+        "token": "百",
+        "startTime": 76040,
+        "endTime": 76340,
+        "pinyin": "bǎi"
+      },
+      {
+        "token": "岁",
+        "startTime": 76340,
+        "endTime": 76640,
+        "pinyin": "suì"
+      },
+      {
+        "token": "了",
+        "startTime": 76640,
+        "endTime": 77100,
+        "pinyin": "le"
+      },
+      {
+        "token": "。",
+        "startTime": 77100,
+        "endTime": 77940,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你好 。",
+    "translations": {
+      "en": "Hello."
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 77940,
+        "endTime": 81960,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "好",
+        "startTime": 81960,
+        "endTime": 85980,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "。",
+        "startTime": 85980,
+        "endTime": 90000,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "谢谢 大家",
+    "translations": {
+      "en": "Thank you, everyone."
+    },
+    "segments": [
+      {
+        "token": "谢",
+        "startTime": 90000,
+        "endTime": 90480,
+        "pinyin": "xiè"
+      },
+      {
+        "token": "谢",
+        "startTime": 90480,
+        "endTime": 90960,
+        "pinyin": "xiè"
+      },
+      {
+        "token": "大",
+        "startTime": 90960,
+        "endTime": 91300,
+        "pinyin": "dà"
+      },
+      {
+        "token": "家",
+        "startTime": 91300,
+        "endTime": 91640,
+        "pinyin": "jiā"
+      }
+    ]
+  }
+]
