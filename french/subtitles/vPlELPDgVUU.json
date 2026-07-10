@@ -1,0 +1,4306 @@
+[
+  {
+    "sentence_text": "Avec vous Laura Kambo, bonjour Laura.",
+    "translations": {
+      "en": "With you, Laura Kambo, hello Laura."
+    },
+    "segments": [
+      {
+        "token": "Avec",
+        "startTime": 1460,
+        "endTime": 1580
+      },
+      {
+        "token": "vous",
+        "startTime": 1580,
+        "endTime": 1860
+      },
+      {
+        "token": "Laura",
+        "startTime": 1860,
+        "endTime": 2140
+      },
+      {
+        "token": "Kambo,",
+        "startTime": 2140,
+        "endTime": 2660
+      },
+      {
+        "token": "bonjour",
+        "startTime": 2660,
+        "endTime": 2920
+      },
+      {
+        "token": "Laura.",
+        "startTime": 2920,
+        "endTime": 3380
+      }
+    ]
+  },
+  {
+    "sentence_text": "Bonjour Nina.",
+    "translations": {
+      "en": "Hello Nina."
+    },
+    "segments": [
+      {
+        "token": "Bonjour",
+        "startTime": 3380,
+        "endTime": 3520
+      },
+      {
+        "token": "Nina.",
+        "startTime": 3520,
+        "endTime": 3920
+      }
+    ]
+  },
+  {
+    "sentence_text": "Et direction le Japon qui est en train de modifier ses règles d'entrée sur le territoire pour les étrangers.",
+    "translations": {
+      "en": "And we head to Japan, which is changing its entry rules for foreigners."
+    },
+    "segments": [
+      {
+        "token": "Et",
+        "startTime": 3920,
+        "endTime": 4000
+      },
+      {
+        "token": "direction",
+        "startTime": 4000,
+        "endTime": 4260
+      },
+      {
+        "token": "le",
+        "startTime": 4260,
+        "endTime": 4680
+      },
+      {
+        "token": "Japon",
+        "startTime": 4680,
+        "endTime": 4920
+      },
+      {
+        "token": "qui",
+        "startTime": 4920,
+        "endTime": 5220
+      },
+      {
+        "token": "est",
+        "startTime": 5220,
+        "endTime": 5340
+      },
+      {
+        "token": "en",
+        "startTime": 5340,
+        "endTime": 5440
+      },
+      {
+        "token": "train",
+        "startTime": 5440,
+        "endTime": 5520
+      },
+      {
+        "token": "de",
+        "startTime": 5520,
+        "endTime": 5620
+      },
+      {
+        "token": "modifier",
+        "startTime": 5620,
+        "endTime": 5900
+      },
+      {
+        "token": "ses",
+        "startTime": 5900,
+        "endTime": 6120
+      },
+      {
+        "token": "règles",
+        "startTime": 6120,
+        "endTime": 6340
+      },
+      {
+        "token": "d'entrée",
+        "startTime": 6340,
+        "endTime": 6760
+      },
+      {
+        "token": "sur",
+        "startTime": 6760,
+        "endTime": 6940
+      },
+      {
+        "token": "le",
+        "startTime": 6940,
+        "endTime": 7020
+      },
+      {
+        "token": "territoire",
+        "startTime": 7020,
+        "endTime": 7380
+      },
+      {
+        "token": "pour",
+        "startTime": 7380,
+        "endTime": 7540
+      },
+      {
+        "token": "les",
+        "startTime": 7540,
+        "endTime": 7680
+      },
+      {
+        "token": "étrangers.",
+        "startTime": 7680,
+        "endTime": 8200
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hier pour la première fois depuis 1978, le prix des visas a changé.",
+    "translations": {
+      "en": "Yesterday, for the first time since 1978, visa prices changed."
+    },
+    "segments": [
+      {
+        "token": "Hier",
+        "startTime": 8200,
+        "endTime": 8400
+      },
+      {
+        "token": "pour",
+        "startTime": 8400,
+        "endTime": 8580
+      },
+      {
+        "token": "la",
+        "startTime": 8580,
+        "endTime": 8740
+      },
+      {
+        "token": "première",
+        "startTime": 8740,
+        "endTime": 9140
+      },
+      {
+        "token": "fois",
+        "startTime": 9140,
+        "endTime": 9360
+      },
+      {
+        "token": "depuis",
+        "startTime": 9360,
+        "endTime": 9600
+      },
+      {
+        "token": "1978,",
+        "startTime": 9600,
+        "endTime": 11040
+      },
+      {
+        "token": "le",
+        "startTime": 11040,
+        "endTime": 11100
+      },
+      {
+        "token": "prix",
+        "startTime": 11100,
+        "endTime": 11280
+      },
+      {
+        "token": "des",
+        "startTime": 11280,
+        "endTime": 11620
+      },
+      {
+        "token": "visas",
+        "startTime": 11620,
+        "endTime": 11840
+      },
+      {
+        "token": "a",
+        "startTime": 11840,
+        "endTime": 12180
+      },
+      {
+        "token": "changé.",
+        "startTime": 12180,
+        "endTime": 12700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Oui et maintenant les visas tourisme coûtent 5 fois plus cher.",
+    "translations": {
+      "en": "Yes, and now tourist visas cost 5 times more."
+    },
+    "segments": [
+      {
+        "token": "Oui",
+        "startTime": 12700,
+        "endTime": 12820
+      },
+      {
+        "token": "et",
+        "startTime": 12820,
+        "endTime": 13020
+      },
+      {
+        "token": "maintenant",
+        "startTime": 13020,
+        "endTime": 13220
+      },
+      {
+        "token": "les",
+        "startTime": 13220,
+        "endTime": 13400
+      },
+      {
+        "token": "visas",
+        "startTime": 13400,
+        "endTime": 13720
+      },
+      {
+        "token": "tourisme",
+        "startTime": 13720,
+        "endTime": 14260
+      },
+      {
+        "token": "coûtent",
+        "startTime": 14260,
+        "endTime": 14680
+      },
+      {
+        "token": "5",
+        "startTime": 14680,
+        "endTime": 14980
+      },
+      {
+        "token": "fois",
+        "startTime": 14980,
+        "endTime": 15120
+      },
+      {
+        "token": "plus",
+        "startTime": 15120,
+        "endTime": 15320
+      },
+      {
+        "token": "cher.",
+        "startTime": 15320,
+        "endTime": 15740
+      }
+    ]
+  },
+  {
+    "sentence_text": "On est sur l'équivalent de 80 euros pour un visa à entrée unique, 160 euros pour un visa à entrée multiple.",
+    "translations": {
+      "en": "That's about 80 euros for a single-entry visa, 160 euros for a multiple-entry visa."
+    },
+    "segments": [
+      {
+        "token": "On",
+        "startTime": 15740,
+        "endTime": 15860
+      },
+      {
+        "token": "est",
+        "startTime": 15860,
+        "endTime": 15960
+      },
+      {
+        "token": "sur",
+        "startTime": 15960,
+        "endTime": 16140
+      },
+      {
+        "token": "l'équivalent",
+        "startTime": 16140,
+        "endTime": 16740
+      },
+      {
+        "token": "de",
+        "startTime": 16740,
+        "endTime": 17080
+      },
+      {
+        "token": "80",
+        "startTime": 17080,
+        "endTime": 17600
+      },
+      {
+        "token": "euros",
+        "startTime": 17600,
+        "endTime": 17760
+      },
+      {
+        "token": "pour",
+        "startTime": 17760,
+        "endTime": 18040
+      },
+      {
+        "token": "un",
+        "startTime": 18040,
+        "endTime": 18200
+      },
+      {
+        "token": "visa",
+        "startTime": 18200,
+        "endTime": 18420
+      },
+      {
+        "token": "à",
+        "startTime": 18420,
+        "endTime": 19040
+      },
+      {
+        "token": "entrée",
+        "startTime": 19040,
+        "endTime": 19480
+      },
+      {
+        "token": "unique,",
+        "startTime": 19480,
+        "endTime": 20120
+      },
+      {
+        "token": "160",
+        "startTime": 20120,
+        "endTime": 20620
+      },
+      {
+        "token": "euros",
+        "startTime": 20620,
+        "endTime": 21180
+      },
+      {
+        "token": "pour",
+        "startTime": 21180,
+        "endTime": 21460
+      },
+      {
+        "token": "un",
+        "startTime": 21460,
+        "endTime": 21660
+      },
+      {
+        "token": "visa",
+        "startTime": 21660,
+        "endTime": 21880
+      },
+      {
+        "token": "à",
+        "startTime": 21880,
+        "endTime": 22160
+      },
+      {
+        "token": "entrée",
+        "startTime": 22160,
+        "endTime": 22480
+      },
+      {
+        "token": "multiple.",
+        "startTime": 22480,
+        "endTime": 23300
+      }
+    ]
+  },
+  {
+    "sentence_text": "Les visas tourisme qui touchent plusieurs Etats, Chine, Inde, Russie, mais d'autres pays, les pays occidentaux comme la France, en sont exemptés.",
+    "translations": {
+      "en": "Tourist visas affect several countries—China, India, Russia—but Western countries like France are exempt."
+    },
+    "segments": [
+      {
+        "token": "Les",
+        "startTime": 23300,
+        "endTime": 23420
+      },
+      {
+        "token": "visas",
+        "startTime": 23420,
+        "endTime": 23660
+      },
+      {
+        "token": "tourisme",
+        "startTime": 23660,
+        "endTime": 24080
+      },
+      {
+        "token": "qui",
+        "startTime": 24080,
+        "endTime": 24360
+      },
+      {
+        "token": "touchent",
+        "startTime": 24360,
+        "endTime": 24640
+      },
+      {
+        "token": "plusieurs",
+        "startTime": 24640,
+        "endTime": 25160
+      },
+      {
+        "token": "Etats,",
+        "startTime": 25160,
+        "endTime": 25800
+      },
+      {
+        "token": "Chine,",
+        "startTime": 25800,
+        "endTime": 27220
+      },
+      {
+        "token": "Inde,",
+        "startTime": 27220,
+        "endTime": 27540
+      },
+      {
+        "token": "Russie,",
+        "startTime": 27540,
+        "endTime": 28060
+      },
+      {
+        "token": "mais",
+        "startTime": 28060,
+        "endTime": 28140
+      },
+      {
+        "token": "d'autres",
+        "startTime": 28140,
+        "endTime": 28420
+      },
+      {
+        "token": "pays,",
+        "startTime": 28420,
+        "endTime": 28880
+      },
+      {
+        "token": "les",
+        "startTime": 28880,
+        "endTime": 29000
+      },
+      {
+        "token": "pays",
+        "startTime": 29000,
+        "endTime": 29140
+      },
+      {
+        "token": "occidentaux",
+        "startTime": 29140,
+        "endTime": 29680
+      },
+      {
+        "token": "comme",
+        "startTime": 29680,
+        "endTime": 30340
+      },
+      {
+        "token": "la",
+        "startTime": 30340,
+        "endTime": 30480
+      },
+      {
+        "token": "France,",
+        "startTime": 30480,
+        "endTime": 30960
+      },
+      {
+        "token": "en",
+        "startTime": 30960,
+        "endTime": 31060
+      },
+      {
+        "token": "sont",
+        "startTime": 31060,
+        "endTime": 31380
+      },
+      {
+        "token": "exemptés.",
+        "startTime": 31380,
+        "endTime": 32340
+      }
+    ]
+  },
+  {
+    "sentence_text": "En revanche, il n'y a personne de titre de séjour et la hausse est spectaculaire.",
+    "translations": {
+      "en": "However, there's no residence permit involved, and the increase is dramatic."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 32340,
+        "endTime": 32500
+      },
+      {
+        "token": "revanche,",
+        "startTime": 32500,
+        "endTime": 32980
+      },
+      {
+        "token": "il",
+        "startTime": 32980,
+        "endTime": 33060
+      },
+      {
+        "token": "n'y",
+        "startTime": 33060,
+        "endTime": 33140
+      },
+      {
+        "token": "a",
+        "startTime": 33140,
+        "endTime": 33160
+      },
+      {
+        "token": "personne",
+        "startTime": 33160,
+        "endTime": 33500
+      },
+      {
+        "token": "de",
+        "startTime": 33500,
+        "endTime": 34560
+      },
+      {
+        "token": "titre",
+        "startTime": 34560,
+        "endTime": 34940
+      },
+      {
+        "token": "de",
+        "startTime": 34940,
+        "endTime": 35200
+      },
+      {
+        "token": "séjour",
+        "startTime": 35200,
+        "endTime": 35620
+      },
+      {
+        "token": "et",
+        "startTime": 35620,
+        "endTime": 35780
+      },
+      {
+        "token": "la",
+        "startTime": 35780,
+        "endTime": 35900
+      },
+      {
+        "token": "hausse",
+        "startTime": 35900,
+        "endTime": 36100
+      },
+      {
+        "token": "est",
+        "startTime": 36100,
+        "endTime": 36260
+      },
+      {
+        "token": "spectaculaire.",
+        "startTime": 36260,
+        "endTime": 37420
+      }
+    ]
+  },
+  {
+    "sentence_text": "X10, pour le prolonger, ça coûte désormais 600 euros et on est même à 1800 euros pour une première demande de résidence permanente.",
+    "translations": {
+      "en": "10 times more: extending it now costs 600 euros, and a first application for permanent residence is 1,800 euros."
+    },
+    "segments": [
+      {
+        "token": "X10,",
+        "startTime": 37420,
+        "endTime": 38040
+      },
+      {
+        "token": "pour",
+        "startTime": 38040,
+        "endTime": 38280
+      },
+      {
+        "token": "le",
+        "startTime": 38280,
+        "endTime": 38420
+      },
+      {
+        "token": "prolonger,",
+        "startTime": 38420,
+        "endTime": 38980
+      },
+      {
+        "token": "ça",
+        "startTime": 38980,
+        "endTime": 39040
+      },
+      {
+        "token": "coûte",
+        "startTime": 39040,
+        "endTime": 39240
+      },
+      {
+        "token": "désormais",
+        "startTime": 39240,
+        "endTime": 39760
+      },
+      {
+        "token": "600",
+        "startTime": 39760,
+        "endTime": 40520
+      },
+      {
+        "token": "euros",
+        "startTime": 40520,
+        "endTime": 40820
+      },
+      {
+        "token": "et",
+        "startTime": 40820,
+        "endTime": 41020
+      },
+      {
+        "token": "on",
+        "startTime": 41020,
+        "endTime": 41120
+      },
+      {
+        "token": "est",
+        "startTime": 41120,
+        "endTime": 41240
+      },
+      {
+        "token": "même",
+        "startTime": 41240,
+        "endTime": 41420
+      },
+      {
+        "token": "à",
+        "startTime": 41420,
+        "endTime": 41560
+      },
+      {
+        "token": "1800",
+        "startTime": 41560,
+        "endTime": 42000
+      },
+      {
+        "token": "euros",
+        "startTime": 42000,
+        "endTime": 42500
+      },
+      {
+        "token": "pour",
+        "startTime": 42500,
+        "endTime": 42780
+      },
+      {
+        "token": "une",
+        "startTime": 42780,
+        "endTime": 42920
+      },
+      {
+        "token": "première",
+        "startTime": 42920,
+        "endTime": 43240
+      },
+      {
+        "token": "demande",
+        "startTime": 43240,
+        "endTime": 43600
+      },
+      {
+        "token": "de",
+        "startTime": 43600,
+        "endTime": 43840
+      },
+      {
+        "token": "résidence",
+        "startTime": 43840,
+        "endTime": 44220
+      },
+      {
+        "token": "permanente.",
+        "startTime": 44220,
+        "endTime": 45020
+      }
+    ]
+  },
+  {
+    "sentence_text": "Est-ce que le Japon est en train de fermer la porte aux étrangers tout simplement ?",
+    "translations": {
+      "en": "Is Japan simply closing its doors to foreigners?"
+    },
+    "segments": [
+      {
+        "token": "Est-ce",
+        "startTime": 45020,
+        "endTime": 45140
+      },
+      {
+        "token": "que",
+        "startTime": 45140,
+        "endTime": 45260
+      },
+      {
+        "token": "le",
+        "startTime": 45260,
+        "endTime": 45600
+      },
+      {
+        "token": "Japon",
+        "startTime": 45600,
+        "endTime": 45820
+      },
+      {
+        "token": "est",
+        "startTime": 45820,
+        "endTime": 46020
+      },
+      {
+        "token": "en",
+        "startTime": 46020,
+        "endTime": 46160
+      },
+      {
+        "token": "train",
+        "startTime": 46160,
+        "endTime": 46220
+      },
+      {
+        "token": "de",
+        "startTime": 46220,
+        "endTime": 46320
+      },
+      {
+        "token": "fermer",
+        "startTime": 46320,
+        "endTime": 46520
+      },
+      {
+        "token": "la",
+        "startTime": 46520,
+        "endTime": 46660
+      },
+      {
+        "token": "porte",
+        "startTime": 46660,
+        "endTime": 46920
+      },
+      {
+        "token": "aux",
+        "startTime": 46920,
+        "endTime": 47400
+      },
+      {
+        "token": "étrangers",
+        "startTime": 47400,
+        "endTime": 47820
+      },
+      {
+        "token": "tout",
+        "startTime": 47820,
+        "endTime": 48000
+      },
+      {
+        "token": "simplement",
+        "startTime": 48000,
+        "endTime": 48000
+      },
+      {
+        "token": "?",
+        "startTime": 48000,
+        "endTime": 48660
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pour les touristes, pour les personnes qui voudraient y vivre, ça devient plus compliqué, plus cher.",
+    "translations": {
+      "en": "For tourists and those wanting to live there, it's becoming more complicated and expensive."
+    },
+    "segments": [
+      {
+        "token": "Pour",
+        "startTime": 48660,
+        "endTime": 48940
+      },
+      {
+        "token": "les",
+        "startTime": 48940,
+        "endTime": 49140
+      },
+      {
+        "token": "touristes,",
+        "startTime": 49140,
+        "endTime": 49660
+      },
+      {
+        "token": "pour",
+        "startTime": 49660,
+        "endTime": 49780
+      },
+      {
+        "token": "les",
+        "startTime": 49780,
+        "endTime": 49880
+      },
+      {
+        "token": "personnes",
+        "startTime": 49880,
+        "endTime": 50160
+      },
+      {
+        "token": "qui",
+        "startTime": 50160,
+        "endTime": 50400
+      },
+      {
+        "token": "voudraient",
+        "startTime": 50400,
+        "endTime": 50700
+      },
+      {
+        "token": "y",
+        "startTime": 50700,
+        "endTime": 50960
+      },
+      {
+        "token": "vivre,",
+        "startTime": 50960,
+        "endTime": 51360
+      },
+      {
+        "token": "ça",
+        "startTime": 51360,
+        "endTime": 51380
+      },
+      {
+        "token": "devient",
+        "startTime": 51380,
+        "endTime": 51760
+      },
+      {
+        "token": "plus",
+        "startTime": 51760,
+        "endTime": 52040
+      },
+      {
+        "token": "compliqué,",
+        "startTime": 52040,
+        "endTime": 52780
+      },
+      {
+        "token": "plus",
+        "startTime": 52780,
+        "endTime": 52960
+      },
+      {
+        "token": "cher.",
+        "startTime": 52960,
+        "endTime": 53700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mais c'est pour les entrepreneurs que c'est en fait le plus marquant.",
+    "translations": {
+      "en": "But it's for entrepreneurs that the change is most striking."
+    },
+    "segments": [
+      {
+        "token": "Mais",
+        "startTime": 53700,
+        "endTime": 53860
+      },
+      {
+        "token": "c'est",
+        "startTime": 53860,
+        "endTime": 53980
+      },
+      {
+        "token": "pour",
+        "startTime": 53980,
+        "endTime": 54120
+      },
+      {
+        "token": "les",
+        "startTime": 54120,
+        "endTime": 54260
+      },
+      {
+        "token": "entrepreneurs",
+        "startTime": 54260,
+        "endTime": 54660
+      },
+      {
+        "token": "que",
+        "startTime": 54660,
+        "endTime": 54980
+      },
+      {
+        "token": "c'est",
+        "startTime": 54980,
+        "endTime": 55180
+      },
+      {
+        "token": "en",
+        "startTime": 55180,
+        "endTime": 55280
+      },
+      {
+        "token": "fait",
+        "startTime": 55280,
+        "endTime": 55400
+      },
+      {
+        "token": "le",
+        "startTime": 55400,
+        "endTime": 55600
+      },
+      {
+        "token": "plus",
+        "startTime": 55600,
+        "endTime": 55800
+      },
+      {
+        "token": "marquant.",
+        "startTime": 55800,
+        "endTime": 56460
+      }
+    ]
+  },
+  {
+    "sentence_text": "Il y a des règles qui sont entrées en vigueur l'an dernier.",
+    "translations": {
+      "en": "Rules came into effect last year."
+    },
+    "segments": [
+      {
+        "token": "Il",
+        "startTime": 56460,
+        "endTime": 56640
+      },
+      {
+        "token": "y",
+        "startTime": 56640,
+        "endTime": 56700
+      },
+      {
+        "token": "a",
+        "startTime": 56700,
+        "endTime": 56720
+      },
+      {
+        "token": "des",
+        "startTime": 56720,
+        "endTime": 56860
+      },
+      {
+        "token": "règles",
+        "startTime": 56860,
+        "endTime": 57100
+      },
+      {
+        "token": "qui",
+        "startTime": 57100,
+        "endTime": 57200
+      },
+      {
+        "token": "sont",
+        "startTime": 57200,
+        "endTime": 57340
+      },
+      {
+        "token": "entrées",
+        "startTime": 57340,
+        "endTime": 57700
+      },
+      {
+        "token": "en",
+        "startTime": 57700,
+        "endTime": 58220
+      },
+      {
+        "token": "vigueur",
+        "startTime": 58220,
+        "endTime": 58700
+      },
+      {
+        "token": "l'an",
+        "startTime": 58700,
+        "endTime": 58980
+      },
+      {
+        "token": "dernier.",
+        "startTime": 58980,
+        "endTime": 59540
+      }
+    ]
+  },
+  {
+    "sentence_text": "Il faut désormais justifier d'une expérience en entreprise, employer un salarié à temps plein et surtout avoir un capital minimum.",
+    "translations": {
+      "en": "You now need to prove business experience, hire a full-time employee, and especially have a minimum capital."
+    },
+    "segments": [
+      {
+        "token": "Il",
+        "startTime": 59540,
+        "endTime": 59720
+      },
+      {
+        "token": "faut",
+        "startTime": 59720,
+        "endTime": 59860
+      },
+      {
+        "token": "désormais",
+        "startTime": 59860,
+        "endTime": 60260
+      },
+      {
+        "token": "justifier",
+        "startTime": 60260,
+        "endTime": 60800
+      },
+      {
+        "token": "d'une",
+        "startTime": 60800,
+        "endTime": 61060
+      },
+      {
+        "token": "expérience",
+        "startTime": 61060,
+        "endTime": 61620
+      },
+      {
+        "token": "en",
+        "startTime": 61620,
+        "endTime": 62380
+      },
+      {
+        "token": "entreprise,",
+        "startTime": 62380,
+        "endTime": 63340
+      },
+      {
+        "token": "employer",
+        "startTime": 63340,
+        "endTime": 63820
+      },
+      {
+        "token": "un",
+        "startTime": 63820,
+        "endTime": 64319
+      },
+      {
+        "token": "salarié",
+        "startTime": 64319,
+        "endTime": 64860
+      },
+      {
+        "token": "à",
+        "startTime": 64860,
+        "endTime": 65180
+      },
+      {
+        "token": "temps",
+        "startTime": 65180,
+        "endTime": 65360
+      },
+      {
+        "token": "plein",
+        "startTime": 65360,
+        "endTime": 65540
+      },
+      {
+        "token": "et",
+        "startTime": 65540,
+        "endTime": 65800
+      },
+      {
+        "token": "surtout",
+        "startTime": 65800,
+        "endTime": 66120
+      },
+      {
+        "token": "avoir",
+        "startTime": 66120,
+        "endTime": 66440
+      },
+      {
+        "token": "un",
+        "startTime": 66440,
+        "endTime": 66660
+      },
+      {
+        "token": "capital",
+        "startTime": 66660,
+        "endTime": 67020
+      },
+      {
+        "token": "minimum.",
+        "startTime": 67020,
+        "endTime": 68230
+      }
+    ]
+  },
+  {
+    "sentence_text": "Et c'est un peu fou pour avoir son entreprise au Japon.",
+    "translations": {
+      "en": "And it's a bit crazy to set up a company in Japan."
+    },
+    "segments": [
+      {
+        "token": "Et",
+        "startTime": 68230,
+        "endTime": 68290
+      },
+      {
+        "token": "c'est",
+        "startTime": 68290,
+        "endTime": 68470
+      },
+      {
+        "token": "un",
+        "startTime": 68470,
+        "endTime": 68570
+      },
+      {
+        "token": "peu",
+        "startTime": 68570,
+        "endTime": 68670
+      },
+      {
+        "token": "fou",
+        "startTime": 68670,
+        "endTime": 68890
+      },
+      {
+        "token": "pour",
+        "startTime": 68890,
+        "endTime": 69170
+      },
+      {
+        "token": "avoir",
+        "startTime": 69170,
+        "endTime": 69390
+      },
+      {
+        "token": "son",
+        "startTime": 69390,
+        "endTime": 69670
+      },
+      {
+        "token": "entreprise",
+        "startTime": 69670,
+        "endTime": 70130
+      },
+      {
+        "token": "au",
+        "startTime": 70130,
+        "endTime": 70270
+      },
+      {
+        "token": "Japon.",
+        "startTime": 70270,
+        "endTime": 70950
+      }
+    ]
+  },
+  {
+    "sentence_text": "Il faut désormais avoir 30 millions de yens, soit 162 000 euros de capital.",
+    "translations": {
+      "en": "You now need 30 million yen, or 162,000 euros in capital."
+    },
+    "segments": [
+      {
+        "token": "Il",
+        "startTime": 70950,
+        "endTime": 71110
+      },
+      {
+        "token": "faut",
+        "startTime": 71110,
+        "endTime": 71250
+      },
+      {
+        "token": "désormais",
+        "startTime": 71250,
+        "endTime": 71750
+      },
+      {
+        "token": "avoir",
+        "startTime": 71750,
+        "endTime": 72270
+      },
+      {
+        "token": "30",
+        "startTime": 72270,
+        "endTime": 72930
+      },
+      {
+        "token": "millions",
+        "startTime": 72930,
+        "endTime": 73370
+      },
+      {
+        "token": "de",
+        "startTime": 73370,
+        "endTime": 73690
+      },
+      {
+        "token": "yens,",
+        "startTime": 73690,
+        "endTime": 74090
+      },
+      {
+        "token": "soit",
+        "startTime": 74090,
+        "endTime": 74450
+      },
+      {
+        "token": "162",
+        "startTime": 74450,
+        "endTime": 75550
+      },
+      {
+        "token": "000",
+        "startTime": 75550,
+        "endTime": 76210
+      },
+      {
+        "token": "euros",
+        "startTime": 76210,
+        "endTime": 76450
+      },
+      {
+        "token": "de",
+        "startTime": 76450,
+        "endTime": 76670
+      },
+      {
+        "token": "capital.",
+        "startTime": 76670,
+        "endTime": 77570
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ceux qui ont déjà ouvert leur entreprise ont jusqu'à 2028 pour s'y conformer.",
+    "translations": {
+      "en": "Those who already opened their business have until 2028 to comply."
+    },
+    "segments": [
+      {
+        "token": "Ceux",
+        "startTime": 77570,
+        "endTime": 77710
+      },
+      {
+        "token": "qui",
+        "startTime": 77710,
+        "endTime": 77870
+      },
+      {
+        "token": "ont",
+        "startTime": 77870,
+        "endTime": 77890
+      },
+      {
+        "token": "déjà",
+        "startTime": 77890,
+        "endTime": 78130
+      },
+      {
+        "token": "ouvert",
+        "startTime": 78130,
+        "endTime": 78530
+      },
+      {
+        "token": "leur",
+        "startTime": 78530,
+        "endTime": 78810
+      },
+      {
+        "token": "entreprise",
+        "startTime": 78810,
+        "endTime": 79350
+      },
+      {
+        "token": "ont",
+        "startTime": 79350,
+        "endTime": 79650
+      },
+      {
+        "token": "jusqu'à",
+        "startTime": 79650,
+        "endTime": 80110
+      },
+      {
+        "token": "2028",
+        "startTime": 80110,
+        "endTime": 80930
+      },
+      {
+        "token": "pour",
+        "startTime": 80930,
+        "endTime": 81270
+      },
+      {
+        "token": "s'y",
+        "startTime": 81270,
+        "endTime": 81490
+      },
+      {
+        "token": "conformer.",
+        "startTime": 81490,
+        "endTime": 82330
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mais entre temps, c'est panique à bord pour trouver cet argent.",
+    "translations": {
+      "en": "But in the meantime, it's panic stations to find that money."
+    },
+    "segments": [
+      {
+        "token": "Mais",
+        "startTime": 82330,
+        "endTime": 82490
+      },
+      {
+        "token": "entre",
+        "startTime": 82490,
+        "endTime": 82690
+      },
+      {
+        "token": "temps,",
+        "startTime": 82690,
+        "endTime": 82970
+      },
+      {
+        "token": "c'est",
+        "startTime": 82970,
+        "endTime": 83090
+      },
+      {
+        "token": "panique",
+        "startTime": 83090,
+        "endTime": 83410
+      },
+      {
+        "token": "à",
+        "startTime": 83410,
+        "endTime": 83630
+      },
+      {
+        "token": "bord",
+        "startTime": 83630,
+        "endTime": 83730
+      },
+      {
+        "token": "pour",
+        "startTime": 83730,
+        "endTime": 84230
+      },
+      {
+        "token": "trouver",
+        "startTime": 84230,
+        "endTime": 84730
+      },
+      {
+        "token": "cet",
+        "startTime": 84730,
+        "endTime": 85090
+      },
+      {
+        "token": "argent.",
+        "startTime": 85090,
+        "endTime": 85770
+      }
+    ]
+  },
+  {
+    "sentence_text": "Écoutez cette restauratrice népalaisse qui travaille à Tokyo.",
+    "translations": {
+      "en": "Listen to this Nepalese restaurateur working in Tokyo."
+    },
+    "segments": [
+      {
+        "token": "Écoutez",
+        "startTime": 85770,
+        "endTime": 86110
+      },
+      {
+        "token": "cette",
+        "startTime": 86110,
+        "endTime": 86450
+      },
+      {
+        "token": "restauratrice",
+        "startTime": 86450,
+        "endTime": 87390
+      },
+      {
+        "token": "népalaisse",
+        "startTime": 87390,
+        "endTime": 87990
+      },
+      {
+        "token": "qui",
+        "startTime": 87990,
+        "endTime": 88070
+      },
+      {
+        "token": "travaille",
+        "startTime": 88070,
+        "endTime": 88390
+      },
+      {
+        "token": "à",
+        "startTime": 88390,
+        "endTime": 88530
+      },
+      {
+        "token": "Tokyo.",
+        "startTime": 88530,
+        "endTime": 91230
+      }
+    ]
+  },
+  {
+    "sentence_text": "Le problème, c'est cet apport en capital.",
+    "translations": {
+      "en": "The problem is this capital contribution."
+    },
+    "segments": [
+      {
+        "token": "Le",
+        "startTime": 91230,
+        "endTime": 91250
+      },
+      {
+        "token": "problème,",
+        "startTime": 91250,
+        "endTime": 91830
+      },
+      {
+        "token": "c'est",
+        "startTime": 91830,
+        "endTime": 92150
+      },
+      {
+        "token": "cet",
+        "startTime": 92150,
+        "endTime": 92370
+      },
+      {
+        "token": "apport",
+        "startTime": 92370,
+        "endTime": 92610
+      },
+      {
+        "token": "en",
+        "startTime": 92610,
+        "endTime": 92790
+      },
+      {
+        "token": "capital.",
+        "startTime": 92790,
+        "endTime": 93510
+      }
+    ]
+  },
+  {
+    "sentence_text": "Cette somme de 30 millions de yens est un casse-tête.",
+    "translations": {
+      "en": "This sum of 30 million yen is a real headache."
+    },
+    "segments": [
+      {
+        "token": "Cette",
+        "startTime": 93510,
+        "endTime": 93770
+      },
+      {
+        "token": "somme",
+        "startTime": 93770,
+        "endTime": 94050
+      },
+      {
+        "token": "de",
+        "startTime": 94050,
+        "endTime": 94230
+      },
+      {
+        "token": "30",
+        "startTime": 94230,
+        "endTime": 94530
+      },
+      {
+        "token": "millions",
+        "startTime": 94530,
+        "endTime": 94910
+      },
+      {
+        "token": "de",
+        "startTime": 94910,
+        "endTime": 95130
+      },
+      {
+        "token": "yens",
+        "startTime": 95130,
+        "endTime": 95290
+      },
+      {
+        "token": "est",
+        "startTime": 95290,
+        "endTime": 95490
+      },
+      {
+        "token": "un",
+        "startTime": 95490,
+        "endTime": 95630
+      },
+      {
+        "token": "casse-tête.",
+        "startTime": 95630,
+        "endTime": 97950
+      }
+    ]
+  },
+  {
+    "sentence_text": "Cette somme totalement inattendue est apparue d'un coup et je suis vraiment inquiète, car je ne vois pas comment je pourrais réunir autant d'argent.",
+    "translations": {
+      "en": "This completely unexpected sum appeared out of nowhere, and I'm really worried because I don't see how I could raise that much money."
+    },
+    "segments": [
+      {
+        "token": "Cette",
+        "startTime": 97950,
+        "endTime": 98130
+      },
+      {
+        "token": "somme",
+        "startTime": 98130,
+        "endTime": 98370
+      },
+      {
+        "token": "totalement",
+        "startTime": 98370,
+        "endTime": 98890
+      },
+      {
+        "token": "inattendue",
+        "startTime": 98890,
+        "endTime": 99630
+      },
+      {
+        "token": "est",
+        "startTime": 99630,
+        "endTime": 99930
+      },
+      {
+        "token": "apparue",
+        "startTime": 99930,
+        "endTime": 100310
+      },
+      {
+        "token": "d'un",
+        "startTime": 100310,
+        "endTime": 100590
+      },
+      {
+        "token": "coup",
+        "startTime": 100590,
+        "endTime": 100770
+      },
+      {
+        "token": "et",
+        "startTime": 100770,
+        "endTime": 101490
+      },
+      {
+        "token": "je",
+        "startTime": 101490,
+        "endTime": 101710
+      },
+      {
+        "token": "suis",
+        "startTime": 101710,
+        "endTime": 101950
+      },
+      {
+        "token": "vraiment",
+        "startTime": 101950,
+        "endTime": 102370
+      },
+      {
+        "token": "inquiète,",
+        "startTime": 102370,
+        "endTime": 102990
+      },
+      {
+        "token": "car",
+        "startTime": 102990,
+        "endTime": 103290
+      },
+      {
+        "token": "je",
+        "startTime": 103290,
+        "endTime": 103430
+      },
+      {
+        "token": "ne",
+        "startTime": 103430,
+        "endTime": 103550
+      },
+      {
+        "token": "vois",
+        "startTime": 103550,
+        "endTime": 103690
+      },
+      {
+        "token": "pas",
+        "startTime": 103690,
+        "endTime": 103890
+      },
+      {
+        "token": "comment",
+        "startTime": 103890,
+        "endTime": 104210
+      },
+      {
+        "token": "je",
+        "startTime": 104210,
+        "endTime": 104390
+      },
+      {
+        "token": "pourrais",
+        "startTime": 104390,
+        "endTime": 104690
+      },
+      {
+        "token": "réunir",
+        "startTime": 104690,
+        "endTime": 105210
+      },
+      {
+        "token": "autant",
+        "startTime": 105210,
+        "endTime": 105450
+      },
+      {
+        "token": "d'argent.",
+        "startTime": 105450,
+        "endTime": 110250
+      }
+    ]
+  },
+  {
+    "sentence_text": "Alors quelle est la conséquence concrète sur les demandes de visa de gestionnaire d'entreprise ?",
+    "translations": {
+      "en": "So what is the concrete impact on business manager visa applications?"
+    },
+    "segments": [
+      {
+        "token": "Alors",
+        "startTime": 110250,
+        "endTime": 110430
+      },
+      {
+        "token": "quelle",
+        "startTime": 110430,
+        "endTime": 110530
+      },
+      {
+        "token": "est",
+        "startTime": 110530,
+        "endTime": 110630
+      },
+      {
+        "token": "la",
+        "startTime": 110630,
+        "endTime": 110790
+      },
+      {
+        "token": "conséquence",
+        "startTime": 110790,
+        "endTime": 111350
+      },
+      {
+        "token": "concrète",
+        "startTime": 111350,
+        "endTime": 111890
+      },
+      {
+        "token": "sur",
+        "startTime": 111890,
+        "endTime": 112290
+      },
+      {
+        "token": "les",
+        "startTime": 112290,
+        "endTime": 112410
+      },
+      {
+        "token": "demandes",
+        "startTime": 112410,
+        "endTime": 112630
+      },
+      {
+        "token": "de",
+        "startTime": 112630,
+        "endTime": 112790
+      },
+      {
+        "token": "visa",
+        "startTime": 112790,
+        "endTime": 112970
+      },
+      {
+        "token": "de",
+        "startTime": 112970,
+        "endTime": 113150
+      },
+      {
+        "token": "gestionnaire",
+        "startTime": 113150,
+        "endTime": 113530
+      },
+      {
+        "token": "d'entreprise",
+        "startTime": 113530,
+        "endTime": 113530
+      },
+      {
+        "token": "?",
+        "startTime": 113530,
+        "endTime": 114850
+      }
+    ]
+  },
+  {
+    "sentence_text": "On est sur une chute de 96% des demandes, il y en a donc presque plus, autour de 70 demandes par mois pour les entrepreneurs, selon la presse japonaise.",
+    "translations": {
+      "en": "We're looking at a 96% drop in applications, so there are almost none left, around 70 applications per month for entrepreneurs, according to the Japanese press."
+    },
+    "segments": [
+      {
+        "token": "On",
+        "startTime": 114850,
+        "endTime": 115070
+      },
+      {
+        "token": "est",
+        "startTime": 115070,
+        "endTime": 115190
+      },
+      {
+        "token": "sur",
+        "startTime": 115190,
+        "endTime": 115390
+      },
+      {
+        "token": "une",
+        "startTime": 115390,
+        "endTime": 115550
+      },
+      {
+        "token": "chute",
+        "startTime": 115550,
+        "endTime": 115750
+      },
+      {
+        "token": "de",
+        "startTime": 115750,
+        "endTime": 115950
+      },
+      {
+        "token": "96%",
+        "startTime": 115950,
+        "endTime": 117190
+      },
+      {
+        "token": "des",
+        "startTime": 117190,
+        "endTime": 117630
+      },
+      {
+        "token": "demandes,",
+        "startTime": 117630,
+        "endTime": 118190
+      },
+      {
+        "token": "il",
+        "startTime": 118190,
+        "endTime": 118310
+      },
+      {
+        "token": "y",
+        "startTime": 118310,
+        "endTime": 118450
+      },
+      {
+        "token": "en",
+        "startTime": 118450,
+        "endTime": 118490
+      },
+      {
+        "token": "a",
+        "startTime": 118490,
+        "endTime": 118590
+      },
+      {
+        "token": "donc",
+        "startTime": 118590,
+        "endTime": 118770
+      },
+      {
+        "token": "presque",
+        "startTime": 118770,
+        "endTime": 119350
+      },
+      {
+        "token": "plus,",
+        "startTime": 119350,
+        "endTime": 119850
+      },
+      {
+        "token": "autour",
+        "startTime": 119850,
+        "endTime": 120330
+      },
+      {
+        "token": "de",
+        "startTime": 120330,
+        "endTime": 120590
+      },
+      {
+        "token": "70",
+        "startTime": 120590,
+        "endTime": 121170
+      },
+      {
+        "token": "demandes",
+        "startTime": 121170,
+        "endTime": 121550
+      },
+      {
+        "token": "par",
+        "startTime": 121550,
+        "endTime": 121730
+      },
+      {
+        "token": "mois",
+        "startTime": 121730,
+        "endTime": 121930
+      },
+      {
+        "token": "pour",
+        "startTime": 121930,
+        "endTime": 122130
+      },
+      {
+        "token": "les",
+        "startTime": 122130,
+        "endTime": 122270
+      },
+      {
+        "token": "entrepreneurs,",
+        "startTime": 122270,
+        "endTime": 123190
+      },
+      {
+        "token": "selon",
+        "startTime": 123190,
+        "endTime": 123270
+      },
+      {
+        "token": "la",
+        "startTime": 123270,
+        "endTime": 123470
+      },
+      {
+        "token": "presse",
+        "startTime": 123470,
+        "endTime": 123810
+      },
+      {
+        "token": "japonaise.",
+        "startTime": 123810,
+        "endTime": 124870
+      }
+    ]
+  },
+  {
+    "sentence_text": "Écoutez l'analyse de ce spécialiste des démarches administratives.",
+    "translations": {
+      "en": "Listen to the analysis from this specialist in administrative procedures."
+    },
+    "segments": [
+      {
+        "token": "Écoutez",
+        "startTime": 124870,
+        "endTime": 125230
+      },
+      {
+        "token": "l'analyse",
+        "startTime": 125230,
+        "endTime": 125770
+      },
+      {
+        "token": "de",
+        "startTime": 125770,
+        "endTime": 125890
+      },
+      {
+        "token": "ce",
+        "startTime": 125890,
+        "endTime": 126030
+      },
+      {
+        "token": "spécialiste",
+        "startTime": 126030,
+        "endTime": 126630
+      },
+      {
+        "token": "des",
+        "startTime": 126630,
+        "endTime": 126750
+      },
+      {
+        "token": "démarches",
+        "startTime": 126750,
+        "endTime": 127170
+      },
+      {
+        "token": "administratives.",
+        "startTime": 127170,
+        "endTime": 130950
+      }
+    ]
+  },
+  {
+    "sentence_text": "Cela crée un énorme obstacle pour les étrangers qui souhaitent obtenir pour la première fois le statut de dirigeant d'entreprise.",
+    "translations": {
+      "en": "This creates a huge obstacle for foreigners who want to obtain the status of company director for the first time."
+    },
+    "segments": [
+      {
+        "token": "Cela",
+        "startTime": 130950,
+        "endTime": 131170
+      },
+      {
+        "token": "crée",
+        "startTime": 131170,
+        "endTime": 131450
+      },
+      {
+        "token": "un",
+        "startTime": 131450,
+        "endTime": 131630
+      },
+      {
+        "token": "énorme",
+        "startTime": 131630,
+        "endTime": 131910
+      },
+      {
+        "token": "obstacle",
+        "startTime": 131910,
+        "endTime": 132150
+      },
+      {
+        "token": "pour",
+        "startTime": 132150,
+        "endTime": 132550
+      },
+      {
+        "token": "les",
+        "startTime": 132550,
+        "endTime": 132690
+      },
+      {
+        "token": "étrangers",
+        "startTime": 132690,
+        "endTime": 133130
+      },
+      {
+        "token": "qui",
+        "startTime": 133130,
+        "endTime": 133350
+      },
+      {
+        "token": "souhaitent",
+        "startTime": 133350,
+        "endTime": 133630
+      },
+      {
+        "token": "obtenir",
+        "startTime": 133630,
+        "endTime": 134030
+      },
+      {
+        "token": "pour",
+        "startTime": 134030,
+        "endTime": 134170
+      },
+      {
+        "token": "la",
+        "startTime": 134170,
+        "endTime": 134250
+      },
+      {
+        "token": "première",
+        "startTime": 134250,
+        "endTime": 134530
+      },
+      {
+        "token": "fois",
+        "startTime": 134530,
+        "endTime": 134670
+      },
+      {
+        "token": "le",
+        "startTime": 134670,
+        "endTime": 134790
+      },
+      {
+        "token": "statut",
+        "startTime": 134790,
+        "endTime": 135060
+      },
+      {
+        "token": "de",
+        "startTime": 135060,
+        "endTime": 135380
+      },
+      {
+        "token": "dirigeant",
+        "startTime": 135380,
+        "endTime": 135760
+      },
+      {
+        "token": "d'entreprise.",
+        "startTime": 135760,
+        "endTime": 137380
+      }
+    ]
+  },
+  {
+    "sentence_text": "En particulier pour les jeunes, il est pratiquement impossible de réunir 30 millions de yens.",
+    "translations": {
+      "en": "Especially for young people, it's practically impossible to raise 30 million yen."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 137380,
+        "endTime": 137480
+      },
+      {
+        "token": "particulier",
+        "startTime": 137480,
+        "endTime": 138040
+      },
+      {
+        "token": "pour",
+        "startTime": 138040,
+        "endTime": 138380
+      },
+      {
+        "token": "les",
+        "startTime": 138380,
+        "endTime": 138520
+      },
+      {
+        "token": "jeunes,",
+        "startTime": 138520,
+        "endTime": 138820
+      },
+      {
+        "token": "il",
+        "startTime": 138820,
+        "endTime": 138920
+      },
+      {
+        "token": "est",
+        "startTime": 138920,
+        "endTime": 139040
+      },
+      {
+        "token": "pratiquement",
+        "startTime": 139040,
+        "endTime": 139560
+      },
+      {
+        "token": "impossible",
+        "startTime": 139560,
+        "endTime": 140040
+      },
+      {
+        "token": "de",
+        "startTime": 140040,
+        "endTime": 140380
+      },
+      {
+        "token": "réunir",
+        "startTime": 140380,
+        "endTime": 140660
+      },
+      {
+        "token": "30",
+        "startTime": 140660,
+        "endTime": 140880
+      },
+      {
+        "token": "millions",
+        "startTime": 140880,
+        "endTime": 141100
+      },
+      {
+        "token": "de",
+        "startTime": 141100,
+        "endTime": 141320
+      },
+      {
+        "token": "yens.",
+        "startTime": 141320,
+        "endTime": 142080
+      }
+    ]
+  },
+  {
+    "sentence_text": "Cela revient donc à exclure de fait les start-up créées par de jeunes entrepreneurs.",
+    "translations": {
+      "en": "So this effectively excludes startups founded by young entrepreneurs."
+    },
+    "segments": [
+      {
+        "token": "Cela",
+        "startTime": 142080,
+        "endTime": 142300
+      },
+      {
+        "token": "revient",
+        "startTime": 142300,
+        "endTime": 142620
+      },
+      {
+        "token": "donc",
+        "startTime": 142620,
+        "endTime": 142820
+      },
+      {
+        "token": "à",
+        "startTime": 142820,
+        "endTime": 143040
+      },
+      {
+        "token": "exclure",
+        "startTime": 143040,
+        "endTime": 143500
+      },
+      {
+        "token": "de",
+        "startTime": 143500,
+        "endTime": 143660
+      },
+      {
+        "token": "fait",
+        "startTime": 143660,
+        "endTime": 143840
+      },
+      {
+        "token": "les",
+        "startTime": 143840,
+        "endTime": 144060
+      },
+      {
+        "token": "start-up",
+        "startTime": 144060,
+        "endTime": 144360
+      },
+      {
+        "token": "créées",
+        "startTime": 144360,
+        "endTime": 144740
+      },
+      {
+        "token": "par",
+        "startTime": 144740,
+        "endTime": 144980
+      },
+      {
+        "token": "de",
+        "startTime": 144980,
+        "endTime": 145120
+      },
+      {
+        "token": "jeunes",
+        "startTime": 145120,
+        "endTime": 145380
+      },
+      {
+        "token": "entrepreneurs.",
+        "startTime": 145380,
+        "endTime": 148040
+      }
+    ]
+  },
+  {
+    "sentence_text": "C'est devenu très prohibitif, pour ne pas dire impossible de créer son entreprise au Japon.",
+    "translations": {
+      "en": "It's become very prohibitive, not to say impossible, to start a business in Japan."
+    },
+    "segments": [
+      {
+        "token": "C'est",
+        "startTime": 148040,
+        "endTime": 148320
+      },
+      {
+        "token": "devenu",
+        "startTime": 148320,
+        "endTime": 148600
+      },
+      {
+        "token": "très",
+        "startTime": 148600,
+        "endTime": 148960
+      },
+      {
+        "token": "prohibitif,",
+        "startTime": 148960,
+        "endTime": 149880
+      },
+      {
+        "token": "pour",
+        "startTime": 149880,
+        "endTime": 150040
+      },
+      {
+        "token": "ne",
+        "startTime": 150040,
+        "endTime": 150200
+      },
+      {
+        "token": "pas",
+        "startTime": 150200,
+        "endTime": 150220
+      },
+      {
+        "token": "dire",
+        "startTime": 150220,
+        "endTime": 150360
+      },
+      {
+        "token": "impossible",
+        "startTime": 150360,
+        "endTime": 150840
+      },
+      {
+        "token": "de",
+        "startTime": 150840,
+        "endTime": 151040
+      },
+      {
+        "token": "créer",
+        "startTime": 151040,
+        "endTime": 151180
+      },
+      {
+        "token": "son",
+        "startTime": 151180,
+        "endTime": 151380
+      },
+      {
+        "token": "entreprise",
+        "startTime": 151380,
+        "endTime": 151760
+      },
+      {
+        "token": "au",
+        "startTime": 151760,
+        "endTime": 151940
+      },
+      {
+        "token": "Japon.",
+        "startTime": 151940,
+        "endTime": 152280
+      }
+    ]
+  },
+  {
+    "sentence_text": "En fait, il n'y a que les énormes entreprises qui peuvent le faire.",
+    "translations": {
+      "en": "In fact, only huge companies can do it."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 152280,
+        "endTime": 152440
+      },
+      {
+        "token": "fait,",
+        "startTime": 152440,
+        "endTime": 152700
+      },
+      {
+        "token": "il",
+        "startTime": 152700,
+        "endTime": 152760
+      },
+      {
+        "token": "n'y",
+        "startTime": 152760,
+        "endTime": 152840
+      },
+      {
+        "token": "a",
+        "startTime": 152840,
+        "endTime": 152920
+      },
+      {
+        "token": "que",
+        "startTime": 152920,
+        "endTime": 153080
+      },
+      {
+        "token": "les",
+        "startTime": 153080,
+        "endTime": 153360
+      },
+      {
+        "token": "énormes",
+        "startTime": 153360,
+        "endTime": 153940
+      },
+      {
+        "token": "entreprises",
+        "startTime": 153940,
+        "endTime": 154380
+      },
+      {
+        "token": "qui",
+        "startTime": 154380,
+        "endTime": 154640
+      },
+      {
+        "token": "peuvent",
+        "startTime": 154640,
+        "endTime": 154860
+      },
+      {
+        "token": "le",
+        "startTime": 154860,
+        "endTime": 155260
+      },
+      {
+        "token": "faire.",
+        "startTime": 155260,
+        "endTime": 156380
+      }
+    ]
+  },
+  {
+    "sentence_text": "Comment on explique ce virage politique ?",
+    "translations": {
+      "en": "How do you explain this policy shift?"
+    },
+    "segments": [
+      {
+        "token": "Comment",
+        "startTime": 156380,
+        "endTime": 156540
+      },
+      {
+        "token": "on",
+        "startTime": 156540,
+        "endTime": 156660
+      },
+      {
+        "token": "explique",
+        "startTime": 156660,
+        "endTime": 157000
+      },
+      {
+        "token": "ce",
+        "startTime": 157000,
+        "endTime": 157420
+      },
+      {
+        "token": "virage",
+        "startTime": 157420,
+        "endTime": 157740
+      },
+      {
+        "token": "politique",
+        "startTime": 157740,
+        "endTime": 157740
+      },
+      {
+        "token": "?",
+        "startTime": 157740,
+        "endTime": 158580
+      }
+    ]
+  },
+  {
+    "sentence_text": "Il y a des Japonais qui se plaignent du surtourisme et de la flambée des prix immobiliers, flambée en partie attribuée aux investissements étrangers.",
+    "translations": {
+      "en": "Some Japanese people are complaining about overtourism and the surge in real estate prices, a surge partly attributed to foreign investments."
+    },
+    "segments": [
+      {
+        "token": "Il",
+        "startTime": 158580,
+        "endTime": 158840
+      },
+      {
+        "token": "y",
+        "startTime": 158840,
+        "endTime": 158880
+      },
+      {
+        "token": "a",
+        "startTime": 158880,
+        "endTime": 158900
+      },
+      {
+        "token": "des",
+        "startTime": 158900,
+        "endTime": 159060
+      },
+      {
+        "token": "Japonais",
+        "startTime": 159060,
+        "endTime": 159500
+      },
+      {
+        "token": "qui",
+        "startTime": 159500,
+        "endTime": 159740
+      },
+      {
+        "token": "se",
+        "startTime": 159740,
+        "endTime": 159940
+      },
+      {
+        "token": "plaignent",
+        "startTime": 159940,
+        "endTime": 160160
+      },
+      {
+        "token": "du",
+        "startTime": 160160,
+        "endTime": 160320
+      },
+      {
+        "token": "surtourisme",
+        "startTime": 160320,
+        "endTime": 160980
+      },
+      {
+        "token": "et",
+        "startTime": 160980,
+        "endTime": 161120
+      },
+      {
+        "token": "de",
+        "startTime": 161120,
+        "endTime": 161220
+      },
+      {
+        "token": "la",
+        "startTime": 161220,
+        "endTime": 161360
+      },
+      {
+        "token": "flambée",
+        "startTime": 161360,
+        "endTime": 161660
+      },
+      {
+        "token": "des",
+        "startTime": 161660,
+        "endTime": 161840
+      },
+      {
+        "token": "prix",
+        "startTime": 161840,
+        "endTime": 162020
+      },
+      {
+        "token": "immobiliers,",
+        "startTime": 162020,
+        "endTime": 162640
+      },
+      {
+        "token": "flambée",
+        "startTime": 162640,
+        "endTime": 163080
+      },
+      {
+        "token": "en",
+        "startTime": 163080,
+        "endTime": 163220
+      },
+      {
+        "token": "partie",
+        "startTime": 163220,
+        "endTime": 163540
+      },
+      {
+        "token": "attribuée",
+        "startTime": 163540,
+        "endTime": 164540
+      },
+      {
+        "token": "aux",
+        "startTime": 164540,
+        "endTime": 164880
+      },
+      {
+        "token": "investissements",
+        "startTime": 164880,
+        "endTime": 165420
+      },
+      {
+        "token": "étrangers.",
+        "startTime": 165420,
+        "endTime": 166240
+      }
+    ]
+  },
+  {
+    "sentence_text": "Et puis il y a eu également au cours de ces derniers mois des signalements qui disaient que de nombreux étrangers créaient des sociétés fictives pour s'installer au Japon.",
+    "translations": {
+      "en": "And then in recent months, there have also been reports saying that many foreigners were creating shell companies to settle in Japan."
+    },
+    "segments": [
+      {
+        "token": "Et",
+        "startTime": 166240,
+        "endTime": 166280
+      },
+      {
+        "token": "puis",
+        "startTime": 166280,
+        "endTime": 166400
+      },
+      {
+        "token": "il",
+        "startTime": 166400,
+        "endTime": 166500
+      },
+      {
+        "token": "y",
+        "startTime": 166500,
+        "endTime": 166560
+      },
+      {
+        "token": "a",
+        "startTime": 166560,
+        "endTime": 166640
+      },
+      {
+        "token": "eu",
+        "startTime": 166640,
+        "endTime": 166680
+      },
+      {
+        "token": "également",
+        "startTime": 166680,
+        "endTime": 167040
+      },
+      {
+        "token": "au",
+        "startTime": 167040,
+        "endTime": 167360
+      },
+      {
+        "token": "cours",
+        "startTime": 167360,
+        "endTime": 167480
+      },
+      {
+        "token": "de",
+        "startTime": 167480,
+        "endTime": 167640
+      },
+      {
+        "token": "ces",
+        "startTime": 167640,
+        "endTime": 167760
+      },
+      {
+        "token": "derniers",
+        "startTime": 167760,
+        "endTime": 168120
+      },
+      {
+        "token": "mois",
+        "startTime": 168120,
+        "endTime": 168240
+      },
+      {
+        "token": "des",
+        "startTime": 168240,
+        "endTime": 168400
+      },
+      {
+        "token": "signalements",
+        "startTime": 168400,
+        "endTime": 169020
+      },
+      {
+        "token": "qui",
+        "startTime": 169020,
+        "endTime": 169240
+      },
+      {
+        "token": "disaient",
+        "startTime": 169240,
+        "endTime": 169480
+      },
+      {
+        "token": "que",
+        "startTime": 169480,
+        "endTime": 169660
+      },
+      {
+        "token": "de",
+        "startTime": 169660,
+        "endTime": 169800
+      },
+      {
+        "token": "nombreux",
+        "startTime": 169800,
+        "endTime": 170340
+      },
+      {
+        "token": "étrangers",
+        "startTime": 170340,
+        "endTime": 171540
+      },
+      {
+        "token": "créaient",
+        "startTime": 171540,
+        "endTime": 171980
+      },
+      {
+        "token": "des",
+        "startTime": 171980,
+        "endTime": 172220
+      },
+      {
+        "token": "sociétés",
+        "startTime": 172220,
+        "endTime": 172680
+      },
+      {
+        "token": "fictives",
+        "startTime": 172680,
+        "endTime": 173180
+      },
+      {
+        "token": "pour",
+        "startTime": 173180,
+        "endTime": 173400
+      },
+      {
+        "token": "s'installer",
+        "startTime": 173400,
+        "endTime": 173760
+      },
+      {
+        "token": "au",
+        "startTime": 173760,
+        "endTime": 173880
+      },
+      {
+        "token": "Japon.",
+        "startTime": 173880,
+        "endTime": 174500
+      }
+    ]
+  },
+  {
+    "sentence_text": "C'est un peu tout ça qui a poussé la première ministre japonaise Sanae Takahashi à mettre en place des règles plus strictes.",
+    "translations": {
+      "en": "It's a bit of all that that pushed Japanese Prime Minister Sanae Takahashi to implement stricter rules."
+    },
+    "segments": [
+      {
+        "token": "C'est",
+        "startTime": 174500,
+        "endTime": 174700
+      },
+      {
+        "token": "un",
+        "startTime": 174700,
+        "endTime": 174800
+      },
+      {
+        "token": "peu",
+        "startTime": 174800,
+        "endTime": 174880
+      },
+      {
+        "token": "tout",
+        "startTime": 174880,
+        "endTime": 175140
+      },
+      {
+        "token": "ça",
+        "startTime": 175140,
+        "endTime": 175340
+      },
+      {
+        "token": "qui",
+        "startTime": 175340,
+        "endTime": 175620
+      },
+      {
+        "token": "a",
+        "startTime": 175620,
+        "endTime": 175800
+      },
+      {
+        "token": "poussé",
+        "startTime": 175800,
+        "endTime": 176140
+      },
+      {
+        "token": "la",
+        "startTime": 176140,
+        "endTime": 176300
+      },
+      {
+        "token": "première",
+        "startTime": 176300,
+        "endTime": 176620
+      },
+      {
+        "token": "ministre",
+        "startTime": 176620,
+        "endTime": 177040
+      },
+      {
+        "token": "japonaise",
+        "startTime": 177040,
+        "endTime": 177760
+      },
+      {
+        "token": "Sanae",
+        "startTime": 177760,
+        "endTime": 178120
+      },
+      {
+        "token": "Takahashi",
+        "startTime": 178120,
+        "endTime": 178540
+      },
+      {
+        "token": "à",
+        "startTime": 178540,
+        "endTime": 178980
+      },
+      {
+        "token": "mettre",
+        "startTime": 178980,
+        "endTime": 179180
+      },
+      {
+        "token": "en",
+        "startTime": 179180,
+        "endTime": 179360
+      },
+      {
+        "token": "place",
+        "startTime": 179360,
+        "endTime": 179680
+      },
+      {
+        "token": "des",
+        "startTime": 179680,
+        "endTime": 180020
+      },
+      {
+        "token": "règles",
+        "startTime": 180020,
+        "endTime": 180440
+      },
+      {
+        "token": "plus",
+        "startTime": 180440,
+        "endTime": 180680
+      },
+      {
+        "token": "strictes.",
+        "startTime": 180680,
+        "endTime": 181080
+      }
+    ]
+  },
+  {
+    "sentence_text": "Écoutez, là c'était en octobre.",
+    "translations": {
+      "en": "Listen, that was in October."
+    },
+    "segments": [
+      {
+        "token": "Écoutez,",
+        "startTime": 181080,
+        "endTime": 181480
+      },
+      {
+        "token": "là",
+        "startTime": 181480,
+        "endTime": 181540
+      },
+      {
+        "token": "c'était",
+        "startTime": 181540,
+        "endTime": 181740
+      },
+      {
+        "token": "en",
+        "startTime": 181740,
+        "endTime": 181940
+      },
+      {
+        "token": "octobre.",
+        "startTime": 181940,
+        "endTime": 184880
+      }
+    ]
+  },
+  {
+    "sentence_text": "Il est indéniable que certains secteurs dépendent des ressortissants étrangers pour leurs besoins en main d'oeuvre.",
+    "translations": {
+      "en": "It's undeniable that certain sectors depend on foreign nationals for their labor needs."
+    },
+    "segments": [
+      {
+        "token": "Il",
+        "startTime": 184880,
+        "endTime": 184980
+      },
+      {
+        "token": "est",
+        "startTime": 184980,
+        "endTime": 185120
+      },
+      {
+        "token": "indéniable",
+        "startTime": 185120,
+        "endTime": 185660
+      },
+      {
+        "token": "que",
+        "startTime": 185660,
+        "endTime": 185840
+      },
+      {
+        "token": "certains",
+        "startTime": 185840,
+        "endTime": 186220
+      },
+      {
+        "token": "secteurs",
+        "startTime": 186220,
+        "endTime": 186680
+      },
+      {
+        "token": "dépendent",
+        "startTime": 186680,
+        "endTime": 187020
+      },
+      {
+        "token": "des",
+        "startTime": 187020,
+        "endTime": 187140
+      },
+      {
+        "token": "ressortissants",
+        "startTime": 187140,
+        "endTime": 187680
+      },
+      {
+        "token": "étrangers",
+        "startTime": 187680,
+        "endTime": 188080
+      },
+      {
+        "token": "pour",
+        "startTime": 188080,
+        "endTime": 188300
+      },
+      {
+        "token": "leurs",
+        "startTime": 188300,
+        "endTime": 188440
+      },
+      {
+        "token": "besoins",
+        "startTime": 188440,
+        "endTime": 188740
+      },
+      {
+        "token": "en",
+        "startTime": 188740,
+        "endTime": 188880
+      },
+      {
+        "token": "main",
+        "startTime": 188880,
+        "endTime": 188960
+      },
+      {
+        "token": "d'oeuvre.",
+        "startTime": 188960,
+        "endTime": 189780
+      }
+    ]
+  },
+  {
+    "sentence_text": "Le tourisme joue aussi un rôle important.",
+    "translations": {
+      "en": "Tourism also plays an important role."
+    },
+    "segments": [
+      {
+        "token": "Le",
+        "startTime": 189780,
+        "endTime": 189940
+      },
+      {
+        "token": "tourisme",
+        "startTime": 189940,
+        "endTime": 190280
+      },
+      {
+        "token": "joue",
+        "startTime": 190280,
+        "endTime": 190480
+      },
+      {
+        "token": "aussi",
+        "startTime": 190480,
+        "endTime": 190740
+      },
+      {
+        "token": "un",
+        "startTime": 190740,
+        "endTime": 190900
+      },
+      {
+        "token": "rôle",
+        "startTime": 190900,
+        "endTime": 191000
+      },
+      {
+        "token": "important.",
+        "startTime": 191000,
+        "endTime": 192720
+      }
+    ]
+  },
+  {
+    "sentence_text": "Cela dit, on constate que certains ressortissants japonais éprouvent un sentiment de malaise face aux activités illégales et manquements aux règles commis par une partie des étrangers présents au Japon.",
+    "translations": {
+      "en": "That said, we note that some Japanese nationals feel uneasy about the illegal activities and rule violations committed by some foreigners in Japan."
+    },
+    "segments": [
+      {
+        "token": "Cela",
+        "startTime": 192720,
+        "endTime": 192960
+      },
+      {
+        "token": "dit,",
+        "startTime": 192960,
+        "endTime": 193320
+      },
+      {
+        "token": "on",
+        "startTime": 193320,
+        "endTime": 193380
+      },
+      {
+        "token": "constate",
+        "startTime": 193380,
+        "endTime": 193700
+      },
+      {
+        "token": "que",
+        "startTime": 193700,
+        "endTime": 193820
+      },
+      {
+        "token": "certains",
+        "startTime": 193820,
+        "endTime": 194120
+      },
+      {
+        "token": "ressortissants",
+        "startTime": 194120,
+        "endTime": 194720
+      },
+      {
+        "token": "japonais",
+        "startTime": 194720,
+        "endTime": 195140
+      },
+      {
+        "token": "éprouvent",
+        "startTime": 195140,
+        "endTime": 195540
+      },
+      {
+        "token": "un",
+        "startTime": 195540,
+        "endTime": 195700
+      },
+      {
+        "token": "sentiment",
+        "startTime": 195700,
+        "endTime": 195960
+      },
+      {
+        "token": "de",
+        "startTime": 195960,
+        "endTime": 196260
+      },
+      {
+        "token": "malaise",
+        "startTime": 196260,
+        "endTime": 196700
+      },
+      {
+        "token": "face",
+        "startTime": 196700,
+        "endTime": 196940
+      },
+      {
+        "token": "aux",
+        "startTime": 196940,
+        "endTime": 197100
+      },
+      {
+        "token": "activités",
+        "startTime": 197100,
+        "endTime": 197620
+      },
+      {
+        "token": "illégales",
+        "startTime": 197620,
+        "endTime": 198060
+      },
+      {
+        "token": "et",
+        "startTime": 198060,
+        "endTime": 198280
+      },
+      {
+        "token": "manquements",
+        "startTime": 198280,
+        "endTime": 198740
+      },
+      {
+        "token": "aux",
+        "startTime": 198740,
+        "endTime": 198980
+      },
+      {
+        "token": "règles",
+        "startTime": 198980,
+        "endTime": 199240
+      },
+      {
+        "token": "commis",
+        "startTime": 199240,
+        "endTime": 199580
+      },
+      {
+        "token": "par",
+        "startTime": 199580,
+        "endTime": 199880
+      },
+      {
+        "token": "une",
+        "startTime": 199880,
+        "endTime": 200030
+      },
+      {
+        "token": "partie",
+        "startTime": 200030,
+        "endTime": 200370
+      },
+      {
+        "token": "des",
+        "startTime": 200370,
+        "endTime": 200530
+      },
+      {
+        "token": "étrangers",
+        "startTime": 200530,
+        "endTime": 200930
+      },
+      {
+        "token": "présents",
+        "startTime": 200930,
+        "endTime": 201330
+      },
+      {
+        "token": "au",
+        "startTime": 201330,
+        "endTime": 201510
+      },
+      {
+        "token": "Japon.",
+        "startTime": 201510,
+        "endTime": 203170
+      }
+    ]
+  },
+  {
+    "sentence_text": "La première ministre le mentionne bien, c'est un paradoxe.",
+    "translations": {
+      "en": "The Prime Minister mentions it well, it's a paradox."
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 203170,
+        "endTime": 203590
+      },
+      {
+        "token": "première",
+        "startTime": 203590,
+        "endTime": 204390
+      },
+      {
+        "token": "ministre",
+        "startTime": 204390,
+        "endTime": 204790
+      },
+      {
+        "token": "le",
+        "startTime": 204790,
+        "endTime": 205110
+      },
+      {
+        "token": "mentionne",
+        "startTime": 205110,
+        "endTime": 205670
+      },
+      {
+        "token": "bien,",
+        "startTime": 205670,
+        "endTime": 206230
+      },
+      {
+        "token": "c'est",
+        "startTime": 206230,
+        "endTime": 206330
+      },
+      {
+        "token": "un",
+        "startTime": 206330,
+        "endTime": 206490
+      },
+      {
+        "token": "paradoxe.",
+        "startTime": 206490,
+        "endTime": 207130
+      }
+    ]
+  },
+  {
+    "sentence_text": "L'économie japonaise a bel et bien besoin de ses étrangers.",
+    "translations": {
+      "en": "The Japanese economy truly needs its foreigners."
+    },
+    "segments": [
+      {
+        "token": "L'économie",
+        "startTime": 207130,
+        "endTime": 207690
+      },
+      {
+        "token": "japonaise",
+        "startTime": 207690,
+        "endTime": 208950
+      },
+      {
+        "token": "a",
+        "startTime": 208950,
+        "endTime": 209110
+      },
+      {
+        "token": "bel",
+        "startTime": 209110,
+        "endTime": 209210
+      },
+      {
+        "token": "et",
+        "startTime": 209210,
+        "endTime": 209250
+      },
+      {
+        "token": "bien",
+        "startTime": 209250,
+        "endTime": 209370
+      },
+      {
+        "token": "besoin",
+        "startTime": 209370,
+        "endTime": 209590
+      },
+      {
+        "token": "de",
+        "startTime": 209590,
+        "endTime": 209690
+      },
+      {
+        "token": "ses",
+        "startTime": 209690,
+        "endTime": 209830
+      },
+      {
+        "token": "étrangers.",
+        "startTime": 209830,
+        "endTime": 210310
+      }
+    ]
+  },
+  {
+    "sentence_text": "Oui, parce que le pays traverse la crise démographique la plus grave du monde.",
+    "translations": {
+      "en": "Yes, because the country is experiencing the most severe demographic crisis in the world."
+    },
+    "segments": [
+      {
+        "token": "Oui,",
+        "startTime": 210310,
+        "endTime": 210570
+      },
+      {
+        "token": "parce",
+        "startTime": 210570,
+        "endTime": 210670
+      },
+      {
+        "token": "que",
+        "startTime": 210670,
+        "endTime": 210810
+      },
+      {
+        "token": "le",
+        "startTime": 210810,
+        "endTime": 210910
+      },
+      {
+        "token": "pays",
+        "startTime": 210910,
+        "endTime": 211090
+      },
+      {
+        "token": "traverse",
+        "startTime": 211090,
+        "endTime": 211390
+      },
+      {
+        "token": "la",
+        "startTime": 211390,
+        "endTime": 211830
+      },
+      {
+        "token": "crise",
+        "startTime": 211830,
+        "endTime": 212070
+      },
+      {
+        "token": "démographique",
+        "startTime": 212070,
+        "endTime": 212710
+      },
+      {
+        "token": "la",
+        "startTime": 212710,
+        "endTime": 212870
+      },
+      {
+        "token": "plus",
+        "startTime": 212870,
+        "endTime": 213050
+      },
+      {
+        "token": "grave",
+        "startTime": 213050,
+        "endTime": 213450
+      },
+      {
+        "token": "du",
+        "startTime": 213450,
+        "endTime": 213710
+      },
+      {
+        "token": "monde.",
+        "startTime": 213710,
+        "endTime": 213950
+      }
+    ]
+  },
+  {
+    "sentence_text": "En moins de 20 ans, le Japon a perdu 5 millions d'habitants.",
+    "translations": {
+      "en": "In less than 20 years, Japan has lost 5 million inhabitants."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 213950,
+        "endTime": 214090
+      },
+      {
+        "token": "moins",
+        "startTime": 214090,
+        "endTime": 214250
+      },
+      {
+        "token": "de",
+        "startTime": 214250,
+        "endTime": 214550
+      },
+      {
+        "token": "20",
+        "startTime": 214550,
+        "endTime": 214770
+      },
+      {
+        "token": "ans,",
+        "startTime": 214770,
+        "endTime": 215090
+      },
+      {
+        "token": "le",
+        "startTime": 215090,
+        "endTime": 215190
+      },
+      {
+        "token": "Japon",
+        "startTime": 215190,
+        "endTime": 215450
+      },
+      {
+        "token": "a",
+        "startTime": 215450,
+        "endTime": 215790
+      },
+      {
+        "token": "perdu",
+        "startTime": 215790,
+        "endTime": 216070
+      },
+      {
+        "token": "5",
+        "startTime": 216070,
+        "endTime": 216910
+      },
+      {
+        "token": "millions",
+        "startTime": 216910,
+        "endTime": 217490
+      },
+      {
+        "token": "d'habitants.",
+        "startTime": 217490,
+        "endTime": 218670
+      }
+    ]
+  },
+  {
+    "sentence_text": "Et chaque année, il y a moins de naissances.",
+    "translations": {
+      "en": "And every year, there are fewer births."
+    },
+    "segments": [
+      {
+        "token": "Et",
+        "startTime": 218670,
+        "endTime": 218810
+      },
+      {
+        "token": "chaque",
+        "startTime": 218810,
+        "endTime": 219030
+      },
+      {
+        "token": "année,",
+        "startTime": 219030,
+        "endTime": 219370
+      },
+      {
+        "token": "il",
+        "startTime": 219370,
+        "endTime": 219710
+      },
+      {
+        "token": "y",
+        "startTime": 219710,
+        "endTime": 219830
+      },
+      {
+        "token": "a",
+        "startTime": 219830,
+        "endTime": 219870
+      },
+      {
+        "token": "moins",
+        "startTime": 219870,
+        "endTime": 220030
+      },
+      {
+        "token": "de",
+        "startTime": 220030,
+        "endTime": 220250
+      },
+      {
+        "token": "naissances.",
+        "startTime": 220250,
+        "endTime": 220770
+      }
+    ]
+  },
+  {
+    "sentence_text": "On le voit également au taux de chômage qui est très bas, 2,5%.",
+    "translations": {
+      "en": "This is also reflected in the very low unemployment rate of 2.5%."
+    },
+    "segments": [
+      {
+        "token": "On",
+        "startTime": 220770,
+        "endTime": 221130
+      },
+      {
+        "token": "le",
+        "startTime": 221130,
+        "endTime": 221230
+      },
+      {
+        "token": "voit",
+        "startTime": 221230,
+        "endTime": 221310
+      },
+      {
+        "token": "également",
+        "startTime": 221310,
+        "endTime": 221650
+      },
+      {
+        "token": "au",
+        "startTime": 221650,
+        "endTime": 221790
+      },
+      {
+        "token": "taux",
+        "startTime": 221790,
+        "endTime": 221850
+      },
+      {
+        "token": "de",
+        "startTime": 221850,
+        "endTime": 221950
+      },
+      {
+        "token": "chômage",
+        "startTime": 221950,
+        "endTime": 222270
+      },
+      {
+        "token": "qui",
+        "startTime": 222270,
+        "endTime": 222490
+      },
+      {
+        "token": "est",
+        "startTime": 222490,
+        "endTime": 222650
+      },
+      {
+        "token": "très",
+        "startTime": 222650,
+        "endTime": 222890
+      },
+      {
+        "token": "bas,",
+        "startTime": 222890,
+        "endTime": 223150
+      },
+      {
+        "token": "2,5%.",
+        "startTime": 223150,
+        "endTime": 224430
+      }
+    ]
+  },
+  {
+    "sentence_text": "On pourrait croire que c'est une bonne nouvelle, mais en fait, pas du tout.",
+    "translations": {
+      "en": "You might think that's good news, but actually, not at all."
+    },
+    "segments": [
+      {
+        "token": "On",
+        "startTime": 224430,
+        "endTime": 224630
+      },
+      {
+        "token": "pourrait",
+        "startTime": 224630,
+        "endTime": 224790
+      },
+      {
+        "token": "croire",
+        "startTime": 224790,
+        "endTime": 225030
+      },
+      {
+        "token": "que",
+        "startTime": 225030,
+        "endTime": 225170
+      },
+      {
+        "token": "c'est",
+        "startTime": 225170,
+        "endTime": 225270
+      },
+      {
+        "token": "une",
+        "startTime": 225270,
+        "endTime": 225430
+      },
+      {
+        "token": "bonne",
+        "startTime": 225430,
+        "endTime": 225550
+      },
+      {
+        "token": "nouvelle,",
+        "startTime": 225550,
+        "endTime": 225930
+      },
+      {
+        "token": "mais",
+        "startTime": 225930,
+        "endTime": 225990
+      },
+      {
+        "token": "en",
+        "startTime": 225990,
+        "endTime": 226070
+      },
+      {
+        "token": "fait,",
+        "startTime": 226070,
+        "endTime": 226210
+      },
+      {
+        "token": "pas",
+        "startTime": 226210,
+        "endTime": 226630
+      },
+      {
+        "token": "du",
+        "startTime": 226630,
+        "endTime": 226810
+      },
+      {
+        "token": "tout.",
+        "startTime": 226810,
+        "endTime": 226990
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ça traduit un manque chronique de travailleurs.",
+    "translations": {
+      "en": "It reflects a chronic shortage of workers."
+    },
+    "segments": [
+      {
+        "token": "Ça",
+        "startTime": 226990,
+        "endTime": 227150
+      },
+      {
+        "token": "traduit",
+        "startTime": 227150,
+        "endTime": 227550
+      },
+      {
+        "token": "un",
+        "startTime": 227550,
+        "endTime": 227790
+      },
+      {
+        "token": "manque",
+        "startTime": 227790,
+        "endTime": 228070
+      },
+      {
+        "token": "chronique",
+        "startTime": 228070,
+        "endTime": 228750
+      },
+      {
+        "token": "de",
+        "startTime": 228750,
+        "endTime": 229050
+      },
+      {
+        "token": "travailleurs.",
+        "startTime": 229050,
+        "endTime": 229930
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pour résumer Nina, le Japon manque déjà de bras.",
+    "translations": {
+      "en": "To sum it up, Nina, Japan already lacks manpower."
+    },
+    "segments": [
+      {
+        "token": "Pour",
+        "startTime": 229930,
+        "endTime": 230050
+      },
+      {
+        "token": "résumer",
+        "startTime": 230050,
+        "endTime": 230450
+      },
+      {
+        "token": "Nina,",
+        "startTime": 230450,
+        "endTime": 230850
+      },
+      {
+        "token": "le",
+        "startTime": 230850,
+        "endTime": 230930
+      },
+      {
+        "token": "Japon",
+        "startTime": 230930,
+        "endTime": 231150
+      },
+      {
+        "token": "manque",
+        "startTime": 231150,
+        "endTime": 231550
+      },
+      {
+        "token": "déjà",
+        "startTime": 231550,
+        "endTime": 231830
+      },
+      {
+        "token": "de",
+        "startTime": 231830,
+        "endTime": 232010
+      },
+      {
+        "token": "bras.",
+        "startTime": 232010,
+        "endTime": 232550
+      }
+    ]
+  },
+  {
+    "sentence_text": "Et pourtant, le Japon complique l'entrée de ceux qui pourraient venir y travailler.",
+    "translations": {
+      "en": "And yet, Japan makes it difficult for those who could come to work there to enter."
+    },
+    "segments": [
+      {
+        "token": "Et",
+        "startTime": 232550,
+        "endTime": 232710
+      },
+      {
+        "token": "pourtant,",
+        "startTime": 232710,
+        "endTime": 233030
+      },
+      {
+        "token": "le",
+        "startTime": 233030,
+        "endTime": 233570
+      },
+      {
+        "token": "Japon",
+        "startTime": 233570,
+        "endTime": 233870
+      },
+      {
+        "token": "complique",
+        "startTime": 233870,
+        "endTime": 234510
+      },
+      {
+        "token": "l'entrée",
+        "startTime": 234510,
+        "endTime": 234910
+      },
+      {
+        "token": "de",
+        "startTime": 234910,
+        "endTime": 235090
+      },
+      {
+        "token": "ceux",
+        "startTime": 235090,
+        "endTime": 235310
+      },
+      {
+        "token": "qui",
+        "startTime": 235310,
+        "endTime": 235470
+      },
+      {
+        "token": "pourraient",
+        "startTime": 235470,
+        "endTime": 235830
+      },
+      {
+        "token": "venir",
+        "startTime": 235830,
+        "endTime": 236110
+      },
+      {
+        "token": "y",
+        "startTime": 236110,
+        "endTime": 236410
+      },
+      {
+        "token": "travailler.",
+        "startTime": 236410,
+        "endTime": 237070
+      }
+    ]
+  },
+  {
+    "sentence_text": "On termine Laura avec un tout autre sujet et c'est une très bonne nouvelle.",
+    "translations": {
+      "en": "We'll end with a completely different topic, Laura, and it's very good news."
+    },
+    "segments": [
+      {
+        "token": "On",
+        "startTime": 237070,
+        "endTime": 237270
+      },
+      {
+        "token": "termine",
+        "startTime": 237270,
+        "endTime": 237590
+      },
+      {
+        "token": "Laura",
+        "startTime": 237590,
+        "endTime": 237790
+      },
+      {
+        "token": "avec",
+        "startTime": 237790,
+        "endTime": 238170
+      },
+      {
+        "token": "un",
+        "startTime": 238170,
+        "endTime": 238590
+      },
+      {
+        "token": "tout",
+        "startTime": 238590,
+        "endTime": 238730
+      },
+      {
+        "token": "autre",
+        "startTime": 238730,
+        "endTime": 239010
+      },
+      {
+        "token": "sujet",
+        "startTime": 239010,
+        "endTime": 239830
+      },
+      {
+        "token": "et",
+        "startTime": 239830,
+        "endTime": 240030
+      },
+      {
+        "token": "c'est",
+        "startTime": 240030,
+        "endTime": 240190
+      },
+      {
+        "token": "une",
+        "startTime": 240190,
+        "endTime": 240370
+      },
+      {
+        "token": "très",
+        "startTime": 240370,
+        "endTime": 240810
+      },
+      {
+        "token": "bonne",
+        "startTime": 240810,
+        "endTime": 241310
+      },
+      {
+        "token": "nouvelle.",
+        "startTime": 241310,
+        "endTime": 242030
+      }
+    ]
+  },
+  {
+    "sentence_text": "Oui, le Détroit d'Ormuz n'est pas encore complètement débloqué.",
+    "translations": {
+      "en": "Yes, the Strait of Hormuz is not yet fully cleared."
+    },
+    "segments": [
+      {
+        "token": "Oui,",
+        "startTime": 242030,
+        "endTime": 242190
+      },
+      {
+        "token": "le",
+        "startTime": 242190,
+        "endTime": 242350
+      },
+      {
+        "token": "Détroit",
+        "startTime": 242350,
+        "endTime": 242570
+      },
+      {
+        "token": "d'Ormuz",
+        "startTime": 242570,
+        "endTime": 242950
+      },
+      {
+        "token": "n'est",
+        "startTime": 242950,
+        "endTime": 243170
+      },
+      {
+        "token": "pas",
+        "startTime": 243170,
+        "endTime": 243290
+      },
+      {
+        "token": "encore",
+        "startTime": 243290,
+        "endTime": 243590
+      },
+      {
+        "token": "complètement",
+        "startTime": 243590,
+        "endTime": 244090
+      },
+      {
+        "token": "débloqué.",
+        "startTime": 244090,
+        "endTime": 245030
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mais pourtant, le prix du pétrole recule avec les pourparlers entre l'Iran et les Etats-Unis. à tel point que le baril de Brent est actuellement autour de 70-71 dollars sur les marchés.",
+    "translations": {
+      "en": "But still, oil prices are falling amid talks between Iran and the United States, to the point that Brent crude is currently around $70-71 per barrel on the markets."
+    },
+    "segments": [
+      {
+        "token": "Mais",
+        "startTime": 245030,
+        "endTime": 245190
+      },
+      {
+        "token": "pourtant,",
+        "startTime": 245190,
+        "endTime": 245570
+      },
+      {
+        "token": "le",
+        "startTime": 245570,
+        "endTime": 245790
+      },
+      {
+        "token": "prix",
+        "startTime": 245790,
+        "endTime": 245930
+      },
+      {
+        "token": "du",
+        "startTime": 245930,
+        "endTime": 246090
+      },
+      {
+        "token": "pétrole",
+        "startTime": 246090,
+        "endTime": 246450
+      },
+      {
+        "token": "recule",
+        "startTime": 246450,
+        "endTime": 247310
+      },
+      {
+        "token": "avec",
+        "startTime": 247310,
+        "endTime": 247730
+      },
+      {
+        "token": "les",
+        "startTime": 247730,
+        "endTime": 247930
+      },
+      {
+        "token": "pourparlers",
+        "startTime": 247930,
+        "endTime": 248390
+      },
+      {
+        "token": "entre",
+        "startTime": 248390,
+        "endTime": 248670
+      },
+      {
+        "token": "l'Iran",
+        "startTime": 248670,
+        "endTime": 249150
+      },
+      {
+        "token": "et",
+        "startTime": 249150,
+        "endTime": 249550
+      },
+      {
+        "token": "les",
+        "startTime": 249550,
+        "endTime": 249830
+      },
+      {
+        "token": "Etats-Unis.",
+        "startTime": 249830,
+        "endTime": 250470
+      },
+      {
+        "token": "à",
+        "startTime": 250470,
+        "endTime": 250690
+      },
+      {
+        "token": "tel",
+        "startTime": 250690,
+        "endTime": 250830
+      },
+      {
+        "token": "point",
+        "startTime": 250830,
+        "endTime": 251010
+      },
+      {
+        "token": "que",
+        "startTime": 251010,
+        "endTime": 251190
+      },
+      {
+        "token": "le",
+        "startTime": 251190,
+        "endTime": 251330
+      },
+      {
+        "token": "baril",
+        "startTime": 251330,
+        "endTime": 251590
+      },
+      {
+        "token": "de",
+        "startTime": 251590,
+        "endTime": 251790
+      },
+      {
+        "token": "Brent",
+        "startTime": 251790,
+        "endTime": 251950
+      },
+      {
+        "token": "est",
+        "startTime": 251950,
+        "endTime": 252130
+      },
+      {
+        "token": "actuellement",
+        "startTime": 252130,
+        "endTime": 252490
+      },
+      {
+        "token": "autour",
+        "startTime": 252490,
+        "endTime": 253190
+      },
+      {
+        "token": "de",
+        "startTime": 253190,
+        "endTime": 253570
+      },
+      {
+        "token": "70-71",
+        "startTime": 253570,
+        "endTime": 255050
+      },
+      {
+        "token": "dollars",
+        "startTime": 255050,
+        "endTime": 255310
+      },
+      {
+        "token": "sur",
+        "startTime": 255310,
+        "endTime": 255910
+      },
+      {
+        "token": "les",
+        "startTime": 255910,
+        "endTime": 256090
+      },
+      {
+        "token": "marchés.",
+        "startTime": 256090,
+        "endTime": 256390
+      }
+    ]
+  },
+  {
+    "sentence_text": "On peut le voir avec ce graphique.",
+    "translations": {
+      "en": "You can see it in this chart."
+    },
+    "segments": [
+      {
+        "token": "On",
+        "startTime": 256390,
+        "endTime": 256550
+      },
+      {
+        "token": "peut",
+        "startTime": 256550,
+        "endTime": 256690
+      },
+      {
+        "token": "le",
+        "startTime": 256690,
+        "endTime": 256790
+      },
+      {
+        "token": "voir",
+        "startTime": 256790,
+        "endTime": 256930
+      },
+      {
+        "token": "avec",
+        "startTime": 256930,
+        "endTime": 257290
+      },
+      {
+        "token": "ce",
+        "startTime": 257290,
+        "endTime": 257490
+      },
+      {
+        "token": "graphique.",
+        "startTime": 257490,
+        "endTime": 258230
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ce qui est marquant, c'est que les cours sont donc de nouveau au même niveau que le 27 février, c'est-à-dire le même niveau qu'avant les frappes israélo-américaines en Iran.",
+    "translations": {
+      "en": "What's striking is that prices are back to the same level as February 27, that is, the same level as before the Israeli-American strikes on Iran."
+    },
+    "segments": [
+      {
+        "token": "Ce",
+        "startTime": 258230,
+        "endTime": 258270
+      },
+      {
+        "token": "qui",
+        "startTime": 258270,
+        "endTime": 258310
+      },
+      {
+        "token": "est",
+        "startTime": 258310,
+        "endTime": 258410
+      },
+      {
+        "token": "marquant,",
+        "startTime": 258410,
+        "endTime": 258830
+      },
+      {
+        "token": "c'est",
+        "startTime": 258830,
+        "endTime": 258930
+      },
+      {
+        "token": "que",
+        "startTime": 258930,
+        "endTime": 259070
+      },
+      {
+        "token": "les",
+        "startTime": 259070,
+        "endTime": 259210
+      },
+      {
+        "token": "cours",
+        "startTime": 259210,
+        "endTime": 259430
+      },
+      {
+        "token": "sont",
+        "startTime": 259430,
+        "endTime": 259610
+      },
+      {
+        "token": "donc",
+        "startTime": 259610,
+        "endTime": 259810
+      },
+      {
+        "token": "de",
+        "startTime": 259810,
+        "endTime": 260350
+      },
+      {
+        "token": "nouveau",
+        "startTime": 260350,
+        "endTime": 260650
+      },
+      {
+        "token": "au",
+        "startTime": 260650,
+        "endTime": 260970
+      },
+      {
+        "token": "même",
+        "startTime": 260970,
+        "endTime": 261270
+      },
+      {
+        "token": "niveau",
+        "startTime": 261270,
+        "endTime": 261630
+      },
+      {
+        "token": "que",
+        "startTime": 261630,
+        "endTime": 262150
+      },
+      {
+        "token": "le",
+        "startTime": 262150,
+        "endTime": 262270
+      },
+      {
+        "token": "27",
+        "startTime": 262270,
+        "endTime": 262610
+      },
+      {
+        "token": "février,",
+        "startTime": 262610,
+        "endTime": 263250
+      },
+      {
+        "token": "c'est-à-dire",
+        "startTime": 263250,
+        "endTime": 263690
+      },
+      {
+        "token": "le",
+        "startTime": 263690,
+        "endTime": 263930
+      },
+      {
+        "token": "même",
+        "startTime": 263930,
+        "endTime": 264070
+      },
+      {
+        "token": "niveau",
+        "startTime": 264070,
+        "endTime": 264370
+      },
+      {
+        "token": "qu'avant",
+        "startTime": 264370,
+        "endTime": 264710
+      },
+      {
+        "token": "les",
+        "startTime": 264710,
+        "endTime": 265110
+      },
+      {
+        "token": "frappes",
+        "startTime": 265110,
+        "endTime": 265630
+      },
+      {
+        "token": "israélo-américaines",
+        "startTime": 265630,
+        "endTime": 266910
+      },
+      {
+        "token": "en",
+        "startTime": 266910,
+        "endTime": 267190
+      },
+      {
+        "token": "Iran.",
+        "startTime": 267190,
+        "endTime": 267450
+      }
+    ]
+  }
+]
