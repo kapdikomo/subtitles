@@ -1,8 +1,8 @@
 [
   {
-    "sentence_text": "Les gestes sont les traits mais dans la nuit noire de la Guayra, ces continuent fouiller les Huit jours le double qui a cette du Venezuela, ils savent que les chances de retrouver des survivants sont de plus en plus minces.",
+    "sentence_text": "Les gestes sont fatigués, les traits tirés, mais dans la nuit noire de la Guayra,",
     "translations": {
-      "en": "The gestures are the traits, but in the pitch-black night of La Guaira, they keep searching the double for eight days in this part of Venezuela, knowing that the chances of finding survivors are increasingly slim."
+      "en": "The gestures are tired, the features drawn, but in the pitch-black night of La Guaira,"
     },
     "segments": [
       {
@@ -79,7 +79,15 @@
         "token": "Guayra,",
         "startTime": 5820,
         "endTime": 6540
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ces bénévoles continuent à fouiller les décombres.",
+    "translations": {
+      "en": "these volunteers continue to search through the rubble."
+    },
+    "segments": [
       {
         "token": "ces",
         "startTime": 6540,
@@ -114,7 +122,15 @@
         "token": "décombres.",
         "startTime": 8220,
         "endTime": 10000
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Huit jours après le double séisme qui a frappé cette région côtière du Venezuela,",
+    "translations": {
+      "en": "Eight days after the double earthquake that struck this coastal region of Venezuela,"
+    },
+    "segments": [
       {
         "token": "Huit",
         "startTime": 10000,
@@ -184,7 +200,15 @@
         "token": "Venezuela,",
         "startTime": 13520,
         "endTime": 14340
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ils savent que les chances de retrouver des survivants sont de plus en plus minces.",
+    "translations": {
+      "en": "they know the chances of finding survivors are getting slimmer."
+    },
+    "segments": [
       {
         "token": "ils",
         "startTime": 14340,
@@ -258,14 +282,14 @@
       {
         "token": "minces.",
         "startTime": 17800,
-        "endTime": 21340
+        "endTime": 21420
       }
     ]
   },
   {
-    "sentence_text": "Les gens veulent retrouver leur famille, coûte que coûte.",
+    "sentence_text": "Les gens veulent désespérément retrouver leur famille, coûte que coûte.",
     "translations": {
-      "en": "People want to find their families, no matter the cost."
+      "en": "People desperately want to find their families, no matter the cost."
     },
     "segments": [
       {
@@ -316,14 +340,14 @@
       {
         "token": "coûte.",
         "startTime": 24500,
-        "endTime": 25820
+        "endTime": 25900
       }
     ]
   },
   {
-    "sentence_text": "Et on se met leur place, on est tous humains.",
+    "sentence_text": "Et on se met à leur place, on est tous humains.",
     "translations": {
-      "en": "And we put ourselves in their shoes; we are all human."
+      "en": "And you put yourself in their shoes, we're all human."
     },
     "segments": [
       {
@@ -379,14 +403,14 @@
       {
         "token": "humains.",
         "startTime": 27660,
-        "endTime": 29220
+        "endTime": 29300
       }
     ]
   },
   {
     "sentence_text": "C'est vraiment triste.",
     "translations": {
-      "en": "It's really sad."
+      "en": "It's truly sad."
     },
     "segments": [
       {
@@ -402,14 +426,14 @@
       {
         "token": "triste.",
         "startTime": 29720,
-        "endTime": 32940
+        "endTime": 33020
       }
     ]
   },
   {
-    "sentence_text": "A la du jour, la ville offre un visage tout aussi lugubre.",
+    "sentence_text": "A la lumière du jour, la ville dévastée offre un visage tout aussi lugubre.",
     "translations": {
-      "en": "By day, the city looks just as grim."
+      "en": "In the light of day, the devastated city looks just as grim."
     },
     "segments": [
       {
@@ -480,21 +504,29 @@
       {
         "token": "lugubre.",
         "startTime": 36520,
-        "endTime": 37480
+        "endTime": 37560
       }
     ]
   },
   {
-    "sentence_text": "Partout, des immeubles comme des châteaux de cartes et dans le port de la ville, des centaines de cercueils.",
+    "sentence_text": "Partout,",
     "translations": {
-      "en": "Everywhere, buildings like houses of cards, and in the city's port, hundreds of coffins."
+      "en": "Everywhere,"
     },
     "segments": [
       {
         "token": "Partout,",
         "startTime": 37560,
         "endTime": 38040
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "des immeubles effondrés comme des châteaux de cartes et dans le port de la ville,",
+    "translations": {
+      "en": "buildings collapsed like houses of cards, and in the city's port,"
+    },
+    "segments": [
       {
         "token": "des",
         "startTime": 38040,
@@ -569,7 +601,15 @@
         "token": "ville,",
         "startTime": 41640,
         "endTime": 41920
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "des centaines de cercueils.",
+    "translations": {
+      "en": "hundreds of coffins."
+    },
+    "segments": [
       {
         "token": "des",
         "startTime": 41920,
@@ -588,14 +628,14 @@
       {
         "token": "cercueils.",
         "startTime": 42600,
-        "endTime": 43520
+        "endTime": 43600
       }
     ]
   },
   {
-    "sentence_text": "Face la hausse du nombre de morts, les ont le lieu en morgue ciel ouvert.",
+    "sentence_text": "Face à la hausse du nombre de morts,",
     "translations": {
-      "en": "Faced with the rising death toll, they have turned the place into an open-air morgue."
+      "en": "Faced with the rising death toll,"
     },
     "segments": [
       {
@@ -637,7 +677,15 @@
         "token": "morts,",
         "startTime": 44840,
         "endTime": 45380
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "les autorités ont transformé le lieu en morgue à ciel ouvert.",
+    "translations": {
+      "en": "authorities have turned the site into an open-air morgue."
+    },
+    "segments": [
       {
         "token": "les",
         "startTime": 45380,
@@ -691,14 +739,14 @@
       {
         "token": "ouvert.",
         "startTime": 47820,
-        "endTime": 48660
+        "endTime": 48740
       }
     ]
   },
   {
-    "sentence_text": "Mais les familles qui attendent des heures pour identifier leurs proches les de la de l'Etat. « De nombreuses personnes sont mortes en attendant les secours, car il n'y avait personne pour nous aider.",
+    "sentence_text": "Mais les familles qui attendent des heures pour identifier leurs proches dénoncent les défaillances de",
     "translations": {
-      "en": "But families waiting hours to identify their loved ones blame the state. 'Many people died waiting for help because there was no one to assist us.'"
+      "en": "But families waiting for hours to identify their loved ones denounce the failures of"
     },
     "segments": [
       {
@@ -775,7 +823,15 @@
         "token": "de",
         "startTime": 52820,
         "endTime": 52980
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "la réponse de l'Etat.",
+    "translations": {
+      "en": "the state's response."
+    },
+    "segments": [
       {
         "token": "la",
         "startTime": 52980,
@@ -795,7 +851,15 @@
         "token": "l'Etat.",
         "startTime": 53560,
         "endTime": 55800
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "« De nombreuses personnes sont mortes en attendant les secours,",
+    "translations": {
+      "en": "\"Many people died waiting for help,"
+    },
+    "segments": [
       {
         "token": "«",
         "startTime": 55800,
@@ -845,7 +909,15 @@
         "token": "secours,",
         "startTime": 57920,
         "endTime": 58520
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "car il n'y avait personne pour nous aider.",
+    "translations": {
+      "en": "because there was no one to assist us."
+    },
+    "segments": [
       {
         "token": "car",
         "startTime": 58520,
@@ -884,14 +956,14 @@
       {
         "token": "aider.",
         "startTime": 60060,
-        "endTime": 60700
+        "endTime": 60780
       }
     ]
   },
   {
-    "sentence_text": "Lorsque les ont arriver, j'ai vu des du Mexique, du et des Etats-Unis.",
+    "sentence_text": "Lorsque les unités ont commencé à arriver,",
     "translations": {
-      "en": "When they arrived, I saw people from Mexico, from [other countries], and from the United States."
+      "en": "When the units started arriving,"
     },
     "segments": [
       {
@@ -928,7 +1000,15 @@
         "token": "arriver,",
         "startTime": 62360,
         "endTime": 63300
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "j'ai vu des équipes du Mexique, du Pérou et des Etats-Unis.",
+    "translations": {
+      "en": "I saw teams from Mexico, Peru, and the United States."
+    },
+    "segments": [
       {
         "token": "j'ai",
         "startTime": 63300,
@@ -982,14 +1062,14 @@
       {
         "token": "Etats-Unis.",
         "startTime": 65740,
-        "endTime": 66580
+        "endTime": 66660
       }
     ]
   },
   {
-    "sentence_text": "Ils ont fait tout leur possible, mais il fallait faire ce travail durant les quatre premiers jours.",
+    "sentence_text": "Ils ont fait tout leur possible,",
     "translations": {
-      "en": "They did everything they could, but this work needed to be done during the first four days."
+      "en": "They did everything they could,"
     },
     "segments": [
       {
@@ -1021,7 +1101,15 @@
         "token": "possible,",
         "startTime": 67440,
         "endTime": 68140
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "mais il fallait faire ce travail durant les quatre premiers jours.",
+    "translations": {
+      "en": "But this work had to be done during the first four days."
+    },
+    "segments": [
       {
         "token": "mais",
         "startTime": 68140,
@@ -1075,14 +1163,14 @@
       {
         "token": "jours.",
         "startTime": 70480,
-        "endTime": 71120
+        "endTime": 71200
       }
     ]
   },
   {
-    "sentence_text": "On a perdu du temps. » Au milieu de l'horreur, de rares signes d'espoir, cet homme, Hernan Gil, a jeudi huit jours ensevelis sous les Merci.",
+    "sentence_text": "On a perdu du temps.",
     "translations": {
-      "en": "We lost time.' In the midst of the horror, rare signs of hope: this man, Hernan Gil, was buried for eight days under the rubble. Thank you."
+      "en": "We lost time."
     },
     "segments": [
       {
@@ -1109,11 +1197,155 @@
         "token": "temps.",
         "startTime": 72000,
         "endTime": 72180
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "» Au milieu de l'horreur, de rares signes d'espoir,",
+    "translations": {
+      "en": "In the midst of the horror, rare signs of hope,"
+    },
+    "segments": [
       {
         "token": "»",
         "startTime": 72180,
-        "endTime": 73700
+        "endTime": 75640
+      },
+      {
+        "token": "Au",
+        "startTime": 75640,
+        "endTime": 75820
+      },
+      {
+        "token": "milieu",
+        "startTime": 75820,
+        "endTime": 76080
+      },
+      {
+        "token": "de",
+        "startTime": 76080,
+        "endTime": 76280
+      },
+      {
+        "token": "l'horreur,",
+        "startTime": 76280,
+        "endTime": 76820
+      },
+      {
+        "token": "de",
+        "startTime": 76820,
+        "endTime": 76960
+      },
+      {
+        "token": "rares",
+        "startTime": 76960,
+        "endTime": 77240
+      },
+      {
+        "token": "signes",
+        "startTime": 77240,
+        "endTime": 77520
+      },
+      {
+        "token": "d'espoir,",
+        "startTime": 77520,
+        "endTime": 78600
+      }
+    ]
+  },
+  {
+    "sentence_text": "cet homme, Hernan Gil, a été sauvé jeudi après huit jours ensevelis sous les décombres.",
+    "translations": {
+      "en": "this man, Hernan Gil, was rescued Thursday after eight days buried under the rubble."
+    },
+    "segments": [
+      {
+        "token": "cet",
+        "startTime": 78600,
+        "endTime": 78800
+      },
+      {
+        "token": "homme,",
+        "startTime": 78800,
+        "endTime": 79160
+      },
+      {
+        "token": "Hernan",
+        "startTime": 79160,
+        "endTime": 79520
+      },
+      {
+        "token": "Gil,",
+        "startTime": 79520,
+        "endTime": 79880
+      },
+      {
+        "token": "a",
+        "startTime": 79880,
+        "endTime": 80100
+      },
+      {
+        "token": "été",
+        "startTime": 80100,
+        "endTime": 80320
+      },
+      {
+        "token": "sauvé",
+        "startTime": 80320,
+        "endTime": 80640
+      },
+      {
+        "token": "jeudi",
+        "startTime": 80640,
+        "endTime": 81060
+      },
+      {
+        "token": "après",
+        "startTime": 81060,
+        "endTime": 81380
+      },
+      {
+        "token": "huit",
+        "startTime": 81380,
+        "endTime": 81680
+      },
+      {
+        "token": "jours",
+        "startTime": 81680,
+        "endTime": 82000
+      },
+      {
+        "token": "ensevelis",
+        "startTime": 82000,
+        "endTime": 82600
+      },
+      {
+        "token": "sous",
+        "startTime": 82600,
+        "endTime": 82780
+      },
+      {
+        "token": "les",
+        "startTime": 82780,
+        "endTime": 82940
+      },
+      {
+        "token": "décombres.",
+        "startTime": 82940,
+        "endTime": 83860
+      }
+    ]
+  },
+  {
+    "sentence_text": "Merci.",
+    "translations": {
+      "en": "Thank you."
+    },
+    "segments": [
+      {
+        "token": "Merci.",
+        "startTime": 83860,
+        "endTime": 85260
       }
     ]
   }
