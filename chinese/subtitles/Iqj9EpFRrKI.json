@@ -486,7 +486,7 @@
   {
     "sentence_text": "我 为此 准备 了 一年",
     "translations": {
-      "en": "I've been preparing for a year."
+      "en": "I've been preparing for this for a year."
     },
     "segments": [
       {
@@ -542,7 +542,7 @@
   {
     "sentence_text": "需要 选择 最 聪明 、 最有 能力 的 队友",
     "translations": {
-      "en": "I need to pick the smartest, most capable teammate,"
+      "en": "I need to pick the smartest, most capable teammate."
     },
     "segments": [
       {
@@ -640,7 +640,7 @@
   {
     "sentence_text": "并列 出 几个 可能 的",
     "translations": {
-      "en": "and I've listed a few candidates."
+      "en": "And I've listed a few possibilities."
     },
     "segments": [
       {
@@ -696,7 +696,7 @@
   {
     "sentence_text": "G ab ri ela 她 只有 八岁",
     "translations": {
-      "en": "Gabriela is only eight years old,"
+      "en": "Gabriela—she's only eight years old."
     },
     "segments": [
       {
@@ -782,7 +782,7 @@
   {
     "sentence_text": "但别 低估 了 她",
     "translations": {
-      "en": "but don't underestimate her."
+      "en": "But don't underestimate her."
     },
     "segments": [
       {
@@ -826,7 +826,7 @@
   {
     "sentence_text": "她 能 流利地 说 两种 语言",
     "translations": {
-      "en": "She's fluent in two languages,"
+      "en": "She's fluent in two languages."
     },
     "segments": [
       {
@@ -894,7 +894,7 @@
   {
     "sentence_text": "而且 还是 一个 极具 创造力 的 人",
     "translations": {
-      "en": "and she's incredibly creative."
+      "en": "And she's incredibly creative."
     },
     "segments": [
       {
@@ -980,7 +980,7 @@
   {
     "sentence_text": "其次 Em ma",
     "translations": {
-      "en": "Then there's Emma."
+      "en": "Next is Emma."
     },
     "segments": [
       {
@@ -1012,7 +1012,7 @@
   {
     "sentence_text": "她 能 背诵 圆周率 前 一百位",
     "translations": {
-      "en": "She can recite the first hundred digits of pi,"
+      "en": "She can recite the first hundred digits of pi."
     },
     "segments": [
       {
@@ -1098,7 +1098,7 @@
   {
     "sentence_text": "以 设计 卫星 为生",
     "translations": {
-      "en": "designs satellites for a living,"
+      "en": "She designs satellites for a living."
     },
     "segments": [
       {
@@ -1148,7 +1148,7 @@
   {
     "sentence_text": "并 擅长 烘烤 完美 的 淡 奶酥",
     "translations": {
-      "en": "and bakes perfect soufflés."
+      "en": "And she bakes perfect soufflés."
     },
     "segments": [
       {
@@ -1222,7 +1222,7 @@
   {
     "sentence_text": "或者 我 可以 选择 T ay lor 先生",
     "translations": {
-      "en": "Or I could choose Mr. Taylor,"
+      "en": "Or I could choose Mr. Taylor."
     },
     "segments": [
       {
@@ -1320,7 +1320,7 @@
   {
     "sentence_text": "他 是 邻里 中 最好 的 棋手",
     "translations": {
-      "en": "the best chess player in the neighborhood,"
+      "en": "He's the best chess player in the neighborhood."
     },
     "segments": [
       {
@@ -1388,7 +1388,7 @@
   {
     "sentence_text": "更 不用说 他 还 参加 过 二十多 届 头脑 争霸赛",
     "translations": {
-      "en": "not to mention he's competed in over twenty Brain Battles,"
+      "en": "Not to mention he's competed in over twenty Brain Battles."
     },
     "segments": [
       {
@@ -1504,7 +1504,7 @@
   {
     "sentence_text": "而且 五次 夺冠",
     "translations": {
-      "en": "and won five times."
+      "en": "And won five times."
     },
     "segments": [
       {
@@ -1548,7 +1548,7 @@
   {
     "sentence_text": "我 不 确定 选 谁",
     "translations": {
-      "en": "I'm not sure who to choose."
+      "en": "I'm not sure who to pick."
     },
     "segments": [
       {
@@ -1642,7 +1642,7 @@
   {
     "sentence_text": "艾 美尔 应该 在 明天 的 比赛 中选 谁 做 队友",
     "translations": {
-      "en": "Who should Emile pick as a teammate in tomorrow's competition?"
+      "en": "Who should Emir choose as a teammate in tomorrow's competition?"
     },
     "segments": [
       {
@@ -1858,7 +1858,7 @@
   {
     "sentence_text": "虽然 I Q 测试 挂钩 ,",
     "translations": {
-      "en": "Although IQ tests are related,"
+      "en": "Although IQ tests are a factor,"
     },
     "segments": [
       {
@@ -1918,9 +1918,9 @@
     ]
   },
   {
-    "sentence_text": "但 这些 测试 通常 会 忽略",
+    "sentence_text": "但 这些 测试 通常 会 忽略 一个 人",
     "translations": {
-      "en": "these tests usually ignore"
+      "en": "these tests often overlook a person's"
     },
     "segments": [
       {
@@ -1982,15 +1982,7 @@
         "startTime": 75900,
         "endTime": 76070,
         "pinyin": "lüè"
-      }
-    ]
-  },
-  {
-    "sentence_text": "一个 人 各种 能力 的 范围 以及 深度 。",
-    "translations": {
-      "en": "the range and depth of a person's various abilities."
-    },
-    "segments": [
+      },
       {
         "token": "一",
         "startTime": 76070,
@@ -2008,7 +2000,15 @@
         "startTime": 76590,
         "endTime": 76770,
         "pinyin": "rén"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "各种 能力 的 范围 以及 深度 。",
+    "translations": {
+      "en": "range and depth of various abilities."
+    },
+    "segments": [
       {
         "token": "各",
         "startTime": 76770,
@@ -2086,7 +2086,7 @@
   {
     "sentence_text": "因此 , 我们 将 把 聪明 的 概念 分为 创造力 、",
     "translations": {
-      "en": "Therefore, we will divide the concept of intelligence into categories like creativity,"
+      "en": "Therefore, we will break down the concept of intelligence into categories like creativity,"
     },
     "segments": [
       {
@@ -2282,7 +2282,7 @@
   {
     "sentence_text": "并 探索 大脑 什么 时候 最 擅长 其中",
     "translations": {
-      "en": "and explore when the brain is best at each."
+      "en": "and explore when the brain excels at each."
     },
     "segments": [
       {
@@ -2650,7 +2650,7 @@
   {
     "sentence_text": "随着 大脑 发育 , 它会 经历 休整 过程",
     "translations": {
-      "en": "As the brain develops, it undergoes a pruning process"
+      "en": "As the brain develops, it undergoes a pruning process."
     },
     "segments": [
       {
@@ -2748,7 +2748,7 @@
   {
     "sentence_text": "基于 你 的 经历 和 所处 环境",
     "translations": {
-      "en": "based on your experiences and environment."
+      "en": "Based on your experiences and environment,"
     },
     "segments": [
       {
@@ -2822,7 +2822,7 @@
   {
     "sentence_text": "使用 的 连接 将 得到 加强",
     "translations": {
-      "en": "Connections that are used are strengthened,"
+      "en": "connections that are used are strengthened,"
     },
     "segments": [
       {
@@ -2958,7 +2958,7 @@
   {
     "sentence_text": "经常 使用 的 神经 通路 有 随窍 包裹 在 一层 绝缘层 中",
     "translations": {
-      "en": "Frequently used neural pathways are wrapped in an insulating layer,"
+      "en": "Frequently used neural pathways become wrapped in an insulating layer,"
     },
     "segments": [
       {
@@ -4068,7 +4068,7 @@
   {
     "sentence_text": "这 需要 持续 地 专注 力 计划 和 抽象思维",
     "translations": {
-      "en": "which require sustained focus, planning, and abstract thinking."
+      "en": "which require sustained attention, planning, and abstract thinking."
     },
     "segments": [
       {
@@ -4172,7 +4172,7 @@
   {
     "sentence_text": "同时 , 孩子 们 倾向 于 自由 探索性 地 学习",
     "translations": {
-      "en": "At the same time, children tend to learn through free exploration."
+      "en": "At the same time, children tend to learn through free exploration,"
     },
     "segments": [
       {
@@ -4282,7 +4282,7 @@
   {
     "sentence_text": "他们 用 更 负 想象力 的 方法 解 谜题",
     "translations": {
-      "en": "They solve puzzles with more imaginative methods,"
+      "en": "solving puzzles with more imaginative methods,"
     },
     "segments": [
       {
@@ -4374,7 +4374,7 @@
   {
     "sentence_text": "而且 大部分 很少 怕 犯错",
     "translations": {
-      "en": "and most are rarely afraid of making mistakes."
+      "en": "and most rarely fear making mistakes."
     },
     "segments": [
       {
@@ -4442,7 +4442,7 @@
   {
     "sentence_text": "但 成年人 有 他们 独特 的 能力",
     "translations": {
-      "en": "But adults have their own unique abilities."
+      "en": "But adults have their unique abilities."
     },
     "segments": [
       {
@@ -4612,9 +4612,9 @@
     ]
   },
   {
-    "sentence_text": "让 他们 能够 更好 地去 执行",
+    "sentence_text": "让 他们 能够 更好 地去 执行 需要 学习",
     "translations": {
-      "en": "which allows them to better perform"
+      "en": "which allows them to better perform skills that require learning,"
     },
     "segments": [
       {
@@ -4682,15 +4682,7 @@
         "startTime": 179400,
         "endTime": 179700,
         "pinyin": "xíng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "需要 学习 专注 和 记忆 的 技能",
-    "translations": {
-      "en": "skills that require learning, focus, and memory."
-    },
-    "segments": [
+      },
       {
         "token": "需",
         "startTime": 179700,
@@ -4714,7 +4706,15 @@
         "startTime": 180370,
         "endTime": 180500,
         "pinyin": "xí"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "专注 和 记忆 的 技能",
+    "translations": {
+      "en": "focus, and memory."
+    },
+    "segments": [
       {
         "token": "专",
         "startTime": 180500,
@@ -4902,7 +4902,7 @@
   {
     "sentence_text": "成年 后期 随着 大脑 的 记忆 中心 海马 体 的 萎缩",
     "translations": {
-      "en": "In later adulthood, as the brain's memory center, the hippocampus, shrinks,"
+      "en": "In late adulthood, as the brain's memory center, the hippocampus, shrinks,"
     },
     "segments": [
       {
@@ -5086,7 +5086,7 @@
   {
     "sentence_text": "但 我们 常说 越 老越 智慧 是 有 据 可循 的",
     "translations": {
-      "en": "But as we often say, there is evidence that older people are wiser"
+      "en": "But we often say that wisdom comes with age, and there is evidence for that"
     },
     "segments": [
       {
@@ -5190,7 +5190,7 @@
   {
     "sentence_text": "历经 一生 的 学习 , 年长者 有 更 多 知识 可以 回顾 病 使用 , 使 他们 在 知识 问答 中 更具 优势 。",
     "translations": {
-      "en": "After a lifetime of learning, older adults have more knowledge to draw on and use, giving them an edge in knowledge-based quizzes."
+      "en": "After a lifetime of learning, older people have more knowledge to draw on and use, giving them an advantage in knowledge-based quizzes."
     },
     "segments": [
       {
@@ -5706,7 +5706,7 @@
   {
     "sentence_text": "这 也 使得 你 能 更具 逻辑 , 更 擅长 解决 数学 谜题",
     "translations": {
-      "en": "Which also makes you more logical and better at solving math puzzles"
+      "en": "which also makes you more logical and better at solving math puzzles"
     },
     "segments": [
       {
@@ -5980,7 +5980,7 @@
   {
     "sentence_text": "富有 冒险 精神 的 学习者",
     "translations": {
-      "en": "Adventurous learners"
+      "en": "adventurous learners"
     },
     "segments": [
       {
@@ -6048,7 +6048,7 @@
   {
     "sentence_text": "在 很多 你 可以 认为 青少年 是 一个多 面兽",
     "translations": {
-      "en": "In many ways, you could think of a teenager as a multi-faceted beast"
+      "en": "In many ways, you could think of a teenager as a multi-faceted creature"
     },
     "segments": [
       {
@@ -6274,7 +6274,7 @@
   {
     "sentence_text": "你 正 处于 一个 动态 的 阶段",
     "translations": {
-      "en": "You are in a dynamic phase"
+      "en": "You are in a dynamic stage"
     },
     "segments": [
       {
@@ -6440,7 +6440,7 @@
   {
     "sentence_text": "实际上 可以 指导 你 大脑 的 发展",
     "translations": {
-      "en": "Can actually guide your brain's development"
+      "en": "can actually guide your brain's development"
     },
     "segments": [
       {
@@ -6526,7 +6526,7 @@
   {
     "sentence_text": "那么 哪个 年龄段 的 人 最 聪明 的 没有 唯一 的 答案",
     "translations": {
-      "en": "So there is no single answer to which age group is the smartest"
+      "en": "So there is no single answer to which age is the smartest"
     },
     "segments": [
       {
@@ -6922,7 +6922,7 @@
   {
     "sentence_text": "以 应对 生活 中 相应 的 挑战 和 需求",
     "translations": {
-      "en": "To meet the corresponding challenges and needs in life"
+      "en": "to meet the corresponding challenges and needs of life"
     },
     "segments": [
       {
@@ -7082,7 +7082,7 @@
   {
     "sentence_text": "拥有 一个 跨 年龄段 的 团队 才 是 好 策略",
     "translations": {
-      "en": "Having a team that spans different ages is a good strategy"
+      "en": "having a team that spans different ages is a good strategy"
     },
     "segments": [
       {
@@ -7186,7 +7186,7 @@
   {
     "sentence_text": "通过 这些 视频 继续 学习",
     "translations": {
-      "en": "Keep learning through these videos"
+      "en": "Continue learning through these videos"
     },
     "segments": [
       {
