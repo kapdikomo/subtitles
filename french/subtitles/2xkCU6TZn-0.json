@@ -73,9 +73,9 @@
     ]
   },
   {
-    "sentence_text": "Une nouvelle vague de chaleur est-elle venir ?",
+    "sentence_text": "Une nouvelle vague de chaleur est-elle à venir ?",
     "translations": {
-      "en": "Is a new heatwave coming?"
+      "en": "Is another heat wave coming?"
     },
     "segments": [
       {
@@ -112,15 +112,7 @@
         "token": "à",
         "startTime": 8420,
         "endTime": 8580
-      }
-    ]
-  },
-  {
-    "sentence_text": "Oui, probablement et ce week-end.",
-    "translations": {
-      "en": "Yes, probably, and this weekend."
-    },
-    "segments": [
+      },
       {
         "token": "venir",
         "startTime": 8580,
@@ -130,7 +122,15 @@
         "token": "?",
         "startTime": 8580,
         "endTime": 9140
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Oui, probablement et dès ce week-end.",
+    "translations": {
+      "en": "Yes, probably, and as early as this weekend."
+    },
+    "segments": [
       {
         "token": "Oui,",
         "startTime": 9140,
@@ -150,15 +150,7 @@
         "token": "dès",
         "startTime": 11040,
         "endTime": 11240
-      }
-    ]
-  },
-  {
-    "sentence_text": "Ces habitants de Poitiers s'y entre lassitude et Quand est-ce que ça",
-    "translations": {
-      "en": "These residents of Poitiers are caught between weariness and 'When will it stop?'"
-    },
-    "segments": [
+      },
       {
         "token": "ce",
         "startTime": 11240,
@@ -168,7 +160,15 @@
         "token": "week-end.",
         "startTime": 11460,
         "endTime": 12640
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ces habitants de Poitiers s'y préparent entre lassitude et fatalité.",
+    "translations": {
+      "en": "These residents of Poitiers are preparing for it, caught between weariness and resignation."
+    },
+    "segments": [
       {
         "token": "Ces",
         "startTime": 12640,
@@ -222,9 +222,9 @@
     ]
   },
   {
-    "sentence_text": "va s'arrêter ? ce que je me dis.",
+    "sentence_text": "Quand est-ce que ça va s'arrêter ?",
     "translations": {
-      "en": "that's what I tell myself."
+      "en": "When will it stop?"
     },
     "segments": [
       {
@@ -261,20 +261,20 @@
         "token": "?",
         "startTime": 18860,
         "endTime": 19360
-      },
-      {
-        "token": "Voilà",
-        "startTime": 19360,
-        "endTime": 20420
       }
     ]
   },
   {
-    "sentence_text": "C'est en fait pour nous, pour nos proches, surtout les plus Je me mettrai l'abri,",
+    "sentence_text": "Voilà ce que je me dis.",
     "translations": {
-      "en": "It's really for us, for our loved ones, especially the most vulnerable. I'll take"
+      "en": "That's what I tell myself."
     },
     "segments": [
+      {
+        "token": "Voilà",
+        "startTime": 19360,
+        "endTime": 20420
+      },
       {
         "token": "ce",
         "startTime": 20420,
@@ -299,7 +299,15 @@
         "token": "dis.",
         "startTime": 20820,
         "endTime": 21200
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "C'est inquiétant en fait pour nous, pour nos proches, surtout les plus vulnérables.",
+    "translations": {
+      "en": "It's actually worrying for us, for our loved ones, especially the most vulnerable."
+    },
+    "segments": [
       {
         "token": "C'est",
         "startTime": 21200,
@@ -349,15 +357,7 @@
         "token": "surtout",
         "startTime": 24200,
         "endTime": 24380
-      }
-    ]
-  },
-  {
-    "sentence_text": "je fermerai mes volets, je vivrai dans le noir et j'attendrai que ça se passe.",
-    "translations": {
-      "en": "shelter, close my shutters, live in the dark, and wait for it to pass."
-    },
-    "segments": [
+      },
       {
         "token": "les",
         "startTime": 24380,
@@ -372,7 +372,15 @@
         "token": "vulnérables.",
         "startTime": 24840,
         "endTime": 25980
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je me mettrai à l'abri, je fermerai mes volets, je vivrai dans le noir et j'attendrai que ça se passe.",
+    "translations": {
+      "en": "I'll take shelter, close my shutters, live in the dark, and wait for it to pass."
+    },
+    "segments": [
       {
         "token": "Je",
         "startTime": 25980,
@@ -432,15 +440,7 @@
         "token": "dans",
         "startTime": 32400,
         "endTime": 32600
-      }
-    ]
-  },
-  {
-    "sentence_text": "Avec quelle ? dimanche, une masse d'air chaud,",
-    "translations": {
-      "en": "With what? Sunday, a mass of hot air,"
-    },
-    "segments": [
+      },
       {
         "token": "le",
         "startTime": 32600,
@@ -484,9 +484,9 @@
     ]
   },
   {
-    "sentence_text": "un dôme de chaleur ici en rouge va se positionner sur l'Espagne et le Portugal.",
+    "sentence_text": "Avec quelle intensité ?",
     "translations": {
-      "en": "a heat dome here in red will position itself over Spain and Portugal."
+      "en": "How intense will it be?"
     },
     "segments": [
       {
@@ -508,7 +508,15 @@
         "token": "?",
         "startTime": 36260,
         "endTime": 38160
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dès dimanche, une masse d'air chaud, un dôme de chaleur ici en rouge foncé, va se positionner sur l'Espagne et le Portugal.",
+    "translations": {
+      "en": "Starting Sunday, a mass of hot air, a heat dome shown here in dark red, will settle over Spain and Portugal."
+    },
+    "segments": [
       {
         "token": "Dès",
         "startTime": 38160,
@@ -563,15 +571,7 @@
         "token": "ici",
         "startTime": 41600,
         "endTime": 41840
-      }
-    ]
-  },
-  {
-    "sentence_text": "Puis, pourrait s'installer en de semaine sur notre pays. « Dans ce dôme de chaleur,",
-    "translations": {
-      "en": "Then, it could settle in during the week over our country. 'In this heat dome,"
-    },
-    "segments": [
+      },
       {
         "token": "en",
         "startTime": 41840,
@@ -626,7 +626,15 @@
         "token": "Portugal.",
         "startTime": 45300,
         "endTime": 46180
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Puis, pourrait s'installer en début de semaine sur notre pays. « Dans ce dôme de chaleur, on aura les mêmes conditions qu'on a connues, avec peut-être des températures quand même un cran en dessous, notamment la nuit.",
+    "translations": {
+      "en": "Then, it could move over our country early next week. 'In this heat dome, we'll have the same conditions we've experienced, though perhaps temperatures a notch lower, especially at night."
+    },
+    "segments": [
       {
         "token": "Puis,",
         "startTime": 46180,
@@ -646,15 +654,7 @@
         "token": "en",
         "startTime": 47620,
         "endTime": 47820
-      }
-    ]
-  },
-  {
-    "sentence_text": "on aura les mêmes conditions qu'on a connues,",
-    "translations": {
-      "en": "we'll have the same conditions"
-    },
-    "segments": [
+      },
       {
         "token": "début",
         "startTime": 47820,
@@ -694,15 +694,7 @@
         "token": "Dans",
         "startTime": 50540,
         "endTime": 50620
-      }
-    ]
-  },
-  {
-    "sentence_text": "avec peut-être des quand même un cran en dessous, notamment la nuit.",
-    "translations": {
-      "en": "we experienced, perhaps slightly lower, especially at night."
-    },
-    "segments": [
+      },
       {
         "token": "ce",
         "startTime": 50620,
@@ -762,15 +754,7 @@
         "token": "connues,",
         "startTime": 52900,
         "endTime": 53260
-      }
-    ]
-  },
-  {
-    "sentence_text": "Mais on pourra avoir pendant 3-4 jours nouveau du 40 dans le sud",
-    "translations": {
-      "en": "But we could have, for 3-4 days, again 40°C in the south"
-    },
-    "segments": [
+      },
       {
         "token": "avec",
         "startTime": 53260,
@@ -839,9 +823,9 @@
     ]
   },
   {
-    "sentence_text": "et du 35 au nord. » Alors, sommes-nous prêts ?",
+    "sentence_text": "Mais on pourra avoir pendant 3-4 jours à nouveau du 40 degrés dans le sud et du 35 au nord. » Alors, sommes-nous prêts ?",
     "translations": {
-      "en": "and 35°C in the north.' So, are we ready?"
+      "en": "But we could see 40 degrees again in the south and 35 in the north for 3-4 days.' So, are we ready?"
     },
     "segments": [
       {
@@ -893,15 +877,7 @@
         "token": "du",
         "startTime": 59880,
         "endTime": 60120
-      }
-    ]
-  },
-  {
-    "sentence_text": "Climatiseurs, brumisateurs, certaines villes de concentrer leurs moyens sur les centres de",
-    "translations": {
-      "en": "Air conditioners, misters, some cities are focusing their resources on"
-    },
-    "segments": [
+      },
       {
         "token": "40",
         "startTime": 60120,
@@ -961,15 +937,7 @@
         "token": "Alors,",
         "startTime": 62240,
         "endTime": 63320
-      }
-    ]
-  },
-  {
-    "sentence_text": "loisirs pendant les vacances scolaires.",
-    "translations": {
-      "en": "leisure centers during school holidays."
-    },
-    "segments": [
+      },
       {
         "token": "sommes-nous",
         "startTime": 63320,
@@ -984,7 +952,15 @@
         "token": "?",
         "startTime": 64300,
         "endTime": 65519
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Climatiseurs, brumisateurs, certaines villes prévoient déjà de concentrer leurs moyens sur les centres de loisirs pendant les vacances scolaires.",
+    "translations": {
+      "en": "Air conditioners, misters—some cities are already planning to focus their resources on leisure centers during school holidays."
+    },
+    "segments": [
       {
         "token": "Climatiseurs,",
         "startTime": 65519,
@@ -994,15 +970,7 @@
         "token": "brumisateurs,",
         "startTime": 66580,
         "endTime": 67920
-      }
-    ]
-  },
-  {
-    "sentence_text": "De nombreuses elles, pourraient fermer 15h.",
-    "translations": {
-      "en": "Many of them could close at 3 PM."
-    },
-    "segments": [
+      },
       {
         "token": "certaines",
         "startTime": 67920,
@@ -1032,15 +1000,7 @@
         "token": "concentrer",
         "startTime": 69900,
         "endTime": 70400
-      }
-    ]
-  },
-  {
-    "sentence_text": "Mais concerne surtout les hôpitaux. 30 000 climatiseurs ont promis par le gouvernement.",
-    "translations": {
-      "en": "But it mainly concerns hospitals. 30,000 air conditioners have been promised by the government."
-    },
-    "segments": [
+      },
       {
         "token": "leurs",
         "startTime": 70400,
@@ -1095,7 +1055,15 @@
         "token": "scolaires.",
         "startTime": 73380,
         "endTime": 74360
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "De nombreuses crèches, elles, pourraient fermer dès 15h.",
+    "translations": {
+      "en": "Many daycare centers could close as early as 3 p.m."
+    },
+    "segments": [
       {
         "token": "De",
         "startTime": 74360,
@@ -1105,15 +1073,7 @@
         "token": "nombreuses",
         "startTime": 74540,
         "endTime": 74980
-      }
-    ]
-  },
-  {
-    "sentence_text": "Pour la profession, il y a urgence.",
-    "translations": {
-      "en": "For the profession, it's urgent."
-    },
-    "segments": [
+      },
       {
         "token": "crèches,",
         "startTime": 74980,
@@ -1143,20 +1103,20 @@
         "token": "15h.",
         "startTime": 77100,
         "endTime": 78540
-      },
-      {
-        "token": "Mais",
-        "startTime": 78540,
-        "endTime": 78640
       }
     ]
   },
   {
-    "sentence_text": "On que ça va arriver",
+    "sentence_text": "Mais l'inquiétude concerne surtout les hôpitaux. 30 000 climatiseurs ont été promis par le gouvernement.",
     "translations": {
-      "en": "We hope it"
+      "en": "But the main concern is hospitals. The government has promised 30,000 air conditioners."
     },
     "segments": [
+      {
+        "token": "Mais",
+        "startTime": 78540,
+        "endTime": 78640
+      },
       {
         "token": "l'inquiétude",
         "startTime": 78640,
@@ -1181,15 +1141,7 @@
         "token": "hôpitaux.",
         "startTime": 80820,
         "endTime": 81940
-      }
-    ]
-  },
-  {
-    "sentence_text": "au plus vite parce que nombre d'hôpitaux aujourd'hui essaient de se avec les",
-    "translations": {
-      "en": "arrives as soon as possible because many hospitals today are trying"
-    },
-    "segments": [
+      },
       {
         "token": "30",
         "startTime": 81940,
@@ -1234,7 +1186,15 @@
         "token": "gouvernement.",
         "startTime": 84980,
         "endTime": 85460
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pour la profession, il y a urgence.",
+    "translations": {
+      "en": "For the profession, it's urgent."
+    },
+    "segments": [
       {
         "token": "Pour",
         "startTime": 85460,
@@ -1254,15 +1214,7 @@
         "token": "il",
         "startTime": 86880,
         "endTime": 87880
-      }
-    ]
-  },
-  {
-    "sentence_text": "conditions qu'on a pu vivre et qui sont des conditions extrêmement difficiles. on le sait,",
-    "translations": {
-      "en": "to cope with the conditions we've experienced, which are extremely difficult. As we know,"
-    },
-    "segments": [
+      },
       {
         "token": "y",
         "startTime": 87880,
@@ -1277,7 +1229,15 @@
         "token": "urgence.",
         "startTime": 88000,
         "endTime": 88920
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "On espère évidemment que ça va arriver au plus vite parce que nombre d'hôpitaux aujourd'hui essaient de se débrouiller avec les conditions qu'on a pu vivre et qui sont des conditions extrêmement difficiles.",
+    "translations": {
+      "en": "We obviously hope it arrives as soon as possible because many hospitals are currently trying to cope with the conditions we've experienced, which are extremely difficult."
+    },
+    "segments": [
       {
         "token": "On",
         "startTime": 88920,
@@ -1337,15 +1297,7 @@
         "token": "que",
         "startTime": 91180,
         "endTime": 91360
-      }
-    ]
-  },
-  {
-    "sentence_text": "une quand la dans les chambres augmente.",
-    "translations": {
-      "en": "when the temperature in the rooms rises."
-    },
-    "segments": [
+      },
       {
         "token": "nombre",
         "startTime": 91360,
@@ -1380,15 +1332,7 @@
         "token": "débrouiller",
         "startTime": 93760,
         "endTime": 94220
-      }
-    ]
-  },
-  {
-    "sentence_text": "Le Premier ministre assure que les premiers milliers de climatiseurs seront la fin de",
-    "translations": {
-      "en": "The Prime Minister assures that the first thousands of air conditioners will be delivered by the end of"
-    },
-    "segments": [
+      },
       {
         "token": "avec",
         "startTime": 94220,
@@ -1462,9 +1406,9 @@
     ]
   },
   {
-    "sentence_text": "cette semaine, au plus tard, au de la semaine prochaine.",
+    "sentence_text": "Corrélées, on le sait, à une surmortalité quand la température dans les chambres augmente.",
     "translations": {
-      "en": "this week, at the latest, by the beginning of next week."
+      "en": "Correlated, as we know, with excess mortality when room temperatures rise."
     },
     "segments": [
       {
@@ -1516,6 +1460,169 @@
         "token": "température",
         "startTime": 101380,
         "endTime": 101900
+      },
+      {
+        "token": "dans",
+        "startTime": 101900,
+        "endTime": 102040
+      },
+      {
+        "token": "les",
+        "startTime": 102040,
+        "endTime": 102160
+      },
+      {
+        "token": "chambres",
+        "startTime": 102160,
+        "endTime": 102460
+      },
+      {
+        "token": "augmente.",
+        "startTime": 102460,
+        "endTime": 103740
+      }
+    ]
+  },
+  {
+    "sentence_text": "Le Premier ministre assure que les premiers milliers de climatiseurs seront livrés dès la fin de cette semaine, au plus tard, au début de la semaine prochaine.",
+    "translations": {
+      "en": "The Prime Minister assures that the first few thousand air conditioners will be delivered by the end of this week, or at the latest, early next week."
+    },
+    "segments": [
+      {
+        "token": "Le",
+        "startTime": 103740,
+        "endTime": 103820
+      },
+      {
+        "token": "Premier",
+        "startTime": 103820,
+        "endTime": 104120
+      },
+      {
+        "token": "ministre",
+        "startTime": 104120,
+        "endTime": 104500
+      },
+      {
+        "token": "assure",
+        "startTime": 104500,
+        "endTime": 104800
+      },
+      {
+        "token": "que",
+        "startTime": 104800,
+        "endTime": 105060
+      },
+      {
+        "token": "les",
+        "startTime": 105060,
+        "endTime": 105280
+      },
+      {
+        "token": "premiers",
+        "startTime": 105280,
+        "endTime": 105640
+      },
+      {
+        "token": "milliers",
+        "startTime": 105640,
+        "endTime": 106260
+      },
+      {
+        "token": "de",
+        "startTime": 106260,
+        "endTime": 106440
+      },
+      {
+        "token": "climatiseurs",
+        "startTime": 106440,
+        "endTime": 107160
+      },
+      {
+        "token": "seront",
+        "startTime": 107160,
+        "endTime": 107500
+      },
+      {
+        "token": "livrés",
+        "startTime": 107500,
+        "endTime": 108060
+      },
+      {
+        "token": "dès",
+        "startTime": 108060,
+        "endTime": 108380
+      },
+      {
+        "token": "la",
+        "startTime": 108380,
+        "endTime": 108640
+      },
+      {
+        "token": "fin",
+        "startTime": 108640,
+        "endTime": 108780
+      },
+      {
+        "token": "de",
+        "startTime": 108780,
+        "endTime": 108980
+      },
+      {
+        "token": "cette",
+        "startTime": 108980,
+        "endTime": 109180
+      },
+      {
+        "token": "semaine,",
+        "startTime": 109180,
+        "endTime": 109900
+      },
+      {
+        "token": "au",
+        "startTime": 109900,
+        "endTime": 110360
+      },
+      {
+        "token": "plus",
+        "startTime": 110360,
+        "endTime": 110580
+      },
+      {
+        "token": "tard,",
+        "startTime": 110580,
+        "endTime": 110940
+      },
+      {
+        "token": "au",
+        "startTime": 110940,
+        "endTime": 111440
+      },
+      {
+        "token": "début",
+        "startTime": 111440,
+        "endTime": 111720
+      },
+      {
+        "token": "de",
+        "startTime": 111720,
+        "endTime": 111900
+      },
+      {
+        "token": "la",
+        "startTime": 111900,
+        "endTime": 112000
+      },
+      {
+        "token": "semaine",
+        "startTime": 112000,
+        "endTime": 112200
+      },
+      {
+        "token": "prochaine.",
+        "startTime": 112200,
+        "endTime": 112820
       }
     ]
   }
