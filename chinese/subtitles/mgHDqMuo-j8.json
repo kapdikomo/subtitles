@@ -1,0 +1,8540 @@
+[
+  {
+    "sentence_text": "你 可能 已经 知道 万物 都 是 由 被 称为 原子 的 微小 粒子 构成 的",
+    "translations": {
+      "en": "You may already know that everything is made of tiny particles called atoms."
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 6300,
+        "endTime": 6320,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "可",
+        "startTime": 6320,
+        "endTime": 6440,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 6440,
+        "endTime": 6560,
+        "pinyin": "néng"
+      },
+      {
+        "token": "已",
+        "startTime": 6560,
+        "endTime": 6680,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "经",
+        "startTime": 6680,
+        "endTime": 6800,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "知",
+        "startTime": 6800,
+        "endTime": 6800,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "道",
+        "startTime": 6800,
+        "endTime": 6800,
+        "pinyin": "dào"
+      },
+      {
+        "token": "万",
+        "startTime": 6800,
+        "endTime": 7210,
+        "pinyin": "wàn"
+      },
+      {
+        "token": "物",
+        "startTime": 7210,
+        "endTime": 7620,
+        "pinyin": "wù"
+      },
+      {
+        "token": "都",
+        "startTime": 7620,
+        "endTime": 7920,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "是",
+        "startTime": 7920,
+        "endTime": 8060,
+        "pinyin": "shì"
+      },
+      {
+        "token": "由",
+        "startTime": 8060,
+        "endTime": 8200,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "被",
+        "startTime": 8200,
+        "endTime": 8320,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "称",
+        "startTime": 8320,
+        "endTime": 8470,
+        "pinyin": "chēng"
+      },
+      {
+        "token": "为",
+        "startTime": 8470,
+        "endTime": 8620,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "原",
+        "startTime": 8620,
+        "endTime": 8760,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 8760,
+        "endTime": 8900,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 8900,
+        "endTime": 9040,
+        "pinyin": "de"
+      },
+      {
+        "token": "微",
+        "startTime": 9040,
+        "endTime": 9210,
+        "pinyin": "wēi"
+      },
+      {
+        "token": "小",
+        "startTime": 9210,
+        "endTime": 9380,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "粒",
+        "startTime": 9380,
+        "endTime": 9510,
+        "pinyin": "lì"
+      },
+      {
+        "token": "子",
+        "startTime": 9510,
+        "endTime": 9640,
+        "pinyin": "zi"
+      },
+      {
+        "token": "构",
+        "startTime": 9640,
+        "endTime": 10120,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "成",
+        "startTime": 10120,
+        "endTime": 10600,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "的",
+        "startTime": 10600,
+        "endTime": 10760,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而 每个 原子 都 由 被 称为 质子 、 中子 和 电子 的 更 小 粒子 组成",
+    "translations": {
+      "en": "And each atom is made of even smaller particles called protons, neutrons, and electrons."
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 10760,
+        "endTime": 10880,
+        "pinyin": "ér"
+      },
+      {
+        "token": "每",
+        "startTime": 10880,
+        "endTime": 10990,
+        "pinyin": "měi"
+      },
+      {
+        "token": "个",
+        "startTime": 10990,
+        "endTime": 11100,
+        "pinyin": "gè"
+      },
+      {
+        "token": "原",
+        "startTime": 11100,
+        "endTime": 11420,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 11420,
+        "endTime": 11740,
+        "pinyin": "zi"
+      },
+      {
+        "token": "都",
+        "startTime": 11740,
+        "endTime": 11860,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "由",
+        "startTime": 11860,
+        "endTime": 12000,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "被",
+        "startTime": 12000,
+        "endTime": 12100,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "称",
+        "startTime": 12100,
+        "endTime": 12280,
+        "pinyin": "chēng"
+      },
+      {
+        "token": "为",
+        "startTime": 12280,
+        "endTime": 12460,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "质",
+        "startTime": 12460,
+        "endTime": 12720,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "子",
+        "startTime": 12720,
+        "endTime": 12980,
+        "pinyin": "zi"
+      },
+      {
+        "token": "、",
+        "startTime": 12980,
+        "endTime": 13100,
+        "pinyin": "、"
+      },
+      {
+        "token": "中",
+        "startTime": 13100,
+        "endTime": 13310,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "子",
+        "startTime": 13310,
+        "endTime": 13520,
+        "pinyin": "zi"
+      },
+      {
+        "token": "和",
+        "startTime": 13520,
+        "endTime": 13740,
+        "pinyin": "hé"
+      },
+      {
+        "token": "电",
+        "startTime": 13740,
+        "endTime": 13870,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 13870,
+        "endTime": 14000,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 14000,
+        "endTime": 14120,
+        "pinyin": "de"
+      },
+      {
+        "token": "更",
+        "startTime": 14120,
+        "endTime": 14300,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "小",
+        "startTime": 14300,
+        "endTime": 14460,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "粒",
+        "startTime": 14460,
+        "endTime": 14580,
+        "pinyin": "lì"
+      },
+      {
+        "token": "子",
+        "startTime": 14580,
+        "endTime": 14700,
+        "pinyin": "zi"
+      },
+      {
+        "token": "组",
+        "startTime": 14700,
+        "endTime": 15200,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "成",
+        "startTime": 15200,
+        "endTime": 15700,
+        "pinyin": "chéng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 可能 听说 过 原子 很小",
+    "translations": {
+      "en": "You've probably heard that atoms are small."
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 15700,
+        "endTime": 15940,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "可",
+        "startTime": 15940,
+        "endTime": 16120,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 16120,
+        "endTime": 16300,
+        "pinyin": "néng"
+      },
+      {
+        "token": "听",
+        "startTime": 16300,
+        "endTime": 16490,
+        "pinyin": "tīng"
+      },
+      {
+        "token": "说",
+        "startTime": 16490,
+        "endTime": 16680,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "过",
+        "startTime": 16680,
+        "endTime": 16860,
+        "pinyin": "guò"
+      },
+      {
+        "token": "原",
+        "startTime": 16860,
+        "endTime": 17390,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 17390,
+        "endTime": 17920,
+        "pinyin": "zi"
+      },
+      {
+        "token": "很",
+        "startTime": 17920,
+        "endTime": 18070,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "小",
+        "startTime": 18070,
+        "endTime": 18220,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 我 敢 打赌 你 从来 没有 想过 原子 到底 有 多 小",
+    "translations": {
+      "en": "But I bet you've never thought about just how small atoms really are."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 18220,
+        "endTime": 18320,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "我",
+        "startTime": 18320,
+        "endTime": 18520,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "敢",
+        "startTime": 18520,
+        "endTime": 18520,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "打",
+        "startTime": 18520,
+        "endTime": 18970,
+        "pinyin": "dǎ"
+      },
+      {
+        "token": "赌",
+        "startTime": 18970,
+        "endTime": 19420,
+        "pinyin": "dǔ"
+      },
+      {
+        "token": "你",
+        "startTime": 19420,
+        "endTime": 19560,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "从",
+        "startTime": 19560,
+        "endTime": 19640,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "来",
+        "startTime": 19640,
+        "endTime": 19720,
+        "pinyin": "lái"
+      },
+      {
+        "token": "没",
+        "startTime": 19720,
+        "endTime": 19910,
+        "pinyin": "méi"
+      },
+      {
+        "token": "有",
+        "startTime": 19910,
+        "endTime": 20100,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "想",
+        "startTime": 20100,
+        "endTime": 20290,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "过",
+        "startTime": 20290,
+        "endTime": 20480,
+        "pinyin": "guò"
+      },
+      {
+        "token": "原",
+        "startTime": 20480,
+        "endTime": 20570,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 20570,
+        "endTime": 20660,
+        "pinyin": "zi"
+      },
+      {
+        "token": "到",
+        "startTime": 20660,
+        "endTime": 20860,
+        "pinyin": "dào"
+      },
+      {
+        "token": "底",
+        "startTime": 20860,
+        "endTime": 21060,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "有",
+        "startTime": 21060,
+        "endTime": 22120,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "多",
+        "startTime": 22120,
+        "endTime": 22680,
+        "pinyin": "duō"
+      },
+      {
+        "token": "小",
+        "startTime": 22680,
+        "endTime": 22860,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "嗯 , 答案 是 它们 真的 非常 非常 小",
+    "translations": {
+      "en": "Well, the answer is they are really, really tiny."
+    },
+    "segments": [
+      {
+        "token": "嗯",
+        "startTime": 22860,
+        "endTime": 23000,
+        "pinyin": "ń"
+      },
+      {
+        "token": ",",
+        "startTime": 23000,
+        "endTime": 23140,
+        "pinyin": ","
+      },
+      {
+        "token": "答",
+        "startTime": 23140,
+        "endTime": 23250,
+        "pinyin": "dá"
+      },
+      {
+        "token": "案",
+        "startTime": 23250,
+        "endTime": 23360,
+        "pinyin": "àn"
+      },
+      {
+        "token": "是",
+        "startTime": 23360,
+        "endTime": 23520,
+        "pinyin": "shì"
+      },
+      {
+        "token": "它",
+        "startTime": 23520,
+        "endTime": 23750,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 23750,
+        "endTime": 23980,
+        "pinyin": "men"
+      },
+      {
+        "token": "真",
+        "startTime": 23980,
+        "endTime": 24090,
+        "pinyin": "zhēn"
+      },
+      {
+        "token": "的",
+        "startTime": 24090,
+        "endTime": 24200,
+        "pinyin": "de"
+      },
+      {
+        "token": "非",
+        "startTime": 24200,
+        "endTime": 25520,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "常",
+        "startTime": 25520,
+        "endTime": 26840,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "非",
+        "startTime": 26840,
+        "endTime": 26980,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "常",
+        "startTime": 26980,
+        "endTime": 27120,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "小",
+        "startTime": 27120,
+        "endTime": 27320,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 你 要 问 原子 到底 有 多 小",
+    "translations": {
+      "en": "If you want to know just how small atoms are,"
+    },
+    "segments": [
+      {
+        "token": "如",
+        "startTime": 27320,
+        "endTime": 27590,
+        "pinyin": "rú"
+      },
+      {
+        "token": "果",
+        "startTime": 27590,
+        "endTime": 27860,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "你",
+        "startTime": 27860,
+        "endTime": 28080,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "要",
+        "startTime": 28080,
+        "endTime": 28420,
+        "pinyin": "yào"
+      },
+      {
+        "token": "问",
+        "startTime": 28420,
+        "endTime": 28540,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "原",
+        "startTime": 28540,
+        "endTime": 29160,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 29160,
+        "endTime": 29780,
+        "pinyin": "zi"
+      },
+      {
+        "token": "到",
+        "startTime": 29780,
+        "endTime": 29900,
+        "pinyin": "dào"
+      },
+      {
+        "token": "底",
+        "startTime": 29900,
+        "endTime": 30020,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "有",
+        "startTime": 30020,
+        "endTime": 30140,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "多",
+        "startTime": 30140,
+        "endTime": 30340,
+        "pinyin": "duō"
+      },
+      {
+        "token": "小",
+        "startTime": 30340,
+        "endTime": 30860,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "为了 理解 这 一点",
+    "translations": {
+      "en": "to understand this,"
+    },
+    "segments": [
+      {
+        "token": "为",
+        "startTime": 30860,
+        "endTime": 31010,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "了",
+        "startTime": 31010,
+        "endTime": 31160,
+        "pinyin": "le"
+      },
+      {
+        "token": "理",
+        "startTime": 31160,
+        "endTime": 31320,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "解",
+        "startTime": 31320,
+        "endTime": 31480,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "这",
+        "startTime": 31480,
+        "endTime": 31700,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "一",
+        "startTime": 31700,
+        "endTime": 32080,
+        "pinyin": "yì"
+      },
+      {
+        "token": "点",
+        "startTime": 32080,
+        "endTime": 32460,
+        "pinyin": "diǎn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "让 我们 先问 这个 问题",
+    "translations": {
+      "en": "let's first ask this question:"
+    },
+    "segments": [
+      {
+        "token": "让",
+        "startTime": 32460,
+        "endTime": 32700,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "我",
+        "startTime": 32700,
+        "endTime": 32840,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 32840,
+        "endTime": 32980,
+        "pinyin": "men"
+      },
+      {
+        "token": "先",
+        "startTime": 32980,
+        "endTime": 33120,
+        "pinyin": "xiān"
+      },
+      {
+        "token": "问",
+        "startTime": 33120,
+        "endTime": 33260,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "这",
+        "startTime": 33260,
+        "endTime": 33460,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "个",
+        "startTime": 33460,
+        "endTime": 33660,
+        "pinyin": "ge"
+      },
+      {
+        "token": "问",
+        "startTime": 33660,
+        "endTime": 33830,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "题",
+        "startTime": 33830,
+        "endTime": 34000,
+        "pinyin": "tí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "一个 葡萄柚 中有 多少 个 原子",
+    "translations": {
+      "en": "How many atoms are in a grapefruit?"
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 34000,
+        "endTime": 34710,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 34710,
+        "endTime": 35420,
+        "pinyin": "gè"
+      },
+      {
+        "token": "葡",
+        "startTime": 35420,
+        "endTime": 35520,
+        "pinyin": "pú"
+      },
+      {
+        "token": "萄",
+        "startTime": 35520,
+        "endTime": 35620,
+        "pinyin": "táo"
+      },
+      {
+        "token": "柚",
+        "startTime": 35620,
+        "endTime": 35720,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "中",
+        "startTime": 35720,
+        "endTime": 35950,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "有",
+        "startTime": 35950,
+        "endTime": 36180,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "多",
+        "startTime": 36180,
+        "endTime": 36300,
+        "pinyin": "duō"
+      },
+      {
+        "token": "少",
+        "startTime": 36300,
+        "endTime": 36420,
+        "pinyin": "shǎo"
+      },
+      {
+        "token": "个",
+        "startTime": 36420,
+        "endTime": 36780,
+        "pinyin": "gè"
+      },
+      {
+        "token": "原",
+        "startTime": 36780,
+        "endTime": 36960,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 36960,
+        "endTime": 37140,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "让 我们 假设 葡萄柚 仅 由 氮 原子 组成",
+    "translations": {
+      "en": "Let's assume the grapefruit is made only of nitrogen atoms,"
+    },
+    "segments": [
+      {
+        "token": "让",
+        "startTime": 37140,
+        "endTime": 37360,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "我",
+        "startTime": 37360,
+        "endTime": 37500,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 37500,
+        "endTime": 37640,
+        "pinyin": "men"
+      },
+      {
+        "token": "假",
+        "startTime": 37640,
+        "endTime": 37970,
+        "pinyin": "jiǎ"
+      },
+      {
+        "token": "设",
+        "startTime": 37970,
+        "endTime": 38300,
+        "pinyin": "shè"
+      },
+      {
+        "token": "葡",
+        "startTime": 38300,
+        "endTime": 38440,
+        "pinyin": "pú"
+      },
+      {
+        "token": "萄",
+        "startTime": 38440,
+        "endTime": 38580,
+        "pinyin": "táo"
+      },
+      {
+        "token": "柚",
+        "startTime": 38580,
+        "endTime": 38720,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "仅",
+        "startTime": 38720,
+        "endTime": 38980,
+        "pinyin": "jǐn"
+      },
+      {
+        "token": "由",
+        "startTime": 38980,
+        "endTime": 39120,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "氮",
+        "startTime": 39120,
+        "endTime": 39980,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "原",
+        "startTime": 39980,
+        "endTime": 40190,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 40190,
+        "endTime": 40400,
+        "pinyin": "zi"
+      },
+      {
+        "token": "组",
+        "startTime": 40400,
+        "endTime": 40490,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "成",
+        "startTime": 40490,
+        "endTime": 40580,
+        "pinyin": "chéng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "虽然 事实 并非如此",
+    "translations": {
+      "en": "which isn't true,"
+    },
+    "segments": [
+      {
+        "token": "虽",
+        "startTime": 40580,
+        "endTime": 40880,
+        "pinyin": "suī"
+      },
+      {
+        "token": "然",
+        "startTime": 40880,
+        "endTime": 41180,
+        "pinyin": "rán"
+      },
+      {
+        "token": "事",
+        "startTime": 41180,
+        "endTime": 41350,
+        "pinyin": "shì"
+      },
+      {
+        "token": "实",
+        "startTime": 41350,
+        "endTime": 41520,
+        "pinyin": "shí"
+      },
+      {
+        "token": "并",
+        "startTime": 41520,
+        "endTime": 41830,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "非",
+        "startTime": 41830,
+        "endTime": 42140,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "如",
+        "startTime": 42140,
+        "endTime": 42450,
+        "pinyin": "rú"
+      },
+      {
+        "token": "此",
+        "startTime": 42450,
+        "endTime": 42760,
+        "pinyin": "cǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 葡萄柚 中 确实 有 氮 原子",
+    "translations": {
+      "en": "but there are nitrogen atoms in a grapefruit."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 42760,
+        "endTime": 42880,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "葡",
+        "startTime": 42880,
+        "endTime": 43020,
+        "pinyin": "pú"
+      },
+      {
+        "token": "萄",
+        "startTime": 43020,
+        "endTime": 43160,
+        "pinyin": "táo"
+      },
+      {
+        "token": "柚",
+        "startTime": 43160,
+        "endTime": 43300,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "中",
+        "startTime": 43300,
+        "endTime": 43440,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "确",
+        "startTime": 43440,
+        "endTime": 43590,
+        "pinyin": "què"
+      },
+      {
+        "token": "实",
+        "startTime": 43590,
+        "endTime": 43740,
+        "pinyin": "shí"
+      },
+      {
+        "token": "有",
+        "startTime": 43740,
+        "endTime": 44420,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "氮",
+        "startTime": 44420,
+        "endTime": 44580,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "原",
+        "startTime": 44580,
+        "endTime": 44660,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 44660,
+        "endTime": 44740,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "为了 形象 地 阐释 这 一点",
+    "translations": {
+      "en": "To visualize this,"
+    },
+    "segments": [
+      {
+        "token": "为",
+        "startTime": 44740,
+        "endTime": 44880,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "了",
+        "startTime": 44880,
+        "endTime": 45020,
+        "pinyin": "le"
+      },
+      {
+        "token": "形",
+        "startTime": 45020,
+        "endTime": 45160,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "象",
+        "startTime": 45160,
+        "endTime": 45300,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "地",
+        "startTime": 45300,
+        "endTime": 45460,
+        "pinyin": "dì"
+      },
+      {
+        "token": "阐",
+        "startTime": 45460,
+        "endTime": 45650,
+        "pinyin": "chǎn"
+      },
+      {
+        "token": "释",
+        "startTime": 45650,
+        "endTime": 45840,
+        "pinyin": "shì"
+      },
+      {
+        "token": "这",
+        "startTime": 45840,
+        "endTime": 46000,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "一",
+        "startTime": 46000,
+        "endTime": 46150,
+        "pinyin": "yì"
+      },
+      {
+        "token": "点",
+        "startTime": 46150,
+        "endTime": 46300,
+        "pinyin": "diǎn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "让 我们 将 每个 原子 想象 成 蓝莓 的 大小",
+    "translations": {
+      "en": "let's imagine each atom is the size of a blueberry."
+    },
+    "segments": [
+      {
+        "token": "让",
+        "startTime": 46300,
+        "endTime": 46440,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "我",
+        "startTime": 46440,
+        "endTime": 47000,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 47000,
+        "endTime": 47560,
+        "pinyin": "men"
+      },
+      {
+        "token": "将",
+        "startTime": 47560,
+        "endTime": 47720,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "每",
+        "startTime": 47720,
+        "endTime": 47890,
+        "pinyin": "měi"
+      },
+      {
+        "token": "个",
+        "startTime": 47890,
+        "endTime": 48060,
+        "pinyin": "gè"
+      },
+      {
+        "token": "原",
+        "startTime": 48060,
+        "endTime": 48210,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 48210,
+        "endTime": 48360,
+        "pinyin": "zi"
+      },
+      {
+        "token": "想",
+        "startTime": 48360,
+        "endTime": 48500,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "象",
+        "startTime": 48500,
+        "endTime": 48640,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "成",
+        "startTime": 48640,
+        "endTime": 48760,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "蓝",
+        "startTime": 48760,
+        "endTime": 49700,
+        "pinyin": "lán"
+      },
+      {
+        "token": "莓",
+        "startTime": 49700,
+        "endTime": 50640,
+        "pinyin": "méi"
+      },
+      {
+        "token": "的",
+        "startTime": 50640,
+        "endTime": 50780,
+        "pinyin": "de"
+      },
+      {
+        "token": "大",
+        "startTime": 50780,
+        "endTime": 50910,
+        "pinyin": "dà"
+      },
+      {
+        "token": "小",
+        "startTime": 50910,
+        "endTime": 51040,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "那么 葡萄柚 会 有 多 大 呢",
+    "translations": {
+      "en": "Then how big would the grapefruit be?"
+    },
+    "segments": [
+      {
+        "token": "那",
+        "startTime": 51040,
+        "endTime": 51210,
+        "pinyin": "nà"
+      },
+      {
+        "token": "么",
+        "startTime": 51210,
+        "endTime": 51380,
+        "pinyin": "me"
+      },
+      {
+        "token": "葡",
+        "startTime": 51380,
+        "endTime": 51533,
+        "pinyin": "pú"
+      },
+      {
+        "token": "萄",
+        "startTime": 51533,
+        "endTime": 51687,
+        "pinyin": "táo"
+      },
+      {
+        "token": "柚",
+        "startTime": 51687,
+        "endTime": 51840,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "会",
+        "startTime": 51840,
+        "endTime": 51980,
+        "pinyin": "huì"
+      },
+      {
+        "token": "有",
+        "startTime": 51980,
+        "endTime": 52180,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "多",
+        "startTime": 52180,
+        "endTime": 54580,
+        "pinyin": "duō"
+      },
+      {
+        "token": "大",
+        "startTime": 54580,
+        "endTime": 54740,
+        "pinyin": "dà"
+      },
+      {
+        "token": "呢",
+        "startTime": 54740,
+        "endTime": 54920,
+        "pinyin": "ne"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 将 相当于 地球 的 大小 相同",
+    "translations": {
+      "en": "It would be the size of the Earth."
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 54920,
+        "endTime": 55100,
+        "pinyin": "tā"
+      },
+      {
+        "token": "将",
+        "startTime": 55100,
+        "endTime": 55380,
+        "pinyin": "jiàng"
+      },
+      {
+        "token": "相",
+        "startTime": 55380,
+        "endTime": 55860,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "当",
+        "startTime": 55860,
+        "endTime": 56340,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "于",
+        "startTime": 56340,
+        "endTime": 56820,
+        "pinyin": "yú"
+      },
+      {
+        "token": "地",
+        "startTime": 56820,
+        "endTime": 56930,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 56930,
+        "endTime": 57040,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "的",
+        "startTime": 57040,
+        "endTime": 57260,
+        "pinyin": "de"
+      },
+      {
+        "token": "大",
+        "startTime": 57260,
+        "endTime": 57390,
+        "pinyin": "dà"
+      },
+      {
+        "token": "小",
+        "startTime": 57390,
+        "endTime": 57520,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "相",
+        "startTime": 57520,
+        "endTime": 57720,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "同",
+        "startTime": 57720,
+        "endTime": 57920,
+        "pinyin": "tóng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 真是太 疯狂 了",
+    "translations": {
+      "en": "That's crazy."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 57920,
+        "endTime": 58100,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "真",
+        "startTime": 58100,
+        "endTime": 58307,
+        "pinyin": "zhēn"
+      },
+      {
+        "token": "是",
+        "startTime": 58307,
+        "endTime": 58513,
+        "pinyin": "shì"
+      },
+      {
+        "token": "太",
+        "startTime": 58513,
+        "endTime": 58720,
+        "pinyin": "tài"
+      },
+      {
+        "token": "疯",
+        "startTime": 58720,
+        "endTime": 58870,
+        "pinyin": "fēng"
+      },
+      {
+        "token": "狂",
+        "startTime": 58870,
+        "endTime": 59020,
+        "pinyin": "kuáng"
+      },
+      {
+        "token": "了",
+        "startTime": 59020,
+        "endTime": 59180,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 我用 蓝莓 填满 地球",
+    "translations": {
+      "en": "If I filled the Earth with blueberries,"
+    },
+    "segments": [
+      {
+        "token": "如",
+        "startTime": 59180,
+        "endTime": 59320,
+        "pinyin": "rú"
+      },
+      {
+        "token": "果",
+        "startTime": 59320,
+        "endTime": 59460,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "我",
+        "startTime": 59460,
+        "endTime": 59600,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "用",
+        "startTime": 59600,
+        "endTime": 59740,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "蓝",
+        "startTime": 59740,
+        "endTime": 59920,
+        "pinyin": "lán"
+      },
+      {
+        "token": "莓",
+        "startTime": 59920,
+        "endTime": 60100,
+        "pinyin": "méi"
+      },
+      {
+        "token": "填",
+        "startTime": 60100,
+        "endTime": 60240,
+        "pinyin": "tián"
+      },
+      {
+        "token": "满",
+        "startTime": 60240,
+        "endTime": 60380,
+        "pinyin": "mǎn"
+      },
+      {
+        "token": "地",
+        "startTime": 60380,
+        "endTime": 60910,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 60910,
+        "endTime": 61440,
+        "pinyin": "qiú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "才 会 达到 葡萄柚 中氮 原子",
+    "translations": {
+      "en": "that would only match the number of nitrogen atoms in a grapefruit."
+    },
+    "segments": [
+      {
+        "token": "才",
+        "startTime": 61440,
+        "endTime": 61653,
+        "pinyin": "cái"
+      },
+      {
+        "token": "会",
+        "startTime": 61653,
+        "endTime": 62851,
+        "pinyin": "huì"
+      },
+      {
+        "token": "达",
+        "startTime": 62851,
+        "endTime": 62977,
+        "pinyin": "dá"
+      },
+      {
+        "token": "到",
+        "startTime": 62977,
+        "endTime": 63103,
+        "pinyin": "dào"
+      },
+      {
+        "token": "葡",
+        "startTime": 63103,
+        "endTime": 63309,
+        "pinyin": "pú"
+      },
+      {
+        "token": "萄",
+        "startTime": 63309,
+        "endTime": 63515,
+        "pinyin": "táo"
+      },
+      {
+        "token": "柚",
+        "startTime": 63515,
+        "endTime": 63722,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "中",
+        "startTime": 63722,
+        "endTime": 63866,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "氮",
+        "startTime": 63866,
+        "endTime": 64011,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "原",
+        "startTime": 64011,
+        "endTime": 64959,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 64959,
+        "endTime": 65906,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "真的 很小",
+    "translations": {
+      "en": "Really small."
+    },
+    "segments": [
+      {
+        "token": "真",
+        "startTime": 65909,
+        "endTime": 66058,
+        "pinyin": "zhēn"
+      },
+      {
+        "token": "的",
+        "startTime": 66058,
+        "endTime": 66208,
+        "pinyin": "de"
+      },
+      {
+        "token": "很",
+        "startTime": 66208,
+        "endTime": 66358,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "小",
+        "startTime": 66358,
+        "endTime": 68260,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 知道 吗",
+    "translations": {
+      "en": "You know what?"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 68260,
+        "endTime": 68367,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "知",
+        "startTime": 68367,
+        "endTime": 68473,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "道",
+        "startTime": 68473,
+        "endTime": 68580,
+        "pinyin": "dào"
+      },
+      {
+        "token": "吗",
+        "startTime": 68580,
+        "endTime": 68580,
+        "pinyin": "ma"
+      }
+    ]
+  },
+  {
+    "sentence_text": "还有 更 疯狂 的 事",
+    "translations": {
+      "en": "There's something even crazier."
+    },
+    "segments": [
+      {
+        "token": "还",
+        "startTime": 68580,
+        "endTime": 68930,
+        "pinyin": "hái"
+      },
+      {
+        "token": "有",
+        "startTime": 68930,
+        "endTime": 69280,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "更",
+        "startTime": 69280,
+        "endTime": 69560,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "疯",
+        "startTime": 69560,
+        "endTime": 69770,
+        "pinyin": "fēng"
+      },
+      {
+        "token": "狂",
+        "startTime": 69770,
+        "endTime": 69980,
+        "pinyin": "kuáng"
+      },
+      {
+        "token": "的",
+        "startTime": 69980,
+        "endTime": 70100,
+        "pinyin": "de"
+      },
+      {
+        "token": "事",
+        "startTime": 70100,
+        "endTime": 70740,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "现在 看看 每个 原子 的 内部",
+    "translations": {
+      "en": "Now look inside each atom."
+    },
+    "segments": [
+      {
+        "token": "现",
+        "startTime": 70740,
+        "endTime": 70890,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "在",
+        "startTime": 70890,
+        "endTime": 71040,
+        "pinyin": "zài"
+      },
+      {
+        "token": "看",
+        "startTime": 71040,
+        "endTime": 71190,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "看",
+        "startTime": 71190,
+        "endTime": 71340,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "每",
+        "startTime": 71340,
+        "endTime": 71500,
+        "pinyin": "měi"
+      },
+      {
+        "token": "个",
+        "startTime": 71500,
+        "endTime": 71660,
+        "pinyin": "gè"
+      },
+      {
+        "token": "原",
+        "startTime": 71660,
+        "endTime": 71800,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 71800,
+        "endTime": 71940,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 71940,
+        "endTime": 72080,
+        "pinyin": "de"
+      },
+      {
+        "token": "内",
+        "startTime": 72080,
+        "endTime": 72080,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "部",
+        "startTime": 72080,
+        "endTime": 72080,
+        "pinyin": "bù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "也 就是 蓝莓 的 内部",
+    "translations": {
+      "en": "That is, inside the blueberry."
+    },
+    "segments": [
+      {
+        "token": "也",
+        "startTime": 72080,
+        "endTime": 72740,
+        "pinyin": "yě"
+      },
+      {
+        "token": "就",
+        "startTime": 72740,
+        "endTime": 72850,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "是",
+        "startTime": 72850,
+        "endTime": 72960,
+        "pinyin": "shì"
+      },
+      {
+        "token": "蓝",
+        "startTime": 72960,
+        "endTime": 73130,
+        "pinyin": "lán"
+      },
+      {
+        "token": "莓",
+        "startTime": 73130,
+        "endTime": 73300,
+        "pinyin": "méi"
+      },
+      {
+        "token": "的",
+        "startTime": 73300,
+        "endTime": 73420,
+        "pinyin": "de"
+      },
+      {
+        "token": "内",
+        "startTime": 73420,
+        "endTime": 73420,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "部",
+        "startTime": 73420,
+        "endTime": 73420,
+        "pinyin": "bù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "好 吧 你 看到 了 什么",
+    "translations": {
+      "en": "Okay, what do you see?"
+    },
+    "segments": [
+      {
+        "token": "好",
+        "startTime": 73420,
+        "endTime": 73843,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "吧",
+        "startTime": 73843,
+        "endTime": 74527,
+        "pinyin": "ba"
+      },
+      {
+        "token": "你",
+        "startTime": 74527,
+        "endTime": 74658,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "看",
+        "startTime": 74658,
+        "endTime": 74658,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "到",
+        "startTime": 74658,
+        "endTime": 74658,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 74658,
+        "endTime": 75407,
+        "pinyin": "le"
+      },
+      {
+        "token": "什",
+        "startTime": 75407,
+        "endTime": 75521,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 75521,
+        "endTime": 75635,
+        "pinyin": "me"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 原子 的 中心 是 一个 叫做 原子核 的 东西",
+    "translations": {
+      "en": "At the center of an atom is something called the nucleus."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 75635,
+        "endTime": 75772,
+        "pinyin": "zài"
+      },
+      {
+        "token": "原",
+        "startTime": 75772,
+        "endTime": 75772,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 75772,
+        "endTime": 75772,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 75772,
+        "endTime": 76535,
+        "pinyin": "de"
+      },
+      {
+        "token": "中",
+        "startTime": 76535,
+        "endTime": 76632,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "心",
+        "startTime": 76632,
+        "endTime": 76730,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "是",
+        "startTime": 76730,
+        "endTime": 76867,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 76867,
+        "endTime": 77024,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 77024,
+        "endTime": 77180,
+        "pinyin": "gè"
+      },
+      {
+        "token": "叫",
+        "startTime": 77180,
+        "endTime": 77386,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "做",
+        "startTime": 77386,
+        "endTime": 77591,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "原",
+        "startTime": 77591,
+        "endTime": 77617,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 77617,
+        "endTime": 77643,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 77643,
+        "endTime": 77669,
+        "pinyin": "hé"
+      },
+      {
+        "token": "的",
+        "startTime": 77669,
+        "endTime": 78374,
+        "pinyin": "de"
+      },
+      {
+        "token": "东",
+        "startTime": 78374,
+        "endTime": 78520,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "西",
+        "startTime": 78520,
+        "endTime": 78667,
+        "pinyin": "xī"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 包含 质子 和 中子",
+    "translations": {
+      "en": "It contains protons and neutrons."
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 78667,
+        "endTime": 78893,
+        "pinyin": "tā"
+      },
+      {
+        "token": "包",
+        "startTime": 78893,
+        "endTime": 79059,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "含",
+        "startTime": 79059,
+        "endTime": 79224,
+        "pinyin": "hán"
+      },
+      {
+        "token": "质",
+        "startTime": 79224,
+        "endTime": 79582,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "子",
+        "startTime": 79582,
+        "endTime": 79941,
+        "pinyin": "zi"
+      },
+      {
+        "token": "和",
+        "startTime": 79941,
+        "endTime": 80130,
+        "pinyin": "hé"
+      },
+      {
+        "token": "中",
+        "startTime": 80130,
+        "endTime": 80271,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "子",
+        "startTime": 80271,
+        "endTime": 80413,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "外面 则 有 电子",
+    "translations": {
+      "en": "Outside, there are electrons."
+    },
+    "segments": [
+      {
+        "token": "外",
+        "startTime": 80413,
+        "endTime": 80576,
+        "pinyin": "wài"
+      },
+      {
+        "token": "面",
+        "startTime": 80576,
+        "endTime": 80740,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "则",
+        "startTime": 80740,
+        "endTime": 81430,
+        "pinyin": "zé"
+      },
+      {
+        "token": "有",
+        "startTime": 81430,
+        "endTime": 81550,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "电",
+        "startTime": 81550,
+        "endTime": 81749,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 81749,
+        "endTime": 81947,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "那么 原子核 有 多 大",
+    "translations": {
+      "en": "So how big is the nucleus?"
+    },
+    "segments": [
+      {
+        "token": "那",
+        "startTime": 81947,
+        "endTime": 82093,
+        "pinyin": "nà"
+      },
+      {
+        "token": "么",
+        "startTime": 82093,
+        "endTime": 82239,
+        "pinyin": "me"
+      },
+      {
+        "token": "原",
+        "startTime": 82239,
+        "endTime": 82537,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 82537,
+        "endTime": 82835,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 82835,
+        "endTime": 83134,
+        "pinyin": "hé"
+      },
+      {
+        "token": "有",
+        "startTime": 83134,
+        "endTime": 83348,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "多",
+        "startTime": 83348,
+        "endTime": 83523,
+        "pinyin": "duō"
+      },
+      {
+        "token": "大",
+        "startTime": 83523,
+        "endTime": 83678,
+        "pinyin": "dà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 将 原子 想象 成 地球 上 的 蓝莓",
+    "translations": {
+      "en": "If you imagine an atom as a blueberry on Earth,"
+    },
+    "segments": [
+      {
+        "token": "如",
+        "startTime": 83678,
+        "endTime": 83876,
+        "pinyin": "rú"
+      },
+      {
+        "token": "果",
+        "startTime": 83876,
+        "endTime": 84073,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "将",
+        "startTime": 84073,
+        "endTime": 84211,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "原",
+        "startTime": 84211,
+        "endTime": 84378,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 84378,
+        "endTime": 84546,
+        "pinyin": "zi"
+      },
+      {
+        "token": "想",
+        "startTime": 84546,
+        "endTime": 84694,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "象",
+        "startTime": 84694,
+        "endTime": 84842,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "成",
+        "startTime": 84842,
+        "endTime": 84940,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "地",
+        "startTime": 84940,
+        "endTime": 85206,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 85206,
+        "endTime": 85472,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "上",
+        "startTime": 85472,
+        "endTime": 85630,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "的",
+        "startTime": 85630,
+        "endTime": 85886,
+        "pinyin": "de"
+      },
+      {
+        "token": "蓝",
+        "startTime": 85886,
+        "endTime": 86074,
+        "pinyin": "lán"
+      },
+      {
+        "token": "莓",
+        "startTime": 86074,
+        "endTime": 86261,
+        "pinyin": "méi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "那么 原子核 会 有 多 大",
+    "translations": {
+      "en": "how big would the nucleus be?"
+    },
+    "segments": [
+      {
+        "token": "那",
+        "startTime": 86261,
+        "endTime": 86386,
+        "pinyin": "nà"
+      },
+      {
+        "token": "么",
+        "startTime": 86386,
+        "endTime": 86511,
+        "pinyin": "me"
+      },
+      {
+        "token": "原",
+        "startTime": 86511,
+        "endTime": 86821,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 86821,
+        "endTime": 87131,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 87131,
+        "endTime": 87441,
+        "pinyin": "hé"
+      },
+      {
+        "token": "会",
+        "startTime": 87441,
+        "endTime": 87566,
+        "pinyin": "huì"
+      },
+      {
+        "token": "有",
+        "startTime": 87566,
+        "endTime": 87709,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "多",
+        "startTime": 87709,
+        "endTime": 87798,
+        "pinyin": "duō"
+      },
+      {
+        "token": "大",
+        "startTime": 87798,
+        "endTime": 87977,
+        "pinyin": "dà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 可能 还 记得 科学课 上 原子 的 图片",
+    "translations": {
+      "en": "You might remember pictures of atoms from science class."
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 87977,
+        "endTime": 88103,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "可",
+        "startTime": 88103,
+        "endTime": 88221,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 88221,
+        "endTime": 88340,
+        "pinyin": "néng"
+      },
+      {
+        "token": "还",
+        "startTime": 88340,
+        "endTime": 88481,
+        "pinyin": "hái"
+      },
+      {
+        "token": "记",
+        "startTime": 88481,
+        "endTime": 88592,
+        "pinyin": "jì"
+      },
+      {
+        "token": "得",
+        "startTime": 88592,
+        "endTime": 88702,
+        "pinyin": "de"
+      },
+      {
+        "token": "科",
+        "startTime": 88702,
+        "endTime": 88944,
+        "pinyin": "kē"
+      },
+      {
+        "token": "学",
+        "startTime": 88944,
+        "endTime": 89185,
+        "pinyin": "xué"
+      },
+      {
+        "token": "课",
+        "startTime": 89185,
+        "endTime": 89427,
+        "pinyin": "kè"
+      },
+      {
+        "token": "上",
+        "startTime": 89427,
+        "endTime": 89553,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "原",
+        "startTime": 89553,
+        "endTime": 89640,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 89640,
+        "endTime": 89727,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 89727,
+        "endTime": 89916,
+        "pinyin": "de"
+      },
+      {
+        "token": "图",
+        "startTime": 89916,
+        "endTime": 90294,
+        "pinyin": "tú"
+      },
+      {
+        "token": "片",
+        "startTime": 90294,
+        "endTime": 90672,
+        "pinyin": "piàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 看到 了 一个 小点",
+    "translations": {
+      "en": "You saw a tiny dot."
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 90672,
+        "endTime": 90798,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "看",
+        "startTime": 90798,
+        "endTime": 90896,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "到",
+        "startTime": 90896,
+        "endTime": 90994,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 90994,
+        "endTime": 91106,
+        "pinyin": "le"
+      },
+      {
+        "token": "一",
+        "startTime": 91106,
+        "endTime": 91385,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 91385,
+        "endTime": 91665,
+        "pinyin": "gè"
+      },
+      {
+        "token": "小",
+        "startTime": 91665,
+        "endTime": 91889,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "点",
+        "startTime": 91889,
+        "endTime": 92112,
+        "pinyin": "diǎn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "箭头 指向 原子核",
+    "translations": {
+      "en": "An arrow pointing to the nucleus."
+    },
+    "segments": [
+      {
+        "token": "箭",
+        "startTime": 92112,
+        "endTime": 92362,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "头",
+        "startTime": 92362,
+        "endTime": 92611,
+        "pinyin": "tóu"
+      },
+      {
+        "token": "指",
+        "startTime": 92611,
+        "endTime": 92611,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "向",
+        "startTime": 92611,
+        "endTime": 92611,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "原",
+        "startTime": 92611,
+        "endTime": 93057,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 93057,
+        "endTime": 93504,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 93504,
+        "endTime": 93950,
+        "pinyin": "hé"
+      }
+    ]
+  },
+  {
+    "sentence_text": "对 就是 那些 图片",
+    "translations": {
+      "en": "Yeah, those pictures."
+    },
+    "segments": [
+      {
+        "token": "对",
+        "startTime": 93950,
+        "endTime": 94313,
+        "pinyin": "duì"
+      },
+      {
+        "token": "就",
+        "startTime": 94313,
+        "endTime": 94565,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "是",
+        "startTime": 94565,
+        "endTime": 94816,
+        "pinyin": "shì"
+      },
+      {
+        "token": "那",
+        "startTime": 94816,
+        "endTime": 95040,
+        "pinyin": "nà"
+      },
+      {
+        "token": "些",
+        "startTime": 95040,
+        "endTime": 95263,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "图",
+        "startTime": 95263,
+        "endTime": 95431,
+        "pinyin": "tú"
+      },
+      {
+        "token": "片",
+        "startTime": 95431,
+        "endTime": 95599,
+        "pinyin": "piàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它们 并 不是 按 比例 绘制 的",
+    "translations": {
+      "en": "They are not drawn to scale."
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 95599,
+        "endTime": 95737,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 95737,
+        "endTime": 95876,
+        "pinyin": "men"
+      },
+      {
+        "token": "并",
+        "startTime": 95876,
+        "endTime": 96098,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "不",
+        "startTime": 96098,
+        "endTime": 96215,
+        "pinyin": "bú"
+      },
+      {
+        "token": "是",
+        "startTime": 96215,
+        "endTime": 96333,
+        "pinyin": "shì"
+      },
+      {
+        "token": "按",
+        "startTime": 96333,
+        "endTime": 96430,
+        "pinyin": "àn"
+      },
+      {
+        "token": "比",
+        "startTime": 96430,
+        "endTime": 96700,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "例",
+        "startTime": 96700,
+        "endTime": 96971,
+        "pinyin": "lì"
+      },
+      {
+        "token": "绘",
+        "startTime": 96971,
+        "endTime": 97088,
+        "pinyin": "huì"
+      },
+      {
+        "token": "制",
+        "startTime": 97088,
+        "endTime": 97206,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "的",
+        "startTime": 97206,
+        "endTime": 97275,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "所以 它们",
+    "translations": {
+      "en": "So they—"
+    },
+    "segments": [
+      {
+        "token": "所",
+        "startTime": 97275,
+        "endTime": 97777,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "以",
+        "startTime": 97777,
+        "endTime": 98280,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "它",
+        "startTime": 98280,
+        "endTime": 99535,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 99535,
+        "endTime": 100790,
+        "pinyin": "men"
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 你 拨开 蓝莓 并 寻找 核",
+    "translations": {
+      "en": "If you peel the blueberry and look for the nucleus,"
+    },
+    "segments": [
+      {
+        "token": "如",
+        "startTime": 100790,
+        "endTime": 100897,
+        "pinyin": "rú"
+      },
+      {
+        "token": "果",
+        "startTime": 100897,
+        "endTime": 101003,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "你",
+        "startTime": 101003,
+        "endTime": 101110,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "拨",
+        "startTime": 101110,
+        "endTime": 101300,
+        "pinyin": "bō"
+      },
+      {
+        "token": "开",
+        "startTime": 101300,
+        "endTime": 101490,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "蓝",
+        "startTime": 101490,
+        "endTime": 101630,
+        "pinyin": "lán"
+      },
+      {
+        "token": "莓",
+        "startTime": 101630,
+        "endTime": 101770,
+        "pinyin": "méi"
+      },
+      {
+        "token": "并",
+        "startTime": 101770,
+        "endTime": 101990,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "寻",
+        "startTime": 101990,
+        "endTime": 102170,
+        "pinyin": "xún"
+      },
+      {
+        "token": "找",
+        "startTime": 102170,
+        "endTime": 102350,
+        "pinyin": "zhǎo"
+      },
+      {
+        "token": "核",
+        "startTime": 102350,
+        "endTime": 103370,
+        "pinyin": "hé"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 知道 吗",
+    "translations": {
+      "en": "You know what?"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 103370,
+        "endTime": 103477,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "知",
+        "startTime": 103477,
+        "endTime": 103583,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "道",
+        "startTime": 103583,
+        "endTime": 103690,
+        "pinyin": "dào"
+      },
+      {
+        "token": "吗",
+        "startTime": 103690,
+        "endTime": 105790,
+        "pinyin": "ma"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 将 看不见 它",
+    "translations": {
+      "en": "You won't see it."
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 105790,
+        "endTime": 105930,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "将",
+        "startTime": 105930,
+        "endTime": 106110,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "看",
+        "startTime": 106110,
+        "endTime": 106303,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "不",
+        "startTime": 106303,
+        "endTime": 106497,
+        "pinyin": "bú"
+      },
+      {
+        "token": "见",
+        "startTime": 106497,
+        "endTime": 106690,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "它",
+        "startTime": 106690,
+        "endTime": 106690,
+        "pinyin": "tā"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 太小 了",
+    "translations": {
+      "en": "It's too small"
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 106690,
+        "endTime": 107430,
+        "pinyin": "tā"
+      },
+      {
+        "token": "太",
+        "startTime": 107430,
+        "endTime": 107730,
+        "pinyin": "tài"
+      },
+      {
+        "token": "小",
+        "startTime": 107730,
+        "endTime": 108030,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "了",
+        "startTime": 108030,
+        "endTime": 108110,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "根本 看不到",
+    "translations": {
+      "en": "You can't see it at all"
+    },
+    "segments": [
+      {
+        "token": "根",
+        "startTime": 108110,
+        "endTime": 108470,
+        "pinyin": "gēn"
+      },
+      {
+        "token": "本",
+        "startTime": 108470,
+        "endTime": 108830,
+        "pinyin": "běn"
+      },
+      {
+        "token": "看",
+        "startTime": 108830,
+        "endTime": 109390,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "不",
+        "startTime": 109390,
+        "endTime": 109950,
+        "pinyin": "bú"
+      },
+      {
+        "token": "到",
+        "startTime": 109950,
+        "endTime": 110510,
+        "pinyin": "dào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "好 的",
+    "translations": {
+      "en": "Okay"
+    },
+    "segments": [
+      {
+        "token": "好",
+        "startTime": 110510,
+        "endTime": 111910,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 111910,
+        "endTime": 112070,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "让 我们 把 原子 也 就是 之前 的 蓝莓 想象 成 一栋 房子 那么 大",
+    "translations": {
+      "en": "Let's imagine an atom—the blueberry from before—as big as a house"
+    },
+    "segments": [
+      {
+        "token": "让",
+        "startTime": 112070,
+        "endTime": 112270,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "我",
+        "startTime": 112270,
+        "endTime": 112450,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 112450,
+        "endTime": 112630,
+        "pinyin": "men"
+      },
+      {
+        "token": "把",
+        "startTime": 112630,
+        "endTime": 113130,
+        "pinyin": "bǎ"
+      },
+      {
+        "token": "原",
+        "startTime": 113130,
+        "endTime": 113310,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 113310,
+        "endTime": 113490,
+        "pinyin": "zi"
+      },
+      {
+        "token": "也",
+        "startTime": 113490,
+        "endTime": 113790,
+        "pinyin": "yě"
+      },
+      {
+        "token": "就",
+        "startTime": 113790,
+        "endTime": 113950,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "是",
+        "startTime": 113950,
+        "endTime": 114110,
+        "pinyin": "shì"
+      },
+      {
+        "token": "之",
+        "startTime": 114110,
+        "endTime": 114440,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "前",
+        "startTime": 114440,
+        "endTime": 114770,
+        "pinyin": "qián"
+      },
+      {
+        "token": "的",
+        "startTime": 114770,
+        "endTime": 114910,
+        "pinyin": "de"
+      },
+      {
+        "token": "蓝",
+        "startTime": 114910,
+        "endTime": 115080,
+        "pinyin": "lán"
+      },
+      {
+        "token": "莓",
+        "startTime": 115080,
+        "endTime": 115250,
+        "pinyin": "méi"
+      },
+      {
+        "token": "想",
+        "startTime": 115250,
+        "endTime": 115400,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "象",
+        "startTime": 115400,
+        "endTime": 115550,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "成",
+        "startTime": 115550,
+        "endTime": 115730,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "一",
+        "startTime": 115730,
+        "endTime": 115810,
+        "pinyin": "yī"
+      },
+      {
+        "token": "栋",
+        "startTime": 115810,
+        "endTime": 115890,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "房",
+        "startTime": 115890,
+        "endTime": 116270,
+        "pinyin": "fáng"
+      },
+      {
+        "token": "子",
+        "startTime": 116270,
+        "endTime": 116650,
+        "pinyin": "zi"
+      },
+      {
+        "token": "那",
+        "startTime": 116650,
+        "endTime": 116840,
+        "pinyin": "nà"
+      },
+      {
+        "token": "么",
+        "startTime": 116840,
+        "endTime": 117030,
+        "pinyin": "me"
+      },
+      {
+        "token": "大",
+        "startTime": 117030,
+        "endTime": 117290,
+        "pinyin": "dà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "想象 一个 两层楼 高 的 球",
+    "translations": {
+      "en": "Picture a ball two stories high"
+    },
+    "segments": [
+      {
+        "token": "想",
+        "startTime": 117290,
+        "endTime": 117420,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "象",
+        "startTime": 117420,
+        "endTime": 117550,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "一",
+        "startTime": 117550,
+        "endTime": 117700,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 117700,
+        "endTime": 117850,
+        "pinyin": "gè"
+      },
+      {
+        "token": "两",
+        "startTime": 117850,
+        "endTime": 118263,
+        "pinyin": "liǎng"
+      },
+      {
+        "token": "层",
+        "startTime": 118263,
+        "endTime": 118677,
+        "pinyin": "céng"
+      },
+      {
+        "token": "楼",
+        "startTime": 118677,
+        "endTime": 119090,
+        "pinyin": "lóu"
+      },
+      {
+        "token": "高",
+        "startTime": 119090,
+        "endTime": 119210,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "的",
+        "startTime": 119210,
+        "endTime": 119410,
+        "pinyin": "de"
+      },
+      {
+        "token": "球",
+        "startTime": 119410,
+        "endTime": 119550,
+        "pinyin": "qiú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "让 我们 在 原子 的 中心",
+    "translations": {
+      "en": "Let's go to the center of the atom"
+    },
+    "segments": [
+      {
+        "token": "让",
+        "startTime": 119550,
+        "endTime": 119670,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "我",
+        "startTime": 119670,
+        "endTime": 119850,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 119850,
+        "endTime": 120030,
+        "pinyin": "men"
+      },
+      {
+        "token": "在",
+        "startTime": 120030,
+        "endTime": 120410,
+        "pinyin": "zài"
+      },
+      {
+        "token": "原",
+        "startTime": 120410,
+        "endTime": 120600,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 120600,
+        "endTime": 120790,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 120790,
+        "endTime": 120970,
+        "pinyin": "de"
+      },
+      {
+        "token": "中",
+        "startTime": 120970,
+        "endTime": 121550,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "心",
+        "startTime": 121550,
+        "endTime": 122130,
+        "pinyin": "xīn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 知道 吗",
+    "translations": {
+      "en": "You know what?"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 122130,
+        "endTime": 122217,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "知",
+        "startTime": 122217,
+        "endTime": 122303,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "道",
+        "startTime": 122303,
+        "endTime": 122390,
+        "pinyin": "dào"
+      },
+      {
+        "token": "吗",
+        "startTime": 122390,
+        "endTime": 122390,
+        "pinyin": "ma"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 几乎 看不见",
+    "translations": {
+      "en": "It's almost invisible"
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 122390,
+        "endTime": 122970,
+        "pinyin": "tā"
+      },
+      {
+        "token": "几",
+        "startTime": 122970,
+        "endTime": 123200,
+        "pinyin": "jī"
+      },
+      {
+        "token": "乎",
+        "startTime": 123200,
+        "endTime": 123430,
+        "pinyin": "hū"
+      },
+      {
+        "token": "看",
+        "startTime": 123430,
+        "endTime": 123983,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "不",
+        "startTime": 123983,
+        "endTime": 124537,
+        "pinyin": "bú"
+      },
+      {
+        "token": "见",
+        "startTime": 124537,
+        "endTime": 125090,
+        "pinyin": "jiàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "因此 为了 帮助 我们 想象 原子核 有 多 大",
+    "translations": {
+      "en": "So to help us picture how big the nucleus is"
+    },
+    "segments": [
+      {
+        "token": "因",
+        "startTime": 125090,
+        "endTime": 125090,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "此",
+        "startTime": 125090,
+        "endTime": 125090,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "为",
+        "startTime": 125090,
+        "endTime": 125520,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "了",
+        "startTime": 125520,
+        "endTime": 125950,
+        "pinyin": "le"
+      },
+      {
+        "token": "帮",
+        "startTime": 125950,
+        "endTime": 126070,
+        "pinyin": "bāng"
+      },
+      {
+        "token": "助",
+        "startTime": 126070,
+        "endTime": 126190,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "我",
+        "startTime": 126190,
+        "endTime": 126280,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 126280,
+        "endTime": 126370,
+        "pinyin": "men"
+      },
+      {
+        "token": "想",
+        "startTime": 126370,
+        "endTime": 126540,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "象",
+        "startTime": 126540,
+        "endTime": 126710,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "原",
+        "startTime": 126710,
+        "endTime": 126897,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 126897,
+        "endTime": 127083,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 127083,
+        "endTime": 127270,
+        "pinyin": "hé"
+      },
+      {
+        "token": "有",
+        "startTime": 127270,
+        "endTime": 127430,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "多",
+        "startTime": 127430,
+        "endTime": 127550,
+        "pinyin": "duō"
+      },
+      {
+        "token": "大",
+        "startTime": 127550,
+        "endTime": 127550,
+        "pinyin": "dà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 需要 将 原子 放大 到 一座 足球场 的 大小",
+    "translations": {
+      "en": "We need to scale the atom up to the size of a football stadium"
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 127550,
+        "endTime": 128030,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 128030,
+        "endTime": 128510,
+        "pinyin": "men"
+      },
+      {
+        "token": "需",
+        "startTime": 128510,
+        "endTime": 128600,
+        "pinyin": "xū"
+      },
+      {
+        "token": "要",
+        "startTime": 128600,
+        "endTime": 128690,
+        "pinyin": "yào"
+      },
+      {
+        "token": "将",
+        "startTime": 128690,
+        "endTime": 128850,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "原",
+        "startTime": 128850,
+        "endTime": 129100,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 129100,
+        "endTime": 129350,
+        "pinyin": "zi"
+      },
+      {
+        "token": "放",
+        "startTime": 129350,
+        "endTime": 129550,
+        "pinyin": "fàng"
+      },
+      {
+        "token": "大",
+        "startTime": 129550,
+        "endTime": 129750,
+        "pinyin": "dà"
+      },
+      {
+        "token": "到",
+        "startTime": 129750,
+        "endTime": 129910,
+        "pinyin": "dào"
+      },
+      {
+        "token": "一",
+        "startTime": 129910,
+        "endTime": 130020,
+        "pinyin": "yī"
+      },
+      {
+        "token": "座",
+        "startTime": 130020,
+        "endTime": 130130,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "足",
+        "startTime": 130130,
+        "endTime": 130290,
+        "pinyin": "zú"
+      },
+      {
+        "token": "球",
+        "startTime": 130290,
+        "endTime": 130450,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "场",
+        "startTime": 130450,
+        "endTime": 130610,
+        "pinyin": "chǎng"
+      },
+      {
+        "token": "的",
+        "startTime": 130610,
+        "endTime": 130770,
+        "pinyin": "de"
+      },
+      {
+        "token": "大",
+        "startTime": 130770,
+        "endTime": 131370,
+        "pinyin": "dà"
+      },
+      {
+        "token": "小",
+        "startTime": 131370,
+        "endTime": 131970,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "想象 一个 足球场 的 大小",
+    "translations": {
+      "en": "Imagine a football stadium"
+    },
+    "segments": [
+      {
+        "token": "想",
+        "startTime": 131970,
+        "endTime": 132180,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "象",
+        "startTime": 132180,
+        "endTime": 132390,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "一",
+        "startTime": 132390,
+        "endTime": 132520,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 132520,
+        "endTime": 132650,
+        "pinyin": "gè"
+      },
+      {
+        "token": "足",
+        "startTime": 132650,
+        "endTime": 132823,
+        "pinyin": "zú"
+      },
+      {
+        "token": "球",
+        "startTime": 132823,
+        "endTime": 132997,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "场",
+        "startTime": 132997,
+        "endTime": 133170,
+        "pinyin": "chǎng"
+      },
+      {
+        "token": "的",
+        "startTime": 133170,
+        "endTime": 133310,
+        "pinyin": "de"
+      },
+      {
+        "token": "大",
+        "startTime": 133310,
+        "endTime": 133910,
+        "pinyin": "dà"
+      },
+      {
+        "token": "小",
+        "startTime": 133910,
+        "endTime": 134510,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 会 在 原子 的 中心 找到 原子核",
+    "translations": {
+      "en": "You'll find the nucleus at the center of the atom"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 134510,
+        "endTime": 134590,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "会",
+        "startTime": 134590,
+        "endTime": 134730,
+        "pinyin": "huì"
+      },
+      {
+        "token": "在",
+        "startTime": 134730,
+        "endTime": 134890,
+        "pinyin": "zài"
+      },
+      {
+        "token": "原",
+        "startTime": 134890,
+        "endTime": 135100,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 135100,
+        "endTime": 135310,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 135310,
+        "endTime": 135470,
+        "pinyin": "de"
+      },
+      {
+        "token": "中",
+        "startTime": 135470,
+        "endTime": 135650,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "心",
+        "startTime": 135650,
+        "endTime": 135830,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "找",
+        "startTime": 135830,
+        "endTime": 136150,
+        "pinyin": "zhǎo"
+      },
+      {
+        "token": "到",
+        "startTime": 136150,
+        "endTime": 136470,
+        "pinyin": "dào"
+      },
+      {
+        "token": "原",
+        "startTime": 136470,
+        "endTime": 137270,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 137270,
+        "endTime": 138070,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 138070,
+        "endTime": 138870,
+        "pinyin": "hé"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 可以 看到 它",
+    "translations": {
+      "en": "You can see it"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 138870,
+        "endTime": 138957,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "可",
+        "startTime": 138957,
+        "endTime": 139043,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 139043,
+        "endTime": 139130,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "看",
+        "startTime": 139130,
+        "endTime": 139390,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "到",
+        "startTime": 139390,
+        "endTime": 139650,
+        "pinyin": "dào"
+      },
+      {
+        "token": "它",
+        "startTime": 139650,
+        "endTime": 140830,
+        "pinyin": "tā"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 将 相当于 一小块 大理石 的 大小",
+    "translations": {
+      "en": "It would be about the size of a small marble"
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 140830,
+        "endTime": 140950,
+        "pinyin": "tā"
+      },
+      {
+        "token": "将",
+        "startTime": 140950,
+        "endTime": 141110,
+        "pinyin": "jiàng"
+      },
+      {
+        "token": "相",
+        "startTime": 141110,
+        "endTime": 141270,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "当",
+        "startTime": 141270,
+        "endTime": 141430,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "于",
+        "startTime": 141430,
+        "endTime": 141590,
+        "pinyin": "yú"
+      },
+      {
+        "token": "一",
+        "startTime": 141590,
+        "endTime": 141763,
+        "pinyin": "yī"
+      },
+      {
+        "token": "小",
+        "startTime": 141763,
+        "endTime": 141937,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "块",
+        "startTime": 141937,
+        "endTime": 142110,
+        "pinyin": "kuài"
+      },
+      {
+        "token": "大",
+        "startTime": 142110,
+        "endTime": 142297,
+        "pinyin": "dà"
+      },
+      {
+        "token": "理",
+        "startTime": 142297,
+        "endTime": 142483,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "石",
+        "startTime": 142483,
+        "endTime": 142670,
+        "pinyin": "shí"
+      },
+      {
+        "token": "的",
+        "startTime": 142670,
+        "endTime": 142810,
+        "pinyin": "de"
+      },
+      {
+        "token": "大",
+        "startTime": 142810,
+        "endTime": 143560,
+        "pinyin": "dà"
+      },
+      {
+        "token": "小",
+        "startTime": 143560,
+        "endTime": 144310,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "不仅如此",
+    "translations": {
+      "en": "Not only that"
+    },
+    "segments": [
+      {
+        "token": "不",
+        "startTime": 144310,
+        "endTime": 144355,
+        "pinyin": "bù"
+      },
+      {
+        "token": "仅",
+        "startTime": 144355,
+        "endTime": 144400,
+        "pinyin": "jǐn"
+      },
+      {
+        "token": "如",
+        "startTime": 144400,
+        "endTime": 144445,
+        "pinyin": "rú"
+      },
+      {
+        "token": "此",
+        "startTime": 144445,
+        "endTime": 144490,
+        "pinyin": "cǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 我 现在 还 没有 让 你 大吃一惊 的话",
+    "translations": {
+      "en": "If I haven't blown your mind yet"
+    },
+    "segments": [
+      {
+        "token": "如",
+        "startTime": 144490,
+        "endTime": 144970,
+        "pinyin": "rú"
+      },
+      {
+        "token": "果",
+        "startTime": 144970,
+        "endTime": 145450,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "我",
+        "startTime": 145450,
+        "endTime": 145650,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "现",
+        "startTime": 145650,
+        "endTime": 145780,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "在",
+        "startTime": 145780,
+        "endTime": 145910,
+        "pinyin": "zài"
+      },
+      {
+        "token": "还",
+        "startTime": 145910,
+        "endTime": 146190,
+        "pinyin": "hái"
+      },
+      {
+        "token": "没",
+        "startTime": 146190,
+        "endTime": 146310,
+        "pinyin": "méi"
+      },
+      {
+        "token": "有",
+        "startTime": 146310,
+        "endTime": 146430,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "让",
+        "startTime": 146430,
+        "endTime": 146610,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "你",
+        "startTime": 146610,
+        "endTime": 146730,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "大",
+        "startTime": 146730,
+        "endTime": 146850,
+        "pinyin": "dà"
+      },
+      {
+        "token": "吃",
+        "startTime": 146850,
+        "endTime": 146970,
+        "pinyin": "chī"
+      },
+      {
+        "token": "一",
+        "startTime": 146970,
+        "endTime": 147090,
+        "pinyin": "yī"
+      },
+      {
+        "token": "惊",
+        "startTime": 147090,
+        "endTime": 147210,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "的",
+        "startTime": 147210,
+        "endTime": 147270,
+        "pinyin": "de"
+      },
+      {
+        "token": "话",
+        "startTime": 147270,
+        "endTime": 147330,
+        "pinyin": "huà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "让 我们 再 考虑一下 原子",
+    "translations": {
+      "en": "Let's think about the atom again"
+    },
+    "segments": [
+      {
+        "token": "让",
+        "startTime": 147330,
+        "endTime": 147850,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "我",
+        "startTime": 147850,
+        "endTime": 147940,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 147940,
+        "endTime": 148030,
+        "pinyin": "men"
+      },
+      {
+        "token": "再",
+        "startTime": 148030,
+        "endTime": 148190,
+        "pinyin": "zài"
+      },
+      {
+        "token": "考",
+        "startTime": 148190,
+        "endTime": 148310,
+        "pinyin": "kǎo"
+      },
+      {
+        "token": "虑",
+        "startTime": 148310,
+        "endTime": 148430,
+        "pinyin": "lǜ"
+      },
+      {
+        "token": "一",
+        "startTime": 148430,
+        "endTime": 148550,
+        "pinyin": "yī"
+      },
+      {
+        "token": "下",
+        "startTime": 148550,
+        "endTime": 148670,
+        "pinyin": "xià"
+      },
+      {
+        "token": "原",
+        "startTime": 148670,
+        "endTime": 148670,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 148670,
+        "endTime": 148670,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 包含 质子 、 中子 和 电子",
+    "translations": {
+      "en": "It contains protons, neutrons, and electrons"
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 148670,
+        "endTime": 149390,
+        "pinyin": "tā"
+      },
+      {
+        "token": "包",
+        "startTime": 149390,
+        "endTime": 149540,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "含",
+        "startTime": 149540,
+        "endTime": 149690,
+        "pinyin": "hán"
+      },
+      {
+        "token": "质",
+        "startTime": 149690,
+        "endTime": 150080,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "子",
+        "startTime": 150080,
+        "endTime": 150470,
+        "pinyin": "zi"
+      },
+      {
+        "token": "、",
+        "startTime": 150470,
+        "endTime": 150590,
+        "pinyin": "、"
+      },
+      {
+        "token": "中",
+        "startTime": 150590,
+        "endTime": 150810,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "子",
+        "startTime": 150810,
+        "endTime": 151030,
+        "pinyin": "zi"
+      },
+      {
+        "token": "和",
+        "startTime": 151030,
+        "endTime": 151230,
+        "pinyin": "hé"
+      },
+      {
+        "token": "电",
+        "startTime": 151230,
+        "endTime": 151500,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 151500,
+        "endTime": 151770,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "质子 和 中子 不于 原子核 内部",
+    "translations": {
+      "en": "Protons and neutrons are inside the nucleus"
+    },
+    "segments": [
+      {
+        "token": "质",
+        "startTime": 151770,
+        "endTime": 151930,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "子",
+        "startTime": 151930,
+        "endTime": 152090,
+        "pinyin": "zi"
+      },
+      {
+        "token": "和",
+        "startTime": 152090,
+        "endTime": 152250,
+        "pinyin": "hé"
+      },
+      {
+        "token": "中",
+        "startTime": 152250,
+        "endTime": 152400,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "子",
+        "startTime": 152400,
+        "endTime": 152550,
+        "pinyin": "zi"
+      },
+      {
+        "token": "不",
+        "startTime": 152550,
+        "endTime": 152690,
+        "pinyin": "bù"
+      },
+      {
+        "token": "于",
+        "startTime": 152690,
+        "endTime": 152830,
+        "pinyin": "yú"
+      },
+      {
+        "token": "原",
+        "startTime": 152830,
+        "endTime": 152997,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 152997,
+        "endTime": 153163,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 153163,
+        "endTime": 153330,
+        "pinyin": "hé"
+      },
+      {
+        "token": "内",
+        "startTime": 153330,
+        "endTime": 153580,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "部",
+        "startTime": 153580,
+        "endTime": 153830,
+        "pinyin": "bù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "几乎 包含 了 原子 的 所有 质量",
+    "translations": {
+      "en": "It contains almost all the mass of the atom"
+    },
+    "segments": [
+      {
+        "token": "几",
+        "startTime": 153830,
+        "endTime": 154000,
+        "pinyin": "jī"
+      },
+      {
+        "token": "乎",
+        "startTime": 154000,
+        "endTime": 154170,
+        "pinyin": "hū"
+      },
+      {
+        "token": "包",
+        "startTime": 154170,
+        "endTime": 154320,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "含",
+        "startTime": 154320,
+        "endTime": 154470,
+        "pinyin": "hán"
+      },
+      {
+        "token": "了",
+        "startTime": 154470,
+        "endTime": 154590,
+        "pinyin": "le"
+      },
+      {
+        "token": "原",
+        "startTime": 154590,
+        "endTime": 154710,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 154710,
+        "endTime": 154830,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 154830,
+        "endTime": 155230,
+        "pinyin": "de"
+      },
+      {
+        "token": "所",
+        "startTime": 155230,
+        "endTime": 155630,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "有",
+        "startTime": 155630,
+        "endTime": 156030,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "质",
+        "startTime": 156030,
+        "endTime": 156210,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "量",
+        "startTime": 156210,
+        "endTime": 156390,
+        "pinyin": "liàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "其 边缘 是 电子",
+    "translations": {
+      "en": "Its edges are electrons."
+    },
+    "segments": [
+      {
+        "token": "其",
+        "startTime": 156390,
+        "endTime": 156550,
+        "pinyin": "qí"
+      },
+      {
+        "token": "边",
+        "startTime": 156550,
+        "endTime": 156740,
+        "pinyin": "biān"
+      },
+      {
+        "token": "缘",
+        "startTime": 156740,
+        "endTime": 156930,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "是",
+        "startTime": 156930,
+        "endTime": 157850,
+        "pinyin": "shì"
+      },
+      {
+        "token": "电",
+        "startTime": 157850,
+        "endTime": 157960,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 157960,
+        "endTime": 158070,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 将 原子 想象 成 一个 足球场 大小 的 球",
+    "translations": {
+      "en": "If you imagine an atom as a ball the size of a football stadium,"
+    },
+    "segments": [
+      {
+        "token": "如",
+        "startTime": 158070,
+        "endTime": 158240,
+        "pinyin": "rú"
+      },
+      {
+        "token": "果",
+        "startTime": 158240,
+        "endTime": 158410,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "将",
+        "startTime": 158410,
+        "endTime": 158570,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "原",
+        "startTime": 158570,
+        "endTime": 158770,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 158770,
+        "endTime": 158970,
+        "pinyin": "zi"
+      },
+      {
+        "token": "想",
+        "startTime": 158970,
+        "endTime": 159150,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "象",
+        "startTime": 159150,
+        "endTime": 159330,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "成",
+        "startTime": 159330,
+        "endTime": 159530,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "一",
+        "startTime": 159530,
+        "endTime": 159650,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 159650,
+        "endTime": 159770,
+        "pinyin": "gè"
+      },
+      {
+        "token": "足",
+        "startTime": 159770,
+        "endTime": 159933,
+        "pinyin": "zú"
+      },
+      {
+        "token": "球",
+        "startTime": 159933,
+        "endTime": 160097,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "场",
+        "startTime": 160097,
+        "endTime": 160260,
+        "pinyin": "chǎng"
+      },
+      {
+        "token": "大",
+        "startTime": 160260,
+        "endTime": 160650,
+        "pinyin": "dà"
+      },
+      {
+        "token": "小",
+        "startTime": 160650,
+        "endTime": 161040,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 161040,
+        "endTime": 161260,
+        "pinyin": "de"
+      },
+      {
+        "token": "球",
+        "startTime": 161260,
+        "endTime": 161420,
+        "pinyin": "qiú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "中心 是 原子核 , 边缘 是 电子",
+    "translations": {
+      "en": "the center is the nucleus, the edges are electrons."
+    },
+    "segments": [
+      {
+        "token": "中",
+        "startTime": 161420,
+        "endTime": 161580,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "心",
+        "startTime": 161580,
+        "endTime": 161740,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "是",
+        "startTime": 161740,
+        "endTime": 162040,
+        "pinyin": "shì"
+      },
+      {
+        "token": "原",
+        "startTime": 162040,
+        "endTime": 162267,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 162267,
+        "endTime": 162493,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 162493,
+        "endTime": 162720,
+        "pinyin": "hé"
+      },
+      {
+        "token": ",",
+        "startTime": 162720,
+        "endTime": 162900,
+        "pinyin": ","
+      },
+      {
+        "token": "边",
+        "startTime": 162900,
+        "endTime": 163340,
+        "pinyin": "biān"
+      },
+      {
+        "token": "缘",
+        "startTime": 163340,
+        "endTime": 163780,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "是",
+        "startTime": 163780,
+        "endTime": 163920,
+        "pinyin": "shì"
+      },
+      {
+        "token": "电",
+        "startTime": 163920,
+        "endTime": 164110,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 164110,
+        "endTime": 164300,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "那么 原子核 和 什么 ?",
+    "translations": {
+      "en": "Then what about the nucleus?"
+    },
+    "segments": [
+      {
+        "token": "那",
+        "startTime": 164300,
+        "endTime": 164490,
+        "pinyin": "nà"
+      },
+      {
+        "token": "么",
+        "startTime": 164490,
+        "endTime": 164680,
+        "pinyin": "me"
+      },
+      {
+        "token": "原",
+        "startTime": 164680,
+        "endTime": 164840,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 164840,
+        "endTime": 165000,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 165000,
+        "endTime": 165160,
+        "pinyin": "hé"
+      },
+      {
+        "token": "和",
+        "startTime": 165160,
+        "endTime": 165500,
+        "pinyin": "hé"
+      },
+      {
+        "token": "什",
+        "startTime": 165500,
+        "endTime": 165907,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 165907,
+        "endTime": 166313,
+        "pinyin": "me"
+      },
+      {
+        "token": "?",
+        "startTime": 166313,
+        "endTime": 166720,
+        "pinyin": "?"
+      }
+    ]
+  },
+  {
+    "sentence_text": "令人 惊讶 的 是 , 答案 是 空白",
+    "translations": {
+      "en": "Surprisingly, the answer is empty space."
+    },
+    "segments": [
+      {
+        "token": "令",
+        "startTime": 166720,
+        "endTime": 166850,
+        "pinyin": "lìng"
+      },
+      {
+        "token": "人",
+        "startTime": 166850,
+        "endTime": 166980,
+        "pinyin": "rén"
+      },
+      {
+        "token": "惊",
+        "startTime": 166980,
+        "endTime": 167100,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "讶",
+        "startTime": 167100,
+        "endTime": 167220,
+        "pinyin": "yà"
+      },
+      {
+        "token": "的",
+        "startTime": 167220,
+        "endTime": 167493,
+        "pinyin": "de"
+      },
+      {
+        "token": "是",
+        "startTime": 167493,
+        "endTime": 167767,
+        "pinyin": "shì"
+      },
+      {
+        "token": ",",
+        "startTime": 167767,
+        "endTime": 168040,
+        "pinyin": ","
+      },
+      {
+        "token": "答",
+        "startTime": 168040,
+        "endTime": 168200,
+        "pinyin": "dá"
+      },
+      {
+        "token": "案",
+        "startTime": 168200,
+        "endTime": 168360,
+        "pinyin": "àn"
+      },
+      {
+        "token": "是",
+        "startTime": 168360,
+        "endTime": 168560,
+        "pinyin": "shì"
+      },
+      {
+        "token": "空",
+        "startTime": 168560,
+        "endTime": 170850,
+        "pinyin": "kòng"
+      },
+      {
+        "token": "白",
+        "startTime": 170850,
+        "endTime": 173140,
+        "pinyin": "bái"
+      }
+    ]
+  },
+  {
+    "sentence_text": "没错 , 它 是 空 的",
+    "translations": {
+      "en": "That's right, it's empty."
+    },
+    "segments": [
+      {
+        "token": "没",
+        "startTime": 173140,
+        "endTime": 173470,
+        "pinyin": "méi"
+      },
+      {
+        "token": "错",
+        "startTime": 173470,
+        "endTime": 173800,
+        "pinyin": "cuò"
+      },
+      {
+        "token": ",",
+        "startTime": 173800,
+        "endTime": 173920,
+        "pinyin": ","
+      },
+      {
+        "token": "它",
+        "startTime": 173920,
+        "endTime": 174100,
+        "pinyin": "tā"
+      },
+      {
+        "token": "是",
+        "startTime": 174100,
+        "endTime": 174280,
+        "pinyin": "shì"
+      },
+      {
+        "token": "空",
+        "startTime": 174280,
+        "endTime": 175140,
+        "pinyin": "kōng"
+      },
+      {
+        "token": "的",
+        "startTime": 175140,
+        "endTime": 175300,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 原子核 和 电子 之间 有 大量 空白 区域",
+    "translations": {
+      "en": "There is a vast empty area between the nucleus and the electrons."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 175300,
+        "endTime": 175500,
+        "pinyin": "zài"
+      },
+      {
+        "token": "原",
+        "startTime": 175500,
+        "endTime": 175660,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 175660,
+        "endTime": 175820,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 175820,
+        "endTime": 175980,
+        "pinyin": "hé"
+      },
+      {
+        "token": "和",
+        "startTime": 175980,
+        "endTime": 176180,
+        "pinyin": "hé"
+      },
+      {
+        "token": "电",
+        "startTime": 176180,
+        "endTime": 176350,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 176350,
+        "endTime": 176520,
+        "pinyin": "zi"
+      },
+      {
+        "token": "之",
+        "startTime": 176520,
+        "endTime": 176740,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 176740,
+        "endTime": 176960,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "有",
+        "startTime": 176960,
+        "endTime": 177200,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "大",
+        "startTime": 177200,
+        "endTime": 177410,
+        "pinyin": "dà"
+      },
+      {
+        "token": "量",
+        "startTime": 177410,
+        "endTime": 177620,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "空",
+        "startTime": 177620,
+        "endTime": 177870,
+        "pinyin": "kòng"
+      },
+      {
+        "token": "白",
+        "startTime": 177870,
+        "endTime": 178120,
+        "pinyin": "bái"
+      },
+      {
+        "token": "区",
+        "startTime": 178120,
+        "endTime": 178660,
+        "pinyin": "qū"
+      },
+      {
+        "token": "域",
+        "startTime": 178660,
+        "endTime": 179200,
+        "pinyin": "yù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "从 技术 角度 来看 , 其中 有 一些 电磁场",
+    "translations": {
+      "en": "Technically, there are some electromagnetic fields in it,"
+    },
+    "segments": [
+      {
+        "token": "从",
+        "startTime": 179200,
+        "endTime": 179400,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "技",
+        "startTime": 179400,
+        "endTime": 179520,
+        "pinyin": "jì"
+      },
+      {
+        "token": "术",
+        "startTime": 179520,
+        "endTime": 179640,
+        "pinyin": "shù"
+      },
+      {
+        "token": "角",
+        "startTime": 179640,
+        "endTime": 179790,
+        "pinyin": "jiǎo"
+      },
+      {
+        "token": "度",
+        "startTime": 179790,
+        "endTime": 179940,
+        "pinyin": "dù"
+      },
+      {
+        "token": "来",
+        "startTime": 179940,
+        "endTime": 180210,
+        "pinyin": "lái"
+      },
+      {
+        "token": "看",
+        "startTime": 180210,
+        "endTime": 180480,
+        "pinyin": "kàn"
+      },
+      {
+        "token": ",",
+        "startTime": 180480,
+        "endTime": 180620,
+        "pinyin": ","
+      },
+      {
+        "token": "其",
+        "startTime": 180620,
+        "endTime": 180810,
+        "pinyin": "qí"
+      },
+      {
+        "token": "中",
+        "startTime": 180810,
+        "endTime": 181000,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "有",
+        "startTime": 181000,
+        "endTime": 181140,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "一",
+        "startTime": 181140,
+        "endTime": 181340,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 181340,
+        "endTime": 181540,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "电",
+        "startTime": 181540,
+        "endTime": 181820,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "磁",
+        "startTime": 181820,
+        "endTime": 182100,
+        "pinyin": "cí"
+      },
+      {
+        "token": "场",
+        "startTime": 182100,
+        "endTime": 182380,
+        "pinyin": "chǎng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 就 物质 而言 , 它 是 空 的",
+    "translations": {
+      "en": "but in terms of matter, it's empty."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 182380,
+        "endTime": 182580,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "就",
+        "startTime": 182580,
+        "endTime": 182700,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "物",
+        "startTime": 182700,
+        "endTime": 182980,
+        "pinyin": "wù"
+      },
+      {
+        "token": "质",
+        "startTime": 182980,
+        "endTime": 183260,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "而",
+        "startTime": 183260,
+        "endTime": 183390,
+        "pinyin": "ér"
+      },
+      {
+        "token": "言",
+        "startTime": 183390,
+        "endTime": 183520,
+        "pinyin": "yán"
+      },
+      {
+        "token": ",",
+        "startTime": 183520,
+        "endTime": 183680,
+        "pinyin": ","
+      },
+      {
+        "token": "它",
+        "startTime": 183680,
+        "endTime": 184180,
+        "pinyin": "tā"
+      },
+      {
+        "token": "是",
+        "startTime": 184180,
+        "endTime": 184360,
+        "pinyin": "shì"
+      },
+      {
+        "token": "空",
+        "startTime": 184360,
+        "endTime": 184760,
+        "pinyin": "kōng"
+      },
+      {
+        "token": "的",
+        "startTime": 184760,
+        "endTime": 184900,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "切记 , 这片 广阔 的 空白 区域 位于 蓝莓 内部 , 即 地球 内部 , 而 地球 实际上 是 葡萄柚 中 的 原子 。",
+    "translations": {
+      "en": "Remember, this vast empty area is inside a blueberry, which is inside Earth, and Earth is actually an atom in a grapefruit."
+    },
+    "segments": [
+      {
+        "token": "切",
+        "startTime": 184900,
+        "endTime": 185080,
+        "pinyin": "qiè"
+      },
+      {
+        "token": "记",
+        "startTime": 185080,
+        "endTime": 185260,
+        "pinyin": "jì"
+      },
+      {
+        "token": ",",
+        "startTime": 185260,
+        "endTime": 185400,
+        "pinyin": ","
+      },
+      {
+        "token": "这",
+        "startTime": 185400,
+        "endTime": 185540,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "片",
+        "startTime": 185540,
+        "endTime": 185680,
+        "pinyin": "piàn"
+      },
+      {
+        "token": "广",
+        "startTime": 185680,
+        "endTime": 185860,
+        "pinyin": "guǎng"
+      },
+      {
+        "token": "阔",
+        "startTime": 185860,
+        "endTime": 186040,
+        "pinyin": "kuò"
+      },
+      {
+        "token": "的",
+        "startTime": 186040,
+        "endTime": 186160,
+        "pinyin": "de"
+      },
+      {
+        "token": "空",
+        "startTime": 186160,
+        "endTime": 186350,
+        "pinyin": "kòng"
+      },
+      {
+        "token": "白",
+        "startTime": 186350,
+        "endTime": 186540,
+        "pinyin": "bái"
+      },
+      {
+        "token": "区",
+        "startTime": 186540,
+        "endTime": 186680,
+        "pinyin": "qū"
+      },
+      {
+        "token": "域",
+        "startTime": 186680,
+        "endTime": 186820,
+        "pinyin": "yù"
+      },
+      {
+        "token": "位",
+        "startTime": 186820,
+        "endTime": 187210,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "于",
+        "startTime": 187210,
+        "endTime": 187600,
+        "pinyin": "yú"
+      },
+      {
+        "token": "蓝",
+        "startTime": 187600,
+        "endTime": 187760,
+        "pinyin": "lán"
+      },
+      {
+        "token": "莓",
+        "startTime": 187760,
+        "endTime": 187920,
+        "pinyin": "méi"
+      },
+      {
+        "token": "内",
+        "startTime": 187920,
+        "endTime": 188130,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "部",
+        "startTime": 188130,
+        "endTime": 188340,
+        "pinyin": "bù"
+      },
+      {
+        "token": ",",
+        "startTime": 188340,
+        "endTime": 188940,
+        "pinyin": ","
+      },
+      {
+        "token": "即",
+        "startTime": 188940,
+        "endTime": 189080,
+        "pinyin": "jí"
+      },
+      {
+        "token": "地",
+        "startTime": 189080,
+        "endTime": 189320,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 189320,
+        "endTime": 189560,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "内",
+        "startTime": 189560,
+        "endTime": 189810,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "部",
+        "startTime": 189810,
+        "endTime": 190060,
+        "pinyin": "bù"
+      },
+      {
+        "token": ",",
+        "startTime": 190060,
+        "endTime": 190220,
+        "pinyin": ","
+      },
+      {
+        "token": "而",
+        "startTime": 190220,
+        "endTime": 190400,
+        "pinyin": "ér"
+      },
+      {
+        "token": "地",
+        "startTime": 190400,
+        "endTime": 190550,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 190550,
+        "endTime": 190700,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "实",
+        "startTime": 190700,
+        "endTime": 190867,
+        "pinyin": "shí"
+      },
+      {
+        "token": "际",
+        "startTime": 190867,
+        "endTime": 191033,
+        "pinyin": "jì"
+      },
+      {
+        "token": "上",
+        "startTime": 191033,
+        "endTime": 191200,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "是",
+        "startTime": 191200,
+        "endTime": 191300,
+        "pinyin": "shì"
+      },
+      {
+        "token": "葡",
+        "startTime": 191300,
+        "endTime": 191800,
+        "pinyin": "pú"
+      },
+      {
+        "token": "萄",
+        "startTime": 191800,
+        "endTime": 192300,
+        "pinyin": "táo"
+      },
+      {
+        "token": "柚",
+        "startTime": 192300,
+        "endTime": 192800,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "中",
+        "startTime": 192800,
+        "endTime": 193060,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "的",
+        "startTime": 193060,
+        "endTime": 193440,
+        "pinyin": "de"
+      },
+      {
+        "token": "原",
+        "startTime": 193440,
+        "endTime": 193660,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 193660,
+        "endTime": 193880,
+        "pinyin": "zi"
+      },
+      {
+        "token": "。",
+        "startTime": 193880,
+        "endTime": 194060,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "还有 一点 事情 。",
+    "translations": {
+      "en": "One more thing."
+    },
+    "segments": [
+      {
+        "token": "还",
+        "startTime": 194060,
+        "endTime": 194290,
+        "pinyin": "hái"
+      },
+      {
+        "token": "有",
+        "startTime": 194290,
+        "endTime": 194520,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "一",
+        "startTime": 194520,
+        "endTime": 194600,
+        "pinyin": "yì"
+      },
+      {
+        "token": "点",
+        "startTime": 194600,
+        "endTime": 194680,
+        "pinyin": "diǎn"
+      },
+      {
+        "token": "事",
+        "startTime": 194680,
+        "endTime": 195040,
+        "pinyin": "shì"
+      },
+      {
+        "token": "情",
+        "startTime": 195040,
+        "endTime": 195400,
+        "pinyin": "qíng"
+      },
+      {
+        "token": "。",
+        "startTime": 195400,
+        "endTime": 195760,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "由于 原子 几乎 所有 的 质量 都 集中 在 原子核 中 ,",
+    "translations": {
+      "en": "Since almost all of an atom's mass is concentrated in the nucleus,"
+    },
+    "segments": [
+      {
+        "token": "由",
+        "startTime": 195760,
+        "endTime": 195900,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "于",
+        "startTime": 195900,
+        "endTime": 196040,
+        "pinyin": "yú"
+      },
+      {
+        "token": "原",
+        "startTime": 196040,
+        "endTime": 196240,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 196240,
+        "endTime": 196440,
+        "pinyin": "zi"
+      },
+      {
+        "token": "几",
+        "startTime": 196440,
+        "endTime": 196630,
+        "pinyin": "jī"
+      },
+      {
+        "token": "乎",
+        "startTime": 196630,
+        "endTime": 196820,
+        "pinyin": "hū"
+      },
+      {
+        "token": "所",
+        "startTime": 196820,
+        "endTime": 196940,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "有",
+        "startTime": 196940,
+        "endTime": 197060,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "的",
+        "startTime": 197060,
+        "endTime": 197280,
+        "pinyin": "de"
+      },
+      {
+        "token": "质",
+        "startTime": 197280,
+        "endTime": 197410,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "量",
+        "startTime": 197410,
+        "endTime": 197540,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "都",
+        "startTime": 197540,
+        "endTime": 197700,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "集",
+        "startTime": 197700,
+        "endTime": 197900,
+        "pinyin": "jí"
+      },
+      {
+        "token": "中",
+        "startTime": 197900,
+        "endTime": 198100,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "在",
+        "startTime": 198100,
+        "endTime": 198300,
+        "pinyin": "zài"
+      },
+      {
+        "token": "原",
+        "startTime": 198300,
+        "endTime": 198513,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 198513,
+        "endTime": 198727,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 198727,
+        "endTime": 198940,
+        "pinyin": "hé"
+      },
+      {
+        "token": "中",
+        "startTime": 198940,
+        "endTime": 199940,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": ",",
+        "startTime": 199940,
+        "endTime": 200220,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "电子 有 一定 的 质量 ,",
+    "translations": {
+      "en": "electrons have some mass,"
+    },
+    "segments": [
+      {
+        "token": "电",
+        "startTime": 200220,
+        "endTime": 200370,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 200370,
+        "endTime": 200520,
+        "pinyin": "zi"
+      },
+      {
+        "token": "有",
+        "startTime": 200520,
+        "endTime": 200740,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "一",
+        "startTime": 200740,
+        "endTime": 200910,
+        "pinyin": "yí"
+      },
+      {
+        "token": "定",
+        "startTime": 200910,
+        "endTime": 201080,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "的",
+        "startTime": 201080,
+        "endTime": 201440,
+        "pinyin": "de"
+      },
+      {
+        "token": "质",
+        "startTime": 201440,
+        "endTime": 201590,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "量",
+        "startTime": 201590,
+        "endTime": 201740,
+        "pinyin": "liàng"
+      },
+      {
+        "token": ",",
+        "startTime": 201740,
+        "endTime": 202020,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 大部分 质量 都 在 原子核 中 ,",
+    "translations": {
+      "en": "but most of the mass is in the nucleus."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 202020,
+        "endTime": 202240,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "大",
+        "startTime": 202240,
+        "endTime": 202453,
+        "pinyin": "dà"
+      },
+      {
+        "token": "部",
+        "startTime": 202453,
+        "endTime": 202667,
+        "pinyin": "bù"
+      },
+      {
+        "token": "分",
+        "startTime": 202667,
+        "endTime": 202880,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "质",
+        "startTime": 202880,
+        "endTime": 203070,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "量",
+        "startTime": 203070,
+        "endTime": 203260,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "都",
+        "startTime": 203260,
+        "endTime": 203380,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "在",
+        "startTime": 203380,
+        "endTime": 203620,
+        "pinyin": "zài"
+      },
+      {
+        "token": "原",
+        "startTime": 203620,
+        "endTime": 203860,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 203860,
+        "endTime": 204100,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 204100,
+        "endTime": 204340,
+        "pinyin": "hé"
+      },
+      {
+        "token": "中",
+        "startTime": 204340,
+        "endTime": 204600,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": ",",
+        "startTime": 204600,
+        "endTime": 204720,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "那么 原子核 多少 ?",
+    "translations": {
+      "en": "So how much is the nucleus?"
+    },
+    "segments": [
+      {
+        "token": "那",
+        "startTime": 204720,
+        "endTime": 204860,
+        "pinyin": "nà"
+      },
+      {
+        "token": "么",
+        "startTime": 204860,
+        "endTime": 205000,
+        "pinyin": "me"
+      },
+      {
+        "token": "原",
+        "startTime": 205000,
+        "endTime": 205193,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 205193,
+        "endTime": 205387,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 205387,
+        "endTime": 205580,
+        "pinyin": "hé"
+      },
+      {
+        "token": "多",
+        "startTime": 205580,
+        "endTime": 205900,
+        "pinyin": "duō"
+      },
+      {
+        "token": "少",
+        "startTime": 205900,
+        "endTime": 206220,
+        "pinyin": "shǎo"
+      },
+      {
+        "token": "?",
+        "startTime": 206220,
+        "endTime": 206540,
+        "pinyin": "?"
+      }
+    ]
+  },
+  {
+    "sentence_text": "答案 很 疯狂 。",
+    "translations": {
+      "en": "The answer is crazy."
+    },
+    "segments": [
+      {
+        "token": "答",
+        "startTime": 206540,
+        "endTime": 206700,
+        "pinyin": "dá"
+      },
+      {
+        "token": "案",
+        "startTime": 206700,
+        "endTime": 206860,
+        "pinyin": "àn"
+      },
+      {
+        "token": "很",
+        "startTime": 206860,
+        "endTime": 207120,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "疯",
+        "startTime": 207120,
+        "endTime": 207580,
+        "pinyin": "fēng"
+      },
+      {
+        "token": "狂",
+        "startTime": 207580,
+        "endTime": 208040,
+        "pinyin": "kuáng"
+      },
+      {
+        "token": "。",
+        "startTime": 208040,
+        "endTime": 208240,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "一个 典型 原子核 的 密度 是 每 立方米 10 到 17 千克 的 4 倍 。",
+    "translations": {
+      "en": "The density of a typical atomic nucleus is 4 times 10 to the 17 kilograms per cubic meter."
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 208240,
+        "endTime": 208460,
+        "pinyin": "yī"
+      },
+      {
+        "token": "个",
+        "startTime": 208460,
+        "endTime": 208680,
+        "pinyin": "gè"
+      },
+      {
+        "token": "典",
+        "startTime": 208680,
+        "endTime": 208860,
+        "pinyin": "diǎn"
+      },
+      {
+        "token": "型",
+        "startTime": 208860,
+        "endTime": 209040,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "原",
+        "startTime": 209040,
+        "endTime": 209153,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 209153,
+        "endTime": 209267,
+        "pinyin": "zi"
+      },
+      {
+        "token": "核",
+        "startTime": 209267,
+        "endTime": 209380,
+        "pinyin": "hé"
+      },
+      {
+        "token": "的",
+        "startTime": 209380,
+        "endTime": 209560,
+        "pinyin": "de"
+      },
+      {
+        "token": "密",
+        "startTime": 209560,
+        "endTime": 209810,
+        "pinyin": "mì"
+      },
+      {
+        "token": "度",
+        "startTime": 209810,
+        "endTime": 210060,
+        "pinyin": "dù"
+      },
+      {
+        "token": "是",
+        "startTime": 210060,
+        "endTime": 210240,
+        "pinyin": "shì"
+      },
+      {
+        "token": "每",
+        "startTime": 210240,
+        "endTime": 210400,
+        "pinyin": "měi"
+      },
+      {
+        "token": "立",
+        "startTime": 210400,
+        "endTime": 210447,
+        "pinyin": "lì"
+      },
+      {
+        "token": "方",
+        "startTime": 210447,
+        "endTime": 210493,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "米",
+        "startTime": 210493,
+        "endTime": 210540,
+        "pinyin": "mǐ"
+      },
+      {
+        "token": "1",
+        "startTime": 210540,
+        "endTime": 210720,
+        "pinyin": "1"
+      },
+      {
+        "token": "0",
+        "startTime": 210720,
+        "endTime": 210900,
+        "pinyin": "0"
+      },
+      {
+        "token": "到",
+        "startTime": 210900,
+        "endTime": 210980,
+        "pinyin": "dào"
+      },
+      {
+        "token": "1",
+        "startTime": 210980,
+        "endTime": 211180,
+        "pinyin": "1"
+      },
+      {
+        "token": "7",
+        "startTime": 211180,
+        "endTime": 211380,
+        "pinyin": "7"
+      },
+      {
+        "token": "千",
+        "startTime": 211380,
+        "endTime": 211570,
+        "pinyin": "qiān"
+      },
+      {
+        "token": "克",
+        "startTime": 211570,
+        "endTime": 211760,
+        "pinyin": "kè"
+      },
+      {
+        "token": "的",
+        "startTime": 211760,
+        "endTime": 211920,
+        "pinyin": "de"
+      },
+      {
+        "token": "4",
+        "startTime": 211920,
+        "endTime": 212160,
+        "pinyin": "4"
+      },
+      {
+        "token": "倍",
+        "startTime": 212160,
+        "endTime": 214380,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "。",
+        "startTime": 214380,
+        "endTime": 214500,
+        "pinyin": "。"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 可能 很难 想象",
+    "translations": {
+      "en": "This might be hard to imagine."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 214500,
+        "endTime": 214740,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "可",
+        "startTime": 214740,
+        "endTime": 214980,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 214980,
+        "endTime": 215220,
+        "pinyin": "néng"
+      },
+      {
+        "token": "很",
+        "startTime": 215220,
+        "endTime": 215780,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "难",
+        "startTime": 215780,
+        "endTime": 216340,
+        "pinyin": "nán"
+      },
+      {
+        "token": "想",
+        "startTime": 216340,
+        "endTime": 216530,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "象",
+        "startTime": 216530,
+        "endTime": 216720,
+        "pinyin": "xiàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "用 英质 单位 来产试 就是",
+    "translations": {
+      "en": "In imperial units, that's"
+    },
+    "segments": [
+      {
+        "token": "用",
+        "startTime": 216720,
+        "endTime": 216840,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "英",
+        "startTime": 216840,
+        "endTime": 216970,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "质",
+        "startTime": 216970,
+        "endTime": 217100,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "单",
+        "startTime": 217100,
+        "endTime": 217270,
+        "pinyin": "dān"
+      },
+      {
+        "token": "位",
+        "startTime": 217270,
+        "endTime": 217440,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "来",
+        "startTime": 217440,
+        "endTime": 217660,
+        "pinyin": "lái"
+      },
+      {
+        "token": "产",
+        "startTime": 217660,
+        "endTime": 217880,
+        "pinyin": "chǎn"
+      },
+      {
+        "token": "试",
+        "startTime": 217880,
+        "endTime": 218100,
+        "pinyin": "shì"
+      },
+      {
+        "token": "就",
+        "startTime": 218100,
+        "endTime": 218290,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "是",
+        "startTime": 218290,
+        "endTime": 218480,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "每 立方英尺 10 到 16 磅 的 2 . 5 倍",
+    "translations": {
+      "en": "2.5 times 10 to the 16 pounds per cubic foot."
+    },
+    "segments": [
+      {
+        "token": "每",
+        "startTime": 218480,
+        "endTime": 218660,
+        "pinyin": "měi"
+      },
+      {
+        "token": "立",
+        "startTime": 218660,
+        "endTime": 218750,
+        "pinyin": "lì"
+      },
+      {
+        "token": "方",
+        "startTime": 218750,
+        "endTime": 218840,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "英",
+        "startTime": 218840,
+        "endTime": 218930,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "尺",
+        "startTime": 218930,
+        "endTime": 219020,
+        "pinyin": "chǐ"
+      },
+      {
+        "token": "1",
+        "startTime": 219020,
+        "endTime": 219170,
+        "pinyin": "1"
+      },
+      {
+        "token": "0",
+        "startTime": 219170,
+        "endTime": 219320,
+        "pinyin": "0"
+      },
+      {
+        "token": "到",
+        "startTime": 219320,
+        "endTime": 219380,
+        "pinyin": "dào"
+      },
+      {
+        "token": "1",
+        "startTime": 219380,
+        "endTime": 219560,
+        "pinyin": "1"
+      },
+      {
+        "token": "6",
+        "startTime": 219560,
+        "endTime": 219740,
+        "pinyin": "6"
+      },
+      {
+        "token": "磅",
+        "startTime": 219740,
+        "endTime": 219940,
+        "pinyin": "bàng"
+      },
+      {
+        "token": "的",
+        "startTime": 219940,
+        "endTime": 220100,
+        "pinyin": "de"
+      },
+      {
+        "token": "2",
+        "startTime": 220100,
+        "endTime": 220270,
+        "pinyin": "2"
+      },
+      {
+        "token": ".",
+        "startTime": 220270,
+        "endTime": 220440,
+        "pinyin": "."
+      },
+      {
+        "token": "5",
+        "startTime": 220440,
+        "endTime": 220640,
+        "pinyin": "5"
+      },
+      {
+        "token": "倍",
+        "startTime": 220640,
+        "endTime": 222540,
+        "pinyin": "bèi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "好 吧 ,",
+    "translations": {
+      "en": "Okay,"
+    },
+    "segments": [
+      {
+        "token": "好",
+        "startTime": 222540,
+        "endTime": 222687,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "吧",
+        "startTime": 222687,
+        "endTime": 222833,
+        "pinyin": "ba"
+      },
+      {
+        "token": ",",
+        "startTime": 222833,
+        "endTime": 222980,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 仍然 有点 难以 理解",
+    "translations": {
+      "en": "this is still a bit hard to grasp."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 222980,
+        "endTime": 223280,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "仍",
+        "startTime": 223280,
+        "endTime": 223430,
+        "pinyin": "réng"
+      },
+      {
+        "token": "然",
+        "startTime": 223430,
+        "endTime": 223580,
+        "pinyin": "rán"
+      },
+      {
+        "token": "有",
+        "startTime": 223580,
+        "endTime": 223700,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "点",
+        "startTime": 223700,
+        "endTime": 223820,
+        "pinyin": "diǎn"
+      },
+      {
+        "token": "难",
+        "startTime": 223820,
+        "endTime": 223960,
+        "pinyin": "nán"
+      },
+      {
+        "token": "以",
+        "startTime": 223960,
+        "endTime": 224100,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "理",
+        "startTime": 224100,
+        "endTime": 224620,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "解",
+        "startTime": 224620,
+        "endTime": 225140,
+        "pinyin": "jiě"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 希望 你 接下来 制作 一个",
+    "translations": {
+      "en": "I want you to next make a"
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 225140,
+        "endTime": 225300,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "希",
+        "startTime": 225300,
+        "endTime": 225390,
+        "pinyin": "xī"
+      },
+      {
+        "token": "望",
+        "startTime": 225390,
+        "endTime": 225480,
+        "pinyin": "wàng"
+      },
+      {
+        "token": "你",
+        "startTime": 225480,
+        "endTime": 225660,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "接",
+        "startTime": 225660,
+        "endTime": 225813,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "下",
+        "startTime": 225813,
+        "endTime": 225967,
+        "pinyin": "xià"
+      },
+      {
+        "token": "来",
+        "startTime": 225967,
+        "endTime": 226120,
+        "pinyin": "lái"
+      },
+      {
+        "token": "制",
+        "startTime": 226120,
+        "endTime": 226350,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "作",
+        "startTime": 226350,
+        "endTime": 226580,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "一",
+        "startTime": 226580,
+        "endTime": 226680,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 226680,
+        "endTime": 226780,
+        "pinyin": "gè"
+      }
+    ]
+  },
+  {
+    "sentence_text": "长宽 高 各 亿 英尺 的 盒子",
+    "translations": {
+      "en": "box that is a billion feet in length, width, and height."
+    },
+    "segments": [
+      {
+        "token": "长",
+        "startTime": 226780,
+        "endTime": 227040,
+        "pinyin": "zhǎng"
+      },
+      {
+        "token": "宽",
+        "startTime": 227040,
+        "endTime": 227300,
+        "pinyin": "kuān"
+      },
+      {
+        "token": "高",
+        "startTime": 227300,
+        "endTime": 227520,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "各",
+        "startTime": 227520,
+        "endTime": 227800,
+        "pinyin": "gè"
+      },
+      {
+        "token": "亿",
+        "startTime": 227800,
+        "endTime": 227940,
+        "pinyin": "yì"
+      },
+      {
+        "token": "英",
+        "startTime": 227940,
+        "endTime": 228110,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "尺",
+        "startTime": 228110,
+        "endTime": 228280,
+        "pinyin": "chǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 228280,
+        "endTime": 228420,
+        "pinyin": "de"
+      },
+      {
+        "token": "盒",
+        "startTime": 228420,
+        "endTime": 229290,
+        "pinyin": "hé"
+      },
+      {
+        "token": "子",
+        "startTime": 229290,
+        "endTime": 230160,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "现在 让 我们 以 典型 的 汽车 为例",
+    "translations": {
+      "en": "Now let's take a typical car as an example."
+    },
+    "segments": [
+      {
+        "token": "现",
+        "startTime": 230160,
+        "endTime": 230300,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "在",
+        "startTime": 230300,
+        "endTime": 230440,
+        "pinyin": "zài"
+      },
+      {
+        "token": "让",
+        "startTime": 230440,
+        "endTime": 230900,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "我",
+        "startTime": 230900,
+        "endTime": 231020,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 231020,
+        "endTime": 231140,
+        "pinyin": "men"
+      },
+      {
+        "token": "以",
+        "startTime": 231140,
+        "endTime": 231280,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "典",
+        "startTime": 231280,
+        "endTime": 231440,
+        "pinyin": "diǎn"
+      },
+      {
+        "token": "型",
+        "startTime": 231440,
+        "endTime": 231600,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "的",
+        "startTime": 231600,
+        "endTime": 231760,
+        "pinyin": "de"
+      },
+      {
+        "token": "汽",
+        "startTime": 231760,
+        "endTime": 231890,
+        "pinyin": "qì"
+      },
+      {
+        "token": "车",
+        "startTime": 231890,
+        "endTime": 232020,
+        "pinyin": "chē"
+      },
+      {
+        "token": "为",
+        "startTime": 232020,
+        "endTime": 232900,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "例",
+        "startTime": 232900,
+        "endTime": 233780,
+        "pinyin": "lì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "汽车 的 平均 重量 为 两吨",
+    "translations": {
+      "en": "The average weight of a car is two tons."
+    },
+    "segments": [
+      {
+        "token": "汽",
+        "startTime": 233780,
+        "endTime": 233980,
+        "pinyin": "qì"
+      },
+      {
+        "token": "车",
+        "startTime": 233980,
+        "endTime": 234180,
+        "pinyin": "chē"
+      },
+      {
+        "token": "的",
+        "startTime": 234180,
+        "endTime": 234340,
+        "pinyin": "de"
+      },
+      {
+        "token": "平",
+        "startTime": 234340,
+        "endTime": 234510,
+        "pinyin": "píng"
+      },
+      {
+        "token": "均",
+        "startTime": 234510,
+        "endTime": 234680,
+        "pinyin": "jūn"
+      },
+      {
+        "token": "重",
+        "startTime": 234680,
+        "endTime": 234820,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "量",
+        "startTime": 234820,
+        "endTime": 234960,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "为",
+        "startTime": 234960,
+        "endTime": 235120,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "两",
+        "startTime": 235120,
+        "endTime": 235630,
+        "pinyin": "liǎng"
+      },
+      {
+        "token": "吨",
+        "startTime": 235630,
+        "endTime": 236140,
+        "pinyin": "dūn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 需要 在 盒子 里 放 多少 辆 汽车",
+    "translations": {
+      "en": "How many cars do you need to put in the box"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 236140,
+        "endTime": 236300,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "需",
+        "startTime": 236300,
+        "endTime": 236380,
+        "pinyin": "xū"
+      },
+      {
+        "token": "要",
+        "startTime": 236380,
+        "endTime": 236460,
+        "pinyin": "yào"
+      },
+      {
+        "token": "在",
+        "startTime": 236460,
+        "endTime": 236640,
+        "pinyin": "zài"
+      },
+      {
+        "token": "盒",
+        "startTime": 236640,
+        "endTime": 236780,
+        "pinyin": "hé"
+      },
+      {
+        "token": "子",
+        "startTime": 236780,
+        "endTime": 236920,
+        "pinyin": "zi"
+      },
+      {
+        "token": "里",
+        "startTime": 236920,
+        "endTime": 237000,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "放",
+        "startTime": 237000,
+        "endTime": 237120,
+        "pinyin": "fàng"
+      },
+      {
+        "token": "多",
+        "startTime": 237120,
+        "endTime": 237280,
+        "pinyin": "duō"
+      },
+      {
+        "token": "少",
+        "startTime": 237280,
+        "endTime": 237440,
+        "pinyin": "shǎo"
+      },
+      {
+        "token": "辆",
+        "startTime": 237440,
+        "endTime": 237540,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "汽",
+        "startTime": 237540,
+        "endTime": 237890,
+        "pinyin": "qì"
+      },
+      {
+        "token": "车",
+        "startTime": 237890,
+        "endTime": 238240,
+        "pinyin": "chē"
+      }
+    ]
+  },
+  {
+    "sentence_text": "才能 让 你 的 一 立方英尺 盒子",
+    "translations": {
+      "en": "to make your one-cubic-foot box"
+    },
+    "segments": [
+      {
+        "token": "才",
+        "startTime": 238240,
+        "endTime": 238360,
+        "pinyin": "cái"
+      },
+      {
+        "token": "能",
+        "startTime": 238360,
+        "endTime": 238480,
+        "pinyin": "néng"
+      },
+      {
+        "token": "让",
+        "startTime": 238480,
+        "endTime": 238600,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "你",
+        "startTime": 238600,
+        "endTime": 238860,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 238860,
+        "endTime": 239040,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 239040,
+        "endTime": 239180,
+        "pinyin": "yī"
+      },
+      {
+        "token": "立",
+        "startTime": 239180,
+        "endTime": 239333,
+        "pinyin": "lì"
+      },
+      {
+        "token": "方",
+        "startTime": 239333,
+        "endTime": 239485,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "英",
+        "startTime": 239485,
+        "endTime": 239638,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "尺",
+        "startTime": 239638,
+        "endTime": 239790,
+        "pinyin": "chǐ"
+      },
+      {
+        "token": "盒",
+        "startTime": 239790,
+        "endTime": 240070,
+        "pinyin": "hé"
+      },
+      {
+        "token": "子",
+        "startTime": 240070,
+        "endTime": 240350,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "具有 与 原子核 相同 的 密度",
+    "translations": {
+      "en": "have the same density as an atomic nucleus?"
+    },
+    "segments": [
+      {
+        "token": "具",
+        "startTime": 240350,
+        "endTime": 240480,
+        "pinyin": "jù"
+      },
+      {
+        "token": "有",
+        "startTime": 240480,
+        "endTime": 240610,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "与",
+        "startTime": 240610,
+        "endTime": 240810,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "原",
+        "startTime": 240810,
+        "endTime": 240970,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 240970,
+        "endTime": 241130,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 241130,
+        "endTime": 241290,
+        "pinyin": "hé"
+      },
+      {
+        "token": "相",
+        "startTime": 241290,
+        "endTime": 241470,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "同",
+        "startTime": 241470,
+        "endTime": 241650,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "的",
+        "startTime": 241650,
+        "endTime": 241750,
+        "pinyin": "de"
+      },
+      {
+        "token": "密",
+        "startTime": 241750,
+        "endTime": 242320,
+        "pinyin": "mì"
+      },
+      {
+        "token": "度",
+        "startTime": 242320,
+        "endTime": 242890,
+        "pinyin": "dù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "是 一辆车 吗 ?",
+    "translations": {
+      "en": "Is it one car?"
+    },
+    "segments": [
+      {
+        "token": "是",
+        "startTime": 242890,
+        "endTime": 243030,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 243030,
+        "endTime": 243377,
+        "pinyin": "yī"
+      },
+      {
+        "token": "辆",
+        "startTime": 243377,
+        "endTime": 243723,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "车",
+        "startTime": 243723,
+        "endTime": 244070,
+        "pinyin": "chē"
+      },
+      {
+        "token": "吗",
+        "startTime": 244070,
+        "endTime": 244290,
+        "pinyin": "ma"
+      },
+      {
+        "token": "?",
+        "startTime": 244290,
+        "endTime": 245710,
+        "pinyin": "?"
+      }
+    ]
+  },
+  {
+    "sentence_text": "两辆 ?",
+    "translations": {
+      "en": "Two?"
+    },
+    "segments": [
+      {
+        "token": "两",
+        "startTime": 245710,
+        "endTime": 245850,
+        "pinyin": "liǎng"
+      },
+      {
+        "token": "辆",
+        "startTime": 245850,
+        "endTime": 245990,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "?",
+        "startTime": 245990,
+        "endTime": 246130,
+        "pinyin": "?"
+      }
+    ]
+  },
+  {
+    "sentence_text": "怎么样 ?",
+    "translations": {
+      "en": "How about that?"
+    },
+    "segments": [
+      {
+        "token": "怎",
+        "startTime": 246130,
+        "endTime": 246360,
+        "pinyin": "zěn"
+      },
+      {
+        "token": "么",
+        "startTime": 246360,
+        "endTime": 246590,
+        "pinyin": "me"
+      },
+      {
+        "token": "样",
+        "startTime": 246590,
+        "endTime": 246820,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "?",
+        "startTime": 246820,
+        "endTime": 247050,
+        "pinyin": "?"
+      }
+    ]
+  },
+  {
+    "sentence_text": "不 ,",
+    "translations": {
+      "en": "No,"
+    },
+    "segments": [
+      {
+        "token": "不",
+        "startTime": 247050,
+        "endTime": 247470,
+        "pinyin": "bù"
+      },
+      {
+        "token": ",",
+        "startTime": 247470,
+        "endTime": 248410,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "不",
+    "translations": {
+      "en": "no."
+    },
+    "segments": [
+      {
+        "token": "不",
+        "startTime": 248410,
+        "endTime": 248610,
+        "pinyin": "bù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "答案 要 多得多",
+    "translations": {
+      "en": "The answer is much more."
+    },
+    "segments": [
+      {
+        "token": "答",
+        "startTime": 248610,
+        "endTime": 248750,
+        "pinyin": "dá"
+      },
+      {
+        "token": "案",
+        "startTime": 248750,
+        "endTime": 248890,
+        "pinyin": "àn"
+      },
+      {
+        "token": "要",
+        "startTime": 248890,
+        "endTime": 249070,
+        "pinyin": "yào"
+      },
+      {
+        "token": "多",
+        "startTime": 249070,
+        "endTime": 249783,
+        "pinyin": "duō"
+      },
+      {
+        "token": "得",
+        "startTime": 249783,
+        "endTime": 250497,
+        "pinyin": "dé"
+      },
+      {
+        "token": "多",
+        "startTime": 250497,
+        "endTime": 251210,
+        "pinyin": "duō"
+      }
+    ]
+  },
+  {
+    "sentence_text": "62 亿辆",
+    "translations": {
+      "en": "6.2 billion cars."
+    },
+    "segments": [
+      {
+        "token": "6",
+        "startTime": 251210,
+        "endTime": 251580,
+        "pinyin": "6"
+      },
+      {
+        "token": "2",
+        "startTime": 251580,
+        "endTime": 251950,
+        "pinyin": "2"
+      },
+      {
+        "token": "亿",
+        "startTime": 251950,
+        "endTime": 252890,
+        "pinyin": "yì"
+      },
+      {
+        "token": "辆",
+        "startTime": 252890,
+        "endTime": 253830,
+        "pinyin": "liàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 几乎 等于 地球 上 的 人口 总量",
+    "translations": {
+      "en": "That's almost the total population of Earth."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 253830,
+        "endTime": 253970,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "几",
+        "startTime": 253970,
+        "endTime": 254130,
+        "pinyin": "jī"
+      },
+      {
+        "token": "乎",
+        "startTime": 254130,
+        "endTime": 254290,
+        "pinyin": "hū"
+      },
+      {
+        "token": "等",
+        "startTime": 254290,
+        "endTime": 254440,
+        "pinyin": "děng"
+      },
+      {
+        "token": "于",
+        "startTime": 254440,
+        "endTime": 254590,
+        "pinyin": "yú"
+      },
+      {
+        "token": "地",
+        "startTime": 254590,
+        "endTime": 254810,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 254810,
+        "endTime": 255030,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "上",
+        "startTime": 255030,
+        "endTime": 255190,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "的",
+        "startTime": 255190,
+        "endTime": 255390,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 255390,
+        "endTime": 255600,
+        "pinyin": "rén"
+      },
+      {
+        "token": "口",
+        "startTime": 255600,
+        "endTime": 255810,
+        "pinyin": "kǒu"
+      },
+      {
+        "token": "总",
+        "startTime": 255810,
+        "endTime": 256470,
+        "pinyin": "zǒng"
+      },
+      {
+        "token": "量",
+        "startTime": 256470,
+        "endTime": 257130,
+        "pinyin": "liàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "因此 ,",
+    "translations": {
+      "en": "So,"
+    },
+    "segments": [
+      {
+        "token": "因",
+        "startTime": 257130,
+        "endTime": 257380,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "此",
+        "startTime": 257380,
+        "endTime": 257630,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": ",",
+        "startTime": 257630,
+        "endTime": 257790,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 地球 上 的 每个 人 都 拥有 自己 的 汽车",
+    "translations": {
+      "en": "if every person on Earth owned their own car,"
+    },
+    "segments": [
+      {
+        "token": "如",
+        "startTime": 257790,
+        "endTime": 258000,
+        "pinyin": "rú"
+      },
+      {
+        "token": "果",
+        "startTime": 258000,
+        "endTime": 258210,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "地",
+        "startTime": 258210,
+        "endTime": 258350,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 258350,
+        "endTime": 258490,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "上",
+        "startTime": 258490,
+        "endTime": 258610,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "的",
+        "startTime": 258610,
+        "endTime": 258730,
+        "pinyin": "de"
+      },
+      {
+        "token": "每",
+        "startTime": 258730,
+        "endTime": 258880,
+        "pinyin": "měi"
+      },
+      {
+        "token": "个",
+        "startTime": 258880,
+        "endTime": 259030,
+        "pinyin": "gè"
+      },
+      {
+        "token": "人",
+        "startTime": 259030,
+        "endTime": 259190,
+        "pinyin": "rén"
+      },
+      {
+        "token": "都",
+        "startTime": 259190,
+        "endTime": 259290,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "拥",
+        "startTime": 259290,
+        "endTime": 259450,
+        "pinyin": "yōng"
+      },
+      {
+        "token": "有",
+        "startTime": 259450,
+        "endTime": 259610,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "自",
+        "startTime": 259610,
+        "endTime": 259810,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 259810,
+        "endTime": 260010,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 260010,
+        "endTime": 260190,
+        "pinyin": "de"
+      },
+      {
+        "token": "汽",
+        "startTime": 260190,
+        "endTime": 260450,
+        "pinyin": "qì"
+      },
+      {
+        "token": "车",
+        "startTime": 260450,
+        "endTime": 260710,
+        "pinyin": "chē"
+      }
+    ]
+  },
+  {
+    "sentence_text": "虽然 事实 是 ,",
+    "translations": {
+      "en": "though the truth is,"
+    },
+    "segments": [
+      {
+        "token": "虽",
+        "startTime": 260710,
+        "endTime": 260870,
+        "pinyin": "suī"
+      },
+      {
+        "token": "然",
+        "startTime": 260870,
+        "endTime": 261030,
+        "pinyin": "rán"
+      },
+      {
+        "token": "事",
+        "startTime": 261030,
+        "endTime": 261250,
+        "pinyin": "shì"
+      },
+      {
+        "token": "实",
+        "startTime": 261250,
+        "endTime": 261470,
+        "pinyin": "shí"
+      },
+      {
+        "token": "是",
+        "startTime": 261470,
+        "endTime": 261530,
+        "pinyin": "shì"
+      },
+      {
+        "token": ",",
+        "startTime": 261530,
+        "endTime": 261810,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "他们 并 没有",
+    "translations": {
+      "en": "They didn't"
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 261810,
+        "endTime": 261810,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 261810,
+        "endTime": 261810,
+        "pinyin": "men"
+      },
+      {
+        "token": "并",
+        "startTime": 261810,
+        "endTime": 262630,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "没",
+        "startTime": 262630,
+        "endTime": 262850,
+        "pinyin": "méi"
+      },
+      {
+        "token": "有",
+        "startTime": 262850,
+        "endTime": 263070,
+        "pinyin": "yǒu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 把 所有 这些 汽车 都 放进 你 的 盒子 里",
+    "translations": {
+      "en": "We put all these cars into your box"
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 263070,
+        "endTime": 263240,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 263240,
+        "endTime": 263410,
+        "pinyin": "men"
+      },
+      {
+        "token": "把",
+        "startTime": 263410,
+        "endTime": 263590,
+        "pinyin": "bǎ"
+      },
+      {
+        "token": "所",
+        "startTime": 263590,
+        "endTime": 263800,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "有",
+        "startTime": 263800,
+        "endTime": 264010,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "这",
+        "startTime": 264010,
+        "endTime": 264190,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 264190,
+        "endTime": 264370,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "汽",
+        "startTime": 264370,
+        "endTime": 264480,
+        "pinyin": "qì"
+      },
+      {
+        "token": "车",
+        "startTime": 264480,
+        "endTime": 264590,
+        "pinyin": "chē"
+      },
+      {
+        "token": "都",
+        "startTime": 264590,
+        "endTime": 264750,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "放",
+        "startTime": 264750,
+        "endTime": 265400,
+        "pinyin": "fàng"
+      },
+      {
+        "token": "进",
+        "startTime": 265400,
+        "endTime": 266050,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "你",
+        "startTime": 266050,
+        "endTime": 266150,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 266150,
+        "endTime": 266370,
+        "pinyin": "de"
+      },
+      {
+        "token": "盒",
+        "startTime": 266370,
+        "endTime": 266540,
+        "pinyin": "hé"
+      },
+      {
+        "token": "子",
+        "startTime": 266540,
+        "endTime": 266710,
+        "pinyin": "zi"
+      },
+      {
+        "token": "里",
+        "startTime": 266710,
+        "endTime": 266910,
+        "pinyin": "lǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "那 将 是 一个 原子核",
+    "translations": {
+      "en": "That would be an atomic nucleus"
+    },
+    "segments": [
+      {
+        "token": "那",
+        "startTime": 266910,
+        "endTime": 267170,
+        "pinyin": "nà"
+      },
+      {
+        "token": "将",
+        "startTime": 267170,
+        "endTime": 267310,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "是",
+        "startTime": 267310,
+        "endTime": 267450,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 267450,
+        "endTime": 268490,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 268490,
+        "endTime": 269530,
+        "pinyin": "gè"
+      },
+      {
+        "token": "原",
+        "startTime": 269530,
+        "endTime": 269597,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 269597,
+        "endTime": 269663,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 269663,
+        "endTime": 269730,
+        "pinyin": "hé"
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 你 把 世界 上 的 每 一辆车",
+    "translations": {
+      "en": "If you took every car in the world"
+    },
+    "segments": [
+      {
+        "token": "如",
+        "startTime": 269730,
+        "endTime": 269930,
+        "pinyin": "rú"
+      },
+      {
+        "token": "果",
+        "startTime": 269930,
+        "endTime": 270130,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "你",
+        "startTime": 270130,
+        "endTime": 270330,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "把",
+        "startTime": 270330,
+        "endTime": 270530,
+        "pinyin": "bǎ"
+      },
+      {
+        "token": "世",
+        "startTime": 270530,
+        "endTime": 270670,
+        "pinyin": "shì"
+      },
+      {
+        "token": "界",
+        "startTime": 270670,
+        "endTime": 270810,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "上",
+        "startTime": 270810,
+        "endTime": 270970,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "的",
+        "startTime": 270970,
+        "endTime": 271130,
+        "pinyin": "de"
+      },
+      {
+        "token": "每",
+        "startTime": 271130,
+        "endTime": 271210,
+        "pinyin": "měi"
+      },
+      {
+        "token": "一",
+        "startTime": 271210,
+        "endTime": 271217,
+        "pinyin": "yī"
+      },
+      {
+        "token": "辆",
+        "startTime": 271217,
+        "endTime": 271223,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "车",
+        "startTime": 271223,
+        "endTime": 271230,
+        "pinyin": "chē"
+      }
+    ]
+  },
+  {
+    "sentence_text": "都 放进 你 一 立方英尺 的 盒子 里",
+    "translations": {
+      "en": "and put them all into your one-cubic-foot box"
+    },
+    "segments": [
+      {
+        "token": "都",
+        "startTime": 271230,
+        "endTime": 272030,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "放",
+        "startTime": 272030,
+        "endTime": 272230,
+        "pinyin": "fàng"
+      },
+      {
+        "token": "进",
+        "startTime": 272230,
+        "endTime": 272430,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "你",
+        "startTime": 272430,
+        "endTime": 272610,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "一",
+        "startTime": 272610,
+        "endTime": 272830,
+        "pinyin": "yī"
+      },
+      {
+        "token": "立",
+        "startTime": 272830,
+        "endTime": 272975,
+        "pinyin": "lì"
+      },
+      {
+        "token": "方",
+        "startTime": 272975,
+        "endTime": 273120,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "英",
+        "startTime": 273120,
+        "endTime": 273265,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "尺",
+        "startTime": 273265,
+        "endTime": 273410,
+        "pinyin": "chǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 273410,
+        "endTime": 273510,
+        "pinyin": "de"
+      },
+      {
+        "token": "盒",
+        "startTime": 273510,
+        "endTime": 273680,
+        "pinyin": "hé"
+      },
+      {
+        "token": "子",
+        "startTime": 273680,
+        "endTime": 273850,
+        "pinyin": "zi"
+      },
+      {
+        "token": "里",
+        "startTime": 273850,
+        "endTime": 274510,
+        "pinyin": "lǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 才 会 得到 原子核 的 密度",
+    "translations": {
+      "en": "you'd get the density of an atomic nucleus"
+    },
+    "segments": [
+      {
+        "token": "你",
+        "startTime": 274510,
+        "endTime": 274690,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "才",
+        "startTime": 274690,
+        "endTime": 274810,
+        "pinyin": "cái"
+      },
+      {
+        "token": "会",
+        "startTime": 274810,
+        "endTime": 274990,
+        "pinyin": "huì"
+      },
+      {
+        "token": "得",
+        "startTime": 274990,
+        "endTime": 275130,
+        "pinyin": "dé"
+      },
+      {
+        "token": "到",
+        "startTime": 275130,
+        "endTime": 275270,
+        "pinyin": "dào"
+      },
+      {
+        "token": "原",
+        "startTime": 275270,
+        "endTime": 275523,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 275523,
+        "endTime": 275777,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 275777,
+        "endTime": 276030,
+        "pinyin": "hé"
+      },
+      {
+        "token": "的",
+        "startTime": 276030,
+        "endTime": 276170,
+        "pinyin": "de"
+      },
+      {
+        "token": "密",
+        "startTime": 276170,
+        "endTime": 276970,
+        "pinyin": "mì"
+      },
+      {
+        "token": "度",
+        "startTime": 276970,
+        "endTime": 277770,
+        "pinyin": "dù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "让 我们 回顾 一下",
+    "translations": {
+      "en": "Let's recap"
+    },
+    "segments": [
+      {
+        "token": "让",
+        "startTime": 277770,
+        "endTime": 277930,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "我",
+        "startTime": 277930,
+        "endTime": 278020,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 278020,
+        "endTime": 278110,
+        "pinyin": "men"
+      },
+      {
+        "token": "回",
+        "startTime": 278110,
+        "endTime": 278250,
+        "pinyin": "huí"
+      },
+      {
+        "token": "顾",
+        "startTime": 278250,
+        "endTime": 278390,
+        "pinyin": "gù"
+      },
+      {
+        "token": "一",
+        "startTime": 278390,
+        "endTime": 278530,
+        "pinyin": "yī"
+      },
+      {
+        "token": "下",
+        "startTime": 278530,
+        "endTime": 278670,
+        "pinyin": "xià"
+      }
+    ]
+  },
+  {
+    "sentence_text": "原子 真的 非常 非常 小",
+    "translations": {
+      "en": "Atoms are really, really tiny"
+    },
+    "segments": [
+      {
+        "token": "原",
+        "startTime": 278670,
+        "endTime": 279020,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 279020,
+        "endTime": 279370,
+        "pinyin": "zi"
+      },
+      {
+        "token": "真",
+        "startTime": 279370,
+        "endTime": 279510,
+        "pinyin": "zhēn"
+      },
+      {
+        "token": "的",
+        "startTime": 279510,
+        "endTime": 279650,
+        "pinyin": "de"
+      },
+      {
+        "token": "非",
+        "startTime": 279650,
+        "endTime": 279870,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "常",
+        "startTime": 279870,
+        "endTime": 280090,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "非",
+        "startTime": 280090,
+        "endTime": 280210,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "常",
+        "startTime": 280210,
+        "endTime": 280330,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "小",
+        "startTime": 280330,
+        "endTime": 281910,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "想想 葡萄柚 中 的 原子",
+    "translations": {
+      "en": "Think of atoms in a grapefruit"
+    },
+    "segments": [
+      {
+        "token": "想",
+        "startTime": 281910,
+        "endTime": 282060,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "想",
+        "startTime": 282060,
+        "endTime": 282210,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "葡",
+        "startTime": 282210,
+        "endTime": 282337,
+        "pinyin": "pú"
+      },
+      {
+        "token": "萄",
+        "startTime": 282337,
+        "endTime": 282463,
+        "pinyin": "táo"
+      },
+      {
+        "token": "柚",
+        "startTime": 282463,
+        "endTime": 282590,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "中",
+        "startTime": 282590,
+        "endTime": 282810,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "的",
+        "startTime": 282810,
+        "endTime": 282930,
+        "pinyin": "de"
+      },
+      {
+        "token": "原",
+        "startTime": 282930,
+        "endTime": 282930,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 282930,
+        "endTime": 282930,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "就 像 地球 上 的 蓝莓 一样",
+    "translations": {
+      "en": "like blueberries on Earth"
+    },
+    "segments": [
+      {
+        "token": "就",
+        "startTime": 282930,
+        "endTime": 283670,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "像",
+        "startTime": 283670,
+        "endTime": 283770,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "地",
+        "startTime": 283770,
+        "endTime": 283940,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 283940,
+        "endTime": 284110,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "上",
+        "startTime": 284110,
+        "endTime": 284270,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "的",
+        "startTime": 284270,
+        "endTime": 284410,
+        "pinyin": "de"
+      },
+      {
+        "token": "蓝",
+        "startTime": 284410,
+        "endTime": 284550,
+        "pinyin": "lán"
+      },
+      {
+        "token": "莓",
+        "startTime": 284550,
+        "endTime": 284690,
+        "pinyin": "méi"
+      },
+      {
+        "token": "一",
+        "startTime": 284690,
+        "endTime": 285370,
+        "pinyin": "yī"
+      },
+      {
+        "token": "样",
+        "startTime": 285370,
+        "endTime": 286050,
+        "pinyin": "yàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "原子核 极其 小",
+    "translations": {
+      "en": "The nucleus is extremely small"
+    },
+    "segments": [
+      {
+        "token": "原",
+        "startTime": 286050,
+        "endTime": 286257,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 286257,
+        "endTime": 286463,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 286463,
+        "endTime": 286670,
+        "pinyin": "hé"
+      },
+      {
+        "token": "极",
+        "startTime": 286670,
+        "endTime": 286960,
+        "pinyin": "jí"
+      },
+      {
+        "token": "其",
+        "startTime": 286960,
+        "endTime": 287250,
+        "pinyin": "qí"
+      },
+      {
+        "token": "小",
+        "startTime": 287250,
+        "endTime": 288950,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "现在 看看 蓝莓 内部",
+    "translations": {
+      "en": "Now look inside a blueberry"
+    },
+    "segments": [
+      {
+        "token": "现",
+        "startTime": 288950,
+        "endTime": 289080,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "在",
+        "startTime": 289080,
+        "endTime": 289210,
+        "pinyin": "zài"
+      },
+      {
+        "token": "看",
+        "startTime": 289210,
+        "endTime": 289470,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "看",
+        "startTime": 289470,
+        "endTime": 289730,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "蓝",
+        "startTime": 289730,
+        "endTime": 289910,
+        "pinyin": "lán"
+      },
+      {
+        "token": "莓",
+        "startTime": 289910,
+        "endTime": 290090,
+        "pinyin": "méi"
+      },
+      {
+        "token": "内",
+        "startTime": 290090,
+        "endTime": 290090,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "部",
+        "startTime": 290090,
+        "endTime": 290090,
+        "pinyin": "bù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "把 它 放大 到 足球场 的 大小",
+    "translations": {
+      "en": "Zoom it up to the size of a football field"
+    },
+    "segments": [
+      {
+        "token": "把",
+        "startTime": 290090,
+        "endTime": 290910,
+        "pinyin": "bǎ"
+      },
+      {
+        "token": "它",
+        "startTime": 290910,
+        "endTime": 291190,
+        "pinyin": "tā"
+      },
+      {
+        "token": "放",
+        "startTime": 291190,
+        "endTime": 291330,
+        "pinyin": "fàng"
+      },
+      {
+        "token": "大",
+        "startTime": 291330,
+        "endTime": 291470,
+        "pinyin": "dà"
+      },
+      {
+        "token": "到",
+        "startTime": 291470,
+        "endTime": 291650,
+        "pinyin": "dào"
+      },
+      {
+        "token": "足",
+        "startTime": 291650,
+        "endTime": 291790,
+        "pinyin": "zú"
+      },
+      {
+        "token": "球",
+        "startTime": 291790,
+        "endTime": 291930,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "场",
+        "startTime": 291930,
+        "endTime": 292070,
+        "pinyin": "chǎng"
+      },
+      {
+        "token": "的",
+        "startTime": 292070,
+        "endTime": 292210,
+        "pinyin": "de"
+      },
+      {
+        "token": "大",
+        "startTime": 292210,
+        "endTime": 292660,
+        "pinyin": "dà"
+      },
+      {
+        "token": "小",
+        "startTime": 292660,
+        "endTime": 293110,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "原子核 相当于 中间 的 一块 大理石",
+    "translations": {
+      "en": "The nucleus is like a marble in the middle"
+    },
+    "segments": [
+      {
+        "token": "原",
+        "startTime": 293110,
+        "endTime": 293290,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 293290,
+        "endTime": 293470,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 293470,
+        "endTime": 293650,
+        "pinyin": "hé"
+      },
+      {
+        "token": "相",
+        "startTime": 293650,
+        "endTime": 293797,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "当",
+        "startTime": 293797,
+        "endTime": 293943,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "于",
+        "startTime": 293943,
+        "endTime": 294090,
+        "pinyin": "yú"
+      },
+      {
+        "token": "中",
+        "startTime": 294090,
+        "endTime": 294240,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "间",
+        "startTime": 294240,
+        "endTime": 294390,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 294390,
+        "endTime": 294510,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 294510,
+        "endTime": 294650,
+        "pinyin": "yī"
+      },
+      {
+        "token": "块",
+        "startTime": 294650,
+        "endTime": 294790,
+        "pinyin": "kuài"
+      },
+      {
+        "token": "大",
+        "startTime": 294790,
+        "endTime": 295310,
+        "pinyin": "dà"
+      },
+      {
+        "token": "理",
+        "startTime": 295310,
+        "endTime": 295830,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "石",
+        "startTime": 295830,
+        "endTime": 296350,
+        "pinyin": "shí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "原子 有 广阔 的 空白 区域",
+    "translations": {
+      "en": "Atoms have vast empty space"
+    },
+    "segments": [
+      {
+        "token": "原",
+        "startTime": 296350,
+        "endTime": 296480,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 296480,
+        "endTime": 296610,
+        "pinyin": "zi"
+      },
+      {
+        "token": "有",
+        "startTime": 296610,
+        "endTime": 296910,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "广",
+        "startTime": 296910,
+        "endTime": 297050,
+        "pinyin": "guǎng"
+      },
+      {
+        "token": "阔",
+        "startTime": 297050,
+        "endTime": 297190,
+        "pinyin": "kuò"
+      },
+      {
+        "token": "的",
+        "startTime": 297190,
+        "endTime": 297330,
+        "pinyin": "de"
+      },
+      {
+        "token": "空",
+        "startTime": 297330,
+        "endTime": 297530,
+        "pinyin": "kòng"
+      },
+      {
+        "token": "白",
+        "startTime": 297530,
+        "endTime": 297730,
+        "pinyin": "bái"
+      },
+      {
+        "token": "区",
+        "startTime": 297730,
+        "endTime": 297850,
+        "pinyin": "qū"
+      },
+      {
+        "token": "域",
+        "startTime": 297850,
+        "endTime": 297970,
+        "pinyin": "yù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "组成 这 很 奇怪",
+    "translations": {
+      "en": "This makes it strange"
+    },
+    "segments": [
+      {
+        "token": "组",
+        "startTime": 297970,
+        "endTime": 298150,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "成",
+        "startTime": 298150,
+        "endTime": 298330,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "这",
+        "startTime": 298330,
+        "endTime": 298435,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "很",
+        "startTime": 298435,
+        "endTime": 299583,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "奇",
+        "startTime": 299583,
+        "endTime": 299663,
+        "pinyin": "qí"
+      },
+      {
+        "token": "怪",
+        "startTime": 299663,
+        "endTime": 299744,
+        "pinyin": "guài"
+      }
+    ]
+  },
+  {
+    "sentence_text": "原子核 极高 的 密度",
+    "translations": {
+      "en": "The extremely high density of the nucleus"
+    },
+    "segments": [
+      {
+        "token": "原",
+        "startTime": 300671,
+        "endTime": 300937,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 300937,
+        "endTime": 301204,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 301204,
+        "endTime": 301470,
+        "pinyin": "hé"
+      },
+      {
+        "token": "极",
+        "startTime": 301470,
+        "endTime": 301627,
+        "pinyin": "jí"
+      },
+      {
+        "token": "高",
+        "startTime": 301627,
+        "endTime": 301784,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "的",
+        "startTime": 301784,
+        "endTime": 302698,
+        "pinyin": "de"
+      },
+      {
+        "token": "密",
+        "startTime": 302698,
+        "endTime": 302926,
+        "pinyin": "mì"
+      },
+      {
+        "token": "度",
+        "startTime": 302926,
+        "endTime": 303155,
+        "pinyin": "dù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "就 好比 把 所有 汽车",
+    "translations": {
+      "en": "is like putting all the cars"
+    },
+    "segments": [
+      {
+        "token": "就",
+        "startTime": 303155,
+        "endTime": 303224,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "好",
+        "startTime": 303224,
+        "endTime": 303399,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "比",
+        "startTime": 303399,
+        "endTime": 303573,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "把",
+        "startTime": 303573,
+        "endTime": 303764,
+        "pinyin": "bǎ"
+      },
+      {
+        "token": "所",
+        "startTime": 303764,
+        "endTime": 303947,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "有",
+        "startTime": 303947,
+        "endTime": 304130,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "汽",
+        "startTime": 304130,
+        "endTime": 304269,
+        "pinyin": "qì"
+      },
+      {
+        "token": "车",
+        "startTime": 304269,
+        "endTime": 304408,
+        "pinyin": "chē"
+      }
+    ]
+  },
+  {
+    "sentence_text": "放在 你 一 立方英尺 的 盒子 里",
+    "translations": {
+      "en": "into your one-cubic-foot box"
+    },
+    "segments": [
+      {
+        "token": "放",
+        "startTime": 304408,
+        "endTime": 304511,
+        "pinyin": "fàng"
+      },
+      {
+        "token": "在",
+        "startTime": 304511,
+        "endTime": 304613,
+        "pinyin": "zài"
+      },
+      {
+        "token": "你",
+        "startTime": 304613,
+        "endTime": 304709,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "一",
+        "startTime": 304709,
+        "endTime": 304818,
+        "pinyin": "yī"
+      },
+      {
+        "token": "立",
+        "startTime": 304818,
+        "endTime": 304911,
+        "pinyin": "lì"
+      },
+      {
+        "token": "方",
+        "startTime": 304911,
+        "endTime": 305003,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "英",
+        "startTime": 305003,
+        "endTime": 305095,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "尺",
+        "startTime": 305095,
+        "endTime": 305187,
+        "pinyin": "chǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 305187,
+        "endTime": 306076,
+        "pinyin": "de"
+      },
+      {
+        "token": "盒",
+        "startTime": 306076,
+        "endTime": 306192,
+        "pinyin": "hé"
+      },
+      {
+        "token": "子",
+        "startTime": 306192,
+        "endTime": 306308,
+        "pinyin": "zi"
+      },
+      {
+        "token": "里",
+        "startTime": 306308,
+        "endTime": 306445,
+        "pinyin": "lǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 都 说 累 了",
+    "translations": {
+      "en": "I'm tired of saying it"
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 307222,
+        "endTime": 307338,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "都",
+        "startTime": 307338,
+        "endTime": 307975,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "说",
+        "startTime": 307975,
+        "endTime": 308120,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "累",
+        "startTime": 308120,
+        "endTime": 308193,
+        "pinyin": "lèi"
+      },
+      {
+        "token": "了",
+        "startTime": 308193,
+        "endTime": 308323,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "订阅 本频道",
+    "translations": {
+      "en": "Subscribe to this channel"
+    },
+    "segments": [
+      {
+        "token": "订",
+        "startTime": 308961,
+        "endTime": 309199,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "阅",
+        "startTime": 309199,
+        "endTime": 309436,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "本",
+        "startTime": 309436,
+        "endTime": 309620,
+        "pinyin": "běn"
+      },
+      {
+        "token": "频",
+        "startTime": 309620,
+        "endTime": 309804,
+        "pinyin": "pín"
+      },
+      {
+        "token": "道",
+        "startTime": 309804,
+        "endTime": 309988,
+        "pinyin": "dào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "观看 更 多 值得 分享 的 课程",
+    "translations": {
+      "en": "Watch more courses worth sharing"
+    },
+    "segments": [
+      {
+        "token": "观",
+        "startTime": 309988,
+        "endTime": 310130,
+        "pinyin": "guān"
+      },
+      {
+        "token": "看",
+        "startTime": 310130,
+        "endTime": 310273,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "更",
+        "startTime": 310273,
+        "endTime": 310362,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "多",
+        "startTime": 310362,
+        "endTime": 310612,
+        "pinyin": "duō"
+      },
+      {
+        "token": "值",
+        "startTime": 310612,
+        "endTime": 310754,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "得",
+        "startTime": 310754,
+        "endTime": 310897,
+        "pinyin": "de"
+      },
+      {
+        "token": "分",
+        "startTime": 310897,
+        "endTime": 311191,
+        "pinyin": "fēn"
+      },
+      {
+        "token": "享",
+        "startTime": 311191,
+        "endTime": 311485,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "的",
+        "startTime": 311485,
+        "endTime": 311628,
+        "pinyin": "de"
+      },
+      {
+        "token": "课",
+        "startTime": 311628,
+        "endTime": 311752,
+        "pinyin": "kè"
+      },
+      {
+        "token": "程",
+        "startTime": 311752,
+        "endTime": 311877,
+        "pinyin": "chéng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "满足 您",
+    "translations": {
+      "en": "to satisfy you"
+    },
+    "segments": [
+      {
+        "token": "满",
+        "startTime": 311877,
+        "endTime": 312368,
+        "pinyin": "mǎn"
+      },
+      {
+        "token": "足",
+        "startTime": 312368,
+        "endTime": 312858,
+        "pinyin": "zú"
+      },
+      {
+        "token": "您",
+        "startTime": 312858,
+        "endTime": 313170,
+        "pinyin": "nín"
+      }
+    ]
+  }
+]
