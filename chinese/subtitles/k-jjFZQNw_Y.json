@@ -1,0 +1,9282 @@
+[
+  {
+    "sentence_text": "一位 伦敦 商人 把 他 最新 的 股票 信息 在 不到 一秒 的 时间 内 发送到 了 他 在 香港 的 同事",
+    "translations": {
+      "en": "A London businessman sends his latest stock information to his colleague in Hong Kong in less than a second."
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 6480,
+        "endTime": 6570,
+        "pinyin": "yī"
+      },
+      {
+        "token": "位",
+        "startTime": 6570,
+        "endTime": 6660,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "伦",
+        "startTime": 6660,
+        "endTime": 6820,
+        "pinyin": "lún"
+      },
+      {
+        "token": "敦",
+        "startTime": 6820,
+        "endTime": 6980,
+        "pinyin": "dūn"
+      },
+      {
+        "token": "商",
+        "startTime": 6980,
+        "endTime": 7200,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "人",
+        "startTime": 7200,
+        "endTime": 7420,
+        "pinyin": "rén"
+      },
+      {
+        "token": "把",
+        "startTime": 7420,
+        "endTime": 7700,
+        "pinyin": "bǎ"
+      },
+      {
+        "token": "他",
+        "startTime": 7700,
+        "endTime": 7800,
+        "pinyin": "tā"
+      },
+      {
+        "token": "最",
+        "startTime": 7800,
+        "endTime": 7950,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "新",
+        "startTime": 7950,
+        "endTime": 8100,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "的",
+        "startTime": 8100,
+        "endTime": 8220,
+        "pinyin": "de"
+      },
+      {
+        "token": "股",
+        "startTime": 8220,
+        "endTime": 8350,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "票",
+        "startTime": 8350,
+        "endTime": 8480,
+        "pinyin": "piào"
+      },
+      {
+        "token": "信",
+        "startTime": 8480,
+        "endTime": 8480,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "息",
+        "startTime": 8480,
+        "endTime": 8480,
+        "pinyin": "xī"
+      },
+      {
+        "token": "在",
+        "startTime": 8480,
+        "endTime": 9180,
+        "pinyin": "zài"
+      },
+      {
+        "token": "不",
+        "startTime": 9180,
+        "endTime": 9290,
+        "pinyin": "bú"
+      },
+      {
+        "token": "到",
+        "startTime": 9290,
+        "endTime": 9400,
+        "pinyin": "dào"
+      },
+      {
+        "token": "一",
+        "startTime": 9400,
+        "endTime": 9600,
+        "pinyin": "yī"
+      },
+      {
+        "token": "秒",
+        "startTime": 9600,
+        "endTime": 9800,
+        "pinyin": "miǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 9800,
+        "endTime": 9960,
+        "pinyin": "de"
+      },
+      {
+        "token": "时",
+        "startTime": 9960,
+        "endTime": 10050,
+        "pinyin": "shí"
+      },
+      {
+        "token": "间",
+        "startTime": 10050,
+        "endTime": 10140,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "内",
+        "startTime": 10140,
+        "endTime": 10340,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "发",
+        "startTime": 10340,
+        "endTime": 10567,
+        "pinyin": "fā"
+      },
+      {
+        "token": "送",
+        "startTime": 10567,
+        "endTime": 10793,
+        "pinyin": "sòng"
+      },
+      {
+        "token": "到",
+        "startTime": 10793,
+        "endTime": 11020,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 11020,
+        "endTime": 11220,
+        "pinyin": "le"
+      },
+      {
+        "token": "他",
+        "startTime": 11220,
+        "endTime": 11420,
+        "pinyin": "tā"
+      },
+      {
+        "token": "在",
+        "startTime": 11420,
+        "endTime": 11680,
+        "pinyin": "zài"
+      },
+      {
+        "token": "香",
+        "startTime": 11680,
+        "endTime": 11880,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "港",
+        "startTime": 11880,
+        "endTime": 12080,
+        "pinyin": "gǎng"
+      },
+      {
+        "token": "的",
+        "startTime": 12080,
+        "endTime": 12080,
+        "pinyin": "de"
+      },
+      {
+        "token": "同",
+        "startTime": 12080,
+        "endTime": 12390,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "事",
+        "startTime": 12390,
+        "endTime": 12700,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "美国纽约 的 客户 点下 鼠标 就 下 了 订单 购买 北京 制造 的 电子产品",
+    "translations": {
+      "en": "A client in New York, USA, clicks a mouse to place an order for electronics made in Beijing."
+    },
+    "segments": [
+      {
+        "token": "美",
+        "startTime": 12700,
+        "endTime": 12840,
+        "pinyin": "měi"
+      },
+      {
+        "token": "国",
+        "startTime": 12840,
+        "endTime": 12980,
+        "pinyin": "guó"
+      },
+      {
+        "token": "纽",
+        "startTime": 12980,
+        "endTime": 13120,
+        "pinyin": "niǔ"
+      },
+      {
+        "token": "约",
+        "startTime": 13120,
+        "endTime": 13260,
+        "pinyin": "yuē"
+      },
+      {
+        "token": "的",
+        "startTime": 13260,
+        "endTime": 13420,
+        "pinyin": "de"
+      },
+      {
+        "token": "客",
+        "startTime": 13420,
+        "endTime": 13650,
+        "pinyin": "kè"
+      },
+      {
+        "token": "户",
+        "startTime": 13650,
+        "endTime": 13880,
+        "pinyin": "hù"
+      },
+      {
+        "token": "点",
+        "startTime": 13880,
+        "endTime": 14090,
+        "pinyin": "diǎn"
+      },
+      {
+        "token": "下",
+        "startTime": 14090,
+        "endTime": 14300,
+        "pinyin": "xià"
+      },
+      {
+        "token": "鼠",
+        "startTime": 14300,
+        "endTime": 14500,
+        "pinyin": "shǔ"
+      },
+      {
+        "token": "标",
+        "startTime": 14500,
+        "endTime": 14700,
+        "pinyin": "biāo"
+      },
+      {
+        "token": "就",
+        "startTime": 14700,
+        "endTime": 14840,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "下",
+        "startTime": 14840,
+        "endTime": 14960,
+        "pinyin": "xià"
+      },
+      {
+        "token": "了",
+        "startTime": 14960,
+        "endTime": 15120,
+        "pinyin": "le"
+      },
+      {
+        "token": "订",
+        "startTime": 15120,
+        "endTime": 15310,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "单",
+        "startTime": 15310,
+        "endTime": 15500,
+        "pinyin": "dān"
+      },
+      {
+        "token": "购",
+        "startTime": 15500,
+        "endTime": 15700,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "买",
+        "startTime": 15700,
+        "endTime": 15900,
+        "pinyin": "mǎi"
+      },
+      {
+        "token": "北",
+        "startTime": 15900,
+        "endTime": 16060,
+        "pinyin": "běi"
+      },
+      {
+        "token": "京",
+        "startTime": 16060,
+        "endTime": 16219,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "制",
+        "startTime": 16219,
+        "endTime": 16360,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "造",
+        "startTime": 16360,
+        "endTime": 16500,
+        "pinyin": "zào"
+      },
+      {
+        "token": "的",
+        "startTime": 16500,
+        "endTime": 16600,
+        "pinyin": "de"
+      },
+      {
+        "token": "电",
+        "startTime": 16600,
+        "endTime": 16790,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 16790,
+        "endTime": 16980,
+        "pinyin": "zi"
+      },
+      {
+        "token": "产",
+        "startTime": 16980,
+        "endTime": 17170,
+        "pinyin": "chǎn"
+      },
+      {
+        "token": "品",
+        "startTime": 17170,
+        "endTime": 17360,
+        "pinyin": "pǐn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "几天 内 就 通过 货运 飞机 或是 海运 集装箱 把 货物 从 大洋 的 一端 运到 了 另一端",
+    "translations": {
+      "en": "Within days, goods are transported from one side of the ocean to the other by cargo plane or shipping container."
+    },
+    "segments": [
+      {
+        "token": "几",
+        "startTime": 17360,
+        "endTime": 17500,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "天",
+        "startTime": 17500,
+        "endTime": 17640,
+        "pinyin": "tiān"
+      },
+      {
+        "token": "内",
+        "startTime": 17640,
+        "endTime": 17780,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "就",
+        "startTime": 17780,
+        "endTime": 17900,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "通",
+        "startTime": 17900,
+        "endTime": 18030,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "过",
+        "startTime": 18030,
+        "endTime": 18160,
+        "pinyin": "guò"
+      },
+      {
+        "token": "货",
+        "startTime": 18160,
+        "endTime": 18350,
+        "pinyin": "huò"
+      },
+      {
+        "token": "运",
+        "startTime": 18350,
+        "endTime": 18540,
+        "pinyin": "yùn"
+      },
+      {
+        "token": "飞",
+        "startTime": 18540,
+        "endTime": 18760,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "机",
+        "startTime": 18760,
+        "endTime": 18980,
+        "pinyin": "jī"
+      },
+      {
+        "token": "或",
+        "startTime": 18980,
+        "endTime": 19110,
+        "pinyin": "huò"
+      },
+      {
+        "token": "是",
+        "startTime": 19110,
+        "endTime": 19240,
+        "pinyin": "shì"
+      },
+      {
+        "token": "海",
+        "startTime": 19240,
+        "endTime": 19410,
+        "pinyin": "hǎi"
+      },
+      {
+        "token": "运",
+        "startTime": 19410,
+        "endTime": 19580,
+        "pinyin": "yùn"
+      },
+      {
+        "token": "集",
+        "startTime": 19580,
+        "endTime": 19767,
+        "pinyin": "jí"
+      },
+      {
+        "token": "装",
+        "startTime": 19767,
+        "endTime": 19953,
+        "pinyin": "zhuāng"
+      },
+      {
+        "token": "箱",
+        "startTime": 19953,
+        "endTime": 20140,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "把",
+        "startTime": 20140,
+        "endTime": 20240,
+        "pinyin": "bǎ"
+      },
+      {
+        "token": "货",
+        "startTime": 20240,
+        "endTime": 20440,
+        "pinyin": "huò"
+      },
+      {
+        "token": "物",
+        "startTime": 20440,
+        "endTime": 20640,
+        "pinyin": "wù"
+      },
+      {
+        "token": "从",
+        "startTime": 20640,
+        "endTime": 20720,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "大",
+        "startTime": 20720,
+        "endTime": 20830,
+        "pinyin": "dà"
+      },
+      {
+        "token": "洋",
+        "startTime": 20830,
+        "endTime": 20940,
+        "pinyin": "yáng"
+      },
+      {
+        "token": "的",
+        "startTime": 20940,
+        "endTime": 21040,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 21040,
+        "endTime": 21240,
+        "pinyin": "yī"
+      },
+      {
+        "token": "端",
+        "startTime": 21240,
+        "endTime": 21440,
+        "pinyin": "duān"
+      },
+      {
+        "token": "运",
+        "startTime": 21440,
+        "endTime": 21620,
+        "pinyin": "yùn"
+      },
+      {
+        "token": "到",
+        "startTime": 21620,
+        "endTime": 21800,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 21800,
+        "endTime": 22160,
+        "pinyin": "le"
+      },
+      {
+        "token": "另",
+        "startTime": 22160,
+        "endTime": 22387,
+        "pinyin": "lìng"
+      },
+      {
+        "token": "一",
+        "startTime": 22387,
+        "endTime": 22613,
+        "pinyin": "yī"
+      },
+      {
+        "token": "端",
+        "startTime": 22613,
+        "endTime": 22840,
+        "pinyin": "duān"
+      }
+    ]
+  },
+  {
+    "sentence_text": "当今 全球 的 货物 和 信息 流动 的 速度 和 总量 都 是 史无前例 的",
+    "translations": {
+      "en": "The speed and volume of global goods and information flow today are unprecedented."
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 22840,
+        "endTime": 22980,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "今",
+        "startTime": 22980,
+        "endTime": 23120,
+        "pinyin": "jīn"
+      },
+      {
+        "token": "全",
+        "startTime": 23120,
+        "endTime": 23240,
+        "pinyin": "quán"
+      },
+      {
+        "token": "球",
+        "startTime": 23240,
+        "endTime": 23360,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "的",
+        "startTime": 23360,
+        "endTime": 23520,
+        "pinyin": "de"
+      },
+      {
+        "token": "货",
+        "startTime": 23520,
+        "endTime": 23660,
+        "pinyin": "huò"
+      },
+      {
+        "token": "物",
+        "startTime": 23660,
+        "endTime": 23800,
+        "pinyin": "wù"
+      },
+      {
+        "token": "和",
+        "startTime": 23800,
+        "endTime": 23980,
+        "pinyin": "hé"
+      },
+      {
+        "token": "信",
+        "startTime": 23980,
+        "endTime": 24100,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "息",
+        "startTime": 24100,
+        "endTime": 24220,
+        "pinyin": "xī"
+      },
+      {
+        "token": "流",
+        "startTime": 24220,
+        "endTime": 24410,
+        "pinyin": "liú"
+      },
+      {
+        "token": "动",
+        "startTime": 24410,
+        "endTime": 24600,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "的",
+        "startTime": 24600,
+        "endTime": 24760,
+        "pinyin": "de"
+      },
+      {
+        "token": "速",
+        "startTime": 24760,
+        "endTime": 24950,
+        "pinyin": "sù"
+      },
+      {
+        "token": "度",
+        "startTime": 24950,
+        "endTime": 25140,
+        "pinyin": "dù"
+      },
+      {
+        "token": "和",
+        "startTime": 25140,
+        "endTime": 25560,
+        "pinyin": "hé"
+      },
+      {
+        "token": "总",
+        "startTime": 25560,
+        "endTime": 25760,
+        "pinyin": "zǒng"
+      },
+      {
+        "token": "量",
+        "startTime": 25760,
+        "endTime": 25960,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "都",
+        "startTime": 25960,
+        "endTime": 26180,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "是",
+        "startTime": 26180,
+        "endTime": 26320,
+        "pinyin": "shì"
+      },
+      {
+        "token": "史",
+        "startTime": 26320,
+        "endTime": 26535,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "无",
+        "startTime": 26535,
+        "endTime": 26750,
+        "pinyin": "wú"
+      },
+      {
+        "token": "前",
+        "startTime": 26750,
+        "endTime": 26965,
+        "pinyin": "qián"
+      },
+      {
+        "token": "例",
+        "startTime": 26965,
+        "endTime": 27180,
+        "pinyin": "lì"
+      },
+      {
+        "token": "的",
+        "startTime": 27180,
+        "endTime": 27340,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但是 全球 商品 交流 的 历史 要 比 我们 想象 的",
+    "translations": {
+      "en": "But the history of global commodity exchange is older than we think."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 27340,
+        "endTime": 27520,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "是",
+        "startTime": 27520,
+        "endTime": 27700,
+        "pinyin": "shì"
+      },
+      {
+        "token": "全",
+        "startTime": 27700,
+        "endTime": 27890,
+        "pinyin": "quán"
+      },
+      {
+        "token": "球",
+        "startTime": 27890,
+        "endTime": 28080,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "商",
+        "startTime": 28080,
+        "endTime": 28230,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "品",
+        "startTime": 28230,
+        "endTime": 28380,
+        "pinyin": "pǐn"
+      },
+      {
+        "token": "交",
+        "startTime": 28380,
+        "endTime": 28590,
+        "pinyin": "jiāo"
+      },
+      {
+        "token": "流",
+        "startTime": 28590,
+        "endTime": 28800,
+        "pinyin": "liú"
+      },
+      {
+        "token": "的",
+        "startTime": 28800,
+        "endTime": 28920,
+        "pinyin": "de"
+      },
+      {
+        "token": "历",
+        "startTime": 28920,
+        "endTime": 29030,
+        "pinyin": "lì"
+      },
+      {
+        "token": "史",
+        "startTime": 29030,
+        "endTime": 29140,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "要",
+        "startTime": 29140,
+        "endTime": 29420,
+        "pinyin": "yào"
+      },
+      {
+        "token": "比",
+        "startTime": 29420,
+        "endTime": 29660,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "我",
+        "startTime": 29660,
+        "endTime": 29850,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 29850,
+        "endTime": 30040,
+        "pinyin": "men"
+      },
+      {
+        "token": "想",
+        "startTime": 30040,
+        "endTime": 30220,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "象",
+        "startTime": 30220,
+        "endTime": 30400,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "的",
+        "startTime": 30400,
+        "endTime": 30820,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "2000 年前 沿着 一条 5000 英里 长 的 道路 极 著名 的 丝绸之路 这一 活动 就 已经 开始",
+    "translations": {
+      "en": "2,000 years ago, along a 5,000-mile road, the famous Silk Road began this activity."
+    },
+    "segments": [
+      {
+        "token": "2",
+        "startTime": 30820,
+        "endTime": 30880,
+        "pinyin": "2"
+      },
+      {
+        "token": "0",
+        "startTime": 30880,
+        "endTime": 30940,
+        "pinyin": "0"
+      },
+      {
+        "token": "0",
+        "startTime": 30940,
+        "endTime": 31000,
+        "pinyin": "0"
+      },
+      {
+        "token": "0",
+        "startTime": 31000,
+        "endTime": 31060,
+        "pinyin": "0"
+      },
+      {
+        "token": "年",
+        "startTime": 31060,
+        "endTime": 31260,
+        "pinyin": "nián"
+      },
+      {
+        "token": "前",
+        "startTime": 31260,
+        "endTime": 31460,
+        "pinyin": "qián"
+      },
+      {
+        "token": "沿",
+        "startTime": 31460,
+        "endTime": 31760,
+        "pinyin": "yán"
+      },
+      {
+        "token": "着",
+        "startTime": 31760,
+        "endTime": 32060,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "一",
+        "startTime": 32060,
+        "endTime": 32190,
+        "pinyin": "yī"
+      },
+      {
+        "token": "条",
+        "startTime": 32190,
+        "endTime": 32320,
+        "pinyin": "tiáo"
+      },
+      {
+        "token": "5",
+        "startTime": 32320,
+        "endTime": 32425,
+        "pinyin": "5"
+      },
+      {
+        "token": "0",
+        "startTime": 32425,
+        "endTime": 32530,
+        "pinyin": "0"
+      },
+      {
+        "token": "0",
+        "startTime": 32530,
+        "endTime": 32635,
+        "pinyin": "0"
+      },
+      {
+        "token": "0",
+        "startTime": 32635,
+        "endTime": 32740,
+        "pinyin": "0"
+      },
+      {
+        "token": "英",
+        "startTime": 32740,
+        "endTime": 32930,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "里",
+        "startTime": 32930,
+        "endTime": 33120,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "长",
+        "startTime": 33120,
+        "endTime": 33340,
+        "pinyin": "zhǎng"
+      },
+      {
+        "token": "的",
+        "startTime": 33340,
+        "endTime": 33480,
+        "pinyin": "de"
+      },
+      {
+        "token": "道",
+        "startTime": 33480,
+        "endTime": 33680,
+        "pinyin": "dào"
+      },
+      {
+        "token": "路",
+        "startTime": 33680,
+        "endTime": 33880,
+        "pinyin": "lù"
+      },
+      {
+        "token": "极",
+        "startTime": 33880,
+        "endTime": 34040,
+        "pinyin": "jí"
+      },
+      {
+        "token": "著",
+        "startTime": 34040,
+        "endTime": 34210,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "名",
+        "startTime": 34210,
+        "endTime": 34380,
+        "pinyin": "míng"
+      },
+      {
+        "token": "的",
+        "startTime": 34380,
+        "endTime": 34520,
+        "pinyin": "de"
+      },
+      {
+        "token": "丝",
+        "startTime": 34520,
+        "endTime": 34675,
+        "pinyin": "sī"
+      },
+      {
+        "token": "绸",
+        "startTime": 34675,
+        "endTime": 34830,
+        "pinyin": "chóu"
+      },
+      {
+        "token": "之",
+        "startTime": 34830,
+        "endTime": 34985,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "路",
+        "startTime": 34985,
+        "endTime": 35140,
+        "pinyin": "lù"
+      },
+      {
+        "token": "这",
+        "startTime": 35140,
+        "endTime": 35330,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "一",
+        "startTime": 35330,
+        "endTime": 35520,
+        "pinyin": "yī"
+      },
+      {
+        "token": "活",
+        "startTime": 35520,
+        "endTime": 35660,
+        "pinyin": "huó"
+      },
+      {
+        "token": "动",
+        "startTime": 35660,
+        "endTime": 35800,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "就",
+        "startTime": 35800,
+        "endTime": 36040,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "已",
+        "startTime": 36040,
+        "endTime": 36140,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "经",
+        "startTime": 36140,
+        "endTime": 36240,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "开",
+        "startTime": 36240,
+        "endTime": 36480,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 36480,
+        "endTime": 36720,
+        "pinyin": "shǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "丝绸之路 并 不 只是 一条 道路 而是 许多 交错 纵横 的 路线",
+    "translations": {
+      "en": "The Silk Road was not just one road but many intersecting routes."
+    },
+    "segments": [
+      {
+        "token": "丝",
+        "startTime": 36720,
+        "endTime": 36895,
+        "pinyin": "sī"
+      },
+      {
+        "token": "绸",
+        "startTime": 36895,
+        "endTime": 37070,
+        "pinyin": "chóu"
+      },
+      {
+        "token": "之",
+        "startTime": 37070,
+        "endTime": 37245,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "路",
+        "startTime": 37245,
+        "endTime": 37420,
+        "pinyin": "lù"
+      },
+      {
+        "token": "并",
+        "startTime": 37420,
+        "endTime": 37740,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "不",
+        "startTime": 37740,
+        "endTime": 37860,
+        "pinyin": "bù"
+      },
+      {
+        "token": "只",
+        "startTime": 37860,
+        "endTime": 37960,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 37960,
+        "endTime": 38060,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 38060,
+        "endTime": 38220,
+        "pinyin": "yī"
+      },
+      {
+        "token": "条",
+        "startTime": 38220,
+        "endTime": 38380,
+        "pinyin": "tiáo"
+      },
+      {
+        "token": "道",
+        "startTime": 38380,
+        "endTime": 38660,
+        "pinyin": "dào"
+      },
+      {
+        "token": "路",
+        "startTime": 38660,
+        "endTime": 38940,
+        "pinyin": "lù"
+      },
+      {
+        "token": "而",
+        "startTime": 38940,
+        "endTime": 39090,
+        "pinyin": "ér"
+      },
+      {
+        "token": "是",
+        "startTime": 39090,
+        "endTime": 39240,
+        "pinyin": "shì"
+      },
+      {
+        "token": "许",
+        "startTime": 39240,
+        "endTime": 39390,
+        "pinyin": "xǔ"
+      },
+      {
+        "token": "多",
+        "startTime": 39390,
+        "endTime": 39540,
+        "pinyin": "duō"
+      },
+      {
+        "token": "交",
+        "startTime": 39540,
+        "endTime": 39740,
+        "pinyin": "jiāo"
+      },
+      {
+        "token": "错",
+        "startTime": 39740,
+        "endTime": 39940,
+        "pinyin": "cuò"
+      },
+      {
+        "token": "纵",
+        "startTime": 39940,
+        "endTime": 40120,
+        "pinyin": "zòng"
+      },
+      {
+        "token": "横",
+        "startTime": 40120,
+        "endTime": 40300,
+        "pinyin": "héng"
+      },
+      {
+        "token": "的",
+        "startTime": 40300,
+        "endTime": 40440,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 路线 是 在 几个 世纪 中 逐渐 出现 的",
+    "translations": {
+      "en": "These routes emerged gradually over centuries."
+    },
+    "segments": [
+      {
+        "token": "路",
+        "startTime": 40440,
+        "endTime": 40440,
+        "pinyin": "lù"
+      },
+      {
+        "token": "线",
+        "startTime": 40440,
+        "endTime": 40440,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "这",
+        "startTime": 40440,
+        "endTime": 40820,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 40820,
+        "endTime": 41200,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "路",
+        "startTime": 41200,
+        "endTime": 41350,
+        "pinyin": "lù"
+      },
+      {
+        "token": "线",
+        "startTime": 41350,
+        "endTime": 41500,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "是",
+        "startTime": 41500,
+        "endTime": 41720,
+        "pinyin": "shì"
+      },
+      {
+        "token": "在",
+        "startTime": 41720,
+        "endTime": 41860,
+        "pinyin": "zài"
+      },
+      {
+        "token": "几",
+        "startTime": 41860,
+        "endTime": 42030,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "个",
+        "startTime": 42030,
+        "endTime": 42200,
+        "pinyin": "gè"
+      },
+      {
+        "token": "世",
+        "startTime": 42200,
+        "endTime": 42330,
+        "pinyin": "shì"
+      },
+      {
+        "token": "纪",
+        "startTime": 42330,
+        "endTime": 42460,
+        "pinyin": "jì"
+      },
+      {
+        "token": "中",
+        "startTime": 42460,
+        "endTime": 42620,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "逐",
+        "startTime": 42620,
+        "endTime": 42850,
+        "pinyin": "zhú"
+      },
+      {
+        "token": "渐",
+        "startTime": 42850,
+        "endTime": 43080,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "出",
+        "startTime": 43080,
+        "endTime": 43270,
+        "pinyin": "chū"
+      },
+      {
+        "token": "现",
+        "startTime": 43270,
+        "endTime": 43460,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "的",
+        "startTime": 43460,
+        "endTime": 43640,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "一条条 的 路线 通向 不同 的 棋聚地 也 将 它们 相互连接 在 一起",
+    "translations": {
+      "en": "Different routes led to and connected various hubs."
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 43640,
+        "endTime": 43840,
+        "pinyin": "yī"
+      },
+      {
+        "token": "条",
+        "startTime": 43840,
+        "endTime": 44040,
+        "pinyin": "tiáo"
+      },
+      {
+        "token": "条",
+        "startTime": 44040,
+        "endTime": 44240,
+        "pinyin": "tiáo"
+      },
+      {
+        "token": "的",
+        "startTime": 44240,
+        "endTime": 44360,
+        "pinyin": "de"
+      },
+      {
+        "token": "路",
+        "startTime": 44360,
+        "endTime": 44520,
+        "pinyin": "lù"
+      },
+      {
+        "token": "线",
+        "startTime": 44520,
+        "endTime": 44680,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "通",
+        "startTime": 44680,
+        "endTime": 44860,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "向",
+        "startTime": 44860,
+        "endTime": 45040,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "不",
+        "startTime": 45040,
+        "endTime": 45190,
+        "pinyin": "bù"
+      },
+      {
+        "token": "同",
+        "startTime": 45190,
+        "endTime": 45340,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "的",
+        "startTime": 45340,
+        "endTime": 45640,
+        "pinyin": "de"
+      },
+      {
+        "token": "棋",
+        "startTime": 45640,
+        "endTime": 45780,
+        "pinyin": "qí"
+      },
+      {
+        "token": "聚",
+        "startTime": 45780,
+        "endTime": 45920,
+        "pinyin": "jù"
+      },
+      {
+        "token": "地",
+        "startTime": 45920,
+        "endTime": 46060,
+        "pinyin": "dì"
+      },
+      {
+        "token": "也",
+        "startTime": 46060,
+        "endTime": 46260,
+        "pinyin": "yě"
+      },
+      {
+        "token": "将",
+        "startTime": 46260,
+        "endTime": 46400,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "它",
+        "startTime": 46400,
+        "endTime": 46560,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 46560,
+        "endTime": 46720,
+        "pinyin": "men"
+      },
+      {
+        "token": "相",
+        "startTime": 46720,
+        "endTime": 46915,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "互",
+        "startTime": 46915,
+        "endTime": 47110,
+        "pinyin": "hù"
+      },
+      {
+        "token": "连",
+        "startTime": 47110,
+        "endTime": 47305,
+        "pinyin": "lián"
+      },
+      {
+        "token": "接",
+        "startTime": 47305,
+        "endTime": 47500,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "在",
+        "startTime": 47500,
+        "endTime": 47700,
+        "pinyin": "zài"
+      }
+    ]
+  },
+  {
+    "sentence_text": "最 原始 的 农业 文明 发源 于 偏远 的 肥沃 的 河谷 之中",
+    "translations": {
+      "en": "The earliest agricultural civilizations originated in remote, fertile river valleys."
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 47700,
+        "endTime": 47700,
+        "pinyin": "yì"
+      },
+      {
+        "token": "起",
+        "startTime": 47700,
+        "endTime": 47700,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": "最",
+        "startTime": 47700,
+        "endTime": 48260,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "原",
+        "startTime": 48260,
+        "endTime": 48460,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "始",
+        "startTime": 48460,
+        "endTime": 48660,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 48660,
+        "endTime": 48800,
+        "pinyin": "de"
+      },
+      {
+        "token": "农",
+        "startTime": 48800,
+        "endTime": 48950,
+        "pinyin": "nóng"
+      },
+      {
+        "token": "业",
+        "startTime": 48950,
+        "endTime": 49100,
+        "pinyin": "yè"
+      },
+      {
+        "token": "文",
+        "startTime": 49100,
+        "endTime": 49280,
+        "pinyin": "wén"
+      },
+      {
+        "token": "明",
+        "startTime": 49280,
+        "endTime": 49460,
+        "pinyin": "míng"
+      },
+      {
+        "token": "发",
+        "startTime": 49460,
+        "endTime": 49680,
+        "pinyin": "fā"
+      },
+      {
+        "token": "源",
+        "startTime": 49680,
+        "endTime": 49900,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "于",
+        "startTime": 49900,
+        "endTime": 50120,
+        "pinyin": "yú"
+      },
+      {
+        "token": "偏",
+        "startTime": 50120,
+        "endTime": 50440,
+        "pinyin": "piān"
+      },
+      {
+        "token": "远",
+        "startTime": 50440,
+        "endTime": 50760,
+        "pinyin": "yuǎn"
+      },
+      {
+        "token": "的",
+        "startTime": 50760,
+        "endTime": 51040,
+        "pinyin": "de"
+      },
+      {
+        "token": "肥",
+        "startTime": 51040,
+        "endTime": 51230,
+        "pinyin": "féi"
+      },
+      {
+        "token": "沃",
+        "startTime": 51230,
+        "endTime": 51420,
+        "pinyin": "wò"
+      },
+      {
+        "token": "的",
+        "startTime": 51420,
+        "endTime": 51620,
+        "pinyin": "de"
+      },
+      {
+        "token": "河",
+        "startTime": 51620,
+        "endTime": 51760,
+        "pinyin": "hé"
+      },
+      {
+        "token": "谷",
+        "startTime": 51760,
+        "endTime": 51900,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "之",
+        "startTime": 51900,
+        "endTime": 52090,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "中",
+        "startTime": 52090,
+        "endTime": 52280,
+        "pinyin": "zhōng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "周围 地势 的 不变 以及 对 未知 的 恐惧 阻碍 了 当地人 的 交往",
+    "translations": {
+      "en": "The rugged terrain and fear of the unknown hindered local interactions."
+    },
+    "segments": [
+      {
+        "token": "周",
+        "startTime": 52280,
+        "endTime": 52460,
+        "pinyin": "zhōu"
+      },
+      {
+        "token": "围",
+        "startTime": 52460,
+        "endTime": 52640,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "地",
+        "startTime": 52640,
+        "endTime": 52780,
+        "pinyin": "dì"
+      },
+      {
+        "token": "势",
+        "startTime": 52780,
+        "endTime": 52920,
+        "pinyin": "shì"
+      },
+      {
+        "token": "的",
+        "startTime": 52920,
+        "endTime": 53080,
+        "pinyin": "de"
+      },
+      {
+        "token": "不",
+        "startTime": 53080,
+        "endTime": 53210,
+        "pinyin": "bù"
+      },
+      {
+        "token": "变",
+        "startTime": 53210,
+        "endTime": 53340,
+        "pinyin": "biàn"
+      },
+      {
+        "token": "以",
+        "startTime": 53340,
+        "endTime": 53540,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 53540,
+        "endTime": 53740,
+        "pinyin": "jí"
+      },
+      {
+        "token": "对",
+        "startTime": 53740,
+        "endTime": 54020,
+        "pinyin": "duì"
+      },
+      {
+        "token": "未",
+        "startTime": 54020,
+        "endTime": 54170,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "知",
+        "startTime": 54170,
+        "endTime": 54320,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "的",
+        "startTime": 54320,
+        "endTime": 54480,
+        "pinyin": "de"
+      },
+      {
+        "token": "恐",
+        "startTime": 54480,
+        "endTime": 54680,
+        "pinyin": "kǒng"
+      },
+      {
+        "token": "惧",
+        "startTime": 54680,
+        "endTime": 54880,
+        "pinyin": "jù"
+      },
+      {
+        "token": "阻",
+        "startTime": 54880,
+        "endTime": 55120,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "碍",
+        "startTime": 55120,
+        "endTime": 55360,
+        "pinyin": "ài"
+      },
+      {
+        "token": "了",
+        "startTime": 55360,
+        "endTime": 55540,
+        "pinyin": "liǎo"
+      },
+      {
+        "token": "当",
+        "startTime": 55540,
+        "endTime": 55700,
+        "pinyin": "dàng"
+      },
+      {
+        "token": "地",
+        "startTime": 55700,
+        "endTime": 55860,
+        "pinyin": "dì"
+      },
+      {
+        "token": "人",
+        "startTime": 55860,
+        "endTime": 56020,
+        "pinyin": "rén"
+      },
+      {
+        "token": "的",
+        "startTime": 56020,
+        "endTime": 56140,
+        "pinyin": "de"
+      },
+      {
+        "token": "交",
+        "startTime": 56140,
+        "endTime": 56340,
+        "pinyin": "jiāo"
+      },
+      {
+        "token": "往",
+        "startTime": 56340,
+        "endTime": 56540,
+        "pinyin": "wǎng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "当地人 在 这里 居住 过 一段时间 后",
+    "translations": {
+      "en": "After living there for some time,"
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 56540,
+        "endTime": 56747,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "地",
+        "startTime": 56747,
+        "endTime": 56953,
+        "pinyin": "dì"
+      },
+      {
+        "token": "人",
+        "startTime": 56953,
+        "endTime": 57160,
+        "pinyin": "rén"
+      },
+      {
+        "token": "在",
+        "startTime": 57160,
+        "endTime": 57320,
+        "pinyin": "zài"
+      },
+      {
+        "token": "这",
+        "startTime": 57320,
+        "endTime": 57420,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "里",
+        "startTime": 57420,
+        "endTime": 57520,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "居",
+        "startTime": 57520,
+        "endTime": 57690,
+        "pinyin": "jū"
+      },
+      {
+        "token": "住",
+        "startTime": 57690,
+        "endTime": 57860,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "过",
+        "startTime": 57860,
+        "endTime": 58000,
+        "pinyin": "guò"
+      },
+      {
+        "token": "一",
+        "startTime": 58000,
+        "endTime": 58150,
+        "pinyin": "yī"
+      },
+      {
+        "token": "段",
+        "startTime": 58150,
+        "endTime": 58300,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "时",
+        "startTime": 58300,
+        "endTime": 58450,
+        "pinyin": "shí"
+      },
+      {
+        "token": "间",
+        "startTime": 58450,
+        "endTime": 58600,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "后",
+        "startTime": 58600,
+        "endTime": 58660,
+        "pinyin": "hòu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他们 发现 他们 在 干旱 的 沙漠 和 边界 周围 所住 着 的 不是 民间传说 里 的 魔鬼",
+    "translations": {
+      "en": "the locals discovered that those living in the dry deserts and borders were not demons from folklore,"
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 58660,
+        "endTime": 58860,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 58860,
+        "endTime": 59060,
+        "pinyin": "men"
+      },
+      {
+        "token": "发",
+        "startTime": 59060,
+        "endTime": 59300,
+        "pinyin": "fā"
+      },
+      {
+        "token": "现",
+        "startTime": 59300,
+        "endTime": 59540,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "他",
+        "startTime": 59540,
+        "endTime": 59670,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 59670,
+        "endTime": 59800,
+        "pinyin": "men"
+      },
+      {
+        "token": "在",
+        "startTime": 59800,
+        "endTime": 60000,
+        "pinyin": "zài"
+      },
+      {
+        "token": "干",
+        "startTime": 60000,
+        "endTime": 60170,
+        "pinyin": "gān"
+      },
+      {
+        "token": "旱",
+        "startTime": 60170,
+        "endTime": 60340,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "的",
+        "startTime": 60340,
+        "endTime": 60480,
+        "pinyin": "de"
+      },
+      {
+        "token": "沙",
+        "startTime": 60480,
+        "endTime": 60660,
+        "pinyin": "shā"
+      },
+      {
+        "token": "漠",
+        "startTime": 60660,
+        "endTime": 60840,
+        "pinyin": "mò"
+      },
+      {
+        "token": "和",
+        "startTime": 60840,
+        "endTime": 61120,
+        "pinyin": "hé"
+      },
+      {
+        "token": "边",
+        "startTime": 61120,
+        "endTime": 61300,
+        "pinyin": "biān"
+      },
+      {
+        "token": "界",
+        "startTime": 61300,
+        "endTime": 61480,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "周",
+        "startTime": 61480,
+        "endTime": 61640,
+        "pinyin": "zhōu"
+      },
+      {
+        "token": "围",
+        "startTime": 61640,
+        "endTime": 61800,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "所",
+        "startTime": 61800,
+        "endTime": 62040,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "住",
+        "startTime": 62040,
+        "endTime": 62280,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "着",
+        "startTime": 62280,
+        "endTime": 62420,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "的",
+        "startTime": 62420,
+        "endTime": 62420,
+        "pinyin": "de"
+      },
+      {
+        "token": "不",
+        "startTime": 62420,
+        "endTime": 62580,
+        "pinyin": "bú"
+      },
+      {
+        "token": "是",
+        "startTime": 62580,
+        "endTime": 62740,
+        "pinyin": "shì"
+      },
+      {
+        "token": "民",
+        "startTime": 62740,
+        "endTime": 62955,
+        "pinyin": "mín"
+      },
+      {
+        "token": "间",
+        "startTime": 62955,
+        "endTime": 63170,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "传",
+        "startTime": 63170,
+        "endTime": 63385,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "说",
+        "startTime": 63385,
+        "endTime": 63600,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "里",
+        "startTime": 63600,
+        "endTime": 63700,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 63700,
+        "endTime": 63820,
+        "pinyin": "de"
+      },
+      {
+        "token": "魔",
+        "startTime": 63820,
+        "endTime": 64010,
+        "pinyin": "mó"
+      },
+      {
+        "token": "鬼",
+        "startTime": 64010,
+        "endTime": 64200,
+        "pinyin": "guǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而是 马背上 的 游牧部落",
+    "translations": {
+      "en": "but nomadic tribes on horseback."
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 64200,
+        "endTime": 64400,
+        "pinyin": "ér"
+      },
+      {
+        "token": "是",
+        "startTime": 64400,
+        "endTime": 64599,
+        "pinyin": "shì"
+      },
+      {
+        "token": "马",
+        "startTime": 64599,
+        "endTime": 64759,
+        "pinyin": "mǎ"
+      },
+      {
+        "token": "背",
+        "startTime": 64759,
+        "endTime": 64920,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "上",
+        "startTime": 64920,
+        "endTime": 65080,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "的",
+        "startTime": 65080,
+        "endTime": 65220,
+        "pinyin": "de"
+      },
+      {
+        "token": "游",
+        "startTime": 65220,
+        "endTime": 65620,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "牧",
+        "startTime": 65620,
+        "endTime": 66020,
+        "pinyin": "mù"
+      },
+      {
+        "token": "部",
+        "startTime": 66020,
+        "endTime": 66420,
+        "pinyin": "bù"
+      },
+      {
+        "token": "落",
+        "startTime": 66420,
+        "endTime": 66820,
+        "pinyin": "luò"
+      }
+    ]
+  },
+  {
+    "sentence_text": "从 蒙古 到 匈牙利 遍布 的 西塞亚人 早就 跟 希腊 、 埃及 、 印度 以及 中国 有所 接触",
+    "translations": {
+      "en": "The Scythians, spanning from Mongolia to Hungary, had long been in contact with Greece, Egypt, India, and China."
+    },
+    "segments": [
+      {
+        "token": "从",
+        "startTime": 66820,
+        "endTime": 67040,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "蒙",
+        "startTime": 67040,
+        "endTime": 67180,
+        "pinyin": "méng"
+      },
+      {
+        "token": "古",
+        "startTime": 67180,
+        "endTime": 67320,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "到",
+        "startTime": 67320,
+        "endTime": 67600,
+        "pinyin": "dào"
+      },
+      {
+        "token": "匈",
+        "startTime": 67600,
+        "endTime": 67753,
+        "pinyin": "xiōng"
+      },
+      {
+        "token": "牙",
+        "startTime": 67753,
+        "endTime": 67907,
+        "pinyin": "yá"
+      },
+      {
+        "token": "利",
+        "startTime": 67907,
+        "endTime": 68060,
+        "pinyin": "lì"
+      },
+      {
+        "token": "遍",
+        "startTime": 68060,
+        "endTime": 68260,
+        "pinyin": "biàn"
+      },
+      {
+        "token": "布",
+        "startTime": 68260,
+        "endTime": 68460,
+        "pinyin": "bù"
+      },
+      {
+        "token": "的",
+        "startTime": 68460,
+        "endTime": 68600,
+        "pinyin": "de"
+      },
+      {
+        "token": "西",
+        "startTime": 68600,
+        "endTime": 68870,
+        "pinyin": "xī"
+      },
+      {
+        "token": "塞",
+        "startTime": 68870,
+        "endTime": 69140,
+        "pinyin": "sāi"
+      },
+      {
+        "token": "亚",
+        "startTime": 69140,
+        "endTime": 69410,
+        "pinyin": "yà"
+      },
+      {
+        "token": "人",
+        "startTime": 69410,
+        "endTime": 69680,
+        "pinyin": "rén"
+      },
+      {
+        "token": "早",
+        "startTime": 69680,
+        "endTime": 69840,
+        "pinyin": "zǎo"
+      },
+      {
+        "token": "就",
+        "startTime": 69840,
+        "endTime": 70000,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "跟",
+        "startTime": 70000,
+        "endTime": 70140,
+        "pinyin": "gēn"
+      },
+      {
+        "token": "希",
+        "startTime": 70140,
+        "endTime": 70510,
+        "pinyin": "xī"
+      },
+      {
+        "token": "腊",
+        "startTime": 70510,
+        "endTime": 70880,
+        "pinyin": "là"
+      },
+      {
+        "token": "、",
+        "startTime": 70880,
+        "endTime": 71000,
+        "pinyin": "、"
+      },
+      {
+        "token": "埃",
+        "startTime": 71000,
+        "endTime": 71200,
+        "pinyin": "āi"
+      },
+      {
+        "token": "及",
+        "startTime": 71200,
+        "endTime": 71400,
+        "pinyin": "jí"
+      },
+      {
+        "token": "、",
+        "startTime": 71400,
+        "endTime": 71580,
+        "pinyin": "、"
+      },
+      {
+        "token": "印",
+        "startTime": 71580,
+        "endTime": 71820,
+        "pinyin": "yìn"
+      },
+      {
+        "token": "度",
+        "startTime": 71820,
+        "endTime": 72060,
+        "pinyin": "dù"
+      },
+      {
+        "token": "以",
+        "startTime": 72060,
+        "endTime": 72250,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 72250,
+        "endTime": 72440,
+        "pinyin": "jí"
+      },
+      {
+        "token": "中",
+        "startTime": 72440,
+        "endTime": 72650,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 72650,
+        "endTime": 72860,
+        "pinyin": "guó"
+      },
+      {
+        "token": "有",
+        "startTime": 72860,
+        "endTime": 73260,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "所",
+        "startTime": 73260,
+        "endTime": 73660,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "接",
+        "startTime": 73660,
+        "endTime": 73830,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "触",
+        "startTime": 73830,
+        "endTime": 74000,
+        "pinyin": "chù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 接触 通常 都 不是 和平 的",
+    "translations": {
+      "en": "These contacts were often not peaceful."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 74000,
+        "endTime": 74150,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 74150,
+        "endTime": 74300,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "接",
+        "startTime": 74300,
+        "endTime": 74550,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "触",
+        "startTime": 74550,
+        "endTime": 74800,
+        "pinyin": "chù"
+      },
+      {
+        "token": "通",
+        "startTime": 74800,
+        "endTime": 75010,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "常",
+        "startTime": 75010,
+        "endTime": 75220,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "都",
+        "startTime": 75220,
+        "endTime": 75400,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "不",
+        "startTime": 75400,
+        "endTime": 75910,
+        "pinyin": "bú"
+      },
+      {
+        "token": "是",
+        "startTime": 75910,
+        "endTime": 76420,
+        "pinyin": "shì"
+      },
+      {
+        "token": "和",
+        "startTime": 76420,
+        "endTime": 76590,
+        "pinyin": "hé"
+      },
+      {
+        "token": "平",
+        "startTime": 76590,
+        "endTime": 76760,
+        "pinyin": "píng"
+      },
+      {
+        "token": "的",
+        "startTime": 76760,
+        "endTime": 76860,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 即使 通过 突袭 和 战争 以及 贸易 和 保护",
+    "translations": {
+      "en": "But even through raids, wars, trade, and protection,"
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 76860,
+        "endTime": 77040,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "即",
+        "startTime": 77040,
+        "endTime": 77180,
+        "pinyin": "jí"
+      },
+      {
+        "token": "使",
+        "startTime": 77180,
+        "endTime": 77320,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "通",
+        "startTime": 77320,
+        "endTime": 77530,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "过",
+        "startTime": 77530,
+        "endTime": 77740,
+        "pinyin": "guò"
+      },
+      {
+        "token": "突",
+        "startTime": 77740,
+        "endTime": 78130,
+        "pinyin": "tū"
+      },
+      {
+        "token": "袭",
+        "startTime": 78130,
+        "endTime": 78520,
+        "pinyin": "xí"
+      },
+      {
+        "token": "和",
+        "startTime": 78520,
+        "endTime": 78740,
+        "pinyin": "hé"
+      },
+      {
+        "token": "战",
+        "startTime": 78740,
+        "endTime": 78930,
+        "pinyin": "zhàn"
+      },
+      {
+        "token": "争",
+        "startTime": 78930,
+        "endTime": 79120,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "以",
+        "startTime": 79120,
+        "endTime": 79270,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 79270,
+        "endTime": 79420,
+        "pinyin": "jí"
+      },
+      {
+        "token": "贸",
+        "startTime": 79420,
+        "endTime": 79580,
+        "pinyin": "mào"
+      },
+      {
+        "token": "易",
+        "startTime": 79580,
+        "endTime": 79740,
+        "pinyin": "yì"
+      },
+      {
+        "token": "和",
+        "startTime": 79740,
+        "endTime": 79900,
+        "pinyin": "hé"
+      },
+      {
+        "token": "保",
+        "startTime": 79900,
+        "endTime": 80255,
+        "pinyin": "bǎo"
+      },
+      {
+        "token": "护",
+        "startTime": 80255,
+        "endTime": 80610,
+        "pinyin": "hù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "旅行 商人 以 换取 关税",
+    "translations": {
+      "en": "traveling merchants exchanged tariffs,"
+    },
+    "segments": [
+      {
+        "token": "旅",
+        "startTime": 80610,
+        "endTime": 80770,
+        "pinyin": "lǚ"
+      },
+      {
+        "token": "行",
+        "startTime": 80770,
+        "endTime": 80930,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "商",
+        "startTime": 80930,
+        "endTime": 81110,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "人",
+        "startTime": 81110,
+        "endTime": 81290,
+        "pinyin": "rén"
+      },
+      {
+        "token": "以",
+        "startTime": 81290,
+        "endTime": 82270,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "换",
+        "startTime": 82270,
+        "endTime": 82400,
+        "pinyin": "huàn"
+      },
+      {
+        "token": "取",
+        "startTime": 82400,
+        "endTime": 82530,
+        "pinyin": "qǔ"
+      },
+      {
+        "token": "关",
+        "startTime": 82530,
+        "endTime": 82690,
+        "pinyin": "guān"
+      },
+      {
+        "token": "税",
+        "startTime": 82690,
+        "endTime": 82850,
+        "pinyin": "shuì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "游牧民族 也 开始 在 没有 直接 接触 的 文化 之间 传播 商品 、 思想 和 技术",
+    "translations": {
+      "en": "and nomads began spreading goods, ideas, and technologies between cultures that had no direct contact."
+    },
+    "segments": [
+      {
+        "token": "游",
+        "startTime": 82850,
+        "endTime": 82995,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "牧",
+        "startTime": 82995,
+        "endTime": 83140,
+        "pinyin": "mù"
+      },
+      {
+        "token": "民",
+        "startTime": 83140,
+        "endTime": 83285,
+        "pinyin": "mín"
+      },
+      {
+        "token": "族",
+        "startTime": 83285,
+        "endTime": 83430,
+        "pinyin": "zú"
+      },
+      {
+        "token": "也",
+        "startTime": 83430,
+        "endTime": 83670,
+        "pinyin": "yě"
+      },
+      {
+        "token": "开",
+        "startTime": 83670,
+        "endTime": 83810,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 83810,
+        "endTime": 83950,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "在",
+        "startTime": 83950,
+        "endTime": 84210,
+        "pinyin": "zài"
+      },
+      {
+        "token": "没",
+        "startTime": 84210,
+        "endTime": 84340,
+        "pinyin": "méi"
+      },
+      {
+        "token": "有",
+        "startTime": 84340,
+        "endTime": 84470,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "直",
+        "startTime": 84470,
+        "endTime": 84620,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "接",
+        "startTime": 84620,
+        "endTime": 84770,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "接",
+        "startTime": 84770,
+        "endTime": 84840,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "触",
+        "startTime": 84840,
+        "endTime": 84910,
+        "pinyin": "chù"
+      },
+      {
+        "token": "的",
+        "startTime": 84910,
+        "endTime": 85750,
+        "pinyin": "de"
+      },
+      {
+        "token": "文",
+        "startTime": 85750,
+        "endTime": 85940,
+        "pinyin": "wén"
+      },
+      {
+        "token": "化",
+        "startTime": 85940,
+        "endTime": 86130,
+        "pinyin": "huà"
+      },
+      {
+        "token": "之",
+        "startTime": 86130,
+        "endTime": 86400,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 86400,
+        "endTime": 86670,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "传",
+        "startTime": 86670,
+        "endTime": 86850,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "播",
+        "startTime": 86850,
+        "endTime": 87030,
+        "pinyin": "bō"
+      },
+      {
+        "token": "商",
+        "startTime": 87030,
+        "endTime": 87270,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "品",
+        "startTime": 87270,
+        "endTime": 87510,
+        "pinyin": "pǐn"
+      },
+      {
+        "token": "、",
+        "startTime": 87510,
+        "endTime": 88450,
+        "pinyin": "、"
+      },
+      {
+        "token": "思",
+        "startTime": 88450,
+        "endTime": 88660,
+        "pinyin": "sī"
+      },
+      {
+        "token": "想",
+        "startTime": 88660,
+        "endTime": 88870,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "和",
+        "startTime": 88870,
+        "endTime": 88990,
+        "pinyin": "hé"
+      },
+      {
+        "token": "技",
+        "startTime": 88990,
+        "endTime": 89160,
+        "pinyin": "jì"
+      },
+      {
+        "token": "术",
+        "startTime": 89160,
+        "endTime": 89330,
+        "pinyin": "shù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 这个 不断扩大 的 网络 当中 最 重要 的 一条 就要 数 波斯 玉道 了",
+    "translations": {
+      "en": "Among the most important routes in this expanding network was the Persian Royal Road."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 89330,
+        "endTime": 89530,
+        "pinyin": "zài"
+      },
+      {
+        "token": "这",
+        "startTime": 89530,
+        "endTime": 89690,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "个",
+        "startTime": 89690,
+        "endTime": 89850,
+        "pinyin": "ge"
+      },
+      {
+        "token": "不",
+        "startTime": 89850,
+        "endTime": 90145,
+        "pinyin": "bù"
+      },
+      {
+        "token": "断",
+        "startTime": 90145,
+        "endTime": 90440,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "扩",
+        "startTime": 90440,
+        "endTime": 90735,
+        "pinyin": "kuò"
+      },
+      {
+        "token": "大",
+        "startTime": 90735,
+        "endTime": 91030,
+        "pinyin": "dà"
+      },
+      {
+        "token": "的",
+        "startTime": 91030,
+        "endTime": 91190,
+        "pinyin": "de"
+      },
+      {
+        "token": "网",
+        "startTime": 91190,
+        "endTime": 91290,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "络",
+        "startTime": 91290,
+        "endTime": 91390,
+        "pinyin": "luò"
+      },
+      {
+        "token": "当",
+        "startTime": 91390,
+        "endTime": 91650,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "中",
+        "startTime": 91650,
+        "endTime": 91910,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "最",
+        "startTime": 91910,
+        "endTime": 92110,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "重",
+        "startTime": 92110,
+        "endTime": 92360,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "要",
+        "startTime": 92360,
+        "endTime": 92610,
+        "pinyin": "yào"
+      },
+      {
+        "token": "的",
+        "startTime": 92610,
+        "endTime": 92750,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 92750,
+        "endTime": 92750,
+        "pinyin": "yī"
+      },
+      {
+        "token": "条",
+        "startTime": 92750,
+        "endTime": 92750,
+        "pinyin": "tiáo"
+      },
+      {
+        "token": "就",
+        "startTime": 92750,
+        "endTime": 93250,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "要",
+        "startTime": 93250,
+        "endTime": 93750,
+        "pinyin": "yào"
+      },
+      {
+        "token": "数",
+        "startTime": 93750,
+        "endTime": 93890,
+        "pinyin": "shù"
+      },
+      {
+        "token": "波",
+        "startTime": 93890,
+        "endTime": 94070,
+        "pinyin": "bō"
+      },
+      {
+        "token": "斯",
+        "startTime": 94070,
+        "endTime": 94250,
+        "pinyin": "sī"
+      },
+      {
+        "token": "玉",
+        "startTime": 94250,
+        "endTime": 94380,
+        "pinyin": "yù"
+      },
+      {
+        "token": "道",
+        "startTime": 94380,
+        "endTime": 94510,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 94510,
+        "endTime": 94650,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这条 玉道 是 在 公元前 五 世纪 由 大流士 一世 完成 的",
+    "translations": {
+      "en": "This jade road was completed by Darius I in the 5th century BC."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 94650,
+        "endTime": 94870,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "条",
+        "startTime": 94870,
+        "endTime": 95077,
+        "pinyin": "tiáo"
+      },
+      {
+        "token": "玉",
+        "startTime": 95077,
+        "endTime": 95283,
+        "pinyin": "yù"
+      },
+      {
+        "token": "道",
+        "startTime": 95283,
+        "endTime": 95490,
+        "pinyin": "dào"
+      },
+      {
+        "token": "是",
+        "startTime": 95490,
+        "endTime": 95770,
+        "pinyin": "shì"
+      },
+      {
+        "token": "在",
+        "startTime": 95770,
+        "endTime": 95930,
+        "pinyin": "zài"
+      },
+      {
+        "token": "公",
+        "startTime": 95930,
+        "endTime": 96103,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "元",
+        "startTime": 96103,
+        "endTime": 96277,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "前",
+        "startTime": 96277,
+        "endTime": 96450,
+        "pinyin": "qián"
+      },
+      {
+        "token": "五",
+        "startTime": 96450,
+        "endTime": 96530,
+        "pinyin": "wǔ"
+      },
+      {
+        "token": "世",
+        "startTime": 96530,
+        "endTime": 96710,
+        "pinyin": "shì"
+      },
+      {
+        "token": "纪",
+        "startTime": 96710,
+        "endTime": 96890,
+        "pinyin": "jì"
+      },
+      {
+        "token": "由",
+        "startTime": 96890,
+        "endTime": 97090,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "大",
+        "startTime": 97090,
+        "endTime": 97350,
+        "pinyin": "dà"
+      },
+      {
+        "token": "流",
+        "startTime": 97350,
+        "endTime": 97610,
+        "pinyin": "liú"
+      },
+      {
+        "token": "士",
+        "startTime": 97610,
+        "endTime": 97870,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 97870,
+        "endTime": 98000,
+        "pinyin": "yī"
+      },
+      {
+        "token": "世",
+        "startTime": 98000,
+        "endTime": 98130,
+        "pinyin": "shì"
+      },
+      {
+        "token": "完",
+        "startTime": 98130,
+        "endTime": 98280,
+        "pinyin": "wán"
+      },
+      {
+        "token": "成",
+        "startTime": 98280,
+        "endTime": 98430,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "的",
+        "startTime": 98430,
+        "endTime": 98830,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 从 底格里斯河 一直 绵延 至 爱琴海 全长约 两千 英里",
+    "translations": {
+      "en": "It stretched from the Tigris River to the Aegean Sea, about 2,000 miles long."
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 98830,
+        "endTime": 99090,
+        "pinyin": "tā"
+      },
+      {
+        "token": "从",
+        "startTime": 99090,
+        "endTime": 99190,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "底",
+        "startTime": 99190,
+        "endTime": 99458,
+        "pinyin": "dǐ"
+      },
+      {
+        "token": "格",
+        "startTime": 99458,
+        "endTime": 99726,
+        "pinyin": "gé"
+      },
+      {
+        "token": "里",
+        "startTime": 99726,
+        "endTime": 99994,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "斯",
+        "startTime": 99994,
+        "endTime": 100262,
+        "pinyin": "sī"
+      },
+      {
+        "token": "河",
+        "startTime": 100262,
+        "endTime": 100530,
+        "pinyin": "hé"
+      },
+      {
+        "token": "一",
+        "startTime": 100530,
+        "endTime": 100670,
+        "pinyin": "yì"
+      },
+      {
+        "token": "直",
+        "startTime": 100670,
+        "endTime": 100810,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "绵",
+        "startTime": 100810,
+        "endTime": 101010,
+        "pinyin": "mián"
+      },
+      {
+        "token": "延",
+        "startTime": 101010,
+        "endTime": 101210,
+        "pinyin": "yán"
+      },
+      {
+        "token": "至",
+        "startTime": 101210,
+        "endTime": 101390,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "爱",
+        "startTime": 101390,
+        "endTime": 101617,
+        "pinyin": "ài"
+      },
+      {
+        "token": "琴",
+        "startTime": 101617,
+        "endTime": 101843,
+        "pinyin": "qín"
+      },
+      {
+        "token": "海",
+        "startTime": 101843,
+        "endTime": 102070,
+        "pinyin": "hǎi"
+      },
+      {
+        "token": "全",
+        "startTime": 102070,
+        "endTime": 102223,
+        "pinyin": "quán"
+      },
+      {
+        "token": "长",
+        "startTime": 102223,
+        "endTime": 102377,
+        "pinyin": "zhǎng"
+      },
+      {
+        "token": "约",
+        "startTime": 102377,
+        "endTime": 102530,
+        "pinyin": "yuē"
+      },
+      {
+        "token": "两",
+        "startTime": 102530,
+        "endTime": 102700,
+        "pinyin": "liǎng"
+      },
+      {
+        "token": "千",
+        "startTime": 102700,
+        "endTime": 102870,
+        "pinyin": "qiān"
+      },
+      {
+        "token": "英",
+        "startTime": 102870,
+        "endTime": 103120,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "里",
+        "startTime": 103120,
+        "endTime": 103370,
+        "pinyin": "lǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "货物 和 信息 在 其中 祭典 通行 所 需 的 时间 仅 是 单个 旅客 所 需 时间 的 十分之一",
+    "translations": {
+      "en": "Goods and information traveled along it in a fraction of the time it took a single traveler."
+    },
+    "segments": [
+      {
+        "token": "货",
+        "startTime": 103370,
+        "endTime": 103540,
+        "pinyin": "huò"
+      },
+      {
+        "token": "物",
+        "startTime": 103540,
+        "endTime": 103710,
+        "pinyin": "wù"
+      },
+      {
+        "token": "和",
+        "startTime": 103710,
+        "endTime": 103970,
+        "pinyin": "hé"
+      },
+      {
+        "token": "信",
+        "startTime": 103970,
+        "endTime": 104160,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "息",
+        "startTime": 104160,
+        "endTime": 104350,
+        "pinyin": "xī"
+      },
+      {
+        "token": "在",
+        "startTime": 104350,
+        "endTime": 104470,
+        "pinyin": "zài"
+      },
+      {
+        "token": "其",
+        "startTime": 104470,
+        "endTime": 104650,
+        "pinyin": "qí"
+      },
+      {
+        "token": "中",
+        "startTime": 104650,
+        "endTime": 104830,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "祭",
+        "startTime": 104830,
+        "endTime": 105060,
+        "pinyin": "jì"
+      },
+      {
+        "token": "典",
+        "startTime": 105060,
+        "endTime": 105290,
+        "pinyin": "diǎn"
+      },
+      {
+        "token": "通",
+        "startTime": 105290,
+        "endTime": 105460,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "行",
+        "startTime": 105460,
+        "endTime": 105630,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "所",
+        "startTime": 105630,
+        "endTime": 105790,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "需",
+        "startTime": 105790,
+        "endTime": 105950,
+        "pinyin": "xū"
+      },
+      {
+        "token": "的",
+        "startTime": 105950,
+        "endTime": 106250,
+        "pinyin": "de"
+      },
+      {
+        "token": "时",
+        "startTime": 106250,
+        "endTime": 106450,
+        "pinyin": "shí"
+      },
+      {
+        "token": "间",
+        "startTime": 106450,
+        "endTime": 106650,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "仅",
+        "startTime": 106650,
+        "endTime": 106850,
+        "pinyin": "jǐn"
+      },
+      {
+        "token": "是",
+        "startTime": 106850,
+        "endTime": 107090,
+        "pinyin": "shì"
+      },
+      {
+        "token": "单",
+        "startTime": 107090,
+        "endTime": 107250,
+        "pinyin": "dān"
+      },
+      {
+        "token": "个",
+        "startTime": 107250,
+        "endTime": 107410,
+        "pinyin": "gè"
+      },
+      {
+        "token": "旅",
+        "startTime": 107410,
+        "endTime": 107850,
+        "pinyin": "lǚ"
+      },
+      {
+        "token": "客",
+        "startTime": 107850,
+        "endTime": 108290,
+        "pinyin": "kè"
+      },
+      {
+        "token": "所",
+        "startTime": 108290,
+        "endTime": 108290,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "需",
+        "startTime": 108290,
+        "endTime": 108870,
+        "pinyin": "xū"
+      },
+      {
+        "token": "时",
+        "startTime": 108870,
+        "endTime": 108980,
+        "pinyin": "shí"
+      },
+      {
+        "token": "间",
+        "startTime": 108980,
+        "endTime": 109090,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 109090,
+        "endTime": 109250,
+        "pinyin": "de"
+      },
+      {
+        "token": "十",
+        "startTime": 109250,
+        "endTime": 109430,
+        "pinyin": "shí"
+      },
+      {
+        "token": "分",
+        "startTime": 109430,
+        "endTime": 109610,
+        "pinyin": "fēn"
+      },
+      {
+        "token": "之",
+        "startTime": 109610,
+        "endTime": 109790,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "一",
+        "startTime": 109790,
+        "endTime": 109970,
+        "pinyin": "yī"
+      }
+    ]
+  },
+  {
+    "sentence_text": "随后 亚历山大 大地 征服 了 波斯",
+    "translations": {
+      "en": "Then Alexander the Great conquered Persia."
+    },
+    "segments": [
+      {
+        "token": "随",
+        "startTime": 109970,
+        "endTime": 110110,
+        "pinyin": "suí"
+      },
+      {
+        "token": "后",
+        "startTime": 110110,
+        "endTime": 110250,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "亚",
+        "startTime": 110250,
+        "endTime": 110480,
+        "pinyin": "yà"
+      },
+      {
+        "token": "历",
+        "startTime": 110480,
+        "endTime": 110710,
+        "pinyin": "lì"
+      },
+      {
+        "token": "山",
+        "startTime": 110710,
+        "endTime": 110940,
+        "pinyin": "shān"
+      },
+      {
+        "token": "大",
+        "startTime": 110940,
+        "endTime": 111170,
+        "pinyin": "dà"
+      },
+      {
+        "token": "大",
+        "startTime": 111170,
+        "endTime": 111320,
+        "pinyin": "dà"
+      },
+      {
+        "token": "地",
+        "startTime": 111320,
+        "endTime": 111470,
+        "pinyin": "dì"
+      },
+      {
+        "token": "征",
+        "startTime": 111470,
+        "endTime": 111680,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "服",
+        "startTime": 111680,
+        "endTime": 111890,
+        "pinyin": "fú"
+      },
+      {
+        "token": "了",
+        "startTime": 111890,
+        "endTime": 112010,
+        "pinyin": "le"
+      },
+      {
+        "token": "波",
+        "startTime": 112010,
+        "endTime": 112170,
+        "pinyin": "bō"
+      },
+      {
+        "token": "斯",
+        "startTime": 112170,
+        "endTime": 112330,
+        "pinyin": "sī"
+      }
+    ]
+  },
+  {
+    "sentence_text": "通过 占领 例如 萨玛尔汗 这种 城市 其 疆域 一直 扩展 到 了 中亚",
+    "translations": {
+      "en": "By capturing cities like Samarkand, his empire expanded into Central Asia."
+    },
+    "segments": [
+      {
+        "token": "通",
+        "startTime": 112330,
+        "endTime": 112520,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "过",
+        "startTime": 112520,
+        "endTime": 112710,
+        "pinyin": "guò"
+      },
+      {
+        "token": "占",
+        "startTime": 112710,
+        "endTime": 112920,
+        "pinyin": "zhàn"
+      },
+      {
+        "token": "领",
+        "startTime": 112920,
+        "endTime": 113130,
+        "pinyin": "lǐng"
+      },
+      {
+        "token": "例",
+        "startTime": 113130,
+        "endTime": 113340,
+        "pinyin": "lì"
+      },
+      {
+        "token": "如",
+        "startTime": 113340,
+        "endTime": 113550,
+        "pinyin": "rú"
+      },
+      {
+        "token": "萨",
+        "startTime": 113550,
+        "endTime": 113725,
+        "pinyin": "sà"
+      },
+      {
+        "token": "玛",
+        "startTime": 113725,
+        "endTime": 113900,
+        "pinyin": "mǎ"
+      },
+      {
+        "token": "尔",
+        "startTime": 113900,
+        "endTime": 114075,
+        "pinyin": "ěr"
+      },
+      {
+        "token": "汗",
+        "startTime": 114075,
+        "endTime": 114250,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "这",
+        "startTime": 114250,
+        "endTime": 114420,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 114420,
+        "endTime": 114590,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "城",
+        "startTime": 114590,
+        "endTime": 114910,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "市",
+        "startTime": 114910,
+        "endTime": 115230,
+        "pinyin": "shì"
+      },
+      {
+        "token": "其",
+        "startTime": 115230,
+        "endTime": 115390,
+        "pinyin": "qí"
+      },
+      {
+        "token": "疆",
+        "startTime": 115390,
+        "endTime": 115550,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "域",
+        "startTime": 115550,
+        "endTime": 115710,
+        "pinyin": "yù"
+      },
+      {
+        "token": "一",
+        "startTime": 115710,
+        "endTime": 115850,
+        "pinyin": "yì"
+      },
+      {
+        "token": "直",
+        "startTime": 115850,
+        "endTime": 115990,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "扩",
+        "startTime": 115990,
+        "endTime": 116130,
+        "pinyin": "kuò"
+      },
+      {
+        "token": "展",
+        "startTime": 116130,
+        "endTime": 116270,
+        "pinyin": "zhǎn"
+      },
+      {
+        "token": "到",
+        "startTime": 116270,
+        "endTime": 116410,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 116410,
+        "endTime": 116570,
+        "pinyin": "le"
+      },
+      {
+        "token": "中",
+        "startTime": 116570,
+        "endTime": 116760,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "亚",
+        "startTime": 116760,
+        "endTime": 116950,
+        "pinyin": "yà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "此外 它 还 创建 了 例如 苦展 城 这样 新 的 城池",
+    "translations": {
+      "en": "He also founded new cities, such as Alexandria Eschate."
+    },
+    "segments": [
+      {
+        "token": "此",
+        "startTime": 116950,
+        "endTime": 117220,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "外",
+        "startTime": 117220,
+        "endTime": 117490,
+        "pinyin": "wài"
+      },
+      {
+        "token": "它",
+        "startTime": 117490,
+        "endTime": 117710,
+        "pinyin": "tā"
+      },
+      {
+        "token": "还",
+        "startTime": 117710,
+        "endTime": 117870,
+        "pinyin": "hái"
+      },
+      {
+        "token": "创",
+        "startTime": 117870,
+        "endTime": 118180,
+        "pinyin": "chuàng"
+      },
+      {
+        "token": "建",
+        "startTime": 118180,
+        "endTime": 118490,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "了",
+        "startTime": 118490,
+        "endTime": 118690,
+        "pinyin": "le"
+      },
+      {
+        "token": "例",
+        "startTime": 118690,
+        "endTime": 119000,
+        "pinyin": "lì"
+      },
+      {
+        "token": "如",
+        "startTime": 119000,
+        "endTime": 119310,
+        "pinyin": "rú"
+      },
+      {
+        "token": "苦",
+        "startTime": 119310,
+        "endTime": 119560,
+        "pinyin": "kǔ"
+      },
+      {
+        "token": "展",
+        "startTime": 119560,
+        "endTime": 119810,
+        "pinyin": "zhǎn"
+      },
+      {
+        "token": "城",
+        "startTime": 119810,
+        "endTime": 119810,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "这",
+        "startTime": 119810,
+        "endTime": 120130,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "样",
+        "startTime": 120130,
+        "endTime": 120450,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "新",
+        "startTime": 120450,
+        "endTime": 120630,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "的",
+        "startTime": 120630,
+        "endTime": 120801,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "希腊 埃及 波斯 以及 印度 这些 国家 的 文明 和 贸易 网络 向东 扩展 的 程度 达到 了 历史 之 最",
+    "translations": {
+      "en": "The civilizations and trade networks of Greece, Egypt, Persia, and India expanded eastward to an unprecedented extent."
+    },
+    "segments": [
+      {
+        "token": "城",
+        "startTime": 120850,
+        "endTime": 121030,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "池",
+        "startTime": 121030,
+        "endTime": 121210,
+        "pinyin": "chí"
+      },
+      {
+        "token": "希",
+        "startTime": 121210,
+        "endTime": 121350,
+        "pinyin": "xī"
+      },
+      {
+        "token": "腊",
+        "startTime": 121350,
+        "endTime": 121490,
+        "pinyin": "là"
+      },
+      {
+        "token": "埃",
+        "startTime": 121490,
+        "endTime": 121630,
+        "pinyin": "āi"
+      },
+      {
+        "token": "及",
+        "startTime": 121630,
+        "endTime": 121770,
+        "pinyin": "jí"
+      },
+      {
+        "token": "波",
+        "startTime": 121770,
+        "endTime": 121940,
+        "pinyin": "bō"
+      },
+      {
+        "token": "斯",
+        "startTime": 121940,
+        "endTime": 122110,
+        "pinyin": "sī"
+      },
+      {
+        "token": "以",
+        "startTime": 122110,
+        "endTime": 122250,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 122250,
+        "endTime": 122390,
+        "pinyin": "jí"
+      },
+      {
+        "token": "印",
+        "startTime": 122390,
+        "endTime": 122650,
+        "pinyin": "yìn"
+      },
+      {
+        "token": "度",
+        "startTime": 122650,
+        "endTime": 122910,
+        "pinyin": "dù"
+      },
+      {
+        "token": "这",
+        "startTime": 122910,
+        "endTime": 123130,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 123130,
+        "endTime": 123350,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "国",
+        "startTime": 123350,
+        "endTime": 123520,
+        "pinyin": "guó"
+      },
+      {
+        "token": "家",
+        "startTime": 123520,
+        "endTime": 123690,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "的",
+        "startTime": 123690,
+        "endTime": 123810,
+        "pinyin": "de"
+      },
+      {
+        "token": "文",
+        "startTime": 123810,
+        "endTime": 123970,
+        "pinyin": "wén"
+      },
+      {
+        "token": "明",
+        "startTime": 123970,
+        "endTime": 124130,
+        "pinyin": "míng"
+      },
+      {
+        "token": "和",
+        "startTime": 124130,
+        "endTime": 124410,
+        "pinyin": "hé"
+      },
+      {
+        "token": "贸",
+        "startTime": 124410,
+        "endTime": 124520,
+        "pinyin": "mào"
+      },
+      {
+        "token": "易",
+        "startTime": 124520,
+        "endTime": 124630,
+        "pinyin": "yì"
+      },
+      {
+        "token": "网",
+        "startTime": 124630,
+        "endTime": 124840,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "络",
+        "startTime": 124840,
+        "endTime": 125050,
+        "pinyin": "luò"
+      },
+      {
+        "token": "向",
+        "startTime": 125050,
+        "endTime": 125280,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "东",
+        "startTime": 125280,
+        "endTime": 125510,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "扩",
+        "startTime": 125510,
+        "endTime": 125640,
+        "pinyin": "kuò"
+      },
+      {
+        "token": "展",
+        "startTime": 125640,
+        "endTime": 125770,
+        "pinyin": "zhǎn"
+      },
+      {
+        "token": "的",
+        "startTime": 125770,
+        "endTime": 126050,
+        "pinyin": "de"
+      },
+      {
+        "token": "程",
+        "startTime": 126050,
+        "endTime": 126220,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "度",
+        "startTime": 126220,
+        "endTime": 126390,
+        "pinyin": "dù"
+      },
+      {
+        "token": "达",
+        "startTime": 126390,
+        "endTime": 126560,
+        "pinyin": "dá"
+      },
+      {
+        "token": "到",
+        "startTime": 126560,
+        "endTime": 126730,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 126730,
+        "endTime": 126830,
+        "pinyin": "le"
+      },
+      {
+        "token": "历",
+        "startTime": 126830,
+        "endTime": 126940,
+        "pinyin": "lì"
+      },
+      {
+        "token": "史",
+        "startTime": 126940,
+        "endTime": 127050,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "之",
+        "startTime": 127050,
+        "endTime": 127210,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "最",
+        "startTime": 127210,
+        "endTime": 127450,
+        "pinyin": "zuì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这为 中国 和 西方 之间 的 沟通 桥梁 打下 了 基础",
+    "translations": {
+      "en": "This laid the foundation for a bridge between China and the West."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 127450,
+        "endTime": 127670,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "为",
+        "startTime": 127670,
+        "endTime": 127970,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "中",
+        "startTime": 127970,
+        "endTime": 128150,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 128150,
+        "endTime": 128330,
+        "pinyin": "guó"
+      },
+      {
+        "token": "和",
+        "startTime": 128330,
+        "endTime": 128490,
+        "pinyin": "hé"
+      },
+      {
+        "token": "西",
+        "startTime": 128490,
+        "endTime": 128840,
+        "pinyin": "xī"
+      },
+      {
+        "token": "方",
+        "startTime": 128840,
+        "endTime": 129190,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "之",
+        "startTime": 129190,
+        "endTime": 129340,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 129340,
+        "endTime": 129490,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 129490,
+        "endTime": 129610,
+        "pinyin": "de"
+      },
+      {
+        "token": "沟",
+        "startTime": 129610,
+        "endTime": 129800,
+        "pinyin": "gōu"
+      },
+      {
+        "token": "通",
+        "startTime": 129800,
+        "endTime": 129990,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "桥",
+        "startTime": 129990,
+        "endTime": 130190,
+        "pinyin": "qiáo"
+      },
+      {
+        "token": "梁",
+        "startTime": 130190,
+        "endTime": 130390,
+        "pinyin": "liáng"
+      },
+      {
+        "token": "打",
+        "startTime": 130390,
+        "endTime": 130570,
+        "pinyin": "dǎ"
+      },
+      {
+        "token": "下",
+        "startTime": 130570,
+        "endTime": 130750,
+        "pinyin": "xià"
+      },
+      {
+        "token": "了",
+        "startTime": 130750,
+        "endTime": 130890,
+        "pinyin": "le"
+      },
+      {
+        "token": "基",
+        "startTime": 130890,
+        "endTime": 131150,
+        "pinyin": "jī"
+      },
+      {
+        "token": "础",
+        "startTime": 131150,
+        "endTime": 131410,
+        "pinyin": "chǔ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "直到 公元前 二 世纪 一位 名叫 张谦 的 大使 被 派 往前 去 跟 西方 的 游牧部落 谈判",
+    "translations": {
+      "en": "Until the 2nd century BC, an envoy named Zhang Qian was sent to negotiate with Western nomadic tribes."
+    },
+    "segments": [
+      {
+        "token": "直",
+        "startTime": 131410,
+        "endTime": 131550,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "到",
+        "startTime": 131550,
+        "endTime": 131690,
+        "pinyin": "dào"
+      },
+      {
+        "token": "公",
+        "startTime": 131690,
+        "endTime": 131917,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "元",
+        "startTime": 131917,
+        "endTime": 132143,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "前",
+        "startTime": 132143,
+        "endTime": 132370,
+        "pinyin": "qián"
+      },
+      {
+        "token": "二",
+        "startTime": 132370,
+        "endTime": 132550,
+        "pinyin": "èr"
+      },
+      {
+        "token": "世",
+        "startTime": 132550,
+        "endTime": 132720,
+        "pinyin": "shì"
+      },
+      {
+        "token": "纪",
+        "startTime": 132720,
+        "endTime": 132890,
+        "pinyin": "jì"
+      },
+      {
+        "token": "一",
+        "startTime": 132890,
+        "endTime": 133020,
+        "pinyin": "yī"
+      },
+      {
+        "token": "位",
+        "startTime": 133020,
+        "endTime": 133150,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "名",
+        "startTime": 133150,
+        "endTime": 133320,
+        "pinyin": "míng"
+      },
+      {
+        "token": "叫",
+        "startTime": 133320,
+        "endTime": 133490,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "张",
+        "startTime": 133490,
+        "endTime": 133640,
+        "pinyin": "zhāng"
+      },
+      {
+        "token": "谦",
+        "startTime": 133640,
+        "endTime": 133790,
+        "pinyin": "qiān"
+      },
+      {
+        "token": "的",
+        "startTime": 133790,
+        "endTime": 133870,
+        "pinyin": "de"
+      },
+      {
+        "token": "大",
+        "startTime": 133870,
+        "endTime": 134000,
+        "pinyin": "dà"
+      },
+      {
+        "token": "使",
+        "startTime": 134000,
+        "endTime": 134130,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "被",
+        "startTime": 134130,
+        "endTime": 134350,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "派",
+        "startTime": 134350,
+        "endTime": 134590,
+        "pinyin": "pài"
+      },
+      {
+        "token": "往",
+        "startTime": 134590,
+        "endTime": 134770,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "前",
+        "startTime": 134770,
+        "endTime": 134950,
+        "pinyin": "qián"
+      },
+      {
+        "token": "去",
+        "startTime": 134950,
+        "endTime": 135130,
+        "pinyin": "qù"
+      },
+      {
+        "token": "跟",
+        "startTime": 135130,
+        "endTime": 135250,
+        "pinyin": "gēn"
+      },
+      {
+        "token": "西",
+        "startTime": 135250,
+        "endTime": 135410,
+        "pinyin": "xī"
+      },
+      {
+        "token": "方",
+        "startTime": 135410,
+        "endTime": 135570,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "的",
+        "startTime": 135570,
+        "endTime": 135810,
+        "pinyin": "de"
+      },
+      {
+        "token": "游",
+        "startTime": 135810,
+        "endTime": 136030,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "牧",
+        "startTime": 136030,
+        "endTime": 136250,
+        "pinyin": "mù"
+      },
+      {
+        "token": "部",
+        "startTime": 136250,
+        "endTime": 136470,
+        "pinyin": "bù"
+      },
+      {
+        "token": "落",
+        "startTime": 136470,
+        "endTime": 136690,
+        "pinyin": "luò"
+      },
+      {
+        "token": "谈",
+        "startTime": 136690,
+        "endTime": 136820,
+        "pinyin": "tán"
+      },
+      {
+        "token": "判",
+        "startTime": 136820,
+        "endTime": 136950,
+        "pinyin": "pàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这位 大使 回到 中国 之后 向 当时 的 汉朝 皇帝 讲述 了 许多 有关 其 边界 西部 地区 古老 的 文明",
+    "translations": {
+      "en": "After returning to China, he told the Han emperor about the ancient civilizations, thriving trade, and exotic goods beyond the western borders."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 136950,
+        "endTime": 137100,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "位",
+        "startTime": 137100,
+        "endTime": 137250,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "大",
+        "startTime": 137250,
+        "endTime": 137430,
+        "pinyin": "dà"
+      },
+      {
+        "token": "使",
+        "startTime": 137430,
+        "endTime": 137610,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "回",
+        "startTime": 137610,
+        "endTime": 137800,
+        "pinyin": "huí"
+      },
+      {
+        "token": "到",
+        "startTime": 137800,
+        "endTime": 137990,
+        "pinyin": "dào"
+      },
+      {
+        "token": "中",
+        "startTime": 137990,
+        "endTime": 138160,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 138160,
+        "endTime": 138330,
+        "pinyin": "guó"
+      },
+      {
+        "token": "之",
+        "startTime": 138330,
+        "endTime": 138530,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "后",
+        "startTime": 138530,
+        "endTime": 138730,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "向",
+        "startTime": 138730,
+        "endTime": 138890,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "当",
+        "startTime": 138890,
+        "endTime": 139120,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "时",
+        "startTime": 139120,
+        "endTime": 139350,
+        "pinyin": "shí"
+      },
+      {
+        "token": "的",
+        "startTime": 139350,
+        "endTime": 139530,
+        "pinyin": "de"
+      },
+      {
+        "token": "汉",
+        "startTime": 139530,
+        "endTime": 139700,
+        "pinyin": "hàn"
+      },
+      {
+        "token": "朝",
+        "startTime": 139700,
+        "endTime": 139870,
+        "pinyin": "cháo"
+      },
+      {
+        "token": "皇",
+        "startTime": 139870,
+        "endTime": 140010,
+        "pinyin": "huáng"
+      },
+      {
+        "token": "帝",
+        "startTime": 140010,
+        "endTime": 140150,
+        "pinyin": "dì"
+      },
+      {
+        "token": "讲",
+        "startTime": 140150,
+        "endTime": 140300,
+        "pinyin": "jiǎng"
+      },
+      {
+        "token": "述",
+        "startTime": 140300,
+        "endTime": 140450,
+        "pinyin": "shù"
+      },
+      {
+        "token": "了",
+        "startTime": 140450,
+        "endTime": 140610,
+        "pinyin": "le"
+      },
+      {
+        "token": "许",
+        "startTime": 140610,
+        "endTime": 140810,
+        "pinyin": "xǔ"
+      },
+      {
+        "token": "多",
+        "startTime": 140810,
+        "endTime": 141010,
+        "pinyin": "duō"
+      },
+      {
+        "token": "有",
+        "startTime": 141010,
+        "endTime": 141220,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "关",
+        "startTime": 141220,
+        "endTime": 141430,
+        "pinyin": "guān"
+      },
+      {
+        "token": "其",
+        "startTime": 141430,
+        "endTime": 141570,
+        "pinyin": "qí"
+      },
+      {
+        "token": "边",
+        "startTime": 141570,
+        "endTime": 141750,
+        "pinyin": "biān"
+      },
+      {
+        "token": "界",
+        "startTime": 141750,
+        "endTime": 141930,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "西",
+        "startTime": 141930,
+        "endTime": 142090,
+        "pinyin": "xī"
+      },
+      {
+        "token": "部",
+        "startTime": 142090,
+        "endTime": 142250,
+        "pinyin": "bù"
+      },
+      {
+        "token": "地",
+        "startTime": 142250,
+        "endTime": 142450,
+        "pinyin": "dì"
+      },
+      {
+        "token": "区",
+        "startTime": 142450,
+        "endTime": 142650,
+        "pinyin": "qū"
+      },
+      {
+        "token": "古",
+        "startTime": 142650,
+        "endTime": 142820,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "老",
+        "startTime": 142820,
+        "endTime": 142990,
+        "pinyin": "lǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 142990,
+        "endTime": 143030,
+        "pinyin": "de"
+      },
+      {
+        "token": "文",
+        "startTime": 143030,
+        "endTime": 143210,
+        "pinyin": "wén"
+      },
+      {
+        "token": "明",
+        "startTime": 143210,
+        "endTime": 143390,
+        "pinyin": "míng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "蓬勃 的 贸易 以及 奇异 的 货物 的 故事",
+    "translations": {
+      "en": "Then many envoys and merchants were sent to Persia and India."
+    },
+    "segments": [
+      {
+        "token": "蓬",
+        "startTime": 143390,
+        "endTime": 143640,
+        "pinyin": "péng"
+      },
+      {
+        "token": "勃",
+        "startTime": 143640,
+        "endTime": 143890,
+        "pinyin": "bó"
+      },
+      {
+        "token": "的",
+        "startTime": 143890,
+        "endTime": 144010,
+        "pinyin": "de"
+      },
+      {
+        "token": "贸",
+        "startTime": 144010,
+        "endTime": 144200,
+        "pinyin": "mào"
+      },
+      {
+        "token": "易",
+        "startTime": 144200,
+        "endTime": 144390,
+        "pinyin": "yì"
+      },
+      {
+        "token": "以",
+        "startTime": 144390,
+        "endTime": 144740,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 144740,
+        "endTime": 145090,
+        "pinyin": "jí"
+      },
+      {
+        "token": "奇",
+        "startTime": 145090,
+        "endTime": 145250,
+        "pinyin": "qí"
+      },
+      {
+        "token": "异",
+        "startTime": 145250,
+        "endTime": 145410,
+        "pinyin": "yì"
+      },
+      {
+        "token": "的",
+        "startTime": 145410,
+        "endTime": 145790,
+        "pinyin": "de"
+      },
+      {
+        "token": "货",
+        "startTime": 145790,
+        "endTime": 145920,
+        "pinyin": "huò"
+      },
+      {
+        "token": "物",
+        "startTime": 145920,
+        "endTime": 146050,
+        "pinyin": "wù"
+      },
+      {
+        "token": "的",
+        "startTime": 146050,
+        "endTime": 146210,
+        "pinyin": "de"
+      },
+      {
+        "token": "故",
+        "startTime": 146210,
+        "endTime": 146470,
+        "pinyin": "gù"
+      },
+      {
+        "token": "事",
+        "startTime": 146470,
+        "endTime": 146730,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "接着 许多 大使 商人 相继 被 派 往 波斯 和 印度",
+    "translations": {
+      "en": "They traded silk and jade for horses and cotton."
+    },
+    "segments": [
+      {
+        "token": "接",
+        "startTime": 146730,
+        "endTime": 146890,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "着",
+        "startTime": 146890,
+        "endTime": 147050,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "许",
+        "startTime": 147050,
+        "endTime": 147260,
+        "pinyin": "xǔ"
+      },
+      {
+        "token": "多",
+        "startTime": 147260,
+        "endTime": 147470,
+        "pinyin": "duō"
+      },
+      {
+        "token": "大",
+        "startTime": 147470,
+        "endTime": 147660,
+        "pinyin": "dà"
+      },
+      {
+        "token": "使",
+        "startTime": 147660,
+        "endTime": 147850,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "商",
+        "startTime": 147850,
+        "endTime": 148030,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "人",
+        "startTime": 148030,
+        "endTime": 148210,
+        "pinyin": "rén"
+      },
+      {
+        "token": "相",
+        "startTime": 148210,
+        "endTime": 148360,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "继",
+        "startTime": 148360,
+        "endTime": 148510,
+        "pinyin": "jì"
+      },
+      {
+        "token": "被",
+        "startTime": 148510,
+        "endTime": 148810,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "派",
+        "startTime": 148810,
+        "endTime": 148950,
+        "pinyin": "pài"
+      },
+      {
+        "token": "往",
+        "startTime": 148950,
+        "endTime": 149110,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "波",
+        "startTime": 149110,
+        "endTime": 149310,
+        "pinyin": "bō"
+      },
+      {
+        "token": "斯",
+        "startTime": 149310,
+        "endTime": 149510,
+        "pinyin": "sī"
+      },
+      {
+        "token": "和",
+        "startTime": 149510,
+        "endTime": 149630,
+        "pinyin": "hé"
+      },
+      {
+        "token": "印",
+        "startTime": 149630,
+        "endTime": 149830,
+        "pinyin": "yìn"
+      },
+      {
+        "token": "度",
+        "startTime": 149830,
+        "endTime": 150030,
+        "pinyin": "dù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "用 丝绸 和 玉石 换取 他们 的 马匹 和 棉花",
+    "translations": {
+      "en": "Armies accompanied them to ensure their safety on the journey."
+    },
+    "segments": [
+      {
+        "token": "用",
+        "startTime": 150030,
+        "endTime": 150030,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "丝",
+        "startTime": 150030,
+        "endTime": 150400,
+        "pinyin": "sī"
+      },
+      {
+        "token": "绸",
+        "startTime": 150400,
+        "endTime": 150770,
+        "pinyin": "chóu"
+      },
+      {
+        "token": "和",
+        "startTime": 150770,
+        "endTime": 151010,
+        "pinyin": "hé"
+      },
+      {
+        "token": "玉",
+        "startTime": 151010,
+        "endTime": 151140,
+        "pinyin": "yù"
+      },
+      {
+        "token": "石",
+        "startTime": 151140,
+        "endTime": 151270,
+        "pinyin": "shí"
+      },
+      {
+        "token": "换",
+        "startTime": 151270,
+        "endTime": 151370,
+        "pinyin": "huàn"
+      },
+      {
+        "token": "取",
+        "startTime": 151370,
+        "endTime": 151470,
+        "pinyin": "qǔ"
+      },
+      {
+        "token": "他",
+        "startTime": 151470,
+        "endTime": 151750,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 151750,
+        "endTime": 152030,
+        "pinyin": "men"
+      },
+      {
+        "token": "的",
+        "startTime": 152030,
+        "endTime": 152130,
+        "pinyin": "de"
+      },
+      {
+        "token": "马",
+        "startTime": 152130,
+        "endTime": 152300,
+        "pinyin": "mǎ"
+      },
+      {
+        "token": "匹",
+        "startTime": 152300,
+        "endTime": 152470,
+        "pinyin": "pǐ"
+      },
+      {
+        "token": "和",
+        "startTime": 152470,
+        "endTime": 152730,
+        "pinyin": "hé"
+      },
+      {
+        "token": "棉",
+        "startTime": 152730,
+        "endTime": 152920,
+        "pinyin": "mián"
+      },
+      {
+        "token": "花",
+        "startTime": 152920,
+        "endTime": 153110,
+        "pinyin": "huā"
+      }
+    ]
+  },
+  {
+    "sentence_text": "当时 随从 的 还有 军队 以 保证 他们 旅途 的 安全",
+    "translations": {
+      "en": "The road between East and West gradually formed a trans-Eurasian network."
+    },
+    "segments": [
+      {
+        "token": "当",
+        "startTime": 153110,
+        "endTime": 153400,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "时",
+        "startTime": 153400,
+        "endTime": 153690,
+        "pinyin": "shí"
+      },
+      {
+        "token": "随",
+        "startTime": 153690,
+        "endTime": 153910,
+        "pinyin": "suí"
+      },
+      {
+        "token": "从",
+        "startTime": 153910,
+        "endTime": 154130,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "的",
+        "startTime": 154130,
+        "endTime": 154330,
+        "pinyin": "de"
+      },
+      {
+        "token": "还",
+        "startTime": 154330,
+        "endTime": 154490,
+        "pinyin": "hái"
+      },
+      {
+        "token": "有",
+        "startTime": 154490,
+        "endTime": 154650,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "军",
+        "startTime": 154650,
+        "endTime": 154810,
+        "pinyin": "jūn"
+      },
+      {
+        "token": "队",
+        "startTime": 154810,
+        "endTime": 154970,
+        "pinyin": "duì"
+      },
+      {
+        "token": "以",
+        "startTime": 154970,
+        "endTime": 155090,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "保",
+        "startTime": 155090,
+        "endTime": 155250,
+        "pinyin": "bǎo"
+      },
+      {
+        "token": "证",
+        "startTime": 155250,
+        "endTime": 155410,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "他",
+        "startTime": 155410,
+        "endTime": 155640,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 155640,
+        "endTime": 155870,
+        "pinyin": "men"
+      },
+      {
+        "token": "旅",
+        "startTime": 155870,
+        "endTime": 156070,
+        "pinyin": "lǚ"
+      },
+      {
+        "token": "途",
+        "startTime": 156070,
+        "endTime": 156270,
+        "pinyin": "tú"
+      },
+      {
+        "token": "的",
+        "startTime": 156270,
+        "endTime": 156410,
+        "pinyin": "de"
+      },
+      {
+        "token": "安",
+        "startTime": 156410,
+        "endTime": 156490,
+        "pinyin": "ān"
+      },
+      {
+        "token": "全",
+        "startTime": 156490,
+        "endTime": 156570,
+        "pinyin": "quán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "东方 和 西方 之间 的 道路 逐渐 形成 了 一个 跨 欧亚 的 网络",
+    "translations": {
+      "en": "This network enabled cultural and commercial exchanges between Eurasia to reach a historical peak."
+    },
+    "segments": [
+      {
+        "token": "东",
+        "startTime": 156570,
+        "endTime": 156860,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "方",
+        "startTime": 156860,
+        "endTime": 157150,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "和",
+        "startTime": 157150,
+        "endTime": 157310,
+        "pinyin": "hé"
+      },
+      {
+        "token": "西",
+        "startTime": 157310,
+        "endTime": 157510,
+        "pinyin": "xī"
+      },
+      {
+        "token": "方",
+        "startTime": 157510,
+        "endTime": 157710,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "之",
+        "startTime": 157710,
+        "endTime": 157910,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 157910,
+        "endTime": 158110,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 158110,
+        "endTime": 158210,
+        "pinyin": "de"
+      },
+      {
+        "token": "道",
+        "startTime": 158210,
+        "endTime": 158350,
+        "pinyin": "dào"
+      },
+      {
+        "token": "路",
+        "startTime": 158350,
+        "endTime": 158490,
+        "pinyin": "lù"
+      },
+      {
+        "token": "逐",
+        "startTime": 158490,
+        "endTime": 158660,
+        "pinyin": "zhú"
+      },
+      {
+        "token": "渐",
+        "startTime": 158660,
+        "endTime": 158830,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "形",
+        "startTime": 158830,
+        "endTime": 158970,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "成",
+        "startTime": 158970,
+        "endTime": 159110,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "了",
+        "startTime": 159110,
+        "endTime": 159310,
+        "pinyin": "le"
+      },
+      {
+        "token": "一",
+        "startTime": 159310,
+        "endTime": 159420,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 159420,
+        "endTime": 159530,
+        "pinyin": "gè"
+      },
+      {
+        "token": "跨",
+        "startTime": 159530,
+        "endTime": 159690,
+        "pinyin": "kuà"
+      },
+      {
+        "token": "欧",
+        "startTime": 159690,
+        "endTime": 159870,
+        "pinyin": "ōu"
+      },
+      {
+        "token": "亚",
+        "startTime": 159870,
+        "endTime": 160050,
+        "pinyin": "yà"
+      },
+      {
+        "token": "的",
+        "startTime": 160050,
+        "endTime": 160250,
+        "pinyin": "de"
+      },
+      {
+        "token": "网",
+        "startTime": 160250,
+        "endTime": 160410,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "络",
+        "startTime": 160410,
+        "endTime": 160570,
+        "pinyin": "luò"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这一 网络 使得 欧亚 之间 的 文化 和 商业 交往 程度 达到 了 当时 的 历史 之 最",
+    "translations": {
+      "en": "Chinese goods arrived in Rome, causing a massive outflow of gold."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 160570,
+        "endTime": 160775,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "一",
+        "startTime": 160775,
+        "endTime": 160980,
+        "pinyin": "yī"
+      },
+      {
+        "token": "网",
+        "startTime": 160980,
+        "endTime": 161180,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "络",
+        "startTime": 161180,
+        "endTime": 161380,
+        "pinyin": "luò"
+      },
+      {
+        "token": "使",
+        "startTime": 161380,
+        "endTime": 161480,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "得",
+        "startTime": 161480,
+        "endTime": 161580,
+        "pinyin": "de"
+      },
+      {
+        "token": "欧",
+        "startTime": 161580,
+        "endTime": 161820,
+        "pinyin": "ōu"
+      },
+      {
+        "token": "亚",
+        "startTime": 161820,
+        "endTime": 162060,
+        "pinyin": "yà"
+      },
+      {
+        "token": "之",
+        "startTime": 162060,
+        "endTime": 162250,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 162250,
+        "endTime": 162440,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 162440,
+        "endTime": 162600,
+        "pinyin": "de"
+      },
+      {
+        "token": "文",
+        "startTime": 162600,
+        "endTime": 162920,
+        "pinyin": "wén"
+      },
+      {
+        "token": "化",
+        "startTime": 162920,
+        "endTime": 163240,
+        "pinyin": "huà"
+      },
+      {
+        "token": "和",
+        "startTime": 163240,
+        "endTime": 163520,
+        "pinyin": "hé"
+      },
+      {
+        "token": "商",
+        "startTime": 163520,
+        "endTime": 163690,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "业",
+        "startTime": 163690,
+        "endTime": 163860,
+        "pinyin": "yè"
+      },
+      {
+        "token": "交",
+        "startTime": 163860,
+        "endTime": 164030,
+        "pinyin": "jiāo"
+      },
+      {
+        "token": "往",
+        "startTime": 164030,
+        "endTime": 164200,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "程",
+        "startTime": 164200,
+        "endTime": 164290,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "度",
+        "startTime": 164290,
+        "endTime": 164380,
+        "pinyin": "dù"
+      },
+      {
+        "token": "达",
+        "startTime": 164380,
+        "endTime": 164390,
+        "pinyin": "dá"
+      },
+      {
+        "token": "到",
+        "startTime": 164390,
+        "endTime": 164400,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 164400,
+        "endTime": 165240,
+        "pinyin": "le"
+      },
+      {
+        "token": "当",
+        "startTime": 165240,
+        "endTime": 165430,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "时",
+        "startTime": 165430,
+        "endTime": 165620,
+        "pinyin": "shí"
+      },
+      {
+        "token": "的",
+        "startTime": 165620,
+        "endTime": 165740,
+        "pinyin": "de"
+      },
+      {
+        "token": "历",
+        "startTime": 165740,
+        "endTime": 165910,
+        "pinyin": "lì"
+      },
+      {
+        "token": "史",
+        "startTime": 165910,
+        "endTime": 166080,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "之",
+        "startTime": 166080,
+        "endTime": 166240,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "最",
+        "startTime": 166240,
+        "endTime": 166460,
+        "pinyin": "zuì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "中国 的 货物 来到 了 罗马 造成 大量 的 黄金 外流",
+    "translations": {
+      "en": "Thus, Rome banned the silk trade."
+    },
+    "segments": [
+      {
+        "token": "中",
+        "startTime": 166460,
+        "endTime": 166840,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 166840,
+        "endTime": 167220,
+        "pinyin": "guó"
+      },
+      {
+        "token": "的",
+        "startTime": 167220,
+        "endTime": 167380,
+        "pinyin": "de"
+      },
+      {
+        "token": "货",
+        "startTime": 167380,
+        "endTime": 167690,
+        "pinyin": "huò"
+      },
+      {
+        "token": "物",
+        "startTime": 167690,
+        "endTime": 168000,
+        "pinyin": "wù"
+      },
+      {
+        "token": "来",
+        "startTime": 168000,
+        "endTime": 168190,
+        "pinyin": "lái"
+      },
+      {
+        "token": "到",
+        "startTime": 168190,
+        "endTime": 168380,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 168380,
+        "endTime": 168520,
+        "pinyin": "le"
+      },
+      {
+        "token": "罗",
+        "startTime": 168520,
+        "endTime": 168640,
+        "pinyin": "luó"
+      },
+      {
+        "token": "马",
+        "startTime": 168640,
+        "endTime": 168760,
+        "pinyin": "mǎ"
+      },
+      {
+        "token": "造",
+        "startTime": 168760,
+        "endTime": 168970,
+        "pinyin": "zào"
+      },
+      {
+        "token": "成",
+        "startTime": 168970,
+        "endTime": 169180,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "大",
+        "startTime": 169180,
+        "endTime": 169440,
+        "pinyin": "dà"
+      },
+      {
+        "token": "量",
+        "startTime": 169440,
+        "endTime": 169700,
+        "pinyin": "liàng"
+      },
+      {
+        "token": "的",
+        "startTime": 169700,
+        "endTime": 169860,
+        "pinyin": "de"
+      },
+      {
+        "token": "黄",
+        "startTime": 169860,
+        "endTime": 169960,
+        "pinyin": "huáng"
+      },
+      {
+        "token": "金",
+        "startTime": 169960,
+        "endTime": 170060,
+        "pinyin": "jīn"
+      },
+      {
+        "token": "外",
+        "startTime": 170060,
+        "endTime": 170210,
+        "pinyin": "wài"
+      },
+      {
+        "token": "流",
+        "startTime": 170210,
+        "endTime": 170360,
+        "pinyin": "liú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "因此 罗马 禁止 了 丝绸 交易",
+    "translations": {
+      "en": "Roman glassware was also very popular in China."
+    },
+    "segments": [
+      {
+        "token": "因",
+        "startTime": 170360,
+        "endTime": 170600,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "此",
+        "startTime": 170600,
+        "endTime": 170840,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "罗",
+        "startTime": 170840,
+        "endTime": 171060,
+        "pinyin": "luó"
+      },
+      {
+        "token": "马",
+        "startTime": 171060,
+        "endTime": 171280,
+        "pinyin": "mǎ"
+      },
+      {
+        "token": "禁",
+        "startTime": 171280,
+        "endTime": 171440,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "止",
+        "startTime": 171440,
+        "endTime": 171600,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "了",
+        "startTime": 171600,
+        "endTime": 171820,
+        "pinyin": "le"
+      },
+      {
+        "token": "丝",
+        "startTime": 171820,
+        "endTime": 172810,
+        "pinyin": "sī"
+      },
+      {
+        "token": "绸",
+        "startTime": 172810,
+        "endTime": 173800,
+        "pinyin": "chóu"
+      },
+      {
+        "token": "交",
+        "startTime": 173800,
+        "endTime": 173940,
+        "pinyin": "jiāo"
+      },
+      {
+        "token": "易",
+        "startTime": 173940,
+        "endTime": 174080,
+        "pinyin": "yì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "罗马 的 玻璃 器具 在 中国 也 十分 受欢迎",
+    "translations": {
+      "en": "Central Asian expeditions witnessed the encounter of Chinese and Roman armies."
+    },
+    "segments": [
+      {
+        "token": "罗",
+        "startTime": 174080,
+        "endTime": 174220,
+        "pinyin": "luó"
+      },
+      {
+        "token": "马",
+        "startTime": 174220,
+        "endTime": 174360,
+        "pinyin": "mǎ"
+      },
+      {
+        "token": "的",
+        "startTime": 174360,
+        "endTime": 174540,
+        "pinyin": "de"
+      },
+      {
+        "token": "玻",
+        "startTime": 174540,
+        "endTime": 174720,
+        "pinyin": "bō"
+      },
+      {
+        "token": "璃",
+        "startTime": 174720,
+        "endTime": 174900,
+        "pinyin": "lí"
+      },
+      {
+        "token": "器",
+        "startTime": 174900,
+        "endTime": 175090,
+        "pinyin": "qì"
+      },
+      {
+        "token": "具",
+        "startTime": 175090,
+        "endTime": 175280,
+        "pinyin": "jù"
+      },
+      {
+        "token": "在",
+        "startTime": 175280,
+        "endTime": 175520,
+        "pinyin": "zài"
+      },
+      {
+        "token": "中",
+        "startTime": 175520,
+        "endTime": 175660,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 175660,
+        "endTime": 175800,
+        "pinyin": "guó"
+      },
+      {
+        "token": "也",
+        "startTime": 175800,
+        "endTime": 176020,
+        "pinyin": "yě"
+      },
+      {
+        "token": "十",
+        "startTime": 176020,
+        "endTime": 176140,
+        "pinyin": "shí"
+      },
+      {
+        "token": "分",
+        "startTime": 176140,
+        "endTime": 176260,
+        "pinyin": "fēn"
+      },
+      {
+        "token": "受",
+        "startTime": 176260,
+        "endTime": 176827,
+        "pinyin": "shòu"
+      },
+      {
+        "token": "欢",
+        "startTime": 176827,
+        "endTime": 177393,
+        "pinyin": "huān"
+      },
+      {
+        "token": "迎",
+        "startTime": 177393,
+        "endTime": 177960,
+        "pinyin": "yíng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "中亚 的 远征军 看到 了 中国 和 罗马 军队 的 相遇",
+    "translations": {
+      "en": "The Central Asian expeditionary force witnessed the encounter between Chinese and Roman armies."
+    },
+    "segments": [
+      {
+        "token": "中",
+        "startTime": 177960,
+        "endTime": 178150,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "亚",
+        "startTime": 178150,
+        "endTime": 178340,
+        "pinyin": "yà"
+      },
+      {
+        "token": "的",
+        "startTime": 178340,
+        "endTime": 178560,
+        "pinyin": "de"
+      },
+      {
+        "token": "远",
+        "startTime": 178560,
+        "endTime": 178767,
+        "pinyin": "yuǎn"
+      },
+      {
+        "token": "征",
+        "startTime": 178767,
+        "endTime": 178973,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "军",
+        "startTime": 178973,
+        "endTime": 179180,
+        "pinyin": "jūn"
+      },
+      {
+        "token": "看",
+        "startTime": 179180,
+        "endTime": 179420,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "到",
+        "startTime": 179420,
+        "endTime": 179660,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 179660,
+        "endTime": 179860,
+        "pinyin": "le"
+      },
+      {
+        "token": "中",
+        "startTime": 179860,
+        "endTime": 181270,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 181270,
+        "endTime": 182680,
+        "pinyin": "guó"
+      },
+      {
+        "token": "和",
+        "startTime": 182680,
+        "endTime": 182880,
+        "pinyin": "hé"
+      },
+      {
+        "token": "罗",
+        "startTime": 182880,
+        "endTime": 183000,
+        "pinyin": "luó"
+      },
+      {
+        "token": "马",
+        "startTime": 183000,
+        "endTime": 183120,
+        "pinyin": "mǎ"
+      },
+      {
+        "token": "军",
+        "startTime": 183120,
+        "endTime": 183280,
+        "pinyin": "jūn"
+      },
+      {
+        "token": "队",
+        "startTime": 183280,
+        "endTime": 183440,
+        "pinyin": "duì"
+      },
+      {
+        "token": "的",
+        "startTime": 183440,
+        "endTime": 183580,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "甚至 可能 将 弩 技术 传到 西方",
+    "translations": {
+      "en": "Even the technology of crossbows may have been transmitted to the West."
+    },
+    "segments": [
+      {
+        "token": "相",
+        "startTime": 183580,
+        "endTime": 183580,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "遇",
+        "startTime": 183580,
+        "endTime": 183580,
+        "pinyin": "yù"
+      },
+      {
+        "token": "甚",
+        "startTime": 183580,
+        "endTime": 184050,
+        "pinyin": "shèn"
+      },
+      {
+        "token": "至",
+        "startTime": 184050,
+        "endTime": 184520,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "可",
+        "startTime": 184520,
+        "endTime": 184690,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 184690,
+        "endTime": 184860,
+        "pinyin": "néng"
+      },
+      {
+        "token": "将",
+        "startTime": 184860,
+        "endTime": 184980,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "弩",
+        "startTime": 184980,
+        "endTime": 185140,
+        "pinyin": "nǔ"
+      },
+      {
+        "token": "技",
+        "startTime": 185140,
+        "endTime": 185400,
+        "pinyin": "jì"
+      },
+      {
+        "token": "术",
+        "startTime": 185400,
+        "endTime": 185660,
+        "pinyin": "shù"
+      },
+      {
+        "token": "传",
+        "startTime": 185660,
+        "endTime": 185790,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "到",
+        "startTime": 185790,
+        "endTime": 185920,
+        "pinyin": "dào"
+      },
+      {
+        "token": "西",
+        "startTime": 185920,
+        "endTime": 186080,
+        "pinyin": "xī"
+      },
+      {
+        "token": "方",
+        "startTime": 186080,
+        "endTime": 186240,
+        "pinyin": "fāng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "对于 异国 货物 的 需求 贸易 带来 的 利益 使得 这 条 丝绸之路 一直 保存 完好",
+    "translations": {
+      "en": "The demand for foreign goods and the benefits of trade kept the Silk Road well-preserved."
+    },
+    "segments": [
+      {
+        "token": "对",
+        "startTime": 186240,
+        "endTime": 186400,
+        "pinyin": "duì"
+      },
+      {
+        "token": "于",
+        "startTime": 186400,
+        "endTime": 186560,
+        "pinyin": "yú"
+      },
+      {
+        "token": "异",
+        "startTime": 186560,
+        "endTime": 186770,
+        "pinyin": "yì"
+      },
+      {
+        "token": "国",
+        "startTime": 186770,
+        "endTime": 186980,
+        "pinyin": "guó"
+      },
+      {
+        "token": "货",
+        "startTime": 186980,
+        "endTime": 187220,
+        "pinyin": "huò"
+      },
+      {
+        "token": "物",
+        "startTime": 187220,
+        "endTime": 187460,
+        "pinyin": "wù"
+      },
+      {
+        "token": "的",
+        "startTime": 187460,
+        "endTime": 187620,
+        "pinyin": "de"
+      },
+      {
+        "token": "需",
+        "startTime": 187620,
+        "endTime": 187980,
+        "pinyin": "xū"
+      },
+      {
+        "token": "求",
+        "startTime": 187980,
+        "endTime": 188340,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "贸",
+        "startTime": 188340,
+        "endTime": 188490,
+        "pinyin": "mào"
+      },
+      {
+        "token": "易",
+        "startTime": 188490,
+        "endTime": 188640,
+        "pinyin": "yì"
+      },
+      {
+        "token": "带",
+        "startTime": 188640,
+        "endTime": 188790,
+        "pinyin": "dài"
+      },
+      {
+        "token": "来",
+        "startTime": 188790,
+        "endTime": 188940,
+        "pinyin": "lái"
+      },
+      {
+        "token": "的",
+        "startTime": 188940,
+        "endTime": 189080,
+        "pinyin": "de"
+      },
+      {
+        "token": "利",
+        "startTime": 189080,
+        "endTime": 189280,
+        "pinyin": "lì"
+      },
+      {
+        "token": "益",
+        "startTime": 189280,
+        "endTime": 189480,
+        "pinyin": "yì"
+      },
+      {
+        "token": "使",
+        "startTime": 189480,
+        "endTime": 189670,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "得",
+        "startTime": 189670,
+        "endTime": 189860,
+        "pinyin": "de"
+      },
+      {
+        "token": "这",
+        "startTime": 189860,
+        "endTime": 190360,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "条",
+        "startTime": 190360,
+        "endTime": 190540,
+        "pinyin": "tiáo"
+      },
+      {
+        "token": "丝",
+        "startTime": 190540,
+        "endTime": 190760,
+        "pinyin": "sī"
+      },
+      {
+        "token": "绸",
+        "startTime": 190760,
+        "endTime": 190980,
+        "pinyin": "chóu"
+      },
+      {
+        "token": "之",
+        "startTime": 190980,
+        "endTime": 191200,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "路",
+        "startTime": 191200,
+        "endTime": 191420,
+        "pinyin": "lù"
+      },
+      {
+        "token": "一",
+        "startTime": 191420,
+        "endTime": 191830,
+        "pinyin": "yì"
+      },
+      {
+        "token": "直",
+        "startTime": 191830,
+        "endTime": 192240,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "保",
+        "startTime": 192240,
+        "endTime": 192390,
+        "pinyin": "bǎo"
+      },
+      {
+        "token": "存",
+        "startTime": 192390,
+        "endTime": 192540,
+        "pinyin": "cún"
+      },
+      {
+        "token": "完",
+        "startTime": 192540,
+        "endTime": 192680,
+        "pinyin": "wán"
+      },
+      {
+        "token": "好",
+        "startTime": 192680,
+        "endTime": 192820,
+        "pinyin": "hǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "尽管 罗马帝国 分崩离析",
+    "translations": {
+      "en": "Despite the collapse of the Roman Empire,"
+    },
+    "segments": [
+      {
+        "token": "尽",
+        "startTime": 192820,
+        "endTime": 192970,
+        "pinyin": "jǐn"
+      },
+      {
+        "token": "管",
+        "startTime": 192970,
+        "endTime": 193120,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "罗",
+        "startTime": 193120,
+        "endTime": 193325,
+        "pinyin": "luó"
+      },
+      {
+        "token": "马",
+        "startTime": 193325,
+        "endTime": 193530,
+        "pinyin": "mǎ"
+      },
+      {
+        "token": "帝",
+        "startTime": 193530,
+        "endTime": 193735,
+        "pinyin": "dì"
+      },
+      {
+        "token": "国",
+        "startTime": 193735,
+        "endTime": 193940,
+        "pinyin": "guó"
+      },
+      {
+        "token": "分",
+        "startTime": 193940,
+        "endTime": 194130,
+        "pinyin": "fēn"
+      },
+      {
+        "token": "崩",
+        "startTime": 194130,
+        "endTime": 194320,
+        "pinyin": "bēng"
+      },
+      {
+        "token": "离",
+        "startTime": 194320,
+        "endTime": 194510,
+        "pinyin": "lí"
+      },
+      {
+        "token": "析",
+        "startTime": 194510,
+        "endTime": 194700,
+        "pinyin": "xī"
+      }
+    ]
+  },
+  {
+    "sentence_text": "中国 的 朝代 胜衰兴 肺",
+    "translations": {
+      "en": "and the rise and fall of Chinese dynasties,"
+    },
+    "segments": [
+      {
+        "token": "中",
+        "startTime": 194700,
+        "endTime": 194830,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 194830,
+        "endTime": 194960,
+        "pinyin": "guó"
+      },
+      {
+        "token": "的",
+        "startTime": 194960,
+        "endTime": 195100,
+        "pinyin": "de"
+      },
+      {
+        "token": "朝",
+        "startTime": 195100,
+        "endTime": 195310,
+        "pinyin": "cháo"
+      },
+      {
+        "token": "代",
+        "startTime": 195310,
+        "endTime": 195520,
+        "pinyin": "dài"
+      },
+      {
+        "token": "胜",
+        "startTime": 195520,
+        "endTime": 195733,
+        "pinyin": "shèng"
+      },
+      {
+        "token": "衰",
+        "startTime": 195733,
+        "endTime": 195947,
+        "pinyin": "shuāi"
+      },
+      {
+        "token": "兴",
+        "startTime": 195947,
+        "endTime": 196160,
+        "pinyin": "xīng"
+      },
+      {
+        "token": "肺",
+        "startTime": 196160,
+        "endTime": 196480,
+        "pinyin": "fèi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "即使 是 那些 以 抢劫 和 掠夺 臭名昭著 的 蒙古 囤积 商人 也 积极 地 保护 这些 贸易 通道",
+    "translations": {
+      "en": "even the Mongol hordes, notorious for plunder and looting, actively protected these trade routes,"
+    },
+    "segments": [
+      {
+        "token": "即",
+        "startTime": 196480,
+        "endTime": 196610,
+        "pinyin": "jí"
+      },
+      {
+        "token": "使",
+        "startTime": 196610,
+        "endTime": 196740,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 196740,
+        "endTime": 196880,
+        "pinyin": "shì"
+      },
+      {
+        "token": "那",
+        "startTime": 196880,
+        "endTime": 197040,
+        "pinyin": "nà"
+      },
+      {
+        "token": "些",
+        "startTime": 197040,
+        "endTime": 197200,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "以",
+        "startTime": 197200,
+        "endTime": 197400,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "抢",
+        "startTime": 197400,
+        "endTime": 197550,
+        "pinyin": "qiǎng"
+      },
+      {
+        "token": "劫",
+        "startTime": 197550,
+        "endTime": 197700,
+        "pinyin": "jié"
+      },
+      {
+        "token": "和",
+        "startTime": 197700,
+        "endTime": 197800,
+        "pinyin": "hé"
+      },
+      {
+        "token": "掠",
+        "startTime": 197800,
+        "endTime": 198010,
+        "pinyin": "lüè"
+      },
+      {
+        "token": "夺",
+        "startTime": 198010,
+        "endTime": 198220,
+        "pinyin": "duó"
+      },
+      {
+        "token": "臭",
+        "startTime": 198220,
+        "endTime": 198420,
+        "pinyin": "chòu"
+      },
+      {
+        "token": "名",
+        "startTime": 198420,
+        "endTime": 198620,
+        "pinyin": "míng"
+      },
+      {
+        "token": "昭",
+        "startTime": 198620,
+        "endTime": 198820,
+        "pinyin": "zhāo"
+      },
+      {
+        "token": "著",
+        "startTime": 198820,
+        "endTime": 199020,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "的",
+        "startTime": 199020,
+        "endTime": 199280,
+        "pinyin": "de"
+      },
+      {
+        "token": "蒙",
+        "startTime": 199280,
+        "endTime": 199800,
+        "pinyin": "méng"
+      },
+      {
+        "token": "古",
+        "startTime": 199800,
+        "endTime": 200320,
+        "pinyin": "gǔ"
+      },
+      {
+        "token": "囤",
+        "startTime": 200320,
+        "endTime": 200460,
+        "pinyin": "tún"
+      },
+      {
+        "token": "积",
+        "startTime": 200460,
+        "endTime": 200600,
+        "pinyin": "jī"
+      },
+      {
+        "token": "商",
+        "startTime": 200600,
+        "endTime": 200770,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "人",
+        "startTime": 200770,
+        "endTime": 200940,
+        "pinyin": "rén"
+      },
+      {
+        "token": "也",
+        "startTime": 200940,
+        "endTime": 201140,
+        "pinyin": "yě"
+      },
+      {
+        "token": "积",
+        "startTime": 201140,
+        "endTime": 201260,
+        "pinyin": "jī"
+      },
+      {
+        "token": "极",
+        "startTime": 201260,
+        "endTime": 201380,
+        "pinyin": "jí"
+      },
+      {
+        "token": "地",
+        "startTime": 201380,
+        "endTime": 201540,
+        "pinyin": "dì"
+      },
+      {
+        "token": "保",
+        "startTime": 201540,
+        "endTime": 201800,
+        "pinyin": "bǎo"
+      },
+      {
+        "token": "护",
+        "startTime": 201800,
+        "endTime": 202060,
+        "pinyin": "hù"
+      },
+      {
+        "token": "这",
+        "startTime": 202060,
+        "endTime": 202230,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 202230,
+        "endTime": 202400,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "贸",
+        "startTime": 202400,
+        "endTime": 202570,
+        "pinyin": "mào"
+      },
+      {
+        "token": "易",
+        "startTime": 202570,
+        "endTime": 202740,
+        "pinyin": "yì"
+      },
+      {
+        "token": "通",
+        "startTime": 202740,
+        "endTime": 202870,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "道",
+        "startTime": 202870,
+        "endTime": 203000,
+        "pinyin": "dào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而 不是 破坏 他们",
+    "translations": {
+      "en": "rather than destroying them."
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 203000,
+        "endTime": 203140,
+        "pinyin": "ér"
+      },
+      {
+        "token": "不",
+        "startTime": 203140,
+        "endTime": 203300,
+        "pinyin": "bú"
+      },
+      {
+        "token": "是",
+        "startTime": 203300,
+        "endTime": 203460,
+        "pinyin": "shì"
+      },
+      {
+        "token": "破",
+        "startTime": 203460,
+        "endTime": 203760,
+        "pinyin": "pò"
+      },
+      {
+        "token": "坏",
+        "startTime": 203760,
+        "endTime": 204060,
+        "pinyin": "huài"
+      },
+      {
+        "token": "他",
+        "startTime": 204060,
+        "endTime": 204250,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 204250,
+        "endTime": 204440,
+        "pinyin": "men"
+      }
+    ]
+  },
+  {
+    "sentence_text": "随着 商品经济 的 发达",
+    "translations": {
+      "en": "As the commodity economy developed,"
+    },
+    "segments": [
+      {
+        "token": "随",
+        "startTime": 204440,
+        "endTime": 204840,
+        "pinyin": "suí"
+      },
+      {
+        "token": "着",
+        "startTime": 204840,
+        "endTime": 205240,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "商",
+        "startTime": 205240,
+        "endTime": 205425,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "品",
+        "startTime": 205425,
+        "endTime": 205610,
+        "pinyin": "pǐn"
+      },
+      {
+        "token": "经",
+        "startTime": 205610,
+        "endTime": 205795,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "济",
+        "startTime": 205795,
+        "endTime": 205980,
+        "pinyin": "jì"
+      },
+      {
+        "token": "的",
+        "startTime": 205980,
+        "endTime": 206120,
+        "pinyin": "de"
+      },
+      {
+        "token": "发",
+        "startTime": 206120,
+        "endTime": 206290,
+        "pinyin": "fā"
+      },
+      {
+        "token": "达",
+        "startTime": 206290,
+        "endTime": 206460,
+        "pinyin": "dá"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 条 道路 同时 也 使得 文化 、 创新 技术 、 思想 和 语言 得以 流通",
+    "translations": {
+      "en": "this road also facilitated the circulation of culture, innovative technologies, ideas, and languages."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 206460,
+        "endTime": 206640,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "条",
+        "startTime": 206640,
+        "endTime": 207560,
+        "pinyin": "tiáo"
+      },
+      {
+        "token": "道",
+        "startTime": 207560,
+        "endTime": 207710,
+        "pinyin": "dào"
+      },
+      {
+        "token": "路",
+        "startTime": 207710,
+        "endTime": 207860,
+        "pinyin": "lù"
+      },
+      {
+        "token": "同",
+        "startTime": 207860,
+        "endTime": 208060,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "时",
+        "startTime": 208060,
+        "endTime": 208260,
+        "pinyin": "shí"
+      },
+      {
+        "token": "也",
+        "startTime": 208260,
+        "endTime": 208260,
+        "pinyin": "yě"
+      },
+      {
+        "token": "使",
+        "startTime": 208260,
+        "endTime": 208650,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "得",
+        "startTime": 208650,
+        "endTime": 209040,
+        "pinyin": "de"
+      },
+      {
+        "token": "文",
+        "startTime": 209040,
+        "endTime": 209240,
+        "pinyin": "wén"
+      },
+      {
+        "token": "化",
+        "startTime": 209240,
+        "endTime": 209440,
+        "pinyin": "huà"
+      },
+      {
+        "token": "、",
+        "startTime": 209440,
+        "endTime": 209620,
+        "pinyin": "、"
+      },
+      {
+        "token": "创",
+        "startTime": 209620,
+        "endTime": 209790,
+        "pinyin": "chuàng"
+      },
+      {
+        "token": "新",
+        "startTime": 209790,
+        "endTime": 209960,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "技",
+        "startTime": 209960,
+        "endTime": 210420,
+        "pinyin": "jì"
+      },
+      {
+        "token": "术",
+        "startTime": 210420,
+        "endTime": 210880,
+        "pinyin": "shù"
+      },
+      {
+        "token": "、",
+        "startTime": 210880,
+        "endTime": 211000,
+        "pinyin": "、"
+      },
+      {
+        "token": "思",
+        "startTime": 211000,
+        "endTime": 211120,
+        "pinyin": "sī"
+      },
+      {
+        "token": "想",
+        "startTime": 211120,
+        "endTime": 211240,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "和",
+        "startTime": 211240,
+        "endTime": 211420,
+        "pinyin": "hé"
+      },
+      {
+        "token": "语",
+        "startTime": 211420,
+        "endTime": 211580,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "言",
+        "startTime": 211580,
+        "endTime": 211740,
+        "pinyin": "yán"
+      },
+      {
+        "token": "得",
+        "startTime": 211740,
+        "endTime": 211990,
+        "pinyin": "dé"
+      },
+      {
+        "token": "以",
+        "startTime": 211990,
+        "endTime": 212240,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "流",
+        "startTime": 212240,
+        "endTime": 212390,
+        "pinyin": "liú"
+      },
+      {
+        "token": "通",
+        "startTime": 212390,
+        "endTime": 212540,
+        "pinyin": "tōng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "发源 于 印度 佛教 传播 到 了 中国 和 日本",
+    "translations": {
+      "en": "Buddhism, originating in India, spread to China and Japan,"
+    },
+    "segments": [
+      {
+        "token": "发",
+        "startTime": 212540,
+        "endTime": 213020,
+        "pinyin": "fā"
+      },
+      {
+        "token": "源",
+        "startTime": 213020,
+        "endTime": 213500,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "于",
+        "startTime": 213500,
+        "endTime": 213620,
+        "pinyin": "yú"
+      },
+      {
+        "token": "印",
+        "startTime": 213620,
+        "endTime": 213730,
+        "pinyin": "yìn"
+      },
+      {
+        "token": "度",
+        "startTime": 213730,
+        "endTime": 213840,
+        "pinyin": "dù"
+      },
+      {
+        "token": "佛",
+        "startTime": 213840,
+        "endTime": 214090,
+        "pinyin": "fó"
+      },
+      {
+        "token": "教",
+        "startTime": 214090,
+        "endTime": 214340,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "传",
+        "startTime": 214340,
+        "endTime": 214490,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "播",
+        "startTime": 214490,
+        "endTime": 214640,
+        "pinyin": "bō"
+      },
+      {
+        "token": "到",
+        "startTime": 214640,
+        "endTime": 214700,
+        "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 214700,
+        "endTime": 214940,
+        "pinyin": "le"
+      },
+      {
+        "token": "中",
+        "startTime": 214940,
+        "endTime": 215140,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 215140,
+        "endTime": 215340,
+        "pinyin": "guó"
+      },
+      {
+        "token": "和",
+        "startTime": 215340,
+        "endTime": 215480,
+        "pinyin": "hé"
+      },
+      {
+        "token": "日",
+        "startTime": 215480,
+        "endTime": 215910,
+        "pinyin": "rì"
+      },
+      {
+        "token": "本",
+        "startTime": 215910,
+        "endTime": 216340,
+        "pinyin": "běn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "成为 亚洲地区 最 盛行 的 宗教",
+    "translations": {
+      "en": "becoming the most prevalent religion in Asia."
+    },
+    "segments": [
+      {
+        "token": "成",
+        "startTime": 216340,
+        "endTime": 216500,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "为",
+        "startTime": 216500,
+        "endTime": 216660,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "亚",
+        "startTime": 216660,
+        "endTime": 216805,
+        "pinyin": "yà"
+      },
+      {
+        "token": "洲",
+        "startTime": 216805,
+        "endTime": 216950,
+        "pinyin": "zhōu"
+      },
+      {
+        "token": "地",
+        "startTime": 216950,
+        "endTime": 217095,
+        "pinyin": "dì"
+      },
+      {
+        "token": "区",
+        "startTime": 217095,
+        "endTime": 217240,
+        "pinyin": "qū"
+      },
+      {
+        "token": "最",
+        "startTime": 217240,
+        "endTime": 217440,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "盛",
+        "startTime": 217440,
+        "endTime": 217650,
+        "pinyin": "shèng"
+      },
+      {
+        "token": "行",
+        "startTime": 217650,
+        "endTime": 217860,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "的",
+        "startTime": 217860,
+        "endTime": 218020,
+        "pinyin": "de"
+      },
+      {
+        "token": "宗",
+        "startTime": 218020,
+        "endTime": 218250,
+        "pinyin": "zōng"
+      },
+      {
+        "token": "教",
+        "startTime": 218250,
+        "endTime": 218480,
+        "pinyin": "jiào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "伊斯兰教 从 阿拉伯半岛 传到 南亚 和 当地 的 信仰 融合 形成 新 的 宗教",
+    "translations": {
+      "en": "Islam spread from the Arabian Peninsula to South Asia, merging with local beliefs to form new religions,"
+    },
+    "segments": [
+      {
+        "token": "伊",
+        "startTime": 218480,
+        "endTime": 218725,
+        "pinyin": "yī"
+      },
+      {
+        "token": "斯",
+        "startTime": 218725,
+        "endTime": 218970,
+        "pinyin": "sī"
+      },
+      {
+        "token": "兰",
+        "startTime": 218970,
+        "endTime": 219215,
+        "pinyin": "lán"
+      },
+      {
+        "token": "教",
+        "startTime": 219215,
+        "endTime": 219460,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "从",
+        "startTime": 219460,
+        "endTime": 219880,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "阿",
+        "startTime": 219880,
+        "endTime": 220316,
+        "pinyin": "ā"
+      },
+      {
+        "token": "拉",
+        "startTime": 220316,
+        "endTime": 220752,
+        "pinyin": "lā"
+      },
+      {
+        "token": "伯",
+        "startTime": 220752,
+        "endTime": 221188,
+        "pinyin": "bó"
+      },
+      {
+        "token": "半",
+        "startTime": 221188,
+        "endTime": 221624,
+        "pinyin": "bàn"
+      },
+      {
+        "token": "岛",
+        "startTime": 221624,
+        "endTime": 222060,
+        "pinyin": "dǎo"
+      },
+      {
+        "token": "传",
+        "startTime": 222060,
+        "endTime": 222200,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "到",
+        "startTime": 222200,
+        "endTime": 222340,
+        "pinyin": "dào"
+      },
+      {
+        "token": "南",
+        "startTime": 222340,
+        "endTime": 222560,
+        "pinyin": "nán"
+      },
+      {
+        "token": "亚",
+        "startTime": 222560,
+        "endTime": 222780,
+        "pinyin": "yà"
+      },
+      {
+        "token": "和",
+        "startTime": 222780,
+        "endTime": 222960,
+        "pinyin": "hé"
+      },
+      {
+        "token": "当",
+        "startTime": 222960,
+        "endTime": 223340,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "地",
+        "startTime": 223340,
+        "endTime": 223720,
+        "pinyin": "dì"
+      },
+      {
+        "token": "的",
+        "startTime": 223720,
+        "endTime": 223860,
+        "pinyin": "de"
+      },
+      {
+        "token": "信",
+        "startTime": 223860,
+        "endTime": 224010,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "仰",
+        "startTime": 224010,
+        "endTime": 224160,
+        "pinyin": "yǎng"
+      },
+      {
+        "token": "融",
+        "startTime": 224160,
+        "endTime": 224300,
+        "pinyin": "róng"
+      },
+      {
+        "token": "合",
+        "startTime": 224300,
+        "endTime": 224440,
+        "pinyin": "hé"
+      },
+      {
+        "token": "形",
+        "startTime": 224440,
+        "endTime": 224810,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "成",
+        "startTime": 224810,
+        "endTime": 225180,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "新",
+        "startTime": 225180,
+        "endTime": 225320,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "的",
+        "startTime": 225320,
+        "endTime": 225480,
+        "pinyin": "de"
+      },
+      {
+        "token": "宗",
+        "startTime": 225480,
+        "endTime": 225640,
+        "pinyin": "zōng"
+      },
+      {
+        "token": "教",
+        "startTime": 225640,
+        "endTime": 225800,
+        "pinyin": "jiào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "比如 希克 教",
+    "translations": {
+      "en": "such as Sikhism."
+    },
+    "segments": [
+      {
+        "token": "比",
+        "startTime": 225800,
+        "endTime": 226130,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "如",
+        "startTime": 226130,
+        "endTime": 226460,
+        "pinyin": "rú"
+      },
+      {
+        "token": "希",
+        "startTime": 226460,
+        "endTime": 226660,
+        "pinyin": "xī"
+      },
+      {
+        "token": "克",
+        "startTime": 226660,
+        "endTime": 226860,
+        "pinyin": "kè"
+      },
+      {
+        "token": "教",
+        "startTime": 226860,
+        "endTime": 226980,
+        "pinyin": "jiào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "火药 从 中国 传到 中东",
+    "translations": {
+      "en": "Gunpowder spread from China to the Middle East,"
+    },
+    "segments": [
+      {
+        "token": "火",
+        "startTime": 226980,
+        "endTime": 227160,
+        "pinyin": "huǒ"
+      },
+      {
+        "token": "药",
+        "startTime": 227160,
+        "endTime": 227340,
+        "pinyin": "yào"
+      },
+      {
+        "token": "从",
+        "startTime": 227340,
+        "endTime": 227440,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "中",
+        "startTime": 227440,
+        "endTime": 227960,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 227960,
+        "endTime": 228480,
+        "pinyin": "guó"
+      },
+      {
+        "token": "传",
+        "startTime": 228480,
+        "endTime": 228650,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "到",
+        "startTime": 228650,
+        "endTime": 228820,
+        "pinyin": "dào"
+      },
+      {
+        "token": "中",
+        "startTime": 228820,
+        "endTime": 228970,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "东",
+        "startTime": 228970,
+        "endTime": 229120,
+        "pinyin": "dōng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "塑造 了 土耳其 帝国 、 萨法维 帝国 以及 马拉塔 帝国 的 未来",
+    "translations": {
+      "en": "shaping the futures of the Ottoman, Safavid, and Maratha empires."
+    },
+    "segments": [
+      {
+        "token": "塑",
+        "startTime": 229120,
+        "endTime": 229490,
+        "pinyin": "sù"
+      },
+      {
+        "token": "造",
+        "startTime": 229490,
+        "endTime": 229860,
+        "pinyin": "zào"
+      },
+      {
+        "token": "了",
+        "startTime": 229860,
+        "endTime": 230040,
+        "pinyin": "le"
+      },
+      {
+        "token": "土",
+        "startTime": 230040,
+        "endTime": 230180,
+        "pinyin": "tǔ"
+      },
+      {
+        "token": "耳",
+        "startTime": 230180,
+        "endTime": 230320,
+        "pinyin": "ěr"
+      },
+      {
+        "token": "其",
+        "startTime": 230320,
+        "endTime": 230460,
+        "pinyin": "qí"
+      },
+      {
+        "token": "帝",
+        "startTime": 230460,
+        "endTime": 230730,
+        "pinyin": "dì"
+      },
+      {
+        "token": "国",
+        "startTime": 230730,
+        "endTime": 231000,
+        "pinyin": "guó"
+      },
+      {
+        "token": "、",
+        "startTime": 231000,
+        "endTime": 231160,
+        "pinyin": "、"
+      },
+      {
+        "token": "萨",
+        "startTime": 231160,
+        "endTime": 231307,
+        "pinyin": "sà"
+      },
+      {
+        "token": "法",
+        "startTime": 231307,
+        "endTime": 231453,
+        "pinyin": "fǎ"
+      },
+      {
+        "token": "维",
+        "startTime": 231453,
+        "endTime": 231600,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "帝",
+        "startTime": 231600,
+        "endTime": 231930,
+        "pinyin": "dì"
+      },
+      {
+        "token": "国",
+        "startTime": 231930,
+        "endTime": 232260,
+        "pinyin": "guó"
+      },
+      {
+        "token": "以",
+        "startTime": 232260,
+        "endTime": 232440,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "及",
+        "startTime": 232440,
+        "endTime": 232620,
+        "pinyin": "jí"
+      },
+      {
+        "token": "马",
+        "startTime": 232620,
+        "endTime": 232800,
+        "pinyin": "mǎ"
+      },
+      {
+        "token": "拉",
+        "startTime": 232800,
+        "endTime": 232980,
+        "pinyin": "lā"
+      },
+      {
+        "token": "塔",
+        "startTime": 232980,
+        "endTime": 233160,
+        "pinyin": "tǎ"
+      },
+      {
+        "token": "帝",
+        "startTime": 233160,
+        "endTime": 233490,
+        "pinyin": "dì"
+      },
+      {
+        "token": "国",
+        "startTime": 233490,
+        "endTime": 233820,
+        "pinyin": "guó"
+      },
+      {
+        "token": "的",
+        "startTime": 233820,
+        "endTime": 234040,
+        "pinyin": "de"
+      },
+      {
+        "token": "未",
+        "startTime": 234040,
+        "endTime": 234180,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "来",
+        "startTime": 234180,
+        "endTime": 234320,
+        "pinyin": "lái"
+      }
+    ]
+  },
+  {
+    "sentence_text": "某种程度 上 说 丝绸之路 成功 地 终结 了 自己",
+    "translations": {
+      "en": "In a sense, the Silk Road succeeded in ending itself."
+    },
+    "segments": [
+      {
+        "token": "某",
+        "startTime": 234320,
+        "endTime": 234610,
+        "pinyin": "mǒu"
+      },
+      {
+        "token": "种",
+        "startTime": 234610,
+        "endTime": 234900,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "程",
+        "startTime": 234900,
+        "endTime": 235190,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "度",
+        "startTime": 235190,
+        "endTime": 235480,
+        "pinyin": "dù"
+      },
+      {
+        "token": "上",
+        "startTime": 235480,
+        "endTime": 236040,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "说",
+        "startTime": 236040,
+        "endTime": 236180,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "丝",
+        "startTime": 236180,
+        "endTime": 236320,
+        "pinyin": "sī"
+      },
+      {
+        "token": "绸",
+        "startTime": 236320,
+        "endTime": 236460,
+        "pinyin": "chóu"
+      },
+      {
+        "token": "之",
+        "startTime": 236460,
+        "endTime": 236600,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "路",
+        "startTime": 236600,
+        "endTime": 236740,
+        "pinyin": "lù"
+      },
+      {
+        "token": "成",
+        "startTime": 236740,
+        "endTime": 236900,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "功",
+        "startTime": 236900,
+        "endTime": 237060,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "地",
+        "startTime": 237060,
+        "endTime": 237240,
+        "pinyin": "dì"
+      },
+      {
+        "token": "终",
+        "startTime": 237240,
+        "endTime": 237400,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "结",
+        "startTime": 237400,
+        "endTime": 237560,
+        "pinyin": "jié"
+      },
+      {
+        "token": "了",
+        "startTime": 237560,
+        "endTime": 237740,
+        "pinyin": "le"
+      },
+      {
+        "token": "自",
+        "startTime": 237740,
+        "endTime": 237940,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 237940,
+        "endTime": 238140,
+        "pinyin": "jǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "新 的 航海技术 像是 磁 罗盘 传往 欧洲",
+    "translations": {
+      "en": "New maritime technologies, like the magnetic compass, spread to Europe,"
+    },
+    "segments": [
+      {
+        "token": "新",
+        "startTime": 238140,
+        "endTime": 239300,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "的",
+        "startTime": 239300,
+        "endTime": 239460,
+        "pinyin": "de"
+      },
+      {
+        "token": "航",
+        "startTime": 239460,
+        "endTime": 239740,
+        "pinyin": "háng"
+      },
+      {
+        "token": "海",
+        "startTime": 239740,
+        "endTime": 240020,
+        "pinyin": "hǎi"
+      },
+      {
+        "token": "技",
+        "startTime": 240020,
+        "endTime": 240300,
+        "pinyin": "jì"
+      },
+      {
+        "token": "术",
+        "startTime": 240300,
+        "endTime": 240580,
+        "pinyin": "shù"
+      },
+      {
+        "token": "像",
+        "startTime": 240580,
+        "endTime": 240760,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "是",
+        "startTime": 240760,
+        "endTime": 240940,
+        "pinyin": "shì"
+      },
+      {
+        "token": "磁",
+        "startTime": 240940,
+        "endTime": 241120,
+        "pinyin": "cí"
+      },
+      {
+        "token": "罗",
+        "startTime": 241120,
+        "endTime": 241450,
+        "pinyin": "luó"
+      },
+      {
+        "token": "盘",
+        "startTime": 241450,
+        "endTime": 241780,
+        "pinyin": "pán"
+      },
+      {
+        "token": "传",
+        "startTime": 241780,
+        "endTime": 242000,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "往",
+        "startTime": 242000,
+        "endTime": 242220,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "欧",
+        "startTime": 242220,
+        "endTime": 242345,
+        "pinyin": "ōu"
+      },
+      {
+        "token": "洲",
+        "startTime": 242345,
+        "endTime": 242470,
+        "pinyin": "zhōu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "使得 陆地 上 的 长城 公路 被 淘汰 了",
+    "translations": {
+      "en": "rendering the overland routes obsolete."
+    },
+    "segments": [
+      {
+        "token": "使",
+        "startTime": 242470,
+        "endTime": 242630,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "得",
+        "startTime": 242630,
+        "endTime": 242790,
+        "pinyin": "de"
+      },
+      {
+        "token": "陆",
+        "startTime": 242790,
+        "endTime": 242970,
+        "pinyin": "lù"
+      },
+      {
+        "token": "地",
+        "startTime": 242970,
+        "endTime": 243150,
+        "pinyin": "dì"
+      },
+      {
+        "token": "上",
+        "startTime": 243150,
+        "endTime": 244510,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "的",
+        "startTime": 244510,
+        "endTime": 244670,
+        "pinyin": "de"
+      },
+      {
+        "token": "长",
+        "startTime": 244670,
+        "endTime": 244850,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "城",
+        "startTime": 244850,
+        "endTime": 245030,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "公",
+        "startTime": 245030,
+        "endTime": 245200,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "路",
+        "startTime": 245200,
+        "endTime": 245370,
+        "pinyin": "lù"
+      },
+      {
+        "token": "被",
+        "startTime": 245370,
+        "endTime": 245510,
+        "pinyin": "bèi"
+      },
+      {
+        "token": "淘",
+        "startTime": 245510,
+        "endTime": 245680,
+        "pinyin": "táo"
+      },
+      {
+        "token": "汰",
+        "startTime": 245680,
+        "endTime": 245850,
+        "pinyin": "tài"
+      },
+      {
+        "token": "了",
+        "startTime": 245850,
+        "endTime": 245950,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "与此同时 元朝 瓦解 后 中国 从 国际贸易 版图 消失",
+    "translations": {
+      "en": "Meanwhile, after the collapse of the Yuan dynasty, China disappeared from the international trade map."
+    },
+    "segments": [
+      {
+        "token": "与",
+        "startTime": 245950,
+        "endTime": 246115,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "此",
+        "startTime": 246115,
+        "endTime": 246280,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "同",
+        "startTime": 246280,
+        "endTime": 246445,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "时",
+        "startTime": 246445,
+        "endTime": 246610,
+        "pinyin": "shí"
+      },
+      {
+        "token": "元",
+        "startTime": 246610,
+        "endTime": 246990,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "朝",
+        "startTime": 246990,
+        "endTime": 247370,
+        "pinyin": "cháo"
+      },
+      {
+        "token": "瓦",
+        "startTime": 247370,
+        "endTime": 247440,
+        "pinyin": "wǎ"
+      },
+      {
+        "token": "解",
+        "startTime": 247440,
+        "endTime": 247510,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "后",
+        "startTime": 247510,
+        "endTime": 247670,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "中",
+        "startTime": 247670,
+        "endTime": 247870,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 247870,
+        "endTime": 248070,
+        "pinyin": "guó"
+      },
+      {
+        "token": "从",
+        "startTime": 248070,
+        "endTime": 248270,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "国",
+        "startTime": 248270,
+        "endTime": 248305,
+        "pinyin": "guó"
+      },
+      {
+        "token": "际",
+        "startTime": 248305,
+        "endTime": 248340,
+        "pinyin": "jì"
+      },
+      {
+        "token": "贸",
+        "startTime": 248340,
+        "endTime": 248375,
+        "pinyin": "mào"
+      },
+      {
+        "token": "易",
+        "startTime": 248375,
+        "endTime": 248410,
+        "pinyin": "yì"
+      },
+      {
+        "token": "版",
+        "startTime": 248410,
+        "endTime": 248960,
+        "pinyin": "bǎn"
+      },
+      {
+        "token": "图",
+        "startTime": 248960,
+        "endTime": 249510,
+        "pinyin": "tú"
+      },
+      {
+        "token": "消",
+        "startTime": 249510,
+        "endTime": 249710,
+        "pinyin": "xiāo"
+      },
+      {
+        "token": "失",
+        "startTime": 249710,
+        "endTime": 249910,
+        "pinyin": "shī"
+      }
+    ]
+  },
+  {
+    "sentence_text": "即便 旧 的 道路 和 贸易 网络 没 能 长久",
+    "translations": {
+      "en": "Even though the old routes and trade networks did not last,"
+    },
+    "segments": [
+      {
+        "token": "即",
+        "startTime": 249910,
+        "endTime": 250100,
+        "pinyin": "jí"
+      },
+      {
+        "token": "便",
+        "startTime": 250100,
+        "endTime": 250290,
+        "pinyin": "biàn"
+      },
+      {
+        "token": "旧",
+        "startTime": 250290,
+        "endTime": 250290,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "的",
+        "startTime": 250290,
+        "endTime": 251270,
+        "pinyin": "de"
+      },
+      {
+        "token": "道",
+        "startTime": 251270,
+        "endTime": 251420,
+        "pinyin": "dào"
+      },
+      {
+        "token": "路",
+        "startTime": 251420,
+        "endTime": 251570,
+        "pinyin": "lù"
+      },
+      {
+        "token": "和",
+        "startTime": 251570,
+        "endTime": 251830,
+        "pinyin": "hé"
+      },
+      {
+        "token": "贸",
+        "startTime": 251830,
+        "endTime": 251990,
+        "pinyin": "mào"
+      },
+      {
+        "token": "易",
+        "startTime": 251990,
+        "endTime": 252150,
+        "pinyin": "yì"
+      },
+      {
+        "token": "网",
+        "startTime": 252150,
+        "endTime": 252320,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "络",
+        "startTime": 252320,
+        "endTime": 252490,
+        "pinyin": "luò"
+      },
+      {
+        "token": "没",
+        "startTime": 252490,
+        "endTime": 252650,
+        "pinyin": "méi"
+      },
+      {
+        "token": "能",
+        "startTime": 252650,
+        "endTime": 252870,
+        "pinyin": "néng"
+      },
+      {
+        "token": "长",
+        "startTime": 252870,
+        "endTime": 253330,
+        "pinyin": "cháng"
+      },
+      {
+        "token": "久",
+        "startTime": 253330,
+        "endTime": 253790,
+        "pinyin": "jiǔ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他们 也 永久 改变 了 世界",
+    "translations": {
+      "en": "they permanently changed the world."
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 253790,
+        "endTime": 253910,
+        "pinyin": "tā"
+      },
+      {
+        "token": "们",
+        "startTime": 253910,
+        "endTime": 254030,
+        "pinyin": "men"
+      },
+      {
+        "token": "也",
+        "startTime": 254030,
+        "endTime": 254230,
+        "pinyin": "yě"
+      },
+      {
+        "token": "永",
+        "startTime": 254230,
+        "endTime": 254410,
+        "pinyin": "yǒng"
+      },
+      {
+        "token": "久",
+        "startTime": 254410,
+        "endTime": 254590,
+        "pinyin": "jiǔ"
+      },
+      {
+        "token": "改",
+        "startTime": 254590,
+        "endTime": 254800,
+        "pinyin": "gǎi"
+      },
+      {
+        "token": "变",
+        "startTime": 254800,
+        "endTime": 255010,
+        "pinyin": "biàn"
+      },
+      {
+        "token": "了",
+        "startTime": 255010,
+        "endTime": 255890,
+        "pinyin": "le"
+      },
+      {
+        "token": "世",
+        "startTime": 255890,
+        "endTime": 256030,
+        "pinyin": "shì"
+      },
+      {
+        "token": "界",
+        "startTime": 256030,
+        "endTime": 256170,
+        "pinyin": "jiè"
+      }
+    ]
+  },
+  {
+    "sentence_text": "没有 倒退 的 可能 了",
+    "translations": {
+      "en": "There's no turning back now."
+    },
+    "segments": [
+      {
+        "token": "没",
+        "startTime": 256170,
+        "endTime": 256320,
+        "pinyin": "méi"
+      },
+      {
+        "token": "有",
+        "startTime": 256320,
+        "endTime": 256470,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "倒",
+        "startTime": 256470,
+        "endTime": 256670,
+        "pinyin": "dào"
+      },
+      {
+        "token": "退",
+        "startTime": 256670,
+        "endTime": 256870,
+        "pinyin": "tuì"
+      },
+      {
+        "token": "的",
+        "startTime": 256870,
+        "endTime": 257030,
+        "pinyin": "de"
+      },
+      {
+        "token": "可",
+        "startTime": 257030,
+        "endTime": 257210,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 257210,
+        "endTime": 257390,
+        "pinyin": "néng"
+      },
+      {
+        "token": "了",
+        "startTime": 257390,
+        "endTime": 257490,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "欧洲人 寻找 新 的 海上 航道 想要 寻找 东亚 的 财富",
+    "translations": {
+      "en": "Europeans sought new sea routes to reach East Asian wealth."
+    },
+    "segments": [
+      {
+        "token": "欧",
+        "startTime": 257490,
+        "endTime": 257650,
+        "pinyin": "ōu"
+      },
+      {
+        "token": "洲",
+        "startTime": 257650,
+        "endTime": 257810,
+        "pinyin": "zhōu"
+      },
+      {
+        "token": "人",
+        "startTime": 257810,
+        "endTime": 257970,
+        "pinyin": "rén"
+      },
+      {
+        "token": "寻",
+        "startTime": 257970,
+        "endTime": 258160,
+        "pinyin": "xún"
+      },
+      {
+        "token": "找",
+        "startTime": 258160,
+        "endTime": 258350,
+        "pinyin": "zhǎo"
+      },
+      {
+        "token": "新",
+        "startTime": 258350,
+        "endTime": 259990,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "的",
+        "startTime": 259990,
+        "endTime": 260010,
+        "pinyin": "de"
+      },
+      {
+        "token": "海",
+        "startTime": 260010,
+        "endTime": 260460,
+        "pinyin": "hǎi"
+      },
+      {
+        "token": "上",
+        "startTime": 260460,
+        "endTime": 260910,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "航",
+        "startTime": 260910,
+        "endTime": 261060,
+        "pinyin": "háng"
+      },
+      {
+        "token": "道",
+        "startTime": 261060,
+        "endTime": 261210,
+        "pinyin": "dào"
+      },
+      {
+        "token": "想",
+        "startTime": 261210,
+        "endTime": 261380,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "要",
+        "startTime": 261380,
+        "endTime": 261550,
+        "pinyin": "yào"
+      },
+      {
+        "token": "寻",
+        "startTime": 261550,
+        "endTime": 261740,
+        "pinyin": "xún"
+      },
+      {
+        "token": "找",
+        "startTime": 261740,
+        "endTime": 261930,
+        "pinyin": "zhǎo"
+      },
+      {
+        "token": "东",
+        "startTime": 261930,
+        "endTime": 262160,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "亚",
+        "startTime": 262160,
+        "endTime": 262390,
+        "pinyin": "yà"
+      },
+      {
+        "token": "的",
+        "startTime": 262390,
+        "endTime": 262590,
+        "pinyin": "de"
+      },
+      {
+        "token": "财",
+        "startTime": 262590,
+        "endTime": 262760,
+        "pinyin": "cái"
+      },
+      {
+        "token": "富",
+        "startTime": 262760,
+        "endTime": 262930,
+        "pinyin": "fù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "导致 了 其 在 非洲 和 美洲 的 探索 和 扩张",
+    "translations": {
+      "en": "This led to their exploration and expansion in Africa and the Americas."
+    },
+    "segments": [
+      {
+        "token": "导",
+        "startTime": 262930,
+        "endTime": 263090,
+        "pinyin": "dǎo"
+      },
+      {
+        "token": "致",
+        "startTime": 263090,
+        "endTime": 263250,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "了",
+        "startTime": 263250,
+        "endTime": 263410,
+        "pinyin": "le"
+      },
+      {
+        "token": "其",
+        "startTime": 263410,
+        "endTime": 263570,
+        "pinyin": "qí"
+      },
+      {
+        "token": "在",
+        "startTime": 263570,
+        "endTime": 263730,
+        "pinyin": "zài"
+      },
+      {
+        "token": "非",
+        "startTime": 263730,
+        "endTime": 264310,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "洲",
+        "startTime": 264310,
+        "endTime": 264890,
+        "pinyin": "zhōu"
+      },
+      {
+        "token": "和",
+        "startTime": 264890,
+        "endTime": 265030,
+        "pinyin": "hé"
+      },
+      {
+        "token": "美",
+        "startTime": 265030,
+        "endTime": 265170,
+        "pinyin": "měi"
+      },
+      {
+        "token": "洲",
+        "startTime": 265170,
+        "endTime": 265310,
+        "pinyin": "zhōu"
+      },
+      {
+        "token": "的",
+        "startTime": 265310,
+        "endTime": 265550,
+        "pinyin": "de"
+      },
+      {
+        "token": "探",
+        "startTime": 265550,
+        "endTime": 265680,
+        "pinyin": "tàn"
+      },
+      {
+        "token": "索",
+        "startTime": 265680,
+        "endTime": 265810,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "和",
+        "startTime": 265810,
+        "endTime": 265990,
+        "pinyin": "hé"
+      },
+      {
+        "token": "扩",
+        "startTime": 265990,
+        "endTime": 266150,
+        "pinyin": "kuò"
+      },
+      {
+        "token": "张",
+        "startTime": 266150,
+        "endTime": 266310,
+        "pinyin": "zhāng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "今天 全球 各国 相互 T恤",
+    "translations": {
+      "en": "Today, countries around the world are interconnected."
+    },
+    "segments": [
+      {
+        "token": "今",
+        "startTime": 266310,
+        "endTime": 266460,
+        "pinyin": "jīn"
+      },
+      {
+        "token": "天",
+        "startTime": 266460,
+        "endTime": 266610,
+        "pinyin": "tiān"
+      },
+      {
+        "token": "全",
+        "startTime": 266610,
+        "endTime": 266750,
+        "pinyin": "quán"
+      },
+      {
+        "token": "球",
+        "startTime": 266750,
+        "endTime": 266890,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "各",
+        "startTime": 266890,
+        "endTime": 267040,
+        "pinyin": "gè"
+      },
+      {
+        "token": "国",
+        "startTime": 267040,
+        "endTime": 267190,
+        "pinyin": "guó"
+      },
+      {
+        "token": "相",
+        "startTime": 267190,
+        "endTime": 267260,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "互",
+        "startTime": 267260,
+        "endTime": 267330,
+        "pinyin": "hù"
+      },
+      {
+        "token": "T",
+        "startTime": 267330,
+        "endTime": 267470,
+        "pinyin": "T"
+      },
+      {
+        "token": "恤",
+        "startTime": 267470,
+        "endTime": 268310,
+        "pinyin": "xù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "日本 观众 观看 英国 电视节目",
+    "translations": {
+      "en": "Japanese viewers watch British TV programs."
+    },
+    "segments": [
+      {
+        "token": "日",
+        "startTime": 268310,
+        "endTime": 268420,
+        "pinyin": "rì"
+      },
+      {
+        "token": "本",
+        "startTime": 268420,
+        "endTime": 268530,
+        "pinyin": "běn"
+      },
+      {
+        "token": "观",
+        "startTime": 268530,
+        "endTime": 268750,
+        "pinyin": "guān"
+      },
+      {
+        "token": "众",
+        "startTime": 268750,
+        "endTime": 268970,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "观",
+        "startTime": 268970,
+        "endTime": 269160,
+        "pinyin": "guān"
+      },
+      {
+        "token": "看",
+        "startTime": 269160,
+        "endTime": 269350,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "英",
+        "startTime": 269350,
+        "endTime": 269530,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "国",
+        "startTime": 269530,
+        "endTime": 269710,
+        "pinyin": "guó"
+      },
+      {
+        "token": "电",
+        "startTime": 269710,
+        "endTime": 270040,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "视",
+        "startTime": 270040,
+        "endTime": 270370,
+        "pinyin": "shì"
+      },
+      {
+        "token": "节",
+        "startTime": 270370,
+        "endTime": 270700,
+        "pinyin": "jié"
+      },
+      {
+        "token": "目",
+        "startTime": 270700,
+        "endTime": 271030,
+        "pinyin": "mù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "突尼斯人 使用 美国 的 软件 来 组织 革命",
+    "translations": {
+      "en": "Tunisians use American software to organize a revolution."
+    },
+    "segments": [
+      {
+        "token": "突",
+        "startTime": 271030,
+        "endTime": 271165,
+        "pinyin": "tū"
+      },
+      {
+        "token": "尼",
+        "startTime": 271165,
+        "endTime": 271300,
+        "pinyin": "ní"
+      },
+      {
+        "token": "斯",
+        "startTime": 271300,
+        "endTime": 271435,
+        "pinyin": "sī"
+      },
+      {
+        "token": "人",
+        "startTime": 271435,
+        "endTime": 271570,
+        "pinyin": "rén"
+      },
+      {
+        "token": "使",
+        "startTime": 271570,
+        "endTime": 271740,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "用",
+        "startTime": 271740,
+        "endTime": 271910,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "美",
+        "startTime": 271910,
+        "endTime": 272040,
+        "pinyin": "měi"
+      },
+      {
+        "token": "国",
+        "startTime": 272040,
+        "endTime": 272170,
+        "pinyin": "guó"
+      },
+      {
+        "token": "的",
+        "startTime": 272170,
+        "endTime": 272290,
+        "pinyin": "de"
+      },
+      {
+        "token": "软",
+        "startTime": 272290,
+        "endTime": 272440,
+        "pinyin": "ruǎn"
+      },
+      {
+        "token": "件",
+        "startTime": 272440,
+        "endTime": 272590,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "来",
+        "startTime": 272590,
+        "endTime": 272790,
+        "pinyin": "lái"
+      },
+      {
+        "token": "组",
+        "startTime": 272790,
+        "endTime": 272930,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "织",
+        "startTime": 272930,
+        "endTime": 273070,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "革",
+        "startTime": 273070,
+        "endTime": 273880,
+        "pinyin": "gé"
+      },
+      {
+        "token": "命",
+        "startTime": 273880,
+        "endTime": 274690,
+        "pinyin": "mìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "全球化 对 文化 和 经济 的 影响 是 无可争议 的",
+    "translations": {
+      "en": "Globalization's impact on culture and economy is undeniable."
+    },
+    "segments": [
+      {
+        "token": "全",
+        "startTime": 274690,
+        "endTime": 274903,
+        "pinyin": "quán"
+      },
+      {
+        "token": "球",
+        "startTime": 274903,
+        "endTime": 275117,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "化",
+        "startTime": 275117,
+        "endTime": 275330,
+        "pinyin": "huà"
+      },
+      {
+        "token": "对",
+        "startTime": 275330,
+        "endTime": 275550,
+        "pinyin": "duì"
+      },
+      {
+        "token": "文",
+        "startTime": 275550,
+        "endTime": 275730,
+        "pinyin": "wén"
+      },
+      {
+        "token": "化",
+        "startTime": 275730,
+        "endTime": 275910,
+        "pinyin": "huà"
+      },
+      {
+        "token": "和",
+        "startTime": 275910,
+        "endTime": 276090,
+        "pinyin": "hé"
+      },
+      {
+        "token": "经",
+        "startTime": 276090,
+        "endTime": 276230,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "济",
+        "startTime": 276230,
+        "endTime": 276370,
+        "pinyin": "jì"
+      },
+      {
+        "token": "的",
+        "startTime": 276370,
+        "endTime": 276490,
+        "pinyin": "de"
+      },
+      {
+        "token": "影",
+        "startTime": 276490,
+        "endTime": 276640,
+        "pinyin": "yǐng"
+      },
+      {
+        "token": "响",
+        "startTime": 276640,
+        "endTime": 276790,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "是",
+        "startTime": 276790,
+        "endTime": 277090,
+        "pinyin": "shì"
+      },
+      {
+        "token": "无",
+        "startTime": 277090,
+        "endTime": 277245,
+        "pinyin": "wú"
+      },
+      {
+        "token": "可",
+        "startTime": 277245,
+        "endTime": 277400,
+        "pinyin": "kě"
+      },
+      {
+        "token": "争",
+        "startTime": 277400,
+        "endTime": 277555,
+        "pinyin": "zhēng"
+      },
+      {
+        "token": "议",
+        "startTime": 277555,
+        "endTime": 277710,
+        "pinyin": "yì"
+      },
+      {
+        "token": "的",
+        "startTime": 277710,
+        "endTime": 278950,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 随之而来 的 好处 与 缺点 也 不是 新鲜事 了",
+    "translations": {
+      "en": "But the resulting benefits and drawbacks are nothing new."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 278950,
+        "endTime": 279190,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "随",
+        "startTime": 279190,
+        "endTime": 279325,
+        "pinyin": "suí"
+      },
+      {
+        "token": "之",
+        "startTime": 279325,
+        "endTime": 279460,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "而",
+        "startTime": 279460,
+        "endTime": 279595,
+        "pinyin": "ér"
+      },
+      {
+        "token": "来",
+        "startTime": 279595,
+        "endTime": 279730,
+        "pinyin": "lái"
+      },
+      {
+        "token": "的",
+        "startTime": 279730,
+        "endTime": 279850,
+        "pinyin": "de"
+      },
+      {
+        "token": "好",
+        "startTime": 279850,
+        "endTime": 280010,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "处",
+        "startTime": 280010,
+        "endTime": 280170,
+        "pinyin": "chù"
+      },
+      {
+        "token": "与",
+        "startTime": 280170,
+        "endTime": 280310,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "缺",
+        "startTime": 280310,
+        "endTime": 280470,
+        "pinyin": "quē"
+      },
+      {
+        "token": "点",
+        "startTime": 280470,
+        "endTime": 280630,
+        "pinyin": "diǎn"
+      },
+      {
+        "token": "也",
+        "startTime": 280630,
+        "endTime": 281170,
+        "pinyin": "yě"
+      },
+      {
+        "token": "不",
+        "startTime": 281170,
+        "endTime": 281330,
+        "pinyin": "bú"
+      },
+      {
+        "token": "是",
+        "startTime": 281330,
+        "endTime": 281490,
+        "pinyin": "shì"
+      },
+      {
+        "token": "新",
+        "startTime": 281490,
+        "endTime": 281690,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "鲜",
+        "startTime": 281690,
+        "endTime": 281890,
+        "pinyin": "xiān"
+      },
+      {
+        "token": "事",
+        "startTime": 281890,
+        "endTime": 282090,
+        "pinyin": "shì"
+      },
+      {
+        "token": "了",
+        "startTime": 282090,
+        "endTime": 283430,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "尽管 那些 曾经 隔断 我们 的 山川 、 沙漠 、 海洋 现在 通过 超音速 飞行器 、",
+    "translations": {
+      "en": "Though the mountains, deserts, and oceans that once separated us are now bypassed by supersonic aircraft,"
+    },
+    "segments": [
+      {
+        "token": "尽",
+        "startTime": 283430,
+        "endTime": 283580,
+        "pinyin": "jǐn"
+      },
+      {
+        "token": "管",
+        "startTime": 283580,
+        "endTime": 283730,
+        "pinyin": "guǎn"
+      },
+      {
+        "token": "那",
+        "startTime": 283730,
+        "endTime": 283890,
+        "pinyin": "nà"
+      },
+      {
+        "token": "些",
+        "startTime": 283890,
+        "endTime": 284050,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "曾",
+        "startTime": 284050,
+        "endTime": 284250,
+        "pinyin": "céng"
+      },
+      {
+        "token": "经",
+        "startTime": 284250,
+        "endTime": 284450,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "隔",
+        "startTime": 284450,
+        "endTime": 284600,
+        "pinyin": "gé"
+      },
+      {
+        "token": "断",
+        "startTime": 284600,
+        "endTime": 284750,
+        "pinyin": "duàn"
+      },
+      {
+        "token": "我",
+        "startTime": 284750,
+        "endTime": 284870,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 284870,
+        "endTime": 284990,
+        "pinyin": "men"
+      },
+      {
+        "token": "的",
+        "startTime": 284990,
+        "endTime": 285190,
+        "pinyin": "de"
+      },
+      {
+        "token": "山",
+        "startTime": 285190,
+        "endTime": 285660,
+        "pinyin": "shān"
+      },
+      {
+        "token": "川",
+        "startTime": 285660,
+        "endTime": 286130,
+        "pinyin": "chuān"
+      },
+      {
+        "token": "、",
+        "startTime": 286130,
+        "endTime": 286270,
+        "pinyin": "、"
+      },
+      {
+        "token": "沙",
+        "startTime": 286270,
+        "endTime": 286550,
+        "pinyin": "shā"
+      },
+      {
+        "token": "漠",
+        "startTime": 286550,
+        "endTime": 286830,
+        "pinyin": "mò"
+      },
+      {
+        "token": "、",
+        "startTime": 286830,
+        "endTime": 287030,
+        "pinyin": "、"
+      },
+      {
+        "token": "海",
+        "startTime": 287030,
+        "endTime": 287370,
+        "pinyin": "hǎi"
+      },
+      {
+        "token": "洋",
+        "startTime": 287370,
+        "endTime": 287710,
+        "pinyin": "yáng"
+      },
+      {
+        "token": "现",
+        "startTime": 287710,
+        "endTime": 287930,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "在",
+        "startTime": 287930,
+        "endTime": 288150,
+        "pinyin": "zài"
+      },
+      {
+        "token": "通",
+        "startTime": 288150,
+        "endTime": 288330,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "过",
+        "startTime": 288330,
+        "endTime": 288510,
+        "pinyin": "guò"
+      },
+      {
+        "token": "超",
+        "startTime": 288510,
+        "endTime": 288677,
+        "pinyin": "chāo"
+      },
+      {
+        "token": "音",
+        "startTime": 288677,
+        "endTime": 288843,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "速",
+        "startTime": 288843,
+        "endTime": 289010,
+        "pinyin": "sù"
+      },
+      {
+        "token": "飞",
+        "startTime": 289010,
+        "endTime": 289230,
+        "pinyin": "fēi"
+      },
+      {
+        "token": "行",
+        "startTime": 289230,
+        "endTime": 289450,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "器",
+        "startTime": 289450,
+        "endTime": 289670,
+        "pinyin": "qì"
+      },
+      {
+        "token": "、",
+        "startTime": 289670,
+        "endTime": 289890,
+        "pinyin": "、"
+      }
+    ]
+  },
+  {
+    "sentence_text": "跨 大陆 通信 电缆 和 通过 太空 传输 的 信号 得以 绕过",
+    "translations": {
+      "en": "intercontinental communication cables, and signals transmitted through space."
+    },
+    "segments": [
+      {
+        "token": "跨",
+        "startTime": 289890,
+        "endTime": 289990,
+        "pinyin": "kuà"
+      },
+      {
+        "token": "大",
+        "startTime": 289990,
+        "endTime": 290180,
+        "pinyin": "dà"
+      },
+      {
+        "token": "陆",
+        "startTime": 290180,
+        "endTime": 290370,
+        "pinyin": "lù"
+      },
+      {
+        "token": "通",
+        "startTime": 290370,
+        "endTime": 290530,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "信",
+        "startTime": 290530,
+        "endTime": 290690,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "电",
+        "startTime": 290690,
+        "endTime": 290860,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "缆",
+        "startTime": 290860,
+        "endTime": 291030,
+        "pinyin": "lǎn"
+      },
+      {
+        "token": "和",
+        "startTime": 291030,
+        "endTime": 291150,
+        "pinyin": "hé"
+      },
+      {
+        "token": "通",
+        "startTime": 291150,
+        "endTime": 291340,
+        "pinyin": "tōng"
+      },
+      {
+        "token": "过",
+        "startTime": 291340,
+        "endTime": 291530,
+        "pinyin": "guò"
+      },
+      {
+        "token": "太",
+        "startTime": 291530,
+        "endTime": 291760,
+        "pinyin": "tài"
+      },
+      {
+        "token": "空",
+        "startTime": 291760,
+        "endTime": 291990,
+        "pinyin": "kōng"
+      },
+      {
+        "token": "传",
+        "startTime": 291990,
+        "endTime": 292140,
+        "pinyin": "chuán"
+      },
+      {
+        "token": "输",
+        "startTime": 292140,
+        "endTime": 292290,
+        "pinyin": "shū"
+      },
+      {
+        "token": "的",
+        "startTime": 292290,
+        "endTime": 292450,
+        "pinyin": "de"
+      },
+      {
+        "token": "信",
+        "startTime": 292450,
+        "endTime": 292620,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "号",
+        "startTime": 292620,
+        "endTime": 292790,
+        "pinyin": "hào"
+      },
+      {
+        "token": "得",
+        "startTime": 292790,
+        "endTime": 293010,
+        "pinyin": "dé"
+      },
+      {
+        "token": "以",
+        "startTime": 293010,
+        "endTime": 293230,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "绕",
+        "startTime": 293230,
+        "endTime": 293470,
+        "pinyin": "rào"
+      },
+      {
+        "token": "过",
+        "startTime": 293470,
+        "endTime": 293710,
+        "pinyin": "guò"
+      }
+    ]
+  },
+  {
+    "sentence_text": "不再 需要 商队 跋涉 数月 了",
+    "translations": {
+      "en": "No longer do caravans need to trek for months."
+    },
+    "segments": [
+      {
+        "token": "不",
+        "startTime": 293710,
+        "endTime": 293830,
+        "pinyin": "bù"
+      },
+      {
+        "token": "再",
+        "startTime": 293830,
+        "endTime": 293950,
+        "pinyin": "zài"
+      },
+      {
+        "token": "需",
+        "startTime": 293950,
+        "endTime": 294160,
+        "pinyin": "xū"
+      },
+      {
+        "token": "要",
+        "startTime": 294160,
+        "endTime": 294370,
+        "pinyin": "yào"
+      },
+      {
+        "token": "商",
+        "startTime": 294370,
+        "endTime": 294610,
+        "pinyin": "shāng"
+      },
+      {
+        "token": "队",
+        "startTime": 294610,
+        "endTime": 294850,
+        "pinyin": "duì"
+      },
+      {
+        "token": "跋",
+        "startTime": 294850,
+        "endTime": 295020,
+        "pinyin": "bá"
+      },
+      {
+        "token": "涉",
+        "startTime": 295020,
+        "endTime": 295190,
+        "pinyin": "shè"
+      },
+      {
+        "token": "数",
+        "startTime": 295190,
+        "endTime": 295450,
+        "pinyin": "shù"
+      },
+      {
+        "token": "月",
+        "startTime": 295450,
+        "endTime": 295710,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "了",
+        "startTime": 295710,
+        "endTime": 295930,
+        "pinyin": "le"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 如果 没有 开创性 的 文化 这 一切都是 不 可能 的",
+    "translations": {
+      "en": "But none of this would be possible without a pioneering culture."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 295930,
+        "endTime": 296150,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "如",
+        "startTime": 296150,
+        "endTime": 296380,
+        "pinyin": "rú"
+      },
+      {
+        "token": "果",
+        "startTime": 296380,
+        "endTime": 296610,
+        "pinyin": "guǒ"
+      },
+      {
+        "token": "没",
+        "startTime": 296610,
+        "endTime": 296740,
+        "pinyin": "méi"
+      },
+      {
+        "token": "有",
+        "startTime": 296740,
+        "endTime": 296870,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "开",
+        "startTime": 296870,
+        "endTime": 297110,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "创",
+        "startTime": 297110,
+        "endTime": 297350,
+        "pinyin": "chuàng"
+      },
+      {
+        "token": "性",
+        "startTime": 297350,
+        "endTime": 297590,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "的",
+        "startTime": 297590,
+        "endTime": 297730,
+        "pinyin": "de"
+      },
+      {
+        "token": "文",
+        "startTime": 297730,
+        "endTime": 297950,
+        "pinyin": "wén"
+      },
+      {
+        "token": "化",
+        "startTime": 297950,
+        "endTime": 298170,
+        "pinyin": "huà"
+      },
+      {
+        "token": "这",
+        "startTime": 298170,
+        "endTime": 298350,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "一",
+        "startTime": 298350,
+        "endTime": 298575,
+        "pinyin": "yī"
+      },
+      {
+        "token": "切",
+        "startTime": 298575,
+        "endTime": 298800,
+        "pinyin": "qiè"
+      },
+      {
+        "token": "都",
+        "startTime": 298800,
+        "endTime": 299025,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "是",
+        "startTime": 299025,
+        "endTime": 299250,
+        "pinyin": "shì"
+      },
+      {
+        "token": "不",
+        "startTime": 299250,
+        "endTime": 299390,
+        "pinyin": "bù"
+      },
+      {
+        "token": "可",
+        "startTime": 299390,
+        "endTime": 299520,
+        "pinyin": "kě"
+      },
+      {
+        "token": "能",
+        "startTime": 299520,
+        "endTime": 299650,
+        "pinyin": "néng"
+      },
+      {
+        "token": "的",
+        "startTime": 299650,
+        "endTime": 299830,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这样 的 先进 文化 创造 了 丝绸之路",
+    "translations": {
+      "en": "Such an advanced culture created the Silk Road,"
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 299830,
+        "endTime": 300090,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "样",
+        "startTime": 300090,
+        "endTime": 300350,
+        "pinyin": "yàng"
+      },
+      {
+        "token": "的",
+        "startTime": 300350,
+        "endTime": 300530,
+        "pinyin": "de"
+      },
+      {
+        "token": "先",
+        "startTime": 300530,
+        "endTime": 300670,
+        "pinyin": "xiān"
+      },
+      {
+        "token": "进",
+        "startTime": 300670,
+        "endTime": 300810,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "文",
+        "startTime": 300810,
+        "endTime": 300980,
+        "pinyin": "wén"
+      },
+      {
+        "token": "化",
+        "startTime": 300980,
+        "endTime": 301150,
+        "pinyin": "huà"
+      },
+      {
+        "token": "创",
+        "startTime": 301150,
+        "endTime": 301410,
+        "pinyin": "chuàng"
+      },
+      {
+        "token": "造",
+        "startTime": 301410,
+        "endTime": 301670,
+        "pinyin": "zào"
+      },
+      {
+        "token": "了",
+        "startTime": 301670,
+        "endTime": 301870,
+        "pinyin": "le"
+      },
+      {
+        "token": "丝",
+        "startTime": 301870,
+        "endTime": 302085,
+        "pinyin": "sī"
+      },
+      {
+        "token": "绸",
+        "startTime": 302085,
+        "endTime": 302300,
+        "pinyin": "chóu"
+      },
+      {
+        "token": "之",
+        "startTime": 302300,
+        "endTime": 302515,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "路",
+        "startTime": 302515,
+        "endTime": 302730,
+        "pinyin": "lù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "世界 上 第一个",
+    "translations": {
+      "en": "the world's first"
+    },
+    "segments": [
+      {
+        "token": "世",
+        "startTime": 302730,
+        "endTime": 303000,
+        "pinyin": "shì"
+      },
+      {
+        "token": "界",
+        "startTime": 303000,
+        "endTime": 303270,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "上",
+        "startTime": 303270,
+        "endTime": 303490,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "第",
+        "startTime": 303490,
+        "endTime": 303690,
+        "pinyin": "dì"
+      },
+      {
+        "token": "一",
+        "startTime": 303690,
+        "endTime": 303890,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 303890,
+        "endTime": 304090,
+        "pinyin": "gè"
+      }
+    ]
+  }
+]
