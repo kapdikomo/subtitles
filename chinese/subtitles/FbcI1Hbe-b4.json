@@ -1,8 +1,8 @@
 [
   {
-    "sentence_text": "我 的 家庭 我 十岁 了",
+    "sentence_text": "我 十岁 了",
     "translations": {
-      "en": "I am ten years old in my family."
+      "en": "My family."
     },
     "segments": [
       {
@@ -28,7 +28,15 @@
         "startTime": 7100,
         "endTime": 11580,
         "pinyin": "tíng"
-      },
+      }
+    ]
+  },
+    {
+    "sentence_text": "我 十岁 了",
+    "translations": {
+      "en": "I am ten years old."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 11580,
