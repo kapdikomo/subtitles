@@ -1,0 +1,7426 @@
+[
+  {
+    "sentence_text": "สภา พกา ศ กัน หน่อย นะ ครับ ใน ช่วงนี้ หลาย พื้นที่ ยัง ม",
+    "translations": {
+      "en": "Let's check the weather. Recently, many areas still have"
+    },
+    "segments": [
+      {
+        "token": "ส",
+        "startTime": 80,
+        "endTime": 260
+      },
+      {
+        "token": "ภ",
+        "startTime": 260,
+        "endTime": 280
+      },
+      {
+        "token": "า",
+        "startTime": 280,
+        "endTime": 360
+      },
+      {
+        "token": "พ",
+        "startTime": 360,
+        "endTime": 380
+      },
+      {
+        "token": "ก",
+        "startTime": 380,
+        "endTime": 500
+      },
+      {
+        "token": "า",
+        "startTime": 500,
+        "endTime": 560
+      },
+      {
+        "token": "ศ",
+        "startTime": 560,
+        "endTime": 580
+      },
+      {
+        "token": "ก",
+        "startTime": 580,
+        "endTime": 660
+      },
+      {
+        "token": "ั",
+        "startTime": 660,
+        "endTime": 680
+      },
+      {
+        "token": "น",
+        "startTime": 680,
+        "endTime": 700
+      },
+      {
+        "token": "ห",
+        "startTime": 700,
+        "endTime": 760
+      },
+      {
+        "token": "น",
+        "startTime": 760,
+        "endTime": 820
+      },
+      {
+        "token": "่",
+        "startTime": 820,
+        "endTime": 840
+      },
+      {
+        "token": "อ",
+        "startTime": 840,
+        "endTime": 890
+      },
+      {
+        "token": "ย",
+        "startTime": 890,
+        "endTime": 940
+      },
+      {
+        "token": "น",
+        "startTime": 940,
+        "endTime": 1000
+      },
+      {
+        "token": "ะ",
+        "startTime": 1000,
+        "endTime": 1060
+      },
+      {
+        "token": "ค",
+        "startTime": 1060,
+        "endTime": 1130
+      },
+      {
+        "token": "ร",
+        "startTime": 1130,
+        "endTime": 1200
+      },
+      {
+        "token": "ั",
+        "startTime": 1200,
+        "endTime": 1220
+      },
+      {
+        "token": "บ",
+        "startTime": 1220,
+        "endTime": 1220
+      },
+      {
+        "token": "ใ",
+        "startTime": 1220,
+        "endTime": 1360
+      },
+      {
+        "token": "น",
+        "startTime": 1360,
+        "endTime": 1380
+      },
+      {
+        "token": "ช",
+        "startTime": 1380,
+        "endTime": 1420
+      },
+      {
+        "token": "่",
+        "startTime": 1420,
+        "endTime": 1460
+      },
+      {
+        "token": "ว",
+        "startTime": 1460,
+        "endTime": 1480
+      },
+      {
+        "token": "ง",
+        "startTime": 1480,
+        "endTime": 1500
+      },
+      {
+        "token": "น",
+        "startTime": 1500,
+        "endTime": 1620
+      },
+      {
+        "token": "ี",
+        "startTime": 1620,
+        "endTime": 1630
+      },
+      {
+        "token": "้",
+        "startTime": 1630,
+        "endTime": 1640
+      },
+      {
+        "token": "ห",
+        "startTime": 1640,
+        "endTime": 1660
+      },
+      {
+        "token": "ล",
+        "startTime": 1660,
+        "endTime": 1720
+      },
+      {
+        "token": "า",
+        "startTime": 1720,
+        "endTime": 1730
+      },
+      {
+        "token": "ย",
+        "startTime": 1730,
+        "endTime": 1740
+      },
+      {
+        "token": "พ",
+        "startTime": 1740,
+        "endTime": 1880
+      },
+      {
+        "token": "ื",
+        "startTime": 1880,
+        "endTime": 1900
+      },
+      {
+        "token": "้",
+        "startTime": 1900,
+        "endTime": 1920
+      },
+      {
+        "token": "น",
+        "startTime": 1920,
+        "endTime": 1940
+      },
+      {
+        "token": "ท",
+        "startTime": 1940,
+        "endTime": 2040
+      },
+      {
+        "token": "ี",
+        "startTime": 2040,
+        "endTime": 2080
+      },
+      {
+        "token": "่",
+        "startTime": 2080,
+        "endTime": 2120
+      },
+      {
+        "token": "ย",
+        "startTime": 2120,
+        "endTime": 2360
+      },
+      {
+        "token": "ั",
+        "startTime": 2360,
+        "endTime": 2380
+      },
+      {
+        "token": "ง",
+        "startTime": 2380,
+        "endTime": 2400
+      },
+      {
+        "token": "ม",
+        "startTime": 2400,
+        "endTime": 2520
+      }
+    ]
+  },
+  {
+    "sentence_text": "ี ฝน ตกหนัก ลม กระ ชค แรง นะ ครับ",
+    "translations": {
+      "en": "heavy rain and strong winds."
+    },
+    "segments": [
+      {
+        "token": "ี",
+        "startTime": 2520,
+        "endTime": 2540
+      },
+      {
+        "token": "ฝ",
+        "startTime": 2540,
+        "endTime": 2640
+      },
+      {
+        "token": "น",
+        "startTime": 2640,
+        "endTime": 2720
+      },
+      {
+        "token": "ต",
+        "startTime": 2720,
+        "endTime": 2880
+      },
+      {
+        "token": "ก",
+        "startTime": 2880,
+        "endTime": 2980
+      },
+      {
+        "token": "ห",
+        "startTime": 2980,
+        "endTime": 3060
+      },
+      {
+        "token": "น",
+        "startTime": 3060,
+        "endTime": 3140
+      },
+      {
+        "token": "ั",
+        "startTime": 3140,
+        "endTime": 3160
+      },
+      {
+        "token": "ก",
+        "startTime": 3160,
+        "endTime": 3220
+      },
+      {
+        "token": "ล",
+        "startTime": 3220,
+        "endTime": 3380
+      },
+      {
+        "token": "ม",
+        "startTime": 3380,
+        "endTime": 3400
+      },
+      {
+        "token": "ก",
+        "startTime": 3400,
+        "endTime": 3540
+      },
+      {
+        "token": "ร",
+        "startTime": 3540,
+        "endTime": 3560
+      },
+      {
+        "token": "ะ",
+        "startTime": 3560,
+        "endTime": 3580
+      },
+      {
+        "token": "ช",
+        "startTime": 3580,
+        "endTime": 3640
+      },
+      {
+        "token": "ค",
+        "startTime": 3640,
+        "endTime": 3680
+      },
+      {
+        "token": "แ",
+        "startTime": 3680,
+        "endTime": 3860
+      },
+      {
+        "token": "ร",
+        "startTime": 3860,
+        "endTime": 3880
+      },
+      {
+        "token": "ง",
+        "startTime": 3880,
+        "endTime": 3940
+      },
+      {
+        "token": "น",
+        "startTime": 3940,
+        "endTime": 4040
+      },
+      {
+        "token": "ะ",
+        "startTime": 4040,
+        "endTime": 4140
+      },
+      {
+        "token": "ค",
+        "startTime": 4140,
+        "endTime": 4200
+      },
+      {
+        "token": "ร",
+        "startTime": 4200,
+        "endTime": 4260
+      },
+      {
+        "token": "ั",
+        "startTime": 4260,
+        "endTime": 4300
+      },
+      {
+        "token": "บ",
+        "startTime": 4300,
+        "endTime": 4300
+      }
+    ]
+  },
+  {
+    "sentence_text": "ใจ ที่ ผล ของ ม.",
+    "translations": {
+      "en": "Due to the effects of the monsoon."
+    },
+    "segments": [
+      {
+        "token": "ใ",
+        "startTime": 4300,
+        "endTime": 4440
+      },
+      {
+        "token": "จ",
+        "startTime": 4440,
+        "endTime": 4460
+      },
+      {
+        "token": "ท",
+        "startTime": 4460,
+        "endTime": 4580
+      },
+      {
+        "token": "ี",
+        "startTime": 4580,
+        "endTime": 4590
+      },
+      {
+        "token": "่",
+        "startTime": 4590,
+        "endTime": 4600
+      },
+      {
+        "token": "ผ",
+        "startTime": 4600,
+        "endTime": 4740
+      },
+      {
+        "token": "ล",
+        "startTime": 4740,
+        "endTime": 4760
+      },
+      {
+        "token": "ข",
+        "startTime": 4760,
+        "endTime": 4900
+      },
+      {
+        "token": "อ",
+        "startTime": 4900,
+        "endTime": 4950
+      },
+      {
+        "token": "ง",
+        "startTime": 4950,
+        "endTime": 5000
+      },
+      {
+        "token": "ม",
+        "startTime": 5000,
+        "endTime": 5100
+      },
+      {
+        "token": ".",
+        "startTime": 5100,
+        "endTime": 5200
+      }
+    ]
+  },
+  {
+    "sentence_text": "สุม ประจำ รุ ดู โดยเฉพาะ ใน พื้นที่ จังหวัด นครพนม ครั",
+    "translations": {
+      "en": "The seasonal monsoon is particularly active in Nakhon Phanom province,"
+    },
+    "segments": [
+      {
+        "token": "ส",
+        "startTime": 5200,
+        "endTime": 5280
+      },
+      {
+        "token": "ุ",
+        "startTime": 5280,
+        "endTime": 5360
+      },
+      {
+        "token": "ม",
+        "startTime": 5360,
+        "endTime": 5380
+      },
+      {
+        "token": "ป",
+        "startTime": 5380,
+        "endTime": 5500
+      },
+      {
+        "token": "ร",
+        "startTime": 5500,
+        "endTime": 5520
+      },
+      {
+        "token": "ะ",
+        "startTime": 5520,
+        "endTime": 5540
+      },
+      {
+        "token": "จ",
+        "startTime": 5540,
+        "endTime": 5600
+      },
+      {
+        "token": "ำ",
+        "startTime": 5600,
+        "endTime": 5660
+      },
+      {
+        "token": "ร",
+        "startTime": 5660,
+        "endTime": 5840
+      },
+      {
+        "token": "ุ",
+        "startTime": 5840,
+        "endTime": 5860
+      },
+      {
+        "token": "ด",
+        "startTime": 5860,
+        "endTime": 5880
+      },
+      {
+        "token": "ู",
+        "startTime": 5880,
+        "endTime": 6140
+      },
+      {
+        "token": "โ",
+        "startTime": 6140,
+        "endTime": 6500
+      },
+      {
+        "token": "ด",
+        "startTime": 6500,
+        "endTime": 6520
+      },
+      {
+        "token": "ย",
+        "startTime": 6520,
+        "endTime": 6600
+      },
+      {
+        "token": "เ",
+        "startTime": 6600,
+        "endTime": 6640
+      },
+      {
+        "token": "ฉ",
+        "startTime": 6640,
+        "endTime": 6680
+      },
+      {
+        "token": "พ",
+        "startTime": 6680,
+        "endTime": 6720
+      },
+      {
+        "token": "า",
+        "startTime": 6720,
+        "endTime": 6780
+      },
+      {
+        "token": "ะ",
+        "startTime": 6780,
+        "endTime": 6860
+      },
+      {
+        "token": "ใ",
+        "startTime": 6860,
+        "endTime": 6960
+      },
+      {
+        "token": "น",
+        "startTime": 6960,
+        "endTime": 6980
+      },
+      {
+        "token": "พ",
+        "startTime": 6980,
+        "endTime": 7100
+      },
+      {
+        "token": "ื",
+        "startTime": 7100,
+        "endTime": 7120
+      },
+      {
+        "token": "้",
+        "startTime": 7120,
+        "endTime": 7140
+      },
+      {
+        "token": "น",
+        "startTime": 7140,
+        "endTime": 7160
+      },
+      {
+        "token": "ท",
+        "startTime": 7160,
+        "endTime": 7280
+      },
+      {
+        "token": "ี",
+        "startTime": 7280,
+        "endTime": 7290
+      },
+      {
+        "token": "่",
+        "startTime": 7290,
+        "endTime": 7300
+      },
+      {
+        "token": "จ",
+        "startTime": 7300,
+        "endTime": 7440
+      },
+      {
+        "token": "ั",
+        "startTime": 7440,
+        "endTime": 7480
+      },
+      {
+        "token": "ง",
+        "startTime": 7480,
+        "endTime": 7500
+      },
+      {
+        "token": "ห",
+        "startTime": 7500,
+        "endTime": 7540
+      },
+      {
+        "token": "ว",
+        "startTime": 7540,
+        "endTime": 7620
+      },
+      {
+        "token": "ั",
+        "startTime": 7620,
+        "endTime": 7640
+      },
+      {
+        "token": "ด",
+        "startTime": 7640,
+        "endTime": 7660
+      },
+      {
+        "token": "น",
+        "startTime": 7660,
+        "endTime": 7780
+      },
+      {
+        "token": "ค",
+        "startTime": 7780,
+        "endTime": 7840
+      },
+      {
+        "token": "ร",
+        "startTime": 7840,
+        "endTime": 7900
+      },
+      {
+        "token": "พ",
+        "startTime": 7900,
+        "endTime": 8160
+      },
+      {
+        "token": "น",
+        "startTime": 8160,
+        "endTime": 8240
+      },
+      {
+        "token": "ม",
+        "startTime": 8240,
+        "endTime": 8360
+      },
+      {
+        "token": "ค",
+        "startTime": 8360,
+        "endTime": 8420
+      },
+      {
+        "token": "ร",
+        "startTime": 8420,
+        "endTime": 8480
+      },
+      {
+        "token": "ั",
+        "startTime": 8480,
+        "endTime": 8580
+      }
+    ]
+  },
+  {
+    "sentence_text": "บ",
+    "translations": {
+      "en": "sir."
+    },
+    "segments": [
+      {
+        "token": "บ",
+        "startTime": 8580,
+        "endTime": 26940
+      }
+    ]
+  },
+  {
+    "sentence_text": "ลมแรง มาก เลย ผู้ชม สังเกต จาก อะไร จาก ร้ มธุ ก แรง รม พั",
+    "translations": {
+      "en": "The wind is very strong. Viewers can observe from the strong gusts that"
+    },
+    "segments": [
+      {
+        "token": "ล",
+        "startTime": 26940,
+        "endTime": 27160
+      },
+      {
+        "token": "ม",
+        "startTime": 27160,
+        "endTime": 27260
+      },
+      {
+        "token": "แ",
+        "startTime": 27260,
+        "endTime": 27520
+      },
+      {
+        "token": "ร",
+        "startTime": 27520,
+        "endTime": 27540
+      },
+      {
+        "token": "ง",
+        "startTime": 27540,
+        "endTime": 27600
+      },
+      {
+        "token": "ม",
+        "startTime": 27600,
+        "endTime": 27700
+      },
+      {
+        "token": "า",
+        "startTime": 27700,
+        "endTime": 27800
+      },
+      {
+        "token": "ก",
+        "startTime": 27800,
+        "endTime": 27820
+      },
+      {
+        "token": "เ",
+        "startTime": 27820,
+        "endTime": 27893
+      },
+      {
+        "token": "ล",
+        "startTime": 27893,
+        "endTime": 27967
+      },
+      {
+        "token": "ย",
+        "startTime": 27967,
+        "endTime": 28040
+      },
+      {
+        "token": "ผ",
+        "startTime": 28040,
+        "endTime": 28160
+      },
+      {
+        "token": "ู",
+        "startTime": 28160,
+        "endTime": 28170
+      },
+      {
+        "token": "้",
+        "startTime": 28170,
+        "endTime": 28180
+      },
+      {
+        "token": "ช",
+        "startTime": 28180,
+        "endTime": 28240
+      },
+      {
+        "token": "ม",
+        "startTime": 28240,
+        "endTime": 28860
+      },
+      {
+        "token": "ส",
+        "startTime": 28860,
+        "endTime": 29020
+      },
+      {
+        "token": "ั",
+        "startTime": 29020,
+        "endTime": 29040
+      },
+      {
+        "token": "ง",
+        "startTime": 29040,
+        "endTime": 29060
+      },
+      {
+        "token": "เ",
+        "startTime": 29060,
+        "endTime": 29090
+      },
+      {
+        "token": "ก",
+        "startTime": 29090,
+        "endTime": 29120
+      },
+      {
+        "token": "ต",
+        "startTime": 29120,
+        "endTime": 29220
+      },
+      {
+        "token": "จ",
+        "startTime": 29220,
+        "endTime": 29360
+      },
+      {
+        "token": "า",
+        "startTime": 29360,
+        "endTime": 29370
+      },
+      {
+        "token": "ก",
+        "startTime": 29370,
+        "endTime": 29380
+      },
+      {
+        "token": "อ",
+        "startTime": 29380,
+        "endTime": 29425
+      },
+      {
+        "token": "ะ",
+        "startTime": 29425,
+        "endTime": 29470
+      },
+      {
+        "token": "ไ",
+        "startTime": 29470,
+        "endTime": 29515
+      },
+      {
+        "token": "ร",
+        "startTime": 29515,
+        "endTime": 29560
+      },
+      {
+        "token": "จ",
+        "startTime": 29560,
+        "endTime": 29680
+      },
+      {
+        "token": "า",
+        "startTime": 29680,
+        "endTime": 29730
+      },
+      {
+        "token": "ก",
+        "startTime": 29730,
+        "endTime": 29780
+      },
+      {
+        "token": "ร",
+        "startTime": 29780,
+        "endTime": 29960
+      },
+      {
+        "token": "้",
+        "startTime": 29960,
+        "endTime": 30000
+      },
+      {
+        "token": "ม",
+        "startTime": 30000,
+        "endTime": 30720
+      },
+      {
+        "token": "ธ",
+        "startTime": 30720,
+        "endTime": 30860
+      },
+      {
+        "token": "ุ",
+        "startTime": 30860,
+        "endTime": 31100
+      },
+      {
+        "token": "ก",
+        "startTime": 31100,
+        "endTime": 31120
+      },
+      {
+        "token": "แ",
+        "startTime": 31120,
+        "endTime": 31520
+      },
+      {
+        "token": "ร",
+        "startTime": 31520,
+        "endTime": 31560
+      },
+      {
+        "token": "ง",
+        "startTime": 31560,
+        "endTime": 31580
+      },
+      {
+        "token": "ร",
+        "startTime": 31580,
+        "endTime": 31740
+      },
+      {
+        "token": "ม",
+        "startTime": 31740,
+        "endTime": 31760
+      },
+      {
+        "token": "พ",
+        "startTime": 31760,
+        "endTime": 31940
+      },
+      {
+        "token": "ั",
+        "startTime": 31940,
+        "endTime": 31960
+      }
+    ]
+  },
+  {
+    "sentence_text": "สด์จน ผิด รู้ ไป เลย",
+    "translations": {
+      "en": "blow things away."
+    },
+    "segments": [
+      {
+        "token": "ส",
+        "startTime": 31960,
+        "endTime": 31980
+      },
+      {
+        "token": "ด",
+        "startTime": 31980,
+        "endTime": 32060
+      },
+      {
+        "token": "์",
+        "startTime": 32060,
+        "endTime": 32080
+      },
+      {
+        "token": "จ",
+        "startTime": 32080,
+        "endTime": 32180
+      },
+      {
+        "token": "น",
+        "startTime": 32180,
+        "endTime": 32200
+      },
+      {
+        "token": "ผ",
+        "startTime": 32200,
+        "endTime": 32340
+      },
+      {
+        "token": "ิ",
+        "startTime": 32340,
+        "endTime": 32400
+      },
+      {
+        "token": "ด",
+        "startTime": 32400,
+        "endTime": 32420
+      },
+      {
+        "token": "ร",
+        "startTime": 32420,
+        "endTime": 32640
+      },
+      {
+        "token": "ู",
+        "startTime": 32640,
+        "endTime": 32650
+      },
+      {
+        "token": "้",
+        "startTime": 32650,
+        "endTime": 32659
+      },
+      {
+        "token": "ไ",
+        "startTime": 32659,
+        "endTime": 32719
+      },
+      {
+        "token": "ป",
+        "startTime": 32719,
+        "endTime": 32780
+      },
+      {
+        "token": "เ",
+        "startTime": 32780,
+        "endTime": 33100
+      },
+      {
+        "token": "ล",
+        "startTime": 33100,
+        "endTime": 33420
+      },
+      {
+        "token": "ย",
+        "startTime": 33420,
+        "endTime": 33740
+      }
+    ]
+  },
+  {
+    "sentence_text": "และ นี่ เป็นงาน บวง ส่วงพ ยา ศี สัต ค นัก ราธ์ จังหวัด นค",
+    "translations": {
+      "en": "And this is a ceremony for the spirits in Nakhon"
+    },
+    "segments": [
+      {
+        "token": "แ",
+        "startTime": 33740,
+        "endTime": 33810
+      },
+      {
+        "token": "ล",
+        "startTime": 33810,
+        "endTime": 33880
+      },
+      {
+        "token": "ะ",
+        "startTime": 33880,
+        "endTime": 33960
+      },
+      {
+        "token": "น",
+        "startTime": 33960,
+        "endTime": 34000
+      },
+      {
+        "token": "ี",
+        "startTime": 34000,
+        "endTime": 34050
+      },
+      {
+        "token": "่",
+        "startTime": 34050,
+        "endTime": 34100
+      },
+      {
+        "token": "เ",
+        "startTime": 34100,
+        "endTime": 34160
+      },
+      {
+        "token": "ป",
+        "startTime": 34160,
+        "endTime": 34220
+      },
+      {
+        "token": "็",
+        "startTime": 34220,
+        "endTime": 34320
+      },
+      {
+        "token": "น",
+        "startTime": 34320,
+        "endTime": 34340
+      },
+      {
+        "token": "ง",
+        "startTime": 34340,
+        "endTime": 34440
+      },
+      {
+        "token": "า",
+        "startTime": 34440,
+        "endTime": 34480
+      },
+      {
+        "token": "น",
+        "startTime": 34480,
+        "endTime": 34520
+      },
+      {
+        "token": "บ",
+        "startTime": 34520,
+        "endTime": 34700
+      },
+      {
+        "token": "ว",
+        "startTime": 34700,
+        "endTime": 34720
+      },
+      {
+        "token": "ง",
+        "startTime": 34720,
+        "endTime": 34740
+      },
+      {
+        "token": "ส",
+        "startTime": 34740,
+        "endTime": 34900
+      },
+      {
+        "token": "่",
+        "startTime": 34900,
+        "endTime": 35020
+      },
+      {
+        "token": "ว",
+        "startTime": 35020,
+        "endTime": 35060
+      },
+      {
+        "token": "ง",
+        "startTime": 35060,
+        "endTime": 35140
+      },
+      {
+        "token": "พ",
+        "startTime": 35140,
+        "endTime": 35460
+      },
+      {
+        "token": "ย",
+        "startTime": 35460,
+        "endTime": 35580
+      },
+      {
+        "token": "า",
+        "startTime": 35580,
+        "endTime": 35740
+      },
+      {
+        "token": "ศ",
+        "startTime": 35740,
+        "endTime": 35960
+      },
+      {
+        "token": "ี",
+        "startTime": 35960,
+        "endTime": 36040
+      },
+      {
+        "token": "ส",
+        "startTime": 36040,
+        "endTime": 36240
+      },
+      {
+        "token": "ั",
+        "startTime": 36240,
+        "endTime": 36280
+      },
+      {
+        "token": "ต",
+        "startTime": 36280,
+        "endTime": 36300
+      },
+      {
+        "token": "ค",
+        "startTime": 36300,
+        "endTime": 36360
+      },
+      {
+        "token": "น",
+        "startTime": 36360,
+        "endTime": 36480
+      },
+      {
+        "token": "ั",
+        "startTime": 36480,
+        "endTime": 36540
+      },
+      {
+        "token": "ก",
+        "startTime": 36540,
+        "endTime": 36560
+      },
+      {
+        "token": "ร",
+        "startTime": 36560,
+        "endTime": 36760
+      },
+      {
+        "token": "า",
+        "startTime": 36760,
+        "endTime": 36880
+      },
+      {
+        "token": "ธ",
+        "startTime": 36880,
+        "endTime": 37000
+      },
+      {
+        "token": "์",
+        "startTime": 37000,
+        "endTime": 37200
+      },
+      {
+        "token": "จ",
+        "startTime": 37200,
+        "endTime": 37220
+      },
+      {
+        "token": "ั",
+        "startTime": 37220,
+        "endTime": 37240
+      },
+      {
+        "token": "ง",
+        "startTime": 37240,
+        "endTime": 37260
+      },
+      {
+        "token": "ห",
+        "startTime": 37260,
+        "endTime": 37280
+      },
+      {
+        "token": "ว",
+        "startTime": 37280,
+        "endTime": 37340
+      },
+      {
+        "token": "ั",
+        "startTime": 37340,
+        "endTime": 37360
+      },
+      {
+        "token": "ด",
+        "startTime": 37360,
+        "endTime": 37380
+      },
+      {
+        "token": "น",
+        "startTime": 37380,
+        "endTime": 37460
+      },
+      {
+        "token": "ค",
+        "startTime": 37460,
+        "endTime": 37520
+      }
+    ]
+  },
+  {
+    "sentence_text": "รพ นม",
+    "translations": {
+      "en": "Phanom province."
+    },
+    "segments": [
+      {
+        "token": "ร",
+        "startTime": 37520,
+        "endTime": 37580
+      },
+      {
+        "token": "พ",
+        "startTime": 37580,
+        "endTime": 37840
+      },
+      {
+        "token": "น",
+        "startTime": 37840,
+        "endTime": 37880
+      },
+      {
+        "token": "ม",
+        "startTime": 37880,
+        "endTime": 38460
+      }
+    ]
+  },
+  {
+    "sentence_text": "ท้องฟ้า มืด คลุ้ม เลย นะ ครับ มี ฝน ตกหนัก ลม กระ โชค แรง",
+    "translations": {
+      "en": "The sky is dark. There is heavy rain and strong winds,"
+    },
+    "segments": [
+      {
+        "token": "ท",
+        "startTime": 38460,
+        "endTime": 38680
+      },
+      {
+        "token": "้",
+        "startTime": 38680,
+        "endTime": 38700
+      },
+      {
+        "token": "อ",
+        "startTime": 38700,
+        "endTime": 38710
+      },
+      {
+        "token": "ง",
+        "startTime": 38710,
+        "endTime": 38720
+      },
+      {
+        "token": "ฟ",
+        "startTime": 38720,
+        "endTime": 38760
+      },
+      {
+        "token": "้",
+        "startTime": 38760,
+        "endTime": 38820
+      },
+      {
+        "token": "า",
+        "startTime": 38820,
+        "endTime": 38900
+      },
+      {
+        "token": "ม",
+        "startTime": 38900,
+        "endTime": 38980
+      },
+      {
+        "token": "ื",
+        "startTime": 38980,
+        "endTime": 39100
+      },
+      {
+        "token": "ด",
+        "startTime": 39100,
+        "endTime": 39120
+      },
+      {
+        "token": "ค",
+        "startTime": 39120,
+        "endTime": 39280
+      },
+      {
+        "token": "ล",
+        "startTime": 39280,
+        "endTime": 39300
+      },
+      {
+        "token": "ุ",
+        "startTime": 39300,
+        "endTime": 39340
+      },
+      {
+        "token": "้",
+        "startTime": 39340,
+        "endTime": 39360
+      },
+      {
+        "token": "ม",
+        "startTime": 39360,
+        "endTime": 39380
+      },
+      {
+        "token": "เ",
+        "startTime": 39380,
+        "endTime": 39413
+      },
+      {
+        "token": "ล",
+        "startTime": 39413,
+        "endTime": 39447
+      },
+      {
+        "token": "ย",
+        "startTime": 39447,
+        "endTime": 39480
+      },
+      {
+        "token": "น",
+        "startTime": 39480,
+        "endTime": 39570
+      },
+      {
+        "token": "ะ",
+        "startTime": 39570,
+        "endTime": 39660
+      },
+      {
+        "token": "ค",
+        "startTime": 39660,
+        "endTime": 39730
+      },
+      {
+        "token": "ร",
+        "startTime": 39730,
+        "endTime": 39800
+      },
+      {
+        "token": "ั",
+        "startTime": 39800,
+        "endTime": 39840
+      },
+      {
+        "token": "บ",
+        "startTime": 39840,
+        "endTime": 40180
+      },
+      {
+        "token": "ม",
+        "startTime": 40180,
+        "endTime": 40280
+      },
+      {
+        "token": "ี",
+        "startTime": 40280,
+        "endTime": 40380
+      },
+      {
+        "token": "ฝ",
+        "startTime": 40380,
+        "endTime": 40460
+      },
+      {
+        "token": "น",
+        "startTime": 40460,
+        "endTime": 40540
+      },
+      {
+        "token": "ต",
+        "startTime": 40540,
+        "endTime": 40660
+      },
+      {
+        "token": "ก",
+        "startTime": 40660,
+        "endTime": 40740
+      },
+      {
+        "token": "ห",
+        "startTime": 40740,
+        "endTime": 40810
+      },
+      {
+        "token": "น",
+        "startTime": 40810,
+        "endTime": 40880
+      },
+      {
+        "token": "ั",
+        "startTime": 40880,
+        "endTime": 40940
+      },
+      {
+        "token": "ก",
+        "startTime": 40940,
+        "endTime": 40960
+      },
+      {
+        "token": "ล",
+        "startTime": 40960,
+        "endTime": 41180
+      },
+      {
+        "token": "ม",
+        "startTime": 41180,
+        "endTime": 41240
+      },
+      {
+        "token": "ก",
+        "startTime": 41240,
+        "endTime": 41420
+      },
+      {
+        "token": "ร",
+        "startTime": 41420,
+        "endTime": 41450
+      },
+      {
+        "token": "ะ",
+        "startTime": 41450,
+        "endTime": 41480
+      },
+      {
+        "token": "โ",
+        "startTime": 41480,
+        "endTime": 41520
+      },
+      {
+        "token": "ช",
+        "startTime": 41520,
+        "endTime": 41600
+      },
+      {
+        "token": "ค",
+        "startTime": 41600,
+        "endTime": 41700
+      },
+      {
+        "token": "แ",
+        "startTime": 41700,
+        "endTime": 41900
+      },
+      {
+        "token": "ร",
+        "startTime": 41900,
+        "endTime": 41920
+      },
+      {
+        "token": "ง",
+        "startTime": 41920,
+        "endTime": 42500
+      }
+    ]
+  },
+  {
+    "sentence_text": "จน ประชา ชอ เด พื้นที่",
+    "translations": {
+      "en": "affecting local residents."
+    },
+    "segments": [
+      {
+        "token": "จ",
+        "startTime": 42500,
+        "endTime": 42680
+      },
+      {
+        "token": "น",
+        "startTime": 42680,
+        "endTime": 42700
+      },
+      {
+        "token": "ป",
+        "startTime": 42700,
+        "endTime": 42800
+      },
+      {
+        "token": "ร",
+        "startTime": 42800,
+        "endTime": 42810
+      },
+      {
+        "token": "ะ",
+        "startTime": 42810,
+        "endTime": 42820
+      },
+      {
+        "token": "ช",
+        "startTime": 42820,
+        "endTime": 42880
+      },
+      {
+        "token": "า",
+        "startTime": 42880,
+        "endTime": 43000
+      },
+      {
+        "token": "ช",
+        "startTime": 43000,
+        "endTime": 43020
+      },
+      {
+        "token": "อ",
+        "startTime": 43020,
+        "endTime": 43140
+      },
+      {
+        "token": "เ",
+        "startTime": 43140,
+        "endTime": 43150
+      },
+      {
+        "token": "ด",
+        "startTime": 43150,
+        "endTime": 43160
+      },
+      {
+        "token": "พ",
+        "startTime": 43160,
+        "endTime": 43240
+      },
+      {
+        "token": "ื",
+        "startTime": 43240,
+        "endTime": 43340
+      },
+      {
+        "token": "้",
+        "startTime": 43340,
+        "endTime": 43360
+      },
+      {
+        "token": "น",
+        "startTime": 43360,
+        "endTime": 43380
+      },
+      {
+        "token": "ท",
+        "startTime": 43380,
+        "endTime": 43520
+      },
+      {
+        "token": "ี",
+        "startTime": 43520,
+        "endTime": 43530
+      },
+      {
+        "token": "่",
+        "startTime": 43530,
+        "endTime": 43540
+      }
+    ]
+  },
+  {
+    "sentence_text": "อย่าง ที่ เห็น ก็ คือ พอ อยู่ กลางแจ้ง ก็ ต้อง กลาง ร้มค",
+    "translations": {
+      "en": "As you can see, being outdoors means facing the gusts,"
+    },
+    "segments": [
+      {
+        "token": "อ",
+        "startTime": 43540,
+        "endTime": 43580
+      },
+      {
+        "token": "ย",
+        "startTime": 43580,
+        "endTime": 43620
+      },
+      {
+        "token": "่",
+        "startTime": 43620,
+        "endTime": 43640
+      },
+      {
+        "token": "า",
+        "startTime": 43640,
+        "endTime": 43650
+      },
+      {
+        "token": "ง",
+        "startTime": 43650,
+        "endTime": 43660
+      },
+      {
+        "token": "ท",
+        "startTime": 43660,
+        "endTime": 43680
+      },
+      {
+        "token": "ี",
+        "startTime": 43680,
+        "endTime": 43690
+      },
+      {
+        "token": "่",
+        "startTime": 43690,
+        "endTime": 43700
+      },
+      {
+        "token": "เ",
+        "startTime": 43700,
+        "endTime": 43710
+      },
+      {
+        "token": "ห",
+        "startTime": 43710,
+        "endTime": 43720
+      },
+      {
+        "token": "็",
+        "startTime": 43720,
+        "endTime": 43740
+      },
+      {
+        "token": "น",
+        "startTime": 43740,
+        "endTime": 43760
+      },
+      {
+        "token": "ก",
+        "startTime": 43760,
+        "endTime": 43920
+      },
+      {
+        "token": "็",
+        "startTime": 43920,
+        "endTime": 43940
+      },
+      {
+        "token": "ค",
+        "startTime": 43940,
+        "endTime": 44040
+      },
+      {
+        "token": "ื",
+        "startTime": 44040,
+        "endTime": 44080
+      },
+      {
+        "token": "อ",
+        "startTime": 44080,
+        "endTime": 44100
+      },
+      {
+        "token": "พ",
+        "startTime": 44100,
+        "endTime": 44320
+      },
+      {
+        "token": "อ",
+        "startTime": 44320,
+        "endTime": 44360
+      },
+      {
+        "token": "อ",
+        "startTime": 44360,
+        "endTime": 44420
+      },
+      {
+        "token": "ย",
+        "startTime": 44420,
+        "endTime": 44480
+      },
+      {
+        "token": "ู",
+        "startTime": 44480,
+        "endTime": 44490
+      },
+      {
+        "token": "่",
+        "startTime": 44490,
+        "endTime": 44500
+      },
+      {
+        "token": "ก",
+        "startTime": 44500,
+        "endTime": 44600
+      },
+      {
+        "token": "ล",
+        "startTime": 44600,
+        "endTime": 44660
+      },
+      {
+        "token": "า",
+        "startTime": 44660,
+        "endTime": 44670
+      },
+      {
+        "token": "ง",
+        "startTime": 44670,
+        "endTime": 44680
+      },
+      {
+        "token": "แ",
+        "startTime": 44680,
+        "endTime": 44860
+      },
+      {
+        "token": "จ",
+        "startTime": 44860,
+        "endTime": 44880
+      },
+      {
+        "token": "้",
+        "startTime": 44880,
+        "endTime": 44920
+      },
+      {
+        "token": "ง",
+        "startTime": 44920,
+        "endTime": 44980
+      },
+      {
+        "token": "ก",
+        "startTime": 44980,
+        "endTime": 45180
+      },
+      {
+        "token": "็",
+        "startTime": 45180,
+        "endTime": 45200
+      },
+      {
+        "token": "ต",
+        "startTime": 45200,
+        "endTime": 45280
+      },
+      {
+        "token": "้",
+        "startTime": 45280,
+        "endTime": 45340
+      },
+      {
+        "token": "อ",
+        "startTime": 45340,
+        "endTime": 45590
+      },
+      {
+        "token": "ง",
+        "startTime": 45590,
+        "endTime": 45840
+      },
+      {
+        "token": "ก",
+        "startTime": 45840,
+        "endTime": 46060
+      },
+      {
+        "token": "ล",
+        "startTime": 46060,
+        "endTime": 46080
+      },
+      {
+        "token": "า",
+        "startTime": 46080,
+        "endTime": 46100
+      },
+      {
+        "token": "ง",
+        "startTime": 46100,
+        "endTime": 46120
+      },
+      {
+        "token": "ร",
+        "startTime": 46120,
+        "endTime": 46340
+      },
+      {
+        "token": "้",
+        "startTime": 46340,
+        "endTime": 46380
+      },
+      {
+        "token": "ม",
+        "startTime": 46380,
+        "endTime": 46420
+      },
+      {
+        "token": "ค",
+        "startTime": 46420,
+        "endTime": 46500
+      }
+    ]
+  },
+  {
+    "sentence_text": "รับ",
+    "translations": {
+      "en": "sir."
+    },
+    "segments": [
+      {
+        "token": "ร",
+        "startTime": 46500,
+        "endTime": 46580
+      },
+      {
+        "token": "ั",
+        "startTime": 46580,
+        "endTime": 46700
+      },
+      {
+        "token": "บ",
+        "startTime": 46700,
+        "endTime": 46700
+      }
+    ]
+  },
+  {
+    "sentence_text": "แต่ ก็ ไม่ สามารถ ที่จะ ต้าน ฐาน แรง รม ได้",
+    "translations": {
+      "en": "But they can't withstand the strong winds."
+    },
+    "segments": [
+      {
+        "token": "แ",
+        "startTime": 46700,
+        "endTime": 46900
+      },
+      {
+        "token": "ต",
+        "startTime": 46900,
+        "endTime": 47100
+      },
+      {
+        "token": "่",
+        "startTime": 47100,
+        "endTime": 47120
+      },
+      {
+        "token": "ก",
+        "startTime": 47120,
+        "endTime": 47200
+      },
+      {
+        "token": "็",
+        "startTime": 47200,
+        "endTime": 47220
+      },
+      {
+        "token": "ไ",
+        "startTime": 47220,
+        "endTime": 47250
+      },
+      {
+        "token": "ม",
+        "startTime": 47250,
+        "endTime": 47280
+      },
+      {
+        "token": "่",
+        "startTime": 47280,
+        "endTime": 47300
+      },
+      {
+        "token": "ส",
+        "startTime": 47300,
+        "endTime": 47440
+      },
+      {
+        "token": "า",
+        "startTime": 47440,
+        "endTime": 47500
+      },
+      {
+        "token": "ม",
+        "startTime": 47500,
+        "endTime": 47540
+      },
+      {
+        "token": "า",
+        "startTime": 47540,
+        "endTime": 47580
+      },
+      {
+        "token": "ร",
+        "startTime": 47580,
+        "endTime": 47600
+      },
+      {
+        "token": "ถ",
+        "startTime": 47600,
+        "endTime": 47620
+      },
+      {
+        "token": "ท",
+        "startTime": 47620,
+        "endTime": 47700
+      },
+      {
+        "token": "ี",
+        "startTime": 47700,
+        "endTime": 47710
+      },
+      {
+        "token": "่",
+        "startTime": 47710,
+        "endTime": 47720
+      },
+      {
+        "token": "จ",
+        "startTime": 47720,
+        "endTime": 47770
+      },
+      {
+        "token": "ะ",
+        "startTime": 47770,
+        "endTime": 47820
+      },
+      {
+        "token": "ต",
+        "startTime": 47820,
+        "endTime": 48020
+      },
+      {
+        "token": "้",
+        "startTime": 48020,
+        "endTime": 48040
+      },
+      {
+        "token": "า",
+        "startTime": 48040,
+        "endTime": 48050
+      },
+      {
+        "token": "น",
+        "startTime": 48050,
+        "endTime": 48060
+      },
+      {
+        "token": "ฐ",
+        "startTime": 48060,
+        "endTime": 48280
+      },
+      {
+        "token": "า",
+        "startTime": 48280,
+        "endTime": 48330
+      },
+      {
+        "token": "น",
+        "startTime": 48330,
+        "endTime": 48380
+      },
+      {
+        "token": "แ",
+        "startTime": 48380,
+        "endTime": 48580
+      },
+      {
+        "token": "ร",
+        "startTime": 48580,
+        "endTime": 48600
+      },
+      {
+        "token": "ง",
+        "startTime": 48600,
+        "endTime": 48640
+      },
+      {
+        "token": "ร",
+        "startTime": 48640,
+        "endTime": 48800
+      },
+      {
+        "token": "ม",
+        "startTime": 48800,
+        "endTime": 48820
+      },
+      {
+        "token": "ไ",
+        "startTime": 48820,
+        "endTime": 48920
+      },
+      {
+        "token": "ด",
+        "startTime": 48920,
+        "endTime": 49020
+      },
+      {
+        "token": "้",
+        "startTime": 49020,
+        "endTime": 49800
+      }
+    ]
+  },
+  {
+    "sentence_text": "ส่วน ที่ โรงเรียน ทอง ผา ภูมิวิทยา จง หวัด การ จณ บูรี ใ",
+    "translations": {
+      "en": "At Thong Pha Phum Wittaya School in Kanchanaburi province,"
+    },
+    "segments": [
+      {
+        "token": "ส",
+        "startTime": 49800,
+        "endTime": 49900
+      },
+      {
+        "token": "่",
+        "startTime": 49900,
+        "endTime": 49960
+      },
+      {
+        "token": "ว",
+        "startTime": 49960,
+        "endTime": 50020
+      },
+      {
+        "token": "น",
+        "startTime": 50020,
+        "endTime": 50040
+      },
+      {
+        "token": "ท",
+        "startTime": 50040,
+        "endTime": 50220
+      },
+      {
+        "token": "ี",
+        "startTime": 50220,
+        "endTime": 50230
+      },
+      {
+        "token": "่",
+        "startTime": 50230,
+        "endTime": 50240
+      },
+      {
+        "token": "โ",
+        "startTime": 50240,
+        "endTime": 50360
+      },
+      {
+        "token": "ร",
+        "startTime": 50360,
+        "endTime": 50380
+      },
+      {
+        "token": "ง",
+        "startTime": 50380,
+        "endTime": 50400
+      },
+      {
+        "token": "เ",
+        "startTime": 50400,
+        "endTime": 50470
+      },
+      {
+        "token": "ร",
+        "startTime": 50470,
+        "endTime": 50540
+      },
+      {
+        "token": "ี",
+        "startTime": 50540,
+        "endTime": 50640
+      },
+      {
+        "token": "ย",
+        "startTime": 50640,
+        "endTime": 50660
+      },
+      {
+        "token": "น",
+        "startTime": 50660,
+        "endTime": 50680
+      },
+      {
+        "token": "ท",
+        "startTime": 50680,
+        "endTime": 50860
+      },
+      {
+        "token": "อ",
+        "startTime": 50860,
+        "endTime": 50910
+      },
+      {
+        "token": "ง",
+        "startTime": 50910,
+        "endTime": 50960
+      },
+      {
+        "token": "ผ",
+        "startTime": 50960,
+        "endTime": 51080
+      },
+      {
+        "token": "า",
+        "startTime": 51080,
+        "endTime": 51180
+      },
+      {
+        "token": "ภ",
+        "startTime": 51180,
+        "endTime": 51300
+      },
+      {
+        "token": "ู",
+        "startTime": 51300,
+        "endTime": 51380
+      },
+      {
+        "token": "ม",
+        "startTime": 51380,
+        "endTime": 51400
+      },
+      {
+        "token": "ิ",
+        "startTime": 51400,
+        "endTime": 51420
+      },
+      {
+        "token": "ว",
+        "startTime": 51420,
+        "endTime": 51520
+      },
+      {
+        "token": "ิ",
+        "startTime": 51520,
+        "endTime": 51560
+      },
+      {
+        "token": "ท",
+        "startTime": 51560,
+        "endTime": 51580
+      },
+      {
+        "token": "ย",
+        "startTime": 51580,
+        "endTime": 51780
+      },
+      {
+        "token": "า",
+        "startTime": 51780,
+        "endTime": 52060
+      },
+      {
+        "token": "จ",
+        "startTime": 52060,
+        "endTime": 52140
+      },
+      {
+        "token": "ง",
+        "startTime": 52140,
+        "endTime": 52160
+      },
+      {
+        "token": "ห",
+        "startTime": 52160,
+        "endTime": 52220
+      },
+      {
+        "token": "ว",
+        "startTime": 52220,
+        "endTime": 52280
+      },
+      {
+        "token": "ั",
+        "startTime": 52280,
+        "endTime": 52300
+      },
+      {
+        "token": "ด",
+        "startTime": 52300,
+        "endTime": 52320
+      },
+      {
+        "token": "ก",
+        "startTime": 52320,
+        "endTime": 52460
+      },
+      {
+        "token": "า",
+        "startTime": 52460,
+        "endTime": 52510
+      },
+      {
+        "token": "ร",
+        "startTime": 52510,
+        "endTime": 52560
+      },
+      {
+        "token": "จ",
+        "startTime": 52560,
+        "endTime": 52720
+      },
+      {
+        "token": "ณ",
+        "startTime": 52720,
+        "endTime": 52780
+      },
+      {
+        "token": "บ",
+        "startTime": 52780,
+        "endTime": 52920
+      },
+      {
+        "token": "ู",
+        "startTime": 52920,
+        "endTime": 53040
+      },
+      {
+        "token": "ร",
+        "startTime": 53040,
+        "endTime": 53160
+      },
+      {
+        "token": "ี",
+        "startTime": 53160,
+        "endTime": 53480
+      },
+      {
+        "token": "ใ",
+        "startTime": 53480,
+        "endTime": 53590
+      }
+    ]
+  },
+  {
+    "sentence_text": "ช่ เดี๋ยว กัน",
+    "translations": {
+      "en": "it's the same."
+    },
+    "segments": [
+      {
+        "token": "ช",
+        "startTime": 53590,
+        "endTime": 53700
+      },
+      {
+        "token": "่",
+        "startTime": 53700,
+        "endTime": 53720
+      },
+      {
+        "token": "เ",
+        "startTime": 53720,
+        "endTime": 53770
+      },
+      {
+        "token": "ด",
+        "startTime": 53770,
+        "endTime": 53820
+      },
+      {
+        "token": "ี",
+        "startTime": 53820,
+        "endTime": 53840
+      },
+      {
+        "token": "๋",
+        "startTime": 53840,
+        "endTime": 53860
+      },
+      {
+        "token": "ย",
+        "startTime": 53860,
+        "endTime": 53880
+      },
+      {
+        "token": "ว",
+        "startTime": 53880,
+        "endTime": 53890
+      },
+      {
+        "token": "ก",
+        "startTime": 53890,
+        "endTime": 53900
+      },
+      {
+        "token": "ั",
+        "startTime": 53900,
+        "endTime": 53920
+      },
+      {
+        "token": "น",
+        "startTime": 53920,
+        "endTime": 54240
+      }
+    ]
+  },
+  {
+    "sentence_text": "ฝน ตกหนัก ลมแรง ต้นไม้ ที่ ปลุก ไว้ ภายใน โรงเรียน เอ๊",
+    "translations": {
+      "en": "Heavy rain and strong winds cause trees planted in the school to"
+    },
+    "segments": [
+      {
+        "token": "ฝ",
+        "startTime": 54240,
+        "endTime": 54320
+      },
+      {
+        "token": "น",
+        "startTime": 54320,
+        "endTime": 54380
+      },
+      {
+        "token": "ต",
+        "startTime": 54380,
+        "endTime": 54520
+      },
+      {
+        "token": "ก",
+        "startTime": 54520,
+        "endTime": 54540
+      },
+      {
+        "token": "ห",
+        "startTime": 54540,
+        "endTime": 54620
+      },
+      {
+        "token": "น",
+        "startTime": 54620,
+        "endTime": 54700
+      },
+      {
+        "token": "ั",
+        "startTime": 54700,
+        "endTime": 54720
+      },
+      {
+        "token": "ก",
+        "startTime": 54720,
+        "endTime": 54740
+      },
+      {
+        "token": "ล",
+        "startTime": 54740,
+        "endTime": 54840
+      },
+      {
+        "token": "ม",
+        "startTime": 54840,
+        "endTime": 54860
+      },
+      {
+        "token": "แ",
+        "startTime": 54860,
+        "endTime": 55060
+      },
+      {
+        "token": "ร",
+        "startTime": 55060,
+        "endTime": 55080
+      },
+      {
+        "token": "ง",
+        "startTime": 55080,
+        "endTime": 55380
+      },
+      {
+        "token": "ต",
+        "startTime": 55380,
+        "endTime": 55760
+      },
+      {
+        "token": "้",
+        "startTime": 55760,
+        "endTime": 55780
+      },
+      {
+        "token": "น",
+        "startTime": 55780,
+        "endTime": 55800
+      },
+      {
+        "token": "ไ",
+        "startTime": 55800,
+        "endTime": 55840
+      },
+      {
+        "token": "ม",
+        "startTime": 55840,
+        "endTime": 55880
+      },
+      {
+        "token": "้",
+        "startTime": 55880,
+        "endTime": 55900
+      },
+      {
+        "token": "ท",
+        "startTime": 55900,
+        "endTime": 56060
+      },
+      {
+        "token": "ี",
+        "startTime": 56060,
+        "endTime": 56070
+      },
+      {
+        "token": "่",
+        "startTime": 56070,
+        "endTime": 56080
+      },
+      {
+        "token": "ป",
+        "startTime": 56080,
+        "endTime": 56180
+      },
+      {
+        "token": "ล",
+        "startTime": 56180,
+        "endTime": 56200
+      },
+      {
+        "token": "ุ",
+        "startTime": 56200,
+        "endTime": 56220
+      },
+      {
+        "token": "ก",
+        "startTime": 56220,
+        "endTime": 56240
+      },
+      {
+        "token": "ไ",
+        "startTime": 56240,
+        "endTime": 56400
+      },
+      {
+        "token": "ว",
+        "startTime": 56400,
+        "endTime": 56420
+      },
+      {
+        "token": "้",
+        "startTime": 56420,
+        "endTime": 56660
+      },
+      {
+        "token": "ภ",
+        "startTime": 56660,
+        "endTime": 56720
+      },
+      {
+        "token": "า",
+        "startTime": 56720,
+        "endTime": 56750
+      },
+      {
+        "token": "ย",
+        "startTime": 56750,
+        "endTime": 56780
+      },
+      {
+        "token": "ใ",
+        "startTime": 56780,
+        "endTime": 56880
+      },
+      {
+        "token": "น",
+        "startTime": 56880,
+        "endTime": 56900
+      },
+      {
+        "token": "โ",
+        "startTime": 56900,
+        "endTime": 57000
+      },
+      {
+        "token": "ร",
+        "startTime": 57000,
+        "endTime": 57040
+      },
+      {
+        "token": "ง",
+        "startTime": 57040,
+        "endTime": 57060
+      },
+      {
+        "token": "เ",
+        "startTime": 57060,
+        "endTime": 57140
+      },
+      {
+        "token": "ร",
+        "startTime": 57140,
+        "endTime": 57220
+      },
+      {
+        "token": "ี",
+        "startTime": 57220,
+        "endTime": 57300
+      },
+      {
+        "token": "ย",
+        "startTime": 57300,
+        "endTime": 57340
+      },
+      {
+        "token": "น",
+        "startTime": 57340,
+        "endTime": 57680
+      },
+      {
+        "token": "เ",
+        "startTime": 57680,
+        "endTime": 57710
+      },
+      {
+        "token": "อ",
+        "startTime": 57710,
+        "endTime": 57740
+      },
+      {
+        "token": "๊",
+        "startTime": 57740,
+        "endTime": 57820
+      }
+    ]
+  },
+  {
+    "sentence_text": "น ไป ตาม กะ แส ลม",
+    "translations": {
+      "en": "bend with the wind."
+    },
+    "segments": [
+      {
+        "token": "น",
+        "startTime": 57820,
+        "endTime": 57820
+      },
+      {
+        "token": "ไ",
+        "startTime": 57820,
+        "endTime": 58080
+      },
+      {
+        "token": "ป",
+        "startTime": 58080,
+        "endTime": 58340
+      },
+      {
+        "token": "ต",
+        "startTime": 58340,
+        "endTime": 58500
+      },
+      {
+        "token": "า",
+        "startTime": 58500,
+        "endTime": 58560
+      },
+      {
+        "token": "ม",
+        "startTime": 58560,
+        "endTime": 58620
+      },
+      {
+        "token": "ก",
+        "startTime": 58620,
+        "endTime": 58780
+      },
+      {
+        "token": "ะ",
+        "startTime": 58780,
+        "endTime": 58820
+      },
+      {
+        "token": "แ",
+        "startTime": 58820,
+        "endTime": 58920
+      },
+      {
+        "token": "ส",
+        "startTime": 58920,
+        "endTime": 58960
+      },
+      {
+        "token": "ล",
+        "startTime": 58960,
+        "endTime": 59160
+      },
+      {
+        "token": "ม",
+        "startTime": 59160,
+        "endTime": 59280
+      }
+    ]
+  },
+  {
+    "sentence_text": "บัญ ดา ครู อาจารย์ ต่าง ภา คา ริก แล้ว มัด ระวัง ตกใจ เลย",
+    "translations": {
+      "en": "Teachers and staff are startled and cautious,"
+    },
+    "segments": [
+      {
+        "token": "บ",
+        "startTime": 59280,
+        "endTime": 59820
+      },
+      {
+        "token": "ั",
+        "startTime": 59820,
+        "endTime": 59840
+      },
+      {
+        "token": "ญ",
+        "startTime": 59840,
+        "endTime": 59900
+      },
+      {
+        "token": "ด",
+        "startTime": 59900,
+        "endTime": 59960
+      },
+      {
+        "token": "า",
+        "startTime": 59960,
+        "endTime": 60060
+      },
+      {
+        "token": "ค",
+        "startTime": 60060,
+        "endTime": 60130
+      },
+      {
+        "token": "ร",
+        "startTime": 60130,
+        "endTime": 60200
+      },
+      {
+        "token": "ู",
+        "startTime": 60200,
+        "endTime": 60420
+      },
+      {
+        "token": "อ",
+        "startTime": 60420,
+        "endTime": 60500
+      },
+      {
+        "token": "า",
+        "startTime": 60500,
+        "endTime": 60540
+      },
+      {
+        "token": "จ",
+        "startTime": 60540,
+        "endTime": 60580
+      },
+      {
+        "token": "า",
+        "startTime": 60580,
+        "endTime": 60690
+      },
+      {
+        "token": "ร",
+        "startTime": 60690,
+        "endTime": 60800
+      },
+      {
+        "token": "ย",
+        "startTime": 60800,
+        "endTime": 60820
+      },
+      {
+        "token": "์",
+        "startTime": 60820,
+        "endTime": 61020
+      },
+      {
+        "token": "ต",
+        "startTime": 61020,
+        "endTime": 61100
+      },
+      {
+        "token": "่",
+        "startTime": 61100,
+        "endTime": 61120
+      },
+      {
+        "token": "า",
+        "startTime": 61120,
+        "endTime": 61130
+      },
+      {
+        "token": "ง",
+        "startTime": 61130,
+        "endTime": 61140
+      },
+      {
+        "token": "ภ",
+        "startTime": 61140,
+        "endTime": 61280
+      },
+      {
+        "token": "า",
+        "startTime": 61280,
+        "endTime": 61300
+      },
+      {
+        "token": "ค",
+        "startTime": 61300,
+        "endTime": 61480
+      },
+      {
+        "token": "า",
+        "startTime": 61480,
+        "endTime": 61520
+      },
+      {
+        "token": "ร",
+        "startTime": 61520,
+        "endTime": 61560
+      },
+      {
+        "token": "ิ",
+        "startTime": 61560,
+        "endTime": 61940
+      },
+      {
+        "token": "ก",
+        "startTime": 61940,
+        "endTime": 61940
+      },
+      {
+        "token": "แ",
+        "startTime": 61940,
+        "endTime": 62120
+      },
+      {
+        "token": "ล",
+        "startTime": 62120,
+        "endTime": 62300
+      },
+      {
+        "token": "้",
+        "startTime": 62300,
+        "endTime": 62320
+      },
+      {
+        "token": "ว",
+        "startTime": 62320,
+        "endTime": 62340
+      },
+      {
+        "token": "ม",
+        "startTime": 62340,
+        "endTime": 62440
+      },
+      {
+        "token": "ั",
+        "startTime": 62440,
+        "endTime": 62460
+      },
+      {
+        "token": "ด",
+        "startTime": 62460,
+        "endTime": 62480
+      },
+      {
+        "token": "ร",
+        "startTime": 62480,
+        "endTime": 62530
+      },
+      {
+        "token": "ะ",
+        "startTime": 62530,
+        "endTime": 62580
+      },
+      {
+        "token": "ว",
+        "startTime": 62580,
+        "endTime": 62680
+      },
+      {
+        "token": "ั",
+        "startTime": 62680,
+        "endTime": 62720
+      },
+      {
+        "token": "ง",
+        "startTime": 62720,
+        "endTime": 62740
+      },
+      {
+        "token": "ต",
+        "startTime": 62740,
+        "endTime": 62920
+      },
+      {
+        "token": "ก",
+        "startTime": 62920,
+        "endTime": 63000
+      },
+      {
+        "token": "ใ",
+        "startTime": 63000,
+        "endTime": 63180
+      },
+      {
+        "token": "จ",
+        "startTime": 63180,
+        "endTime": 63260
+      },
+      {
+        "token": "เ",
+        "startTime": 63260,
+        "endTime": 63313
+      },
+      {
+        "token": "ล",
+        "startTime": 63313,
+        "endTime": 63367
+      },
+      {
+        "token": "ย",
+        "startTime": 63367,
+        "endTime": 63420
+      }
+    ]
+  },
+  {
+    "sentence_text": "ครับ",
+    "translations": {
+      "en": "sir."
+    },
+    "segments": [
+      {
+        "token": "ค",
+        "startTime": 63420,
+        "endTime": 63510
+      },
+      {
+        "token": "ร",
+        "startTime": 63510,
+        "endTime": 63600
+      },
+      {
+        "token": "ั",
+        "startTime": 63600,
+        "endTime": 63620
+      },
+      {
+        "token": "บ",
+        "startTime": 63620,
+        "endTime": 63620
+      }
+    ]
+  },
+  {
+    "sentence_text": "ตอนนั้น คือ ห วัน ว่า จะ เกิด อันตราย ขึ้น เพราะว่า กะ แ",
+    "translations": {
+      "en": "At that time, it was feared that danger would occur because the wind"
+    },
+    "segments": [
+      {
+        "token": "ต",
+        "startTime": 63620,
+        "endTime": 63780
+      },
+      {
+        "token": "อ",
+        "startTime": 63780,
+        "endTime": 63810
+      },
+      {
+        "token": "น",
+        "startTime": 63810,
+        "endTime": 63840
+      },
+      {
+        "token": "น",
+        "startTime": 63840,
+        "endTime": 63860
+      },
+      {
+        "token": "ั",
+        "startTime": 63860,
+        "endTime": 63910
+      },
+      {
+        "token": "้",
+        "startTime": 63910,
+        "endTime": 63960
+      },
+      {
+        "token": "น",
+        "startTime": 63960,
+        "endTime": 63980
+      },
+      {
+        "token": "ค",
+        "startTime": 63980,
+        "endTime": 64160
+      },
+      {
+        "token": "ื",
+        "startTime": 64160,
+        "endTime": 64180
+      },
+      {
+        "token": "อ",
+        "startTime": 64180,
+        "endTime": 64200
+      },
+      {
+        "token": "ห",
+        "startTime": 64200,
+        "endTime": 64280
+      },
+      {
+        "token": "ว",
+        "startTime": 64280,
+        "endTime": 64319
+      },
+      {
+        "token": "ั",
+        "startTime": 64319,
+        "endTime": 64340
+      },
+      {
+        "token": "น",
+        "startTime": 64340,
+        "endTime": 64360
+      },
+      {
+        "token": "ว",
+        "startTime": 64360,
+        "endTime": 64480
+      },
+      {
+        "token": "่",
+        "startTime": 64480,
+        "endTime": 64500
+      },
+      {
+        "token": "า",
+        "startTime": 64500,
+        "endTime": 64519
+      },
+      {
+        "token": "จ",
+        "startTime": 64519,
+        "endTime": 64570
+      },
+      {
+        "token": "ะ",
+        "startTime": 64570,
+        "endTime": 64620
+      },
+      {
+        "token": "เ",
+        "startTime": 64620,
+        "endTime": 64680
+      },
+      {
+        "token": "ก",
+        "startTime": 64680,
+        "endTime": 64739
+      },
+      {
+        "token": "ิ",
+        "startTime": 64739,
+        "endTime": 64760
+      },
+      {
+        "token": "ด",
+        "startTime": 64760,
+        "endTime": 64780
+      },
+      {
+        "token": "อ",
+        "startTime": 64780,
+        "endTime": 64920
+      },
+      {
+        "token": "ั",
+        "startTime": 64920,
+        "endTime": 64940
+      },
+      {
+        "token": "น",
+        "startTime": 64940,
+        "endTime": 64959
+      },
+      {
+        "token": "ต",
+        "startTime": 64959,
+        "endTime": 65040
+      },
+      {
+        "token": "ร",
+        "startTime": 65040,
+        "endTime": 65120
+      },
+      {
+        "token": "า",
+        "startTime": 65120,
+        "endTime": 65170
+      },
+      {
+        "token": "ย",
+        "startTime": 65170,
+        "endTime": 65220
+      },
+      {
+        "token": "ข",
+        "startTime": 65220,
+        "endTime": 65360
+      },
+      {
+        "token": "ึ",
+        "startTime": 65360,
+        "endTime": 65459
+      },
+      {
+        "token": "้",
+        "startTime": 65459,
+        "endTime": 65480
+      },
+      {
+        "token": "น",
+        "startTime": 65480,
+        "endTime": 65480
+      },
+      {
+        "token": "เ",
+        "startTime": 65480,
+        "endTime": 65550
+      },
+      {
+        "token": "พ",
+        "startTime": 65550,
+        "endTime": 65620
+      },
+      {
+        "token": "ร",
+        "startTime": 65620,
+        "endTime": 65640
+      },
+      {
+        "token": "า",
+        "startTime": 65640,
+        "endTime": 65660
+      },
+      {
+        "token": "ะ",
+        "startTime": 65660,
+        "endTime": 65680
+      },
+      {
+        "token": "ว",
+        "startTime": 65680,
+        "endTime": 65760
+      },
+      {
+        "token": "่",
+        "startTime": 65760,
+        "endTime": 65780
+      },
+      {
+        "token": "า",
+        "startTime": 65780,
+        "endTime": 65860
+      },
+      {
+        "token": "ก",
+        "startTime": 65860,
+        "endTime": 66280
+      },
+      {
+        "token": "ะ",
+        "startTime": 66280,
+        "endTime": 66320
+      },
+      {
+        "token": "แ",
+        "startTime": 66320,
+        "endTime": 66420
+      }
+    ]
+  },
+  {
+    "sentence_text": "ส ลมแรง",
+    "translations": {
+      "en": "was strong."
+    },
+    "segments": [
+      {
+        "token": "ส",
+        "startTime": 66420,
+        "endTime": 66440
+      },
+      {
+        "token": "ล",
+        "startTime": 66440,
+        "endTime": 66620
+      },
+      {
+        "token": "ม",
+        "startTime": 66620,
+        "endTime": 66660
+      },
+      {
+        "token": "แ",
+        "startTime": 66660,
+        "endTime": 66880
+      },
+      {
+        "token": "ร",
+        "startTime": 66880,
+        "endTime": 66900
+      },
+      {
+        "token": "ง",
+        "startTime": 66900,
+        "endTime": 67660
+      }
+    ]
+  },
+  {
+    "sentence_text": "ตน ไม้ อาจจะ ตั้น แรง ไว้ ไม่ ไว ครับ ค่ะ",
+    "translations": {
+      "en": "Trees might not be able to withstand the force, sir/ma'am."
+    },
+    "segments": [
+      {
+        "token": "ต",
+        "startTime": 67660,
+        "endTime": 67820
+      },
+      {
+        "token": "น",
+        "startTime": 67820,
+        "endTime": 67880
+      },
+      {
+        "token": "ไ",
+        "startTime": 67880,
+        "endTime": 67960
+      },
+      {
+        "token": "ม",
+        "startTime": 67960,
+        "endTime": 68040
+      },
+      {
+        "token": "้",
+        "startTime": 68040,
+        "endTime": 68080
+      },
+      {
+        "token": "อ",
+        "startTime": 68080,
+        "endTime": 68220
+      },
+      {
+        "token": "า",
+        "startTime": 68220,
+        "endTime": 68320
+      },
+      {
+        "token": "จ",
+        "startTime": 68320,
+        "endTime": 68340
+      },
+      {
+        "token": "จ",
+        "startTime": 68340,
+        "endTime": 68440
+      },
+      {
+        "token": "ะ",
+        "startTime": 68440,
+        "endTime": 68540
+      },
+      {
+        "token": "ต",
+        "startTime": 68540,
+        "endTime": 68640
+      },
+      {
+        "token": "ั",
+        "startTime": 68640,
+        "endTime": 68650
+      },
+      {
+        "token": "้",
+        "startTime": 68650,
+        "endTime": 68660
+      },
+      {
+        "token": "น",
+        "startTime": 68660,
+        "endTime": 68740
+      },
+      {
+        "token": "แ",
+        "startTime": 68740,
+        "endTime": 68920
+      },
+      {
+        "token": "ร",
+        "startTime": 68920,
+        "endTime": 68940
+      },
+      {
+        "token": "ง",
+        "startTime": 68940,
+        "endTime": 69000
+      },
+      {
+        "token": "ไ",
+        "startTime": 69000,
+        "endTime": 69120
+      },
+      {
+        "token": "ว",
+        "startTime": 69120,
+        "endTime": 69140
+      },
+      {
+        "token": "้",
+        "startTime": 69140,
+        "endTime": 69160
+      },
+      {
+        "token": "ไ",
+        "startTime": 69160,
+        "endTime": 69220
+      },
+      {
+        "token": "ม",
+        "startTime": 69220,
+        "endTime": 69280
+      },
+      {
+        "token": "่",
+        "startTime": 69280,
+        "endTime": 69320
+      },
+      {
+        "token": "ไ",
+        "startTime": 69320,
+        "endTime": 69480
+      },
+      {
+        "token": "ว",
+        "startTime": 69480,
+        "endTime": 69500
+      },
+      {
+        "token": "ค",
+        "startTime": 69500,
+        "endTime": 69630
+      },
+      {
+        "token": "ร",
+        "startTime": 69630,
+        "endTime": 69760
+      },
+      {
+        "token": "ั",
+        "startTime": 69760,
+        "endTime": 69780
+      },
+      {
+        "token": "บ",
+        "startTime": 69780,
+        "endTime": 69780
+      },
+      {
+        "token": "ค",
+        "startTime": 69780,
+        "endTime": 69980
+      },
+      {
+        "token": "่",
+        "startTime": 69980,
+        "endTime": 70020
+      },
+      {
+        "token": "ะ",
+        "startTime": 70020,
+        "endTime": 70280
+      }
+    ]
+  },
+  {
+    "sentence_text": "แล้วก็ ็ วันนี้ คุณ ผู้ชม วันที่ 10 กร มู ตุน ยม วิทยา เต",
+    "translations": {
+      "en": "And today, viewers, on the 10th, the Meteorological Department warns"
+    },
+    "segments": [
+      {
+        "token": "แ",
+        "startTime": 70280,
+        "endTime": 70310
+      },
+      {
+        "token": "ล",
+        "startTime": 70310,
+        "endTime": 70340
+      },
+      {
+        "token": "้",
+        "startTime": 70340,
+        "endTime": 70380
+      },
+      {
+        "token": "ว",
+        "startTime": 70380,
+        "endTime": 70390
+      },
+      {
+        "token": "ก",
+        "startTime": 70390,
+        "endTime": 70400
+      },
+      {
+        "token": "็",
+        "startTime": 70400,
+        "endTime": 70400
+      },
+      {
+        "token": "็",
+        "startTime": 70400,
+        "endTime": 70470
+      },
+      {
+        "token": "ว",
+        "startTime": 70470,
+        "endTime": 70630
+      },
+      {
+        "token": "ั",
+        "startTime": 70630,
+        "endTime": 70650
+      },
+      {
+        "token": "น",
+        "startTime": 70650,
+        "endTime": 70660
+      },
+      {
+        "token": "น",
+        "startTime": 70660,
+        "endTime": 70670
+      },
+      {
+        "token": "ี",
+        "startTime": 70670,
+        "endTime": 70740
+      },
+      {
+        "token": "้",
+        "startTime": 70740,
+        "endTime": 70810
+      },
+      {
+        "token": "ค",
+        "startTime": 70810,
+        "endTime": 71070
+      },
+      {
+        "token": "ุ",
+        "startTime": 71070,
+        "endTime": 71090
+      },
+      {
+        "token": "ณ",
+        "startTime": 71090,
+        "endTime": 71110
+      },
+      {
+        "token": "ผ",
+        "startTime": 71110,
+        "endTime": 71210
+      },
+      {
+        "token": "ู",
+        "startTime": 71210,
+        "endTime": 71220
+      },
+      {
+        "token": "้",
+        "startTime": 71220,
+        "endTime": 71230
+      },
+      {
+        "token": "ช",
+        "startTime": 71230,
+        "endTime": 71310
+      },
+      {
+        "token": "ม",
+        "startTime": 71310,
+        "endTime": 71530
+      },
+      {
+        "token": "ว",
+        "startTime": 71530,
+        "endTime": 71550
+      },
+      {
+        "token": "ั",
+        "startTime": 71550,
+        "endTime": 71570
+      },
+      {
+        "token": "น",
+        "startTime": 71570,
+        "endTime": 71590
+      },
+      {
+        "token": "ท",
+        "startTime": 71590,
+        "endTime": 71790
+      },
+      {
+        "token": "ี",
+        "startTime": 71790,
+        "endTime": 71800
+      },
+      {
+        "token": "่",
+        "startTime": 71800,
+        "endTime": 71810
+      },
+      {
+        "token": "1",
+        "startTime": 71810,
+        "endTime": 71870
+      },
+      {
+        "token": "0",
+        "startTime": 71870,
+        "endTime": 71930
+      },
+      {
+        "token": "ก",
+        "startTime": 71930,
+        "endTime": 72250
+      },
+      {
+        "token": "ร",
+        "startTime": 72250,
+        "endTime": 72350
+      },
+      {
+        "token": "ม",
+        "startTime": 72350,
+        "endTime": 72390
+      },
+      {
+        "token": "ู",
+        "startTime": 72390,
+        "endTime": 72470
+      },
+      {
+        "token": "ต",
+        "startTime": 72470,
+        "endTime": 72530
+      },
+      {
+        "token": "ุ",
+        "startTime": 72530,
+        "endTime": 72590
+      },
+      {
+        "token": "น",
+        "startTime": 72590,
+        "endTime": 72690
+      },
+      {
+        "token": "ย",
+        "startTime": 72690,
+        "endTime": 72790
+      },
+      {
+        "token": "ม",
+        "startTime": 72790,
+        "endTime": 72890
+      },
+      {
+        "token": "ว",
+        "startTime": 72890,
+        "endTime": 72990
+      },
+      {
+        "token": "ิ",
+        "startTime": 72990,
+        "endTime": 73010
+      },
+      {
+        "token": "ท",
+        "startTime": 73010,
+        "endTime": 73110
+      },
+      {
+        "token": "ย",
+        "startTime": 73110,
+        "endTime": 73190
+      },
+      {
+        "token": "า",
+        "startTime": 73190,
+        "endTime": 73350
+      },
+      {
+        "token": "เ",
+        "startTime": 73350,
+        "endTime": 73420
+      },
+      {
+        "token": "ต",
+        "startTime": 73420,
+        "endTime": 73490
+      }
+    ]
+  },
+  {
+    "sentence_text": "ือน ว่า 10 - 15 นี้ ต้อง เฝ้า ระวัง คลื่น ลมแรง นะคะ",
+    "translations": {
+      "en": "that from the 10th to the 15th, you must be vigilant for strong winds and waves."
+    },
+    "segments": [
+      {
+        "token": "ื",
+        "startTime": 73490,
+        "endTime": 73570
+      },
+      {
+        "token": "อ",
+        "startTime": 73570,
+        "endTime": 73600
+      },
+      {
+        "token": "น",
+        "startTime": 73600,
+        "endTime": 73630
+      },
+      {
+        "token": "ว",
+        "startTime": 73630,
+        "endTime": 74070
+      },
+      {
+        "token": "่",
+        "startTime": 74070,
+        "endTime": 74090
+      },
+      {
+        "token": "า",
+        "startTime": 74090,
+        "endTime": 74410
+      },
+      {
+        "token": "1",
+        "startTime": 74410,
+        "endTime": 74510
+      },
+      {
+        "token": "0",
+        "startTime": 74510,
+        "endTime": 74610
+      },
+      {
+        "token": "-",
+        "startTime": 74610,
+        "endTime": 74770
+      },
+      {
+        "token": "1",
+        "startTime": 74770,
+        "endTime": 75070
+      },
+      {
+        "token": "5",
+        "startTime": 75070,
+        "endTime": 75370
+      },
+      {
+        "token": "น",
+        "startTime": 75370,
+        "endTime": 75470
+      },
+      {
+        "token": "ี",
+        "startTime": 75470,
+        "endTime": 75540
+      },
+      {
+        "token": "้",
+        "startTime": 75540,
+        "endTime": 75610
+      },
+      {
+        "token": "ต",
+        "startTime": 75610,
+        "endTime": 75830
+      },
+      {
+        "token": "้",
+        "startTime": 75830,
+        "endTime": 75910
+      },
+      {
+        "token": "อ",
+        "startTime": 75910,
+        "endTime": 75940
+      },
+      {
+        "token": "ง",
+        "startTime": 75940,
+        "endTime": 75970
+      },
+      {
+        "token": "เ",
+        "startTime": 75970,
+        "endTime": 76030
+      },
+      {
+        "token": "ฝ",
+        "startTime": 76030,
+        "endTime": 76090
+      },
+      {
+        "token": "้",
+        "startTime": 76090,
+        "endTime": 76150
+      },
+      {
+        "token": "า",
+        "startTime": 76150,
+        "endTime": 76190
+      },
+      {
+        "token": "ร",
+        "startTime": 76190,
+        "endTime": 76230
+      },
+      {
+        "token": "ะ",
+        "startTime": 76230,
+        "endTime": 76310
+      },
+      {
+        "token": "ว",
+        "startTime": 76310,
+        "endTime": 76430
+      },
+      {
+        "token": "ั",
+        "startTime": 76430,
+        "endTime": 76450
+      },
+      {
+        "token": "ง",
+        "startTime": 76450,
+        "endTime": 76530
+      },
+      {
+        "token": "ค",
+        "startTime": 76530,
+        "endTime": 76670
+      },
+      {
+        "token": "ล",
+        "startTime": 76670,
+        "endTime": 76710
+      },
+      {
+        "token": "ื",
+        "startTime": 76710,
+        "endTime": 76720
+      },
+      {
+        "token": "่",
+        "startTime": 76720,
+        "endTime": 76730
+      },
+      {
+        "token": "น",
+        "startTime": 76730,
+        "endTime": 76770
+      },
+      {
+        "token": "ล",
+        "startTime": 76770,
+        "endTime": 76910
+      },
+      {
+        "token": "ม",
+        "startTime": 76910,
+        "endTime": 76930
+      },
+      {
+        "token": "แ",
+        "startTime": 76930,
+        "endTime": 77150
+      },
+      {
+        "token": "ร",
+        "startTime": 77150,
+        "endTime": 77170
+      },
+      {
+        "token": "ง",
+        "startTime": 77170,
+        "endTime": 77250
+      },
+      {
+        "token": "น",
+        "startTime": 77250,
+        "endTime": 77270
+      },
+      {
+        "token": "ะ",
+        "startTime": 77270,
+        "endTime": 77290
+      },
+      {
+        "token": "ค",
+        "startTime": 77290,
+        "endTime": 77310
+      },
+      {
+        "token": "ะ",
+        "startTime": 77310,
+        "endTime": 77330
+      }
+    ]
+  },
+  {
+    "sentence_text": "ไม่ ว่า จะ เป็น ทะเล อันดามัน ตอน บน นะ มี คลื่น สูง 2 - 4 ม",
+    "translations": {
+      "en": "In the upper Andaman Sea, waves are 2-4 meters high."
+    },
+    "segments": [
+      {
+        "token": "ไ",
+        "startTime": 77330,
+        "endTime": 77660
+      },
+      {
+        "token": "ม",
+        "startTime": 77660,
+        "endTime": 77990
+      },
+      {
+        "token": "่",
+        "startTime": 77990,
+        "endTime": 78010
+      },
+      {
+        "token": "ว",
+        "startTime": 78010,
+        "endTime": 78110
+      },
+      {
+        "token": "่",
+        "startTime": 78110,
+        "endTime": 78130
+      },
+      {
+        "token": "า",
+        "startTime": 78130,
+        "endTime": 78150
+      },
+      {
+        "token": "จ",
+        "startTime": 78150,
+        "endTime": 78190
+      },
+      {
+        "token": "ะ",
+        "startTime": 78190,
+        "endTime": 78230
+      },
+      {
+        "token": "เ",
+        "startTime": 78230,
+        "endTime": 78300
+      },
+      {
+        "token": "ป",
+        "startTime": 78300,
+        "endTime": 78370
+      },
+      {
+        "token": "็",
+        "startTime": 78370,
+        "endTime": 78410
+      },
+      {
+        "token": "น",
+        "startTime": 78410,
+        "endTime": 78430
+      },
+      {
+        "token": "ท",
+        "startTime": 78430,
+        "endTime": 78530
+      },
+      {
+        "token": "ะ",
+        "startTime": 78530,
+        "endTime": 78550
+      },
+      {
+        "token": "เ",
+        "startTime": 78550,
+        "endTime": 78600
+      },
+      {
+        "token": "ล",
+        "startTime": 78600,
+        "endTime": 78650
+      },
+      {
+        "token": "อ",
+        "startTime": 78650,
+        "endTime": 78830
+      },
+      {
+        "token": "ั",
+        "startTime": 78830,
+        "endTime": 78870
+      },
+      {
+        "token": "น",
+        "startTime": 78870,
+        "endTime": 78890
+      },
+      {
+        "token": "ด",
+        "startTime": 78890,
+        "endTime": 78990
+      },
+      {
+        "token": "า",
+        "startTime": 78990,
+        "endTime": 79040
+      },
+      {
+        "token": "ม",
+        "startTime": 79040,
+        "endTime": 79090
+      },
+      {
+        "token": "ั",
+        "startTime": 79090,
+        "endTime": 79230
+      },
+      {
+        "token": "น",
+        "startTime": 79230,
+        "endTime": 79250
+      },
+      {
+        "token": "ต",
+        "startTime": 79250,
+        "endTime": 79390
+      },
+      {
+        "token": "อ",
+        "startTime": 79390,
+        "endTime": 79420
+      },
+      {
+        "token": "น",
+        "startTime": 79420,
+        "endTime": 79450
+      },
+      {
+        "token": "บ",
+        "startTime": 79450,
+        "endTime": 79630
+      },
+      {
+        "token": "น",
+        "startTime": 79630,
+        "endTime": 79730
+      },
+      {
+        "token": "น",
+        "startTime": 79730,
+        "endTime": 79730
+      },
+      {
+        "token": "ะ",
+        "startTime": 79730,
+        "endTime": 79730
+      },
+      {
+        "token": "ม",
+        "startTime": 79730,
+        "endTime": 80390
+      },
+      {
+        "token": "ี",
+        "startTime": 80390,
+        "endTime": 80410
+      },
+      {
+        "token": "ค",
+        "startTime": 80410,
+        "endTime": 80490
+      },
+      {
+        "token": "ล",
+        "startTime": 80490,
+        "endTime": 80510
+      },
+      {
+        "token": "ื",
+        "startTime": 80510,
+        "endTime": 80520
+      },
+      {
+        "token": "่",
+        "startTime": 80520,
+        "endTime": 80530
+      },
+      {
+        "token": "น",
+        "startTime": 80530,
+        "endTime": 80550
+      },
+      {
+        "token": "ส",
+        "startTime": 80550,
+        "endTime": 80690
+      },
+      {
+        "token": "ู",
+        "startTime": 80690,
+        "endTime": 80770
+      },
+      {
+        "token": "ง",
+        "startTime": 80770,
+        "endTime": 80790
+      },
+      {
+        "token": "2",
+        "startTime": 80790,
+        "endTime": 81050
+      },
+      {
+        "token": "-",
+        "startTime": 81050,
+        "endTime": 81250
+      },
+      {
+        "token": "4",
+        "startTime": 81250,
+        "endTime": 81710
+      },
+      {
+        "token": "ม",
+        "startTime": 81710,
+        "endTime": 81800
+      }
+    ]
+  },
+  {
+    "sentence_text": ".",
+    "translations": {},
+    "segments": [
+      {
+        "token": ".",
+        "startTime": 81800,
+        "endTime": 81890
+      }
+    ]
+  },
+  {
+    "sentence_text": "บริเวณ ที่ มี ฝน คลื่น สูง ได้ มากกว่า 4 ม.",
+    "translations": {
+      "en": "In areas with rain, waves can exceed 4 meters."
+    },
+    "segments": [
+      {
+        "token": "บ",
+        "startTime": 81890,
+        "endTime": 81970
+      },
+      {
+        "token": "ร",
+        "startTime": 81970,
+        "endTime": 81990
+      },
+      {
+        "token": "ิ",
+        "startTime": 81990,
+        "endTime": 82010
+      },
+      {
+        "token": "เ",
+        "startTime": 82010,
+        "endTime": 82080
+      },
+      {
+        "token": "ว",
+        "startTime": 82080,
+        "endTime": 82150
+      },
+      {
+        "token": "ณ",
+        "startTime": 82150,
+        "endTime": 82170
+      },
+      {
+        "token": "ท",
+        "startTime": 82170,
+        "endTime": 82290
+      },
+      {
+        "token": "ี",
+        "startTime": 82290,
+        "endTime": 82300
+      },
+      {
+        "token": "่",
+        "startTime": 82300,
+        "endTime": 82310
+      },
+      {
+        "token": "ม",
+        "startTime": 82310,
+        "endTime": 82470
+      },
+      {
+        "token": "ี",
+        "startTime": 82470,
+        "endTime": 82490
+      },
+      {
+        "token": "ฝ",
+        "startTime": 82490,
+        "endTime": 82570
+      },
+      {
+        "token": "น",
+        "startTime": 82570,
+        "endTime": 82630
+      },
+      {
+        "token": "ค",
+        "startTime": 82630,
+        "endTime": 82790
+      },
+      {
+        "token": "ล",
+        "startTime": 82790,
+        "endTime": 82810
+      },
+      {
+        "token": "ื",
+        "startTime": 82810,
+        "endTime": 82850
+      },
+      {
+        "token": "่",
+        "startTime": 82850,
+        "endTime": 82890
+      },
+      {
+        "token": "น",
+        "startTime": 82890,
+        "endTime": 82910
+      },
+      {
+        "token": "ส",
+        "startTime": 82910,
+        "endTime": 83010
+      },
+      {
+        "token": "ู",
+        "startTime": 83010,
+        "endTime": 83070
+      },
+      {
+        "token": "ง",
+        "startTime": 83070,
+        "endTime": 83130
+      },
+      {
+        "token": "ไ",
+        "startTime": 83130,
+        "endTime": 83190
+      },
+      {
+        "token": "ด",
+        "startTime": 83190,
+        "endTime": 83250
+      },
+      {
+        "token": "้",
+        "startTime": 83250,
+        "endTime": 83270
+      },
+      {
+        "token": "ม",
+        "startTime": 83270,
+        "endTime": 83350
+      },
+      {
+        "token": "า",
+        "startTime": 83350,
+        "endTime": 83430
+      },
+      {
+        "token": "ก",
+        "startTime": 83430,
+        "endTime": 83490
+      },
+      {
+        "token": "ก",
+        "startTime": 83490,
+        "endTime": 83610
+      },
+      {
+        "token": "ว",
+        "startTime": 83610,
+        "endTime": 83630
+      },
+      {
+        "token": "่",
+        "startTime": 83630,
+        "endTime": 83650
+      },
+      {
+        "token": "า",
+        "startTime": 83650,
+        "endTime": 83670
+      },
+      {
+        "token": "4",
+        "startTime": 83670,
+        "endTime": 83890
+      },
+      {
+        "token": "ม",
+        "startTime": 83890,
+        "endTime": 84180
+      },
+      {
+        "token": ".",
+        "startTime": 84180,
+        "endTime": 84470
+      }
+    ]
+  },
+  {
+    "sentence_text": "อันดร มัน ตอน ล่าง และ อ่าวไทย ตอน บน ค่ะ ะ",
+    "translations": {
+      "en": "In the lower Andaman Sea and upper Gulf of Thailand,"
+    },
+    "segments": [
+      {
+        "token": "อ",
+        "startTime": 84470,
+        "endTime": 84650
+      },
+      {
+        "token": "ั",
+        "startTime": 84650,
+        "endTime": 84690
+      },
+      {
+        "token": "น",
+        "startTime": 84690,
+        "endTime": 84710
+      },
+      {
+        "token": "ด",
+        "startTime": 84710,
+        "endTime": 84810
+      },
+      {
+        "token": "ร",
+        "startTime": 84810,
+        "endTime": 84870
+      },
+      {
+        "token": "ม",
+        "startTime": 84870,
+        "endTime": 84930
+      },
+      {
+        "token": "ั",
+        "startTime": 84930,
+        "endTime": 84990
+      },
+      {
+        "token": "น",
+        "startTime": 84990,
+        "endTime": 85010
+      },
+      {
+        "token": "ต",
+        "startTime": 85010,
+        "endTime": 85170
+      },
+      {
+        "token": "อ",
+        "startTime": 85170,
+        "endTime": 85180
+      },
+      {
+        "token": "น",
+        "startTime": 85180,
+        "endTime": 85190
+      },
+      {
+        "token": "ล",
+        "startTime": 85190,
+        "endTime": 85410
+      },
+      {
+        "token": "่",
+        "startTime": 85410,
+        "endTime": 85430
+      },
+      {
+        "token": "า",
+        "startTime": 85430,
+        "endTime": 85460
+      },
+      {
+        "token": "ง",
+        "startTime": 85460,
+        "endTime": 85490
+      },
+      {
+        "token": "แ",
+        "startTime": 85490,
+        "endTime": 85560
+      },
+      {
+        "token": "ล",
+        "startTime": 85560,
+        "endTime": 85630
+      },
+      {
+        "token": "ะ",
+        "startTime": 85630,
+        "endTime": 85690
+      },
+      {
+        "token": "อ",
+        "startTime": 85690,
+        "endTime": 85750
+      },
+      {
+        "token": "่",
+        "startTime": 85750,
+        "endTime": 85770
+      },
+      {
+        "token": "า",
+        "startTime": 85770,
+        "endTime": 85790
+      },
+      {
+        "token": "ว",
+        "startTime": 85790,
+        "endTime": 85910
+      },
+      {
+        "token": "ไ",
+        "startTime": 85910,
+        "endTime": 85990
+      },
+      {
+        "token": "ท",
+        "startTime": 85990,
+        "endTime": 86010
+      },
+      {
+        "token": "ย",
+        "startTime": 86010,
+        "endTime": 86090
+      },
+      {
+        "token": "ต",
+        "startTime": 86090,
+        "endTime": 86170
+      },
+      {
+        "token": "อ",
+        "startTime": 86170,
+        "endTime": 86180
+      },
+      {
+        "token": "น",
+        "startTime": 86180,
+        "endTime": 86190
+      },
+      {
+        "token": "บ",
+        "startTime": 86190,
+        "endTime": 86390
+      },
+      {
+        "token": "น",
+        "startTime": 86390,
+        "endTime": 86470
+      },
+      {
+        "token": "ค",
+        "startTime": 86470,
+        "endTime": 86570
+      },
+      {
+        "token": "่",
+        "startTime": 86570,
+        "endTime": 86650
+      },
+      {
+        "token": "ะ",
+        "startTime": 86650,
+        "endTime": 86650
+      },
+      {
+        "token": "ะ",
+        "startTime": 86650,
+        "endTime": 86850
+      }
+    ]
+  },
+  {
+    "sentence_text": "คลื่น สูง 2 - 3 เมตร บร เวณ ที่ มี ฝน คลื่น สูง มากกว่า 3 เม",
+    "translations": {
+      "en": "waves are 2-3 meters high; in rainy areas, waves exceed 3 meters."
+    },
+    "segments": [
+      {
+        "token": "ค",
+        "startTime": 86850,
+        "endTime": 86870
+      },
+      {
+        "token": "ล",
+        "startTime": 86870,
+        "endTime": 86890
+      },
+      {
+        "token": "ื",
+        "startTime": 86890,
+        "endTime": 86900
+      },
+      {
+        "token": "่",
+        "startTime": 86900,
+        "endTime": 86910
+      },
+      {
+        "token": "น",
+        "startTime": 86910,
+        "endTime": 86930
+      },
+      {
+        "token": "ส",
+        "startTime": 86930,
+        "endTime": 87090
+      },
+      {
+        "token": "ู",
+        "startTime": 87090,
+        "endTime": 87130
+      },
+      {
+        "token": "ง",
+        "startTime": 87130,
+        "endTime": 87150
+      },
+      {
+        "token": "2",
+        "startTime": 87150,
+        "endTime": 87390
+      },
+      {
+        "token": "-",
+        "startTime": 87390,
+        "endTime": 87570
+      },
+      {
+        "token": "3",
+        "startTime": 87570,
+        "endTime": 87850
+      },
+      {
+        "token": "เ",
+        "startTime": 87850,
+        "endTime": 87950
+      },
+      {
+        "token": "ม",
+        "startTime": 87950,
+        "endTime": 88050
+      },
+      {
+        "token": "ต",
+        "startTime": 88050,
+        "endTime": 88150
+      },
+      {
+        "token": "ร",
+        "startTime": 88150,
+        "endTime": 88170
+      },
+      {
+        "token": "บ",
+        "startTime": 88170,
+        "endTime": 88550
+      },
+      {
+        "token": "ร",
+        "startTime": 88550,
+        "endTime": 88590
+      },
+      {
+        "token": "เ",
+        "startTime": 88590,
+        "endTime": 88640
+      },
+      {
+        "token": "ว",
+        "startTime": 88640,
+        "endTime": 88690
+      },
+      {
+        "token": "ณ",
+        "startTime": 88690,
+        "endTime": 88750
+      },
+      {
+        "token": "ท",
+        "startTime": 88750,
+        "endTime": 88870
+      },
+      {
+        "token": "ี",
+        "startTime": 88870,
+        "endTime": 88880
+      },
+      {
+        "token": "่",
+        "startTime": 88880,
+        "endTime": 88890
+      },
+      {
+        "token": "ม",
+        "startTime": 88890,
+        "endTime": 89130
+      },
+      {
+        "token": "ี",
+        "startTime": 89130,
+        "endTime": 89150
+      },
+      {
+        "token": "ฝ",
+        "startTime": 89150,
+        "endTime": 89230
+      },
+      {
+        "token": "น",
+        "startTime": 89230,
+        "endTime": 89290
+      },
+      {
+        "token": "ค",
+        "startTime": 89290,
+        "endTime": 89490
+      },
+      {
+        "token": "ล",
+        "startTime": 89490,
+        "endTime": 89510
+      },
+      {
+        "token": "ื",
+        "startTime": 89510,
+        "endTime": 89530
+      },
+      {
+        "token": "่",
+        "startTime": 89530,
+        "endTime": 89550
+      },
+      {
+        "token": "น",
+        "startTime": 89550,
+        "endTime": 89590
+      },
+      {
+        "token": "ส",
+        "startTime": 89590,
+        "endTime": 89730
+      },
+      {
+        "token": "ู",
+        "startTime": 89730,
+        "endTime": 89810
+      },
+      {
+        "token": "ง",
+        "startTime": 89810,
+        "endTime": 89870
+      },
+      {
+        "token": "ม",
+        "startTime": 89870,
+        "endTime": 89950
+      },
+      {
+        "token": "า",
+        "startTime": 89950,
+        "endTime": 90030
+      },
+      {
+        "token": "ก",
+        "startTime": 90030,
+        "endTime": 90130
+      },
+      {
+        "token": "ก",
+        "startTime": 90130,
+        "endTime": 90250
+      },
+      {
+        "token": "ว",
+        "startTime": 90250,
+        "endTime": 90270
+      },
+      {
+        "token": "่",
+        "startTime": 90270,
+        "endTime": 90290
+      },
+      {
+        "token": "า",
+        "startTime": 90290,
+        "endTime": 90310
+      },
+      {
+        "token": "3",
+        "startTime": 90310,
+        "endTime": 90490
+      },
+      {
+        "token": "เ",
+        "startTime": 90490,
+        "endTime": 90570
+      },
+      {
+        "token": "ม",
+        "startTime": 90570,
+        "endTime": 90650
+      }
+    ]
+  },
+  {
+    "sentence_text": "ตร",
+    "translations": {},
+    "segments": [
+      {
+        "token": "ต",
+        "startTime": 90650,
+        "endTime": 90790
+      },
+      {
+        "token": "ร",
+        "startTime": 90790,
+        "endTime": 90810
+      }
+    ]
+  },
+  {
+    "sentence_text": "และ วันพรุ่งนี้ เป็นต้น ปัญ วันที่ 11 ปัญ",
+    "translations": {
+      "en": "And starting tomorrow, the 11th, beware of heavy to very heavy rain in many areas."
+    },
+    "segments": [
+      {
+        "token": "แ",
+        "startTime": 90810,
+        "endTime": 91000
+      },
+      {
+        "token": "ล",
+        "startTime": 91000,
+        "endTime": 91190
+      },
+      {
+        "token": "ะ",
+        "startTime": 91190,
+        "endTime": 91290
+      },
+      {
+        "token": "ว",
+        "startTime": 91290,
+        "endTime": 91430
+      },
+      {
+        "token": "ั",
+        "startTime": 91430,
+        "endTime": 91490
+      },
+      {
+        "token": "น",
+        "startTime": 91490,
+        "endTime": 91510
+      },
+      {
+        "token": "พ",
+        "startTime": 91510,
+        "endTime": 91670
+      },
+      {
+        "token": "ร",
+        "startTime": 91670,
+        "endTime": 91690
+      },
+      {
+        "token": "ุ",
+        "startTime": 91690,
+        "endTime": 91710
+      },
+      {
+        "token": "่",
+        "startTime": 91710,
+        "endTime": 91730
+      },
+      {
+        "token": "ง",
+        "startTime": 91730,
+        "endTime": 91750
+      },
+      {
+        "token": "น",
+        "startTime": 91750,
+        "endTime": 91850
+      },
+      {
+        "token": "ี",
+        "startTime": 91850,
+        "endTime": 91860
+      },
+      {
+        "token": "้",
+        "startTime": 91860,
+        "endTime": 91870
+      },
+      {
+        "token": "เ",
+        "startTime": 91870,
+        "endTime": 91920
+      },
+      {
+        "token": "ป",
+        "startTime": 91920,
+        "endTime": 91970
+      },
+      {
+        "token": "็",
+        "startTime": 91970,
+        "endTime": 92030
+      },
+      {
+        "token": "น",
+        "startTime": 92030,
+        "endTime": 92050
+      },
+      {
+        "token": "ต",
+        "startTime": 92050,
+        "endTime": 92150
+      },
+      {
+        "token": "้",
+        "startTime": 92150,
+        "endTime": 92190
+      },
+      {
+        "token": "น",
+        "startTime": 92190,
+        "endTime": 92250
+      },
+      {
+        "token": "ป",
+        "startTime": 92250,
+        "endTime": 92370
+      },
+      {
+        "token": "ั",
+        "startTime": 92370,
+        "endTime": 92410
+      },
+      {
+        "token": "ญ",
+        "startTime": 92410,
+        "endTime": 92610
+      },
+      {
+        "token": "ว",
+        "startTime": 92610,
+        "endTime": 92630
+      },
+      {
+        "token": "ั",
+        "startTime": 92630,
+        "endTime": 92690
+      },
+      {
+        "token": "น",
+        "startTime": 92690,
+        "endTime": 92750
+      },
+      {
+        "token": "ท",
+        "startTime": 92750,
+        "endTime": 92870
+      },
+      {
+        "token": "ี",
+        "startTime": 92870,
+        "endTime": 92880
+      },
+      {
+        "token": "่",
+        "startTime": 92880,
+        "endTime": 92890
+      },
+      {
+        "token": "1",
+        "startTime": 92890,
+        "endTime": 93130
+      },
+      {
+        "token": "1",
+        "startTime": 93130,
+        "endTime": 93370
+      },
+      {
+        "token": "ป",
+        "startTime": 93370,
+        "endTime": 93390
+      },
+      {
+        "token": "ั",
+        "startTime": 93390,
+        "endTime": 93490
+      },
+      {
+        "token": "ญ",
+        "startTime": 93490,
+        "endTime": 93490
+      }
+    ]
+  },
+  {
+    "sentence_text": "ระวัง ฝน ตกหนัก ถึง หนัก มากหลาย พื้นที่",
+    "translations": {},
+    "segments": [
+      {
+        "token": "ร",
+        "startTime": 93490,
+        "endTime": 93750
+      },
+      {
+        "token": "ะ",
+        "startTime": 93750,
+        "endTime": 94010
+      },
+      {
+        "token": "ว",
+        "startTime": 94010,
+        "endTime": 94110
+      },
+      {
+        "token": "ั",
+        "startTime": 94110,
+        "endTime": 94130
+      },
+      {
+        "token": "ง",
+        "startTime": 94130,
+        "endTime": 94210
+      },
+      {
+        "token": "ฝ",
+        "startTime": 94210,
+        "endTime": 94370
+      },
+      {
+        "token": "น",
+        "startTime": 94370,
+        "endTime": 94470
+      },
+      {
+        "token": "ต",
+        "startTime": 94470,
+        "endTime": 94630
+      },
+      {
+        "token": "ก",
+        "startTime": 94630,
+        "endTime": 94710
+      },
+      {
+        "token": "ห",
+        "startTime": 94710,
+        "endTime": 94810
+      },
+      {
+        "token": "น",
+        "startTime": 94810,
+        "endTime": 94910
+      },
+      {
+        "token": "ั",
+        "startTime": 94910,
+        "endTime": 94930
+      },
+      {
+        "token": "ก",
+        "startTime": 94930,
+        "endTime": 94950
+      },
+      {
+        "token": "ถ",
+        "startTime": 94950,
+        "endTime": 95090
+      },
+      {
+        "token": "ึ",
+        "startTime": 95090,
+        "endTime": 95130
+      },
+      {
+        "token": "ง",
+        "startTime": 95130,
+        "endTime": 95150
+      },
+      {
+        "token": "ห",
+        "startTime": 95150,
+        "endTime": 95200
+      },
+      {
+        "token": "น",
+        "startTime": 95200,
+        "endTime": 95250
+      },
+      {
+        "token": "ั",
+        "startTime": 95250,
+        "endTime": 95270
+      },
+      {
+        "token": "ก",
+        "startTime": 95270,
+        "endTime": 95290
+      },
+      {
+        "token": "ม",
+        "startTime": 95290,
+        "endTime": 95370
+      },
+      {
+        "token": "า",
+        "startTime": 95370,
+        "endTime": 95450
+      },
+      {
+        "token": "ก",
+        "startTime": 95450,
+        "endTime": 95570
+      },
+      {
+        "token": "ห",
+        "startTime": 95570,
+        "endTime": 95690
+      },
+      {
+        "token": "ล",
+        "startTime": 95690,
+        "endTime": 95750
+      },
+      {
+        "token": "า",
+        "startTime": 95750,
+        "endTime": 95760
+      },
+      {
+        "token": "ย",
+        "startTime": 95760,
+        "endTime": 95770
+      },
+      {
+        "token": "พ",
+        "startTime": 95770,
+        "endTime": 95930
+      },
+      {
+        "token": "ื",
+        "startTime": 95930,
+        "endTime": 95990
+      },
+      {
+        "token": "้",
+        "startTime": 95990,
+        "endTime": 96010
+      },
+      {
+        "token": "น",
+        "startTime": 96010,
+        "endTime": 96030
+      },
+      {
+        "token": "ท",
+        "startTime": 96030,
+        "endTime": 96170
+      },
+      {
+        "token": "ี",
+        "startTime": 96170,
+        "endTime": 96170
+      },
+      {
+        "token": "่",
+        "startTime": 96170,
+        "endTime": 96170
+      }
+    ]
+  },
+  {
+    "sentence_text": "ไม่ ว่า จะ เป็น ภาคใต้ ฝัง ต วัน ตก",
+    "translations": {
+      "en": "Including the western southern region,"
+    },
+    "segments": [
+      {
+        "token": "ไ",
+        "startTime": 96170,
+        "endTime": 96430
+      },
+      {
+        "token": "ม",
+        "startTime": 96430,
+        "endTime": 96690
+      },
+      {
+        "token": "่",
+        "startTime": 96690,
+        "endTime": 96750
+      },
+      {
+        "token": "ว",
+        "startTime": 96750,
+        "endTime": 96830
+      },
+      {
+        "token": "่",
+        "startTime": 96830,
+        "endTime": 96850
+      },
+      {
+        "token": "า",
+        "startTime": 96850,
+        "endTime": 96870
+      },
+      {
+        "token": "จ",
+        "startTime": 96870,
+        "endTime": 96920
+      },
+      {
+        "token": "ะ",
+        "startTime": 96920,
+        "endTime": 96970
+      },
+      {
+        "token": "เ",
+        "startTime": 96970,
+        "endTime": 97030
+      },
+      {
+        "token": "ป",
+        "startTime": 97030,
+        "endTime": 97090
+      },
+      {
+        "token": "็",
+        "startTime": 97090,
+        "endTime": 97150
+      },
+      {
+        "token": "น",
+        "startTime": 97150,
+        "endTime": 97230
+      },
+      {
+        "token": "ภ",
+        "startTime": 97230,
+        "endTime": 97430
+      },
+      {
+        "token": "า",
+        "startTime": 97430,
+        "endTime": 97470
+      },
+      {
+        "token": "ค",
+        "startTime": 97470,
+        "endTime": 97490
+      },
+      {
+        "token": "ใ",
+        "startTime": 97490,
+        "endTime": 97670
+      },
+      {
+        "token": "ต",
+        "startTime": 97670,
+        "endTime": 97690
+      },
+      {
+        "token": "้",
+        "startTime": 97690,
+        "endTime": 97810
+      },
+      {
+        "token": "ฝ",
+        "startTime": 97810,
+        "endTime": 98030
+      },
+      {
+        "token": "ั",
+        "startTime": 98030,
+        "endTime": 98110
+      },
+      {
+        "token": "ง",
+        "startTime": 98110,
+        "endTime": 98130
+      },
+      {
+        "token": "ต",
+        "startTime": 98130,
+        "endTime": 98270
+      },
+      {
+        "token": "ว",
+        "startTime": 98270,
+        "endTime": 98350
+      },
+      {
+        "token": "ั",
+        "startTime": 98350,
+        "endTime": 98410
+      },
+      {
+        "token": "น",
+        "startTime": 98410,
+        "endTime": 98470
+      },
+      {
+        "token": "ต",
+        "startTime": 98470,
+        "endTime": 98590
+      },
+      {
+        "token": "ก",
+        "startTime": 98590,
+        "endTime": 98710
+      }
+    ]
+  },
+  {
+    "sentence_text": "ภาค กลาง ด้าน ต วัน ตก แล้วก็ ภาค ต วัน ตก ออก ด้วย นะคะ",
+    "translations": {
+      "en": "the western central region, and also the eastern region."
+    },
+    "segments": [
+      {
+        "token": "ภ",
+        "startTime": 98710,
+        "endTime": 99070
+      },
+      {
+        "token": "า",
+        "startTime": 99070,
+        "endTime": 99130
+      },
+      {
+        "token": "ค",
+        "startTime": 99130,
+        "endTime": 99190
+      },
+      {
+        "token": "ก",
+        "startTime": 99190,
+        "endTime": 99310
+      },
+      {
+        "token": "ล",
+        "startTime": 99310,
+        "endTime": 99370
+      },
+      {
+        "token": "า",
+        "startTime": 99370,
+        "endTime": 99400
+      },
+      {
+        "token": "ง",
+        "startTime": 99400,
+        "endTime": 99430
+      },
+      {
+        "token": "ด",
+        "startTime": 99430,
+        "endTime": 99650
+      },
+      {
+        "token": "้",
+        "startTime": 99650,
+        "endTime": 99670
+      },
+      {
+        "token": "า",
+        "startTime": 99670,
+        "endTime": 99710
+      },
+      {
+        "token": "น",
+        "startTime": 99710,
+        "endTime": 99750
+      },
+      {
+        "token": "ต",
+        "startTime": 99750,
+        "endTime": 99870
+      },
+      {
+        "token": "ว",
+        "startTime": 99870,
+        "endTime": 99950
+      },
+      {
+        "token": "ั",
+        "startTime": 99950,
+        "endTime": 100030
+      },
+      {
+        "token": "น",
+        "startTime": 100030,
+        "endTime": 100050
+      },
+      {
+        "token": "ต",
+        "startTime": 100050,
+        "endTime": 100190
+      },
+      {
+        "token": "ก",
+        "startTime": 100190,
+        "endTime": 100410
+      },
+      {
+        "token": "แ",
+        "startTime": 100410,
+        "endTime": 100430
+      },
+      {
+        "token": "ล",
+        "startTime": 100430,
+        "endTime": 100450
+      },
+      {
+        "token": "้",
+        "startTime": 100450,
+        "endTime": 100510
+      },
+      {
+        "token": "ว",
+        "startTime": 100510,
+        "endTime": 100540
+      },
+      {
+        "token": "ก",
+        "startTime": 100540,
+        "endTime": 100570
+      },
+      {
+        "token": "็",
+        "startTime": 100570,
+        "endTime": 100590
+      },
+      {
+        "token": "ภ",
+        "startTime": 100590,
+        "endTime": 100870
+      },
+      {
+        "token": "า",
+        "startTime": 100870,
+        "endTime": 100910
+      },
+      {
+        "token": "ค",
+        "startTime": 100910,
+        "endTime": 100990
+      },
+      {
+        "token": "ต",
+        "startTime": 100990,
+        "endTime": 101130
+      },
+      {
+        "token": "ว",
+        "startTime": 101130,
+        "endTime": 101190
+      },
+      {
+        "token": "ั",
+        "startTime": 101190,
+        "endTime": 101210
+      },
+      {
+        "token": "น",
+        "startTime": 101210,
+        "endTime": 101230
+      },
+      {
+        "token": "ต",
+        "startTime": 101230,
+        "endTime": 101390
+      },
+      {
+        "token": "ก",
+        "startTime": 101390,
+        "endTime": 101410
+      },
+      {
+        "token": "อ",
+        "startTime": 101410,
+        "endTime": 101430
+      },
+      {
+        "token": "อ",
+        "startTime": 101430,
+        "endTime": 101440
+      },
+      {
+        "token": "ก",
+        "startTime": 101440,
+        "endTime": 101450
+      },
+      {
+        "token": "ด",
+        "startTime": 101450,
+        "endTime": 101610
+      },
+      {
+        "token": "้",
+        "startTime": 101610,
+        "endTime": 101630
+      },
+      {
+        "token": "ว",
+        "startTime": 101630,
+        "endTime": 101670
+      },
+      {
+        "token": "ย",
+        "startTime": 101670,
+        "endTime": 101710
+      },
+      {
+        "token": "น",
+        "startTime": 101710,
+        "endTime": 101870
+      },
+      {
+        "token": "ะ",
+        "startTime": 101870,
+        "endTime": 102030
+      },
+      {
+        "token": "ค",
+        "startTime": 102030,
+        "endTime": 102190
+      },
+      {
+        "token": "ะ",
+        "startTime": 102190,
+        "endTime": 102350
+      }
+    ]
+  },
+  {
+    "sentence_text": "ส่วน มี คำเตือน จาก เพจ ที่ ลง ฟ้า อากาศ ได้ เผย ภาพ VEDE",
+    "translations": {
+      "en": "As for warnings from a weather page, it has released an image of VEDE"
+    },
+    "segments": [
+      {
+        "token": "ส",
+        "startTime": 102350,
+        "endTime": 102470
+      },
+      {
+        "token": "่",
+        "startTime": 102470,
+        "endTime": 102550
+      },
+      {
+        "token": "ว",
+        "startTime": 102550,
+        "endTime": 102590
+      },
+      {
+        "token": "น",
+        "startTime": 102590,
+        "endTime": 102670
+      },
+      {
+        "token": "ม",
+        "startTime": 102670,
+        "endTime": 103390
+      },
+      {
+        "token": "ี",
+        "startTime": 103390,
+        "endTime": 103510
+      },
+      {
+        "token": "ค",
+        "startTime": 103510,
+        "endTime": 103770
+      },
+      {
+        "token": "ำ",
+        "startTime": 103770,
+        "endTime": 103830
+      },
+      {
+        "token": "เ",
+        "startTime": 103830,
+        "endTime": 103900
+      },
+      {
+        "token": "ต",
+        "startTime": 103900,
+        "endTime": 103970
+      },
+      {
+        "token": "ื",
+        "startTime": 103970,
+        "endTime": 104050
+      },
+      {
+        "token": "อ",
+        "startTime": 104050,
+        "endTime": 104080
+      },
+      {
+        "token": "น",
+        "startTime": 104080,
+        "endTime": 104110
+      },
+      {
+        "token": "จ",
+        "startTime": 104110,
+        "endTime": 104310
+      },
+      {
+        "token": "า",
+        "startTime": 104310,
+        "endTime": 104400
+      },
+      {
+        "token": "ก",
+        "startTime": 104400,
+        "endTime": 104490
+      },
+      {
+        "token": "เ",
+        "startTime": 104490,
+        "endTime": 104570
+      },
+      {
+        "token": "พ",
+        "startTime": 104570,
+        "endTime": 104650
+      },
+      {
+        "token": "จ",
+        "startTime": 104650,
+        "endTime": 104810
+      },
+      {
+        "token": "ท",
+        "startTime": 104810,
+        "endTime": 105030
+      },
+      {
+        "token": "ี",
+        "startTime": 105030,
+        "endTime": 105090
+      },
+      {
+        "token": "่",
+        "startTime": 105090,
+        "endTime": 105150
+      },
+      {
+        "token": "ล",
+        "startTime": 105150,
+        "endTime": 105430
+      },
+      {
+        "token": "ง",
+        "startTime": 105430,
+        "endTime": 105450
+      },
+      {
+        "token": "ฟ",
+        "startTime": 105450,
+        "endTime": 105570
+      },
+      {
+        "token": "้",
+        "startTime": 105570,
+        "endTime": 105630
+      },
+      {
+        "token": "า",
+        "startTime": 105630,
+        "endTime": 105750
+      },
+      {
+        "token": "อ",
+        "startTime": 105750,
+        "endTime": 105830
+      },
+      {
+        "token": "า",
+        "startTime": 105830,
+        "endTime": 105880
+      },
+      {
+        "token": "ก",
+        "startTime": 105880,
+        "endTime": 105930
+      },
+      {
+        "token": "า",
+        "startTime": 105930,
+        "endTime": 106110
+      },
+      {
+        "token": "ศ",
+        "startTime": 106110,
+        "endTime": 106630
+      },
+      {
+        "token": "ไ",
+        "startTime": 106630,
+        "endTime": 106710
+      },
+      {
+        "token": "ด",
+        "startTime": 106710,
+        "endTime": 106790
+      },
+      {
+        "token": "้",
+        "startTime": 106790,
+        "endTime": 106870
+      },
+      {
+        "token": "เ",
+        "startTime": 106870,
+        "endTime": 106930
+      },
+      {
+        "token": "ผ",
+        "startTime": 106930,
+        "endTime": 106990
+      },
+      {
+        "token": "ย",
+        "startTime": 106990,
+        "endTime": 107070
+      },
+      {
+        "token": "ภ",
+        "startTime": 107070,
+        "endTime": 107290
+      },
+      {
+        "token": "า",
+        "startTime": 107290,
+        "endTime": 107410
+      },
+      {
+        "token": "พ",
+        "startTime": 107410,
+        "endTime": 107430
+      },
+      {
+        "token": "V",
+        "startTime": 107430,
+        "endTime": 107630
+      },
+      {
+        "token": "E",
+        "startTime": 107630,
+        "endTime": 107640
+      },
+      {
+        "token": "D",
+        "startTime": 107640,
+        "endTime": 107650
+      },
+      {
+        "token": "E",
+        "startTime": 107650,
+        "endTime": 107730
+      }
+    ]
+  },
+  {
+    "sentence_text": "R",
+    "translations": {
+      "en": "R"
+    },
+    "segments": [
+      {
+        "token": "R",
+        "startTime": 107730,
+        "endTime": 107810
+      }
+    ]
+  },
+  {
+    "sentence_text": "ฝน เป็น พายุ ลูก ต่อไป ต่อ จาก SuperTyphoonBavi",
+    "translations": {
+      "en": "Rain as the next storm after Super Typhoon Bavi."
+    },
+    "segments": [
+      {
+        "token": "ฝ",
+        "startTime": 107810,
+        "endTime": 107890
+      },
+      {
+        "token": "น",
+        "startTime": 107890,
+        "endTime": 108450
+      },
+      {
+        "token": "เ",
+        "startTime": 108450,
+        "endTime": 108510
+      },
+      {
+        "token": "ป",
+        "startTime": 108510,
+        "endTime": 108570
+      },
+      {
+        "token": "็",
+        "startTime": 108570,
+        "endTime": 108670
+      },
+      {
+        "token": "น",
+        "startTime": 108670,
+        "endTime": 108690
+      },
+      {
+        "token": "พ",
+        "startTime": 108690,
+        "endTime": 108810
+      },
+      {
+        "token": "า",
+        "startTime": 108810,
+        "endTime": 108840
+      },
+      {
+        "token": "ย",
+        "startTime": 108840,
+        "endTime": 108870
+      },
+      {
+        "token": "ุ",
+        "startTime": 108870,
+        "endTime": 108930
+      },
+      {
+        "token": "ล",
+        "startTime": 108930,
+        "endTime": 109090
+      },
+      {
+        "token": "ู",
+        "startTime": 109090,
+        "endTime": 109110
+      },
+      {
+        "token": "ก",
+        "startTime": 109110,
+        "endTime": 109130
+      },
+      {
+        "token": "ต",
+        "startTime": 109130,
+        "endTime": 109210
+      },
+      {
+        "token": "่",
+        "startTime": 109210,
+        "endTime": 109270
+      },
+      {
+        "token": "อ",
+        "startTime": 109270,
+        "endTime": 109330
+      },
+      {
+        "token": "ไ",
+        "startTime": 109330,
+        "endTime": 109550
+      },
+      {
+        "token": "ป",
+        "startTime": 109550,
+        "endTime": 109770
+      },
+      {
+        "token": "ต",
+        "startTime": 109770,
+        "endTime": 109790
+      },
+      {
+        "token": "่",
+        "startTime": 109790,
+        "endTime": 109850
+      },
+      {
+        "token": "อ",
+        "startTime": 109850,
+        "endTime": 109870
+      },
+      {
+        "token": "จ",
+        "startTime": 109870,
+        "endTime": 110090
+      },
+      {
+        "token": "า",
+        "startTime": 110090,
+        "endTime": 110300
+      },
+      {
+        "token": "ก",
+        "startTime": 110300,
+        "endTime": 110510
+      },
+      {
+        "token": "S",
+        "startTime": 110510,
+        "endTime": 110554
+      },
+      {
+        "token": "u",
+        "startTime": 110554,
+        "endTime": 110598
+      },
+      {
+        "token": "p",
+        "startTime": 110598,
+        "endTime": 110642
+      },
+      {
+        "token": "e",
+        "startTime": 110642,
+        "endTime": 110686
+      },
+      {
+        "token": "r",
+        "startTime": 110686,
+        "endTime": 110730
+      },
+      {
+        "token": "T",
+        "startTime": 110730,
+        "endTime": 110850
+      },
+      {
+        "token": "y",
+        "startTime": 110850,
+        "endTime": 110970
+      },
+      {
+        "token": "p",
+        "startTime": 110970,
+        "endTime": 111030
+      },
+      {
+        "token": "h",
+        "startTime": 111030,
+        "endTime": 111090
+      },
+      {
+        "token": "o",
+        "startTime": 111090,
+        "endTime": 111130
+      },
+      {
+        "token": "o",
+        "startTime": 111130,
+        "endTime": 111170
+      },
+      {
+        "token": "n",
+        "startTime": 111170,
+        "endTime": 111210
+      },
+      {
+        "token": "B",
+        "startTime": 111210,
+        "endTime": 111390
+      },
+      {
+        "token": "a",
+        "startTime": 111390,
+        "endTime": 111703
+      },
+      {
+        "token": "v",
+        "startTime": 111703,
+        "endTime": 112017
+      },
+      {
+        "token": "i",
+        "startTime": 112017,
+        "endTime": 112330
+      }
+    ]
+  },
+  {
+    "sentence_text": "พบ การ ก่อตัว ของ พายุหมุน เขตร้อน เอ เท เล ครับ คุณ",
+    "translations": {
+      "en": "The formation of a tropical cyclone named Etele has been found, sir."
+    },
+    "segments": [
+      {
+        "token": "พ",
+        "startTime": 112330,
+        "endTime": 112490
+      },
+      {
+        "token": "บ",
+        "startTime": 112490,
+        "endTime": 112590
+      },
+      {
+        "token": "ก",
+        "startTime": 112590,
+        "endTime": 112810
+      },
+      {
+        "token": "า",
+        "startTime": 112810,
+        "endTime": 112840
+      },
+      {
+        "token": "ร",
+        "startTime": 112840,
+        "endTime": 112870
+      },
+      {
+        "token": "ก",
+        "startTime": 112870,
+        "endTime": 113050
+      },
+      {
+        "token": "่",
+        "startTime": 113050,
+        "endTime": 113110
+      },
+      {
+        "token": "อ",
+        "startTime": 113110,
+        "endTime": 113130
+      },
+      {
+        "token": "ต",
+        "startTime": 113130,
+        "endTime": 113230
+      },
+      {
+        "token": "ั",
+        "startTime": 113230,
+        "endTime": 113350
+      },
+      {
+        "token": "ว",
+        "startTime": 113350,
+        "endTime": 113490
+      },
+      {
+        "token": "ข",
+        "startTime": 113490,
+        "endTime": 113610
+      },
+      {
+        "token": "อ",
+        "startTime": 113610,
+        "endTime": 113690
+      },
+      {
+        "token": "ง",
+        "startTime": 113690,
+        "endTime": 113770
+      },
+      {
+        "token": "พ",
+        "startTime": 113770,
+        "endTime": 113890
+      },
+      {
+        "token": "า",
+        "startTime": 113890,
+        "endTime": 113930
+      },
+      {
+        "token": "ย",
+        "startTime": 113930,
+        "endTime": 113970
+      },
+      {
+        "token": "ุ",
+        "startTime": 113970,
+        "endTime": 114070
+      },
+      {
+        "token": "ห",
+        "startTime": 114070,
+        "endTime": 114120
+      },
+      {
+        "token": "ม",
+        "startTime": 114120,
+        "endTime": 114170
+      },
+      {
+        "token": "ุ",
+        "startTime": 114170,
+        "endTime": 114210
+      },
+      {
+        "token": "น",
+        "startTime": 114210,
+        "endTime": 114270
+      },
+      {
+        "token": "เ",
+        "startTime": 114270,
+        "endTime": 114340
+      },
+      {
+        "token": "ข",
+        "startTime": 114340,
+        "endTime": 114410
+      },
+      {
+        "token": "ต",
+        "startTime": 114410,
+        "endTime": 114510
+      },
+      {
+        "token": "ร",
+        "startTime": 114510,
+        "endTime": 114750
+      },
+      {
+        "token": "้",
+        "startTime": 114750,
+        "endTime": 114830
+      },
+      {
+        "token": "อ",
+        "startTime": 114830,
+        "endTime": 114930
+      },
+      {
+        "token": "น",
+        "startTime": 114930,
+        "endTime": 115030
+      },
+      {
+        "token": "เ",
+        "startTime": 115030,
+        "endTime": 115050
+      },
+      {
+        "token": "อ",
+        "startTime": 115050,
+        "endTime": 115070
+      },
+      {
+        "token": "เ",
+        "startTime": 115070,
+        "endTime": 115100
+      },
+      {
+        "token": "ท",
+        "startTime": 115100,
+        "endTime": 115130
+      },
+      {
+        "token": "เ",
+        "startTime": 115130,
+        "endTime": 115350
+      },
+      {
+        "token": "ล",
+        "startTime": 115350,
+        "endTime": 115570
+      },
+      {
+        "token": "ค",
+        "startTime": 115570,
+        "endTime": 115580
+      },
+      {
+        "token": "ร",
+        "startTime": 115580,
+        "endTime": 115590
+      },
+      {
+        "token": "ั",
+        "startTime": 115590,
+        "endTime": 115610
+      },
+      {
+        "token": "บ",
+        "startTime": 115610,
+        "endTime": 115610
+      },
+      {
+        "token": "ค",
+        "startTime": 115610,
+        "endTime": 115690
+      },
+      {
+        "token": "ุ",
+        "startTime": 115690,
+        "endTime": 115710
+      },
+      {
+        "token": "ณ",
+        "startTime": 115710,
+        "endTime": 115730
+      }
+    ]
+  },
+  {
+    "sentence_text": "ตอนนี้ เริ่ม ต่าย ตัว ดับ ความ ดุน แรง",
+    "translations": {
+      "en": "It is now beginning to form and intensify."
+    },
+    "segments": [
+      {
+        "token": "ต",
+        "startTime": 115730,
+        "endTime": 115950
+      },
+      {
+        "token": "อ",
+        "startTime": 115950,
+        "endTime": 115980
+      },
+      {
+        "token": "น",
+        "startTime": 115980,
+        "endTime": 116010
+      },
+      {
+        "token": "น",
+        "startTime": 116010,
+        "endTime": 116090
+      },
+      {
+        "token": "ี",
+        "startTime": 116090,
+        "endTime": 116100
+      },
+      {
+        "token": "้",
+        "startTime": 116100,
+        "endTime": 116110
+      },
+      {
+        "token": "เ",
+        "startTime": 116110,
+        "endTime": 116170
+      },
+      {
+        "token": "ร",
+        "startTime": 116170,
+        "endTime": 116230
+      },
+      {
+        "token": "ิ",
+        "startTime": 116230,
+        "endTime": 116310
+      },
+      {
+        "token": "่",
+        "startTime": 116310,
+        "endTime": 116330
+      },
+      {
+        "token": "ม",
+        "startTime": 116330,
+        "endTime": 116350
+      },
+      {
+        "token": "ต",
+        "startTime": 116350,
+        "endTime": 116510
+      },
+      {
+        "token": "่",
+        "startTime": 116510,
+        "endTime": 116530
+      },
+      {
+        "token": "า",
+        "startTime": 116530,
+        "endTime": 116540
+      },
+      {
+        "token": "ย",
+        "startTime": 116540,
+        "endTime": 116550
+      },
+      {
+        "token": "ต",
+        "startTime": 116550,
+        "endTime": 116590
+      },
+      {
+        "token": "ั",
+        "startTime": 116590,
+        "endTime": 116610
+      },
+      {
+        "token": "ว",
+        "startTime": 116610,
+        "endTime": 116630
+      },
+      {
+        "token": "ด",
+        "startTime": 116630,
+        "endTime": 116730
+      },
+      {
+        "token": "ั",
+        "startTime": 116730,
+        "endTime": 116750
+      },
+      {
+        "token": "บ",
+        "startTime": 116750,
+        "endTime": 116770
+      },
+      {
+        "token": "ค",
+        "startTime": 116770,
+        "endTime": 116870
+      },
+      {
+        "token": "ว",
+        "startTime": 116870,
+        "endTime": 116890
+      },
+      {
+        "token": "า",
+        "startTime": 116890,
+        "endTime": 116900
+      },
+      {
+        "token": "ม",
+        "startTime": 116900,
+        "endTime": 116910
+      },
+      {
+        "token": "ด",
+        "startTime": 116910,
+        "endTime": 117050
+      },
+      {
+        "token": "ุ",
+        "startTime": 117050,
+        "endTime": 117070
+      },
+      {
+        "token": "น",
+        "startTime": 117070,
+        "endTime": 117090
+      },
+      {
+        "token": "แ",
+        "startTime": 117090,
+        "endTime": 117210
+      },
+      {
+        "token": "ร",
+        "startTime": 117210,
+        "endTime": 117230
+      },
+      {
+        "token": "ง",
+        "startTime": 117230,
+        "endTime": 117490
+      }
+    ]
+  },
+  {
+    "sentence_text": "ก็ ต้อง มา ห ลุ้น กัน ว่า พายุ ลูก นี้ จะ ผ่าน ประเทศ ไทย ห",
+    "translations": {
+      "en": "So we have to wait and see if this storm will pass through Thailand"
+    },
+    "segments": [
+      {
+        "token": "ก",
+        "startTime": 117490,
+        "endTime": 117870
+      },
+      {
+        "token": "็",
+        "startTime": 117870,
+        "endTime": 117890
+      },
+      {
+        "token": "ต",
+        "startTime": 117890,
+        "endTime": 117930
+      },
+      {
+        "token": "้",
+        "startTime": 117930,
+        "endTime": 117970
+      },
+      {
+        "token": "อ",
+        "startTime": 117970,
+        "endTime": 118000
+      },
+      {
+        "token": "ง",
+        "startTime": 118000,
+        "endTime": 118030
+      },
+      {
+        "token": "ม",
+        "startTime": 118030,
+        "endTime": 118100
+      },
+      {
+        "token": "า",
+        "startTime": 118100,
+        "endTime": 118170
+      },
+      {
+        "token": "ห",
+        "startTime": 118170,
+        "endTime": 118510
+      },
+      {
+        "token": "ล",
+        "startTime": 118510,
+        "endTime": 118530
+      },
+      {
+        "token": "ุ",
+        "startTime": 118530,
+        "endTime": 118550
+      },
+      {
+        "token": "้",
+        "startTime": 118550,
+        "endTime": 118570
+      },
+      {
+        "token": "น",
+        "startTime": 118570,
+        "endTime": 118610
+      },
+      {
+        "token": "ก",
+        "startTime": 118610,
+        "endTime": 118730
+      },
+      {
+        "token": "ั",
+        "startTime": 118730,
+        "endTime": 118750
+      },
+      {
+        "token": "น",
+        "startTime": 118750,
+        "endTime": 118810
+      },
+      {
+        "token": "ว",
+        "startTime": 118810,
+        "endTime": 119210
+      },
+      {
+        "token": "่",
+        "startTime": 119210,
+        "endTime": 119270
+      },
+      {
+        "token": "า",
+        "startTime": 119270,
+        "endTime": 119350
+      },
+      {
+        "token": "พ",
+        "startTime": 119350,
+        "endTime": 119530
+      },
+      {
+        "token": "า",
+        "startTime": 119530,
+        "endTime": 119560
+      },
+      {
+        "token": "ย",
+        "startTime": 119560,
+        "endTime": 119590
+      },
+      {
+        "token": "ุ",
+        "startTime": 119590,
+        "endTime": 119650
+      },
+      {
+        "token": "ล",
+        "startTime": 119650,
+        "endTime": 119750
+      },
+      {
+        "token": "ู",
+        "startTime": 119750,
+        "endTime": 119770
+      },
+      {
+        "token": "ก",
+        "startTime": 119770,
+        "endTime": 119790
+      },
+      {
+        "token": "น",
+        "startTime": 119790,
+        "endTime": 119870
+      },
+      {
+        "token": "ี",
+        "startTime": 119870,
+        "endTime": 119880
+      },
+      {
+        "token": "้",
+        "startTime": 119880,
+        "endTime": 119890
+      },
+      {
+        "token": "จ",
+        "startTime": 119890,
+        "endTime": 119960
+      },
+      {
+        "token": "ะ",
+        "startTime": 119960,
+        "endTime": 120030
+      },
+      {
+        "token": "ผ",
+        "startTime": 120030,
+        "endTime": 120150
+      },
+      {
+        "token": "่",
+        "startTime": 120150,
+        "endTime": 120190
+      },
+      {
+        "token": "า",
+        "startTime": 120190,
+        "endTime": 120200
+      },
+      {
+        "token": "น",
+        "startTime": 120200,
+        "endTime": 120210
+      },
+      {
+        "token": "ป",
+        "startTime": 120210,
+        "endTime": 120330
+      },
+      {
+        "token": "ร",
+        "startTime": 120330,
+        "endTime": 120370
+      },
+      {
+        "token": "ะ",
+        "startTime": 120370,
+        "endTime": 120410
+      },
+      {
+        "token": "เ",
+        "startTime": 120410,
+        "endTime": 120420
+      },
+      {
+        "token": "ท",
+        "startTime": 120420,
+        "endTime": 120430
+      },
+      {
+        "token": "ศ",
+        "startTime": 120430,
+        "endTime": 120490
+      },
+      {
+        "token": "ไ",
+        "startTime": 120490,
+        "endTime": 120630
+      },
+      {
+        "token": "ท",
+        "startTime": 120630,
+        "endTime": 120650
+      },
+      {
+        "token": "ย",
+        "startTime": 120650,
+        "endTime": 120670
+      },
+      {
+        "token": "ห",
+        "startTime": 120670,
+        "endTime": 120830
+      }
+    ]
+  },
+  {
+    "sentence_text": "รือ ไม่",
+    "translations": {
+      "en": "or not."
+    },
+    "segments": [
+      {
+        "token": "ร",
+        "startTime": 120830,
+        "endTime": 120850
+      },
+      {
+        "token": "ื",
+        "startTime": 120850,
+        "endTime": 120870
+      },
+      {
+        "token": "อ",
+        "startTime": 120870,
+        "endTime": 120910
+      },
+      {
+        "token": "ไ",
+        "startTime": 120910,
+        "endTime": 120990
+      },
+      {
+        "token": "ม",
+        "startTime": 120990,
+        "endTime": 121070
+      },
+      {
+        "token": "่",
+        "startTime": 121070,
+        "endTime": 121450
+      }
+    ]
+  },
+  {
+    "sentence_text": "หาก ผ่าน เข้ามา ก็ เตือน ใน ช่วง อัน ที่ 22 - 23 กร รก ฎาคบ",
+    "translations": {
+      "en": "If it does, be warned during the 22nd-23rd of July."
+    },
+    "segments": [
+      {
+        "token": "ห",
+        "startTime": 121450,
+        "endTime": 121590
+      },
+      {
+        "token": "า",
+        "startTime": 121590,
+        "endTime": 121620
+      },
+      {
+        "token": "ก",
+        "startTime": 121620,
+        "endTime": 121650
+      },
+      {
+        "token": "ผ",
+        "startTime": 121650,
+        "endTime": 121790
+      },
+      {
+        "token": "่",
+        "startTime": 121790,
+        "endTime": 121850
+      },
+      {
+        "token": "า",
+        "startTime": 121850,
+        "endTime": 121860
+      },
+      {
+        "token": "น",
+        "startTime": 121860,
+        "endTime": 121870
+      },
+      {
+        "token": "เ",
+        "startTime": 121870,
+        "endTime": 121910
+      },
+      {
+        "token": "ข",
+        "startTime": 121910,
+        "endTime": 121950
+      },
+      {
+        "token": "้",
+        "startTime": 121950,
+        "endTime": 122010
+      },
+      {
+        "token": "า",
+        "startTime": 122010,
+        "endTime": 122030
+      },
+      {
+        "token": "ม",
+        "startTime": 122030,
+        "endTime": 122090
+      },
+      {
+        "token": "า",
+        "startTime": 122090,
+        "endTime": 122150
+      },
+      {
+        "token": "ก",
+        "startTime": 122150,
+        "endTime": 122390
+      },
+      {
+        "token": "็",
+        "startTime": 122390,
+        "endTime": 122410
+      },
+      {
+        "token": "เ",
+        "startTime": 122410,
+        "endTime": 122470
+      },
+      {
+        "token": "ต",
+        "startTime": 122470,
+        "endTime": 122530
+      },
+      {
+        "token": "ื",
+        "startTime": 122530,
+        "endTime": 122550
+      },
+      {
+        "token": "อ",
+        "startTime": 122550,
+        "endTime": 122560
+      },
+      {
+        "token": "น",
+        "startTime": 122560,
+        "endTime": 122570
+      },
+      {
+        "token": "ใ",
+        "startTime": 122570,
+        "endTime": 122690
+      },
+      {
+        "token": "น",
+        "startTime": 122690,
+        "endTime": 122710
+      },
+      {
+        "token": "ช",
+        "startTime": 122710,
+        "endTime": 122810
+      },
+      {
+        "token": "่",
+        "startTime": 122810,
+        "endTime": 122830
+      },
+      {
+        "token": "ว",
+        "startTime": 122830,
+        "endTime": 122850
+      },
+      {
+        "token": "ง",
+        "startTime": 122850,
+        "endTime": 122870
+      },
+      {
+        "token": "อ",
+        "startTime": 122870,
+        "endTime": 122910
+      },
+      {
+        "token": "ั",
+        "startTime": 122910,
+        "endTime": 122930
+      },
+      {
+        "token": "น",
+        "startTime": 122930,
+        "endTime": 122950
+      },
+      {
+        "token": "ท",
+        "startTime": 122950,
+        "endTime": 122990
+      },
+      {
+        "token": "ี",
+        "startTime": 122990,
+        "endTime": 123000
+      },
+      {
+        "token": "่",
+        "startTime": 123000,
+        "endTime": 123010
+      },
+      {
+        "token": "2",
+        "startTime": 123010,
+        "endTime": 123210
+      },
+      {
+        "token": "2",
+        "startTime": 123210,
+        "endTime": 123410
+      },
+      {
+        "token": "-",
+        "startTime": 123410,
+        "endTime": 123670
+      },
+      {
+        "token": "2",
+        "startTime": 123670,
+        "endTime": 123910
+      },
+      {
+        "token": "3",
+        "startTime": 123910,
+        "endTime": 124150
+      },
+      {
+        "token": "ก",
+        "startTime": 124150,
+        "endTime": 124370
+      },
+      {
+        "token": "ร",
+        "startTime": 124370,
+        "endTime": 124390
+      },
+      {
+        "token": "ร",
+        "startTime": 124390,
+        "endTime": 124470
+      },
+      {
+        "token": "ก",
+        "startTime": 124470,
+        "endTime": 124530
+      },
+      {
+        "token": "ฎ",
+        "startTime": 124530,
+        "endTime": 124650
+      },
+      {
+        "token": "า",
+        "startTime": 124650,
+        "endTime": 124730
+      },
+      {
+        "token": "ค",
+        "startTime": 124730,
+        "endTime": 124870
+      },
+      {
+        "token": "บ",
+        "startTime": 124870,
+        "endTime": 124890
+      }
+    ]
+  },
+  {
+    "sentence_text": "นี้",
+    "translations": {},
+    "segments": [
+      {
+        "token": "น",
+        "startTime": 124890,
+        "endTime": 125050
+      },
+      {
+        "token": "ี",
+        "startTime": 125050,
+        "endTime": 125250
+      },
+      {
+        "token": "้",
+        "startTime": 125250,
+        "endTime": 125450
+      }
+    ]
+  },
+  {
+    "sentence_text": "ภา อี สาร จะ เป็น ด่าน ร่าย ที่ รับมือ",
+    "translations": {
+      "en": "The Northeast will be the first line of defense."
+    },
+    "segments": [
+      {
+        "token": "ภ",
+        "startTime": 125450,
+        "endTime": 125610
+      },
+      {
+        "token": "า",
+        "startTime": 125610,
+        "endTime": 125670
+      },
+      {
+        "token": "อ",
+        "startTime": 125670,
+        "endTime": 125750
+      },
+      {
+        "token": "ี",
+        "startTime": 125750,
+        "endTime": 125770
+      },
+      {
+        "token": "ส",
+        "startTime": 125770,
+        "endTime": 125870
+      },
+      {
+        "token": "า",
+        "startTime": 125870,
+        "endTime": 125950
+      },
+      {
+        "token": "ร",
+        "startTime": 125950,
+        "endTime": 126030
+      },
+      {
+        "token": "จ",
+        "startTime": 126030,
+        "endTime": 126120
+      },
+      {
+        "token": "ะ",
+        "startTime": 126120,
+        "endTime": 126210
+      },
+      {
+        "token": "เ",
+        "startTime": 126210,
+        "endTime": 126290
+      },
+      {
+        "token": "ป",
+        "startTime": 126290,
+        "endTime": 126370
+      },
+      {
+        "token": "็",
+        "startTime": 126370,
+        "endTime": 126390
+      },
+      {
+        "token": "น",
+        "startTime": 126390,
+        "endTime": 126410
+      },
+      {
+        "token": "ด",
+        "startTime": 126410,
+        "endTime": 126490
+      },
+      {
+        "token": "่",
+        "startTime": 126490,
+        "endTime": 126530
+      },
+      {
+        "token": "า",
+        "startTime": 126530,
+        "endTime": 126540
+      },
+      {
+        "token": "น",
+        "startTime": 126540,
+        "endTime": 126550
+      },
+      {
+        "token": "ร",
+        "startTime": 126550,
+        "endTime": 126690
+      },
+      {
+        "token": "่",
+        "startTime": 126690,
+        "endTime": 126710
+      },
+      {
+        "token": "า",
+        "startTime": 126710,
+        "endTime": 126720
+      },
+      {
+        "token": "ย",
+        "startTime": 126720,
+        "endTime": 126730
+      },
+      {
+        "token": "ท",
+        "startTime": 126730,
+        "endTime": 126890
+      },
+      {
+        "token": "ี",
+        "startTime": 126890,
+        "endTime": 126900
+      },
+      {
+        "token": "่",
+        "startTime": 126900,
+        "endTime": 126910
+      },
+      {
+        "token": "ร",
+        "startTime": 126910,
+        "endTime": 127030
+      },
+      {
+        "token": "ั",
+        "startTime": 127030,
+        "endTime": 127130
+      },
+      {
+        "token": "บ",
+        "startTime": 127130,
+        "endTime": 127190
+      },
+      {
+        "token": "ม",
+        "startTime": 127190,
+        "endTime": 127330
+      },
+      {
+        "token": "ื",
+        "startTime": 127330,
+        "endTime": 127430
+      },
+      {
+        "token": "อ",
+        "startTime": 127430,
+        "endTime": 127540
+      }
+    ]
+  },
+  {
+    "sentence_text": "ก่อนที่ พายุ จะ ค่อยๆ เคลื่อนตัว ไป ทาง ด้าน ตรง วัน ออ",
+    "translations": {
+      "en": "Before the storm gradually moves toward the eastern side"
+    },
+    "segments": [
+      {
+        "token": "ก",
+        "startTime": 127540,
+        "endTime": 127650
+      },
+      {
+        "token": "่",
+        "startTime": 127650,
+        "endTime": 127970
+      },
+      {
+        "token": "อ",
+        "startTime": 127970,
+        "endTime": 127980
+      },
+      {
+        "token": "น",
+        "startTime": 127980,
+        "endTime": 127990
+      },
+      {
+        "token": "ท",
+        "startTime": 127990,
+        "endTime": 128150
+      },
+      {
+        "token": "ี",
+        "startTime": 128150,
+        "endTime": 128160
+      },
+      {
+        "token": "่",
+        "startTime": 128160,
+        "endTime": 128170
+      },
+      {
+        "token": "พ",
+        "startTime": 128170,
+        "endTime": 128270
+      },
+      {
+        "token": "า",
+        "startTime": 128270,
+        "endTime": 128290
+      },
+      {
+        "token": "ย",
+        "startTime": 128290,
+        "endTime": 128310
+      },
+      {
+        "token": "ุ",
+        "startTime": 128310,
+        "endTime": 128330
+      },
+      {
+        "token": "จ",
+        "startTime": 128330,
+        "endTime": 128380
+      },
+      {
+        "token": "ะ",
+        "startTime": 128380,
+        "endTime": 128430
+      },
+      {
+        "token": "ค",
+        "startTime": 128430,
+        "endTime": 128570
+      },
+      {
+        "token": "่",
+        "startTime": 128570,
+        "endTime": 128590
+      },
+      {
+        "token": "อ",
+        "startTime": 128590,
+        "endTime": 128600
+      },
+      {
+        "token": "ย",
+        "startTime": 128600,
+        "endTime": 128610
+      },
+      {
+        "token": "ๆ",
+        "startTime": 128610,
+        "endTime": 128730
+      },
+      {
+        "token": "เ",
+        "startTime": 128730,
+        "endTime": 128790
+      },
+      {
+        "token": "ค",
+        "startTime": 128790,
+        "endTime": 128850
+      },
+      {
+        "token": "ล",
+        "startTime": 128850,
+        "endTime": 128930
+      },
+      {
+        "token": "ื",
+        "startTime": 128930,
+        "endTime": 128940
+      },
+      {
+        "token": "่",
+        "startTime": 128940,
+        "endTime": 128950
+      },
+      {
+        "token": "อ",
+        "startTime": 128950,
+        "endTime": 128960
+      },
+      {
+        "token": "น",
+        "startTime": 128960,
+        "endTime": 128970
+      },
+      {
+        "token": "ต",
+        "startTime": 128970,
+        "endTime": 129090
+      },
+      {
+        "token": "ั",
+        "startTime": 129090,
+        "endTime": 129110
+      },
+      {
+        "token": "ว",
+        "startTime": 129110,
+        "endTime": 129130
+      },
+      {
+        "token": "ไ",
+        "startTime": 129130,
+        "endTime": 129190
+      },
+      {
+        "token": "ป",
+        "startTime": 129190,
+        "endTime": 129250
+      },
+      {
+        "token": "ท",
+        "startTime": 129250,
+        "endTime": 129390
+      },
+      {
+        "token": "า",
+        "startTime": 129390,
+        "endTime": 129490
+      },
+      {
+        "token": "ง",
+        "startTime": 129490,
+        "endTime": 129590
+      },
+      {
+        "token": "ด",
+        "startTime": 129590,
+        "endTime": 129910
+      },
+      {
+        "token": "้",
+        "startTime": 129910,
+        "endTime": 129930
+      },
+      {
+        "token": "า",
+        "startTime": 129930,
+        "endTime": 129940
+      },
+      {
+        "token": "น",
+        "startTime": 129940,
+        "endTime": 129950
+      },
+      {
+        "token": "ต",
+        "startTime": 129950,
+        "endTime": 130070
+      },
+      {
+        "token": "ร",
+        "startTime": 130070,
+        "endTime": 130090
+      },
+      {
+        "token": "ง",
+        "startTime": 130090,
+        "endTime": 130150
+      },
+      {
+        "token": "ว",
+        "startTime": 130150,
+        "endTime": 130170
+      },
+      {
+        "token": "ั",
+        "startTime": 130170,
+        "endTime": 130190
+      },
+      {
+        "token": "น",
+        "startTime": 130190,
+        "endTime": 130210
+      },
+      {
+        "token": "อ",
+        "startTime": 130210,
+        "endTime": 130310
+      },
+      {
+        "token": "อ",
+        "startTime": 130310,
+        "endTime": 130320
+      }
+    ]
+  },
+  {
+    "sentence_text": "ก ของ ภัก เหนือ",
+    "translations": {
+      "en": "of the upper region."
+    },
+    "segments": [
+      {
+        "token": "ก",
+        "startTime": 130320,
+        "endTime": 130330
+      },
+      {
+        "token": "ข",
+        "startTime": 130330,
+        "endTime": 130510
+      },
+      {
+        "token": "อ",
+        "startTime": 130510,
+        "endTime": 130520
+      },
+      {
+        "token": "ง",
+        "startTime": 130520,
+        "endTime": 130530
+      },
+      {
+        "token": "ภ",
+        "startTime": 130530,
+        "endTime": 130630
+      },
+      {
+        "token": "ั",
+        "startTime": 130630,
+        "endTime": 130650
+      },
+      {
+        "token": "ก",
+        "startTime": 130650,
+        "endTime": 130670
+      },
+      {
+        "token": "เ",
+        "startTime": 130670,
+        "endTime": 130740
+      },
+      {
+        "token": "ห",
+        "startTime": 130740,
+        "endTime": 130810
+      },
+      {
+        "token": "น",
+        "startTime": 130810,
+        "endTime": 130850
+      },
+      {
+        "token": "ื",
+        "startTime": 130850,
+        "endTime": 130890
+      },
+      {
+        "token": "อ",
+        "startTime": 130890,
+        "endTime": 130950
+      }
+    ]
+  },
+  {
+    "sentence_text": "ก็ ต้อง เฝ้า ระ ว่าง เป็นพิเศษ ใน พื้นที่ จังหวัด น้าน",
+    "translations": {
+      "en": "Special vigilance is needed in the northern provinces."
+    },
+    "segments": [
+      {
+        "token": "ก",
+        "startTime": 130950,
+        "endTime": 131430
+      },
+      {
+        "token": "็",
+        "startTime": 131430,
+        "endTime": 131450
+      },
+      {
+        "token": "ต",
+        "startTime": 131450,
+        "endTime": 131530
+      },
+      {
+        "token": "้",
+        "startTime": 131530,
+        "endTime": 131550
+      },
+      {
+        "token": "อ",
+        "startTime": 131550,
+        "endTime": 131560
+      },
+      {
+        "token": "ง",
+        "startTime": 131560,
+        "endTime": 131570
+      },
+      {
+        "token": "เ",
+        "startTime": 131570,
+        "endTime": 131640
+      },
+      {
+        "token": "ฝ",
+        "startTime": 131640,
+        "endTime": 131710
+      },
+      {
+        "token": "้",
+        "startTime": 131710,
+        "endTime": 131770
+      },
+      {
+        "token": "า",
+        "startTime": 131770,
+        "endTime": 131820
+      },
+      {
+        "token": "ร",
+        "startTime": 131820,
+        "endTime": 131870
+      },
+      {
+        "token": "ะ",
+        "startTime": 131870,
+        "endTime": 131910
+      },
+      {
+        "token": "ว",
+        "startTime": 131910,
+        "endTime": 132010
+      },
+      {
+        "token": "่",
+        "startTime": 132010,
+        "endTime": 132030
+      },
+      {
+        "token": "า",
+        "startTime": 132030,
+        "endTime": 132040
+      },
+      {
+        "token": "ง",
+        "startTime": 132040,
+        "endTime": 132050
+      },
+      {
+        "token": "เ",
+        "startTime": 132050,
+        "endTime": 132100
+      },
+      {
+        "token": "ป",
+        "startTime": 132100,
+        "endTime": 132150
+      },
+      {
+        "token": "็",
+        "startTime": 132150,
+        "endTime": 132170
+      },
+      {
+        "token": "น",
+        "startTime": 132170,
+        "endTime": 132190
+      },
+      {
+        "token": "พ",
+        "startTime": 132190,
+        "endTime": 132290
+      },
+      {
+        "token": "ิ",
+        "startTime": 132290,
+        "endTime": 132310
+      },
+      {
+        "token": "เ",
+        "startTime": 132310,
+        "endTime": 132330
+      },
+      {
+        "token": "ศ",
+        "startTime": 132330,
+        "endTime": 132350
+      },
+      {
+        "token": "ษ",
+        "startTime": 132350,
+        "endTime": 132470
+      },
+      {
+        "token": "ใ",
+        "startTime": 132470,
+        "endTime": 132630
+      },
+      {
+        "token": "น",
+        "startTime": 132630,
+        "endTime": 132670
+      },
+      {
+        "token": "พ",
+        "startTime": 132670,
+        "endTime": 132810
+      },
+      {
+        "token": "ื",
+        "startTime": 132810,
+        "endTime": 132830
+      },
+      {
+        "token": "้",
+        "startTime": 132830,
+        "endTime": 132850
+      },
+      {
+        "token": "น",
+        "startTime": 132850,
+        "endTime": 132870
+      },
+      {
+        "token": "ท",
+        "startTime": 132870,
+        "endTime": 132950
+      },
+      {
+        "token": "ี",
+        "startTime": 132950,
+        "endTime": 132960
+      },
+      {
+        "token": "่",
+        "startTime": 132960,
+        "endTime": 132970
+      },
+      {
+        "token": "จ",
+        "startTime": 132970,
+        "endTime": 133050
+      },
+      {
+        "token": "ั",
+        "startTime": 133050,
+        "endTime": 133070
+      },
+      {
+        "token": "ง",
+        "startTime": 133070,
+        "endTime": 133090
+      },
+      {
+        "token": "ห",
+        "startTime": 133090,
+        "endTime": 133110
+      },
+      {
+        "token": "ว",
+        "startTime": 133110,
+        "endTime": 133190
+      },
+      {
+        "token": "ั",
+        "startTime": 133190,
+        "endTime": 133210
+      },
+      {
+        "token": "ด",
+        "startTime": 133210,
+        "endTime": 133230
+      },
+      {
+        "token": "น",
+        "startTime": 133230,
+        "endTime": 133390
+      },
+      {
+        "token": "้",
+        "startTime": 133390,
+        "endTime": 133410
+      },
+      {
+        "token": "า",
+        "startTime": 133410,
+        "endTime": 133440
+      },
+      {
+        "token": "น",
+        "startTime": 133440,
+        "endTime": 133470
+      }
+    ]
+  },
+  {
+    "sentence_text": "ครับ",
+    "translations": {
+      "en": "ครับ."
+    },
+    "segments": [
+      {
+        "token": "ค",
+        "startTime": 133470,
+        "endTime": 133560
+      },
+      {
+        "token": "ร",
+        "startTime": 133560,
+        "endTime": 133650
+      },
+      {
+        "token": "ั",
+        "startTime": 133650,
+        "endTime": 133730
+      },
+      {
+        "token": "บ",
+        "startTime": 133730,
+        "endTime": 133750
+      }
+    ]
+  }
+]
