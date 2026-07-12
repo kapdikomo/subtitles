@@ -1,0 +1,2591 @@
+[
+  {
+    "sentence_text": "En Belgique, les automobilistes vont devoir une fois de plus sortir leur portefeuille.",
+    "translations": {
+      "en": "In Belgium, motorists will once again have to dig into their wallets."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 640,
+        "endTime": 740
+      },
+      {
+        "token": "Belgique,",
+        "startTime": 740,
+        "endTime": 1160
+      },
+      {
+        "token": "les",
+        "startTime": 1160,
+        "endTime": 1220
+      },
+      {
+        "token": "automobilistes",
+        "startTime": 1220,
+        "endTime": 1800
+      },
+      {
+        "token": "vont",
+        "startTime": 1800,
+        "endTime": 2020
+      },
+      {
+        "token": "devoir",
+        "startTime": 2020,
+        "endTime": 2320
+      },
+      {
+        "token": "une",
+        "startTime": 2320,
+        "endTime": 2620
+      },
+      {
+        "token": "fois",
+        "startTime": 2620,
+        "endTime": 2780
+      },
+      {
+        "token": "de",
+        "startTime": 2780,
+        "endTime": 2880
+      },
+      {
+        "token": "plus",
+        "startTime": 2880,
+        "endTime": 2980
+      },
+      {
+        "token": "sortir",
+        "startTime": 2980,
+        "endTime": 3400
+      },
+      {
+        "token": "leur",
+        "startTime": 3400,
+        "endTime": 3600
+      },
+      {
+        "token": "portefeuille.",
+        "startTime": 3600,
+        "endTime": 4300
+      }
+    ]
+  },
+  {
+    "sentence_text": "La hausse des prix des carburants faisait déjà mal.",
+    "translations": {
+      "en": "The rise in fuel prices was already hurting."
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 4300,
+        "endTime": 4480
+      },
+      {
+        "token": "hausse",
+        "startTime": 4480,
+        "endTime": 4760
+      },
+      {
+        "token": "des",
+        "startTime": 4760,
+        "endTime": 4920
+      },
+      {
+        "token": "prix",
+        "startTime": 4920,
+        "endTime": 5080
+      },
+      {
+        "token": "des",
+        "startTime": 5080,
+        "endTime": 5240
+      },
+      {
+        "token": "carburants",
+        "startTime": 5240,
+        "endTime": 5620
+      },
+      {
+        "token": "faisait",
+        "startTime": 5620,
+        "endTime": 5900
+      },
+      {
+        "token": "déjà",
+        "startTime": 5900,
+        "endTime": 6300
+      },
+      {
+        "token": "mal.",
+        "startTime": 6300,
+        "endTime": 6900
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mais voilà que va apparaître la vignette routière.",
+    "translations": {
+      "en": "But now a road vignette is coming."
+    },
+    "segments": [
+      {
+        "token": "Mais",
+        "startTime": 6900,
+        "endTime": 7060
+      },
+      {
+        "token": "voilà",
+        "startTime": 7060,
+        "endTime": 7220
+      },
+      {
+        "token": "que",
+        "startTime": 7220,
+        "endTime": 7420
+      },
+      {
+        "token": "va",
+        "startTime": 7420,
+        "endTime": 7560
+      },
+      {
+        "token": "apparaître",
+        "startTime": 7560,
+        "endTime": 8060
+      },
+      {
+        "token": "la",
+        "startTime": 8060,
+        "endTime": 8280
+      },
+      {
+        "token": "vignette",
+        "startTime": 8280,
+        "endTime": 8620
+      },
+      {
+        "token": "routière.",
+        "startTime": 8620,
+        "endTime": 9280
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ça doit servir à maintenir le réseau routier en bon état.",
+    "translations": {
+      "en": "It's meant to keep the road network in good condition."
+    },
+    "segments": [
+      {
+        "token": "Ça",
+        "startTime": 9280,
+        "endTime": 9440
+      },
+      {
+        "token": "doit",
+        "startTime": 9440,
+        "endTime": 9620
+      },
+      {
+        "token": "servir",
+        "startTime": 9620,
+        "endTime": 9920
+      },
+      {
+        "token": "à",
+        "startTime": 9920,
+        "endTime": 10140
+      },
+      {
+        "token": "maintenir",
+        "startTime": 10140,
+        "endTime": 10560
+      },
+      {
+        "token": "le",
+        "startTime": 10560,
+        "endTime": 10720
+      },
+      {
+        "token": "réseau",
+        "startTime": 10720,
+        "endTime": 11040
+      },
+      {
+        "token": "routier",
+        "startTime": 11040,
+        "endTime": 11460
+      },
+      {
+        "token": "en",
+        "startTime": 11460,
+        "endTime": 11760
+      },
+      {
+        "token": "bon",
+        "startTime": 11760,
+        "endTime": 11960
+      },
+      {
+        "token": "état.",
+        "startTime": 11960,
+        "endTime": 12640
+      }
+    ]
+  },
+  {
+    "sentence_text": "Entrée en vigueur le 1er mai 2027, les prix, on le sait déjà,",
+    "translations": {
+      "en": "Coming into effect on May 1, 2027, the prices, we already know,"
+    },
+    "segments": [
+      {
+        "token": "Entrée",
+        "startTime": 12640,
+        "endTime": 12900
+      },
+      {
+        "token": "en",
+        "startTime": 12900,
+        "endTime": 13060
+      },
+      {
+        "token": "vigueur",
+        "startTime": 13060,
+        "endTime": 13340
+      },
+      {
+        "token": "le",
+        "startTime": 13340,
+        "endTime": 13580
+      },
+      {
+        "token": "1er",
+        "startTime": 13580,
+        "endTime": 13880
+      },
+      {
+        "token": "mai",
+        "startTime": 13880,
+        "endTime": 14100
+      },
+      {
+        "token": "2027,",
+        "startTime": 14100,
+        "endTime": 15160
+      },
+      {
+        "token": "les",
+        "startTime": 15160,
+        "endTime": 15300
+      },
+      {
+        "token": "prix,",
+        "startTime": 15300,
+        "endTime": 15640
+      },
+      {
+        "token": "on",
+        "startTime": 15640,
+        "endTime": 15740
+      },
+      {
+        "token": "le",
+        "startTime": 15740,
+        "endTime": 15860
+      },
+      {
+        "token": "sait",
+        "startTime": 15860,
+        "endTime": 15900
+      },
+      {
+        "token": "déjà,",
+        "startTime": 15900,
+        "endTime": 16360
+      }
+    ]
+  },
+  {
+    "sentence_text": "varieront entre 90 et 125 euros.",
+    "translations": {
+      "en": "will range between 90 and 125 euros."
+    },
+    "segments": [
+      {
+        "token": "varieront",
+        "startTime": 16360,
+        "endTime": 16700
+      },
+      {
+        "token": "entre",
+        "startTime": 16700,
+        "endTime": 17300
+      },
+      {
+        "token": "90",
+        "startTime": 17300,
+        "endTime": 17960
+      },
+      {
+        "token": "et",
+        "startTime": 17960,
+        "endTime": 18640
+      },
+      {
+        "token": "125",
+        "startTime": 18640,
+        "endTime": 19200
+      },
+      {
+        "token": "euros.",
+        "startTime": 19200,
+        "endTime": 19840
+      }
+    ]
+  },
+  {
+    "sentence_text": "L'annonce a été faite aujourd'hui et on promet aussi que les automobilistes recevront une compensation.",
+    "translations": {
+      "en": "The announcement was made today, and it's also promised that motorists will receive compensation."
+    },
+    "segments": [
+      {
+        "token": "L'annonce",
+        "startTime": 19840,
+        "endTime": 20160
+      },
+      {
+        "token": "a",
+        "startTime": 20160,
+        "endTime": 20300
+      },
+      {
+        "token": "été",
+        "startTime": 20300,
+        "endTime": 20400
+      },
+      {
+        "token": "faite",
+        "startTime": 20400,
+        "endTime": 20540
+      },
+      {
+        "token": "aujourd'hui",
+        "startTime": 20540,
+        "endTime": 20980
+      },
+      {
+        "token": "et",
+        "startTime": 20980,
+        "endTime": 21500
+      },
+      {
+        "token": "on",
+        "startTime": 21500,
+        "endTime": 21640
+      },
+      {
+        "token": "promet",
+        "startTime": 21640,
+        "endTime": 21880
+      },
+      {
+        "token": "aussi",
+        "startTime": 21880,
+        "endTime": 22080
+      },
+      {
+        "token": "que",
+        "startTime": 22080,
+        "endTime": 22200
+      },
+      {
+        "token": "les",
+        "startTime": 22200,
+        "endTime": 22300
+      },
+      {
+        "token": "automobilistes",
+        "startTime": 22300,
+        "endTime": 22860
+      },
+      {
+        "token": "recevront",
+        "startTime": 22860,
+        "endTime": 23340
+      },
+      {
+        "token": "une",
+        "startTime": 23340,
+        "endTime": 23500
+      },
+      {
+        "token": "compensation.",
+        "startTime": 23500,
+        "endTime": 24260
+      }
+    ]
+  },
+  {
+    "sentence_text": "Laquelle ?",
+    "translations": {
+      "en": "What kind?"
+    },
+    "segments": [
+      {
+        "token": "Laquelle",
+        "startTime": 24260,
+        "endTime": 24260
+      },
+      {
+        "token": "?",
+        "startTime": 24260,
+        "endTime": 24720
+      }
+    ]
+  },
+  {
+    "sentence_text": "Et bien pour ça, l'annonce, ce sera pour plus tard.",
+    "translations": {
+      "en": "Well, for that, the announcement will come later."
+    },
+    "segments": [
+      {
+        "token": "Et",
+        "startTime": 24720,
+        "endTime": 25140
+      },
+      {
+        "token": "bien",
+        "startTime": 25140,
+        "endTime": 25240
+      },
+      {
+        "token": "pour",
+        "startTime": 25240,
+        "endTime": 25400
+      },
+      {
+        "token": "ça,",
+        "startTime": 25400,
+        "endTime": 25660
+      },
+      {
+        "token": "l'annonce,",
+        "startTime": 25660,
+        "endTime": 26380
+      },
+      {
+        "token": "ce",
+        "startTime": 26380,
+        "endTime": 26400
+      },
+      {
+        "token": "sera",
+        "startTime": 26400,
+        "endTime": 26500
+      },
+      {
+        "token": "pour",
+        "startTime": 26500,
+        "endTime": 26800
+      },
+      {
+        "token": "plus",
+        "startTime": 26800,
+        "endTime": 26940
+      },
+      {
+        "token": "tard.",
+        "startTime": 26940,
+        "endTime": 27200
+      }
+    ]
+  },
+  {
+    "sentence_text": "Marc Mélon, Benjamin Verporten.",
+    "translations": {
+      "en": "Marc Mélon, Benjamin Verporten."
+    },
+    "segments": [
+      {
+        "token": "Marc",
+        "startTime": 27200,
+        "endTime": 27400
+      },
+      {
+        "token": "Mélon,",
+        "startTime": 27400,
+        "endTime": 27720
+      },
+      {
+        "token": "Benjamin",
+        "startTime": 27720,
+        "endTime": 27940
+      },
+      {
+        "token": "Verporten.",
+        "startTime": 27940,
+        "endTime": 29180
+      }
+    ]
+  },
+  {
+    "sentence_text": "Le gouvernement se prépare donc à instaurer la vignette pour tout le monde.",
+    "translations": {
+      "en": "So the government is preparing to introduce the vignette for everyone."
+    },
+    "segments": [
+      {
+        "token": "Le",
+        "startTime": 29180,
+        "endTime": 29320
+      },
+      {
+        "token": "gouvernement",
+        "startTime": 29320,
+        "endTime": 29640
+      },
+      {
+        "token": "se",
+        "startTime": 29640,
+        "endTime": 29980
+      },
+      {
+        "token": "prépare",
+        "startTime": 29980,
+        "endTime": 30280
+      },
+      {
+        "token": "donc",
+        "startTime": 30280,
+        "endTime": 30480
+      },
+      {
+        "token": "à",
+        "startTime": 30480,
+        "endTime": 30640
+      },
+      {
+        "token": "instaurer",
+        "startTime": 30640,
+        "endTime": 31000
+      },
+      {
+        "token": "la",
+        "startTime": 31000,
+        "endTime": 31140
+      },
+      {
+        "token": "vignette",
+        "startTime": 31140,
+        "endTime": 31400
+      },
+      {
+        "token": "pour",
+        "startTime": 31400,
+        "endTime": 31600
+      },
+      {
+        "token": "tout",
+        "startTime": 31600,
+        "endTime": 31780
+      },
+      {
+        "token": "le",
+        "startTime": 31780,
+        "endTime": 31860
+      },
+      {
+        "token": "monde.",
+        "startTime": 31860,
+        "endTime": 32140
+      }
+    ]
+  },
+  {
+    "sentence_text": "Il n'y aura pas de vignette autoroutière Wallonne.",
+    "translations": {
+      "en": "There will be no Walloon motorway vignette."
+    },
+    "segments": [
+      {
+        "token": "Il",
+        "startTime": 32140,
+        "endTime": 32280
+      },
+      {
+        "token": "n'y",
+        "startTime": 32280,
+        "endTime": 32439
+      },
+      {
+        "token": "aura",
+        "startTime": 32439,
+        "endTime": 32479
+      },
+      {
+        "token": "pas",
+        "startTime": 32479,
+        "endTime": 32720
+      },
+      {
+        "token": "de",
+        "startTime": 32720,
+        "endTime": 32820
+      },
+      {
+        "token": "vignette",
+        "startTime": 32820,
+        "endTime": 33120
+      },
+      {
+        "token": "autoroutière",
+        "startTime": 33120,
+        "endTime": 33680
+      },
+      {
+        "token": "Wallonne.",
+        "startTime": 33680,
+        "endTime": 34280
+      }
+    ]
+  },
+  {
+    "sentence_text": "En voiture pour la vignette autoroutière.",
+    "translations": {
+      "en": "In the car for the motorway vignette."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 34280,
+        "endTime": 34480
+      },
+      {
+        "token": "voiture",
+        "startTime": 34480,
+        "endTime": 34820
+      },
+      {
+        "token": "pour",
+        "startTime": 34820,
+        "endTime": 35300
+      },
+      {
+        "token": "la",
+        "startTime": 35300,
+        "endTime": 35460
+      },
+      {
+        "token": "vignette",
+        "startTime": 35460,
+        "endTime": 35820
+      },
+      {
+        "token": "autoroutière.",
+        "startTime": 35820,
+        "endTime": 36960
+      }
+    ]
+  },
+  {
+    "sentence_text": "Cela fait 39 ans qu'on vous en parle.",
+    "translations": {
+      "en": "We've been talking about it for 39 years."
+    },
+    "segments": [
+      {
+        "token": "Cela",
+        "startTime": 36960,
+        "endTime": 37160
+      },
+      {
+        "token": "fait",
+        "startTime": 37160,
+        "endTime": 37360
+      },
+      {
+        "token": "39",
+        "startTime": 37360,
+        "endTime": 37840
+      },
+      {
+        "token": "ans",
+        "startTime": 37840,
+        "endTime": 38100
+      },
+      {
+        "token": "qu'on",
+        "startTime": 38100,
+        "endTime": 38320
+      },
+      {
+        "token": "vous",
+        "startTime": 38320,
+        "endTime": 38520
+      },
+      {
+        "token": "en",
+        "startTime": 38520,
+        "endTime": 38660
+      },
+      {
+        "token": "parle.",
+        "startTime": 38660,
+        "endTime": 38980
+      }
+    ]
+  },
+  {
+    "sentence_text": "Alors soyons prudents, mais cette fois, ça pourrait être la bonne.",
+    "translations": {
+      "en": "So let's be cautious, but this time it might be the real deal."
+    },
+    "segments": [
+      {
+        "token": "Alors",
+        "startTime": 38980,
+        "endTime": 39300
+      },
+      {
+        "token": "soyons",
+        "startTime": 39300,
+        "endTime": 39740
+      },
+      {
+        "token": "prudents,",
+        "startTime": 39740,
+        "endTime": 40260
+      },
+      {
+        "token": "mais",
+        "startTime": 40260,
+        "endTime": 40740
+      },
+      {
+        "token": "cette",
+        "startTime": 40740,
+        "endTime": 40920
+      },
+      {
+        "token": "fois,",
+        "startTime": 40920,
+        "endTime": 41160
+      },
+      {
+        "token": "ça",
+        "startTime": 41160,
+        "endTime": 41400
+      },
+      {
+        "token": "pourrait",
+        "startTime": 41400,
+        "endTime": 41660
+      },
+      {
+        "token": "être",
+        "startTime": 41660,
+        "endTime": 41920
+      },
+      {
+        "token": "la",
+        "startTime": 41920,
+        "endTime": 42220
+      },
+      {
+        "token": "bonne.",
+        "startTime": 42220,
+        "endTime": 42860
+      }
+    ]
+  },
+  {
+    "sentence_text": "Une vignette arrive.",
+    "translations": {
+      "en": "A vignette is coming."
+    },
+    "segments": [
+      {
+        "token": "Une",
+        "startTime": 42860,
+        "endTime": 43040
+      },
+      {
+        "token": "vignette",
+        "startTime": 43040,
+        "endTime": 43400
+      },
+      {
+        "token": "arrive.",
+        "startTime": 43400,
+        "endTime": 44000
+      }
+    ]
+  },
+  {
+    "sentence_text": "Elle devrait coûter entre 90 et 125 euros et",
+    "translations": {
+      "en": "It should cost between 90 and 125 euros and"
+    },
+    "segments": [
+      {
+        "token": "Elle",
+        "startTime": 44000,
+        "endTime": 44160
+      },
+      {
+        "token": "devrait",
+        "startTime": 44160,
+        "endTime": 44420
+      },
+      {
+        "token": "coûter",
+        "startTime": 44420,
+        "endTime": 44760
+      },
+      {
+        "token": "entre",
+        "startTime": 44760,
+        "endTime": 45080
+      },
+      {
+        "token": "90",
+        "startTime": 45080,
+        "endTime": 45500
+      },
+      {
+        "token": "et",
+        "startTime": 45500,
+        "endTime": 45680
+      },
+      {
+        "token": "125",
+        "startTime": 45680,
+        "endTime": 46160
+      },
+      {
+        "token": "euros",
+        "startTime": 46160,
+        "endTime": 46440
+      },
+      {
+        "token": "et",
+        "startTime": 46440,
+        "endTime": 47240
+      }
+    ]
+  },
+  {
+    "sentence_text": "concernerait tout véhicule qui circule en Belgique, qu'il soit immatriculé ici ou à l'étranger.",
+    "translations": {
+      "en": "would apply to any vehicle driving in Belgium, whether registered here or abroad."
+    },
+    "segments": [
+      {
+        "token": "concernerait",
+        "startTime": 47240,
+        "endTime": 47880
+      },
+      {
+        "token": "tout",
+        "startTime": 47880,
+        "endTime": 48080
+      },
+      {
+        "token": "véhicule",
+        "startTime": 48080,
+        "endTime": 48520
+      },
+      {
+        "token": "qui",
+        "startTime": 48520,
+        "endTime": 48660
+      },
+      {
+        "token": "circule",
+        "startTime": 48660,
+        "endTime": 49040
+      },
+      {
+        "token": "en",
+        "startTime": 49040,
+        "endTime": 49200
+      },
+      {
+        "token": "Belgique,",
+        "startTime": 49200,
+        "endTime": 50000
+      },
+      {
+        "token": "qu'il",
+        "startTime": 50000,
+        "endTime": 50160
+      },
+      {
+        "token": "soit",
+        "startTime": 50160,
+        "endTime": 50380
+      },
+      {
+        "token": "immatriculé",
+        "startTime": 50380,
+        "endTime": 50960
+      },
+      {
+        "token": "ici",
+        "startTime": 50960,
+        "endTime": 51380
+      },
+      {
+        "token": "ou",
+        "startTime": 51380,
+        "endTime": 52020
+      },
+      {
+        "token": "à",
+        "startTime": 52020,
+        "endTime": 52160
+      },
+      {
+        "token": "l'étranger.",
+        "startTime": 52160,
+        "endTime": 52700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Oui, j'espère qu'ils vont faire ça pour la réparation des routes.",
+    "translations": {
+      "en": "Yes, I hope they'll do this for road repairs."
+    },
+    "segments": [
+      {
+        "token": "Oui,",
+        "startTime": 52700,
+        "endTime": 53000
+      },
+      {
+        "token": "j'espère",
+        "startTime": 53000,
+        "endTime": 53260
+      },
+      {
+        "token": "qu'ils",
+        "startTime": 53260,
+        "endTime": 53540
+      },
+      {
+        "token": "vont",
+        "startTime": 53540,
+        "endTime": 53740
+      },
+      {
+        "token": "faire",
+        "startTime": 53740,
+        "endTime": 53960
+      },
+      {
+        "token": "ça",
+        "startTime": 53960,
+        "endTime": 54180
+      },
+      {
+        "token": "pour",
+        "startTime": 54180,
+        "endTime": 54420
+      },
+      {
+        "token": "la",
+        "startTime": 54420,
+        "endTime": 55320
+      },
+      {
+        "token": "réparation",
+        "startTime": 55320,
+        "endTime": 55860
+      },
+      {
+        "token": "des",
+        "startTime": 55860,
+        "endTime": 56400
+      },
+      {
+        "token": "routes.",
+        "startTime": 56400,
+        "endTime": 56980
+      }
+    ]
+  },
+  {
+    "sentence_text": "Fiscalement, si on met cette vignette-là et qu'on retire autre chose, c'est pareil,",
+    "translations": {
+      "en": "Fiscally, if they introduce this vignette and remove something else, it's the same,"
+    },
+    "segments": [
+      {
+        "token": "Fiscalement,",
+        "startTime": 56980,
+        "endTime": 58420
+      },
+      {
+        "token": "si",
+        "startTime": 58420,
+        "endTime": 58520
+      },
+      {
+        "token": "on",
+        "startTime": 58520,
+        "endTime": 58720
+      },
+      {
+        "token": "met",
+        "startTime": 58720,
+        "endTime": 58860
+      },
+      {
+        "token": "cette",
+        "startTime": 58860,
+        "endTime": 59040
+      },
+      {
+        "token": "vignette-là",
+        "startTime": 59040,
+        "endTime": 59640
+      },
+      {
+        "token": "et",
+        "startTime": 59640,
+        "endTime": 60360
+      },
+      {
+        "token": "qu'on",
+        "startTime": 60360,
+        "endTime": 60660
+      },
+      {
+        "token": "retire",
+        "startTime": 60660,
+        "endTime": 60980
+      },
+      {
+        "token": "autre",
+        "startTime": 60980,
+        "endTime": 61220
+      },
+      {
+        "token": "chose,",
+        "startTime": 61220,
+        "endTime": 61760
+      },
+      {
+        "token": "c'est",
+        "startTime": 61760,
+        "endTime": 62780
+      },
+      {
+        "token": "pareil,",
+        "startTime": 62780,
+        "endTime": 63640
+      }
+    ]
+  },
+  {
+    "sentence_text": "ça fait pouf.",
+    "translations": {
+      "en": "It goes poof."
+    },
+    "segments": [
+      {
+        "token": "ça",
+        "startTime": 63640,
+        "endTime": 63700
+      },
+      {
+        "token": "fait",
+        "startTime": 63700,
+        "endTime": 64500
+      },
+      {
+        "token": "pouf.",
+        "startTime": 64500,
+        "endTime": 65379
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pouf, c'est la promesse des régions.",
+    "translations": {
+      "en": "Poof, that's the promise of the regions."
+    },
+    "segments": [
+      {
+        "token": "Pouf,",
+        "startTime": 65379,
+        "endTime": 65960
+      },
+      {
+        "token": "c'est",
+        "startTime": 65960,
+        "endTime": 66220
+      },
+      {
+        "token": "la",
+        "startTime": 66220,
+        "endTime": 66320
+      },
+      {
+        "token": "promesse",
+        "startTime": 66320,
+        "endTime": 66720
+      },
+      {
+        "token": "des",
+        "startTime": 66720,
+        "endTime": 66900
+      },
+      {
+        "token": "régions.",
+        "startTime": 66900,
+        "endTime": 66900
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ce que vous payerez ici, vous devriez le récupérer ailleurs,",
+    "translations": {
+      "en": "What you pay here, you should get back elsewhere,"
+    },
+    "segments": [
+      {
+        "token": "Ce",
+        "startTime": 66900,
+        "endTime": 67700
+      },
+      {
+        "token": "que",
+        "startTime": 67700,
+        "endTime": 67840
+      },
+      {
+        "token": "vous",
+        "startTime": 67840,
+        "endTime": 67980
+      },
+      {
+        "token": "payerez",
+        "startTime": 67980,
+        "endTime": 68340
+      },
+      {
+        "token": "ici,",
+        "startTime": 68340,
+        "endTime": 68820
+      },
+      {
+        "token": "vous",
+        "startTime": 68820,
+        "endTime": 69140
+      },
+      {
+        "token": "devriez",
+        "startTime": 69140,
+        "endTime": 69640
+      },
+      {
+        "token": "le",
+        "startTime": 69640,
+        "endTime": 69720
+      },
+      {
+        "token": "récupérer",
+        "startTime": 69720,
+        "endTime": 70260
+      },
+      {
+        "token": "ailleurs,",
+        "startTime": 70260,
+        "endTime": 70340
+      }
+    ]
+  },
+  {
+    "sentence_text": "par exemple sur la taxe de mise en circulation.",
+    "translations": {
+      "en": "for example on the registration tax."
+    },
+    "segments": [
+      {
+        "token": "par",
+        "startTime": 70340,
+        "endTime": 71020
+      },
+      {
+        "token": "exemple",
+        "startTime": 71020,
+        "endTime": 71400
+      },
+      {
+        "token": "sur",
+        "startTime": 71400,
+        "endTime": 71740
+      },
+      {
+        "token": "la",
+        "startTime": 71740,
+        "endTime": 71880
+      },
+      {
+        "token": "taxe",
+        "startTime": 71880,
+        "endTime": 72160
+      },
+      {
+        "token": "de",
+        "startTime": 72160,
+        "endTime": 72280
+      },
+      {
+        "token": "mise",
+        "startTime": 72280,
+        "endTime": 72440
+      },
+      {
+        "token": "en",
+        "startTime": 72440,
+        "endTime": 72580
+      },
+      {
+        "token": "circulation.",
+        "startTime": 72580,
+        "endTime": 73320
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mais l'association Touring n'y croit pas.",
+    "translations": {
+      "en": "But the Touring association doesn't believe it."
+    },
+    "segments": [
+      {
+        "token": "Mais",
+        "startTime": 73320,
+        "endTime": 73840
+      },
+      {
+        "token": "l'association",
+        "startTime": 73840,
+        "endTime": 74520
+      },
+      {
+        "token": "Touring",
+        "startTime": 74520,
+        "endTime": 74900
+      },
+      {
+        "token": "n'y",
+        "startTime": 74900,
+        "endTime": 75100
+      },
+      {
+        "token": "croit",
+        "startTime": 75100,
+        "endTime": 75320
+      },
+      {
+        "token": "pas.",
+        "startTime": 75320,
+        "endTime": 75760
+      }
+    ]
+  },
+  {
+    "sentence_text": "Puisque pour certains véhicules, aujourd'hui, la taxe de circulation annuelle est déjà très basse,",
+    "translations": {
+      "en": "Since for some vehicles, today, the annual road tax is already very low,"
+    },
+    "segments": [
+      {
+        "token": "Puisque",
+        "startTime": 75760,
+        "endTime": 76120
+      },
+      {
+        "token": "pour",
+        "startTime": 76120,
+        "endTime": 76220
+      },
+      {
+        "token": "certains",
+        "startTime": 76220,
+        "endTime": 76500
+      },
+      {
+        "token": "véhicules,",
+        "startTime": 76500,
+        "endTime": 77140
+      },
+      {
+        "token": "aujourd'hui,",
+        "startTime": 77140,
+        "endTime": 77580
+      },
+      {
+        "token": "la",
+        "startTime": 77580,
+        "endTime": 77960
+      },
+      {
+        "token": "taxe",
+        "startTime": 77960,
+        "endTime": 78180
+      },
+      {
+        "token": "de",
+        "startTime": 78180,
+        "endTime": 78260
+      },
+      {
+        "token": "circulation",
+        "startTime": 78260,
+        "endTime": 78660
+      },
+      {
+        "token": "annuelle",
+        "startTime": 78660,
+        "endTime": 78820
+      },
+      {
+        "token": "est",
+        "startTime": 78820,
+        "endTime": 79300
+      },
+      {
+        "token": "déjà",
+        "startTime": 79300,
+        "endTime": 79440
+      },
+      {
+        "token": "très",
+        "startTime": 79440,
+        "endTime": 79710
+      },
+      {
+        "token": "basse,",
+        "startTime": 79710,
+        "endTime": 80050
+      }
+    ]
+  },
+  {
+    "sentence_text": "elle est même parfois plus basse que le prix annoncé pour la vignette.",
+    "translations": {
+      "en": "it's even sometimes lower than the announced price for the vignette."
+    },
+    "segments": [
+      {
+        "token": "elle",
+        "startTime": 80050,
+        "endTime": 80190
+      },
+      {
+        "token": "est",
+        "startTime": 80190,
+        "endTime": 80570
+      },
+      {
+        "token": "même",
+        "startTime": 80570,
+        "endTime": 80770
+      },
+      {
+        "token": "parfois",
+        "startTime": 80770,
+        "endTime": 81470
+      },
+      {
+        "token": "plus",
+        "startTime": 81470,
+        "endTime": 81710
+      },
+      {
+        "token": "basse",
+        "startTime": 81710,
+        "endTime": 82070
+      },
+      {
+        "token": "que",
+        "startTime": 82070,
+        "endTime": 82510
+      },
+      {
+        "token": "le",
+        "startTime": 82510,
+        "endTime": 82830
+      },
+      {
+        "token": "prix",
+        "startTime": 82830,
+        "endTime": 83050
+      },
+      {
+        "token": "annoncé",
+        "startTime": 83050,
+        "endTime": 83590
+      },
+      {
+        "token": "pour",
+        "startTime": 83590,
+        "endTime": 84250
+      },
+      {
+        "token": "la",
+        "startTime": 84250,
+        "endTime": 84470
+      },
+      {
+        "token": "vignette.",
+        "startTime": 84470,
+        "endTime": 85350
+      }
+    ]
+  },
+  {
+    "sentence_text": "Alors que fera la Wallonie ?",
+    "translations": {
+      "en": "So what will Wallonia do?"
+    },
+    "segments": [
+      {
+        "token": "Alors",
+        "startTime": 85350,
+        "endTime": 85550
+      },
+      {
+        "token": "que",
+        "startTime": 85550,
+        "endTime": 85790
+      },
+      {
+        "token": "fera",
+        "startTime": 85790,
+        "endTime": 86070
+      },
+      {
+        "token": "la",
+        "startTime": 86070,
+        "endTime": 86270
+      },
+      {
+        "token": "Wallonie",
+        "startTime": 86270,
+        "endTime": 86270
+      },
+      {
+        "token": "?",
+        "startTime": 86270,
+        "endTime": 86790
+      }
+    ]
+  },
+  {
+    "sentence_text": "On ne sait pas.",
+    "translations": {
+      "en": "We don't know."
+    },
+    "segments": [
+      {
+        "token": "On",
+        "startTime": 86790,
+        "endTime": 86990
+      },
+      {
+        "token": "ne",
+        "startTime": 86990,
+        "endTime": 87130
+      },
+      {
+        "token": "sait",
+        "startTime": 87130,
+        "endTime": 87230
+      },
+      {
+        "token": "pas.",
+        "startTime": 87230,
+        "endTime": 87830
+      }
+    ]
+  },
+  {
+    "sentence_text": "Parce qu'avec ce système, les étrangers seraient les seuls à vraiment payer.",
+    "translations": {
+      "en": "Because with this system, foreigners would be the only ones to really pay."
+    },
+    "segments": [
+      {
+        "token": "Parce",
+        "startTime": 87830,
+        "endTime": 88010
+      },
+      {
+        "token": "qu'avec",
+        "startTime": 88010,
+        "endTime": 88290
+      },
+      {
+        "token": "ce",
+        "startTime": 88290,
+        "endTime": 88490
+      },
+      {
+        "token": "système,",
+        "startTime": 88490,
+        "endTime": 89070
+      },
+      {
+        "token": "les",
+        "startTime": 89070,
+        "endTime": 89390
+      },
+      {
+        "token": "étrangers",
+        "startTime": 89390,
+        "endTime": 89790
+      },
+      {
+        "token": "seraient",
+        "startTime": 89790,
+        "endTime": 90050
+      },
+      {
+        "token": "les",
+        "startTime": 90050,
+        "endTime": 90210
+      },
+      {
+        "token": "seuls",
+        "startTime": 90210,
+        "endTime": 90430
+      },
+      {
+        "token": "à",
+        "startTime": 90430,
+        "endTime": 90570
+      },
+      {
+        "token": "vraiment",
+        "startTime": 90570,
+        "endTime": 90890
+      },
+      {
+        "token": "payer.",
+        "startTime": 90890,
+        "endTime": 91670
+      }
+    ]
+  },
+  {
+    "sentence_text": "Et ça, ce serait une forme de discrimination.",
+    "translations": {
+      "en": "And that would be a form of discrimination."
+    },
+    "segments": [
+      {
+        "token": "Et",
+        "startTime": 91670,
+        "endTime": 91810
+      },
+      {
+        "token": "ça,",
+        "startTime": 91810,
+        "endTime": 92070
+      },
+      {
+        "token": "ce",
+        "startTime": 92070,
+        "endTime": 92370
+      },
+      {
+        "token": "serait",
+        "startTime": 92370,
+        "endTime": 92590
+      },
+      {
+        "token": "une",
+        "startTime": 92590,
+        "endTime": 92710
+      },
+      {
+        "token": "forme",
+        "startTime": 92710,
+        "endTime": 92890
+      },
+      {
+        "token": "de",
+        "startTime": 92890,
+        "endTime": 93030
+      },
+      {
+        "token": "discrimination.",
+        "startTime": 93030,
+        "endTime": 94010
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nous allons aller vers les services de la Commission européenne pour expliquer comment",
+    "translations": {
+      "en": "We will go to the European Commission services to explain how"
+    },
+    "segments": [
+      {
+        "token": "Nous",
+        "startTime": 94010,
+        "endTime": 94190
+      },
+      {
+        "token": "allons",
+        "startTime": 94190,
+        "endTime": 94370
+      },
+      {
+        "token": "aller",
+        "startTime": 94370,
+        "endTime": 94510
+      },
+      {
+        "token": "vers",
+        "startTime": 94510,
+        "endTime": 95070
+      },
+      {
+        "token": "les",
+        "startTime": 95070,
+        "endTime": 95170
+      },
+      {
+        "token": "services",
+        "startTime": 95170,
+        "endTime": 95450
+      },
+      {
+        "token": "de",
+        "startTime": 95450,
+        "endTime": 95610
+      },
+      {
+        "token": "la",
+        "startTime": 95610,
+        "endTime": 95690
+      },
+      {
+        "token": "Commission",
+        "startTime": 95690,
+        "endTime": 95910
+      },
+      {
+        "token": "européenne",
+        "startTime": 95910,
+        "endTime": 96390
+      },
+      {
+        "token": "pour",
+        "startTime": 96390,
+        "endTime": 96530
+      },
+      {
+        "token": "expliquer",
+        "startTime": 96530,
+        "endTime": 96930
+      },
+      {
+        "token": "comment",
+        "startTime": 96930,
+        "endTime": 97470
+      }
+    ]
+  },
+  {
+    "sentence_text": "nous souhaitons faire pour à la fois respecter les règles européennes,",
+    "translations": {
+      "en": "we wish to proceed to both respect European rules,"
+    },
+    "segments": [
+      {
+        "token": "nous",
+        "startTime": 97470,
+        "endTime": 97690
+      },
+      {
+        "token": "souhaitons",
+        "startTime": 97690,
+        "endTime": 98090
+      },
+      {
+        "token": "faire",
+        "startTime": 98090,
+        "endTime": 98270
+      },
+      {
+        "token": "pour",
+        "startTime": 98270,
+        "endTime": 99030
+      },
+      {
+        "token": "à",
+        "startTime": 99030,
+        "endTime": 99490
+      },
+      {
+        "token": "la",
+        "startTime": 99490,
+        "endTime": 99930
+      },
+      {
+        "token": "fois",
+        "startTime": 99930,
+        "endTime": 100150
+      },
+      {
+        "token": "respecter",
+        "startTime": 100150,
+        "endTime": 101070
+      },
+      {
+        "token": "les",
+        "startTime": 101070,
+        "endTime": 101210
+      },
+      {
+        "token": "règles",
+        "startTime": 101210,
+        "endTime": 101450
+      },
+      {
+        "token": "européennes,",
+        "startTime": 101450,
+        "endTime": 102250
+      }
+    ]
+  },
+  {
+    "sentence_text": "pas de discrimination entre les usagers,",
+    "translations": {
+      "en": "no discrimination between users,"
+    },
+    "segments": [
+      {
+        "token": "pas",
+        "startTime": 102250,
+        "endTime": 102350
+      },
+      {
+        "token": "de",
+        "startTime": 102350,
+        "endTime": 102470
+      },
+      {
+        "token": "discrimination",
+        "startTime": 102470,
+        "endTime": 102850
+      },
+      {
+        "token": "entre",
+        "startTime": 102850,
+        "endTime": 103290
+      },
+      {
+        "token": "les",
+        "startTime": 103290,
+        "endTime": 103450
+      },
+      {
+        "token": "usagers,",
+        "startTime": 103450,
+        "endTime": 104230
+      }
+    ]
+  },
+  {
+    "sentence_text": "et à la fois s'assurer qu'on ne vienne pas alourdir",
+    "translations": {
+      "en": "and at the same time ensure we don't increase"
+    },
+    "segments": [
+      {
+        "token": "et",
+        "startTime": 104230,
+        "endTime": 104350
+      },
+      {
+        "token": "à",
+        "startTime": 104350,
+        "endTime": 104430
+      },
+      {
+        "token": "la",
+        "startTime": 104430,
+        "endTime": 104550
+      },
+      {
+        "token": "fois",
+        "startTime": 104550,
+        "endTime": 104750
+      },
+      {
+        "token": "s'assurer",
+        "startTime": 104750,
+        "endTime": 105390
+      },
+      {
+        "token": "qu'on",
+        "startTime": 105390,
+        "endTime": 105950
+      },
+      {
+        "token": "ne",
+        "startTime": 105950,
+        "endTime": 106090
+      },
+      {
+        "token": "vienne",
+        "startTime": 106090,
+        "endTime": 106190
+      },
+      {
+        "token": "pas",
+        "startTime": 106190,
+        "endTime": 106350
+      },
+      {
+        "token": "alourdir",
+        "startTime": 106350,
+        "endTime": 107130
+      }
+    ]
+  },
+  {
+    "sentence_text": "la charge sur les automobilistes qui vivent en Wallonie.",
+    "translations": {
+      "en": "the burden on motorists living in Wallonia."
+    },
+    "segments": [
+      {
+        "token": "la",
+        "startTime": 107130,
+        "endTime": 107430
+      },
+      {
+        "token": "charge",
+        "startTime": 107430,
+        "endTime": 107690
+      },
+      {
+        "token": "sur",
+        "startTime": 107690,
+        "endTime": 108110
+      },
+      {
+        "token": "les",
+        "startTime": 108110,
+        "endTime": 108210
+      },
+      {
+        "token": "automobilistes",
+        "startTime": 108210,
+        "endTime": 108890
+      },
+      {
+        "token": "qui",
+        "startTime": 108890,
+        "endTime": 109370
+      },
+      {
+        "token": "vivent",
+        "startTime": 109370,
+        "endTime": 109910
+      },
+      {
+        "token": "en",
+        "startTime": 109910,
+        "endTime": 110090
+      },
+      {
+        "token": "Wallonie.",
+        "startTime": 110090,
+        "endTime": 110730
+      }
+    ]
+  },
+  {
+    "sentence_text": "Par contre, côté Flamand, on a trouvé.",
+    "translations": {
+      "en": "On the other hand, on the Flemish side, they've found a solution."
+    },
+    "segments": [
+      {
+        "token": "Par",
+        "startTime": 110730,
+        "endTime": 110930
+      },
+      {
+        "token": "contre,",
+        "startTime": 110930,
+        "endTime": 111350
+      },
+      {
+        "token": "côté",
+        "startTime": 111350,
+        "endTime": 111590
+      },
+      {
+        "token": "Flamand,",
+        "startTime": 111590,
+        "endTime": 112070
+      },
+      {
+        "token": "on",
+        "startTime": 112070,
+        "endTime": 112250
+      },
+      {
+        "token": "a",
+        "startTime": 112250,
+        "endTime": 112410
+      },
+      {
+        "token": "trouvé.",
+        "startTime": 112410,
+        "endTime": 112810
+      }
+    ]
+  },
+  {
+    "sentence_text": "La fiscalité automobile est revue et certains Flamands vont le payer.",
+    "translations": {
+      "en": "Car taxation is being revised and some Flemish people will pay for it."
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 112810,
+        "endTime": 113130
+      },
+      {
+        "token": "fiscalité",
+        "startTime": 113130,
+        "endTime": 113810
+      },
+      {
+        "token": "automobile",
+        "startTime": 113810,
+        "endTime": 114170
+      },
+      {
+        "token": "est",
+        "startTime": 114170,
+        "endTime": 114450
+      },
+      {
+        "token": "revue",
+        "startTime": 114450,
+        "endTime": 114710
+      },
+      {
+        "token": "et",
+        "startTime": 114710,
+        "endTime": 115110
+      },
+      {
+        "token": "certains",
+        "startTime": 115110,
+        "endTime": 115550
+      },
+      {
+        "token": "Flamands",
+        "startTime": 115550,
+        "endTime": 115950
+      },
+      {
+        "token": "vont",
+        "startTime": 115950,
+        "endTime": 116150
+      },
+      {
+        "token": "le",
+        "startTime": 116150,
+        "endTime": 116290
+      },
+      {
+        "token": "payer.",
+        "startTime": 116290,
+        "endTime": 116910
+      }
+    ]
+  },
+  {
+    "sentence_text": "On doit être honnête, si un",
+    "translations": {
+      "en": "We must be honest, if a"
+    },
+    "segments": [
+      {
+        "token": "On",
+        "startTime": 116910,
+        "endTime": 117030
+      },
+      {
+        "token": "doit",
+        "startTime": 117030,
+        "endTime": 117110
+      },
+      {
+        "token": "être",
+        "startTime": 117110,
+        "endTime": 117230
+      },
+      {
+        "token": "honnête,",
+        "startTime": 117230,
+        "endTime": 117670
+      },
+      {
+        "token": "si",
+        "startTime": 117670,
+        "endTime": 117750
+      },
+      {
+        "token": "un",
+        "startTime": 117750,
+        "endTime": 118850
+      }
+    ]
+  },
+  {
+    "sentence_text": "système de la vie de la vie va changer avec de nouveaux paramètres,",
+    "translations": {
+      "en": "system of life will change with new parameters,"
+    },
+    "segments": [
+      {
+        "token": "système",
+        "startTime": 118850,
+        "endTime": 119530
+      },
+      {
+        "token": "de",
+        "startTime": 119530,
+        "endTime": 120010
+      },
+      {
+        "token": "la",
+        "startTime": 120010,
+        "endTime": 120050
+      },
+      {
+        "token": "vie",
+        "startTime": 120050,
+        "endTime": 120210
+      },
+      {
+        "token": "de",
+        "startTime": 120210,
+        "endTime": 120750
+      },
+      {
+        "token": "la",
+        "startTime": 120750,
+        "endTime": 120830
+      },
+      {
+        "token": "vie",
+        "startTime": 120830,
+        "endTime": 120850
+      },
+      {
+        "token": "va",
+        "startTime": 120850,
+        "endTime": 121490
+      },
+      {
+        "token": "changer",
+        "startTime": 121490,
+        "endTime": 122150
+      },
+      {
+        "token": "avec",
+        "startTime": 122150,
+        "endTime": 122610
+      },
+      {
+        "token": "de",
+        "startTime": 122610,
+        "endTime": 122730
+      },
+      {
+        "token": "nouveaux",
+        "startTime": 122730,
+        "endTime": 122870
+      },
+      {
+        "token": "paramètres,",
+        "startTime": 122870,
+        "endTime": 123610
+      }
+    ]
+  },
+  {
+    "sentence_text": "qui sont bien un peu plus et plus plus plus,",
+    "translations": {
+      "en": "which are a bit more and more and more,"
+    },
+    "segments": [
+      {
+        "token": "qui",
+        "startTime": 123610,
+        "endTime": 123730
+      },
+      {
+        "token": "sont",
+        "startTime": 123730,
+        "endTime": 123930
+      },
+      {
+        "token": "bien",
+        "startTime": 123930,
+        "endTime": 124050
+      },
+      {
+        "token": "un",
+        "startTime": 124050,
+        "endTime": 124070
+      },
+      {
+        "token": "peu",
+        "startTime": 124070,
+        "endTime": 124310
+      },
+      {
+        "token": "plus",
+        "startTime": 124310,
+        "endTime": 124330
+      },
+      {
+        "token": "et",
+        "startTime": 124330,
+        "endTime": 124650
+      },
+      {
+        "token": "plus",
+        "startTime": 124650,
+        "endTime": 124750
+      },
+      {
+        "token": "plus",
+        "startTime": 124750,
+        "endTime": 124930
+      },
+      {
+        "token": "plus,",
+        "startTime": 124930,
+        "endTime": 125370
+      }
+    ]
+  },
+  {
+    "sentence_text": "ça va toujours être le donnant à winners et losers.",
+    "translations": {
+      "en": "it will always be a matter of winners and losers."
+    },
+    "segments": [
+      {
+        "token": "ça",
+        "startTime": 125370,
+        "endTime": 126030
+      },
+      {
+        "token": "va",
+        "startTime": 126030,
+        "endTime": 126150
+      },
+      {
+        "token": "toujours",
+        "startTime": 126150,
+        "endTime": 126570
+      },
+      {
+        "token": "être",
+        "startTime": 126570,
+        "endTime": 126770
+      },
+      {
+        "token": "le",
+        "startTime": 126770,
+        "endTime": 126790
+      },
+      {
+        "token": "donnant",
+        "startTime": 126790,
+        "endTime": 126890
+      },
+      {
+        "token": "à",
+        "startTime": 126890,
+        "endTime": 127190
+      },
+      {
+        "token": "winners",
+        "startTime": 127190,
+        "endTime": 127290
+      },
+      {
+        "token": "et",
+        "startTime": 127290,
+        "endTime": 127610
+      },
+      {
+        "token": "losers.",
+        "startTime": 127610,
+        "endTime": 128390
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nous s'assurons pour que le volet sera épargné jusqu'à la prix du vignette.",
+    "translations": {
+      "en": "We ensure that the component will be spared up to the price of the sticker."
+    },
+    "segments": [
+      {
+        "token": "Nous",
+        "startTime": 128390,
+        "endTime": 128530
+      },
+      {
+        "token": "s'assurons",
+        "startTime": 128530,
+        "endTime": 129490
+      },
+      {
+        "token": "pour",
+        "startTime": 129490,
+        "endTime": 129650
+      },
+      {
+        "token": "que",
+        "startTime": 129650,
+        "endTime": 129890
+      },
+      {
+        "token": "le",
+        "startTime": 129890,
+        "endTime": 130110
+      },
+      {
+        "token": "volet",
+        "startTime": 130110,
+        "endTime": 130290
+      },
+      {
+        "token": "sera",
+        "startTime": 130290,
+        "endTime": 130510
+      },
+      {
+        "token": "épargné",
+        "startTime": 130510,
+        "endTime": 130790
+      },
+      {
+        "token": "jusqu'à",
+        "startTime": 130790,
+        "endTime": 131450
+      },
+      {
+        "token": "la",
+        "startTime": 131450,
+        "endTime": 132170
+      },
+      {
+        "token": "prix",
+        "startTime": 132170,
+        "endTime": 132410
+      },
+      {
+        "token": "du",
+        "startTime": 132410,
+        "endTime": 132750
+      },
+      {
+        "token": "vignette.",
+        "startTime": 132750,
+        "endTime": 133250
+      }
+    ]
+  },
+  {
+    "sentence_text": "Donc, maximale, 100 euros.",
+    "translations": {
+      "en": "So, maximum, 100 euros."
+    },
+    "segments": [
+      {
+        "token": "Donc,",
+        "startTime": 133250,
+        "endTime": 133650
+      },
+      {
+        "token": "maximale,",
+        "startTime": 133650,
+        "endTime": 133990
+      },
+      {
+        "token": "100",
+        "startTime": 133990,
+        "endTime": 134610
+      },
+      {
+        "token": "euros.",
+        "startTime": 134610,
+        "endTime": 135530
+      }
+    ]
+  },
+  {
+    "sentence_text": "Les régions ne devraient donc percevoir des recettes que sur les voitures étrangères",
+    "translations": {
+      "en": "The regions should therefore only collect revenue from foreign cars"
+    },
+    "segments": [
+      {
+        "token": "Les",
+        "startTime": 135530,
+        "endTime": 135710
+      },
+      {
+        "token": "régions",
+        "startTime": 135710,
+        "endTime": 136010
+      },
+      {
+        "token": "ne",
+        "startTime": 136010,
+        "endTime": 136190
+      },
+      {
+        "token": "devraient",
+        "startTime": 136190,
+        "endTime": 136390
+      },
+      {
+        "token": "donc",
+        "startTime": 136390,
+        "endTime": 136530
+      },
+      {
+        "token": "percevoir",
+        "startTime": 136530,
+        "endTime": 137070
+      },
+      {
+        "token": "des",
+        "startTime": 137070,
+        "endTime": 137250
+      },
+      {
+        "token": "recettes",
+        "startTime": 137250,
+        "endTime": 137610
+      },
+      {
+        "token": "que",
+        "startTime": 137610,
+        "endTime": 137850
+      },
+      {
+        "token": "sur",
+        "startTime": 137850,
+        "endTime": 138110
+      },
+      {
+        "token": "les",
+        "startTime": 138110,
+        "endTime": 138250
+      },
+      {
+        "token": "voitures",
+        "startTime": 138250,
+        "endTime": 138610
+      },
+      {
+        "token": "étrangères",
+        "startTime": 138610,
+        "endTime": 139410
+      }
+    ]
+  },
+  {
+    "sentence_text": "et les voitures de leasing.",
+    "translations": {
+      "en": "and leasing cars."
+    },
+    "segments": [
+      {
+        "token": "et",
+        "startTime": 139410,
+        "endTime": 139690
+      },
+      {
+        "token": "les",
+        "startTime": 139690,
+        "endTime": 139850
+      },
+      {
+        "token": "voitures",
+        "startTime": 139850,
+        "endTime": 140130
+      },
+      {
+        "token": "de",
+        "startTime": 140130,
+        "endTime": 140250
+      },
+      {
+        "token": "leasing.",
+        "startTime": 140250,
+        "endTime": 141010
+      }
+    ]
+  },
+  {
+    "sentence_text": "Wallonie et Flandre espèrent ainsi toucher 130 millions d'euros chacune.",
+    "translations": {
+      "en": "Wallonia and Flanders thus hope to receive 130 million euros each."
+    },
+    "segments": [
+      {
+        "token": "Wallonie",
+        "startTime": 141010,
+        "endTime": 141370
+      },
+      {
+        "token": "et",
+        "startTime": 141370,
+        "endTime": 141530
+      },
+      {
+        "token": "Flandre",
+        "startTime": 141530,
+        "endTime": 141850
+      },
+      {
+        "token": "espèrent",
+        "startTime": 141850,
+        "endTime": 142170
+      },
+      {
+        "token": "ainsi",
+        "startTime": 142170,
+        "endTime": 142370
+      },
+      {
+        "token": "toucher",
+        "startTime": 142370,
+        "endTime": 142790
+      },
+      {
+        "token": "130",
+        "startTime": 142790,
+        "endTime": 143310
+      },
+      {
+        "token": "millions",
+        "startTime": 143310,
+        "endTime": 143810
+      },
+      {
+        "token": "d'euros",
+        "startTime": 143810,
+        "endTime": 144130
+      },
+      {
+        "token": "chacune.",
+        "startTime": 144130,
+        "endTime": 145090
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quant à Bruxelles, on ne sait pas, le ministre n'était pas là.",
+    "translations": {
+      "en": "As for Brussels, we don't know, the minister wasn't there."
+    },
+    "segments": [
+      {
+        "token": "Quant",
+        "startTime": 145090,
+        "endTime": 145250
+      },
+      {
+        "token": "à",
+        "startTime": 145250,
+        "endTime": 145370
+      },
+      {
+        "token": "Bruxelles,",
+        "startTime": 145370,
+        "endTime": 146170
+      },
+      {
+        "token": "on",
+        "startTime": 146170,
+        "endTime": 146330
+      },
+      {
+        "token": "ne",
+        "startTime": 146330,
+        "endTime": 146470
+      },
+      {
+        "token": "sait",
+        "startTime": 146470,
+        "endTime": 146590
+      },
+      {
+        "token": "pas,",
+        "startTime": 146590,
+        "endTime": 146890
+      },
+      {
+        "token": "le",
+        "startTime": 146890,
+        "endTime": 147250
+      },
+      {
+        "token": "ministre",
+        "startTime": 147250,
+        "endTime": 147610
+      },
+      {
+        "token": "n'était",
+        "startTime": 147610,
+        "endTime": 147890
+      },
+      {
+        "token": "pas",
+        "startTime": 147890,
+        "endTime": 148110
+      },
+      {
+        "token": "là.",
+        "startTime": 148110,
+        "endTime": 148250
+      }
+    ]
+  }
+]
