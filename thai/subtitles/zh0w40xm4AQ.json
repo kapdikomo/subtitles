@@ -1,10 +1,183 @@
 [
   {
-    "sentence_text": "yamelaareesamarn ลองดู น้ำ ใน แก้ว นี้ สิ",
-    "translations": {
-      "en": "yamelaareesamarnLook at this glass of water."
-    },
+    "sentence_text": "Translator: Waritsara Jitmun Reviewer: yamela areesamarn",
+    "translations": {},
     "segments": [
+      {
+        "token": "T",
+        "startTime": 0,
+        "endTime": 212
+      },
+      {
+        "token": "r",
+        "startTime": 212,
+        "endTime": 424
+      },
+      {
+        "token": "a",
+        "startTime": 424,
+        "endTime": 636
+      },
+      {
+        "token": "n",
+        "startTime": 636,
+        "endTime": 848
+      },
+      {
+        "token": "s",
+        "startTime": 848,
+        "endTime": 1061
+      },
+      {
+        "token": "l",
+        "startTime": 1061,
+        "endTime": 1273
+      },
+      {
+        "token": "a",
+        "startTime": 1273,
+        "endTime": 1485
+      },
+      {
+        "token": "t",
+        "startTime": 1485,
+        "endTime": 1697
+      },
+      {
+        "token": "o",
+        "startTime": 1697,
+        "endTime": 1909
+      },
+      {
+        "token": "r",
+        "startTime": 1909,
+        "endTime": 2121
+      },
+      {
+        "token": ":",
+        "startTime": 2121,
+        "endTime": 2333
+      },
+      {
+        "token": "W",
+        "startTime": 2333,
+        "endTime": 2593
+      },
+      {
+        "token": "a",
+        "startTime": 2593,
+        "endTime": 2852
+      },
+      {
+        "token": "r",
+        "startTime": 2852,
+        "endTime": 3111
+      },
+      {
+        "token": "i",
+        "startTime": 3111,
+        "endTime": 3370
+      },
+      {
+        "token": "t",
+        "startTime": 3370,
+        "endTime": 3630
+      },
+      {
+        "token": "s",
+        "startTime": 3630,
+        "endTime": 3889
+      },
+      {
+        "token": "a",
+        "startTime": 3889,
+        "endTime": 4148
+      },
+      {
+        "token": "r",
+        "startTime": 4148,
+        "endTime": 4407
+      },
+      {
+        "token": "a",
+        "startTime": 4407,
+        "endTime": 4667
+      },
+      {
+        "token": "J",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "i",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "t",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "m",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "u",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "n",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "R",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "e",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "v",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "i",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "e",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "w",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "e",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": "r",
+        "startTime": 4667,
+        "endTime": 4667
+      },
+      {
+        "token": ":",
+        "startTime": 4667,
+        "endTime": 4667
+      },
       {
         "token": "y",
         "startTime": 4667,
@@ -84,7 +257,13 @@
         "token": "n",
         "startTime": 7724,
         "endTime": 8064
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ลองดูน้ำในแก้วนี้สิ",
+    "translations": {},
+    "segments": [
       {
         "token": "ล",
         "startTime": 8064,
@@ -183,10 +362,8 @@
     ]
   },
   {
-    "sentence_text": "เย็น ชื่นใจ ชุ่มชื่น",
-    "translations": {
-      "en": "Cool, refreshing, and soothing."
-    },
+    "sentence_text": "เย็นชื่นใจ ชุ่มชื่น และมีคุณค่าอย่างยิ่ง ต่อการดำรงชีวิตของเรา",
+    "translations": {},
     "segments": [
       {
         "token": "เ",
@@ -277,15 +454,7 @@
         "token": "น",
         "startTime": 12951,
         "endTime": 13107
-      }
-    ]
-  },
-  {
-    "sentence_text": "และ มีคุณค่า อย่างยิ่ง ต่อ การดำรงชีวิต ของ เรา",
-    "translations": {
-      "en": "And it is extremely valuable for our survival."
-    },
-    "segments": [
+      },
       {
         "token": "แ",
         "startTime": 13107,
@@ -494,10 +663,8 @@
     ]
   },
   {
-    "sentence_text": "อย่างไรก็ตาม แต่ก่อน ดื่ม",
-    "translations": {
-      "en": "However, before drinking,"
-    },
+    "sentence_text": "อย่างไรก็ตาม แต่ก่อนดื่ม",
+    "translations": {},
     "segments": [
       {
         "token": "อ",
@@ -617,11 +784,159 @@
     ]
   },
   {
-    "sentence_text": "ปราศจาก จุลชีพ ก่อ โรค และ สิ่ง ปนเปื้อน ต่างๆ",
-    "translations": {
-      "en": "is free from disease-causing germs and contaminants?"
-    },
+    "sentence_text": "เราจะรู้ได้อย่างไรว่าน้ำในแก้ว ปราศจากจุลชีพก่อโรค",
+    "translations": {},
     "segments": [
+      {
+        "token": "เ",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ร",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "า",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "จ",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ะ",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ร",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ู",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "้",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ไ",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ด",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "้",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "อ",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ย",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "่",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "า",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ง",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ไ",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ร",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ว",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "่",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "า",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "น",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "้",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ำ",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ใ",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "น",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "แ",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ก",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "้",
+        "startTime": 15929,
+        "endTime": 15929
+      },
+      {
+        "token": "ว",
+        "startTime": 15929,
+        "endTime": 15929
+      },
       {
         "token": "ป",
         "startTime": 15929,
@@ -716,7 +1031,13 @@
         "token": "ค",
         "startTime": 20663,
         "endTime": 20926
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และสิ่งปนเปื้อนต่างๆ",
+    "translations": {},
+    "segments": [
       {
         "token": "แ",
         "startTime": 20926,
@@ -820,11 +1141,124 @@
     ]
   },
   {
-    "sentence_text": "จริงๆ แล้ว ไม่ สามารถ แน่ใจ ได้ เลย",
-    "translations": {
-      "en": "actually cannot be sure at all"
-    },
+    "sentence_text": "หนึ่งในสิบของผู้คนบนโลก จริง ๆ แล้ว ไม่สามารถแน่ใจได้เลย",
+    "translations": {},
     "segments": [
+      {
+        "token": "ห",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "น",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ึ",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "่",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ง",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ใ",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "น",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ส",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ิ",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "บ",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ข",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "อ",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ง",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ผ",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ู",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "้",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ค",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "น",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "บ",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "น",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "โ",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ล",
+        "startTime": 22589,
+        "endTime": 22589
+      },
+      {
+        "token": "ก",
+        "startTime": 22589,
+        "endTime": 22589
+      },
       {
         "token": "จ",
         "startTime": 22589,
@@ -973,10 +1407,8 @@
     ]
   },
   {
-    "sentence_text": "ว่า น้ำ ที่ เขา ใช้ อยู่ สะอาด และ ปลอดภัย",
-    "translations": {
-      "en": "whether the water they use is clean and safe"
-    },
+    "sentence_text": "ว่าน้ำที่เขาใช้อยู่สะอาด และปลอดภัยพอที่จะดื่มหรือไม่",
+    "translations": {},
     "segments": [
       {
         "token": "ว",
@@ -1147,15 +1579,7 @@
         "token": "ย",
         "startTime": 26504,
         "endTime": 26605
-      }
-    ]
-  },
-  {
-    "sentence_text": "พอที่จะ ดื่ม หรือไม่",
-    "translations": {
-      "en": "enough to drink."
-    },
-    "segments": [
+      },
       {
         "token": "พ",
         "startTime": 26605,
@@ -1249,10 +1673,8 @@
     ]
   },
   {
-    "sentence_text": "ทำไม จึง เป็น เช่นนั้น ล่ะ",
-    "translations": {
-      "en": "Why is that?"
-    },
+    "sentence_text": "ทำไมจึงเป็นเช่นนั้นล่ะ",
+    "translations": {},
     "segments": [
       {
         "token": "ท",
@@ -1367,10 +1789,8 @@
     ]
   },
   {
-    "sentence_text": "สุขอนามัย ที่ ไม่ เพียงพอ",
-    "translations": {
-      "en": "Inadequate sanitation,"
-    },
+    "sentence_text": "สุขอนามัยที่ไม่เพียงพอ",
+    "translations": {},
     "segments": [
       {
         "token": "ส",
@@ -1485,10 +1905,8 @@
     ]
   },
   {
-    "sentence_text": "การป้องกัน แหล่ง น้ำดื่ม ที่ ไม่ ดี",
-    "translations": {
-      "en": "poor protection of drinking water sources,"
-    },
+    "sentence_text": "การป้องกันแหล่งน้ำดื่มที่ไม่ดี",
+    "translations": {},
     "segments": [
       {
         "token": "ก",
@@ -1643,10 +2061,8 @@
     ]
   },
   {
-    "sentence_text": "และ สุขลักษณะ ที่ ไม่ เหมาะสม",
-    "translations": {
-      "en": "and improper hygiene"
-    },
+    "sentence_text": "และสุขลักษณะที่ไม่เหมาะสม",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -1776,11 +2192,114 @@
     ]
   },
   {
-    "sentence_text": "และ น้ำ ที่ ปนเปื้อน สิ่งปฏิกูล",
-    "translations": {
-      "en": "and water contaminated with waste,"
-    },
+    "sentence_text": "มักนำไปสู่น้ำเน่าเสีย และน้ำที่ปนเปื้อนสิ่งปฏิกูล",
+    "translations": {},
     "segments": [
+      {
+        "token": "ม",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "ั",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "ก",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "น",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "ำ",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "ไ",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "ป",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "ส",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "ู",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "่",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "น",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "้",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "ำ",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "เ",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "น",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "่",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "า",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "เ",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "ส",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "ี",
+        "startTime": 36655,
+        "endTime": 36655
+      },
+      {
+        "token": "ย",
+        "startTime": 36655,
+        "endTime": 36655
+      },
       {
         "token": "แ",
         "startTime": 36655,
@@ -1919,11 +2438,184 @@
     ]
   },
   {
-    "sentence_text": "ของ เชื้อ แบคทีเรีย อันตราย",
-    "translations": {
-      "en": "for dangerous bacteria,"
-    },
+    "sentence_text": "ซึ่งเป็นแหล่งแพร่พันธุ์ชั้นดีเยี่ยม ของเชื้อแบคทีเรียอันตราย",
+    "translations": {},
     "segments": [
+      {
+        "token": "ซ",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ึ",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "่",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ง",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "เ",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ป",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "็",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "น",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "แ",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ห",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ล",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "่",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ง",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "แ",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "พ",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ร",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "่",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "พ",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ั",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "น",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ธ",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ุ",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "์",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ช",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ั",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "้",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "น",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ด",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ี",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "เ",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ย",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ี",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "่",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ย",
+        "startTime": 40377,
+        "endTime": 40377
+      },
+      {
+        "token": "ม",
+        "startTime": 40377,
+        "endTime": 40377
+      },
       {
         "token": "ข",
         "startTime": 40377,
@@ -2047,10 +2739,8 @@
     ]
   },
   {
-    "sentence_text": "ไวรัส ปรสิต",
-    "translations": {
-      "en": "viruses, and parasites."
-    },
+    "sentence_text": "ไวรัส",
+    "translations": {},
     "segments": [
       {
         "token": "ไ",
@@ -2076,7 +2766,13 @@
         "token": "ส",
         "startTime": 44046,
         "endTime": 44258
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ปรสิต",
+    "translations": {},
+    "segments": [
       {
         "token": "ป",
         "startTime": 44258,
@@ -2105,11 +2801,164 @@
     ]
   },
   {
-    "sentence_text": "กำลัง สร้าง ความ ตื่นตกใจ เป็นอย่างมาก",
-    "translations": {
-      "en": "is causing great alarm."
-    },
+    "sentence_text": "และผลกระทบของจุลชีพก่อโรคพวกนี้ กำลังสร้างความตื่นตกใจเป็นอย่างมาก",
+    "translations": {},
     "segments": [
+      {
+        "token": "แ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ล",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ะ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ผ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ล",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ก",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ร",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ะ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ท",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "บ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ข",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "อ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ง",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "จ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ุ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ล",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ช",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ี",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "พ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ก",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "่",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "อ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "โ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ร",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ค",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "พ",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ว",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ก",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "น",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "ี",
+        "startTime": 45989,
+        "endTime": 45989
+      },
+      {
+        "token": "้",
+        "startTime": 45989,
+        "endTime": 45989
+      },
       {
         "token": "ก",
         "startTime": 45989,
@@ -2283,11 +3132,209 @@
     ]
   },
   {
-    "sentence_text": "คือ หนึ่ง ใน สาเหตุ หลัก ของ การ เสียชีวิต",
-    "translations": {
-      "en": "are one of the leading causes of death"
-    },
+    "sentence_text": "โรคอุจจาระร่วงที่เกิดจากน้ำที่ไม่ปลอดภัย คือหนึ่งในสาเหตุหลักของการเสียชีวิต",
+    "translations": {},
     "segments": [
+      {
+        "token": "โ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ร",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ค",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "อ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ุ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "จ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "จ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "า",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ร",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ะ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ร",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "่",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ว",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ง",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ท",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ี",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "่",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "เ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ก",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ิ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ด",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "จ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "า",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ก",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "น",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "้",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ำ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ท",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ี",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "่",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ไ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ม",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "่",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ป",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ล",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "อ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ด",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ภ",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ั",
+        "startTime": 49078,
+        "endTime": 49078
+      },
+      {
+        "token": "ย",
+        "startTime": 49078,
+        "endTime": 49078
+      },
       {
         "token": "ค",
         "startTime": 49078,
@@ -2466,10 +3513,8 @@
     ]
   },
   {
-    "sentence_text": "ใน เด็ก อายุ ต่ำกว่า ห้า ปี ทั่วโลก",
-    "translations": {
-      "en": "in children under five worldwide."
-    },
+    "sentence_text": "ในเด็กอายุต่ำกว่าห้าปีทั่วโลก",
+    "translations": {},
     "segments": [
       {
         "token": "ใ",
@@ -2619,10 +3664,8 @@
     ]
   },
   {
-    "sentence_text": "และ ตาม รายงาน ของ องค์การสหประชาชาติ",
-    "translations": {
-      "en": "According to a United Nations report"
-    },
+    "sentence_text": "และตามรายงานขององค์การสหประชาชาติ ค.ศ 2010",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -2788,15 +3831,7 @@
         "token": "ิ",
         "startTime": 56963,
         "endTime": 56987
-      }
-    ]
-  },
-  {
-    "sentence_text": "ค .",
-    "translations": {
-      "en": "from 2010,"
-    },
-    "segments": [
+      },
       {
         "token": "ค",
         "startTime": 56987,
@@ -2806,15 +3841,7 @@
         "token": ".",
         "startTime": 57254,
         "endTime": 57521
-      }
-    ]
-  },
-  {
-    "sentence_text": "ศ 2010 โรค ภัย ต่างๆ ที่เกิด จาก น้ำ ปนเปื้อน เชื้อโรค",
-    "translations": {
-      "en": "waterborne diseases from contaminated water"
-    },
-    "segments": [
+      },
       {
         "token": "ศ",
         "startTime": 57521,
@@ -2839,7 +3866,13 @@
         "token": "0",
         "startTime": 58388,
         "endTime": 58588
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "โรคภัยต่าง ๆ ที่เกิดจากน้ำปนเปื้อนเชื้อโรค ได้คร่าชีวิตผู้คนต่อปีมากกว่าสงคราม",
+    "translations": {},
+    "segments": [
       {
         "token": "โ",
         "startTime": 58588,
@@ -3039,15 +4072,7 @@
         "token": "ค",
         "startTime": 63355,
         "endTime": 63355
-      }
-    ]
-  },
-  {
-    "sentence_text": "ได้ คร่าชีวิต ผู้คน ต่อ ปี มากกว่า สงคราม",
-    "translations": {
-      "en": "kill more people each year than war."
-    },
-    "segments": [
+      },
       {
         "token": "ไ",
         "startTime": 63355,
@@ -3226,10 +4251,8 @@
     ]
   },
   {
-    "sentence_text": "แต่ กระบวน การบำบัด น้ำ ที่ เหมาะสม สามารถ รับมือ ภัย",
-    "translations": {
-      "en": "But proper water treatment can address this"
-    },
+    "sentence_text": "แต่กระบวนการบำบัดน้ำที่เหมาะสม สามารถรับมือภัยคุกคามนี้ได้",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -3455,15 +4478,7 @@
         "token": "ย",
         "startTime": 67849,
         "endTime": 68000
-      }
-    ]
-  },
-  {
-    "sentence_text": "คุกคาม นี้ ได้",
-    "translations": {
-      "en": "threat."
-    },
-    "segments": [
+      },
       {
         "token": "ค",
         "startTime": 68000,
@@ -3527,10 +4542,8 @@
     ]
   },
   {
-    "sentence_text": "ขั้นตอน เหล่านั้น ประกอบด้วย สาม ส่วน คือ การ ตก ตะกอ",
-    "translations": {
-      "en": "These steps consist of three parts: sedimentation,"
-    },
+    "sentence_text": "ขั้นตอนเหล่านั้นประกอบด้วยสามส่วนคือ",
+    "translations": {},
     "segments": [
       {
         "token": "ข",
@@ -3711,7 +4724,13 @@
         "token": "อ",
         "startTime": 71490,
         "endTime": 71538
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "การตกตะกอน",
+    "translations": {},
+    "segments": [
       {
         "token": "ก",
         "startTime": 71538,
@@ -3756,20 +4775,18 @@
         "token": "อ",
         "startTime": 72393,
         "endTime": 72500
-      }
-    ]
-  },
-  {
-    "sentence_text": "น การกรอง และ การ ฆ่า เชื้อโรค",
-    "translations": {
-      "en": "filtration, and disinfection."
-    },
-    "segments": [
+      },
       {
         "token": "น",
         "startTime": 72500,
         "endTime": 72607
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "การกรอง",
+    "translations": {},
+    "segments": [
       {
         "token": "ก",
         "startTime": 72607,
@@ -3804,7 +4821,13 @@
         "token": "ง",
         "startTime": 73577,
         "endTime": 73739
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และการฆ่าเชื้อโรค",
+    "translations": {},
+    "segments": [
       {
         "token": "แ",
         "startTime": 73739,
@@ -3893,10 +4916,8 @@
     ]
   },
   {
-    "sentence_text": "เมื่อ น้ำ ได้ ถูก กักเก็บ ใน แหล่ง บำบัด เรียบร้อย แล้",
-    "translations": {
-      "en": "Once the water is collected in a treatment facility,"
-    },
+    "sentence_text": "เมื่อน้ำได้ถูกกักเก็บ ในแหล่งบำบัดเรียบร้อยแล้ว",
+    "translations": {},
     "segments": [
       {
         "token": "เ",
@@ -4122,13 +5143,7 @@
         "token": "้",
         "startTime": 77655,
         "endTime": 77756
-      }
-    ]
-  },
-  {
-    "sentence_text": "ว",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ว",
         "startTime": 77756,
@@ -4137,10 +5152,8 @@
     ]
   },
   {
-    "sentence_text": "มัน ก็ พร้อม แล้ว สำหรับ การ ทำให้ สะอาด",
-    "translations": {
-      "en": "it is ready for purification."
-    },
+    "sentence_text": "มันก็พร้อมแล้วสำหรับการทำให้สะอาด",
+    "translations": {},
     "segments": [
       {
         "token": "ม",
@@ -4310,11 +5323,124 @@
     ]
   },
   {
-    "sentence_text": "แค่ เพียง ต้อง ใช้เวลา น้ำ จะ ถูก ทิ้ง ไว้ โดย ปราศจาก ส",
-    "translations": {
-      "en": "Simply by letting the water sit undisturbed,"
-    },
+    "sentence_text": "ขั้นตอนแรกคือการตกตะกอน แค่เพียงต้องใช้เวลา",
+    "translations": {},
     "segments": [
+      {
+        "token": "ข",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ั",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "้",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "น",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ต",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "อ",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "น",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "แ",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ร",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ก",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ค",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ื",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "อ",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ก",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "า",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ร",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ต",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ก",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ต",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ะ",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "ก",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "อ",
+        "startTime": 79598,
+        "endTime": 79598
+      },
+      {
+        "token": "น",
+        "startTime": 79598,
+        "endTime": 79598
+      },
       {
         "token": "แ",
         "startTime": 79598,
@@ -4409,7 +5535,13 @@
         "token": "า",
         "startTime": 82953,
         "endTime": 83139
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "น้ำจะถูกทิ้งไว้โดยปราศจากสิ่งรบกวน ให้อนุภาคที่มีน้ำหนักมากกว่าจมลงสู่ก้น",
+    "translations": {},
+    "segments": [
       {
         "token": "น",
         "startTime": 83139,
@@ -4539,15 +5671,47 @@
         "token": "ส",
         "startTime": 83139,
         "endTime": 83139
-      }
-    ]
-  },
-  {
-    "sentence_text": "ให้ อนุภาค ที่ มี น้ำหนัก มากกว่า จม ลง สู่ ก้น",
-    "translations": {
-      "en": "heavier particles sink to the bottom."
-    },
-    "segments": [
+      },
+      {
+        "token": "ิ",
+        "startTime": 83139,
+        "endTime": 83139
+      },
+      {
+        "token": "่",
+        "startTime": 83139,
+        "endTime": 83139
+      },
+      {
+        "token": "ง",
+        "startTime": 83139,
+        "endTime": 83139
+      },
+      {
+        "token": "ร",
+        "startTime": 83139,
+        "endTime": 83139
+      },
+      {
+        "token": "บ",
+        "startTime": 83139,
+        "endTime": 83139
+      },
+      {
+        "token": "ก",
+        "startTime": 83139,
+        "endTime": 83139
+      },
+      {
+        "token": "ว",
+        "startTime": 83139,
+        "endTime": 83139
+      },
+      {
+        "token": "น",
+        "startTime": 83139,
+        "endTime": 83139
+      },
       {
         "token": "ใ",
         "startTime": 83139,
@@ -4741,10 +5905,8 @@
     ]
   },
   {
-    "sentence_text": "แต่ บ่อยครั้ง อนุภาค ต่างๆ มัก มี ขนาดเล็ก เกินไป ที่",
-    "translations": {
-      "en": "But often particles are too small"
-    },
+    "sentence_text": "แต่บ่อยครั้งอนุภาคต่างๆ มักมีขนาดเล็กเกินไป",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -4955,7 +6117,13 @@
         "token": "ป",
         "startTime": 90898,
         "endTime": 91040
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ที่จะถูกแยกออกได้เพียงการตกตะกอนเท่านั้น",
+    "translations": {},
+    "segments": [
       {
         "token": "ท",
         "startTime": 91040,
@@ -4970,15 +6138,7 @@
         "token": "่",
         "startTime": 91150,
         "endTime": 91205
-      }
-    ]
-  },
-  {
-    "sentence_text": "จะ ถูก แยก ออก ได้ เพียง การ ตกตะกอน เท่านั้น",
-    "translations": {
-      "en": "to be separated by sedimentation alone"
-    },
-    "segments": [
+      },
       {
         "token": "จ",
         "startTime": 91205,
@@ -5167,10 +6327,8 @@
     ]
   },
   {
-    "sentence_text": "และ จำเป็นต้อง ผ่าน การกรอง",
-    "translations": {
-      "en": "and must be filtered."
-    },
+    "sentence_text": "และจำเป็นต้องผ่านการกรอง",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -5295,10 +6453,8 @@
     ]
   },
   {
-    "sentence_text": "แรงโน้มถ่วง ดึงดูด น้ำ ให้ ไหล ลง ผ่าน ชั้น ต่างๆ ของ ท",
-    "translations": {
-      "en": "Gravity pulls water down through layers of"
-    },
+    "sentence_text": "แรงโน้มถ่วงดึงดูดน้ำให้ไหลลงผ่าน ชั้นต่าง ๆ ของทราย",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -5524,15 +6680,7 @@
         "token": "ท",
         "startTime": 97771,
         "endTime": 97923
-      }
-    ]
-  },
-  {
-    "sentence_text": "ราย",
-    "translations": {
-      "en": "gravel"
-    },
-    "segments": [
+      },
       {
         "token": "ร",
         "startTime": 97923,
@@ -5551,10 +6699,8 @@
     ]
   },
   {
-    "sentence_text": "ซึ่ง ดัก อนุภาค ที่ เหลือ ไว้ ใน รู ที่ แทรก อยู่ ใน ชั้น",
-    "translations": {
-      "en": "which trap remaining particles in the gaps between"
-    },
+    "sentence_text": "ซึ่งดักอนุภาคที่เหลือ ไว้ในรูที่แทรกอยู่ในชั้นทราย",
+    "translations": {},
     "segments": [
       {
         "token": "ซ",
@@ -5780,15 +6926,7 @@
         "token": "น",
         "startTime": 100737,
         "endTime": 100840
-      }
-    ]
-  },
-  {
-    "sentence_text": "ทราย",
-    "translations": {
-      "en": "sand."
-    },
-    "segments": [
+      },
       {
         "token": "ท",
         "startTime": 100840,
@@ -5812,10 +6950,8 @@
     ]
   },
   {
-    "sentence_text": "เพื่อ การ เตรียม น้ำ สำหรับ ขั้นตอน สุดท้าย คือ การเต",
-    "translations": {
-      "en": "To prepare water for the final step—"
-    },
+    "sentence_text": "เพื่อการเตรียมน้ำ สำหรับขั้นตอนสุดท้าย",
+    "translations": {},
     "segments": [
       {
         "token": "เ",
@@ -6001,7 +7137,13 @@
         "token": "ย",
         "startTime": 103625,
         "endTime": 103750
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "คือการเติมสารฆ่าเชื้อปริมาณหนึ่ง",
+    "translations": {},
+    "segments": [
       {
         "token": "ค",
         "startTime": 103750,
@@ -6041,15 +7183,7 @@
         "token": "ต",
         "startTime": 104201,
         "endTime": 104265
-      }
-    ]
-  },
-  {
-    "sentence_text": "ิ มสาร ฆ่าเชื้อ ปริมาณ หนึ่ง",
-    "translations": {
-      "en": "adding a dose of disinfectant."
-    },
-    "segments": [
+      },
       {
         "token": "ิ",
         "startTime": 104265,
@@ -6173,10 +7307,8 @@
     ]
   },
   {
-    "sentence_text": "สารเคมี ซึ่ง เป็น รูปแบบ พื้นฐาน ของ คลอรีน และ ก๊าซ โ",
-    "translations": {
-      "en": "Chemicals, basic forms of chlorine and ozone gas,"
-    },
+    "sentence_text": "สารเคมี ซึ่งเป็นรูปแบบพื้นฐานของคลอรีน และก๊าซโอโซน",
+    "translations": {},
     "segments": [
       {
         "token": "ส",
@@ -6402,15 +7534,7 @@
         "token": "โ",
         "startTime": 108405,
         "endTime": 108541
-      }
-    ]
-  },
-  {
-    "sentence_text": "อ โซน ถูก นำมา ผสม เข้าไป",
-    "translations": {
-      "en": "are mixed in"
-    },
-    "segments": [
+      },
       {
         "token": "อ",
         "startTime": 108541,
@@ -6430,7 +7554,13 @@
         "token": "น",
         "startTime": 108951,
         "endTime": 109087
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ถูกนำมาผสมเข้าไป เพื่อฆ่าเชื้อโรคต่าง ๆ",
+    "translations": {},
+    "segments": [
       {
         "token": "ถ",
         "startTime": 109087,
@@ -6510,15 +7640,7 @@
         "token": "ป",
         "startTime": 109919,
         "endTime": 109975
-      }
-    ]
-  },
-  {
-    "sentence_text": "เพื่อ ฆ่า เชื้อโรค ต่างๆ และ เพื่อ ทำให้ ท่อน้ำ และ ระ",
-    "translations": {
-      "en": "to kill pathogens and keep pipes and storage"
-    },
-    "segments": [
+      },
       {
         "token": "เ",
         "startTime": 109975,
@@ -6623,7 +7745,13 @@
         "token": "ๆ",
         "startTime": 110862,
         "endTime": 111750
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และเพื่อทำให้ท่อน้ำและระบบจัดเก็บน้ำ ปลอดเชื้อโรค",
+    "translations": {},
+    "segments": [
       {
         "token": "แ",
         "startTime": 111750,
@@ -6743,15 +7871,7 @@
         "token": "ะ",
         "startTime": 111750,
         "endTime": 111750
-      }
-    ]
-  },
-  {
-    "sentence_text": "บบ จัดเก็บ น้ำ ปลอด เชื้อโรค",
-    "translations": {
-      "en": "systems sterile."
-    },
-    "segments": [
+      },
       {
         "token": "บ",
         "startTime": 111750,
@@ -6875,10 +7995,8 @@
     ]
   },
   {
-    "sentence_text": "คลอรีน มีประสิทธิภาพ สูง ใน การ ทำลาย จุลชีพ ที่อยู่",
-    "translations": {
-      "en": "Chlorine is highly effective at destroying microbes"
-    },
+    "sentence_text": "คลอรีนมีประสิทธิภาพสูงในการทำลาย จุลชีพที่อยู่ในน้ำ",
+    "translations": {},
     "segments": [
       {
         "token": "ค",
@@ -7104,15 +8222,7 @@
         "token": "่",
         "startTime": 117834,
         "endTime": 118047
-      }
-    ]
-  },
-  {
-    "sentence_text": "ใน น้ำ",
-    "translations": {
-      "en": "in water,"
-    },
-    "segments": [
+      },
       {
         "token": "ใ",
         "startTime": 118047,
@@ -7141,10 +8251,8 @@
     ]
   },
   {
-    "sentence_text": "แต่ การ ใช้ คลอรีน ยังคง ถูก ควบคุม โดย รัฐบาล",
-    "translations": {
-      "en": "but its use is still regulated by governments"
-    },
+    "sentence_text": "แต่การใช้คลอรีนยังคงถูกควบคุมโดยรัฐบาล",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -7339,10 +8447,8 @@
     ]
   },
   {
-    "sentence_text": "เพราะ มัน มี กาก สารเคมี ที่ อาจ ทำให้เกิด อันตราย",
-    "translations": {
-      "en": "because it leaves chemical residues that can be harmful."
-    },
+    "sentence_text": "เพราะมันมีกากสารเคมีที่อาจทำให้เกิดอันตราย",
+    "translations": {},
     "segments": [
       {
         "token": "เ",
@@ -7557,10 +8663,8 @@
     ]
   },
   {
-    "sentence_text": "และ หาก เกิด ความไม่สมดุล ของ คลอรีน ระหว่าง กระบวน ก",
-    "translations": {
-      "en": "And if chlorine balance is off during the disinfection"
-    },
+    "sentence_text": "และหากเกิดความไม่สมดุลของคลอรีน ระหว่างกระบวนการฆ่าเชื้อ",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -7786,15 +8890,7 @@
         "token": "ก",
         "startTime": 127097,
         "endTime": 127274
-      }
-    ]
-  },
-  {
-    "sentence_text": "าร ฆ่าเชื้อ",
-    "translations": {
-      "en": "process,"
-    },
-    "segments": [
+      },
       {
         "token": "า",
         "startTime": 127274,
@@ -7848,10 +8944,8 @@
     ]
   },
   {
-    "sentence_text": "ก็ สามารถ ก่อให้เกิด ปฏิกริยา เคมี อื่นๆ",
-    "translations": {
-      "en": "it can trigger other chemical reactions."
-    },
+    "sentence_text": "ก็สามารถก่อให้เกิดปฏิกริยาเคมีอื่น ๆ",
+    "translations": {},
     "segments": [
       {
         "token": "ก",
@@ -8031,10 +9125,8 @@
     ]
   },
   {
-    "sentence_text": "เช่น ระดับ ของ กาก สารเคมี ที่เกิด จาก คลอรีน",
-    "translations": {
-      "en": "Such as the level of chemical residue from chlorine"
-    },
+    "sentence_text": "เช่น ระดับของกากสารเคมีที่เกิดจากคลอรีน",
+    "translations": {},
     "segments": [
       {
         "token": "เ",
@@ -8229,10 +9321,8 @@
     ]
   },
   {
-    "sentence_text": "อย่างเช่น ไตร ฮา โล มีเทน อาจ พุ่ง สูง ขึ้น อย่าง รวด เร",
-    "translations": {
-      "en": "Like trihalomethanes can spike rapidly"
-    },
+    "sentence_text": "อย่างเช่นไตรฮาโลมีเทน อาจพุ่งสูงขึ้น อย่างรวดเร็ว นำไปสู่การกร่อนของท่อน้ำ",
+    "translations": {},
     "segments": [
       {
         "token": "อ",
@@ -8458,15 +9548,17 @@
         "token": "ร",
         "startTime": 136742,
         "endTime": 136742
-      }
-    ]
-  },
-  {
-    "sentence_text": "นำไปสู่ การ กร่อน ของ ท่อน้ำ และ การ หลุด กร่อน ของ เห ล",
-    "translations": {
-      "en": "leading to pipe corrosion and the leaching of lea"
-    },
-    "segments": [
+      },
+      {
+        "token": "็",
+        "startTime": 136742,
+        "endTime": 136742
+      },
+      {
+        "token": "ว",
+        "startTime": 136742,
+        "endTime": 136742
+      },
       {
         "token": "น",
         "startTime": 136742,
@@ -8586,7 +9678,13 @@
         "token": "ำ",
         "startTime": 138792,
         "endTime": 138881
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และการหลุดกร่อนของเหล็ก ทองแดง และตะกั่ว สู่น้ำดื่ม",
+    "translations": {},
+    "segments": [
       {
         "token": "แ",
         "startTime": 138881,
@@ -8691,15 +9789,7 @@
         "token": "ล",
         "startTime": 141755,
         "endTime": 141899
-      }
-    ]
-  },
-  {
-    "sentence_text": "็ก",
-    "translations": {
-      "en": "d"
-    },
-    "segments": [
+      },
       {
         "token": "็",
         "startTime": 141899,
@@ -8709,15 +9799,7 @@
         "token": "ก",
         "startTime": 142043,
         "endTime": 142187
-      }
-    ]
-  },
-  {
-    "sentence_text": "ทองแดง และ ตะกั่ว สู่ น้ำดื่ม",
-    "translations": {
-      "en": "copper and lead into drinking water"
-    },
-    "segments": [
+      },
       {
         "token": "ท",
         "startTime": 142187,
@@ -8846,10 +9928,8 @@
     ]
   },
   {
-    "sentence_text": "การ ปนเปื้อน น้ำดื่ม จาก สาเหตุ เหล่านี้ และ แหล่ง อื",
-    "translations": {
-      "en": "Drinking water contamination from these and other"
-    },
+    "sentence_text": "การปนเปื้อนน้ำดื่มจากสาเหตุเหล่านี้ และแหล่งอื่น ๆ",
+    "translations": {},
     "segments": [
       {
         "token": "ก",
@@ -9075,15 +10155,7 @@
         "token": "ื",
         "startTime": 146392,
         "endTime": 146492
-      }
-    ]
-  },
-  {
-    "sentence_text": "่นๆ",
-    "translations": {
-      "en": "sources"
-    },
-    "segments": [
+      },
       {
         "token": "่",
         "startTime": 146492,
@@ -9102,10 +10174,8 @@
     ]
   },
   {
-    "sentence_text": "ได้แก่ การ ชะล้าง การ หก ล้น ของ สารเคมี และ การ ไหล ออก",
-    "translations": {
-      "en": "includes chemical runoff, spills, and discharge"
-    },
+    "sentence_text": "ได้แก่ การชะล้าง",
+    "translations": {},
     "segments": [
       {
         "token": "ไ",
@@ -9181,7 +10251,13 @@
         "token": "ง",
         "startTime": 148978,
         "endTime": 149042
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "การหกล้นของสารเคมี",
+    "translations": {},
+    "segments": [
       {
         "token": "ก",
         "startTime": 149042,
@@ -9271,7 +10347,13 @@
         "token": "ี",
         "startTime": 150317,
         "endTime": 150392
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และการไหลออกไป",
+    "translations": {},
+    "segments": [
       {
         "token": "แ",
         "startTime": 150392,
@@ -9331,13 +10413,7 @@
         "token": "ก",
         "startTime": 151335,
         "endTime": 151421
-      }
-    ]
-  },
-  {
-    "sentence_text": "ไป",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ไ",
         "startTime": 151421,
@@ -9351,10 +10427,8 @@
     ]
   },
   {
-    "sentence_text": "มี ความ เชื่อมโยง กับ ผลกระทบ ต่อ สุขภาพ ระยะยาว",
-    "translations": {
-      "en": "linked to long-term health effects"
-    },
+    "sentence_text": "มีความเชื่อมโยง กับผลกระทบต่อสุขภาพระยะยาว",
+    "translations": {},
     "segments": [
       {
         "token": "ม",
@@ -9564,10 +10638,8 @@
     ]
   },
   {
-    "sentence_text": "เช่น มะเร็ง โรคหัวใจ และ หลอดเลือด โรค ทาง ระบบ ประสา",
-    "translations": {
-      "en": "such as cancer, cardiovascular disease, neurologi"
-    },
+    "sentence_text": "เช่น มะเร็ง",
+    "translations": {},
     "segments": [
       {
         "token": "เ",
@@ -9618,7 +10690,13 @@
         "token": "ง",
         "startTime": 154553,
         "endTime": 154620
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "โรคหัวใจและหลอดเลือด โรคทางระบบประสาท",
+    "translations": {},
+    "segments": [
       {
         "token": "โ",
         "startTime": 154620,
@@ -9793,20 +10871,18 @@
         "token": "า",
         "startTime": 157173,
         "endTime": 157258
-      }
-    ]
-  },
-  {
-    "sentence_text": "ท และ การ แท้ง บุตร",
-    "translations": {
-      "en": "cal disorders, and miscarriage"
-    },
-    "segments": [
+      },
       {
         "token": "ท",
         "startTime": 157258,
         "endTime": 157343
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และ การแท้งบุตร",
+    "translations": {},
+    "segments": [
       {
         "token": "แ",
         "startTime": 157343,
@@ -9880,10 +10956,8 @@
     ]
   },
   {
-    "sentence_text": "น่าเสียดาย ที่ การ วิเคราะห์ ความเสี่ยง ที่ แม่นยำ ข",
-    "translations": {
-      "en": "Unfortunately, accurate risk analysis of"
-    },
+    "sentence_text": "น่าเสียดายที่การวิเคราะห์ความเสี่ยง ที่แม่นยำ",
+    "translations": {},
     "segments": [
       {
         "token": "น",
@@ -10104,20 +11178,18 @@
         "token": "ำ",
         "startTime": 161458,
         "endTime": 161704
-      },
-      {
-        "token": "ข",
-        "startTime": 161704,
-        "endTime": 161787
       }
     ]
   },
   {
-    "sentence_text": "อง น้ำ ที่ ปนเปื้อน สารเคมี นั้น เป็นเรื่อง ยาก",
-    "translations": {
-      "en": "chemically contaminated water is difficult"
-    },
+    "sentence_text": "ของน้ำที่ปนเปื้อนสารเคมีนั้นเป็นเรื่องยาก",
+    "translations": {},
     "segments": [
+      {
+        "token": "ข",
+        "startTime": 161704,
+        "endTime": 161787
+      },
       {
         "token": "อ",
         "startTime": 161787,
@@ -10321,10 +11393,8 @@
     ]
   },
   {
-    "sentence_text": "ดังนั้น ในขณะที่ สาร ฆ่าเชื้อ ทำให้ เรา ปลอดภัย ยิ่ง",
-    "translations": {
-      "en": "So while disinfectants keep us safer"
-    },
+    "sentence_text": "ดังนั้น ในขณะที่สารฆ่าเชื้อ ทำให้เราปลอดภัยยิ่งขึ้น",
+    "translations": {},
     "segments": [
       {
         "token": "ด",
@@ -10550,15 +11620,7 @@
         "token": "ง",
         "startTime": 167373,
         "endTime": 167428
-      }
-    ]
-  },
-  {
-    "sentence_text": "ขึ้น โดย การ กำจัด จุลชีพ ก่อ โรค ออก ไป",
-    "translations": {
-      "en": "by eliminating disease-causing microbes"
-    },
-    "segments": [
+      },
       {
         "token": "ข",
         "startTime": 167428,
@@ -10578,7 +11640,13 @@
         "token": "น",
         "startTime": 167595,
         "endTime": 167651
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "โดยการกำจัดจุลชีพก่อโรคออกไป",
+    "translations": {},
+    "segments": [
       {
         "token": "โ",
         "startTime": 167651,
@@ -10722,10 +11790,8 @@
     ]
   },
   {
-    "sentence_text": "แต่ ผู้เชี่ยวชาญ ยัง ไม่ ได้ กำหนด ขอบเขต ทั้งหมด ของ",
-    "translations": {
-      "en": "experts have yet to determine the full extent of"
-    },
+    "sentence_text": "แต่ผู้เชี่ยวชาญยังไม่ได้กำหนด ขอบเขตทั้งหมด",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -10936,7 +12002,13 @@
         "token": "ด",
         "startTime": 172059,
         "endTime": 172234
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ของการผสมสารเคมี ในน้ำที่เราดื่ม",
+    "translations": {},
+    "segments": [
       {
         "token": "ข",
         "startTime": 172234,
@@ -10951,15 +12023,7 @@
         "token": "ง",
         "startTime": 172234,
         "endTime": 172234
-      }
-    ]
-  },
-  {
-    "sentence_text": "การ ผสม สารเคมี ใน น้ำ ที่ เรา ดื่ม ว่า จะ ส่งผล ต่อ สุข ภ",
-    "translations": {
-      "en": "how the chemical mix in our drinking water affect"
-    },
-    "segments": [
+      },
       {
         "token": "ก",
         "startTime": 172234,
@@ -11099,7 +12163,13 @@
         "token": "ม",
         "startTime": 174848,
         "endTime": 175035
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ว่าจะส่งผลต่อสุขภาพของมนุษย์ อย่างไรบ้าง",
+    "translations": {},
+    "segments": [
       {
         "token": "ว",
         "startTime": 175035,
@@ -11184,15 +12254,7 @@
         "token": "ภ",
         "startTime": 175035,
         "endTime": 175035
-      }
-    ]
-  },
-  {
-    "sentence_text": "าพ ของ มนุษย์ อย่างไรบ้าง",
-    "translations": {
-      "en": "s human health"
-    },
-    "segments": [
+      },
       {
         "token": "า",
         "startTime": 175035,
@@ -11306,10 +12368,8 @@
     ]
   },
   {
-    "sentence_text": "ดังนั้น คุณ จะ บอก ได้ อย่างไร ว่า น้ำ ที่ คุณ นำมาใช้ ไ",
-    "translations": {
-      "en": "So how can you tell if the water you use, whether from a tap or another source, is drinkable?"
-    },
+    "sentence_text": "ดังนั้นคุณจะบอกได้อย่างไร ว่าน้ำที่คุณนำมาใช้ได้",
+    "translations": {},
     "segments": [
       {
         "token": "ด",
@@ -11535,15 +12595,7 @@
         "token": "ไ",
         "startTime": 181082,
         "endTime": 181243
-      }
-    ]
-  },
-  {
-    "sentence_text": "ด้ ไม่ ว่า จาก ก๊อกน้ำ หรือ แหล่ง อื่น สามารถ ดื่มได้ ห",
-    "translations": {
-      "en": "First, excessive turbidity, traces of organic compounds, or high levels of heavy metals like arsenic, chromium, or lead"
-    },
-    "segments": [
+      },
       {
         "token": "ด",
         "startTime": 181243,
@@ -11553,7 +12605,13 @@
         "token": "้",
         "startTime": 181405,
         "endTime": 181566
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ไม่ว่าจากก๊อกน้ำหรือแหล่งอื่น",
+    "translations": {},
+    "segments": [
       {
         "token": "ไ",
         "startTime": 181566,
@@ -11698,7 +12756,13 @@
         "token": "น",
         "startTime": 183515,
         "endTime": 183585
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "สามารถดื่มได้หรือไม่",
+    "translations": {},
+    "segments": [
       {
         "token": "ส",
         "startTime": 183585,
@@ -11768,15 +12832,7 @@
         "token": "ห",
         "startTime": 184742,
         "endTime": 184831
-      }
-    ]
-  },
-  {
-    "sentence_text": "รือ ไม่",
-    "translations": {
-      "en": "indicate that the water is not suitable for drinking."
-    },
-    "segments": [
+      },
       {
         "token": "ร",
         "startTime": 184831,
@@ -11810,10 +12866,8 @@
     ]
   },
   {
-    "sentence_text": "อันดับ แรก ความขุ่น ที่ มากเกินไป ร่องรอย สารประกอบ",
-    "translations": {
-      "en": "Many contaminants like lead or arsenic won't be obvious without testing."
-    },
+    "sentence_text": "อันดับแรก ความขุ่นที่มากเกินไป",
+    "translations": {},
     "segments": [
       {
         "token": "อ",
@@ -11959,7 +13013,13 @@
         "token": "ป",
         "startTime": 187140,
         "endTime": 187185
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ร่องรอยสารประกอบอินทรีย์",
+    "translations": {},
+    "segments": [
       {
         "token": "ร",
         "startTime": 187185,
@@ -12039,15 +13099,7 @@
         "token": "บ",
         "startTime": 188279,
         "endTime": 188352
-      }
-    ]
-  },
-  {
-    "sentence_text": "อินทรีย์ หรือ ความหนาแน่น ที่สูง ของ โลหะหนัก เช่น ส",
-    "translations": {
-      "en": "But some signs, such as cloudiness, a brown or yellow color, a foul smell, or an overly strong chlorine odor,"
-    },
-    "segments": [
+      },
       {
         "token": "อ",
         "startTime": 188352,
@@ -12087,7 +13139,13 @@
         "token": "์",
         "startTime": 188862,
         "endTime": 188935
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "หรือความหนาแน่นที่สูงของโลหะหนัก เช่น สารหนู โครเมียมหรือตะกั่ว",
+    "translations": {},
+    "segments": [
       {
         "token": "ห",
         "startTime": 188935,
@@ -12272,15 +13330,7 @@
         "token": "ส",
         "startTime": 190549,
         "endTime": 190818
-      }
-    ]
-  },
-  {
-    "sentence_text": "าร หนู โครเมียม หรือ ตะกั่ว",
-    "translations": {
-      "en": "can point to the need for further investigation."
-    },
-    "segments": [
+      },
       {
         "token": "า",
         "startTime": 190818,
@@ -12399,10 +13449,8 @@
     ]
   },
   {
-    "sentence_text": "บ่งชี้ ว่า น้ำ นั้น ไม่ เหมาะสำหรับ การ ดื่ม",
-    "translations": {
-      "en": "Water test kits can go a step further and confirm the presence of many contaminants and chemicals."
-    },
+    "sentence_text": "บ่งชี้ว่าน้ำนั้น ไม่เหมาะสำหรับการดื่ม",
+    "translations": {},
     "segments": [
       {
         "token": "บ",
@@ -12592,10 +13640,8 @@
     ]
   },
   {
-    "sentence_text": "สารปนเปื้อน หลายชนิด เช่น ตะกั่ว หรือ สารหนู จะ ไม่ เ",
-    "translations": {
-      "en": "For many types of contamination, there are methods for treating water at the point of use rather than near the source."
-    },
+    "sentence_text": "สารปนเปื้อนหลายชนิด เช่น ตะกั่ว หรือ สารหนู",
+    "translations": {},
     "segments": [
       {
         "token": "ส",
@@ -12791,7 +13837,13 @@
         "token": "ู",
         "startTime": 199697,
         "endTime": 199805
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "จะไม่เห็นชัดเจนหากไม่ทำการทดสอบ",
+    "translations": {},
+    "segments": [
       {
         "token": "จ",
         "startTime": 199805,
@@ -12821,15 +13873,7 @@
         "token": "เ",
         "startTime": 200138,
         "endTime": 200204
-      }
-    ]
-  },
-  {
-    "sentence_text": "ห็น ชัดเจน หาก ไม่ ทำการ ทดสอบ",
-    "translations": {
-      "en": "Point-of-use water treatment has actually been around for many years."
-    },
-    "segments": [
+      },
       {
         "token": "ห",
         "startTime": 200204,
@@ -12958,10 +14002,8 @@
     ]
   },
   {
-    "sentence_text": "แต่ ร่องรอย บาง อย่างเช่น ความขุ่น การ มี สีน้ำตาล หร",
-    "translations": {
-      "en": "But some traces like cloudiness, brownish color"
-    },
+    "sentence_text": "แต่ร่องรอยบางอย่างเช่น ความขุ่น",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -13112,7 +14154,13 @@
         "token": "น",
         "startTime": 203684,
         "endTime": 203805
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "การมีสีน้ำตาลหรือเหลือง",
+    "translations": {},
+    "segments": [
       {
         "token": "ก",
         "startTime": 203805,
@@ -13187,15 +14235,7 @@
         "token": "ร",
         "startTime": 205029,
         "endTime": 205117
-      }
-    ]
-  },
-  {
-    "sentence_text": "ือ เหลือง กลิ่น เน่าเหม็น หรือ กลิ่น ของ คลอรีน ที่ ฉุ",
-    "translations": {
-      "en": "Is it yellow with a rotten smell or a strong chlorine smell?"
-    },
-    "segments": [
+      },
       {
         "token": "ื",
         "startTime": 205117,
@@ -13235,7 +14275,13 @@
         "token": "ง",
         "startTime": 205729,
         "endTime": 205816
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "กลิ่นเน่าเหม็น",
+    "translations": {},
+    "segments": [
       {
         "token": "ก",
         "startTime": 205816,
@@ -13305,7 +14351,13 @@
         "token": "น",
         "startTime": 206983,
         "endTime": 207073
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "หรือกลิ่นของคลอรีนที่ฉุนเกินไป",
+    "translations": {},
+    "segments": [
       {
         "token": "ห",
         "startTime": 207073,
@@ -13420,15 +14472,7 @@
         "token": "ุ",
         "startTime": 208990,
         "endTime": 209077
-      }
-    ]
-  },
-  {
-    "sentence_text": "น เกินไป",
-    "translations": {
-      "en": "too much"
-    },
-    "segments": [
+      },
       {
         "token": "น",
         "startTime": 209077,
@@ -13467,10 +14511,8 @@
     ]
   },
   {
-    "sentence_text": "สามารถ บ่งชี้ ถึง ความจำเป็น ที่จะ ต้อง ตรวจสอบ ต่อ ไ",
-    "translations": {
-      "en": "May indicate the need for further investigation."
-    },
+    "sentence_text": "สามารถบ่งชี้ถึงความจำเป็น ที่จะต้องตรวจสอบต่อไป",
+    "translations": {},
     "segments": [
       {
         "token": "ส",
@@ -13696,15 +14738,7 @@
         "token": "ไ",
         "startTime": 212248,
         "endTime": 212383
-      }
-    ]
-  },
-  {
-    "sentence_text": "ป",
-    "translations": {
-      "en": "P"
-    },
-    "segments": [
+      },
       {
         "token": "ป",
         "startTime": 212383,
@@ -13713,10 +14747,8 @@
     ]
   },
   {
-    "sentence_text": "ชุด อุปกรณ์ ทดสอบ น้ำ สามารถ พัฒนา ได้ อีก ขั้น และ สาม",
-    "translations": {
-      "en": "The water test kit can be further developed and three"
-    },
+    "sentence_text": "ชุดอุปกรณ์ทดสอบน้ำสามารถพัฒนาได้อีกขั้น",
+    "translations": {},
     "segments": [
       {
         "token": "ช",
@@ -13912,7 +14944,13 @@
         "token": "น",
         "startTime": 214611,
         "endTime": 214666
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และสามารถยืนยันการมีอยู่ ของสิ่งปนเปื้อนและสารเคมีหลายชนิดได้",
+    "translations": {},
+    "segments": [
       {
         "token": "แ",
         "startTime": 214666,
@@ -13942,15 +14980,7 @@
         "token": "ม",
         "startTime": 214666,
         "endTime": 214666
-      }
-    ]
-  },
-  {
-    "sentence_text": "ารถ ยืนยัน การ มี อยู่ ของ สิ่ง ปนเปื้อน และ สารเคมี หล",
-    "translations": {
-      "en": "The car confirms the presence of contaminants and chemicals."
-    },
-    "segments": [
+      },
       {
         "token": "า",
         "startTime": 214666,
@@ -14175,15 +15205,7 @@
         "token": "ล",
         "startTime": 218437,
         "endTime": 218582
-      }
-    ]
-  },
-  {
-    "sentence_text": "าย ชนิด ได้",
-    "translations": {
-      "en": "many types"
-    },
-    "segments": [
+      },
       {
         "token": "า",
         "startTime": 218582,
@@ -14232,10 +15254,8 @@
     ]
   },
   {
-    "sentence_text": "ใน การ ปนเปื้อน หลาย ประเภท นั้น มี หลาย วิธี ที่ ใช้ บำ",
-    "translations": {
-      "en": "Among the various types of contamination, there are many methods used for treatment."
-    },
+    "sentence_text": "ในการปนเปื้อนหลายประเภทนั้น",
+    "translations": {},
     "segments": [
       {
         "token": "ใ",
@@ -14371,7 +15391,13 @@
         "token": "น",
         "startTime": 221460,
         "endTime": 221520
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "มีหลายวิธีที่ใช้บำบัดน้ำ ณ จุดใช้งาน แทนการบำบัดใกล้แหล่งต้นทาง",
+    "translations": {},
+    "segments": [
       {
         "token": "ม",
         "startTime": 221520,
@@ -14461,15 +15487,7 @@
         "token": "ำ",
         "startTime": 222564,
         "endTime": 222625
-      }
-    ]
-  },
-  {
-    "sentence_text": "บัด น้ำ ณ จุด ใช้งาน แทน การบำบัด ใกล้ แหล่ง ต้นทาง",
-    "translations": {
-      "en": "Treat water at the point of use instead of near the source."
-    },
-    "segments": [
+      },
       {
         "token": "บ",
         "startTime": 222625,
@@ -14683,10 +15701,8 @@
     ]
   },
   {
-    "sentence_text": "การบำบัด น้ำ ตรงจุด ใช้งาน แท้จริง แล้ว มี มา นาน หลาย",
-    "translations": {
-      "en": "Point-of-use water treatment has actually been around for many years."
-    },
+    "sentence_text": "การบำบัดน้ำตรงจุดใช้งาน แท้จริงแล้วมีมานานหลายพันปีแล้ว",
+    "translations": {},
     "segments": [
       {
         "token": "ก",
@@ -14912,15 +15928,7 @@
         "token": "ย",
         "startTime": 228777,
         "endTime": 228912
-      }
-    ]
-  },
-  {
-    "sentence_text": "พันปี แล้ว",
-    "translations": {
-      "en": "A thousand years ago,"
-    },
-    "segments": [
+      },
       {
         "token": "พ",
         "startTime": 228912,
@@ -14969,10 +15977,8 @@
     ]
   },
   {
-    "sentence_text": "ชาว อี ยิป โบราณ ต้ม สารปนเปื้อน อินทรีย์ ให้ หาย ไป ด้",
-    "translations": {
-      "en": "ancient Egyptians boiled organic contaminants away"
-    },
+    "sentence_text": "ชาวอียิปโบราณต้มสารปนเปื้อนอินทรีย์ ให้หายไปด้วยความร้อนจากดวงอาทิตย์",
+    "translations": {},
     "segments": [
       {
         "token": "ช",
@@ -15198,15 +16204,7 @@
         "token": "้",
         "startTime": 231619,
         "endTime": 231785
-      }
-    ]
-  },
-  {
-    "sentence_text": "วย ความร้อน จาก ดวงอาทิตย์",
-    "translations": {
-      "en": "using heat from the sun."
-    },
-    "segments": [
+      },
       {
         "token": "ว",
         "startTime": 231785,
@@ -15325,10 +16323,8 @@
     ]
   },
   {
-    "sentence_text": "และ ใน ยุค กรีก โบราณ ฮิปโป เค ร ตี ส ได้ ออกแบบ ถุง ที่ ดั",
-    "translations": {
-      "en": "In ancient Greece, Hippocrates designed a bag that"
-    },
+    "sentence_text": "และในยุคกรีกโบราณ ฮิปโปเครตีส ได้ออกแบบถุง",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -15529,7 +16525,13 @@
         "token": "ง",
         "startTime": 238400,
         "endTime": 238522
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ที่ดักตะกอนรสชาติที่ไม่ดี ออกจากน้ำ",
+    "translations": {},
+    "segments": [
       {
         "token": "ท",
         "startTime": 238522,
@@ -15554,15 +16556,7 @@
         "token": "ั",
         "startTime": 238522,
         "endTime": 238522
-      }
-    ]
-  },
-  {
-    "sentence_text": "ก ตะกอน รสชาติ ที่ ไม่ ดี ออกจาก น้ำ",
-    "translations": {
-      "en": "filtered bad-tasting sediment from water."
-    },
-    "segments": [
+      },
       {
         "token": "ก",
         "startTime": 238522,
@@ -15711,10 +16705,8 @@
     ]
   },
   {
-    "sentence_text": "ปัจจุบัน กระบวน การบำบัด ณ จุด ใช้งาน มัก เกี่ยวข้อง",
-    "translations": {
-      "en": "Today, point-of-use treatment often involves"
-    },
+    "sentence_text": "ปัจจุบัน กระบวนการบำบัด ณ จุดใช้งาน มักเกี่ยวข้องกับการทำให้แตกตัวเป็นไอออน",
+    "translations": {},
     "segments": [
       {
         "token": "ป",
@@ -15940,15 +16932,7 @@
         "token": "ง",
         "startTime": 245239,
         "endTime": 245262
-      }
-    ]
-  },
-  {
-    "sentence_text": "กับ การ ทำให้ แตกตัว เป็น ไอออน",
-    "translations": {
-      "en": "ionization"
-    },
-    "segments": [
+      },
       {
         "token": "ก",
         "startTime": 245262,
@@ -16082,10 +17066,8 @@
     ]
   },
   {
-    "sentence_text": "เพื่อ ลด ปริมาณ แร่ธาตุ นอกจากนี้ พวกเขา ยัง ใช้ วิธี",
-    "translations": {
-      "en": "to reduce mineral content. They also use"
-    },
+    "sentence_text": "เพื่อลดปริมาณแร่ธาตุ",
+    "translations": {},
     "segments": [
       {
         "token": "เ",
@@ -16186,7 +17168,13 @@
         "token": "ุ",
         "startTime": 247493,
         "endTime": 247579
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "นอกจากนี้พวกเขายังใช้วิธีกรองน้ำแบบดูดซับ",
+    "translations": {},
+    "segments": [
       {
         "token": "น",
         "startTime": 247579,
@@ -16311,15 +17299,7 @@
         "token": "ี",
         "startTime": 249224,
         "endTime": 249292
-      }
-    ]
-  },
-  {
-    "sentence_text": "กรอง น้ำ แบบ ดูดซับ",
-    "translations": {
-      "en": "adsorption filtration"
-    },
-    "segments": [
+      },
       {
         "token": "ก",
         "startTime": 249292,
@@ -16403,10 +17383,8 @@
     ]
   },
   {
-    "sentence_text": "โดย ใช้ วัสดุ มี รู พรุน ที่ เรียก ว่า ถ่าน กัมมันต์ กรอ",
-    "translations": {
-      "en": "with porous materials like activated carbon to"
-    },
+    "sentence_text": "โดยใช้วัสดุมีรูพรุน ที่เรียกว่าถ่านกัมมันต์",
+    "translations": {},
     "segments": [
       {
         "token": "โ",
@@ -16617,7 +17595,13 @@
         "token": "์",
         "startTime": 253218,
         "endTime": 253347
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "กรองน้ำเพื่อแยกสารปนเปื้อน และกากเคมีออกไป",
+    "translations": {},
+    "segments": [
       {
         "token": "ก",
         "startTime": 253347,
@@ -16632,15 +17616,7 @@
         "token": "อ",
         "startTime": 253347,
         "endTime": 253347
-      }
-    ]
-  },
-  {
-    "sentence_text": "ง น้ำ เพื่อ แยก สารปนเปื้อน และ กาก เคมี ออก ไป",
-    "translations": {
-      "en": "filter water, removing contaminants and chemical residues."
-    },
-    "segments": [
+      },
       {
         "token": "ง",
         "startTime": 253347,
@@ -16834,10 +17810,8 @@
     ]
   },
   {
-    "sentence_text": "แม้ว่า มัน จะ ไม่ ใช่ วิธี แก้ปัญหา ระยะยาว เสมอไป",
-    "translations": {
-      "en": "Though not always a long-term solution,"
-    },
+    "sentence_text": "แม้ว่ามันจะไม่ใช่วิธีแก้ปัญหาระยะยาวเสมอไป",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -17052,10 +18026,8 @@
     ]
   },
   {
-    "sentence_text": "แต่ การบำบัด น้ำ ณ จุด ใช้งาน เคลื่อนย้าย ได้ ติดตั้ง",
-    "translations": {
-      "en": "point-of-use water treatment is portable, easy to install,"
-    },
+    "sentence_text": "แต่การบำบัดน้ำ ณ จุดใช้งาน เคลื่อนย้ายได้ ติดตั้งง่าย และดัดแปลงได้",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -17281,15 +18253,7 @@
         "token": "ง",
         "startTime": 264329,
         "endTime": 264329
-      }
-    ]
-  },
-  {
-    "sentence_text": "ง่าย และ ดัดแปลง ได้",
-    "translations": {
-      "en": "and adaptable."
-    },
-    "segments": [
+      },
       {
         "token": "ง",
         "startTime": 264329,
@@ -17378,10 +18342,8 @@
     ]
   },
   {
-    "sentence_text": "และ ใน บริเวณ ที่ ไม่ มีระบบ เต็ม รูปแบบ หรือ ใน พื้น ที",
-    "translations": {
-      "en": "In areas without full systems, or where"
-    },
+    "sentence_text": "และในบริเวณที่ไม่มีระบบเต็มรูปแบบ",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -17547,7 +18509,13 @@
         "token": "บ",
         "startTime": 268601,
         "endTime": 268698
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "หรือในพื้นที่ซึ่งน้ำได้ถูกปนเปื้อน มาตั้งแต่ต้นน้ำจนถึงปลายทาง",
+    "translations": {},
+    "segments": [
       {
         "token": "ห",
         "startTime": 268698,
@@ -17607,15 +18575,7 @@
         "token": "ี",
         "startTime": 268698,
         "endTime": 268698
-      }
-    ]
-  },
-  {
-    "sentence_text": "่ ซึ่ง น้ำ ได้ ถูก ปนเปื้อน มา ตั้งแต่ ต้นน้ำ จนถึง ปลา",
-    "translations": {
-      "en": "water is contaminated from source to"
-    },
-    "segments": [
+      },
       {
         "token": "่",
         "startTime": 268698,
@@ -17840,15 +18800,7 @@
         "token": "า",
         "startTime": 271495,
         "endTime": 271622
-      }
-    ]
-  },
-  {
-    "sentence_text": "ย ทาง",
-    "translations": {
-      "en": "tap,"
-    },
-    "segments": [
+      },
       {
         "token": "ย",
         "startTime": 271622,
@@ -17872,10 +18824,8 @@
     ]
   },
   {
-    "sentence_text": "ระบบ เหล่านี้ สามารถ บ่งชี้ ความต่าง ระหว่าง ความ เป",
-    "translations": {
-      "en": "these systems can mean the difference between"
-    },
+    "sentence_text": "ระบบเหล่านี้สามารถบ่งชี้ความต่าง ระหว่างความเป็นและความตายได้",
+    "translations": {},
     "segments": [
       {
         "token": "ร",
@@ -18101,15 +19051,7 @@
         "token": "ป",
         "startTime": 274033,
         "endTime": 274192
-      }
-    ]
-  },
-  {
-    "sentence_text": "็น และ ความตาย ได้",
-    "translations": {
-      "en": "life and death."
-    },
-    "segments": [
+      },
       {
         "token": "็",
         "startTime": 274192,
@@ -18188,10 +19130,8 @@
     ]
   },
   {
-    "sentence_text": "น้ำสะอาด ยังคง เป็น สิ่ง มีค่า และ เป็น โภคภัณฑ์ ที่ ม",
-    "translations": {
-      "en": "Clean water remains precious and a commodity that"
-    },
+    "sentence_text": "น้ำสะอาดยังคงเป็นสิ่งมีค่า และเป็นโภคภัณฑ์ที่มักขาดแคลน",
+    "translations": {},
     "segments": [
       {
         "token": "น",
@@ -18417,15 +19357,7 @@
         "token": "ม",
         "startTime": 278838,
         "endTime": 278964
-      }
-    ]
-  },
-  {
-    "sentence_text": "ัก ขาดแคลน",
-    "translations": {
-      "en": "are scarce"
-    },
-    "segments": [
+      },
       {
         "token": "ั",
         "startTime": 278964,
@@ -18474,10 +19406,8 @@
     ]
   },
   {
-    "sentence_text": "มี พวกเรา เกือบจะ แปด ร้อย ล้าน คน ที่ ยัง ไม่ สามารถ เข",
-    "translations": {
-      "en": "Nearly eight hundred million of us still cannot"
-    },
+    "sentence_text": "มีพวกเราเกือบจะแปดร้อยล้านคน ที่ยังไม่สามารถเข้าถึงมันได้ง่ายนัก",
+    "translations": {},
     "segments": [
       {
         "token": "ม",
@@ -18703,15 +19633,7 @@
         "token": "ข",
         "startTime": 282331,
         "endTime": 282471
-      }
-    ]
-  },
-  {
-    "sentence_text": "้า ถึง มัน ได้ ง่าย",
-    "translations": {
-      "en": "access it easily."
-    },
-    "segments": [
+      },
       {
         "token": "้",
         "startTime": 282471,
@@ -18786,15 +19708,7 @@
         "token": "ย",
         "startTime": 284424,
         "endTime": 284563
-      }
-    ]
-  },
-  {
-    "sentence_text": "นัก ข่าวดี คือ การพัฒนา ที่ ทำ อย่าง ต่อ เนื่องใน เร ื่",
-    "translations": {
-      "en": "The good news is that ongoing development in"
-    },
-    "segments": [
+      },
       {
         "token": "น",
         "startTime": 284563,
@@ -18809,7 +19723,13 @@
         "token": "ก",
         "startTime": 284842,
         "endTime": 284982
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ข่าวดีคือการพัฒนาที่ทำอย่างต่อเนื่อง ในเรื่องการบำบัดน้ำ",
+    "translations": {},
+    "segments": [
       {
         "token": "ข",
         "startTime": 284982,
@@ -19019,15 +19939,7 @@
         "token": "่",
         "startTime": 285792,
         "endTime": 285954
-      }
-    ]
-  },
-  {
-    "sentence_text": "อง การบำบัด น้ำ ทั้ง ระบบ ขนาดใหญ่ และ เล็ก",
-    "translations": {
-      "en": "water treatment systems, both large and small,"
-    },
-    "segments": [
+      },
       {
         "token": "อ",
         "startTime": 285954,
@@ -19092,7 +20004,13 @@
         "token": "ำ",
         "startTime": 287899,
         "endTime": 288061
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ทั้งระบบขนาดใหญ่และเล็ก",
+    "translations": {},
+    "segments": [
       {
         "token": "ท",
         "startTime": 288061,
@@ -19211,10 +20129,8 @@
     ]
   },
   {
-    "sentence_text": "สามารถ บรรเทา ภาวะ ไม่ ปลอดภัย ต่างๆ ได้ มากมาย",
-    "translations": {
-      "en": "can alleviate many unsafe conditions."
-    },
+    "sentence_text": "สามารถบรรเทาภาวะไม่ปลอดภัยต่าง ๆ ได้มากมาย",
+    "translations": {},
     "segments": [
       {
         "token": "ส",
@@ -19419,10 +20335,8 @@
     ]
   },
   {
-    "sentence_text": "การ ใช้ ระบบ ที่ เหมาะ สมใน สถานที่ ซึ่ง เป็นที่ ต้อ งก",
-    "translations": {
-      "en": "Using appropriate systems in places where they are"
-    },
+    "sentence_text": "การใช้ระบบที่เหมาะสม ในสถานที่ซึ่งเป็นที่ต้องการ",
+    "translations": {},
     "segments": [
       {
         "token": "ก",
@@ -19648,15 +20562,7 @@
         "token": "ก",
         "startTime": 294855,
         "endTime": 294941
-      }
-    ]
-  },
-  {
-    "sentence_text": "าร",
-    "translations": {
-      "en": "needed,"
-    },
-    "segments": [
+      },
       {
         "token": "า",
         "startTime": 294941,
@@ -19670,10 +20576,8 @@
     ]
   },
   {
-    "sentence_text": "และ การ เอาใจใส่ อย่าง ถี่ถ้วน แก่ ระบบ ที่ มี อยู่ ก่อ",
-    "translations": {
-      "en": "and giving careful attention to existing"
-    },
+    "sentence_text": "และการเอาใจใส่อย่างถี่ถ้วน แก่ระบบที่มีอยู่ก่อนแล้ว",
+    "translations": {},
     "segments": [
       {
         "token": "แ",
@@ -19899,15 +20803,7 @@
         "token": "อ",
         "startTime": 297645,
         "endTime": 297785
-      }
-    ]
-  },
-  {
-    "sentence_text": "น แล้ว",
-    "translations": {
-      "en": "systems,"
-    },
-    "segments": [
+      },
       {
         "token": "น",
         "startTime": 297785,
@@ -19936,10 +20832,8 @@
     ]
   },
   {
-    "sentence_text": "จะ ช่วย บรรลุ หนึ่ง ใน ความต้องการ พื้นฐาน ของ มนุษย์",
-    "translations": {
-      "en": "will help fulfill one of the basic needs of humanity."
-    },
+    "sentence_text": "จะช่วยบรรลุหนึ่งในความต้องการพื้นฐาน ของมนุษย์ได้",
+    "translations": {},
     "segments": [
       {
         "token": "จ",
@@ -20165,13 +21059,7 @@
         "token": "์",
         "startTime": 300743,
         "endTime": 301025
-      }
-    ]
-  },
-  {
-    "sentence_text": "ได้",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ไ",
         "startTime": 301025,
