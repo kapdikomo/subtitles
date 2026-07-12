@@ -1,8 +1,8 @@
 [
   {
-    "sentence_text": "ใน ประวัติศาสตร์",
+    "sentence_text": "ในประวัติศาสตร์มนุษย์แทบไม่รู้เลยว่าหัวใจมีหน",
     "translations": {
-      "en": "Throughout history"
+      "en": "In human history, few knew what the heart's function was."
     },
     "segments": [
       {
@@ -94,15 +94,7 @@
         "startTime": 7889,
         "endTime": 7980,
         "pinyin": "์"
-      }
-    ]
-  },
-  {
-    "sentence_text": "มนุษย์ แทบ ไม่ รู้ เลย ว่า หัวใจ มี หน้าที่ อะไร",
-    "translations": {
-      "en": "humans barely knew what the heart did."
-    },
-    "segments": [
+      },
       {
         "token": "ม",
         "startTime": 7980,
@@ -282,7 +274,15 @@
         "startTime": 10366,
         "endTime": 10411,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "้าที่อะไร",
+    "translations": {
+      "en": "In fact, this organ so baffled Leonardo da Vinci"
+    },
+    "segments": [
       {
         "token": "้",
         "startTime": 10411,
@@ -340,9 +340,9 @@
     ]
   },
   {
-    "sentence_text": "อันที่จริง อ วัย วา นี้ ทำให้",
+    "sentence_text": "อันที่จริงอวัยวานี้ทำให้ลีโอนาโดดาวินชีสุดจะส",
     "translations": {
-      "en": "In fact, this organ"
+      "en": "that he stopped studying it."
     },
     "segments": [
       {
@@ -488,15 +488,7 @@
         "startTime": 13812,
         "endTime": 13920,
         "pinyin": "้"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ลีโอ นา โด ดา วิน ชี สุด จะ สับสน",
-    "translations": {
-      "en": "confused Leonardo da Vinci so much"
-    },
-    "segments": [
+      },
       {
         "token": "ล",
         "startTime": 13920,
@@ -622,7 +614,15 @@
         "startTime": 15840,
         "endTime": 16012,
         "pinyin": "s"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ับสน",
+    "translations": {
+      "en": "Even though everyone could feel their own heart beating,"
+    },
+    "segments": [
       {
         "token": "ั",
         "startTime": 16012,
@@ -650,9 +650,9 @@
     ]
   },
   {
-    "sentence_text": "จน เลิก ศึกษา มัน แม้ว่า ทุกคน รู้สึก ได้ ว่า หัวใจ",
+    "sentence_text": "จนเลิกศึกษามัน",
     "translations": {
-      "en": "that he stopped studying it. Even though everyone could feel their own heart"
+      "en": "no one knew why it beat."
     },
     "segments": [
       {
@@ -738,7 +738,15 @@
         "startTime": 18193,
         "endTime": 18500,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "แม้ว่าทุกคนรู้สึกได้ว่าหัวใจตนเองเต้น",
+    "translations": {
+      "en": "Now we know the heart pumps blood,"
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 18500,
@@ -906,15 +914,7 @@
         "startTime": 20620,
         "endTime": 20740,
         "pinyin": "ch"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ตนเอง เต้น แต่ ก็ ไม่ รู้ ว่า มัน เต้น",
-    "translations": {
-      "en": "beating, they didn't know why it beat."
-    },
-    "segments": [
+      },
       {
         "token": "ต",
         "startTime": 20740,
@@ -968,7 +968,15 @@
         "startTime": 21660,
         "endTime": 21860,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "แต่ก็ไม่รู้ว่ามันเต้นไปทำไม",
+    "translations": {
+      "en": "but that wasn't obvious."
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 21860,
@@ -1094,15 +1102,7 @@
         "startTime": 23755,
         "endTime": 24000,
         "pinyin": "n"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ไป ทำไม ตอนนี้ เรา า รู้ ว่า หัวใจ ซู",
-    "translations": {
-      "en": "Now we know the heart pumps"
-    },
-    "segments": [
+      },
       {
         "token": "ไ",
         "startTime": 24000,
@@ -1138,7 +1138,15 @@
         "startTime": 24700,
         "endTime": 24840,
         "pinyin": "m"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ตอนนี้เราารู้ว่าหัวใจซูปชีดเลือด",
+    "translations": {
+      "en": "If you take a heart out and expose it clearly,"
+    },
+    "segments": [
       {
         "token": "ต",
         "startTime": 24840,
@@ -1276,15 +1284,7 @@
         "startTime": 26760,
         "endTime": 27100,
         "pinyin": "ู"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ป ชี ด เลือด แต่ นั่น ไม่ ได้",
-    "translations": {
-      "en": "blood, but that isn't"
-    },
-    "segments": [
+      },
       {
         "token": "ป",
         "startTime": 27100,
@@ -1338,7 +1338,15 @@
         "startTime": 27896,
         "endTime": 28000,
         "pinyin": "d"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "แต่นั่นไม่ได้เห็นชัดเจน",
+    "translations": {
+      "en": "the body dies quickly,"
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 28000,
@@ -1416,15 +1424,7 @@
         "startTime": 29733,
         "endTime": 30300,
         "pinyin": "้"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เห็น ชัดเจน ถ้า นำ หัวใจ ออกมา",
-    "translations": {
-      "en": "obvious. If you take out a heart"
-    },
-    "segments": [
+      },
       {
         "token": "เ",
         "startTime": 30300,
@@ -1484,7 +1484,15 @@
         "startTime": 30460,
         "endTime": 30480,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ถ้านำหัวใจออกมาให้เห็นชัดชัด",
+    "translations": {
+      "en": "and it's impossible to see blood flowing through the vessels."
+    },
+    "segments": [
       {
         "token": "ถ",
         "startTime": 30480,
@@ -1574,15 +1582,7 @@
         "startTime": 31460,
         "endTime": 31640,
         "pinyin": "า"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ให้ เห็นชัด ชัด ร่างกาย ก็",
-    "translations": {
-      "en": "to see it clearly, the body"
-    },
-    "segments": [
+      },
       {
         "token": "ใ",
         "startTime": 31640,
@@ -1660,7 +1660,15 @@
         "startTime": 32480,
         "endTime": 32580,
         "pinyin": "d"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ร่างกายก็จะตายอย่างรวดเร็ว",
+    "translations": {
+      "en": "And even if it were possible,"
+    },
+    "segments": [
       {
         "token": "ร",
         "startTime": 32580,
@@ -1714,15 +1722,7 @@
         "startTime": 33460,
         "endTime": 34000,
         "pinyin": "็"
-      }
-    ]
-  },
-  {
-    "sentence_text": "จะ ตาย อย่าง รวดเร็ว และ เป็นไปไม่ได้",
-    "translations": {
-      "en": "dies quickly, making it impossible"
-    },
-    "segments": [
+      },
       {
         "token": "จ",
         "startTime": 34000,
@@ -1824,7 +1824,15 @@
         "startTime": 34774,
         "endTime": 34820,
         "pinyin": "w"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และเป็นไปไม่ได้ที่จะเห็นเลือดผ่านเส้น",
+    "translations": {
+      "en": "blood is opaque, hiding the heart's glow as it works."
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 34820,
@@ -1914,15 +1922,7 @@
         "startTime": 35753,
         "endTime": 35820,
         "pinyin": "้"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ที่จะ เห็น เลือด ผ่าน เส้น และ",
-    "translations": {
-      "en": "to see blood flowing through the vessels."
-    },
-    "segments": [
+      },
       {
         "token": "ท",
         "startTime": 35820,
@@ -2054,7 +2054,15 @@
         "startTime": 37795,
         "endTime": 37880,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และถึงแม้ว่าเป็นไปได้",
+    "translations": {
+      "en": "Only people in the surgical team"
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 37880,
@@ -2072,15 +2080,7 @@
         "startTime": 38333,
         "endTime": 38560,
         "pinyin": "ะ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ถึงแม้ว่า เป็นไปได้",
-    "translations": {
-      "en": "And even if it were possible,"
-    },
-    "segments": [
+      },
       {
         "token": "ถ",
         "startTime": 38560,
@@ -2192,9 +2192,9 @@
     ]
   },
   {
-    "sentence_text": "เลือด ก็ ทึก แสง ทำให้ เห็น วาว ของ หัวใจ",
+    "sentence_text": "เลือดก็ทึกแสงทำให้เห็นวาวของหัวใจที่กำลัง",
     "translations": {
-      "en": "the blood is opaque, obscuring the heart's glow."
+      "en": "have actually seen the heart working."
     },
     "segments": [
       {
@@ -2394,15 +2394,7 @@
         "startTime": 43700,
         "endTime": 43920,
         "pinyin": "ch"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ที่ กำลัง 21 เป็น ผู้ คนใน ทีม ภา ตัด เท่านั้น",
-    "translations": {
-      "en": "Only those in the dissection team"
-    },
-    "segments": [
+      },
       {
         "token": "ท",
         "startTime": 43920,
@@ -2450,7 +2442,15 @@
         "startTime": 44412,
         "endTime": 44480,
         "pinyin": "ng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "21เป็นผู้คนในทีมภาตัดเท่านั้น",
+    "translations": {
+      "en": "The search for understanding the heart's function"
+    },
+    "segments": [
       {
         "token": "2",
         "startTime": 44480,
@@ -2628,9 +2628,9 @@
     ]
   },
   {
-    "sentence_text": "ที่ ได้ เห็น การทำงาน",
+    "sentence_text": "ที่ได้เห็นการทำงานของหัวใจจริงๆ",
     "translations": {
-      "en": "have seen the real"
+      "en": "had only crude models,"
     },
     "segments": [
       {
@@ -2740,15 +2740,7 @@
         "startTime": 48858,
         "endTime": 48940,
         "pinyin": "n"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ของ หัวใจ จริงๆ การคน หาทาง",
-    "translations": {
-      "en": "workings of the heart. The search for"
-    },
-    "segments": [
+      },
       {
         "token": "ข",
         "startTime": 48940,
@@ -2826,7 +2818,15 @@
         "startTime": 50552,
         "endTime": 50780,
         "pinyin": "ๆ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "การคนหาทางอินเตอร์เนช์กรียวกับหน้าที่ของหัวใจ",
+    "translations": {
+      "en": "diagrams, and animations that didn't show how it really works."
+    },
+    "segments": [
       {
         "token": "ก",
         "startTime": 50780,
@@ -2886,15 +2886,7 @@
         "startTime": 51604,
         "endTime": 51700,
         "pinyin": "ng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "อินเตอร์ เนช์ กรี ยว กับ หน้าที่ ของ หัวใจ",
-    "translations": {
-      "en": "understanding the heart's function"
-    },
-    "segments": [
+      },
       {
         "token": "อ",
         "startTime": 51700,
@@ -3108,9 +3100,9 @@
     ]
   },
   {
-    "sentence_text": "มี แต่ แบบ จํ ลอง อย่า",
+    "sentence_text": "มีแต่แบบจํลองอย่าบๆ",
     "translations": {
-      "en": "has only models,"
+      "en": "Only cheap models."
     },
     "segments": [
       {
@@ -3214,15 +3206,7 @@
         "startTime": 55750,
         "endTime": 55960,
         "pinyin": "า"
-      }
-    ]
-  },
-  {
-    "sentence_text": "บๆ แผนภาพ animation",
-    "translations": {
-      "en": "diagrams, and animations."
-    },
-    "segments": [
+      },
       {
         "token": "บ",
         "startTime": 55960,
@@ -3234,7 +3218,15 @@
         "startTime": 56120,
         "endTime": 56280,
         "pinyin": "ๆ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "แผนภาพanimationที่ไม่ได้ทำให้เห็นว่าจริงๆทำงา",
+    "translations": {
+      "en": "The animation diagram doesn't show how it actually works."
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 56280,
@@ -3324,15 +3316,7 @@
         "startTime": 57104,
         "endTime": 57180,
         "pinyin": "n"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ที่ ไม่ ได้ ทำให้ เห็น ว่า จริงๆ ทำงาน อย่างไร",
-    "translations": {
-      "en": "That didn't show how it actually works."
-    },
-    "segments": [
+      },
       {
         "token": "ท",
         "startTime": 57180,
@@ -3512,7 +3496,15 @@
         "startTime": 58876,
         "endTime": 58948,
         "pinyin": "า"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "นอย่างไร",
+    "translations": {
+      "en": "How is it?"
+    },
+    "segments": [
       {
         "token": "น",
         "startTime": 58948,
@@ -3564,9 +3556,9 @@
     ]
   },
   {
-    "sentence_text": "กับ กับ มี การ สมคบคิด",
+    "sentence_text": "กับกับมีการสมคบคิดระหว่างอาจารย์และนักเรียน",
     "translations": {
-      "en": "There was a conspiracy"
+      "en": "There is a conspiracy between teacher and students."
     },
     "segments": [
       {
@@ -3676,15 +3668,7 @@
         "startTime": 61009,
         "endTime": 61100,
         "pinyin": "d"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ระหว่าง อาจารย์ และ นักเรียน ให้ ยอมรับ",
-    "translations": {
-      "en": "between teacher and students to accept"
-    },
-    "segments": [
+      },
       {
         "token": "ร",
         "startTime": 61100,
@@ -3834,7 +3818,15 @@
         "startTime": 62770,
         "endTime": 62820,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ให้ยอมรับว่าไม่สามารถสาธิตการทำงานของหัวใจได้",
+    "translations": {
+      "en": "To admit that they cannot demonstrate how the heart works."
+    },
+    "segments": [
       {
         "token": "ใ",
         "startTime": 62820,
@@ -3888,15 +3880,7 @@
         "startTime": 63427,
         "endTime": 63500,
         "pinyin": "b"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ว่า ไม่ สามารถ สาธิต การทำงาน ของ หัวใจ ได้ แปล",
-    "translations": {
-      "en": "that the heart's function couldn't be demonstrated, meaning"
-    },
-    "segments": [
+      },
       {
         "token": "ว",
         "startTime": 63500,
@@ -4112,7 +4096,15 @@
         "startTime": 66007,
         "endTime": 66040,
         "pinyin": "้"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "แปลวาสิ่งที่ดีที่สุดคือการพามันออกมาแล้วติดชื",
+    "translations": {
+      "en": "Meaning the best thing is to take it out and attach it"
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 66040,
@@ -4130,15 +4122,7 @@
         "startTime": 66440,
         "endTime": 66640,
         "pinyin": "l"
-      }
-    ]
-  },
-  {
-    "sentence_text": "วา สิ่ง ที่ ดี ที่สุด คือ การพา",
-    "translations": {
-      "en": "the best thing was to take"
-    },
-    "segments": [
+      },
       {
         "token": "ว",
         "startTime": 66640,
@@ -4288,15 +4272,7 @@
         "startTime": 68628,
         "endTime": 68760,
         "pinyin": "า"
-      }
-    ]
-  },
-  {
-    "sentence_text": "มัน ออกมา แล้ว ติด ชื่อ ส่วนต่อ",
-    "translations": {
-      "en": "it out and attach a label to the part."
-    },
-    "segments": [
+      },
       {
         "token": "ม",
         "startTime": 68760,
@@ -4398,7 +4374,15 @@
         "startTime": 69810,
         "endTime": 69880,
         "pinyin": "ื"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "่อส่วน",
+    "translations": {
+      "en": "to a part."
+    },
+    "segments": [
       {
         "token": "่",
         "startTime": 69880,
@@ -4434,7 +4418,15 @@
         "startTime": 70423,
         "endTime": 70557,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ต่อวิทีนั้นนักเรียนอาจไม่รู้การทำงานทั้งหมด",
+    "translations": {
+      "en": "In that method, students may not know all the workings,"
+    },
+    "segments": [
       {
         "token": "ต",
         "startTime": 70557,
@@ -4452,15 +4444,7 @@
         "startTime": 70826,
         "endTime": 70960,
         "pinyin": "อ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "วิ ที นั้น นักเรียน อาจ ไม่ รู้ การทำงาน ทั้งหมด",
-    "translations": {
-      "en": "That way, students might not know the whole function,"
-    },
-    "segments": [
+      },
       {
         "token": "ว",
         "startTime": 70960,
@@ -4704,9 +4688,9 @@
     ]
   },
   {
-    "sentence_text": "แต่ ก็ สามารถ เข้าใจ อย่าง ผิว เผิล",
+    "sentence_text": "แต่ก็สามารถเข้าใจอย่างผิวเผิลได้",
     "translations": {
-      "en": "but could understand superficially,"
+      "en": "but they can understand superficially."
     },
     "segments": [
       {
@@ -4882,15 +4866,7 @@
         "startTime": 76305,
         "endTime": 76560,
         "pinyin": "l"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ได้ เรียนรู้ ว่า หัวใจ 米 วะ ที่ คือ สี ห้อง หรือ",
-    "translations": {
-      "en": "learning that the heart has four chambers, or"
-    },
-    "segments": [
+      },
       {
         "token": "ไ",
         "startTime": 76560,
@@ -4901,14 +4877,22 @@
         "token": "ด",
         "startTime": 76633,
         "endTime": 76707,
-        "pinyin": "ด"
+        "pinyin": "d"
       },
       {
         "token": "้",
         "startTime": 76707,
         "endTime": 76780,
         "pinyin": "้"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "เรียนรู้ว่าหัวใจ米วะที่คือสีห้องหรือคำกล่าวผิด",
+    "translations": {
+      "en": "Learning that the heart has four chambers or is a misstatement."
+    },
+    "segments": [
       {
         "token": "เ",
         "startTime": 76780,
@@ -5118,20 +5102,12 @@
         "startTime": 79820,
         "endTime": 80000,
         "pinyin": "อ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "คำกล่าว ผิด ผิด ว่า",
-    "translations": {
-      "en": "the wrong claim that"
-    },
-    "segments": [
+      },
       {
         "token": "ค",
         "startTime": 80000,
         "endTime": 80060,
-        "pinyin": "kh"
+        "pinyin": "ค"
       },
       {
         "token": "ำ",
@@ -5143,13 +5119,13 @@
         "token": "ก",
         "startTime": 80120,
         "endTime": 80180,
-        "pinyin": "k"
+        "pinyin": "ก"
       },
       {
         "token": "ล",
         "startTime": 80180,
         "endTime": 80240,
-        "pinyin": "l"
+        "pinyin": "ล"
       },
       {
         "token": "่",
@@ -5167,13 +5143,13 @@
         "token": "ว",
         "startTime": 80360,
         "endTime": 80420,
-        "pinyin": "w"
+        "pinyin": "ว"
       },
       {
         "token": "ผ",
         "startTime": 80420,
         "endTime": 80480,
-        "pinyin": "ph"
+        "pinyin": "ผ"
       },
       {
         "token": "ิ",
@@ -5185,8 +5161,16 @@
         "token": "ด",
         "startTime": 80540,
         "endTime": 80600,
-        "pinyin": "d"
-      },
+        "pinyin": "ด"
+      }
+    ]
+  },
+  {
+    "sentence_text": "ผิดว่าสัตว์เล่งลูกด้วยนมมีระบบไล้เวียณแบบคู่อ",
+    "translations": {
+      "en": "Wrong that mammals have a double circulatory system."
+    },
+    "segments": [
       {
         "token": "ผ",
         "startTime": 80600,
@@ -5222,15 +5206,7 @@
         "startTime": 81433,
         "endTime": 81760,
         "pinyin": "า"
-      }
-    ]
-  },
-  {
-    "sentence_text": "สัตว์ เล่ง ลูก ด้วย นม มีระบบ",
-    "translations": {
-      "en": "mammals have a"
-    },
-    "segments": [
+      },
       {
         "token": "ส",
         "startTime": 81760,
@@ -5374,15 +5350,7 @@
         "startTime": 83770,
         "endTime": 83880,
         "pinyin": "b"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ไล้ เวียณ แบบ คู่ อัน แรก",
-    "translations": {
-      "en": "double circulation system: the first loop"
-    },
-    "segments": [
+      },
       {
         "token": "ไ",
         "startTime": 83880,
@@ -5472,7 +5440,15 @@
         "startTime": 85180,
         "endTime": 85247,
         "pinyin": "อ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ันแรกมีเลือดไหลไปที่ปอร์ดและกลับมาและอีกอันขึ",
+    "translations": {
+      "en": "The first has blood flowing to the lungs and back, and the other"
+    },
+    "segments": [
       {
         "token": "ั",
         "startTime": 85247,
@@ -5502,15 +5478,7 @@
         "startTime": 85580,
         "endTime": 85680,
         "pinyin": "k"
-      }
-    ]
-  },
-  {
-    "sentence_text": "มี เลือด ไหล ไป ที่ ปอร์ด และ กลับมา",
-    "translations": {
-      "en": "has blood flowing to the lungs and back,"
-    },
-    "segments": [
+      },
       {
         "token": "ม",
         "startTime": 85680,
@@ -5684,15 +5652,7 @@
         "startTime": 87460,
         "endTime": 87540,
         "pinyin": "า"
-      }
-    ]
-  },
-  {
-    "sentence_text": "และ อีก อัน ขึ้น ไหล ไป ที่ ร่างกาย แล้ว กลับมา",
-    "translations": {
-      "en": "and the other goes to the body and back."
-    },
-    "segments": [
+      },
       {
         "token": "แ",
         "startTime": 87540,
@@ -5758,7 +5718,15 @@
         "startTime": 88185,
         "endTime": 88250,
         "pinyin": "ึ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "้นไหลไปที่ร่างกายแล้วกลับมา",
+    "translations": {
+      "en": "flows to the body and back."
+    },
+    "segments": [
       {
         "token": "้",
         "startTime": 88250,
@@ -5924,9 +5892,9 @@
     ]
   },
   {
-    "sentence_text": "ความจริง สัตว์เลี้ยงลูกด้วยนม",
+    "sentence_text": "ความจริงสัตว์เลี้ยงลูกด้วยนมมีการไหลเวียณโหิต",
     "translations": {
-      "en": "In reality, mammals"
+      "en": "In fact, mammals have blood circulation"
     },
     "segments": [
       {
@@ -6096,15 +6064,7 @@
         "startTime": 91634,
         "endTime": 91680,
         "pinyin": "m"
-      }
-    ]
-  },
-  {
-    "sentence_text": "มี การ ไหล เวียณ โห ิต แบบ เลข 8",
-    "translations": {
-      "en": "have a figure-8 circulation."
-    },
-    "segments": [
+      },
       {
         "token": "ม",
         "startTime": 91680,
@@ -6206,7 +6166,15 @@
         "startTime": 92920,
         "endTime": 92960,
         "pinyin": "t"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "แบบเลข8จะหัวใจสุบชีตเลือดไปอย่างปอร์ดเลือดกลั",
+    "translations": {
+      "en": "like a figure 8: the heart pumps blood to the lungs, blood returns"
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 92960,
@@ -6248,15 +6216,7 @@
         "startTime": 93220,
         "endTime": 93580,
         "pinyin": "8"
-      }
-    ]
-  },
-  {
-    "sentence_text": "จะ หัวใจ สุ บ ชีต เลือด ไป อย่าง ปอร์ด",
-    "translations": {
-      "en": "The heart pumps blood to the lungs,"
-    },
-    "segments": [
+      },
       {
         "token": "จ",
         "startTime": 93580,
@@ -6436,15 +6396,7 @@
         "startTime": 95636,
         "endTime": 95720,
         "pinyin": "d"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เลือด กลับ เข้ามา ตอน หัวใจ บีบ ตัว ครั้ง",
-    "translations": {
-      "en": "blood returns when the heart contracts a second time,"
-    },
-    "segments": [
+      },
       {
         "token": "เ",
         "startTime": 95720,
@@ -6492,7 +6444,15 @@
         "startTime": 96190,
         "endTime": 96245,
         "pinyin": "ั"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "บเข้ามาตอนหัวใจบีบตัวครั้งที่2ซึ่งจะส่งมันไปส",
+    "translations": {
+      "en": "during the second heartbeat, which sends it to"
+    },
+    "segments": [
       {
         "token": "บ",
         "startTime": 96245,
@@ -6648,15 +6608,7 @@
         "startTime": 97764,
         "endTime": 97840,
         "pinyin": "ng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ที่ 2 ซึ่ง จะ ส่ง มัน ไป สั่ว ร่างกาย",
-    "translations": {
-      "en": "which sends it to the body,"
-    },
-    "segments": [
+      },
       {
         "token": "ท",
         "startTime": 97840,
@@ -6770,7 +6722,15 @@
         "startTime": 98980,
         "endTime": 99015,
         "pinyin": "s"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ั่วร่างกายแล้วย้อนกลับไปการเบียบตัวครั้งแร่",
+    "translations": {
+      "en": "the body and then back to the first beat,"
+    },
+    "segments": [
       {
         "token": "ั",
         "startTime": 99015,
@@ -6830,15 +6790,7 @@
         "startTime": 99583,
         "endTime": 99660,
         "pinyin": "y"
-      }
-    ]
-  },
-  {
-    "sentence_text": "แล้ว ย้อนกลับ ไป การ เบียบ",
-    "translations": {
-      "en": "then back to the heart."
-    },
-    "segments": [
+      },
       {
         "token": "แ",
         "startTime": 99660,
@@ -6970,15 +6922,7 @@
         "startTime": 100928,
         "endTime": 101000,
         "pinyin": "b"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ตัว ครั้ง แร่ ซึ่ง แตก ต่างกัน แย่ แสน ธรรค์",
-    "translations": {
-      "en": "The first one, which differs greatly and is quite strange."
-    },
-    "segments": [
+      },
       {
         "token": "ต",
         "startTime": 101000,
@@ -7044,7 +6988,15 @@
         "startTime": 101660,
         "endTime": 101740,
         "pinyin": "่"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ซึ่งแตกต่างกันแย่แสนธรรค์เพราะแสดงให้เห็นถึงส",
+    "translations": {
+      "en": "which is different, but it shows"
+    },
+    "segments": [
       {
         "token": "ซ",
         "startTime": 101740,
@@ -7194,15 +7146,7 @@
         "startTime": 103500,
         "endTime": 103640,
         "pinyin": "์"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เพราะ แสดงให้เห็น",
-    "translations": {
-      "en": "Because it shows"
-    },
-    "segments": [
+      },
       {
         "token": "เ",
         "startTime": 103640,
@@ -7298,15 +7242,7 @@
         "startTime": 104302,
         "endTime": 104360,
         "pinyin": "n"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ถึง สันธาน วิทยา ที่ แตกต่าง",
-    "translations": {
-      "en": "a different conjunction."
-    },
-    "segments": [
+      },
       {
         "token": "ถ",
         "startTime": 104360,
@@ -7330,7 +7266,15 @@
         "startTime": 104760,
         "endTime": 104807,
         "pinyin": "s"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ันธานวิทยาที่แตกต่าง",
+    "translations": {
+      "en": "different anatomy."
+    },
+    "segments": [
       {
         "token": "ั",
         "startTime": 104807,
@@ -7454,9 +7398,9 @@
     ]
   },
   {
-    "sentence_text": "ค วา ม่า สับสน นี้ ทำ ให้หน้า เรียน มา น่าย คน เฐยๆ",
+    "sentence_text": "ความ่าสับสนนี้ทำให้หน้าเรียนมาน่ายคนเฐยๆกระบบ",
     "translations": {
-      "en": "This confusion made the class quite baffling."
+      "en": "This confusion makes many students just memorize the"
     },
     "segments": [
       {
@@ -7698,15 +7642,7 @@
         "startTime": 109535,
         "endTime": 109660,
         "pinyin": "ๆ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "กระ บ บทเรียน เรื่อง หัวใจ ใน วิชา ชีวะ วิทยา",
-    "translations": {
-      "en": "The lesson on the heart in biology class"
-    },
-    "segments": [
+      },
       {
         "token": "ก",
         "startTime": 109660,
@@ -7736,7 +7672,15 @@
         "startTime": 110000,
         "endTime": 110046,
         "pinyin": "b"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ทเรียนเรื่องหัวใจในวิชาชีวะวิทยาคิดว่ามันเป็น",
+    "translations": {
+      "en": "lesson about the heart in biology, thinking it's"
+    },
+    "segments": [
       {
         "token": "ท",
         "startTime": 110046,
@@ -7928,15 +7872,7 @@
         "startTime": 112784,
         "endTime": 112960,
         "pinyin": "า"
-      }
-    ]
-  },
-  {
-    "sentence_text": "คิด ว่า มัน เป็น วิชา ที่ ทรง สัญญาณ ค่ม",
-    "translations": {
-      "en": "I thought it was a very promising subject."
-    },
-    "segments": [
+      },
       {
         "token": "ค",
         "startTime": 112960,
@@ -8014,7 +7950,15 @@
         "startTime": 113810,
         "endTime": 113900,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "วิชาที่ทรงสัญญาณค่มกู",
+    "translations": {
+      "en": "a subject with great potential."
+    },
+    "segments": [
       {
         "token": "ว",
         "startTime": 113900,
@@ -8128,15 +8072,7 @@
         "startTime": 119793,
         "endTime": 122320,
         "pinyin": "m"
-      }
-    ]
-  },
-  {
-    "sentence_text": "กู เมื่อ แพทย์ สังเกต ลิ้นหัวใจ",
-    "translations": {
-      "en": "But when the doctor observed the heart valves,"
-    },
-    "segments": [
+      },
       {
         "token": "ก",
         "startTime": 122320,
@@ -8148,7 +8084,15 @@
         "startTime": 123800,
         "endTime": 125280,
         "pinyin": "ู"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "เมื่อแพทย์สังเกตลิ้นหัวใจเอาละลองคิดว่าคุณเป็",
+    "translations": {
+      "en": "When a doctor observes the heart valves, now think you are"
+    },
+    "segments": [
       {
         "token": "เ",
         "startTime": 125280,
@@ -8298,15 +8242,7 @@
         "startTime": 128456,
         "endTime": 128740,
         "pinyin": "ch"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เอาละ ลอง คิด ว่า คุณ เป็น แพทย์",
-    "translations": {
-      "en": "Okay, imagine you are a doctor."
-    },
-    "segments": [
+      },
       {
         "token": "เ",
         "startTime": 128740,
@@ -8426,7 +8362,15 @@
         "startTime": 129350,
         "endTime": 129405,
         "pinyin": "็"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "นแพทย์สกวรอย่างแรกคือหัวใจสดๆจะแกะหรือหมูแช่ล",
+    "translations": {
+      "en": "The first thing to dissect is a fresh heart, either lamb or pork, soaked in water."
+    },
+    "segments": [
       {
         "token": "น",
         "startTime": 129405,
@@ -8462,15 +8406,7 @@
         "startTime": 130548,
         "endTime": 130820,
         "pinyin": "์"
-      }
-    ]
-  },
-  {
-    "sentence_text": "สก วร อย่าง แรก คือ หัวใจ",
-    "translations": {
-      "en": "The first thing is the heart."
-    },
-    "segments": [
+      },
       {
         "token": "ส",
         "startTime": 130820,
@@ -8590,15 +8526,7 @@
         "startTime": 133544,
         "endTime": 133900,
         "pinyin": "ch"
-      }
-    ]
-  },
-  {
-    "sentence_text": "สดๆ จะ แกะ หรือ หมู แช่ ลง",
-    "translations": {
-      "en": "Fresh, either a pig's or soaked,"
-    },
-    "segments": [
+      },
       {
         "token": "ส",
         "startTime": 133900,
@@ -8712,21 +8640,21 @@
         "startTime": 136820,
         "endTime": 137350,
         "pinyin": "l"
-      },
-      {
-        "token": "ง",
-        "startTime": 137350,
-        "endTime": 137880,
-        "pinyin": "ng"
       }
     ]
   },
   {
-    "sentence_text": "ไป ใน น้ำ จะ สัง เก็ต ว่า มัน จะ ไม่ เต็น 波 ด ด้วย หมื่อ",
+    "sentence_text": "งไปในน้ำจะสังเก็ตว่ามันจะไม่เต็น波ดด้วยหมื่อนั",
     "translations": {
-      "en": "in water, you'll notice it doesn't beat at all."
+      "en": "You'll notice it doesn't beat because water hasn't fully entered the heart."
     },
     "segments": [
+      {
+        "token": "ง",
+        "startTime": 137350,
+        "endTime": 137880,
+        "pinyin": "ง"
+      },
       {
         "token": "ไ",
         "startTime": 137880,
@@ -8978,27 +8906,27 @@
         "startTime": 141196,
         "endTime": 141400,
         "pinyin": "อ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "นั่น เป็น เพราะว่า",
-    "translations": {
-      "en": "That's because"
-    },
-    "segments": [
+      },
       {
         "token": "น",
         "startTime": 141400,
         "endTime": 141450,
-        "pinyin": "n"
+        "pinyin": "น"
       },
       {
         "token": "ั",
         "startTime": 141450,
         "endTime": 141500,
         "pinyin": "ั"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "่นเป็นเพราะว่าน้ำไม่ได้เข้าไปในหัวใจอย่างเต็ม",
+    "translations": {
+      "en": "This is because water doesn't fully enter the heart."
+    },
+    "segments": [
       {
         "token": "่",
         "startTime": 141500,
@@ -9082,15 +9010,7 @@
         "startTime": 142238,
         "endTime": 142300,
         "pinyin": "า"
-      }
-    ]
-  },
-  {
-    "sentence_text": "น้ำ ไม่ ได้ เข้าไป ใน หัวใจ อย่าง เต็มที่",
-    "translations": {
-      "en": "water doesn't fully enter the heart."
-    },
-    "segments": [
+      },
       {
         "token": "น",
         "startTime": 142300,
@@ -9276,7 +9196,15 @@
         "startTime": 144251,
         "endTime": 144349,
         "pinyin": "m"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ที่เพื่อให้ระบบการเซ้นทำงาน",
+    "translations": {
+      "en": "For the sensory system to work."
+    },
+    "segments": [
       {
         "token": "ท",
         "startTime": 144349,
@@ -9294,15 +9222,7 @@
         "startTime": 144543,
         "endTime": 144640,
         "pinyin": "่"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เพื่อให้ ระบบ การ เซ้น ทำงาน",
-    "translations": {
-      "en": "For the system to work,"
-    },
-    "segments": [
+      },
       {
         "token": "เ",
         "startTime": 144640,
@@ -9450,9 +9370,9 @@
     ]
   },
   {
-    "sentence_text": "แก่ ปัญหา นี้ ได้ อย่าง ง่ายๆ",
+    "sentence_text": "แก่ปัญหานี้ได้อย่างง่ายๆแค่หาหัวใจห้องบนทั้งส",
     "translations": {
-      "en": "to solve this problem easily,"
+      "en": "To solve this problem easily, just find both upper chambers of the heart."
     },
     "segments": [
       {
@@ -9598,15 +9518,7 @@
         "startTime": 150124,
         "endTime": 150640,
         "pinyin": "ๆ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "แค่ หา หัวใจ ห้อง บน ทั้งสอง และ ตัด",
-    "translations": {
-      "en": "just find both atria and cut"
-    },
-    "segments": [
+      },
       {
         "token": "แ",
         "startTime": 150640,
@@ -9732,7 +9644,15 @@
         "startTime": 152223,
         "endTime": 152309,
         "pinyin": "s"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "องและตัดมันออก",
+    "translations": {
+      "en": "And cut them off."
+    },
+    "segments": [
       {
         "token": "อ",
         "startTime": 152309,
@@ -9780,15 +9700,7 @@
         "startTime": 153400,
         "endTime": 153760,
         "pinyin": "d"
-      }
-    ]
-  },
-  {
-    "sentence_text": "มัน ออก เลม มัน ลง ไป จนถึง ด้านบน ของ หัวใจ",
-    "translations": {
-      "en": "them down to the top of the heart's"
-    },
-    "segments": [
+      },
       {
         "token": "ม",
         "startTime": 153760,
@@ -9824,7 +9736,15 @@
         "startTime": 154120,
         "endTime": 154200,
         "pinyin": "k"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "เลมมันลงไปจนถึงด้านบนของหัวใจห้องล่าง",
+    "translations": {
+      "en": "Slice down to the top of the lower chambers."
+    },
+    "segments": [
       {
         "token": "เ",
         "startTime": 154200,
@@ -9998,15 +9918,7 @@
         "startTime": 156788,
         "endTime": 156960,
         "pinyin": "ch"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ห้อง ล่าง ทำให้ หัวใจ ดู ง่าย",
-    "translations": {
-      "en": "ventricles, making the heart easier to see."
-    },
-    "segments": [
+      },
       {
         "token": "ห",
         "startTime": 156960,
@@ -10054,7 +9966,15 @@
         "startTime": 157530,
         "endTime": 157580,
         "pinyin": "ng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ทำให้หัวใจดูง่ายมากขึ้นเพราะหัวใจห้องบนมีเส้น",
+    "translations": {
+      "en": "This makes the heart easier to see because the upper chambers have many blood vessels connected."
+    },
+    "segments": [
       {
         "token": "ท",
         "startTime": 157580,
@@ -10150,15 +10070,7 @@
         "startTime": 159270,
         "endTime": 159480,
         "pinyin": "y"
-      }
-    ]
-  },
-  {
-    "sentence_text": "มากขึ้น เพราะ หัวใจ ห้อง บน มี เส้นเลือด",
-    "translations": {
-      "en": "More so because the atria have blood vessels"
-    },
-    "segments": [
+      },
       {
         "token": "ม",
         "startTime": 159480,
@@ -10332,7 +10244,15 @@
         "startTime": 161213,
         "endTime": 161278,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "เลือดเชื่อมมากหลายเซ้น",
+    "translations": {
+      "en": "Many sensors."
+    },
+    "segments": [
       {
         "token": "เ",
         "startTime": 161278,
@@ -10362,15 +10282,7 @@
         "startTime": 161536,
         "endTime": 161600,
         "pinyin": "d"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เชื่อม มากหลาย เซ้นพอ",
-    "translations": {
-      "en": "connected with many sensors."
-    },
-    "segments": [
+      },
       {
         "token": "เ",
         "startTime": 161600,
@@ -10472,7 +10384,15 @@
         "startTime": 163050,
         "endTime": 163180,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "พอตัดออกไปส่มเลือดที่เหลืออยู่คือส่มเลือดอรทอ",
+    "translations": {
+      "en": "Once cut off, the remaining blood vessels are the aorta."
+    },
+    "segments": [
       {
         "token": "พ",
         "startTime": 163180,
@@ -10484,15 +10404,7 @@
         "startTime": 163310,
         "endTime": 163440,
         "pinyin": "อ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ตัดออก ไป ส่ม เลือด ที่ เหลืออยู่",
-    "translations": {
-      "en": "Cut out the remaining blood vessels."
-    },
-    "segments": [
+      },
       {
         "token": "ต",
         "startTime": 163440,
@@ -10660,15 +10572,7 @@
         "startTime": 165049,
         "endTime": 165120,
         "pinyin": "่"
-      }
-    ]
-  },
-  {
-    "sentence_text": "คือ ส่ม เลือด อร ทอ รี",
-    "translations": {
-      "en": "These are the aorta and pulmonary artery."
-    },
-    "segments": [
+      },
       {
         "token": "ค",
         "startTime": 165120,
@@ -10758,7 +10662,15 @@
         "startTime": 166220,
         "endTime": 166320,
         "pinyin": "อ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "รีA.O.R.T.A.",
+    "translations": {
+      "en": "A. O. R. T. A."
+    },
+    "segments": [
       {
         "token": "ร",
         "startTime": 166320,
@@ -10770,15 +10682,7 @@
         "startTime": 167220,
         "endTime": 168120,
         "pinyin": "ี"
-      }
-    ]
-  },
-  {
-    "sentence_text": "A .O.R.T.A. และ PalmonyArtery",
-    "translations": {
-      "en": "A.O.R.T.A. and Pulmonary Artery."
-    },
-    "segments": [
+      },
       {
         "token": "A",
         "startTime": 168120,
@@ -10838,7 +10742,15 @@
         "startTime": 168940,
         "endTime": 169060,
         "pinyin": "."
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และPalmonyArteryซึ่งต่อตรงขึ้นมาระหว่างหัวใจห",
+    "translations": {
+      "en": "And the Pulmonary Artery, which connects straight up between the lower chambers."
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 169060,
@@ -10934,15 +10846,7 @@
         "startTime": 170525,
         "endTime": 170720,
         "pinyin": "y"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ซึ่ง ต่อ ตรง ขึ้น มา ระหว่าง หัวใจ ห้อง ล่าง",
-    "translations": {
-      "en": "Which connect directly between the lower chambers of the heart."
-    },
-    "segments": [
+      },
       {
         "token": "ซ",
         "startTime": 170720,
@@ -11116,7 +11020,15 @@
         "startTime": 172580,
         "endTime": 172650,
         "pinyin": "ห"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "้องล่าง",
+    "translations": {
+      "en": "Lower chambers."
+    },
+    "segments": [
       {
         "token": "้",
         "startTime": 172650,
@@ -11162,9 +11074,9 @@
     ]
   },
   {
-    "sentence_text": "และ ดู ริ ยับ ง่าย มาก",
+    "sentence_text": "และดูริยับง่ายมากถ้าคุณเติมน้ำจากกรกลงไปที่หั",
     "translations": {
-      "en": "And they are very easy to observe."
+      "en": "And it's very easy to see if you pour water from a jug into the right lower chamber."
     },
     "segments": [
       {
@@ -11268,15 +11180,7 @@
         "startTime": 176527,
         "endTime": 177120,
         "pinyin": "k"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ถ้า คุณ เติม น้ำ จาก กรก ลง ไป ที่ หัวใจ",
-    "translations": {
-      "en": "If you pour water from a jar into the heart."
-    },
-    "segments": [
+      },
       {
         "token": "ถ",
         "startTime": 177120,
@@ -11444,7 +11348,15 @@
         "startTime": 179008,
         "endTime": 179076,
         "pinyin": "ั"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "วใจห้องล่างขวา",
+    "translations": {
+      "en": "Right lower chamber."
+    },
+    "segments": [
       {
         "token": "ว",
         "startTime": 179076,
@@ -11462,15 +11374,7 @@
         "startTime": 179212,
         "endTime": 179280,
         "pinyin": "ch"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ห้อง ล่าง ขวา ทางซ้าย",
-    "translations": {
-      "en": "The right and left ventricles."
-    },
-    "segments": [
+      },
       {
         "token": "ห",
         "startTime": 179280,
@@ -11536,7 +11440,15 @@
         "startTime": 179840,
         "endTime": 179840,
         "pinyin": "า"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ทางซ้ายก็ใช้ได้เหมือนกันแต่ไม่ค่อยตื่นเต้น",
+    "translations": {
+      "en": "The left side works too, but it's less exciting."
+    },
+    "segments": [
       {
         "token": "ท",
         "startTime": 179840,
@@ -11578,15 +11490,7 @@
         "startTime": 180954,
         "endTime": 181140,
         "pinyin": "y"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ก็ ใช้ได้ เหมือนกัน แต่ ไม่ค่อย ตื่นเต้น คุณ",
-    "translations": {
-      "en": "It works the same but is less exciting. You"
-    },
-    "segments": [
+      },
       {
         "token": "ก",
         "startTime": 181140,
@@ -11796,7 +11700,15 @@
         "startTime": 182480,
         "endTime": 182480,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "คุณจะเห็นลิ่นหัวใจเพยามที่จะปิดไม่ให้น้ำเข้า",
+    "translations": {
+      "en": "You'll see the heart valves trying to close to keep water out."
+    },
+    "segments": [
       {
         "token": "ค",
         "startTime": 182480,
@@ -11814,15 +11726,7 @@
         "startTime": 183280,
         "endTime": 183680,
         "pinyin": "n"
-      }
-    ]
-  },
-  {
-    "sentence_text": "จะ เห็น ลิ่น หัวใจ เพ ยาม ที่จะ ปิด ไม่ ให้น้ำ เข้า",
-    "translations": {
-      "en": "will see the heart valves trying to close to prevent water from entering."
-    },
-    "segments": [
+      },
       {
         "token": "จ",
         "startTime": 183680,
@@ -12072,9 +11976,9 @@
     ]
   },
   {
-    "sentence_text": "เมื่อ น้ำ เต็ม หัวใจ ห้อง ล่าง",
+    "sentence_text": "เมื่อน้ำเต็มหัวใจห้องล่างบีบที่หัวใจและสายน้ำ",
     "translations": {
-      "en": "When the ventricles are full of water."
+      "en": "When water fills the lower chamber, squeeze the heart and the water will spurt out from the other blood vessel."
     },
     "segments": [
       {
@@ -12226,15 +12130,7 @@
         "startTime": 189390,
         "endTime": 189580,
         "pinyin": "ng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "บีบ ที่ หัวใจ และ สายน้ำ",
-    "translations": {
-      "en": "Squeeze the heart and the water line."
-    },
-    "segments": [
+      },
       {
         "token": "บ",
         "startTime": 189580,
@@ -12358,9 +12254,9 @@
     ]
   },
   {
-    "sentence_text": "ก็ จะ พุ่ง ออกจาก ทาง ซึ่น เลือด PulmonaryArteries",
+    "sentence_text": "ก็จะพุ่งออกจากทางซึ่นเลือด",
     "translations": {
-      "en": "Will spurt out from the pulmonary arteries."
+      "en": "Pulmonary Arteries. The valve called the tricuspid."
     },
     "segments": [
       {
@@ -12518,7 +12414,15 @@
         "startTime": 192816,
         "endTime": 192820,
         "pinyin": "d"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "PulmonaryArteriesลิ่นหัวใจที่เรียกว่าtricuspi",
+    "translations": {
+      "en": "Pulmonary Arteries. The valve called the tricuspid."
+    },
+    "segments": [
       {
         "token": "P",
         "startTime": 192820,
@@ -12620,15 +12524,7 @@
         "startTime": 194127,
         "endTime": 194380,
         "pinyin": "s"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ลิ่น หัวใจ ที่ เรียก ว่า tricuspid คัด ปิด ด้านบน",
-    "translations": {
-      "en": "The valve called the tricuspid closes the top."
-    },
-    "segments": [
+      },
       {
         "token": "ล",
         "startTime": 194380,
@@ -12796,7 +12692,15 @@
         "startTime": 196300,
         "endTime": 196300,
         "pinyin": "i"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "dคัดปิดด้านบนหัวใจห้องล่างขวา",
+    "translations": {
+      "en": "The top of the right ventricle is closed off."
+    },
+    "segments": [
       {
         "token": "d",
         "startTime": 196300,
@@ -12874,15 +12778,7 @@
         "startTime": 197273,
         "endTime": 197420,
         "pinyin": "n"
-      }
-    ]
-  },
-  {
-    "sentence_text": "หัวใจ ห้อง ล่าง ขวา และ มาย โทร ที่อยู่ ทาง ด้าน ซ้าย",
-    "translations": {
-      "en": "The right ventricle and the mitral on the left side."
-    },
-    "segments": [
+      },
       {
         "token": "ห",
         "startTime": 197420,
@@ -12978,7 +12874,15 @@
         "startTime": 198627,
         "endTime": 198740,
         "pinyin": "า"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และมายโทรที่อยู่ทางด้านซ้ายสามารถเห็นได้ผ่านน",
+    "translations": {
+      "en": "And the mitral valve on the left side can be seen through"
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 198740,
@@ -13140,15 +13044,7 @@
         "startTime": 200870,
         "endTime": 201040,
         "pinyin": "y"
-      }
-    ]
-  },
-  {
-    "sentence_text": "สามารถ เห็น ได้ ผ่าน น้ำ ใส ๆ ว่า",
-    "translations": {
-      "en": "Can be seen through the clear water as they"
-    },
-    "segments": [
+      },
       {
         "token": "ส",
         "startTime": 201040,
@@ -13256,7 +13152,15 @@
         "startTime": 202160,
         "endTime": 202240,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "้ำใสๆว่าเปิดปิดเหมือนกับร่ม",
+    "translations": {
+      "en": "the clear water, opening and closing like an umbrella."
+    },
+    "segments": [
       {
         "token": "้",
         "startTime": 202240,
@@ -13304,15 +13208,7 @@
         "startTime": 202973,
         "endTime": 203160,
         "pinyin": "า"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เปิด ปิด เหมือนกับ ร่ม",
-    "translations": {
-      "en": "open and close like an umbrella."
-    },
-    "segments": [
+      },
       {
         "token": "เ",
         "startTime": 203160,
@@ -13430,9 +13326,9 @@
     ]
   },
   {
-    "sentence_text": "เหมือน หัวใจ ห้อง ล่าง ถูก บี ป yg เป็นจังหวะ การ",
+    "sentence_text": "เหมือนหัวใจห้องล่างถูกบีปygเป็นจังหวะการไลค์ข",
     "translations": {
-      "en": "Like the ventricles being squeezed rhythmically."
+      "en": "The ventricle is squeezed in rhythm, like the"
     },
     "segments": [
       {
@@ -13674,15 +13570,7 @@
         "startTime": 206593,
         "endTime": 206840,
         "pinyin": "r"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ไลค์ ของ น้ำ เลี้ยน",
-    "translations": {
-      "en": "The flow of water."
-    },
-    "segments": [
+      },
       {
         "token": "ไ",
         "startTime": 206840,
@@ -13712,7 +13600,15 @@
         "startTime": 207220,
         "endTime": 207247,
         "pinyin": "kh"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "องน้ำเลี้ยนแบบการไลค์ของเลือก",
+    "translations": {
+      "en": "flow of water, like the selection of a choice."
+    },
+    "segments": [
       {
         "token": "อ",
         "startTime": 207247,
@@ -13778,15 +13674,7 @@
         "startTime": 207950,
         "endTime": 208040,
         "pinyin": "n"
-      }
-    ]
-  },
-  {
-    "sentence_text": "แบบ การ ไลค์ ของ เลือก ลิ่น หัวใจ นั้น มีประสิทธิภาพ",
-    "translations": {
-      "en": "The way blood flows through the valves is efficient."
-    },
-    "segments": [
+      },
       {
         "token": "แ",
         "startTime": 208040,
@@ -13894,7 +13782,15 @@
         "startTime": 209448,
         "endTime": 209520,
         "pinyin": "k"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ลิ่นหัวใจนั้นมีประสิทธิภาพสังเกตว่าน้ำไม่ร่ว่",
+    "translations": {
+      "en": "The heart's pumping is efficient; note that no water leaks"
+    },
+    "segments": [
       {
         "token": "ล",
         "startTime": 209520,
@@ -14050,15 +13946,7 @@
         "startTime": 211440,
         "endTime": 211520,
         "pinyin": "ph"
-      }
-    ]
-  },
-  {
-    "sentence_text": "สังเกตว่า น้ำ ไม่ ร่ ว่า เลย มือ หัวใจ ห้อง ล่าง ถูก",
-    "translations": {
-      "en": "Notice that no water leaks when the ventricles are."
-    },
-    "segments": [
+      },
       {
         "token": "ส",
         "startTime": 211520,
@@ -14172,7 +14060,15 @@
         "startTime": 213460,
         "endTime": 213600,
         "pinyin": "่"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "าเลยมือหัวใจห้องล่างถูกบีด",
+    "translations": {
+      "en": "at all. The ventricle is squeezed."
+    },
+    "segments": [
       {
         "token": "า",
         "startTime": 213600,
@@ -14310,15 +14206,7 @@
         "startTime": 215387,
         "endTime": 215540,
         "pinyin": "k"
-      }
-    ]
-  },
-  {
-    "sentence_text": "บี ด เมื่อ เวลา ผ่าน",
-    "translations": {
-      "en": "As time passes,"
-    },
-    "segments": [
+      },
       {
         "token": "บ",
         "startTime": 215540,
@@ -14336,7 +14224,15 @@
         "startTime": 215560,
         "endTime": 215580,
         "pinyin": "d"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "เมื่อเวลาผ่านไปพวกมันก็ยังปิดกันสนิตมีความเสี",
+    "translations": {
+      "en": "Over time, they still close tightly, with only"
+    },
+    "segments": [
       {
         "token": "เ",
         "startTime": 215580,
@@ -14414,15 +14310,7 @@
         "startTime": 216700,
         "endTime": 216860,
         "pinyin": "n"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ไป พวก มัน ก็ ยัง ปิด กัน ส นิ ต มี ความเสียหาย",
-    "translations": {
-      "en": "they still close with little damage,"
-    },
-    "segments": [
+      },
       {
         "token": "ไ",
         "startTime": 216860,
@@ -14614,7 +14502,15 @@
         "startTime": 219331,
         "endTime": 219393,
         "pinyin": "ี"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ยหายเพียงเล็กน้อยเท่านั้น",
+    "translations": {
+      "en": "a tiny amount of loss."
+    },
+    "segments": [
       {
         "token": "ย",
         "startTime": 219393,
@@ -14638,15 +14534,7 @@
         "startTime": 219578,
         "endTime": 219640,
         "pinyin": "y"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เพียง เล็กน้อย เท่านั้น ซึ่ง อธิบาย",
-    "translations": {
-      "en": "which explains"
-    },
-    "segments": [
+      },
       {
         "token": "เ",
         "startTime": 219640,
@@ -14772,7 +14660,15 @@
         "startTime": 221050,
         "endTime": 221120,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ซึ่งอธิบายว่าหัวใจทำงานต่อเนื้องไม่ว่าอะไรจะเ",
+    "translations": {
+      "en": "This explains how the heart continues to work no matter what"
+    },
+    "segments": [
       {
         "token": "ซ",
         "startTime": 221120,
@@ -14832,15 +14728,7 @@
         "startTime": 222037,
         "endTime": 222140,
         "pinyin": "y"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ว่า หัวใจ ทำงานต่อ เนื้อ ง ไม่ ว่า อะไร จะ เกิดขึ้น",
-    "translations": {
-      "en": "how the heart keeps working no matter what,"
-    },
-    "segments": [
+      },
       {
         "token": "ว",
         "startTime": 222140,
@@ -15050,7 +14938,15 @@
         "startTime": 224460,
         "endTime": 224555,
         "pinyin": "เ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "กิดขึ้นได้อย่างไร",
+    "translations": {
+      "en": "happens."
+    },
+    "segments": [
       {
         "token": "ก",
         "startTime": 224555,
@@ -15092,15 +14988,7 @@
         "startTime": 225125,
         "endTime": 225220,
         "pinyin": "n"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ได้ อย่างไร เมื่อ 2,000 ล้าน ครั้ง ใน ช่ ว่า ชีวิต เรา",
-    "translations": {
-      "en": "2 billion times in our lifetime."
-    },
-    "segments": [
+      },
       {
         "token": "ไ",
         "startTime": 225220,
@@ -15160,7 +15048,15 @@
         "startTime": 225811,
         "endTime": 225880,
         "pinyin": "r"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "เมื่อ2,000ล้านครั้งในช่ว่าชีวิตเรา",
+    "translations": {
+      "en": "When 2 billion times in our lifetime,"
+    },
+    "segments": [
       {
         "token": "เ",
         "startTime": 225880,
@@ -15368,9 +15264,9 @@
     ]
   },
   {
-    "sentence_text": "คน ที่ เรียน เรื่อง หัวใจ สามารถ",
+    "sentence_text": "คนที่เรียนเรื่องหัวใจสามารถที่จะถือไว้ในมือ",
     "translations": {
-      "en": "Those who study the heart can"
+      "en": "those who study the heart can hold it in their hands,"
     },
     "segments": [
       {
@@ -15534,15 +15430,7 @@
         "startTime": 230637,
         "endTime": 230800,
         "pinyin": "th"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ที่จะ ถือ ไว้ ใน มือ",
-    "translations": {
-      "en": "hold in their hands"
-    },
-    "segments": [
+      },
       {
         "token": "ท",
         "startTime": 230800,
@@ -15642,9 +15530,9 @@
     ]
   },
   {
-    "sentence_text": "ความ ไม้ ใหม่ ให้ กับ ความรู้สึก",
+    "sentence_text": "ความไม้ใหม่ให้กับความรู้สึกของคุณ",
     "translations": {
-      "en": "new life for feelings."
+      "en": "bringing new understanding to your feelings."
     },
     "segments": [
       {
@@ -15808,15 +15696,7 @@
         "startTime": 245732,
         "endTime": 245800,
         "pinyin": "k"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ของ คุณ และ คุณ วิ่ง ใน การ แข่ง ขั้น",
-    "translations": {
-      "en": "You run in the same race,"
-    },
-    "segments": [
+      },
       {
         "token": "ข",
         "startTime": 245800,
@@ -15852,7 +15732,15 @@
         "startTime": 246273,
         "endTime": 246400,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และคุณวิ่งในการแข่งขั้นเดิมคาฟีนมากกันไป",
+    "translations": {
+      "en": "And you run in the same race, too much caffeine,"
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 246400,
@@ -15990,15 +15878,7 @@
         "startTime": 247785,
         "endTime": 247860,
         "pinyin": "n"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เดิม คา ฟี น มาก กัน ไป หรือ สบตา คนรัก",
-    "translations": {
-      "en": "too much caffeine or locking eyes with a loved one."
-    },
-    "segments": [
+      },
       {
         "token": "เ",
         "startTime": 247860,
@@ -16100,7 +15980,15 @@
         "startTime": 249080,
         "endTime": 249200,
         "pinyin": "p"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "หรือสบตาคนรัก",
+    "translations": {
+      "en": "or lock eyes with a loved one."
+    },
+    "segments": [
       {
         "token": "ห",
         "startTime": 249200,
