@@ -1,7 +1,9 @@
 [
   {
-    "sentence_text": "ในปี พ.ศ. 2540ในการแข่งฟุตบอลระหว่างฝรั่งเศสกับบราซิล",
-    "translations": {},
+    "sentence_text": "ใน ปี พ.ศ. 2540 ใน การ แข่ง ฟุตบอล ระหว่าง ฝรั่งเศส กับ บราซิล",
+    "translations": {
+      "en": "In 1997, during a football match between France and Brazil,"
+    },
     "segments": [
       {
         "token": "ใ",
@@ -312,8 +314,10 @@
     ]
   },
   {
-    "sentence_text": "นักเตะหนุ่มชาวบราซิลโรเบอร์โต คาร์ลอส",
-    "translations": {},
+    "sentence_text": "นักเตะ หนุ่ม ชาว บราซิล",
+    "translations": {
+      "en": "a young Brazilian player,"
+    },
     "segments": [
       {
         "token": "น",
@@ -434,7 +438,15 @@
         "startTime": 12942,
         "endTime": 13027,
         "pinyin": "l"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "โร เบอร์ โต คาร์ ลอส ได้ เตะ ลูกโทษ ที่ ระยะ",
+    "translations": {
+      "en": "Roberto Carlos, took a free kick from"
+    },
+    "segments": [
       {
         "token": "โ",
         "startTime": 13027,
@@ -530,13 +542,7 @@
         "startTime": 14302,
         "endTime": 14387,
         "pinyin": "s"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ได้เตะลูกโทษที่ระยะ 35 เมตร",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ไ",
         "startTime": 14387,
@@ -650,7 +656,15 @@
         "startTime": 16630,
         "endTime": 16754,
         "pinyin": "ะ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "35 เมตร เนื่องจาก ไม่ มี ช่อง ให้ ยิงประตู ได้ ตรง",
+    "translations": {
+      "en": "35 meters away, as there was no direct path to the goal."
+    },
+    "segments": [
       {
         "token": "3",
         "startTime": 16754,
@@ -686,13 +700,7 @@
         "startTime": 17377,
         "endTime": 17502,
         "pinyin": "r"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เนื่องจากไม่มีช่องให้ยิงประตูได้ตรง ๆ",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "เ",
         "startTime": 17502,
@@ -902,19 +910,21 @@
         "startTime": 19440,
         "endTime": 19497,
         "pinyin": "ng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ๆ คาร์ ลอส จึง ตัดสินใจ เตะ ลูกโทษ ที่ ดู ไม่ น่าจะ เป็นไปได้",
+    "translations": {
+      "en": "Carlos decided to attempt a seemingly impossible free kick."
+    },
+    "segments": [
       {
         "token": "ๆ",
         "startTime": 19497,
         "endTime": 19554,
         "pinyin": "ๆ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "คาร์ลอสจึงตัดสินใจเตะลูกโทษที่ดูไม่น่าจะเป็นไปได้",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ค",
         "startTime": 19554,
@@ -1212,8 +1222,10 @@
     ]
   },
   {
-    "sentence_text": "เขาเตะหลบกำแพงฝ่ายตรงข้าม",
-    "translations": {},
+    "sentence_text": "เขา เตะ หลบ กำแพง ฝ่ายตรงข้าม",
+    "translations": {
+      "en": "He kicked the ball over the opposing wall,"
+    },
     "segments": [
       {
         "token": "เ",
@@ -1368,8 +1380,10 @@
     ]
   },
   {
-    "sentence_text": "แต่แทนที่บอลจะพุ่งออกนอกสนามบอลกลับโค้งเข้ามาทางซ้าย",
-    "translations": {},
+    "sentence_text": "แต่ แทนที่ บอล จะ พุ่ง ออก นอก สนาม",
+    "translations": {
+      "en": "but instead of flying out of bounds,"
+    },
     "segments": [
       {
         "token": "แ",
@@ -1538,7 +1552,15 @@
         "startTime": 29089,
         "endTime": 29164,
         "pinyin": "m"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "บอล กลับ โค้ง เข้ามา ทางซ้าย",
+    "translations": {
+      "en": "the ball curved to the left,"
+    },
+    "segments": [
       {
         "token": "บ",
         "startTime": 29164,
@@ -1686,8 +1708,10 @@
     ]
   },
   {
-    "sentence_text": "และบินฉิวเข้าประตูไป",
-    "translations": {},
+    "sentence_text": "และ บิน ฉิว เข้า ประตู ไป",
+    "translations": {
+      "en": "and zipped into the goal."
+    },
     "segments": [
       {
         "token": "แ",
@@ -1812,8 +1836,10 @@
     ]
   },
   {
-    "sentence_text": "กฎการเคลื่อนที่ข้อแรกของนิวตันกล่าวไว้ว่า",
-    "translations": {},
+    "sentence_text": "กฎ การ เคลื่อนที่ ข้อ แรก ของ นิวตัน กล่าว ไว้ ว่า",
+    "translations": {
+      "en": "Newton's first law of motion states that"
+    },
     "segments": [
       {
         "token": "ก",
@@ -2064,8 +2090,10 @@
     ]
   },
   {
-    "sentence_text": "วัตถุจะเคลื่อนที่ไปทิศทางเดียวกับความเร็ว",
-    "translations": {},
+    "sentence_text": "วัตถุ จะ เคลื่อนที่ ไป ทิศ ทางเดียว กับ ความเร็ว",
+    "translations": {
+      "en": "an object moves in the direction of its velocity"
+    },
     "segments": [
       {
         "token": "ว",
@@ -2316,8 +2344,10 @@
     ]
   },
   {
-    "sentence_text": "จนกว่าจะมีแรงอื่นมากระทำ",
-    "translations": {},
+    "sentence_text": "จนกว่า จะ มี แรง อื่น มา กระทำ",
+    "translations": {
+      "en": "until acted upon by another force."
+    },
     "segments": [
       {
         "token": "จ",
@@ -2466,8 +2496,10 @@
     ]
   },
   {
-    "sentence_text": "ตอนที่คาร์ลอสยิงประตูเขาได้กำหนดทิศทางกับความเร็วให้ลูกบอล",
-    "translations": {},
+    "sentence_text": "ตอนที่ คาร์ ลอส ยิงประตู",
+    "translations": {
+      "en": "When Carlos took the shot,"
+    },
     "segments": [
       {
         "token": "ต",
@@ -2594,7 +2626,15 @@
         "startTime": 43406,
         "endTime": 43472,
         "pinyin": "ู"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "เขา ได้ กำหนด ทิศทาง กับ ความเร็ว ให้ ลูกบอล",
+    "translations": {
+      "en": "he set the ball's direction and speed."
+    },
+    "segments": [
       {
         "token": "เ",
         "startTime": 43472,
@@ -2820,8 +2860,10 @@
     ]
   },
   {
-    "sentence_text": "แล้วแรงอะไรกันที่ทำให้ลูกบอลหักเห",
-    "translations": {},
+    "sentence_text": "แล้ว แรง อะไร กันที่ ทำให้ ลูกบอล หักเห",
+    "translations": {
+      "en": "So what force made the ball swerve,"
+    },
     "segments": [
       {
         "token": "แ",
@@ -3024,8 +3066,10 @@
     ]
   },
   {
-    "sentence_text": "จนได้ประตูที่มหัศจรรย์ที่สุดในประวัติศาสตร์ของกีฬานี้",
-    "translations": {},
+    "sentence_text": "จนได้ ประตู ที่ มหัศจรรย์ ที่สุด",
+    "translations": {
+      "en": "resulting in one of the most amazing goals"
+    },
     "segments": [
       {
         "token": "จ",
@@ -3194,7 +3238,15 @@
         "startTime": 51183,
         "endTime": 51275,
         "pinyin": "d"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ใน ประวัติศาสตร์ ของ กีฬา นี้",
+    "translations": {
+      "en": "in the history of the sport?"
+    },
+    "segments": [
       {
         "token": "ใ",
         "startTime": 51275,
@@ -3348,8 +3400,10 @@
     ]
   },
   {
-    "sentence_text": "เคล็ดลับคือการปั่นลูก",
-    "translations": {},
+    "sentence_text": "เคล็ดลับ คือ การ ปั่น ลูก",
+    "translations": {
+      "en": "The secret was spin."
+    },
     "segments": [
       {
         "token": "เ",
@@ -3480,8 +3534,10 @@
     ]
   },
   {
-    "sentence_text": "คาร์ลอสใช้เท้าเตะที่มุมขวาล่างของลูกบอล",
-    "translations": {},
+    "sentence_text": "คาร์ ลอส ใช้ เท้า เตะ ที่ มุม ขวา ล่าง ของ ลูกบอล",
+    "translations": {
+      "en": "Carlos struck the lower right side of the ball with his foot,"
+    },
     "segments": [
       {
         "token": "ค",
@@ -3720,8 +3776,10 @@
     ]
   },
   {
-    "sentence_text": "ทำให้ลูกบอลลอยสูงไปขึ้นทางขวาแต่หมุนรอบตัวเองไปด้วย",
-    "translations": {},
+    "sentence_text": "ทำให้ ลูกบอล ลอย สูง ไป ขึ้น ทางขวา",
+    "translations": {
+      "en": "causing it to soar high to the right."
+    },
     "segments": [
       {
         "token": "ท",
@@ -3896,7 +3954,15 @@
         "startTime": 62604,
         "endTime": 62715,
         "pinyin": "า"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "แต่ หมุนรอบ ตัวเอง ไป ด้วย",
+    "translations": {
+      "en": "But it also spins on its own axis."
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 62715,
@@ -4032,8 +4098,10 @@
     ]
   },
   {
-    "sentence_text": "ลูกบอลเริ่มลอยออกไปดูเหมือนเป็นเส้นตรง",
-    "translations": {},
+    "sentence_text": "ลูกบอล เริ่ม ลอย ออก ไป",
+    "translations": {
+      "en": "The ball begins to float away."
+    },
     "segments": [
       {
         "token": "ล",
@@ -4148,7 +4216,15 @@
         "startTime": 66601,
         "endTime": 66683,
         "pinyin": "p"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ดูเหมือน เป็น เส้นตรง",
+    "translations": {
+      "en": "It seems like a straight line."
+    },
+    "segments": [
       {
         "token": "ด",
         "startTime": 66683,
@@ -4266,8 +4342,10 @@
     ]
   },
   {
-    "sentence_text": "แต่อากาศที่ไหลผ่านลูกบอลทั้งสองด้านทำให้เคลื่อนที่ช้าลง",
-    "translations": {},
+    "sentence_text": "แต่ อากาศ ที่ ไหลผ่าน ลูกบอล ทั้งสอง ด้าน",
+    "translations": {
+      "en": "But the air flowing past both sides of the ball"
+    },
     "segments": [
       {
         "token": "แ",
@@ -4478,7 +4556,15 @@
         "startTime": 70591,
         "endTime": 70660,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ทำให้ เคลื่อนที่ ช้า ลง",
+    "translations": {
+      "en": "slows it down."
+    },
+    "segments": [
       {
         "token": "ท",
         "startTime": 70660,
@@ -4602,8 +4688,10 @@
     ]
   },
   {
-    "sentence_text": "ทางด้านหนึ่ง อากาศเคลื่อนที่ในทิศตรงกันข้ามกับการหมุน",
-    "translations": {},
+    "sentence_text": "ทาง ด้าน หนึ่ง อากาศ เคลื่อนที่",
+    "translations": {
+      "en": "On one side, the air moves"
+    },
     "segments": [
       {
         "token": "ท",
@@ -4766,7 +4854,15 @@
         "startTime": 74521,
         "endTime": 74616,
         "pinyin": "่"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ใน ทิศ ตรงกันข้าม กับ การ หมุน",
+    "translations": {
+      "en": "in the opposite direction of the spin,"
+    },
+    "segments": [
       {
         "token": "ใ",
         "startTime": 74616,
@@ -4920,8 +5016,10 @@
     ]
   },
   {
-    "sentence_text": "ทำให้ความดันสูงขึ้น",
-    "translations": {},
+    "sentence_text": "ทำให้ ความดัน สูง ขึ้น",
+    "translations": {
+      "en": "creating higher pressure."
+    },
     "segments": [
       {
         "token": "ท",
@@ -5040,8 +5138,10 @@
     ]
   },
   {
-    "sentence_text": "ส่วนอีกด้าน อากาศเคลื่อนที่ในทิศทางเดียวกันกับการหมุน",
-    "translations": {},
+    "sentence_text": "ส่วน อีก ด้าน อากาศ เคลื่อนที่",
+    "translations": {
+      "en": "On the other side, the air moves"
+    },
     "segments": [
       {
         "token": "ส",
@@ -5198,7 +5298,15 @@
         "startTime": 80883,
         "endTime": 80963,
         "pinyin": "่"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ใน ทิศทาง เดียวกัน กับ การ หมุน",
+    "translations": {
+      "en": "in the same direction as the spin,"
+    },
+    "segments": [
       {
         "token": "ใ",
         "startTime": 80963,
@@ -5358,8 +5466,10 @@
     ]
   },
   {
-    "sentence_text": "ทำให้ความดันต่ำลง",
-    "translations": {},
+    "sentence_text": "ทำให้ ความดัน ต่ำ ลง",
+    "translations": {
+      "en": "creating lower pressure."
+    },
     "segments": [
       {
         "token": "ท",
@@ -5466,8 +5576,10 @@
     ]
   },
   {
-    "sentence_text": "ความดันที่ต่างกันทำให้ลูกบอลโค้งไปยังด้านที่มีความดันต่ำกว่า",
-    "translations": {},
+    "sentence_text": "ความดัน ที่ ต่างกัน ทำให้ ลูกบอล",
+    "translations": {
+      "en": "The difference in pressure causes the ball"
+    },
     "segments": [
       {
         "token": "ค",
@@ -5636,7 +5748,15 @@
         "startTime": 88281,
         "endTime": 88361,
         "pinyin": "l"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "โค้ง ไป ยัง ด้าน ที่ มี ความดัน ต่ำกว่า",
+    "translations": {
+      "en": "to curve toward the side with lower pressure."
+    },
+    "segments": [
       {
         "token": "โ",
         "startTime": 88361,
@@ -5832,8 +5952,10 @@
     ]
   },
   {
-    "sentence_text": "ปรากฏการณ์นี้เรียกว่า ปรากฏการณ์แมกนัส",
-    "translations": {},
+    "sentence_text": "ปรากฏการณ์ นี้ เรียก ว่า",
+    "translations": {
+      "en": "This phenomenon is called"
+    },
     "segments": [
       {
         "token": "ป",
@@ -5960,7 +6082,15 @@
         "startTime": 92752,
         "endTime": 92843,
         "pinyin": "า"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ปรากฏการณ์ แมก นัส",
+    "translations": {
+      "en": "the Magnus effect."
+    },
+    "segments": [
       {
         "token": "ป",
         "startTime": 92843,
@@ -6060,8 +6190,10 @@
     ]
   },
   {
-    "sentence_text": "การเตะที่เรียกว่าการเตะไซด์โค้งนี้",
-    "translations": {},
+    "sentence_text": "การ เตะ ที่ เรียก ว่าการ เตะ ไซ ด์ โค้ง นี้",
+    "translations": {
+      "en": "This kick, known as a curve kick,"
+    },
     "segments": [
       {
         "token": "ก",
@@ -6270,8 +6402,10 @@
     ]
   },
   {
-    "sentence_text": "เป็นสิ่งที่นักกีฬาพยายามอยู่บ่อย ๆ",
-    "translations": {},
+    "sentence_text": "เป็น สิ่ง ที่ นักกีฬา พยายาม อยู่ บ่อย",
+    "translations": {
+      "en": "is something athletes often attempt"
+    },
     "segments": [
       {
         "token": "เ",
@@ -6464,19 +6598,21 @@
         "startTime": 99417,
         "endTime": 99473,
         "pinyin": "y"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ๆ และ เป็น องค์ประกอบ หนึ่ง",
+    "translations": {
+      "en": "and is one element"
+    },
+    "segments": [
       {
         "token": "ๆ",
         "startTime": 99473,
         "endTime": 99529,
         "pinyin": "ๆ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "และเป็นองค์ประกอบหนึ่งที่ทำให้นัดที่งดงามมีความงดงาม",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "แ",
         "startTime": 99529,
@@ -6608,7 +6744,15 @@
         "startTime": 101165,
         "endTime": 101243,
         "pinyin": "ng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ที่ ทำให้ นัด ที่ งดงาม มี ความงดงาม",
+    "translations": {
+      "en": "that makes a beautiful match beautiful."
+    },
+    "segments": [
       {
         "token": "ท",
         "startTime": 101243,
@@ -6792,8 +6936,10 @@
     ]
   },
   {
-    "sentence_text": "แต่การเตะลูกบอลให้โค้งแม่นยำตามที่ต้องการ",
-    "translations": {},
+    "sentence_text": "แต่ การ เตะ ลูกบอล ให้ โค้ง",
+    "translations": {
+      "en": "But kicking the ball to curve"
+    },
     "segments": [
       {
         "token": "แ",
@@ -6926,7 +7072,15 @@
         "startTime": 104785,
         "endTime": 104843,
         "pinyin": "ng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "แม่นยำ ตามที่ ต้องการ",
+    "translations": {
+      "en": "As precise as needed"
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 104843,
@@ -7044,8 +7198,10 @@
     ]
   },
   {
-    "sentence_text": "ให้ทั้งอ้อมกำแพงฝ่ายตรงข้ามและเลี้ยวเข้าประตูเป็นเรื่องยาก",
-    "translations": {},
+    "sentence_text": "ให้ ทั้ง อ้อม กำแพง ฝ่ายตรงข้าม",
+    "translations": {
+      "en": "It goes around the opponent's wall"
+    },
     "segments": [
       {
         "token": "ใ",
@@ -7208,7 +7364,15 @@
         "startTime": 108231,
         "endTime": 108320,
         "pinyin": "m"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "และ เลี้ยว เข้า ประตู เป็นเรื่อง ยาก",
+    "translations": {
+      "en": "and turning into the goal is difficult"
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 108320,
@@ -7398,8 +7562,10 @@
     ]
   },
   {
-    "sentence_text": "หากสูงไป ก็จะลอยพ้นประตู",
-    "translations": {},
+    "sentence_text": "หาก สูง ไป ก็ จะ ลอย พ้น ประตู",
+    "translations": {
+      "en": "If too high, it will fly over the goal"
+    },
     "segments": [
       {
         "token": "ห",
@@ -7542,8 +7708,10 @@
     ]
   },
   {
-    "sentence_text": "หากต่ำไป ก็จะตกพื้นสนามก่อนเริ่มตวัด",
-    "translations": {},
+    "sentence_text": "หาก ต่ำ ไป ก็ จะ ตก พื้นสนาม ก่อน เริ่ม ตวัด",
+    "translations": {
+      "en": "If too low, it will hit the ground before curving"
+    },
     "segments": [
       {
         "token": "ห",
@@ -7758,8 +7926,10 @@
     ]
   },
   {
-    "sentence_text": "หากโค้งไป ก็จะอ้อมประตูไป",
-    "translations": {},
+    "sentence_text": "หาก โค้ง ไป ก็ จะ อ้อม ประตู ไป",
+    "translations": {
+      "en": "If too curved, it will go around the goal"
+    },
     "segments": [
       {
         "token": "ห",
@@ -7908,8 +8078,10 @@
     ]
   },
   {
-    "sentence_text": "หากโค้งน้อยไป ก็จะชนแนวกันของฝ่ายตรงข้าม",
-    "translations": {},
+    "sentence_text": "หาก โค้ง น้อย ไป ก็ จะ ชน แนว กัน ของ ฝ่ายตรงข้าม",
+    "translations": {
+      "en": "If not curved enough, it will hit the opponent's defense"
+    },
     "segments": [
       {
         "token": "ห",
@@ -8148,8 +8320,10 @@
     ]
   },
   {
-    "sentence_text": "หากช้าไป ลูกบอกก็อาจจะโค้งเร็วไปหรือไม่โค้งเลย",
-    "translations": {},
+    "sentence_text": "หาก ช้า ไป ลูก บอก ก็ อาจจะ โค้ง เร็ว ไป",
+    "translations": {
+      "en": "If too slow, the ball may curve too quickly"
+    },
     "segments": [
       {
         "token": "ห",
@@ -8336,7 +8510,15 @@
         "startTime": 124909,
         "endTime": 124986,
         "pinyin": "p"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "หรือไม่ โค้ง เลย หาก เร็ว ไป",
+    "translations": {
+      "en": "or not curve at all if too fast"
+    },
+    "segments": [
       {
         "token": "ห",
         "startTime": 124986,
@@ -8420,13 +8602,7 @@
         "startTime": 125991,
         "endTime": 126068,
         "pinyin": "y"
-      }
-    ]
-  },
-  {
-    "sentence_text": "หากเร็วไป อาจจะตีโค้งช้าไป",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ห",
         "startTime": 126068,
@@ -8480,7 +8656,15 @@
         "startTime": 127034,
         "endTime": 127155,
         "pinyin": "p"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "อาจจะ ตีโค้ง ช้า ไป",
+    "translations": {
+      "en": "It might curve too late"
+    },
+    "segments": [
       {
         "token": "อ",
         "startTime": 127155,
@@ -8580,8 +8764,10 @@
     ]
   },
   {
-    "sentence_text": "หลักการฟิสิกส์เดียวกันนี้",
-    "translations": {},
+    "sentence_text": "หลักการ ฟิสิกส์ เดียวกัน นี้",
+    "translations": {
+      "en": "This same physics principle"
+    },
     "segments": [
       {
         "token": "ห",
@@ -8736,8 +8922,10 @@
     ]
   },
   {
-    "sentence_text": "ทำให้นักฟุตบอลทำประตูที่ดูเป็นไปไม่ได้ ได้อีกแบบ",
-    "translations": {},
+    "sentence_text": "ทำให้ นักฟุตบอล ทำประตู",
+    "translations": {
+      "en": "allows footballers to score goals"
+    },
     "segments": [
       {
         "token": "ท",
@@ -8864,7 +9052,15 @@
         "startTime": 132428,
         "endTime": 132501,
         "pinyin": "ู"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ที่ ดู เป็นไปไม่ได้",
+    "translations": {
+      "en": "that seem impossible"
+    },
+    "segments": [
       {
         "token": "ท",
         "startTime": 132501,
@@ -8966,7 +9162,15 @@
         "startTime": 133661,
         "endTime": 133733,
         "pinyin": "้"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ได้ อีก แบบ นั่น คือ",
+    "translations": {
+      "en": "in another way:"
+    },
+    "segments": [
       {
         "token": "ไ",
         "startTime": 133733,
@@ -9020,13 +9224,7 @@
         "startTime": 134313,
         "endTime": 134386,
         "pinyin": "b"
-      }
-    ]
-  },
-  {
-    "sentence_text": "นั่นคือ การทำประตูจากลูกเตะมุม",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "น",
         "startTime": 134386,
@@ -9068,7 +9266,15 @@
         "startTime": 135031,
         "endTime": 135139,
         "pinyin": "อ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "การ ทำประตู จาก ลูก เตะ มุม",
+    "translations": {
+      "en": "scoring from corner kicks"
+    },
+    "segments": [
       {
         "token": "ก",
         "startTime": 135139,
@@ -9204,8 +9410,10 @@
     ]
   },
   {
-    "sentence_text": "ปรากฏการณ์แมกนัสได้รับการบันทึกเป็นครั้งแรกโดยเซอร์ ไอแซก นิวตัน",
-    "translations": {},
+    "sentence_text": "ปรากฏการณ์ แมก นัส ได้รับ การ บันทึก เป็นครั้งแรก",
+    "translations": {
+      "en": "The Magnus effect was first recorded"
+    },
     "segments": [
       {
         "token": "ป",
@@ -9464,7 +9672,15 @@
         "startTime": 139894,
         "endTime": 139951,
         "pinyin": "k"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "โดย เซอร์ ไอ แซก นิวตัน",
+    "translations": {
+      "en": "by Sir Isaac Newton"
+    },
+    "segments": [
       {
         "token": "โ",
         "startTime": 139951,
@@ -9582,8 +9798,10 @@
     ]
   },
   {
-    "sentence_text": "หลังจากสังเกตปรากฏการณ์นี้ขณะเล่นเทนนิสในปี พ.ศ. 2213",
-    "translations": {},
+    "sentence_text": "หลังจาก สังเกต ปรากฏการณ์ นี้",
+    "translations": {
+      "en": "after observing this phenomenon"
+    },
     "segments": [
       {
         "token": "ห",
@@ -9740,7 +9958,15 @@
         "startTime": 143453,
         "endTime": 143550,
         "pinyin": "้"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ขณะ เล่น เทนนิส ใน ปี",
+    "translations": {
+      "en": "while playing tennis in"
+    },
+    "segments": [
       {
         "token": "ข",
         "startTime": 143550,
@@ -9842,7 +10068,15 @@
         "startTime": 145099,
         "endTime": 145196,
         "pinyin": "ี"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "พ.ศ. 2213 ปรากฏการณ์ นี้ พบ ได้ ใน",
+    "translations": {
+      "en": "1670. This effect is found in"
+    },
+    "segments": [
       {
         "token": "พ",
         "startTime": 145196,
@@ -9890,13 +10124,7 @@
         "startTime": 146164,
         "endTime": 146261,
         "pinyin": "3"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ปรากฏการณ์นี้พบได้ในลูกกอล์ฟ จานร่อน และเบสบอลเช่นกัน",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ป",
         "startTime": 146261,
@@ -10016,7 +10244,15 @@
         "startTime": 147735,
         "endTime": 147812,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ลูก กอล์ฟ จาน ร่อน และ เบสบอล เช่นกัน",
+    "translations": {
+      "en": "Golf balls, frisbees, and baseballs as well."
+    },
+    "segments": [
       {
         "token": "ล",
         "startTime": 147812,
@@ -10206,8 +10442,10 @@
     ]
   },
   {
-    "sentence_text": "ในกรณีเหล่านี้ เกิดปรากฏการณ์แบบเดียวกัน",
-    "translations": {},
+    "sentence_text": "ใน กรณี เหล่านี้ เกิด ปรากฏการณ์ แบบ เดียวกัน",
+    "translations": {
+      "en": "In these cases, the same phenomenon occurs."
+    },
     "segments": [
       {
         "token": "ใ",
@@ -10446,8 +10684,10 @@
     ]
   },
   {
-    "sentence_text": "การหมุนของลูกทำให้ความดันอากาศที่ไหลอยู่รอบวัตถุต่างกัน",
-    "translations": {},
+    "sentence_text": "การ หมุน ของ ลูก ทำให้",
+    "translations": {
+      "en": "The spin of the ball causes"
+    },
     "segments": [
       {
         "token": "ก",
@@ -10556,7 +10796,15 @@
         "startTime": 154528,
         "endTime": 154609,
         "pinyin": "้"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ความดัน อากาศ ที่ ไหล อยู่ รอบ วัตถุ ต่างกัน",
+    "translations": {
+      "en": "the air pressure flowing around the object to differ,"
+    },
+    "segments": [
       {
         "token": "ค",
         "startTime": 154609,
@@ -10782,8 +11030,10 @@
     ]
   },
   {
-    "sentence_text": "ทำให้วิถีวัตถุหมุนโค้งตามทิศของการหมุนของวัตถุ",
-    "translations": {},
+    "sentence_text": "ทำให้ วิถี วัตถุ หมุน โค้ง ตาม ทิศ ของ การ หมุน ของ วัตถุ",
+    "translations": {
+      "en": "making the spinning object curve in the direction of its spin."
+    },
     "segments": [
       {
         "token": "ท",
@@ -11064,8 +11314,10 @@
     ]
   },
   {
-    "sentence_text": "คำถามก็คือ",
-    "translations": {},
+    "sentence_text": "คำถาม ก็ คือ ตา มท ฤษฏี แล้ว",
+    "translations": {
+      "en": "The question is, theoretically,"
+    },
     "segments": [
       {
         "token": "ค",
@@ -11126,13 +11378,7 @@
         "startTime": 161840,
         "endTime": 161972,
         "pinyin": "อ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ตามทฤษฏีแล้วเราเตะลูกบอลให้แรงพอ",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ต",
         "startTime": 161972,
@@ -11204,7 +11450,15 @@
         "startTime": 162823,
         "endTime": 162901,
         "pinyin": "w"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "เรา เตะ ลูกบอล ให้แรง พอ",
+    "translations": {
+      "en": "if we kick a ball hard enough,"
+    },
+    "segments": [
       {
         "token": "เ",
         "startTime": 162901,
@@ -11328,8 +11582,10 @@
     ]
   },
   {
-    "sentence_text": "จนลูกบอลย้อนกลับมาหาตัวเราแบบบูมเมอแรงได้หรือไม่",
-    "translations": {},
+    "sentence_text": "จน ลูกบอล ย้อนกลับ มาหา ตัวเรา",
+    "translations": {
+      "en": "can it come back to us"
+    },
     "segments": [
       {
         "token": "จ",
@@ -11486,7 +11742,15 @@
         "startTime": 166450,
         "endTime": 166530,
         "pinyin": "า"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "แบบ บูม เม อ แรง ได้ หรือไม่",
+    "translations": {
+      "en": "like a boomerang?"
+    },
+    "segments": [
       {
         "token": "แ",
         "startTime": 166530,
@@ -11622,8 +11886,10 @@
     ]
   },
   {
-    "sentence_text": "น่าเสียดายที่ทำไม่ได้",
-    "translations": {},
+    "sentence_text": "น่าเสียดาย ที่ ทำ ไม่ ได้",
+    "translations": {
+      "en": "Unfortunately, it can't."
+    },
     "segments": [
       {
         "token": "น",
@@ -11754,8 +12020,10 @@
     ]
   },
   {
-    "sentence_text": "แม้ว่าลูกฟุตบอลจะรับแรงนั้นได้",
-    "translations": {},
+    "sentence_text": "แม้ว่า ลูกฟุตบอล จะ รับ แรง นั้น ได้",
+    "translations": {
+      "en": "Even if the soccer ball could withstand that force,"
+    },
     "segments": [
       {
         "token": "แ",
@@ -11940,8 +12208,10 @@
     ]
   },
   {
-    "sentence_text": "หรือไม่ชนสิ่งกีดขวางใด ๆ",
-    "translations": {},
+    "sentence_text": "หรือไม่ ชน สิ่งกีดขวาง ใด",
+    "translations": {
+      "en": "or not hit any obstacles,"
+    },
     "segments": [
       {
         "token": "ห",
@@ -12074,19 +12344,21 @@
         "startTime": 174168,
         "endTime": 174240,
         "pinyin": "d"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ๆ ในขณะที่ อากาศ ทำให้ ลูกบอล ช้า ลง",
+    "translations": {
+      "en": "as the air slows the ball down,"
+    },
+    "segments": [
       {
         "token": "ๆ",
         "startTime": 174240,
         "endTime": 174311,
         "pinyin": "ๆ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ในขณะที่อากาศทำให้ลูกบอลช้าลง",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ใ",
         "startTime": 174311,
@@ -12264,8 +12536,10 @@
     ]
   },
   {
-    "sentence_text": "มุมโค้งของลูกบอลจะเพิ่มขึ้น",
-    "translations": {},
+    "sentence_text": "มุม โค้ง ของ ลูกบอล จะ เพิ่มขึ้น",
+    "translations": {
+      "en": "the curve angle of the ball increases,"
+    },
     "segments": [
       {
         "token": "ม",
@@ -12432,8 +12706,10 @@
     ]
   },
   {
-    "sentence_text": "ทำให้โค้งเป็นวงเล็กลงเรื่อย ๆ",
-    "translations": {},
+    "sentence_text": "ทำให้ โค้ง เป็น วง เล็ก ลง เรื่อย",
+    "translations": {
+      "en": "making it curve into smaller and smaller loops"
+    },
     "segments": [
       {
         "token": "ท",
@@ -12596,19 +12872,21 @@
         "startTime": 182389,
         "endTime": 182524,
         "pinyin": "y"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ๆจน หยุดนิ่ง และ เพื่อที่จะ ได้ วง เกลียว เช่นนี้",
+    "translations": {
+      "en": "until it stops. And to get such a spiral path,"
+    },
+    "segments": [
       {
         "token": "ๆ",
         "startTime": 182524,
         "endTime": 182658,
         "pinyin": "ๆ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "จนหยุดนิ่ง",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "จ",
         "startTime": 182658,
@@ -12668,13 +12946,7 @@
         "startTime": 185024,
         "endTime": 185287,
         "pinyin": "ng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "และเพื่อที่จะได้วงเกลียวเช่นนี้",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "แ",
         "startTime": 185287,
@@ -12864,8 +13136,10 @@
     ]
   },
   {
-    "sentence_text": "คุณต้องเตะลูกบอลให้หมุนเร็วกว่าลูกเตะอันเลื่องชื่อของคาร์ลอส",
-    "translations": {},
+    "sentence_text": "คุณ ต้อง เตะ ลูกบอล ให้ หมุน เร็ว กว่า",
+    "translations": {
+      "en": "you'd need to kick the ball to spin faster than"
+    },
     "segments": [
       {
         "token": "ค",
@@ -13052,7 +13326,15 @@
         "startTime": 189065,
         "endTime": 189132,
         "pinyin": "า"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ลูก เตะ อัน เลื่องชื่อ ของ คาร์ ลอส",
+    "translations": {
+      "en": "Carlos's famous kick"
+    },
+    "segments": [
       {
         "token": "ล",
         "startTime": 189132,
@@ -13230,8 +13512,10 @@
     ]
   },
   {
-    "sentence_text": "ถึง 15 เท่า",
-    "translations": {},
+    "sentence_text": "ถึง 15 เท่า ขอให้ ทำได้ แล้ว ก้น นะ",
+    "translations": {
+      "en": "by 15 times. Good luck with that."
+    },
     "segments": [
       {
         "token": "ถ",
@@ -13286,13 +13570,7 @@
         "startTime": 193593,
         "endTime": 193904,
         "pinyin": "า"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ขอให้ทำได้แล้วก้นนะ",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "ข",
         "startTime": 193904,
