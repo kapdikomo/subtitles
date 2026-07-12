@@ -1,0 +1,3031 @@
+[
+  {
+    "sentence_text": "Het doel is dat iedereen die rijdt op onze wegen zal meebetalen.",
+    "translations": {
+      "en": "The goal is that everyone driving on our roads will contribute."
+    },
+    "segments": [
+      {
+        "token": "Het",
+        "startTime": 20,
+        "endTime": 440
+      },
+      {
+        "token": "doel",
+        "startTime": 440,
+        "endTime": 600
+      },
+      {
+        "token": "is",
+        "startTime": 600,
+        "endTime": 760
+      },
+      {
+        "token": "dat",
+        "startTime": 760,
+        "endTime": 920
+      },
+      {
+        "token": "iedereen",
+        "startTime": 920,
+        "endTime": 1700
+      },
+      {
+        "token": "die",
+        "startTime": 1700,
+        "endTime": 1940
+      },
+      {
+        "token": "rijdt",
+        "startTime": 1940,
+        "endTime": 2260
+      },
+      {
+        "token": "op",
+        "startTime": 2260,
+        "endTime": 2380
+      },
+      {
+        "token": "onze",
+        "startTime": 2380,
+        "endTime": 2640
+      },
+      {
+        "token": "wegen",
+        "startTime": 2640,
+        "endTime": 2800
+      },
+      {
+        "token": "zal",
+        "startTime": 2800,
+        "endTime": 3080
+      },
+      {
+        "token": "meebetalen.",
+        "startTime": 3080,
+        "endTime": 4520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar alleen buitenlanders een vignet geven, dat mag niet van Europa.",
+    "translations": {
+      "en": "But giving a vignette only to foreigners is not allowed by Europe."
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 4520,
+        "endTime": 4780
+      },
+      {
+        "token": "alleen",
+        "startTime": 4780,
+        "endTime": 5120
+      },
+      {
+        "token": "buitenlanders",
+        "startTime": 5120,
+        "endTime": 5820
+      },
+      {
+        "token": "een",
+        "startTime": 5820,
+        "endTime": 5960
+      },
+      {
+        "token": "vignet",
+        "startTime": 5960,
+        "endTime": 6260
+      },
+      {
+        "token": "geven,",
+        "startTime": 6260,
+        "endTime": 6600
+      },
+      {
+        "token": "dat",
+        "startTime": 6600,
+        "endTime": 6760
+      },
+      {
+        "token": "mag",
+        "startTime": 6760,
+        "endTime": 6940
+      },
+      {
+        "token": "niet",
+        "startTime": 6940,
+        "endTime": 7140
+      },
+      {
+        "token": "van",
+        "startTime": 7140,
+        "endTime": 7360
+      },
+      {
+        "token": "Europa.",
+        "startTime": 7360,
+        "endTime": 7920
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vandaar dit systeem.",
+    "translations": {
+      "en": "Hence this system."
+    },
+    "segments": [
+      {
+        "token": "Vandaar",
+        "startTime": 7920,
+        "endTime": 8240
+      },
+      {
+        "token": "dit",
+        "startTime": 8240,
+        "endTime": 8420
+      },
+      {
+        "token": "systeem.",
+        "startTime": 8420,
+        "endTime": 8960
+      }
+    ]
+  },
+  {
+    "sentence_text": "Voor ons is de basisregel zo.",
+    "translations": {
+      "en": "For us, the basic rule is this."
+    },
+    "segments": [
+      {
+        "token": "Voor",
+        "startTime": 8960,
+        "endTime": 9040
+      },
+      {
+        "token": "ons",
+        "startTime": 9040,
+        "endTime": 9360
+      },
+      {
+        "token": "is",
+        "startTime": 9360,
+        "endTime": 9820
+      },
+      {
+        "token": "de",
+        "startTime": 9820,
+        "endTime": 9940
+      },
+      {
+        "token": "basisregel",
+        "startTime": 9940,
+        "endTime": 10760
+      },
+      {
+        "token": "zo.",
+        "startTime": 10760,
+        "endTime": 11040
+      }
+    ]
+  },
+  {
+    "sentence_text": "Er komt een wegenvignet vanaf 1 mei volgend jaar.",
+    "translations": {
+      "en": "A road vignette will be introduced from May 1st next year."
+    },
+    "segments": [
+      {
+        "token": "Er",
+        "startTime": 11040,
+        "endTime": 11140
+      },
+      {
+        "token": "komt",
+        "startTime": 11140,
+        "endTime": 11220
+      },
+      {
+        "token": "een",
+        "startTime": 11220,
+        "endTime": 11440
+      },
+      {
+        "token": "wegenvignet",
+        "startTime": 11440,
+        "endTime": 11920
+      },
+      {
+        "token": "vanaf",
+        "startTime": 11920,
+        "endTime": 12300
+      },
+      {
+        "token": "1",
+        "startTime": 12300,
+        "endTime": 12540
+      },
+      {
+        "token": "mei",
+        "startTime": 12540,
+        "endTime": 12780
+      },
+      {
+        "token": "volgend",
+        "startTime": 12780,
+        "endTime": 13160
+      },
+      {
+        "token": "jaar.",
+        "startTime": 13160,
+        "endTime": 13760
+      }
+    ]
+  },
+  {
+    "sentence_text": "Voor een elektrische wagen kost dat dan 90 euro per jaar.",
+    "translations": {
+      "en": "For an electric car, that will cost 90 euros per year."
+    },
+    "segments": [
+      {
+        "token": "Voor",
+        "startTime": 13760,
+        "endTime": 13920
+      },
+      {
+        "token": "een",
+        "startTime": 13920,
+        "endTime": 14040
+      },
+      {
+        "token": "elektrische",
+        "startTime": 14040,
+        "endTime": 14660
+      },
+      {
+        "token": "wagen",
+        "startTime": 14660,
+        "endTime": 14880
+      },
+      {
+        "token": "kost",
+        "startTime": 14880,
+        "endTime": 15140
+      },
+      {
+        "token": "dat",
+        "startTime": 15140,
+        "endTime": 15320
+      },
+      {
+        "token": "dan",
+        "startTime": 15320,
+        "endTime": 15460
+      },
+      {
+        "token": "90",
+        "startTime": 15460,
+        "endTime": 16200
+      },
+      {
+        "token": "euro",
+        "startTime": 16200,
+        "endTime": 16600
+      },
+      {
+        "token": "per",
+        "startTime": 16600,
+        "endTime": 17020
+      },
+      {
+        "token": "jaar.",
+        "startTime": 17020,
+        "endTime": 18020
+      }
+    ]
+  },
+  {
+    "sentence_text": "Voor de meeste anderen, met euronorm 4 of beter, 100 euro per jaar.",
+    "translations": {
+      "en": "For most others, with Euro 4 or better, 100 euros per year."
+    },
+    "segments": [
+      {
+        "token": "Voor",
+        "startTime": 18020,
+        "endTime": 18200
+      },
+      {
+        "token": "de",
+        "startTime": 18200,
+        "endTime": 18340
+      },
+      {
+        "token": "meeste",
+        "startTime": 18340,
+        "endTime": 18580
+      },
+      {
+        "token": "anderen,",
+        "startTime": 18580,
+        "endTime": 18960
+      },
+      {
+        "token": "met",
+        "startTime": 18960,
+        "endTime": 19100
+      },
+      {
+        "token": "euronorm",
+        "startTime": 19100,
+        "endTime": 19520
+      },
+      {
+        "token": "4",
+        "startTime": 19520,
+        "endTime": 19820
+      },
+      {
+        "token": "of",
+        "startTime": 19820,
+        "endTime": 20000
+      },
+      {
+        "token": "beter,",
+        "startTime": 20000,
+        "endTime": 20460
+      },
+      {
+        "token": "100",
+        "startTime": 20460,
+        "endTime": 20780
+      },
+      {
+        "token": "euro",
+        "startTime": 20780,
+        "endTime": 21140
+      },
+      {
+        "token": "per",
+        "startTime": 21140,
+        "endTime": 21340
+      },
+      {
+        "token": "jaar.",
+        "startTime": 21340,
+        "endTime": 21880
+      }
+    ]
+  },
+  {
+    "sentence_text": "En meer vervuilende wagens betalen 125 euro per jaar.",
+    "translations": {
+      "en": "And more polluting cars pay 125 euros per year."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 21880,
+        "endTime": 22020
+      },
+      {
+        "token": "meer",
+        "startTime": 22020,
+        "endTime": 22160
+      },
+      {
+        "token": "vervuilende",
+        "startTime": 22160,
+        "endTime": 22700
+      },
+      {
+        "token": "wagens",
+        "startTime": 22700,
+        "endTime": 23000
+      },
+      {
+        "token": "betalen",
+        "startTime": 23000,
+        "endTime": 23740
+      },
+      {
+        "token": "125",
+        "startTime": 23740,
+        "endTime": 24380
+      },
+      {
+        "token": "euro",
+        "startTime": 24380,
+        "endTime": 25480
+      },
+      {
+        "token": "per",
+        "startTime": 25480,
+        "endTime": 25800
+      },
+      {
+        "token": "jaar.",
+        "startTime": 25800,
+        "endTime": 26400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Buitenlanders betalen ook, dat was nu net het doel, Een Nederlander die hier één dag komt shoppen, voor een elektrische wagen betaalt hij dan ongeveer acht euro.",
+    "translations": {
+      "en": "Foreigners also pay, which was precisely the goal. A Dutch person coming here for a day's shopping, for an electric car they pay about eight euros."
+    },
+    "segments": [
+      {
+        "token": "Buitenlanders",
+        "startTime": 26400,
+        "endTime": 26960
+      },
+      {
+        "token": "betalen",
+        "startTime": 26960,
+        "endTime": 27340
+      },
+      {
+        "token": "ook,",
+        "startTime": 27340,
+        "endTime": 27560
+      },
+      {
+        "token": "dat",
+        "startTime": 27560,
+        "endTime": 27700
+      },
+      {
+        "token": "was",
+        "startTime": 27700,
+        "endTime": 27960
+      },
+      {
+        "token": "nu",
+        "startTime": 27960,
+        "endTime": 28120
+      },
+      {
+        "token": "net",
+        "startTime": 28120,
+        "endTime": 28260
+      },
+      {
+        "token": "het",
+        "startTime": 28260,
+        "endTime": 28500
+      },
+      {
+        "token": "doel,",
+        "startTime": 28500,
+        "endTime": 28720
+      },
+      {
+        "token": "Een",
+        "startTime": 28720,
+        "endTime": 29180
+      },
+      {
+        "token": "Nederlander",
+        "startTime": 29180,
+        "endTime": 29880
+      },
+      {
+        "token": "die",
+        "startTime": 29880,
+        "endTime": 30000
+      },
+      {
+        "token": "hier",
+        "startTime": 30000,
+        "endTime": 30520
+      },
+      {
+        "token": "één",
+        "startTime": 30520,
+        "endTime": 30680
+      },
+      {
+        "token": "dag",
+        "startTime": 30680,
+        "endTime": 30940
+      },
+      {
+        "token": "komt",
+        "startTime": 30940,
+        "endTime": 31140
+      },
+      {
+        "token": "shoppen,",
+        "startTime": 31140,
+        "endTime": 31760
+      },
+      {
+        "token": "voor",
+        "startTime": 31760,
+        "endTime": 31920
+      },
+      {
+        "token": "een",
+        "startTime": 31920,
+        "endTime": 32040
+      },
+      {
+        "token": "elektrische",
+        "startTime": 32040,
+        "endTime": 32439
+      },
+      {
+        "token": "wagen",
+        "startTime": 32439,
+        "endTime": 32659
+      },
+      {
+        "token": "betaalt",
+        "startTime": 32659,
+        "endTime": 32980
+      },
+      {
+        "token": "hij",
+        "startTime": 32980,
+        "endTime": 33080
+      },
+      {
+        "token": "dan",
+        "startTime": 33080,
+        "endTime": 33200
+      },
+      {
+        "token": "ongeveer",
+        "startTime": 33200,
+        "endTime": 33640
+      },
+      {
+        "token": "acht",
+        "startTime": 33640,
+        "endTime": 34200
+      },
+      {
+        "token": "euro.",
+        "startTime": 34200,
+        "endTime": 34980
+      }
+    ]
+  },
+  {
+    "sentence_text": "Voor een moderne diesel of een benzine betaal je dan negen euro per dag.",
+    "translations": {
+      "en": "For a modern diesel or petrol car, you pay nine euros per day."
+    },
+    "segments": [
+      {
+        "token": "Voor",
+        "startTime": 34980,
+        "endTime": 35120
+      },
+      {
+        "token": "een",
+        "startTime": 35120,
+        "endTime": 35260
+      },
+      {
+        "token": "moderne",
+        "startTime": 35260,
+        "endTime": 35600
+      },
+      {
+        "token": "diesel",
+        "startTime": 35600,
+        "endTime": 35800
+      },
+      {
+        "token": "of",
+        "startTime": 35800,
+        "endTime": 35940
+      },
+      {
+        "token": "een",
+        "startTime": 35940,
+        "endTime": 36060
+      },
+      {
+        "token": "benzine",
+        "startTime": 36060,
+        "endTime": 36420
+      },
+      {
+        "token": "betaal",
+        "startTime": 36420,
+        "endTime": 36700
+      },
+      {
+        "token": "je",
+        "startTime": 36700,
+        "endTime": 36780
+      },
+      {
+        "token": "dan",
+        "startTime": 36780,
+        "endTime": 36920
+      },
+      {
+        "token": "negen",
+        "startTime": 36920,
+        "endTime": 37500
+      },
+      {
+        "token": "euro",
+        "startTime": 37500,
+        "endTime": 37740
+      },
+      {
+        "token": "per",
+        "startTime": 37740,
+        "endTime": 38180
+      },
+      {
+        "token": "dag.",
+        "startTime": 38180,
+        "endTime": 38820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Een Duitse chauffeur die hier met een oude vervuilende bestelwagen komt, wekelijks bijvoorbeeld, die betaalt 125 euro.",
+    "translations": {
+      "en": "A German driver coming here with an old polluting van, weekly for example, pays 125 euros."
+    },
+    "segments": [
+      {
+        "token": "Een",
+        "startTime": 38820,
+        "endTime": 38960
+      },
+      {
+        "token": "Duitse",
+        "startTime": 38960,
+        "endTime": 39480
+      },
+      {
+        "token": "chauffeur",
+        "startTime": 39480,
+        "endTime": 39980
+      },
+      {
+        "token": "die",
+        "startTime": 39980,
+        "endTime": 40180
+      },
+      {
+        "token": "hier",
+        "startTime": 40180,
+        "endTime": 40320
+      },
+      {
+        "token": "met",
+        "startTime": 40320,
+        "endTime": 40420
+      },
+      {
+        "token": "een",
+        "startTime": 40420,
+        "endTime": 40580
+      },
+      {
+        "token": "oude",
+        "startTime": 40580,
+        "endTime": 40960
+      },
+      {
+        "token": "vervuilende",
+        "startTime": 40960,
+        "endTime": 41480
+      },
+      {
+        "token": "bestelwagen",
+        "startTime": 41480,
+        "endTime": 42240
+      },
+      {
+        "token": "komt,",
+        "startTime": 42240,
+        "endTime": 42640
+      },
+      {
+        "token": "wekelijks",
+        "startTime": 42640,
+        "endTime": 43160
+      },
+      {
+        "token": "bijvoorbeeld,",
+        "startTime": 43160,
+        "endTime": 43500
+      },
+      {
+        "token": "die",
+        "startTime": 43500,
+        "endTime": 44040
+      },
+      {
+        "token": "betaalt",
+        "startTime": 44040,
+        "endTime": 44360
+      },
+      {
+        "token": "125",
+        "startTime": 44360,
+        "endTime": 44980
+      },
+      {
+        "token": "euro.",
+        "startTime": 44980,
+        "endTime": 45800
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat is eigenlijk het jaartarief.",
+    "translations": {
+      "en": "That is actually the annual rate."
+    },
+    "segments": [
+      {
+        "token": "Dat",
+        "startTime": 45800,
+        "endTime": 45960
+      },
+      {
+        "token": "is",
+        "startTime": 45960,
+        "endTime": 46040
+      },
+      {
+        "token": "eigenlijk",
+        "startTime": 46040,
+        "endTime": 46240
+      },
+      {
+        "token": "het",
+        "startTime": 46240,
+        "endTime": 46460
+      },
+      {
+        "token": "jaartarief.",
+        "startTime": 46460,
+        "endTime": 47720
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hier moet nu ook de grootste winst in zitten voor Vlaanderen.",
+    "translations": {
+      "en": "This is where the biggest gain for Flanders should be."
+    },
+    "segments": [
+      {
+        "token": "Hier",
+        "startTime": 47720,
+        "endTime": 47980
+      },
+      {
+        "token": "moet",
+        "startTime": 47980,
+        "endTime": 48280
+      },
+      {
+        "token": "nu",
+        "startTime": 48280,
+        "endTime": 48520
+      },
+      {
+        "token": "ook",
+        "startTime": 48520,
+        "endTime": 48740
+      },
+      {
+        "token": "de",
+        "startTime": 48740,
+        "endTime": 48900
+      },
+      {
+        "token": "grootste",
+        "startTime": 48900,
+        "endTime": 49400
+      },
+      {
+        "token": "winst",
+        "startTime": 49400,
+        "endTime": 49760
+      },
+      {
+        "token": "in",
+        "startTime": 49760,
+        "endTime": 49900
+      },
+      {
+        "token": "zitten",
+        "startTime": 49900,
+        "endTime": 50040
+      },
+      {
+        "token": "voor",
+        "startTime": 50040,
+        "endTime": 50240
+      },
+      {
+        "token": "Vlaanderen.",
+        "startTime": 50240,
+        "endTime": 50820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Buitenlanders krijgen geen compensatie in hun verkeersbelasting.",
+    "translations": {
+      "en": "Foreigners get no compensation in their vehicle tax."
+    },
+    "segments": [
+      {
+        "token": "Buitenlanders",
+        "startTime": 50820,
+        "endTime": 51420
+      },
+      {
+        "token": "krijgen",
+        "startTime": 51420,
+        "endTime": 51780
+      },
+      {
+        "token": "geen",
+        "startTime": 51780,
+        "endTime": 52440
+      },
+      {
+        "token": "compensatie",
+        "startTime": 52440,
+        "endTime": 53240
+      },
+      {
+        "token": "in",
+        "startTime": 53240,
+        "endTime": 53420
+      },
+      {
+        "token": "hun",
+        "startTime": 53420,
+        "endTime": 53500
+      },
+      {
+        "token": "verkeersbelasting.",
+        "startTime": 53500,
+        "endTime": 54660
+      }
+    ]
+  },
+  {
+    "sentence_text": "Wij wel, straks meer daarover.",
+    "translations": {
+      "en": "We do, more on that later."
+    },
+    "segments": [
+      {
+        "token": "Wij",
+        "startTime": 54660,
+        "endTime": 54860
+      },
+      {
+        "token": "wel,",
+        "startTime": 54860,
+        "endTime": 55220
+      },
+      {
+        "token": "straks",
+        "startTime": 55220,
+        "endTime": 55680
+      },
+      {
+        "token": "meer",
+        "startTime": 55680,
+        "endTime": 56040
+      },
+      {
+        "token": "daarover.",
+        "startTime": 56040,
+        "endTime": 57480
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hoe krijg je zo'n vignet?",
+    "translations": {
+      "en": "How do you get such a vignette?"
+    },
+    "segments": [
+      {
+        "token": "Hoe",
+        "startTime": 57480,
+        "endTime": 57540
+      },
+      {
+        "token": "krijg",
+        "startTime": 57540,
+        "endTime": 57980
+      },
+      {
+        "token": "je",
+        "startTime": 57980,
+        "endTime": 58100
+      },
+      {
+        "token": "zo'n",
+        "startTime": 58100,
+        "endTime": 58340
+      },
+      {
+        "token": "vignet?",
+        "startTime": 58340,
+        "endTime": 58720
+      }
+    ]
+  },
+  {
+    "sentence_text": "Het is geen sticker.",
+    "translations": {
+      "en": "It's not a sticker."
+    },
+    "segments": [
+      {
+        "token": "Het",
+        "startTime": 58720,
+        "endTime": 58840
+      },
+      {
+        "token": "is",
+        "startTime": 58840,
+        "endTime": 58940
+      },
+      {
+        "token": "geen",
+        "startTime": 58940,
+        "endTime": 59300
+      },
+      {
+        "token": "sticker.",
+        "startTime": 59300,
+        "endTime": 59900
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je moet je online registreren.",
+    "translations": {
+      "en": "You have to register online."
+    },
+    "segments": [
+      {
+        "token": "Je",
+        "startTime": 59900,
+        "endTime": 60220
+      },
+      {
+        "token": "moet",
+        "startTime": 60220,
+        "endTime": 60280
+      },
+      {
+        "token": "je",
+        "startTime": 60280,
+        "endTime": 60440
+      },
+      {
+        "token": "online",
+        "startTime": 60440,
+        "endTime": 60980
+      },
+      {
+        "token": "registreren.",
+        "startTime": 60980,
+        "endTime": 61780
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hoe controleert Vlaanderen?",
+    "translations": {
+      "en": "How does Flanders check?"
+    },
+    "segments": [
+      {
+        "token": "Hoe",
+        "startTime": 61780,
+        "endTime": 62240
+      },
+      {
+        "token": "controleert",
+        "startTime": 62240,
+        "endTime": 62880
+      },
+      {
+        "token": "Vlaanderen?",
+        "startTime": 62880,
+        "endTime": 63520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat gebeurt via ANPR-camera's en controles langs de weg.",
+    "translations": {
+      "en": "That is done via ANPR cameras and roadside checks."
+    },
+    "segments": [
+      {
+        "token": "Dat",
+        "startTime": 63520,
+        "endTime": 63880
+      },
+      {
+        "token": "gebeurt",
+        "startTime": 63880,
+        "endTime": 64260
+      },
+      {
+        "token": "via",
+        "startTime": 64260,
+        "endTime": 64580
+      },
+      {
+        "token": "ANPR-camera's",
+        "startTime": 64580,
+        "endTime": 65940
+      },
+      {
+        "token": "en",
+        "startTime": 65940,
+        "endTime": 66100
+      },
+      {
+        "token": "controles",
+        "startTime": 66100,
+        "endTime": 66620
+      },
+      {
+        "token": "langs",
+        "startTime": 66620,
+        "endTime": 67180
+      },
+      {
+        "token": "de",
+        "startTime": 67180,
+        "endTime": 67300
+      },
+      {
+        "token": "weg.",
+        "startTime": 67300,
+        "endTime": 67460
+      }
+    ]
+  },
+  {
+    "sentence_text": "Net zoals bij verkeersboetes, via de nummerplaat kennen ze het type van de wagen en wie er mee rijdt.",
+    "translations": {
+      "en": "Just like with traffic fines, via the license plate they know the type of car and who is driving it."
+    },
+    "segments": [
+      {
+        "token": "Net",
+        "startTime": 67460,
+        "endTime": 67680
+      },
+      {
+        "token": "zoals",
+        "startTime": 67680,
+        "endTime": 67820
+      },
+      {
+        "token": "bij",
+        "startTime": 67820,
+        "endTime": 68000
+      },
+      {
+        "token": "verkeersboetes,",
+        "startTime": 68000,
+        "endTime": 68680
+      },
+      {
+        "token": "via",
+        "startTime": 68680,
+        "endTime": 69180
+      },
+      {
+        "token": "de",
+        "startTime": 69180,
+        "endTime": 69360
+      },
+      {
+        "token": "nummerplaat",
+        "startTime": 69360,
+        "endTime": 69940
+      },
+      {
+        "token": "kennen",
+        "startTime": 69940,
+        "endTime": 70160
+      },
+      {
+        "token": "ze",
+        "startTime": 70160,
+        "endTime": 70320
+      },
+      {
+        "token": "het",
+        "startTime": 70320,
+        "endTime": 70580
+      },
+      {
+        "token": "type",
+        "startTime": 70580,
+        "endTime": 70660
+      },
+      {
+        "token": "van",
+        "startTime": 70660,
+        "endTime": 70980
+      },
+      {
+        "token": "de",
+        "startTime": 70980,
+        "endTime": 71140
+      },
+      {
+        "token": "wagen",
+        "startTime": 71140,
+        "endTime": 71360
+      },
+      {
+        "token": "en",
+        "startTime": 71360,
+        "endTime": 71740
+      },
+      {
+        "token": "wie",
+        "startTime": 71740,
+        "endTime": 71900
+      },
+      {
+        "token": "er",
+        "startTime": 71900,
+        "endTime": 72120
+      },
+      {
+        "token": "mee",
+        "startTime": 72120,
+        "endTime": 72380
+      },
+      {
+        "token": "rijdt.",
+        "startTime": 72380,
+        "endTime": 74340
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar dus om Vlamingen niet plots dat vignet bovenop de verkeersbelasting te laten betalen, wordt die belasting verlaagd.",
+    "translations": {
+      "en": "But to prevent Flemings from suddenly having to pay that vignette on top of the traffic tax, that tax is being reduced."
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 74340,
+        "endTime": 74540
+      },
+      {
+        "token": "dus",
+        "startTime": 74540,
+        "endTime": 74760
+      },
+      {
+        "token": "om",
+        "startTime": 74760,
+        "endTime": 75020
+      },
+      {
+        "token": "Vlamingen",
+        "startTime": 75020,
+        "endTime": 75720
+      },
+      {
+        "token": "niet",
+        "startTime": 75720,
+        "endTime": 75880
+      },
+      {
+        "token": "plots",
+        "startTime": 75880,
+        "endTime": 76140
+      },
+      {
+        "token": "dat",
+        "startTime": 76140,
+        "endTime": 76420
+      },
+      {
+        "token": "vignet",
+        "startTime": 76420,
+        "endTime": 76880
+      },
+      {
+        "token": "bovenop",
+        "startTime": 76880,
+        "endTime": 77640
+      },
+      {
+        "token": "de",
+        "startTime": 77640,
+        "endTime": 77820
+      },
+      {
+        "token": "verkeersbelasting",
+        "startTime": 77820,
+        "endTime": 78520
+      },
+      {
+        "token": "te",
+        "startTime": 78520,
+        "endTime": 78740
+      },
+      {
+        "token": "laten",
+        "startTime": 78740,
+        "endTime": 78840
+      },
+      {
+        "token": "betalen,",
+        "startTime": 78840,
+        "endTime": 78840
+      },
+      {
+        "token": "wordt",
+        "startTime": 78840,
+        "endTime": 79840
+      },
+      {
+        "token": "die",
+        "startTime": 79840,
+        "endTime": 79980
+      },
+      {
+        "token": "belasting",
+        "startTime": 79980,
+        "endTime": 80380
+      },
+      {
+        "token": "verlaagd.",
+        "startTime": 80380,
+        "endTime": 81400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Alles is berekend volgens je motor, het gewicht van je wagen en en de vervuilingsklasse.",
+    "translations": {
+      "en": "Everything is calculated based on your engine, the weight of your car, and the pollution class."
+    },
+    "segments": [
+      {
+        "token": "Alles",
+        "startTime": 81400,
+        "endTime": 82100
+      },
+      {
+        "token": "is",
+        "startTime": 82100,
+        "endTime": 82320
+      },
+      {
+        "token": "berekend",
+        "startTime": 82320,
+        "endTime": 82740
+      },
+      {
+        "token": "volgens",
+        "startTime": 82740,
+        "endTime": 83140
+      },
+      {
+        "token": "je",
+        "startTime": 83140,
+        "endTime": 83340
+      },
+      {
+        "token": "motor,",
+        "startTime": 83340,
+        "endTime": 84460
+      },
+      {
+        "token": "het",
+        "startTime": 84460,
+        "endTime": 84640
+      },
+      {
+        "token": "gewicht",
+        "startTime": 84640,
+        "endTime": 85120
+      },
+      {
+        "token": "van",
+        "startTime": 85120,
+        "endTime": 85320
+      },
+      {
+        "token": "je",
+        "startTime": 85320,
+        "endTime": 85460
+      },
+      {
+        "token": "wagen",
+        "startTime": 85460,
+        "endTime": 85680
+      },
+      {
+        "token": "en",
+        "startTime": 85680,
+        "endTime": 86140
+      },
+      {
+        "token": "en",
+        "startTime": 86140,
+        "endTime": 86180
+      },
+      {
+        "token": "de",
+        "startTime": 86180,
+        "endTime": 86300
+      },
+      {
+        "token": "vervuilingsklasse.",
+        "startTime": 86300,
+        "endTime": 87140
+      }
+    ]
+  },
+  {
+    "sentence_text": "Eigenlijk hoeveel je de wegen belast.",
+    "translations": {
+      "en": "Basically how much you burden the roads."
+    },
+    "segments": [
+      {
+        "token": "Eigenlijk",
+        "startTime": 87140,
+        "endTime": 87580
+      },
+      {
+        "token": "hoeveel",
+        "startTime": 87580,
+        "endTime": 87840
+      },
+      {
+        "token": "je",
+        "startTime": 87840,
+        "endTime": 87980
+      },
+      {
+        "token": "de",
+        "startTime": 87980,
+        "endTime": 88120
+      },
+      {
+        "token": "wegen",
+        "startTime": 88120,
+        "endTime": 88680
+      },
+      {
+        "token": "belast.",
+        "startTime": 88680,
+        "endTime": 89260
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vanaf 1 januari is dat.",
+    "translations": {
+      "en": "That starts from January 1st."
+    },
+    "segments": [
+      {
+        "token": "Vanaf",
+        "startTime": 89260,
+        "endTime": 89600
+      },
+      {
+        "token": "1",
+        "startTime": 89600,
+        "endTime": 89860
+      },
+      {
+        "token": "januari",
+        "startTime": 89860,
+        "endTime": 90420
+      },
+      {
+        "token": "is",
+        "startTime": 90420,
+        "endTime": 90640
+      },
+      {
+        "token": "dat.",
+        "startTime": 90640,
+        "endTime": 91720
+      }
+    ]
+  },
+  {
+    "sentence_text": "Bijvoorbeeld een plug-in hybride.",
+    "translations": {
+      "en": "For example, a plug-in hybrid."
+    },
+    "segments": [
+      {
+        "token": "Bijvoorbeeld",
+        "startTime": 91720,
+        "endTime": 92120
+      },
+      {
+        "token": "een",
+        "startTime": 92120,
+        "endTime": 92440
+      },
+      {
+        "token": "plug-in",
+        "startTime": 92440,
+        "endTime": 92960
+      },
+      {
+        "token": "hybride.",
+        "startTime": 92960,
+        "endTime": 93540
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat kost meer omdat ze meer wegen.",
+    "translations": {
+      "en": "That costs more because they use the roads more."
+    },
+    "segments": [
+      {
+        "token": "Dat",
+        "startTime": 93540,
+        "endTime": 93860
+      },
+      {
+        "token": "kost",
+        "startTime": 93860,
+        "endTime": 94200
+      },
+      {
+        "token": "meer",
+        "startTime": 94200,
+        "endTime": 94420
+      },
+      {
+        "token": "omdat",
+        "startTime": 94420,
+        "endTime": 94600
+      },
+      {
+        "token": "ze",
+        "startTime": 94600,
+        "endTime": 94820
+      },
+      {
+        "token": "meer",
+        "startTime": 94820,
+        "endTime": 94950
+      },
+      {
+        "token": "wegen.",
+        "startTime": 94950,
+        "endTime": 95470
+      }
+    ]
+  },
+  {
+    "sentence_text": "Oude diesels ook.",
+    "translations": {
+      "en": "Old diesels too."
+    },
+    "segments": [
+      {
+        "token": "Oude",
+        "startTime": 95470,
+        "endTime": 95710
+      },
+      {
+        "token": "diesels",
+        "startTime": 95710,
+        "endTime": 96050
+      },
+      {
+        "token": "ook.",
+        "startTime": 96050,
+        "endTime": 96470
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ze vervuilen meer.",
+    "translations": {
+      "en": "They pollute more."
+    },
+    "segments": [
+      {
+        "token": "Ze",
+        "startTime": 96470,
+        "endTime": 96530
+      },
+      {
+        "token": "vervuilen",
+        "startTime": 96530,
+        "endTime": 96990
+      },
+      {
+        "token": "meer.",
+        "startTime": 96990,
+        "endTime": 97550
+      }
+    ]
+  },
+  {
+    "sentence_text": "Bij nieuwere modellen betaal je bij benzinewagens iets meer door een hogere uitstoot meestal.",
+    "translations": {
+      "en": "With newer models, you pay a bit more for gasoline cars due to higher emissions usually."
+    },
+    "segments": [
+      {
+        "token": "Bij",
+        "startTime": 97550,
+        "endTime": 97730
+      },
+      {
+        "token": "nieuwere",
+        "startTime": 97730,
+        "endTime": 98070
+      },
+      {
+        "token": "modellen",
+        "startTime": 98070,
+        "endTime": 98390
+      },
+      {
+        "token": "betaal",
+        "startTime": 98390,
+        "endTime": 98650
+      },
+      {
+        "token": "je",
+        "startTime": 98650,
+        "endTime": 98730
+      },
+      {
+        "token": "bij",
+        "startTime": 98730,
+        "endTime": 98870
+      },
+      {
+        "token": "benzinewagens",
+        "startTime": 98870,
+        "endTime": 99550
+      },
+      {
+        "token": "iets",
+        "startTime": 99550,
+        "endTime": 99970
+      },
+      {
+        "token": "meer",
+        "startTime": 99970,
+        "endTime": 99970
+      },
+      {
+        "token": "door",
+        "startTime": 99970,
+        "endTime": 100650
+      },
+      {
+        "token": "een",
+        "startTime": 100650,
+        "endTime": 100790
+      },
+      {
+        "token": "hogere",
+        "startTime": 100790,
+        "endTime": 101050
+      },
+      {
+        "token": "uitstoot",
+        "startTime": 101050,
+        "endTime": 101670
+      },
+      {
+        "token": "meestal.",
+        "startTime": 101670,
+        "endTime": 102210
+      }
+    ]
+  },
+  {
+    "sentence_text": "Er zijn winnaars en verliezers.",
+    "translations": {
+      "en": "There are winners and losers."
+    },
+    "segments": [
+      {
+        "token": "Er",
+        "startTime": 102210,
+        "endTime": 102390
+      },
+      {
+        "token": "zijn",
+        "startTime": 102390,
+        "endTime": 102550
+      },
+      {
+        "token": "winnaars",
+        "startTime": 102550,
+        "endTime": 103270
+      },
+      {
+        "token": "en",
+        "startTime": 103270,
+        "endTime": 103610
+      },
+      {
+        "token": "verliezers.",
+        "startTime": 103610,
+        "endTime": 105470
+      }
+    ]
+  },
+  {
+    "sentence_text": "Uiteindelijk, voor heel wat Vlamingen, de helft zelfs, zal dit eigenlijk een pure belastingverhoging zijn uiteindelijk.",
+    "translations": {
+      "en": "Ultimately, for many Flemings, even half, this will actually be a pure tax increase in the end."
+    },
+    "segments": [
+      {
+        "token": "Uiteindelijk,",
+        "startTime": 105470,
+        "endTime": 105990
+      },
+      {
+        "token": "voor",
+        "startTime": 105990,
+        "endTime": 106210
+      },
+      {
+        "token": "heel",
+        "startTime": 106210,
+        "endTime": 106470
+      },
+      {
+        "token": "wat",
+        "startTime": 106470,
+        "endTime": 106690
+      },
+      {
+        "token": "Vlamingen,",
+        "startTime": 106690,
+        "endTime": 107230
+      },
+      {
+        "token": "de",
+        "startTime": 107230,
+        "endTime": 107310
+      },
+      {
+        "token": "helft",
+        "startTime": 107310,
+        "endTime": 107670
+      },
+      {
+        "token": "zelfs,",
+        "startTime": 107670,
+        "endTime": 107690
+      },
+      {
+        "token": "zal",
+        "startTime": 107690,
+        "endTime": 108330
+      },
+      {
+        "token": "dit",
+        "startTime": 108330,
+        "endTime": 108470
+      },
+      {
+        "token": "eigenlijk",
+        "startTime": 108470,
+        "endTime": 108670
+      },
+      {
+        "token": "een",
+        "startTime": 108670,
+        "endTime": 108910
+      },
+      {
+        "token": "pure",
+        "startTime": 108910,
+        "endTime": 109090
+      },
+      {
+        "token": "belastingverhoging",
+        "startTime": 109090,
+        "endTime": 109830
+      },
+      {
+        "token": "zijn",
+        "startTime": 109830,
+        "endTime": 109970
+      },
+      {
+        "token": "uiteindelijk.",
+        "startTime": 109970,
+        "endTime": 110970
+      }
+    ]
+  },
+  {
+    "sentence_text": "Als je de som maakt van het nieuwe systeem van jaarlijkse verkeersbelasting plus een vignet, dan zal dat voor meer dan de helft ofwel status quo zijn, of een grote winst betekenen.",
+    "translations": {
+      "en": "If you add up the new system of annual traffic tax plus a vignette, it will mean for more than half either status quo or a big gain."
+    },
+    "segments": [
+      {
+        "token": "Als",
+        "startTime": 110970,
+        "endTime": 111170
+      },
+      {
+        "token": "je",
+        "startTime": 111170,
+        "endTime": 111210
+      },
+      {
+        "token": "de",
+        "startTime": 111210,
+        "endTime": 111410
+      },
+      {
+        "token": "som",
+        "startTime": 111410,
+        "endTime": 111570
+      },
+      {
+        "token": "maakt",
+        "startTime": 111570,
+        "endTime": 111890
+      },
+      {
+        "token": "van",
+        "startTime": 111890,
+        "endTime": 112050
+      },
+      {
+        "token": "het",
+        "startTime": 112050,
+        "endTime": 112450
+      },
+      {
+        "token": "nieuwe",
+        "startTime": 112450,
+        "endTime": 112630
+      },
+      {
+        "token": "systeem",
+        "startTime": 112630,
+        "endTime": 113090
+      },
+      {
+        "token": "van",
+        "startTime": 113090,
+        "endTime": 113270
+      },
+      {
+        "token": "jaarlijkse",
+        "startTime": 113270,
+        "endTime": 113630
+      },
+      {
+        "token": "verkeersbelasting",
+        "startTime": 113630,
+        "endTime": 114350
+      },
+      {
+        "token": "plus",
+        "startTime": 114350,
+        "endTime": 114870
+      },
+      {
+        "token": "een",
+        "startTime": 114870,
+        "endTime": 115170
+      },
+      {
+        "token": "vignet,",
+        "startTime": 115170,
+        "endTime": 115670
+      },
+      {
+        "token": "dan",
+        "startTime": 115670,
+        "endTime": 115970
+      },
+      {
+        "token": "zal",
+        "startTime": 115970,
+        "endTime": 116170
+      },
+      {
+        "token": "dat",
+        "startTime": 116170,
+        "endTime": 116390
+      },
+      {
+        "token": "voor",
+        "startTime": 116390,
+        "endTime": 116690
+      },
+      {
+        "token": "meer",
+        "startTime": 116690,
+        "endTime": 116950
+      },
+      {
+        "token": "dan",
+        "startTime": 116950,
+        "endTime": 117130
+      },
+      {
+        "token": "de",
+        "startTime": 117130,
+        "endTime": 117290
+      },
+      {
+        "token": "helft",
+        "startTime": 117290,
+        "endTime": 117290
+      },
+      {
+        "token": "ofwel",
+        "startTime": 117290,
+        "endTime": 118050
+      },
+      {
+        "token": "status",
+        "startTime": 118050,
+        "endTime": 118550
+      },
+      {
+        "token": "quo",
+        "startTime": 118550,
+        "endTime": 118890
+      },
+      {
+        "token": "zijn,",
+        "startTime": 118890,
+        "endTime": 119530
+      },
+      {
+        "token": "of",
+        "startTime": 119530,
+        "endTime": 119750
+      },
+      {
+        "token": "een",
+        "startTime": 119750,
+        "endTime": 120050
+      },
+      {
+        "token": "grote",
+        "startTime": 120050,
+        "endTime": 120370
+      },
+      {
+        "token": "winst",
+        "startTime": 120370,
+        "endTime": 120630
+      },
+      {
+        "token": "betekenen.",
+        "startTime": 120630,
+        "endTime": 121190
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar die andere helft is verlies.",
+    "translations": {
+      "en": "But that other half is a loss."
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 121190,
+        "endTime": 121330
+      },
+      {
+        "token": "die",
+        "startTime": 121330,
+        "endTime": 121450
+      },
+      {
+        "token": "andere",
+        "startTime": 121450,
+        "endTime": 121650
+      },
+      {
+        "token": "helft",
+        "startTime": 121650,
+        "endTime": 121990
+      },
+      {
+        "token": "is",
+        "startTime": 121990,
+        "endTime": 122150
+      },
+      {
+        "token": "verlies.",
+        "startTime": 122150,
+        "endTime": 122970
+      }
+    ]
+  },
+  {
+    "sentence_text": "En evident heb je, wanneer je de parameters wijzigt, dan heb je ook winnaars en verliezers.",
+    "translations": {
+      "en": "And obviously, when you change the parameters, you also have winners and losers."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 122970,
+        "endTime": 123190
+      },
+      {
+        "token": "evident",
+        "startTime": 123190,
+        "endTime": 123670
+      },
+      {
+        "token": "heb",
+        "startTime": 123670,
+        "endTime": 124290
+      },
+      {
+        "token": "je,",
+        "startTime": 124290,
+        "endTime": 124570
+      },
+      {
+        "token": "wanneer",
+        "startTime": 124570,
+        "endTime": 124730
+      },
+      {
+        "token": "je",
+        "startTime": 124730,
+        "endTime": 124990
+      },
+      {
+        "token": "de",
+        "startTime": 124990,
+        "endTime": 125110
+      },
+      {
+        "token": "parameters",
+        "startTime": 125110,
+        "endTime": 125390
+      },
+      {
+        "token": "wijzigt,",
+        "startTime": 125390,
+        "endTime": 126410
+      },
+      {
+        "token": "dan",
+        "startTime": 126410,
+        "endTime": 126510
+      },
+      {
+        "token": "heb",
+        "startTime": 126510,
+        "endTime": 126630
+      },
+      {
+        "token": "je",
+        "startTime": 126630,
+        "endTime": 126730
+      },
+      {
+        "token": "ook",
+        "startTime": 126730,
+        "endTime": 126870
+      },
+      {
+        "token": "winnaars",
+        "startTime": 126870,
+        "endTime": 127370
+      },
+      {
+        "token": "en",
+        "startTime": 127370,
+        "endTime": 127530
+      },
+      {
+        "token": "verliezers.",
+        "startTime": 127530,
+        "endTime": 128070
+      }
+    ]
+  },
+  {
+    "sentence_text": "Iets anders is niet mogelijk.",
+    "translations": {
+      "en": "Anything else is not possible."
+    },
+    "segments": [
+      {
+        "token": "Iets",
+        "startTime": 128070,
+        "endTime": 128270
+      },
+      {
+        "token": "anders",
+        "startTime": 128270,
+        "endTime": 128530
+      },
+      {
+        "token": "is",
+        "startTime": 128530,
+        "endTime": 128810
+      },
+      {
+        "token": "niet",
+        "startTime": 128810,
+        "endTime": 128970
+      },
+      {
+        "token": "mogelijk.",
+        "startTime": 128970,
+        "endTime": 130730
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nee, iets anders is niet mogelijk.",
+    "translations": {
+      "en": "No, anything else is not possible."
+    },
+    "segments": [
+      {
+        "token": "Nee,",
+        "startTime": 130730,
+        "endTime": 130950
+      },
+      {
+        "token": "iets",
+        "startTime": 130950,
+        "endTime": 131110
+      },
+      {
+        "token": "anders",
+        "startTime": 131110,
+        "endTime": 131330
+      },
+      {
+        "token": "is",
+        "startTime": 131330,
+        "endTime": 131490
+      },
+      {
+        "token": "niet",
+        "startTime": 131490,
+        "endTime": 131590
+      },
+      {
+        "token": "mogelijk.",
+        "startTime": 131590,
+        "endTime": 131910
+      }
+    ]
+  },
+  {
+    "sentence_text": "Een paar voorbeelden, altijd helder.",
+    "translations": {
+      "en": "A few examples, always clear."
+    },
+    "segments": [
+      {
+        "token": "Een",
+        "startTime": 131910,
+        "endTime": 132070
+      },
+      {
+        "token": "paar",
+        "startTime": 132070,
+        "endTime": 132150
+      },
+      {
+        "token": "voorbeelden,",
+        "startTime": 132150,
+        "endTime": 132810
+      },
+      {
+        "token": "altijd",
+        "startTime": 132810,
+        "endTime": 133150
+      },
+      {
+        "token": "helder.",
+        "startTime": 133150,
+        "endTime": 133810
+      }
+    ]
+  },
+  {
+    "sentence_text": "Verkeersbelasting en vignet, hoeveel kost het nu samen?",
+    "translations": {
+      "en": "Traffic tax and vignette, how much do they cost together now?"
+    },
+    "segments": [
+      {
+        "token": "Verkeersbelasting",
+        "startTime": 133810,
+        "endTime": 134670
+      },
+      {
+        "token": "en",
+        "startTime": 134670,
+        "endTime": 135130
+      },
+      {
+        "token": "vignet,",
+        "startTime": 135130,
+        "endTime": 135550
+      },
+      {
+        "token": "hoeveel",
+        "startTime": 135550,
+        "endTime": 135930
+      },
+      {
+        "token": "kost",
+        "startTime": 135930,
+        "endTime": 136170
+      },
+      {
+        "token": "het",
+        "startTime": 136170,
+        "endTime": 136310
+      },
+      {
+        "token": "nu",
+        "startTime": 136310,
+        "endTime": 136390
+      },
+      {
+        "token": "samen?",
+        "startTime": 136390,
+        "endTime": 137590
+      }
+    ]
+  },
+  {
+    "sentence_text": "Een Volkswagen Golf Diesel wordt 62 euro goedkoper.",
+    "translations": {
+      "en": "A Volkswagen Golf Diesel becomes 62 euros cheaper."
+    },
+    "segments": [
+      {
+        "token": "Een",
+        "startTime": 137590,
+        "endTime": 137790
+      },
+      {
+        "token": "Volkswagen",
+        "startTime": 137790,
+        "endTime": 138390
+      },
+      {
+        "token": "Golf",
+        "startTime": 138390,
+        "endTime": 138810
+      },
+      {
+        "token": "Diesel",
+        "startTime": 138810,
+        "endTime": 139350
+      },
+      {
+        "token": "wordt",
+        "startTime": 139350,
+        "endTime": 139730
+      },
+      {
+        "token": "62",
+        "startTime": 139730,
+        "endTime": 140710
+      },
+      {
+        "token": "euro",
+        "startTime": 140710,
+        "endTime": 141130
+      },
+      {
+        "token": "goedkoper.",
+        "startTime": 141130,
+        "endTime": 141590
+      }
+    ]
+  },
+  {
+    "sentence_text": "De benzinevariant is dan 12 euro duurder.",
+    "translations": {
+      "en": "The petrol version is then 12 euros more expensive."
+    },
+    "segments": [
+      {
+        "token": "De",
+        "startTime": 141590,
+        "endTime": 142670
+      },
+      {
+        "token": "benzinevariant",
+        "startTime": 142670,
+        "endTime": 143870
+      },
+      {
+        "token": "is",
+        "startTime": 143870,
+        "endTime": 144670
+      },
+      {
+        "token": "dan",
+        "startTime": 144670,
+        "endTime": 144830
+      },
+      {
+        "token": "12",
+        "startTime": 144830,
+        "endTime": 145230
+      },
+      {
+        "token": "euro",
+        "startTime": 145230,
+        "endTime": 145750
+      },
+      {
+        "token": "duurder.",
+        "startTime": 145750,
+        "endTime": 147750
+      }
+    ]
+  },
+  {
+    "sentence_text": "Een Volkswagen Tiguan, een groter model, in diesel wordt zelfs 152 euro goedkoper.",
+    "translations": {
+      "en": "A Volkswagen Tiguan, a larger model, in diesel even becomes 152 euros cheaper."
+    },
+    "segments": [
+      {
+        "token": "Een",
+        "startTime": 147750,
+        "endTime": 147930
+      },
+      {
+        "token": "Volkswagen",
+        "startTime": 147930,
+        "endTime": 148250
+      },
+      {
+        "token": "Tiguan,",
+        "startTime": 148250,
+        "endTime": 148990
+      },
+      {
+        "token": "een",
+        "startTime": 148990,
+        "endTime": 149110
+      },
+      {
+        "token": "groter",
+        "startTime": 149110,
+        "endTime": 149390
+      },
+      {
+        "token": "model,",
+        "startTime": 149390,
+        "endTime": 149750
+      },
+      {
+        "token": "in",
+        "startTime": 149750,
+        "endTime": 149930
+      },
+      {
+        "token": "diesel",
+        "startTime": 149930,
+        "endTime": 150190
+      },
+      {
+        "token": "wordt",
+        "startTime": 150190,
+        "endTime": 150470
+      },
+      {
+        "token": "zelfs",
+        "startTime": 150470,
+        "endTime": 150750
+      },
+      {
+        "token": "152",
+        "startTime": 150750,
+        "endTime": 151790
+      },
+      {
+        "token": "euro",
+        "startTime": 151790,
+        "endTime": 151970
+      },
+      {
+        "token": "goedkoper.",
+        "startTime": 151970,
+        "endTime": 152690
+      }
+    ]
+  },
+  {
+    "sentence_text": "Een benzine wordt 117 euro per jaar duurder.",
+    "translations": {
+      "en": "A petrol car becomes 117 euros more expensive per year."
+    },
+    "segments": [
+      {
+        "token": "Een",
+        "startTime": 152690,
+        "endTime": 152790
+      },
+      {
+        "token": "benzine",
+        "startTime": 152790,
+        "endTime": 153090
+      },
+      {
+        "token": "wordt",
+        "startTime": 153090,
+        "endTime": 153250
+      },
+      {
+        "token": "117",
+        "startTime": 153250,
+        "endTime": 154090
+      },
+      {
+        "token": "euro",
+        "startTime": 154090,
+        "endTime": 154490
+      },
+      {
+        "token": "per",
+        "startTime": 154490,
+        "endTime": 155050
+      },
+      {
+        "token": "jaar",
+        "startTime": 155050,
+        "endTime": 155230
+      },
+      {
+        "token": "duurder.",
+        "startTime": 155230,
+        "endTime": 155710
+      }
+    ]
+  },
+  {
+    "sentence_text": "Het nieuwe systeem belast deze dieselmotor veel minder op uitstoot dan vroeger.",
+    "translations": {
+      "en": "The new system taxes this diesel engine much less on emissions than before."
+    },
+    "segments": [
+      {
+        "token": "Het",
+        "startTime": 155710,
+        "endTime": 155910
+      },
+      {
+        "token": "nieuwe",
+        "startTime": 155910,
+        "endTime": 156110
+      },
+      {
+        "token": "systeem",
+        "startTime": 156110,
+        "endTime": 156670
+      },
+      {
+        "token": "belast",
+        "startTime": 156670,
+        "endTime": 157350
+      },
+      {
+        "token": "deze",
+        "startTime": 157350,
+        "endTime": 157690
+      },
+      {
+        "token": "dieselmotor",
+        "startTime": 157690,
+        "endTime": 157950
+      },
+      {
+        "token": "veel",
+        "startTime": 157950,
+        "endTime": 158750
+      },
+      {
+        "token": "minder",
+        "startTime": 158750,
+        "endTime": 158930
+      },
+      {
+        "token": "op",
+        "startTime": 158930,
+        "endTime": 159110
+      },
+      {
+        "token": "uitstoot",
+        "startTime": 159110,
+        "endTime": 159630
+      },
+      {
+        "token": "dan",
+        "startTime": 159630,
+        "endTime": 160030
+      },
+      {
+        "token": "vroeger.",
+        "startTime": 160030,
+        "endTime": 161250
+      }
+    ]
+  },
+  {
+    "sentence_text": "En voor wie wordt het zeker duurder?",
+    "translations": {
+      "en": "And for whom will it definitely become more expensive?"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 161250,
+        "endTime": 161370
+      },
+      {
+        "token": "voor",
+        "startTime": 161370,
+        "endTime": 161630
+      },
+      {
+        "token": "wie",
+        "startTime": 161630,
+        "endTime": 161870
+      },
+      {
+        "token": "wordt",
+        "startTime": 161870,
+        "endTime": 162150
+      },
+      {
+        "token": "het",
+        "startTime": 162150,
+        "endTime": 162310
+      },
+      {
+        "token": "zeker",
+        "startTime": 162310,
+        "endTime": 162830
+      },
+      {
+        "token": "duurder?",
+        "startTime": 162830,
+        "endTime": 163930
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat is voor wie met een elektrische wagen rijdt.",
+    "translations": {
+      "en": "That is for those who drive an electric car."
+    },
+    "segments": [
+      {
+        "token": "Dat",
+        "startTime": 163930,
+        "endTime": 164110
+      },
+      {
+        "token": "is",
+        "startTime": 164110,
+        "endTime": 164250
+      },
+      {
+        "token": "voor",
+        "startTime": 164250,
+        "endTime": 164470
+      },
+      {
+        "token": "wie",
+        "startTime": 164470,
+        "endTime": 164610
+      },
+      {
+        "token": "met",
+        "startTime": 164610,
+        "endTime": 164830
+      },
+      {
+        "token": "een",
+        "startTime": 164830,
+        "endTime": 164990
+      },
+      {
+        "token": "elektrische",
+        "startTime": 164990,
+        "endTime": 165750
+      },
+      {
+        "token": "wagen",
+        "startTime": 165750,
+        "endTime": 166090
+      },
+      {
+        "token": "rijdt.",
+        "startTime": 166090,
+        "endTime": 166090
+      }
+    ]
+  },
+  {
+    "sentence_text": "Die betalen nu al minder of geen verkeersbelasting.",
+    "translations": {
+      "en": "They already pay less or no road tax."
+    },
+    "segments": [
+      {
+        "token": "Die",
+        "startTime": 166090,
+        "endTime": 166430
+      },
+      {
+        "token": "betalen",
+        "startTime": 166430,
+        "endTime": 166730
+      },
+      {
+        "token": "nu",
+        "startTime": 166730,
+        "endTime": 166850
+      },
+      {
+        "token": "al",
+        "startTime": 166850,
+        "endTime": 166930
+      },
+      {
+        "token": "minder",
+        "startTime": 166930,
+        "endTime": 167230
+      },
+      {
+        "token": "of",
+        "startTime": 167230,
+        "endTime": 167410
+      },
+      {
+        "token": "geen",
+        "startTime": 167410,
+        "endTime": 167710
+      },
+      {
+        "token": "verkeersbelasting.",
+        "startTime": 167710,
+        "endTime": 168650
+      }
+    ]
+  },
+  {
+    "sentence_text": "Blijft zo.",
+    "translations": {
+      "en": "Stays that way."
+    },
+    "segments": [
+      {
+        "token": "Blijft",
+        "startTime": 168650,
+        "endTime": 169030
+      },
+      {
+        "token": "zo.",
+        "startTime": 169030,
+        "endTime": 169350
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vanaf 1 mei komt er wel een vignet bij van 90 euro.",
+    "translations": {
+      "en": "From May 1st, there will be an additional vignette of 90 euros."
+    },
+    "segments": [
+      {
+        "token": "Vanaf",
+        "startTime": 169350,
+        "endTime": 169910
+      },
+      {
+        "token": "1",
+        "startTime": 169910,
+        "endTime": 170130
+      },
+      {
+        "token": "mei",
+        "startTime": 170130,
+        "endTime": 170330
+      },
+      {
+        "token": "komt",
+        "startTime": 170330,
+        "endTime": 170490
+      },
+      {
+        "token": "er",
+        "startTime": 170490,
+        "endTime": 170630
+      },
+      {
+        "token": "wel",
+        "startTime": 170630,
+        "endTime": 170690
+      },
+      {
+        "token": "een",
+        "startTime": 170690,
+        "endTime": 170790
+      },
+      {
+        "token": "vignet",
+        "startTime": 170790,
+        "endTime": 171090
+      },
+      {
+        "token": "bij",
+        "startTime": 171090,
+        "endTime": 171290
+      },
+      {
+        "token": "van",
+        "startTime": 171290,
+        "endTime": 171590
+      },
+      {
+        "token": "90",
+        "startTime": 171590,
+        "endTime": 172130
+      },
+      {
+        "token": "euro.",
+        "startTime": 172130,
+        "endTime": 173150
+      }
+    ]
+  },
+  {
+    "sentence_text": "En ook wie met een bedrijfswagen rijdt, het vignet van 90 euro verrekend zien in het leasecontract.",
+    "translations": {
+      "en": "And also for those who drive a company car, the 90-euro vignette will be reflected in the lease contract."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 173150,
+        "endTime": 173270
+      },
+      {
+        "token": "ook",
+        "startTime": 173270,
+        "endTime": 173370
+      },
+      {
+        "token": "wie",
+        "startTime": 173370,
+        "endTime": 173430
+      },
+      {
+        "token": "met",
+        "startTime": 173430,
+        "endTime": 173550
+      },
+      {
+        "token": "een",
+        "startTime": 173550,
+        "endTime": 173690
+      },
+      {
+        "token": "bedrijfswagen",
+        "startTime": 173690,
+        "endTime": 174370
+      },
+      {
+        "token": "rijdt,",
+        "startTime": 174370,
+        "endTime": 174650
+      },
+      {
+        "token": "het",
+        "startTime": 174650,
+        "endTime": 174870
+      },
+      {
+        "token": "vignet",
+        "startTime": 174870,
+        "endTime": 175230
+      },
+      {
+        "token": "van",
+        "startTime": 175230,
+        "endTime": 175370
+      },
+      {
+        "token": "90",
+        "startTime": 175370,
+        "endTime": 175690
+      },
+      {
+        "token": "euro",
+        "startTime": 175690,
+        "endTime": 175990
+      },
+      {
+        "token": "verrekend",
+        "startTime": 175990,
+        "endTime": 176910
+      },
+      {
+        "token": "zien",
+        "startTime": 176910,
+        "endTime": 177090
+      },
+      {
+        "token": "in",
+        "startTime": 177090,
+        "endTime": 177410
+      },
+      {
+        "token": "het",
+        "startTime": 177410,
+        "endTime": 177530
+      },
+      {
+        "token": "leasecontract.",
+        "startTime": 177530,
+        "endTime": 178670
+      }
+    ]
+  },
+  {
+    "sentence_text": "Heel belangrijk voor uw wagen.",
+    "translations": {
+      "en": "Very important for your car."
+    },
+    "segments": [
+      {
+        "token": "Heel",
+        "startTime": 178670,
+        "endTime": 178870
+      },
+      {
+        "token": "belangrijk",
+        "startTime": 178870,
+        "endTime": 179230
+      },
+      {
+        "token": "voor",
+        "startTime": 179230,
+        "endTime": 179430
+      },
+      {
+        "token": "uw",
+        "startTime": 179430,
+        "endTime": 179610
+      },
+      {
+        "token": "wagen.",
+        "startTime": 179610,
+        "endTime": 179910
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nu kan iedereen kiezen, blijf ik bij het systeem van de verkeersbelasting van vandaag of kies ik voor het nieuwe systeem.",
+    "translations": {
+      "en": "Now everyone can choose: do I stick with today's road tax system or do I choose the new system."
+    },
+    "segments": [
+      {
+        "token": "Nu",
+        "startTime": 179910,
+        "endTime": 180050
+      },
+      {
+        "token": "kan",
+        "startTime": 180050,
+        "endTime": 180150
+      },
+      {
+        "token": "iedereen",
+        "startTime": 180150,
+        "endTime": 180550
+      },
+      {
+        "token": "kiezen,",
+        "startTime": 180550,
+        "endTime": 180930
+      },
+      {
+        "token": "blijf",
+        "startTime": 180930,
+        "endTime": 181270
+      },
+      {
+        "token": "ik",
+        "startTime": 181270,
+        "endTime": 181410
+      },
+      {
+        "token": "bij",
+        "startTime": 181410,
+        "endTime": 181510
+      },
+      {
+        "token": "het",
+        "startTime": 181510,
+        "endTime": 181630
+      },
+      {
+        "token": "systeem",
+        "startTime": 181630,
+        "endTime": 181990
+      },
+      {
+        "token": "van",
+        "startTime": 181990,
+        "endTime": 182170
+      },
+      {
+        "token": "de",
+        "startTime": 182170,
+        "endTime": 182250
+      },
+      {
+        "token": "verkeersbelasting",
+        "startTime": 182250,
+        "endTime": 182950
+      },
+      {
+        "token": "van",
+        "startTime": 182950,
+        "endTime": 183390
+      },
+      {
+        "token": "vandaag",
+        "startTime": 183390,
+        "endTime": 183850
+      },
+      {
+        "token": "of",
+        "startTime": 183850,
+        "endTime": 184450
+      },
+      {
+        "token": "kies",
+        "startTime": 184450,
+        "endTime": 184690
+      },
+      {
+        "token": "ik",
+        "startTime": 184690,
+        "endTime": 184850
+      },
+      {
+        "token": "voor",
+        "startTime": 184850,
+        "endTime": 185010
+      },
+      {
+        "token": "het",
+        "startTime": 185010,
+        "endTime": 185110
+      },
+      {
+        "token": "nieuwe",
+        "startTime": 185110,
+        "endTime": 185410
+      },
+      {
+        "token": "systeem.",
+        "startTime": 185410,
+        "endTime": 186190
+      }
+    ]
+  },
+  {
+    "sentence_text": "Koop je een nieuw wagen, dan krijg je sowieso de nieuwe regels, Birgit.",
+    "translations": {
+      "en": "If you buy a new car, you automatically get the new rules, Birgit."
+    },
+    "segments": [
+      {
+        "token": "Koop",
+        "startTime": 186190,
+        "endTime": 186390
+      },
+      {
+        "token": "je",
+        "startTime": 186390,
+        "endTime": 186450
+      },
+      {
+        "token": "een",
+        "startTime": 186450,
+        "endTime": 186590
+      },
+      {
+        "token": "nieuw",
+        "startTime": 186590,
+        "endTime": 186730
+      },
+      {
+        "token": "wagen,",
+        "startTime": 186730,
+        "endTime": 187170
+      },
+      {
+        "token": "dan",
+        "startTime": 187170,
+        "endTime": 187290
+      },
+      {
+        "token": "krijg",
+        "startTime": 187290,
+        "endTime": 187510
+      },
+      {
+        "token": "je",
+        "startTime": 187510,
+        "endTime": 187610
+      },
+      {
+        "token": "sowieso",
+        "startTime": 187610,
+        "endTime": 188030
+      },
+      {
+        "token": "de",
+        "startTime": 188030,
+        "endTime": 188370
+      },
+      {
+        "token": "nieuwe",
+        "startTime": 188370,
+        "endTime": 188810
+      },
+      {
+        "token": "regels,",
+        "startTime": 188810,
+        "endTime": 189450
+      },
+      {
+        "token": "Birgit.",
+        "startTime": 189450,
+        "endTime": 190270
+      }
+    ]
+  }
+]
