@@ -2,7 +2,7 @@
   {
     "sentence_text": "今天 到 了 宜家 商场",
     "translations": {
-      "en": "Today we arrived at IKEA."
+      "en": "Today I arrived at IKEA."
     },
     "segments": [
       {
@@ -150,7 +150,7 @@
   {
     "sentence_text": "教 大家 简单 易学 的 中文",
     "translations": {
-      "en": "to teach you easy Chinese."
+      "en": "To teach you easy Chinese."
     },
     "segments": [
       {
@@ -387,7 +387,7 @@
   {
     "sentence_text": "我们 可以 看到",
     "translations": {
-      "en": "We can see"
+      "en": "We can see."
     },
     "segments": [
       {
@@ -431,7 +431,7 @@
   {
     "sentence_text": "这个 是 盘子",
     "translations": {
-      "en": "this is a plate."
+      "en": "This is a plate."
     },
     "segments": [
       {
@@ -749,9 +749,9 @@
     ]
   },
   {
-    "sentence_text": "就是 把 我 的 手套",
+    "sentence_text": "就是 把 我 的 手套 在 这个 里面",
     "translations": {
-      "en": "Just put my gloves"
+      "en": "I put my glove inside this"
     },
     "segments": [
       {
@@ -795,15 +795,7 @@
         "startTime": 79390,
         "endTime": 80100,
         "pinyin": "tào"
-      }
-    ]
-  },
-  {
-    "sentence_text": "在 这个 里面",
-    "translations": {
-      "en": "inside this"
-    },
-    "segments": [
+      },
       {
         "token": "在",
         "startTime": 80100,
@@ -839,7 +831,7 @@
   {
     "sentence_text": "手套 在 这个 里面",
     "translations": {
-      "en": "Gloves are inside this"
+      "en": "Glove inside this"
     },
     "segments": [
       {
@@ -889,7 +881,7 @@
   {
     "sentence_text": "手套",
     "translations": {
-      "en": "Gloves"
+      "en": "Glove"
     },
     "segments": [
       {
@@ -1495,7 +1487,7 @@
   {
     "sentence_text": "灯 在 这个 台子上",
     "translations": {
-      "en": "The lamp is on this table."
+      "en": "The lamp is on this table"
     },
     "segments": [
       {
@@ -1545,7 +1537,7 @@
   {
     "sentence_text": "我们 叫 它 台灯",
     "translations": {
-      "en": "We call it a desk lamp."
+      "en": "We call it a desk lamp"
     },
     "segments": [
       {
@@ -1589,7 +1581,7 @@
   {
     "sentence_text": "这是 一个 钟",
     "translations": {
-      "en": "This is a clock."
+      "en": "This is a clock"
     },
     "segments": [
       {
@@ -1627,7 +1619,7 @@
   {
     "sentence_text": "这是 一个 钟",
     "translations": {
-      "en": "This is a clock."
+      "en": "This is a clock"
     },
     "segments": [
       {
@@ -1665,7 +1657,7 @@
   {
     "sentence_text": "我们 用钟 来看 时间",
     "translations": {
-      "en": "We use a clock to tell time."
+      "en": "We use a clock to tell time"
     },
     "segments": [
       {
@@ -1721,7 +1713,7 @@
   {
     "sentence_text": "这个 钟有 一点",
     "translations": {
-      "en": "This clock shows one."
+      "en": "This clock shows one o'clock"
     },
     "segments": [
       {
@@ -1765,7 +1757,7 @@
   {
     "sentence_text": "两点",
     "translations": {
-      "en": "Two o'clock."
+      "en": "Two o'clock"
     },
     "segments": [
       {
@@ -1785,7 +1777,7 @@
   {
     "sentence_text": "三点",
     "translations": {
-      "en": "Three o'clock."
+      "en": "Three o'clock"
     },
     "segments": [
       {
@@ -1805,7 +1797,7 @@
   {
     "sentence_text": "四点",
     "translations": {
-      "en": "Four o'clock."
+      "en": "Four o'clock"
     },
     "segments": [
       {
@@ -1825,7 +1817,7 @@
   {
     "sentence_text": "五点",
     "translations": {
-      "en": "Five o'clock."
+      "en": "Five o'clock"
     },
     "segments": [
       {
@@ -1845,7 +1837,7 @@
   {
     "sentence_text": "8 点",
     "translations": {
-      "en": "Eight o'clock."
+      "en": "Eight o'clock"
     },
     "segments": [
       {
@@ -1865,7 +1857,7 @@
   {
     "sentence_text": "9 点",
     "translations": {
-      "en": "Nine o'clock."
+      "en": "Nine o'clock"
     },
     "segments": [
       {
@@ -1885,7 +1877,7 @@
   {
     "sentence_text": "10 点",
     "translations": {
-      "en": "Ten o'clock."
+      "en": "Ten o'clock"
     },
     "segments": [
       {
@@ -1911,7 +1903,7 @@
   {
     "sentence_text": "11 点",
     "translations": {
-      "en": "Eleven o'clock."
+      "en": "Eleven o'clock"
     },
     "segments": [
       {
@@ -1937,7 +1929,7 @@
   {
     "sentence_text": "12 点",
     "translations": {
-      "en": "Twelve o'clock."
+      "en": "Twelve o'clock"
     },
     "segments": [
       {
@@ -1963,7 +1955,7 @@
   {
     "sentence_text": "我们 有 12 个 小时",
     "translations": {
-      "en": "We have twelve hours."
+      "en": "We have twelve hours"
     },
     "segments": [
       {
@@ -2019,7 +2011,7 @@
   {
     "sentence_text": "这里 有 一个 电 竞房",
     "translations": {
-      "en": "There is a gaming room here."
+      "en": "Here is a gaming room"
     },
     "segments": [
       {
@@ -2075,7 +2067,7 @@
   {
     "sentence_text": "这个 是 椅子",
     "translations": {
-      "en": "This is a chair."
+      "en": "This is a chair"
     },
     "segments": [
       {
@@ -2113,7 +2105,7 @@
   {
     "sentence_text": "椅子",
     "translations": {
-      "en": "Chair."
+      "en": "Chair"
     },
     "segments": [
       {
@@ -2133,7 +2125,7 @@
   {
     "sentence_text": "这里 有 电脑",
     "translations": {
-      "en": "There is a computer here."
+      "en": "There is a computer here"
     },
     "segments": [
       {
@@ -2345,7 +2337,7 @@
   {
     "sentence_text": "那 这个 就是 家中 的 一个 电 竞房",
     "translations": {
-      "en": "That is a gaming room in the house"
+      "en": "And this is a gaming room at home"
     },
     "segments": [
       {
@@ -2457,7 +2449,7 @@
   {
     "sentence_text": "现在 我 坐在 椅子 上",
     "translations": {
-      "en": "Now I'm sitting on a chair"
+      "en": "Now I'm sitting on the chair"
     },
     "segments": [
       {
@@ -3091,7 +3083,7 @@
   {
     "sentence_text": "很多 的 桌子 和 椅子",
     "translations": {
-      "en": "Lots of tables and chairs"
+      "en": "Many tables and chairs"
     },
     "segments": [
       {
@@ -3187,7 +3179,7 @@
   {
     "sentence_text": "这里 有 一个 购物车",
     "translations": {
-      "en": "There's a shopping cart here"
+      "en": "Here is a shopping cart"
     },
     "segments": [
       {
@@ -3243,7 +3235,7 @@
   {
     "sentence_text": "这里 有 洗衣机",
     "translations": {
-      "en": "There's a washing machine here"
+      "en": "Here is a washing machine"
     },
     "segments": [
       {
@@ -3339,7 +3331,7 @@
   {
     "sentence_text": "有 一个 水池",
     "translations": {
-      "en": "There's a sink"
+      "en": "There is a sink"
     },
     "segments": [
       {
@@ -3559,9 +3551,9 @@
     ]
   },
   {
-    "sentence_text": "这是",
+    "sentence_text": "这是 這個 是 水池",
     "translations": {
-      "en": "This is"
+      "en": "This is a sink"
     },
     "segments": [
       {
@@ -3575,15 +3567,7 @@
         "startTime": 333515,
         "endTime": 334605,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "這個 是 水池",
-    "translations": {
-      "en": "This is a sink"
-    },
-    "segments": [
+      },
       {
         "token": "這",
         "startTime": 334605,
@@ -3675,9 +3659,9 @@
     ]
   },
   {
-    "sentence_text": "这是",
+    "sentence_text": "这是 冰箱",
     "translations": {
-      "en": "This is"
+      "en": "This is a refrigerator"
     },
     "segments": [
       {
@@ -3691,15 +3675,7 @@
         "startTime": 352080,
         "endTime": 352230,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "冰箱",
-    "translations": {
-      "en": "Refrigerator"
-    },
-    "segments": [
+      },
       {
         "token": "冰",
         "startTime": 352230,
@@ -3717,7 +3693,7 @@
   {
     "sentence_text": "冰箱 里面 放 了 很多 的 食物",
     "translations": {
-      "en": "There's a lot of food in the refrigerator."
+      "en": "There is a lot of food inside the refrigerator"
     },
     "segments": [
       {
@@ -3791,7 +3767,7 @@
   {
     "sentence_text": "这里 我们 看到 了 很多 的 水龙头",
     "translations": {
-      "en": "Here we see many faucets."
+      "en": "Here we see many faucets"
     },
     "segments": [
       {
@@ -3877,7 +3853,7 @@
   {
     "sentence_text": "刚刚 学过 的 水龙头",
     "translations": {
-      "en": "The faucet we just learned about."
+      "en": "The faucet we just learned about"
     },
     "segments": [
       {
@@ -3933,7 +3909,7 @@
   {
     "sentence_text": "这里 有 很多 不同 类型 的 水龙头",
     "translations": {
-      "en": "Here are many different types of faucets."
+      "en": "There are many different types of faucets here"
     },
     "segments": [
       {
@@ -4019,7 +3995,7 @@
   {
     "sentence_text": "当然 还有 水池",
     "translations": {
-      "en": "And of course, a sink."
+      "en": "And of course the sink"
     },
     "segments": [
       {
@@ -4063,7 +4039,7 @@
   {
     "sentence_text": "水池",
     "translations": {
-      "en": "Sink."
+      "en": "Sink"
     },
     "segments": [
       {
@@ -4083,7 +4059,7 @@
   {
     "sentence_text": "我 需要 一个 袋子",
     "translations": {
-      "en": "I need a bag."
+      "en": "I need a bag"
     },
     "segments": [
       {
@@ -4133,7 +4109,7 @@
   {
     "sentence_text": "我要 一个 袋子",
     "translations": {
-      "en": "I want a bag."
+      "en": "I want a bag"
     },
     "segments": [
       {
@@ -4177,7 +4153,7 @@
   {
     "sentence_text": "黄色 的 袋子",
     "translations": {
-      "en": "A yellow bag."
+      "en": "A yellow bag"
     },
     "segments": [
       {
@@ -4215,7 +4191,7 @@
   {
     "sentence_text": "袋子",
     "translations": {
-      "en": "Bag."
+      "en": "Bag"
     },
     "segments": [
       {
@@ -4235,7 +4211,7 @@
   {
     "sentence_text": "这里 我们 看到 的 是 一个床",
     "translations": {
-      "en": "Here we see a bed."
+      "en": "Here we see a bed"
     },
     "segments": [
       {
@@ -4309,7 +4285,7 @@
   {
     "sentence_text": "床 是 用来 睡觉 的",
     "translations": {
-      "en": "A bed is for sleeping."
+      "en": "A bed is for sleeping"
     },
     "segments": [
       {
@@ -4359,7 +4335,7 @@
   {
     "sentence_text": "我们 在 床上 睡觉",
     "translations": {
-      "en": "We sleep on the bed."
+      "en": "We sleep on the bed"
     },
     "segments": [
       {
@@ -4409,7 +4385,7 @@
   {
     "sentence_text": "这是 一个床",
     "translations": {
-      "en": "This is a bed."
+      "en": "This is a bed"
     },
     "segments": [
       {
@@ -4447,7 +4423,7 @@
   {
     "sentence_text": "好 了",
     "translations": {
-      "en": "Alright."
+      "en": "Okay"
     },
     "segments": [
       {
@@ -4467,7 +4443,7 @@
   {
     "sentence_text": "终于 来 了",
     "translations": {
-      "en": "Finally here."
+      "en": "Finally here"
     },
     "segments": [
       {
@@ -4615,7 +4591,7 @@
   {
     "sentence_text": "我们 到 餐厅 看看 有 什么 吃 的",
     "translations": {
-      "en": "Let's go to the restaurant and see what there is to eat."
+      "en": "Let's go to the restaurant and see what food there is"
     },
     "segments": [
       {
@@ -4695,7 +4671,7 @@
   {
     "sentence_text": "这个 是 沙拉",
     "translations": {
-      "en": "This is salad."
+      "en": "This is salad"
     },
     "segments": [
       {
@@ -4733,7 +4709,7 @@
   {
     "sentence_text": "沙拉",
     "translations": {
-      "en": "Salad."
+      "en": "Salad"
     },
     "segments": [
       {
@@ -4753,7 +4729,7 @@
   {
     "sentence_text": "蔬菜 沙拉",
     "translations": {
-      "en": "Vegetable salad."
+      "en": "Vegetable salad"
     },
     "segments": [
       {
@@ -4785,7 +4761,7 @@
   {
     "sentence_text": "蛋塔",
     "translations": {
-      "en": "Egg tart."
+      "en": "Egg tart"
     },
     "segments": [
       {
@@ -4805,7 +4781,7 @@
   {
     "sentence_text": "很甜",
     "translations": {
-      "en": "Very sweet."
+      "en": "Very sweet"
     },
     "segments": [
       {
@@ -4825,7 +4801,7 @@
   {
     "sentence_text": "盘子",
     "translations": {
-      "en": "Plate."
+      "en": "Plate"
     },
     "segments": [
       {
@@ -4845,7 +4821,7 @@
   {
     "sentence_text": "这个 是 盘子",
     "translations": {
-      "en": "This is a plate."
+      "en": "This is a plate"
     },
     "segments": [
       {
@@ -4883,7 +4859,7 @@
   {
     "sentence_text": "沙拉",
     "translations": {
-      "en": "Salad."
+      "en": "Salad"
     },
     "segments": [
       {
@@ -4903,7 +4879,7 @@
   {
     "sentence_text": "蔬菜 沙拉",
     "translations": {
-      "en": "Vegetable salad."
+      "en": "Vegetable salad"
     },
     "segments": [
       {
@@ -4935,7 +4911,7 @@
   {
     "sentence_text": "汉堡",
     "translations": {
-      "en": "Hamburger."
+      "en": "Hamburger"
     },
     "segments": [
       {
@@ -4955,7 +4931,7 @@
   {
     "sentence_text": "三文鱼",
     "translations": {
-      "en": "Salmon."
+      "en": "Salmon"
     },
     "segments": [
       {
@@ -4981,7 +4957,7 @@
   {
     "sentence_text": "我们 之前 学过",
     "translations": {
-      "en": "We learned this before."
+      "en": "We learned this before"
     },
     "segments": [
       {
@@ -5025,7 +5001,7 @@
   {
     "sentence_text": "三文鱼",
     "translations": {
-      "en": "Salmon."
+      "en": "Salmon"
     },
     "segments": [
       {
@@ -5051,7 +5027,7 @@
   {
     "sentence_text": "海鲜",
     "translations": {
-      "en": "Seafood."
+      "en": "Seafood"
     },
     "segments": [
       {
@@ -5071,7 +5047,7 @@
   {
     "sentence_text": "非常 的 健康",
     "translations": {
-      "en": "Very healthy."
+      "en": "Very healthy"
     },
     "segments": [
       {
@@ -5109,7 +5085,7 @@
   {
     "sentence_text": "这里 是 锦料",
     "translations": {
-      "en": "This is the sauce station."
+      "en": "This is Jinliao"
     },
     "segments": [
       {
@@ -5147,7 +5123,7 @@
   {
     "sentence_text": "这些 饮料 不 健康",
     "translations": {
-      "en": "These drinks are unhealthy."
+      "en": "These drinks are unhealthy"
     },
     "segments": [
       {
@@ -5197,7 +5173,7 @@
   {
     "sentence_text": "果汁",
     "translations": {
-      "en": "Juice."
+      "en": "Juice"
     },
     "segments": [
       {
@@ -5215,9 +5191,9 @@
     ]
   },
   {
-    "sentence_text": "怎么 鸡腿",
+    "sentence_text": "怎么",
     "translations": {
-      "en": "How about a chicken leg?"
+      "en": "How"
     },
     "segments": [
       {
@@ -5231,7 +5207,15 @@
         "startTime": 488110,
         "endTime": 489690,
         "pinyin": "me"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "鸡腿",
+    "translations": {
+      "en": "Chicken leg"
+    },
+    "segments": [
       {
         "token": "鸡",
         "startTime": 489690,
@@ -5249,7 +5233,7 @@
   {
     "sentence_text": "来个 鸡腿 吧",
     "translations": {
-      "en": "Let's have a chicken leg."
+      "en": "Have a chicken leg"
     },
     "segments": [
       {
@@ -5287,7 +5271,7 @@
   {
     "sentence_text": "一个 鸡腿 是 多少 钱",
     "translations": {
-      "en": "How much is one chicken leg?"
+      "en": "How much is a chicken leg?"
     },
     "segments": [
       {
@@ -5545,7 +5529,7 @@
   {
     "sentence_text": "你 呢",
     "translations": {
-      "en": "How about you?"
+      "en": "What about you?"
     },
     "segments": [
       {
@@ -6058,7 +6042,7 @@
   {
     "sentence_text": "她 吃 的 是 米饭 是 咖喱饭 咖喱饭 也 是 咖喱饭",
     "translations": {
-      "en": "She's eating rice, which is curry rice. Curry rice is also curry rice."
+      "en": "She is eating rice, it's curry rice. Curry rice is also curry rice."
     },
     "segments": [
       {
@@ -6174,7 +6158,7 @@
   {
     "sentence_text": "我 吃 的 是 鸡腿 鸡腿肉 丸 肉丸 米饭 米饭",
     "translations": {
-      "en": "I'm eating chicken legs, chicken leg meatballs, meatballs, rice, rice."
+      "en": "I am eating chicken leg, chicken leg meatballs, meatballs, rice, rice."
     },
     "segments": [
       {
@@ -6278,7 +6262,7 @@
   {
     "sentence_text": "这些 也 可以 叫 青豆 青豆 青豆 就是 青色 的 豆子",
     "translations": {
-      "en": "These can also be called green beans. Green beans are just green beans."
+      "en": "These can also be called green beans. Green beans are just green-colored beans."
     },
     "segments": [
       {
@@ -6492,7 +6476,7 @@
   {
     "sentence_text": "green 绿色 的 意思 搭配 我 的 咖啡 咖啡",
     "translations": {
-      "en": "Green means the color green, matching my coffee, coffee."
+      "en": "Green, meaning the color green, goes with my coffee, coffee."
     },
     "segments": [
       {
@@ -6608,7 +6592,7 @@
   {
     "sentence_text": "接下来 我们 去 地铁站 metro 就是 地铁 地铁 卫生间",
     "translations": {
-      "en": "Next, we go to the metro station. 'Metro' means subway, subway restroom."
+      "en": "Next, we go to the metro station. Metro is the subway, subway restroom."
     },
     "segments": [
       {
@@ -6754,7 +6738,7 @@
   {
     "sentence_text": "这里 是 去 停车场 停车场 停车场 停 了 很多 的 车",
     "translations": {
-      "en": "Here is the parking lot. The parking lot has many cars parked."
+      "en": "Here is the parking lot, parking lot, parking lot with many cars parked."
     },
     "segments": [
       {
@@ -6874,9 +6858,9 @@
     ]
   },
   {
-    "sentence_text": "那 今天 的 分享 就 到 这里 了 我们 下次",
+    "sentence_text": "那 今天 的 分享 就 到 这里 了",
     "translations": {
-      "en": "That's all for today's share. See you next time."
+      "en": "That's all for today's sharing."
     },
     "segments": [
       {
@@ -6944,7 +6928,15 @@
         "startTime": 675615,
         "endTime": 676055,
         "pinyin": "le"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 下次",
+    "translations": {
+      "en": "Until next time."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 676055,
