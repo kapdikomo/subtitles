@@ -1,0 +1,1205 @@
+[
+  {
+    "sentence_text": "Geothermie Geothermie is een ander woord voor aardwarmte.",
+    "translations": {
+      "en": "Geothermal energy. Geothermal is another word for earth heat."
+    },
+    "segments": [
+      {
+        "token": "Geothermie",
+        "startTime": 0,
+        "endTime": 4560
+      },
+      {
+        "token": "Geothermie",
+        "startTime": 4560,
+        "endTime": 5080
+      },
+      {
+        "token": "is",
+        "startTime": 5080,
+        "endTime": 5220
+      },
+      {
+        "token": "een",
+        "startTime": 5220,
+        "endTime": 5360
+      },
+      {
+        "token": "ander",
+        "startTime": 5360,
+        "endTime": 5620
+      },
+      {
+        "token": "woord",
+        "startTime": 5620,
+        "endTime": 5840
+      },
+      {
+        "token": "voor",
+        "startTime": 5840,
+        "endTime": 6020
+      },
+      {
+        "token": "aardwarmte.",
+        "startTime": 6020,
+        "endTime": 8680
+      }
+    ]
+  },
+  {
+    "sentence_text": "De aarde bestaat uit verschillende lagen en helemaal in het midden een kern.",
+    "translations": {
+      "en": "The earth consists of different layers, with a core at the very center."
+    },
+    "segments": [
+      {
+        "token": "De",
+        "startTime": 8680,
+        "endTime": 8820
+      },
+      {
+        "token": "aarde",
+        "startTime": 8820,
+        "endTime": 9120
+      },
+      {
+        "token": "bestaat",
+        "startTime": 9120,
+        "endTime": 9380
+      },
+      {
+        "token": "uit",
+        "startTime": 9380,
+        "endTime": 9520
+      },
+      {
+        "token": "verschillende",
+        "startTime": 9520,
+        "endTime": 10040
+      },
+      {
+        "token": "lagen",
+        "startTime": 10040,
+        "endTime": 10420
+      },
+      {
+        "token": "en",
+        "startTime": 10420,
+        "endTime": 10960
+      },
+      {
+        "token": "helemaal",
+        "startTime": 10960,
+        "endTime": 11200
+      },
+      {
+        "token": "in",
+        "startTime": 11200,
+        "endTime": 11460
+      },
+      {
+        "token": "het",
+        "startTime": 11460,
+        "endTime": 11560
+      },
+      {
+        "token": "midden",
+        "startTime": 11560,
+        "endTime": 11760
+      },
+      {
+        "token": "een",
+        "startTime": 11760,
+        "endTime": 11940
+      },
+      {
+        "token": "kern.",
+        "startTime": 11940,
+        "endTime": 12840
+      }
+    ]
+  },
+  {
+    "sentence_text": "Die kern is ongelooflijk heet, tussen de 4000 en de 6000 graden.",
+    "translations": {
+      "en": "That core is incredibly hot, between 4000 and 6000 degrees."
+    },
+    "segments": [
+      {
+        "token": "Die",
+        "startTime": 12840,
+        "endTime": 12960
+      },
+      {
+        "token": "kern",
+        "startTime": 12960,
+        "endTime": 13200
+      },
+      {
+        "token": "is",
+        "startTime": 13200,
+        "endTime": 13340
+      },
+      {
+        "token": "ongelooflijk",
+        "startTime": 13340,
+        "endTime": 14060
+      },
+      {
+        "token": "heet,",
+        "startTime": 14060,
+        "endTime": 14480
+      },
+      {
+        "token": "tussen",
+        "startTime": 14480,
+        "endTime": 14840
+      },
+      {
+        "token": "de",
+        "startTime": 14840,
+        "endTime": 15000
+      },
+      {
+        "token": "4000",
+        "startTime": 15000,
+        "endTime": 15440
+      },
+      {
+        "token": "en",
+        "startTime": 15440,
+        "endTime": 16059
+      },
+      {
+        "token": "de",
+        "startTime": 16059,
+        "endTime": 16200
+      },
+      {
+        "token": "6000",
+        "startTime": 16200,
+        "endTime": 16560
+      },
+      {
+        "token": "graden.",
+        "startTime": 16560,
+        "endTime": 17680
+      }
+    ]
+  },
+  {
+    "sentence_text": "Die hitte gaat door de verschillende lagen heen, geleidelijk naar het aardoppervlak, tot bij ons.",
+    "translations": {
+      "en": "That heat passes through the various layers, gradually to the earth's surface, to us."
+    },
+    "segments": [
+      {
+        "token": "Die",
+        "startTime": 17680,
+        "endTime": 17840
+      },
+      {
+        "token": "hitte",
+        "startTime": 17840,
+        "endTime": 18060
+      },
+      {
+        "token": "gaat",
+        "startTime": 18060,
+        "endTime": 18420
+      },
+      {
+        "token": "door",
+        "startTime": 18420,
+        "endTime": 18720
+      },
+      {
+        "token": "de",
+        "startTime": 18720,
+        "endTime": 18880
+      },
+      {
+        "token": "verschillende",
+        "startTime": 18880,
+        "endTime": 19300
+      },
+      {
+        "token": "lagen",
+        "startTime": 19300,
+        "endTime": 19520
+      },
+      {
+        "token": "heen,",
+        "startTime": 19520,
+        "endTime": 19960
+      },
+      {
+        "token": "geleidelijk",
+        "startTime": 19960,
+        "endTime": 20380
+      },
+      {
+        "token": "naar",
+        "startTime": 20380,
+        "endTime": 20560
+      },
+      {
+        "token": "het",
+        "startTime": 20560,
+        "endTime": 20700
+      },
+      {
+        "token": "aardoppervlak,",
+        "startTime": 20700,
+        "endTime": 21500
+      },
+      {
+        "token": "tot",
+        "startTime": 21500,
+        "endTime": 21920
+      },
+      {
+        "token": "bij",
+        "startTime": 21920,
+        "endTime": 22100
+      },
+      {
+        "token": "ons.",
+        "startTime": 22100,
+        "endTime": 22780
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dus hoe dieper je in de aarde graaft,",
+    "translations": {
+      "en": "So the deeper you dig into the earth,"
+    },
+    "segments": [
+      {
+        "token": "Dus",
+        "startTime": 22780,
+        "endTime": 22960
+      },
+      {
+        "token": "hoe",
+        "startTime": 22960,
+        "endTime": 23060
+      },
+      {
+        "token": "dieper",
+        "startTime": 23060,
+        "endTime": 23480
+      },
+      {
+        "token": "je",
+        "startTime": 23480,
+        "endTime": 23560
+      },
+      {
+        "token": "in",
+        "startTime": 23560,
+        "endTime": 23760
+      },
+      {
+        "token": "de",
+        "startTime": 23760,
+        "endTime": 23860
+      },
+      {
+        "token": "aarde",
+        "startTime": 23860,
+        "endTime": 24120
+      },
+      {
+        "token": "graaft,",
+        "startTime": 24120,
+        "endTime": 24580
+      }
+    ]
+  },
+  {
+    "sentence_text": "hoe dichter je bij de hete kern komt en hoe warmer het wordt.",
+    "translations": {
+      "en": "the closer you get to the hot core and the warmer it becomes."
+    },
+    "segments": [
+      {
+        "token": "hoe",
+        "startTime": 24580,
+        "endTime": 24900
+      },
+      {
+        "token": "dichter",
+        "startTime": 24900,
+        "endTime": 25300
+      },
+      {
+        "token": "je",
+        "startTime": 25300,
+        "endTime": 25420
+      },
+      {
+        "token": "bij",
+        "startTime": 25420,
+        "endTime": 25540
+      },
+      {
+        "token": "de",
+        "startTime": 25540,
+        "endTime": 25660
+      },
+      {
+        "token": "hete",
+        "startTime": 25660,
+        "endTime": 25860
+      },
+      {
+        "token": "kern",
+        "startTime": 25860,
+        "endTime": 26140
+      },
+      {
+        "token": "komt",
+        "startTime": 26140,
+        "endTime": 26420
+      },
+      {
+        "token": "en",
+        "startTime": 26420,
+        "endTime": 26740
+      },
+      {
+        "token": "hoe",
+        "startTime": 26740,
+        "endTime": 26860
+      },
+      {
+        "token": "warmer",
+        "startTime": 26860,
+        "endTime": 27120
+      },
+      {
+        "token": "het",
+        "startTime": 27120,
+        "endTime": 27360
+      },
+      {
+        "token": "wordt.",
+        "startTime": 27360,
+        "endTime": 28540
+      }
+    ]
+  },
+  {
+    "sentence_text": "In de buitenste laag van de aarde, de aardkorst,",
+    "translations": {
+      "en": "In the earth's outermost layer, the crust,"
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 28540,
+        "endTime": 28660
+      },
+      {
+        "token": "de",
+        "startTime": 28660,
+        "endTime": 28780
+      },
+      {
+        "token": "buitenste",
+        "startTime": 28780,
+        "endTime": 29280
+      },
+      {
+        "token": "laag",
+        "startTime": 29280,
+        "endTime": 29460
+      },
+      {
+        "token": "van",
+        "startTime": 29460,
+        "endTime": 29600
+      },
+      {
+        "token": "de",
+        "startTime": 29600,
+        "endTime": 29740
+      },
+      {
+        "token": "aarde,",
+        "startTime": 29740,
+        "endTime": 30080
+      },
+      {
+        "token": "de",
+        "startTime": 30080,
+        "endTime": 30420
+      },
+      {
+        "token": "aardkorst,",
+        "startTime": 30420,
+        "endTime": 31340
+      }
+    ]
+  },
+  {
+    "sentence_text": "zegt de temperatuur met 2 à 3 graden per 100 meter diepte.",
+    "translations": {
+      "en": "the temperature rises by 2 to 3 degrees per 100 meters of depth."
+    },
+    "segments": [
+      {
+        "token": "zegt",
+        "startTime": 31340,
+        "endTime": 31440
+      },
+      {
+        "token": "de",
+        "startTime": 31440,
+        "endTime": 31560
+      },
+      {
+        "token": "temperatuur",
+        "startTime": 31560,
+        "endTime": 32159
+      },
+      {
+        "token": "met",
+        "startTime": 32159,
+        "endTime": 32420
+      },
+      {
+        "token": "2",
+        "startTime": 32420,
+        "endTime": 32700
+      },
+      {
+        "token": "à",
+        "startTime": 32700,
+        "endTime": 32940
+      },
+      {
+        "token": "3",
+        "startTime": 32940,
+        "endTime": 33140
+      },
+      {
+        "token": "graden",
+        "startTime": 33140,
+        "endTime": 33540
+      },
+      {
+        "token": "per",
+        "startTime": 33540,
+        "endTime": 33680
+      },
+      {
+        "token": "100",
+        "startTime": 33680,
+        "endTime": 33900
+      },
+      {
+        "token": "meter",
+        "startTime": 33900,
+        "endTime": 34220
+      },
+      {
+        "token": "diepte.",
+        "startTime": 34220,
+        "endTime": 35060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dus elke kilometer die het dieper gaat, is het ongeveer 30 graden warmer.",
+    "translations": {
+      "en": "So for every kilometer deeper, it's about 30 degrees warmer."
+    },
+    "segments": [
+      {
+        "token": "Dus",
+        "startTime": 35060,
+        "endTime": 35200
+      },
+      {
+        "token": "elke",
+        "startTime": 35200,
+        "endTime": 35540
+      },
+      {
+        "token": "kilometer",
+        "startTime": 35540,
+        "endTime": 36000
+      },
+      {
+        "token": "die",
+        "startTime": 36000,
+        "endTime": 36220
+      },
+      {
+        "token": "het",
+        "startTime": 36220,
+        "endTime": 36360
+      },
+      {
+        "token": "dieper",
+        "startTime": 36360,
+        "endTime": 36620
+      },
+      {
+        "token": "gaat,",
+        "startTime": 36620,
+        "endTime": 37020
+      },
+      {
+        "token": "is",
+        "startTime": 37020,
+        "endTime": 37160
+      },
+      {
+        "token": "het",
+        "startTime": 37160,
+        "endTime": 37260
+      },
+      {
+        "token": "ongeveer",
+        "startTime": 37260,
+        "endTime": 37680
+      },
+      {
+        "token": "30",
+        "startTime": 37680,
+        "endTime": 38080
+      },
+      {
+        "token": "graden",
+        "startTime": 38080,
+        "endTime": 38460
+      },
+      {
+        "token": "warmer.",
+        "startTime": 38460,
+        "endTime": 39060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat de aarde van binnen warm is, heeft slimme ingenieurs op hele goede ideeën gebracht.",
+    "translations": {
+      "en": "That the earth is hot inside has given smart engineers some very good ideas."
+    },
+    "segments": [
+      {
+        "token": "Dat",
+        "startTime": 39060,
+        "endTime": 39180
+      },
+      {
+        "token": "de",
+        "startTime": 39180,
+        "endTime": 39360
+      },
+      {
+        "token": "aarde",
+        "startTime": 39360,
+        "endTime": 39600
+      },
+      {
+        "token": "van",
+        "startTime": 39600,
+        "endTime": 39760
+      },
+      {
+        "token": "binnen",
+        "startTime": 39760,
+        "endTime": 39980
+      },
+      {
+        "token": "warm",
+        "startTime": 39980,
+        "endTime": 40300
+      },
+      {
+        "token": "is,",
+        "startTime": 40300,
+        "endTime": 40600
+      },
+      {
+        "token": "heeft",
+        "startTime": 40600,
+        "endTime": 40760
+      },
+      {
+        "token": "slimme",
+        "startTime": 40760,
+        "endTime": 41040
+      },
+      {
+        "token": "ingenieurs",
+        "startTime": 41040,
+        "endTime": 41560
+      },
+      {
+        "token": "op",
+        "startTime": 41560,
+        "endTime": 41780
+      },
+      {
+        "token": "hele",
+        "startTime": 41780,
+        "endTime": 42080
+      },
+      {
+        "token": "goede",
+        "startTime": 42080,
+        "endTime": 42280
+      },
+      {
+        "token": "ideeën",
+        "startTime": 42280,
+        "endTime": 42660
+      },
+      {
+        "token": "gebracht.",
+        "startTime": 42660,
+        "endTime": 43500
+      }
+    ]
+  },
+  {
+    "sentence_text": "Bijvoorbeeld om geothermie te gebruiken om huizen te verwarmen.",
+    "translations": {
+      "en": "For example, using geothermal energy to heat homes."
+    },
+    "segments": [
+      {
+        "token": "Bijvoorbeeld",
+        "startTime": 43500,
+        "endTime": 43880
+      },
+      {
+        "token": "om",
+        "startTime": 43880,
+        "endTime": 44100
+      },
+      {
+        "token": "geothermie",
+        "startTime": 44100,
+        "endTime": 44560
+      },
+      {
+        "token": "te",
+        "startTime": 44560,
+        "endTime": 44700
+      },
+      {
+        "token": "gebruiken",
+        "startTime": 44700,
+        "endTime": 45120
+      },
+      {
+        "token": "om",
+        "startTime": 45120,
+        "endTime": 45660
+      },
+      {
+        "token": "huizen",
+        "startTime": 45660,
+        "endTime": 45940
+      },
+      {
+        "token": "te",
+        "startTime": 45940,
+        "endTime": 46100
+      },
+      {
+        "token": "verwarmen.",
+        "startTime": 46100,
+        "endTime": 46920
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hoe?",
+    "translations": {
+      "en": "How?"
+    },
+    "segments": [
+      {
+        "token": "Hoe?",
+        "startTime": 46920,
+        "endTime": 47240
+      }
+    ]
+  },
+  {
+    "sentence_text": "Door in de grond te boren.",
+    "translations": {
+      "en": "By drilling into the ground."
+    },
+    "segments": [
+      {
+        "token": "Door",
+        "startTime": 47240,
+        "endTime": 47700
+      },
+      {
+        "token": "in",
+        "startTime": 47700,
+        "endTime": 47840
+      },
+      {
+        "token": "de",
+        "startTime": 47840,
+        "endTime": 47940
+      },
+      {
+        "token": "grond",
+        "startTime": 47940,
+        "endTime": 48140
+      },
+      {
+        "token": "te",
+        "startTime": 48140,
+        "endTime": 48320
+      },
+      {
+        "token": "boren.",
+        "startTime": 48320,
+        "endTime": 49080
+      }
+    ]
+  },
+  {
+    "sentence_text": "Niet tot bij de kern, enkele honderden meters is al genoeg.",
+    "translations": {
+      "en": "Not all the way to the core; a few hundred meters is enough."
+    },
+    "segments": [
+      {
+        "token": "Niet",
+        "startTime": 49080,
+        "endTime": 49260
+      },
+      {
+        "token": "tot",
+        "startTime": 49260,
+        "endTime": 49420
+      },
+      {
+        "token": "bij",
+        "startTime": 49420,
+        "endTime": 49520
+      },
+      {
+        "token": "de",
+        "startTime": 49520,
+        "endTime": 49660
+      },
+      {
+        "token": "kern,",
+        "startTime": 49660,
+        "endTime": 50320
+      },
+      {
+        "token": "enkele",
+        "startTime": 50320,
+        "endTime": 50680
+      },
+      {
+        "token": "honderden",
+        "startTime": 50680,
+        "endTime": 51020
+      },
+      {
+        "token": "meters",
+        "startTime": 51020,
+        "endTime": 51300
+      },
+      {
+        "token": "is",
+        "startTime": 51300,
+        "endTime": 51520
+      },
+      {
+        "token": "al",
+        "startTime": 51520,
+        "endTime": 51620
+      },
+      {
+        "token": "genoeg.",
+        "startTime": 51620,
+        "endTime": 52580
+      }
+    ]
+  },
+  {
+    "sentence_text": "Er zijn verschillende manieren om gebruik te maken van de aardwarmte.",
+    "translations": {
+      "en": "There are different ways to use the earth's heat."
+    },
+    "segments": [
+      {
+        "token": "Er",
+        "startTime": 52580,
+        "endTime": 52720
+      },
+      {
+        "token": "zijn",
+        "startTime": 52720,
+        "endTime": 52860
+      },
+      {
+        "token": "verschillende",
+        "startTime": 52860,
+        "endTime": 53320
+      },
+      {
+        "token": "manieren",
+        "startTime": 53320,
+        "endTime": 53640
+      },
+      {
+        "token": "om",
+        "startTime": 53640,
+        "endTime": 53820
+      },
+      {
+        "token": "gebruik",
+        "startTime": 53820,
+        "endTime": 54100
+      },
+      {
+        "token": "te",
+        "startTime": 54100,
+        "endTime": 54220
+      },
+      {
+        "token": "maken",
+        "startTime": 54220,
+        "endTime": 54420
+      },
+      {
+        "token": "van",
+        "startTime": 54420,
+        "endTime": 54600
+      },
+      {
+        "token": "de",
+        "startTime": 54600,
+        "endTime": 54740
+      },
+      {
+        "token": "aardwarmte.",
+        "startTime": 54740,
+        "endTime": 56000
+      }
+    ]
+  },
+  {
+    "sentence_text": "Soms wordt er via een leiding water in de grond gepompt,",
+    "translations": {
+      "en": "Sometimes water is pumped into the ground through a pipe,"
+    },
+    "segments": [
+      {
+        "token": "Soms",
+        "startTime": 56000,
+        "endTime": 56240
+      },
+      {
+        "token": "wordt",
+        "startTime": 56240,
+        "endTime": 56420
+      },
+      {
+        "token": "er",
+        "startTime": 56420,
+        "endTime": 56560
+      },
+      {
+        "token": "via",
+        "startTime": 56560,
+        "endTime": 56700
+      },
+      {
+        "token": "een",
+        "startTime": 56700,
+        "endTime": 56940
+      },
+      {
+        "token": "leiding",
+        "startTime": 56940,
+        "endTime": 57220
+      },
+      {
+        "token": "water",
+        "startTime": 57220,
+        "endTime": 57580
+      },
+      {
+        "token": "in",
+        "startTime": 57580,
+        "endTime": 57800
+      },
+      {
+        "token": "de",
+        "startTime": 57800,
+        "endTime": 57900
+      },
+      {
+        "token": "grond",
+        "startTime": 57900,
+        "endTime": 58100
+      },
+      {
+        "token": "gepompt,",
+        "startTime": 58100,
+        "endTime": 58640
+      }
+    ]
+  },
+  {
+    "sentence_text": "dat wordt opgewarmd door de aardwarmte en terug naar boven gepompt.",
+    "translations": {
+      "en": "it gets heated by the earth's heat and is pumped back up."
+    },
+    "segments": [
+      {
+        "token": "dat",
+        "startTime": 58640,
+        "endTime": 58820
+      },
+      {
+        "token": "wordt",
+        "startTime": 58820,
+        "endTime": 59000
+      },
+      {
+        "token": "opgewarmd",
+        "startTime": 59000,
+        "endTime": 59560
+      },
+      {
+        "token": "door",
+        "startTime": 59560,
+        "endTime": 59680
+      },
+      {
+        "token": "de",
+        "startTime": 59680,
+        "endTime": 59800
+      },
+      {
+        "token": "aardwarmte",
+        "startTime": 59800,
+        "endTime": 60400
+      },
+      {
+        "token": "en",
+        "startTime": 60400,
+        "endTime": 60840
+      },
+      {
+        "token": "terug",
+        "startTime": 60840,
+        "endTime": 61060
+      },
+      {
+        "token": "naar",
+        "startTime": 61060,
+        "endTime": 61240
+      },
+      {
+        "token": "boven",
+        "startTime": 61240,
+        "endTime": 61560
+      },
+      {
+        "token": "gepompt.",
+        "startTime": 61560,
+        "endTime": 62520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Op andere plaatsen zit er al verwarmd water in de diepere lagen en",
+    "translations": {
+      "en": "In other places, there is already heated water in the deeper layers,"
+    },
+    "segments": [
+      {
+        "token": "Op",
+        "startTime": 62520,
+        "endTime": 62680
+      },
+      {
+        "token": "andere",
+        "startTime": 62680,
+        "endTime": 62980
+      },
+      {
+        "token": "plaatsen",
+        "startTime": 62980,
+        "endTime": 63560
+      },
+      {
+        "token": "zit",
+        "startTime": 63560,
+        "endTime": 63760
+      },
+      {
+        "token": "er",
+        "startTime": 63760,
+        "endTime": 63920
+      },
+      {
+        "token": "al",
+        "startTime": 63920,
+        "endTime": 64000
+      },
+      {
+        "token": "verwarmd",
+        "startTime": 64000,
+        "endTime": 64440
+      },
+      {
+        "token": "water",
+        "startTime": 64440,
+        "endTime": 64620
+      },
+      {
+        "token": "in",
+        "startTime": 64620,
+        "endTime": 64840
+      },
+      {
+        "token": "de",
+        "startTime": 64840,
+        "endTime": 64980
+      },
+      {
+        "token": "diepere",
+        "startTime": 64980,
+        "endTime": 65340
+      },
+      {
+        "token": "lagen",
+        "startTime": 65340,
+        "endTime": 65680
+      },
+      {
+        "token": "en",
+        "startTime": 65680,
+        "endTime": 66180
+      }
+    ]
+  },
+  {
+    "sentence_text": "dat kan ook opnieuw naar boven gehaald worden.",
+    "translations": {
+      "en": "and that can also be brought back up."
+    },
+    "segments": [
+      {
+        "token": "dat",
+        "startTime": 66180,
+        "endTime": 66340
+      },
+      {
+        "token": "kan",
+        "startTime": 66340,
+        "endTime": 66480
+      },
+      {
+        "token": "ook",
+        "startTime": 66480,
+        "endTime": 66700
+      },
+      {
+        "token": "opnieuw",
+        "startTime": 66700,
+        "endTime": 67020
+      },
+      {
+        "token": "naar",
+        "startTime": 67020,
+        "endTime": 67180
+      },
+      {
+        "token": "boven",
+        "startTime": 67180,
+        "endTime": 67520
+      },
+      {
+        "token": "gehaald",
+        "startTime": 67520,
+        "endTime": 67860
+      },
+      {
+        "token": "worden.",
+        "startTime": 67860,
+        "endTime": 68760
+      }
+    ]
+  },
+  {
+    "sentence_text": "Zo, nu snap je geothermie.",
+    "translations": {
+      "en": "So, now you understand geothermal energy."
+    },
+    "segments": [
+      {
+        "token": "Zo,",
+        "startTime": 68760,
+        "endTime": 69140
+      },
+      {
+        "token": "nu",
+        "startTime": 69140,
+        "endTime": 69620
+      },
+      {
+        "token": "snap",
+        "startTime": 69620,
+        "endTime": 69880
+      },
+      {
+        "token": "je",
+        "startTime": 69880,
+        "endTime": 70040
+      },
+      {
+        "token": "geothermie.",
+        "startTime": 70040,
+        "endTime": 85380
+      }
+    ]
+  },
+  {
+    "sentence_text": "TV Gelderland 2021",
+    "translations": {
+      "en": "TV Gelderland 2021"
+    },
+    "segments": [
+      {
+        "token": "TV",
+        "startTime": 85380,
+        "endTime": 85960
+      },
+      {
+        "token": "Gelderland",
+        "startTime": 85960,
+        "endTime": 85980
+      },
+      {
+        "token": "2021",
+        "startTime": 85980,
+        "endTime": 86000
+      }
+    ]
+  }
+]
