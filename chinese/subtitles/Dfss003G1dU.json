@@ -589,7 +589,21 @@
       {
         "token": "碗",
         "startTime": 45160,
-        "endTime": 47980,
+        "endTime": 45985,
+        "pinyin": "wǎn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "碗",
+    "translations": {
+      "en": "Bowl."
+    },
+    "segments": [
+      {
+        "token": "碗",
+        "startTime": 47817,
+        "endTime": 48782,
         "pinyin": "wǎn"
       }
     ]
@@ -716,14 +730,14 @@
     "segments": [
       {
         "token": "筷",
-        "startTime": 59020,
-        "endTime": 64730,
+        "startTime": 59019,
+        "endTime": 60632,
         "pinyin": "kuài"
       },
       {
         "token": "子",
-        "startTime": 64730,
-        "endTime": 70440,
+        "startTime": 60632,
+        "endTime": 62245,
         "pinyin": "zi"
       }
     ]
@@ -736,13 +750,13 @@
     "segments": [
       {
         "token": "手",
-        "startTime": 70440,
-        "endTime": 73970,
+        "startTime": 70242,
+        "endTime": 73871,
         "pinyin": "shǒu"
       },
       {
         "token": "套",
-        "startTime": 73970,
+        "startTime": 73871,
         "endTime": 77500,
         "pinyin": "tào"
       }
@@ -756,74 +770,74 @@
     "segments": [
       {
         "token": "就",
-        "startTime": 77500,
-        "endTime": 77620,
+        "startTime": 77502,
+        "endTime": 77573,
         "pinyin": "jiù"
       },
       {
         "token": "是",
-        "startTime": 77620,
-        "endTime": 77740,
+        "startTime": 77573,
+        "endTime": 77643,
         "pinyin": "shì"
       },
       {
         "token": "把",
-        "startTime": 77740,
-        "endTime": 77940,
+        "startTime": 77643,
+        "endTime": 77761,
         "pinyin": "bǎ"
       },
       {
         "token": "我",
-        "startTime": 77940,
-        "endTime": 78160,
+        "startTime": 77761,
+        "endTime": 77890,
         "pinyin": "wǒ"
       },
       {
         "token": "的",
-        "startTime": 78160,
-        "endTime": 78680,
+        "startTime": 77890,
+        "endTime": 78195,
         "pinyin": "de"
       },
       {
         "token": "手",
-        "startTime": 78680,
-        "endTime": 79390,
+        "startTime": 78195,
+        "endTime": 78612,
         "pinyin": "shǒu"
       },
       {
         "token": "套",
-        "startTime": 79390,
-        "endTime": 80100,
+        "startTime": 78612,
+        "endTime": 79029,
         "pinyin": "tào"
       },
       {
         "token": "在",
-        "startTime": 80100,
-        "endTime": 80320,
+        "startTime": 79029,
+        "endTime": 79158,
         "pinyin": "zài"
       },
       {
         "token": "这",
-        "startTime": 80320,
-        "endTime": 80750,
+        "startTime": 79158,
+        "endTime": 79410,
         "pinyin": "zhè"
       },
       {
         "token": "个",
-        "startTime": 80750,
-        "endTime": 81180,
+        "startTime": 79410,
+        "endTime": 79663,
         "pinyin": "ge"
       },
       {
         "token": "里",
-        "startTime": 81180,
-        "endTime": 82240,
+        "startTime": 79663,
+        "endTime": 80285,
         "pinyin": "lǐ"
       },
       {
         "token": "面",
-        "startTime": 82240,
-        "endTime": 83300,
+        "startTime": 80285,
+        "endTime": 80908,
         "pinyin": "miàn"
       }
     ]
@@ -836,44 +850,44 @@
     "segments": [
       {
         "token": "手",
-        "startTime": 83300,
-        "endTime": 83550,
+        "startTime": 80908,
+        "endTime": 81154,
         "pinyin": "shǒu"
       },
       {
         "token": "套",
-        "startTime": 83550,
-        "endTime": 83800,
+        "startTime": 81154,
+        "endTime": 81400,
         "pinyin": "tào"
       },
       {
         "token": "在",
-        "startTime": 83800,
-        "endTime": 83980,
+        "startTime": 81400,
+        "endTime": 81578,
         "pinyin": "zài"
       },
       {
         "token": "这",
-        "startTime": 83980,
-        "endTime": 84650,
+        "startTime": 81578,
+        "endTime": 82238,
         "pinyin": "zhè"
       },
       {
         "token": "个",
-        "startTime": 84650,
-        "endTime": 85320,
+        "startTime": 82238,
+        "endTime": 82898,
         "pinyin": "ge"
       },
       {
         "token": "里",
-        "startTime": 85320,
-        "endTime": 86250,
+        "startTime": 82898,
+        "endTime": 83815,
         "pinyin": "lǐ"
       },
       {
         "token": "面",
-        "startTime": 86250,
-        "endTime": 87180,
+        "startTime": 83815,
+        "endTime": 84731,
         "pinyin": "miàn"
       }
     ]
@@ -886,14 +900,14 @@
     "segments": [
       {
         "token": "手",
-        "startTime": 87180,
-        "endTime": 88060,
+        "startTime": 84731,
+        "endTime": 85390,
         "pinyin": "shǒu"
       },
       {
         "token": "套",
-        "startTime": 88060,
-        "endTime": 88940,
+        "startTime": 85390,
+        "endTime": 86048,
         "pinyin": "tào"
       }
     ]
@@ -906,14 +920,14 @@
     "segments": [
       {
         "token": "椅",
-        "startTime": 88940,
-        "endTime": 89730,
+        "startTime": 86524,
+        "endTime": 87377,
         "pinyin": "yǐ"
       },
       {
         "token": "子",
-        "startTime": 89730,
-        "endTime": 90520,
+        "startTime": 87377,
+        "endTime": 88231,
         "pinyin": "zi"
       }
     ]
@@ -926,14 +940,14 @@
     "segments": [
       {
         "token": "椅",
-        "startTime": 90520,
-        "endTime": 91260,
+        "startTime": 88231,
+        "endTime": 88833,
         "pinyin": "yǐ"
       },
       {
         "token": "子",
-        "startTime": 91260,
-        "endTime": 92000,
+        "startTime": 88833,
+        "endTime": 89435,
         "pinyin": "zi"
       }
     ]
@@ -946,38 +960,38 @@
     "segments": [
       {
         "token": "我",
-        "startTime": 92000,
-        "endTime": 92240,
+        "startTime": 89798,
+        "endTime": 90046,
         "pinyin": "wǒ"
       },
       {
         "token": "坐",
-        "startTime": 92240,
-        "endTime": 93480,
+        "startTime": 90046,
+        "endTime": 91327,
         "pinyin": "zuò"
       },
       {
         "token": "在",
-        "startTime": 93480,
-        "endTime": 94720,
+        "startTime": 91327,
+        "endTime": 92609,
         "pinyin": "zài"
       },
       {
         "token": "椅",
-        "startTime": 94720,
-        "endTime": 94850,
+        "startTime": 92609,
+        "endTime": 92743,
         "pinyin": "yǐ"
       },
       {
         "token": "子",
-        "startTime": 94850,
-        "endTime": 94980,
+        "startTime": 92743,
+        "endTime": 92877,
         "pinyin": "zi"
       },
       {
         "token": "上",
-        "startTime": 94980,
-        "endTime": 95320,
+        "startTime": 92877,
+        "endTime": 93228,
         "pinyin": "shàng"
       }
     ]
@@ -990,32 +1004,32 @@
     "segments": [
       {
         "token": "这",
-        "startTime": 95320,
-        "endTime": 96580,
+        "startTime": 93858,
+        "endTime": 94784,
         "pinyin": "zhè"
       },
       {
         "token": "个",
-        "startTime": 96580,
-        "endTime": 97840,
+        "startTime": 94784,
+        "endTime": 95711,
         "pinyin": "ge"
       },
       {
         "token": "是",
-        "startTime": 97840,
-        "endTime": 98260,
+        "startTime": 95711,
+        "endTime": 96020,
         "pinyin": "shì"
       },
       {
         "token": "沙",
-        "startTime": 98260,
-        "endTime": 99000,
+        "startTime": 96020,
+        "endTime": 96564,
         "pinyin": "shā"
       },
       {
         "token": "发",
-        "startTime": 99000,
-        "endTime": 99740,
+        "startTime": 96564,
+        "endTime": 97108,
         "pinyin": "fā"
       }
     ]
@@ -1028,22 +1042,22 @@
     "segments": [
       {
         "token": "s",
-        "startTime": 99740,
-        "endTime": 99870
+        "startTime": 97108,
+        "endTime": 97497
       },
       {
         "token": "o",
-        "startTime": 99870,
-        "endTime": 100000
+        "startTime": 97497,
+        "endTime": 97886
       },
       {
         "token": "f",
-        "startTime": 100000,
-        "endTime": 100530
+        "startTime": 97886,
+        "endTime": 99473
       },
       {
         "token": "a",
-        "startTime": 100530,
+        "startTime": 99473,
         "endTime": 101060
       }
     ]
@@ -1057,43 +1071,43 @@
       {
         "token": "我",
         "startTime": 101060,
-        "endTime": 101200,
+        "endTime": 101153,
         "pinyin": "wǒ"
       },
       {
         "token": "们",
-        "startTime": 101200,
-        "endTime": 101340,
+        "startTime": 101153,
+        "endTime": 101246,
         "pinyin": "men"
       },
       {
         "token": "叫",
-        "startTime": 101340,
-        "endTime": 101520,
+        "startTime": 101246,
+        "endTime": 101366,
         "pinyin": "jiào"
       },
       {
         "token": "这",
-        "startTime": 101520,
-        "endTime": 101690,
+        "startTime": 101366,
+        "endTime": 101479,
         "pinyin": "zhè"
       },
       {
         "token": "个",
-        "startTime": 101690,
-        "endTime": 101860,
+        "startTime": 101479,
+        "endTime": 101592,
         "pinyin": "ge"
       },
       {
         "token": "沙",
-        "startTime": 101860,
-        "endTime": 104090,
+        "startTime": 101592,
+        "endTime": 103076,
         "pinyin": "shā"
       },
       {
         "token": "发",
-        "startTime": 104090,
-        "endTime": 106320,
+        "startTime": 103076,
+        "endTime": 104559,
         "pinyin": "fā"
       }
     ]
@@ -1107,37 +1121,37 @@
       {
         "token": "我",
         "startTime": 106320,
-        "endTime": 107720,
+        "endTime": 107556,
         "pinyin": "wǒ"
       },
       {
         "token": "坐",
-        "startTime": 107720,
-        "endTime": 108460,
+        "startTime": 107556,
+        "endTime": 108210,
         "pinyin": "zuò"
       },
       {
         "token": "在",
-        "startTime": 108460,
-        "endTime": 109200,
+        "startTime": 108210,
+        "endTime": 108863,
         "pinyin": "zài"
       },
       {
         "token": "沙",
-        "startTime": 109200,
-        "endTime": 109740,
+        "startTime": 108863,
+        "endTime": 109340,
         "pinyin": "shā"
       },
       {
         "token": "发",
-        "startTime": 109740,
-        "endTime": 110280,
+        "startTime": 109340,
+        "endTime": 109817,
         "pinyin": "fā"
       },
       {
         "token": "上",
-        "startTime": 110280,
-        "endTime": 112120,
+        "startTime": 109817,
+        "endTime": 111442,
         "pinyin": "shàng"
       }
     ]
@@ -1150,32 +1164,32 @@
     "segments": [
       {
         "token": "坐",
-        "startTime": 112120,
-        "endTime": 112390,
+        "startTime": 111442,
+        "endTime": 111637,
         "pinyin": "zuò"
       },
       {
         "token": "在",
-        "startTime": 112390,
-        "endTime": 112660,
+        "startTime": 111637,
+        "endTime": 111832,
         "pinyin": "zài"
       },
       {
         "token": "沙",
-        "startTime": 112660,
-        "endTime": 113220,
+        "startTime": 111832,
+        "endTime": 112238,
         "pinyin": "shā"
       },
       {
         "token": "发",
-        "startTime": 113220,
-        "endTime": 113780,
+        "startTime": 112238,
+        "endTime": 112643,
         "pinyin": "fā"
       },
       {
         "token": "上",
-        "startTime": 113780,
-        "endTime": 118540,
+        "startTime": 112643,
+        "endTime": 116088,
         "pinyin": "shàng"
       }
     ]
@@ -1188,13 +1202,13 @@
     "segments": [
       {
         "token": "坐",
-        "startTime": 118540,
-        "endTime": 119370,
+        "startTime": 118350,
+        "endTime": 119275,
         "pinyin": "zuò"
       },
       {
         "token": "下",
-        "startTime": 119370,
+        "startTime": 119275,
         "endTime": 120200,
         "pinyin": "xià"
       }
@@ -1209,31 +1223,31 @@
       {
         "token": "坐",
         "startTime": 120200,
-        "endTime": 120580,
+        "endTime": 120485,
         "pinyin": "zuò"
       },
       {
         "token": "在",
-        "startTime": 120580,
-        "endTime": 120960,
+        "startTime": 120485,
+        "endTime": 120769,
         "pinyin": "zài"
       },
       {
         "token": "沙",
-        "startTime": 120960,
-        "endTime": 121410,
+        "startTime": 120769,
+        "endTime": 121107,
         "pinyin": "shā"
       },
       {
         "token": "发",
-        "startTime": 121410,
-        "endTime": 121860,
+        "startTime": 121107,
+        "endTime": 121444,
         "pinyin": "fā"
       },
       {
         "token": "上",
-        "startTime": 121860,
-        "endTime": 123560,
+        "startTime": 121444,
+        "endTime": 122718,
         "pinyin": "shàng"
       }
     ]
@@ -1246,38 +1260,38 @@
     "segments": [
       {
         "token": "这",
-        "startTime": 123560,
-        "endTime": 123670,
+        "startTime": 122718,
+        "endTime": 122799,
         "pinyin": "zhè"
       },
       {
         "token": "个",
-        "startTime": 123670,
-        "endTime": 123780,
+        "startTime": 122799,
+        "endTime": 122881,
         "pinyin": "ge"
       },
       {
         "token": "就",
-        "startTime": 123780,
-        "endTime": 124210,
+        "startTime": 122881,
+        "endTime": 123200,
         "pinyin": "jiù"
       },
       {
         "token": "是",
-        "startTime": 124210,
-        "endTime": 124640,
+        "startTime": 123200,
+        "endTime": 123519,
         "pinyin": "shì"
       },
       {
         "token": "沙",
-        "startTime": 124640,
-        "endTime": 126200,
+        "startTime": 123519,
+        "endTime": 124675,
         "pinyin": "shā"
       },
       {
         "token": "发",
-        "startTime": 126200,
-        "endTime": 127760,
+        "startTime": 124675,
+        "endTime": 125832,
         "pinyin": "fā"
       }
     ]
@@ -1329,13 +1343,13 @@
       {
         "token": "台",
         "startTime": 131100,
-        "endTime": 132140,
+        "endTime": 131932,
         "pinyin": "tái"
       },
       {
         "token": "灯",
-        "startTime": 132140,
-        "endTime": 133180,
+        "startTime": 131932,
+        "endTime": 132764,
         "pinyin": "dēng"
       }
     ]
@@ -1348,32 +1362,32 @@
     "segments": [
       {
         "token": "这",
-        "startTime": 133180,
-        "endTime": 133290,
+        "startTime": 132764,
+        "endTime": 133145,
         "pinyin": "zhè"
       },
       {
         "token": "是",
-        "startTime": 133290,
-        "endTime": 133400,
+        "startTime": 133145,
+        "endTime": 133527,
         "pinyin": "shì"
       },
       {
         "token": "一",
-        "startTime": 133400,
-        "endTime": 133510,
+        "startTime": 133527,
+        "endTime": 133908,
         "pinyin": "yí"
       },
       {
         "token": "个",
-        "startTime": 133510,
-        "endTime": 133620,
+        "startTime": 133908,
+        "endTime": 134289,
         "pinyin": "gè"
       },
       {
         "token": "灯",
-        "startTime": 133620,
-        "endTime": 133620,
+        "startTime": 134289,
+        "endTime": 134289,
         "pinyin": "dēng"
       }
     ]
@@ -1386,44 +1400,44 @@
     "segments": [
       {
         "token": "放",
-        "startTime": 133620,
-        "endTime": 134320,
+        "startTime": 134289,
+        "endTime": 134763,
         "pinyin": "fàng"
       },
       {
         "token": "在",
-        "startTime": 134320,
-        "endTime": 135020,
+        "startTime": 134763,
+        "endTime": 135237,
         "pinyin": "zài"
       },
       {
         "token": "这",
-        "startTime": 135020,
-        "endTime": 135160,
+        "startTime": 135237,
+        "endTime": 135332,
         "pinyin": "zhè"
       },
       {
         "token": "个",
-        "startTime": 135160,
-        "endTime": 135300,
+        "startTime": 135332,
+        "endTime": 135427,
         "pinyin": "ge"
       },
       {
         "token": "台",
-        "startTime": 135300,
-        "endTime": 135727,
+        "startTime": 135427,
+        "endTime": 135716,
         "pinyin": "tái"
       },
       {
         "token": "子",
-        "startTime": 135727,
-        "endTime": 136153,
+        "startTime": 135716,
+        "endTime": 136005,
         "pinyin": "zi"
       },
       {
         "token": "上",
-        "startTime": 136153,
-        "endTime": 136580,
+        "startTime": 136005,
+        "endTime": 136294,
         "pinyin": "shàng"
       }
     ]
@@ -1436,49 +1450,49 @@
     "segments": [
       {
         "token": "所",
-        "startTime": 136580,
-        "endTime": 136670,
+        "startTime": 136294,
+        "endTime": 136390,
         "pinyin": "suǒ"
       },
       {
         "token": "以",
-        "startTime": 136670,
-        "endTime": 136760,
+        "startTime": 136390,
+        "endTime": 136486,
         "pinyin": "yǐ"
       },
       {
         "token": "我",
-        "startTime": 136760,
-        "endTime": 136870,
+        "startTime": 136486,
+        "endTime": 136604,
         "pinyin": "wǒ"
       },
       {
         "token": "们",
-        "startTime": 136870,
-        "endTime": 136980,
+        "startTime": 136604,
+        "endTime": 136721,
         "pinyin": "men"
       },
       {
         "token": "叫",
-        "startTime": 136980,
-        "endTime": 137200,
+        "startTime": 136721,
+        "endTime": 136956,
         "pinyin": "jiào"
       },
       {
         "token": "它",
-        "startTime": 137200,
-        "endTime": 137420,
+        "startTime": 136956,
+        "endTime": 137191,
         "pinyin": "tā"
       },
       {
         "token": "台",
-        "startTime": 137420,
-        "endTime": 139100,
+        "startTime": 137191,
+        "endTime": 138986,
         "pinyin": "tái"
       },
       {
         "token": "灯",
-        "startTime": 139100,
+        "startTime": 138986,
         "endTime": 140780,
         "pinyin": "dēng"
       }
@@ -1624,32 +1638,32 @@
     "segments": [
       {
         "token": "这",
-        "startTime": 150760,
-        "endTime": 151000,
+        "startTime": 150761,
+        "endTime": 150933,
         "pinyin": "zhè"
       },
       {
         "token": "是",
-        "startTime": 151000,
-        "endTime": 151220,
+        "startTime": 150933,
+        "endTime": 151091,
         "pinyin": "shì"
       },
       {
         "token": "一",
-        "startTime": 151220,
-        "endTime": 151940,
+        "startTime": 151091,
+        "endTime": 151608,
         "pinyin": "yí"
       },
       {
         "token": "个",
-        "startTime": 151940,
-        "endTime": 152660,
+        "startTime": 151608,
+        "endTime": 152124,
         "pinyin": "gè"
       },
       {
         "token": "钟",
-        "startTime": 152660,
-        "endTime": 152860,
+        "startTime": 152124,
+        "endTime": 152268,
         "pinyin": "zhōng"
       }
     ]
@@ -1662,50 +1676,50 @@
     "segments": [
       {
         "token": "我",
-        "startTime": 152860,
-        "endTime": 153100,
+        "startTime": 152268,
+        "endTime": 152445,
         "pinyin": "wǒ"
       },
       {
         "token": "们",
-        "startTime": 153100,
-        "endTime": 153340,
+        "startTime": 152445,
+        "endTime": 152623,
         "pinyin": "men"
       },
       {
         "token": "用",
-        "startTime": 153340,
-        "endTime": 155890,
+        "startTime": 152623,
+        "endTime": 154511,
         "pinyin": "yòng"
       },
       {
         "token": "钟",
-        "startTime": 155890,
-        "endTime": 158440,
+        "startTime": 154511,
+        "endTime": 156398,
         "pinyin": "zhōng"
       },
       {
         "token": "来",
-        "startTime": 158440,
-        "endTime": 158560,
+        "startTime": 156398,
+        "endTime": 156487,
         "pinyin": "lái"
       },
       {
         "token": "看",
-        "startTime": 158560,
-        "endTime": 158680,
+        "startTime": 156487,
+        "endTime": 156576,
         "pinyin": "kàn"
       },
       {
         "token": "时",
-        "startTime": 158680,
-        "endTime": 159530,
+        "startTime": 156576,
+        "endTime": 157205,
         "pinyin": "shí"
       },
       {
         "token": "间",
-        "startTime": 159530,
-        "endTime": 160380,
+        "startTime": 157205,
+        "endTime": 157834,
         "pinyin": "jiān"
       }
     ]
@@ -1718,38 +1732,38 @@
     "segments": [
       {
         "token": "这",
-        "startTime": 160380,
-        "endTime": 160390,
+        "startTime": 157834,
+        "endTime": 157846,
         "pinyin": "zhè"
       },
       {
         "token": "个",
-        "startTime": 160390,
-        "endTime": 160400,
+        "startTime": 157846,
+        "endTime": 157857,
         "pinyin": "ge"
       },
       {
         "token": "钟",
-        "startTime": 160400,
-        "endTime": 161200,
+        "startTime": 157857,
+        "endTime": 158770,
         "pinyin": "zhōng"
       },
       {
         "token": "有",
-        "startTime": 161200,
-        "endTime": 162000,
+        "startTime": 158770,
+        "endTime": 159683,
         "pinyin": "yǒu"
       },
       {
         "token": "一",
-        "startTime": 162000,
-        "endTime": 162715,
+        "startTime": 159683,
+        "endTime": 160500,
         "pinyin": "yì"
       },
       {
         "token": "点",
-        "startTime": 162715,
-        "endTime": 163430,
+        "startTime": 160500,
+        "endTime": 161316,
         "pinyin": "diǎn"
       }
     ]
@@ -1762,14 +1776,14 @@
     "segments": [
       {
         "token": "两",
-        "startTime": 163430,
-        "endTime": 164145,
+        "startTime": 161316,
+        "endTime": 162095,
         "pinyin": "liǎng"
       },
       {
         "token": "点",
-        "startTime": 164145,
-        "endTime": 164860,
+        "startTime": 162095,
+        "endTime": 162874,
         "pinyin": "diǎn"
       }
     ]
@@ -1782,14 +1796,14 @@
     "segments": [
       {
         "token": "三",
-        "startTime": 164860,
-        "endTime": 165510,
+        "startTime": 162874,
+        "endTime": 163632,
         "pinyin": "sān"
       },
       {
         "token": "点",
-        "startTime": 165510,
-        "endTime": 166160,
+        "startTime": 163632,
+        "endTime": 164390,
         "pinyin": "diǎn"
       }
     ]
@@ -1802,14 +1816,14 @@
     "segments": [
       {
         "token": "四",
-        "startTime": 166160,
-        "endTime": 166860,
+        "startTime": 164352,
+        "endTime": 165106,
         "pinyin": "sì"
       },
       {
         "token": "点",
-        "startTime": 166860,
-        "endTime": 167560,
+        "startTime": 165106,
+        "endTime": 165861,
         "pinyin": "diǎn"
       }
     ]
@@ -1822,14 +1836,14 @@
     "segments": [
       {
         "token": "五",
-        "startTime": 167560,
-        "endTime": 168403,
+        "startTime": 165861,
+        "endTime": 166355,
         "pinyin": "wǔ"
       },
       {
         "token": "点",
-        "startTime": 168403,
-        "endTime": 169245,
+        "startTime": 166355,
+        "endTime": 166848,
         "pinyin": "diǎn"
       }
     ]
@@ -1842,14 +1856,14 @@
     "segments": [
       {
         "token": "8",
-        "startTime": 169245,
-        "endTime": 170365,
+        "startTime": 169717,
+        "endTime": 170678,
         "pinyin": "8"
       },
       {
         "token": "点",
-        "startTime": 170365,
-        "endTime": 170765,
+        "startTime": 170678,
+        "endTime": 171021,
         "pinyin": "diǎn"
       }
     ]
@@ -1862,14 +1876,14 @@
     "segments": [
       {
         "token": "9",
-        "startTime": 170765,
-        "endTime": 171865,
+        "startTime": 171021,
+        "endTime": 172195,
         "pinyin": "9"
       },
       {
         "token": "点",
-        "startTime": 171865,
-        "endTime": 172225,
+        "startTime": 172195,
+        "endTime": 172579,
         "pinyin": "diǎn"
       }
     ]
@@ -1882,20 +1896,20 @@
     "segments": [
       {
         "token": "1",
-        "startTime": 172225,
-        "endTime": 172725,
+        "startTime": 172579,
+        "endTime": 173081,
         "pinyin": "1"
       },
       {
         "token": "0",
-        "startTime": 172725,
-        "endTime": 173225,
+        "startTime": 173081,
+        "endTime": 173583,
         "pinyin": "0"
       },
       {
         "token": "点",
-        "startTime": 173225,
-        "endTime": 173525,
+        "startTime": 173583,
+        "endTime": 173885,
         "pinyin": "diǎn"
       }
     ]
@@ -1908,20 +1922,20 @@
     "segments": [
       {
         "token": "1",
-        "startTime": 173525,
-        "endTime": 174145,
+        "startTime": 173885,
+        "endTime": 174475,
         "pinyin": "1"
       },
       {
         "token": "1",
-        "startTime": 174145,
-        "endTime": 174765,
+        "startTime": 174475,
+        "endTime": 175064,
         "pinyin": "1"
       },
       {
         "token": "点",
-        "startTime": 174765,
-        "endTime": 175185,
+        "startTime": 175064,
+        "endTime": 175464,
         "pinyin": "diǎn"
       }
     ]
@@ -1934,20 +1948,20 @@
     "segments": [
       {
         "token": "1",
-        "startTime": 175185,
-        "endTime": 175765,
+        "startTime": 175464,
+        "endTime": 175861,
         "pinyin": "1"
       },
       {
         "token": "2",
-        "startTime": 175765,
-        "endTime": 176345,
+        "startTime": 175861,
+        "endTime": 176259,
         "pinyin": "2"
       },
       {
         "token": "点",
-        "startTime": 176345,
-        "endTime": 177625,
+        "startTime": 176259,
+        "endTime": 177137,
         "pinyin": "diǎn"
       }
     ]
@@ -1960,50 +1974,50 @@
     "segments": [
       {
         "token": "我",
-        "startTime": 177625,
-        "endTime": 177745,
+        "startTime": 177137,
+        "endTime": 177234,
         "pinyin": "wǒ"
       },
       {
         "token": "们",
-        "startTime": 177745,
-        "endTime": 177865,
+        "startTime": 177234,
+        "endTime": 177332,
         "pinyin": "men"
       },
       {
         "token": "有",
-        "startTime": 177865,
-        "endTime": 178005,
+        "startTime": 177332,
+        "endTime": 177445,
         "pinyin": "yǒu"
       },
       {
         "token": "1",
-        "startTime": 178005,
-        "endTime": 178305,
+        "startTime": 177445,
+        "endTime": 177689,
         "pinyin": "1"
       },
       {
         "token": "2",
-        "startTime": 178305,
-        "endTime": 178605,
+        "startTime": 177689,
+        "endTime": 177932,
         "pinyin": "2"
       },
       {
         "token": "个",
-        "startTime": 178605,
-        "endTime": 178845,
+        "startTime": 177932,
+        "endTime": 178127,
         "pinyin": "gè"
       },
       {
         "token": "小",
-        "startTime": 178845,
-        "endTime": 180075,
+        "startTime": 178127,
+        "endTime": 179124,
         "pinyin": "xiǎo"
       },
       {
         "token": "时",
-        "startTime": 180075,
-        "endTime": 181305,
+        "startTime": 179124,
+        "endTime": 180122,
         "pinyin": "shí"
       }
     ]
@@ -2511,55 +2525,55 @@
       {
         "token": "我",
         "startTime": 227145,
-        "endTime": 227365,
+        "endTime": 227280,
         "pinyin": "wǒ"
       },
       {
         "token": "的",
-        "startTime": 227365,
-        "endTime": 227565,
+        "startTime": 227280,
+        "endTime": 227403,
         "pinyin": "de"
       },
       {
         "token": "身",
-        "startTime": 227565,
-        "endTime": 228145,
+        "startTime": 227403,
+        "endTime": 227759,
         "pinyin": "shēn"
       },
       {
         "token": "后",
-        "startTime": 228145,
-        "endTime": 228725,
+        "startTime": 227759,
+        "endTime": 228116,
         "pinyin": "hòu"
       },
       {
         "token": "是",
-        "startTime": 228725,
-        "endTime": 229005,
+        "startTime": 228116,
+        "endTime": 228288,
         "pinyin": "shì"
       },
       {
         "token": "一",
-        "startTime": 229005,
-        "endTime": 229935,
+        "startTime": 228288,
+        "endTime": 228859,
         "pinyin": "yí"
       },
       {
         "token": "个",
-        "startTime": 229935,
-        "endTime": 230865,
+        "startTime": 228859,
+        "endTime": 229430,
         "pinyin": "gè"
       },
       {
         "token": "书",
-        "startTime": 230865,
-        "endTime": 231715,
+        "startTime": 229430,
+        "endTime": 229952,
         "pinyin": "shū"
       },
       {
         "token": "柜",
-        "startTime": 231715,
-        "endTime": 232565,
+        "startTime": 229952,
+        "endTime": 230475,
         "pinyin": "guì"
       }
     ]
@@ -2572,62 +2586,62 @@
     "segments": [
       {
         "token": "书",
-        "startTime": 232565,
-        "endTime": 232695,
+        "startTime": 230475,
+        "endTime": 230615,
         "pinyin": "shū"
       },
       {
         "token": "柜",
-        "startTime": 232695,
-        "endTime": 232825,
+        "startTime": 230615,
+        "endTime": 230756,
         "pinyin": "guì"
       },
       {
         "token": "里",
-        "startTime": 232825,
-        "endTime": 232985,
+        "startTime": 230756,
+        "endTime": 230929,
         "pinyin": "lǐ"
       },
       {
         "token": "面",
-        "startTime": 232985,
-        "endTime": 233145,
+        "startTime": 230929,
+        "endTime": 231103,
         "pinyin": "miàn"
       },
       {
         "token": "放",
-        "startTime": 233145,
-        "endTime": 233525,
+        "startTime": 231103,
+        "endTime": 231514,
         "pinyin": "fàng"
       },
       {
         "token": "了",
-        "startTime": 233525,
-        "endTime": 233745,
+        "startTime": 231514,
+        "endTime": 231752,
         "pinyin": "le"
       },
       {
         "token": "很",
-        "startTime": 233745,
-        "endTime": 234715,
+        "startTime": 231752,
+        "endTime": 232803,
         "pinyin": "hěn"
       },
       {
         "token": "多",
-        "startTime": 234715,
-        "endTime": 235685,
+        "startTime": 232803,
+        "endTime": 233853,
         "pinyin": "duō"
       },
       {
         "token": "的",
-        "startTime": 235685,
-        "endTime": 236745,
+        "startTime": 233853,
+        "endTime": 235001,
         "pinyin": "de"
       },
       {
         "token": "书",
-        "startTime": 236745,
-        "endTime": 236945,
+        "startTime": 235001,
+        "endTime": 235218,
         "pinyin": "shū"
       }
     ]
@@ -2640,56 +2654,56 @@
     "segments": [
       {
         "token": "书",
-        "startTime": 236945,
-        "endTime": 237135,
+        "startTime": 235218,
+        "endTime": 235366,
         "pinyin": "shū"
       },
       {
         "token": "柜",
-        "startTime": 237135,
-        "endTime": 237325,
+        "startTime": 235366,
+        "endTime": 235515,
         "pinyin": "guì"
       },
       {
         "token": "里",
-        "startTime": 237325,
-        "endTime": 237605,
+        "startTime": 235515,
+        "endTime": 235733,
         "pinyin": "lǐ"
       },
       {
         "token": "面",
-        "startTime": 237605,
-        "endTime": 237885,
+        "startTime": 235733,
+        "endTime": 235952,
         "pinyin": "miàn"
       },
       {
         "token": "放",
-        "startTime": 237885,
-        "endTime": 240225,
+        "startTime": 235952,
+        "endTime": 237778,
         "pinyin": "fàng"
       },
       {
         "token": "了",
-        "startTime": 240225,
-        "endTime": 240545,
+        "startTime": 237778,
+        "endTime": 238028,
         "pinyin": "le"
       },
       {
         "token": "很",
-        "startTime": 240545,
-        "endTime": 241225,
+        "startTime": 238028,
+        "endTime": 238559,
         "pinyin": "hěn"
       },
       {
         "token": "多",
-        "startTime": 241225,
-        "endTime": 241905,
+        "startTime": 238559,
+        "endTime": 239090,
         "pinyin": "duō"
       },
       {
         "token": "书",
-        "startTime": 241905,
-        "endTime": 242305,
+        "startTime": 239090,
+        "endTime": 239402,
         "pinyin": "shū"
       }
     ]
@@ -2702,14 +2716,14 @@
     "segments": [
       {
         "token": "书",
-        "startTime": 242305,
-        "endTime": 243545,
+        "startTime": 239402,
+        "endTime": 240319,
         "pinyin": "shū"
       },
       {
         "token": "柜",
-        "startTime": 243545,
-        "endTime": 244785,
+        "startTime": 240319,
+        "endTime": 241236,
         "pinyin": "guì"
       }
     ]
@@ -2722,38 +2736,38 @@
     "segments": [
       {
         "token": "这",
-        "startTime": 244785,
-        "endTime": 244965,
+        "startTime": 241236,
+        "endTime": 241332,
         "pinyin": "zhè"
       },
       {
         "token": "个",
-        "startTime": 244965,
-        "endTime": 245145,
+        "startTime": 241332,
+        "endTime": 241428,
         "pinyin": "ge"
       },
       {
         "token": "就",
-        "startTime": 245145,
-        "endTime": 245305,
+        "startTime": 241428,
+        "endTime": 241514,
         "pinyin": "jiù"
       },
       {
         "token": "是",
-        "startTime": 245305,
-        "endTime": 245465,
+        "startTime": 241514,
+        "endTime": 241599,
         "pinyin": "shì"
       },
       {
         "token": "书",
-        "startTime": 245465,
-        "endTime": 248145,
+        "startTime": 241599,
+        "endTime": 243033,
         "pinyin": "shū"
       },
       {
         "token": "柜",
-        "startTime": 248145,
-        "endTime": 250825,
+        "startTime": 243033,
+        "endTime": 244466,
         "pinyin": "guì"
       }
     ]
@@ -2766,38 +2780,38 @@
     "segments": [
       {
         "token": "放",
-        "startTime": 250825,
-        "endTime": 251295,
+        "startTime": 244516,
+        "endTime": 245102,
         "pinyin": "fàng"
       },
       {
         "token": "着",
-        "startTime": 251295,
-        "endTime": 251765,
+        "startTime": 245102,
+        "endTime": 245687,
         "pinyin": "zhe"
       },
       {
         "token": "很",
-        "startTime": 251765,
-        "endTime": 252345,
+        "startTime": 245687,
+        "endTime": 246409,
         "pinyin": "hěn"
       },
       {
         "token": "多",
-        "startTime": 252345,
-        "endTime": 252925,
+        "startTime": 246409,
+        "endTime": 247131,
         "pinyin": "duō"
       },
       {
         "token": "的",
-        "startTime": 252925,
-        "endTime": 253245,
+        "startTime": 247131,
+        "endTime": 247529,
         "pinyin": "de"
       },
       {
         "token": "书",
-        "startTime": 253245,
-        "endTime": 254665,
+        "startTime": 247529,
+        "endTime": 249298,
         "pinyin": "shū"
       }
     ]
@@ -2810,120 +2824,112 @@
     "segments": [
       {
         "token": "他",
-        "startTime": 254665,
-        "endTime": 254865,
+        "startTime": 250233,
+        "endTime": 250893,
         "pinyin": "tā"
       },
       {
         "token": "推",
-        "startTime": 254865,
-        "endTime": 255075,
+        "startTime": 250893,
+        "endTime": 251586,
         "pinyin": "tuī"
       },
       {
         "token": "着",
-        "startTime": 255075,
-        "endTime": 255285,
+        "startTime": 251586,
+        "endTime": 252279,
         "pinyin": "zhe"
       },
       {
         "token": "购",
-        "startTime": 255285,
-        "endTime": 255478,
+        "startTime": 252279,
+        "endTime": 252916,
         "pinyin": "gòu"
       },
       {
         "token": "物",
-        "startTime": 255478,
-        "endTime": 255672,
+        "startTime": 252916,
+        "endTime": 253554,
         "pinyin": "wù"
       },
       {
         "token": "车",
-        "startTime": 255672,
-        "endTime": 255865,
+        "startTime": 253554,
+        "endTime": 254192,
         "pinyin": "chē"
       }
     ]
   },
   {
-    "sentence_text": "这个 购物车",
+    "sentence_text": "这个 购物车 我们 之前 学过",
     "translations": {
-      "en": "This shopping cart"
+      "en": "This shopping cart We learned this before"
     },
     "segments": [
       {
         "token": "这",
-        "startTime": 255865,
-        "endTime": 256005,
+        "startTime": 254841,
+        "endTime": 254881,
         "pinyin": "zhè"
       },
       {
         "token": "个",
-        "startTime": 256005,
-        "endTime": 256145,
+        "startTime": 254881,
+        "endTime": 254922,
         "pinyin": "ge"
       },
       {
         "token": "购",
-        "startTime": 256145,
-        "endTime": 256705,
+        "startTime": 254922,
+        "endTime": 255082,
         "pinyin": "gòu"
       },
       {
         "token": "物",
-        "startTime": 256705,
-        "endTime": 257265,
+        "startTime": 255082,
+        "endTime": 255243,
         "pinyin": "wù"
       },
       {
         "token": "车",
-        "startTime": 257265,
-        "endTime": 257825,
+        "startTime": 255243,
+        "endTime": 255403,
         "pinyin": "chē"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我们 之前 学过",
-    "translations": {
-      "en": "We learned this before"
-    },
-    "segments": [
+      },
       {
         "token": "我",
-        "startTime": 257825,
-        "endTime": 258375,
+        "startTime": 255403,
+        "endTime": 255561,
         "pinyin": "wǒ"
       },
       {
         "token": "们",
-        "startTime": 258375,
-        "endTime": 258925,
+        "startTime": 255561,
+        "endTime": 255719,
         "pinyin": "men"
       },
       {
         "token": "之",
-        "startTime": 258925,
-        "endTime": 259505,
+        "startTime": 255719,
+        "endTime": 255885,
         "pinyin": "zhī"
       },
       {
         "token": "前",
-        "startTime": 259505,
-        "endTime": 260085,
+        "startTime": 255885,
+        "endTime": 256052,
         "pinyin": "qián"
       },
       {
         "token": "学",
-        "startTime": 260085,
-        "endTime": 262075,
+        "startTime": 256052,
+        "endTime": 256622,
         "pinyin": "xué"
       },
       {
         "token": "过",
-        "startTime": 262075,
-        "endTime": 264065,
+        "startTime": 256622,
+        "endTime": 257193,
         "pinyin": "guò"
       }
     ]
@@ -2936,114 +2942,106 @@
     "segments": [
       {
         "token": "他",
-        "startTime": 264065,
-        "endTime": 264245,
+        "startTime": 257193,
+        "endTime": 257702,
         "pinyin": "tā"
       },
       {
         "token": "推",
-        "startTime": 264245,
-        "endTime": 264425,
+        "startTime": 257702,
+        "endTime": 258211,
         "pinyin": "tuī"
       },
       {
         "token": "着",
-        "startTime": 264425,
-        "endTime": 264605,
+        "startTime": 258211,
+        "endTime": 258720,
         "pinyin": "zhe"
       },
       {
         "token": "购",
-        "startTime": 264605,
-        "endTime": 264885,
+        "startTime": 258720,
+        "endTime": 259512,
         "pinyin": "gòu"
       },
       {
         "token": "物",
-        "startTime": 264885,
-        "endTime": 265165,
+        "startTime": 259512,
+        "endTime": 260304,
         "pinyin": "wù"
       },
       {
         "token": "车",
-        "startTime": 265165,
-        "endTime": 265445,
+        "startTime": 260304,
+        "endTime": 261096,
         "pinyin": "chē"
       }
     ]
   },
   {
-    "sentence_text": "这里 有 很多 的 桌子",
+    "sentence_text": "这里 有 很多 的 桌子 桌子",
     "translations": {
-      "en": "There are many tables here"
+      "en": "There are many tables here Table"
     },
     "segments": [
       {
         "token": "这",
-        "startTime": 265445,
-        "endTime": 266355,
+        "startTime": 263669,
+        "endTime": 264150,
         "pinyin": "zhè"
       },
       {
         "token": "里",
-        "startTime": 266355,
-        "endTime": 267265,
+        "startTime": 264150,
+        "endTime": 264632,
         "pinyin": "lǐ"
       },
       {
         "token": "有",
-        "startTime": 267265,
-        "endTime": 267505,
+        "startTime": 264632,
+        "endTime": 264759,
         "pinyin": "yǒu"
       },
       {
         "token": "很",
-        "startTime": 267505,
-        "endTime": 268775,
+        "startTime": 264759,
+        "endTime": 265431,
         "pinyin": "hěn"
       },
       {
         "token": "多",
-        "startTime": 268775,
-        "endTime": 270045,
+        "startTime": 265431,
+        "endTime": 266103,
         "pinyin": "duō"
       },
       {
         "token": "的",
-        "startTime": 270045,
-        "endTime": 270385,
+        "startTime": 266103,
+        "endTime": 266283,
         "pinyin": "de"
       },
       {
         "token": "桌",
-        "startTime": 270385,
-        "endTime": 270645,
+        "startTime": 266283,
+        "endTime": 266421,
         "pinyin": "zhuō"
       },
       {
         "token": "子",
-        "startTime": 270645,
-        "endTime": 270905,
+        "startTime": 266421,
+        "endTime": 266559,
         "pinyin": "zi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "桌子",
-    "translations": {
-      "en": "Table"
-    },
-    "segments": [
+      },
       {
         "token": "桌",
-        "startTime": 270905,
-        "endTime": 271375,
+        "startTime": 266559,
+        "endTime": 266807,
         "pinyin": "zhuō"
       },
       {
         "token": "子",
-        "startTime": 271375,
-        "endTime": 271845,
+        "startTime": 266807,
+        "endTime": 267056,
         "pinyin": "zi"
       }
     ]
@@ -3056,25 +3054,25 @@
     "segments": [
       {
         "token": "还",
-        "startTime": 271845,
-        "endTime": 272035,
+        "startTime": 267081,
+        "endTime": 267810,
         "pinyin": "hái"
       },
       {
         "token": "有",
-        "startTime": 272035,
-        "endTime": 272225,
+        "startTime": 267810,
+        "endTime": 268538,
         "pinyin": "yǒu"
       },
       {
         "token": "椅",
-        "startTime": 272225,
-        "endTime": 272875,
+        "startTime": 268538,
+        "endTime": 271032,
         "pinyin": "yǐ"
       },
       {
         "token": "子",
-        "startTime": 272875,
+        "startTime": 271032,
         "endTime": 273525,
         "pinyin": "zi"
       }
