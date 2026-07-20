@@ -1,0 +1,4268 @@
+[
+  {
+    "sentence_text": "*** Voor mij blijft het een hobby.",
+    "translations": {
+      "en": "*** मेरो लागि यो एउटा शौक नै रहन्छ।"
+    },
+    "segments": [
+      {
+        "token": "***",
+        "startTime": 0,
+        "endTime": 11060
+      },
+      {
+        "token": "Voor",
+        "startTime": 11060,
+        "endTime": 11520
+      },
+      {
+        "token": "mij",
+        "startTime": 11520,
+        "endTime": 11700
+      },
+      {
+        "token": "blijft",
+        "startTime": 11700,
+        "endTime": 12040
+      },
+      {
+        "token": "het",
+        "startTime": 12040,
+        "endTime": 12160
+      },
+      {
+        "token": "een",
+        "startTime": 12160,
+        "endTime": 12360
+      },
+      {
+        "token": "hobby.",
+        "startTime": 12360,
+        "endTime": 12820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ik kom niet werken, ik kom voor mijn plezier aan hier.",
+    "translations": {
+      "en": "म काम गर्न आउँदिन, म यहाँ आफ्नो रमाइलोको लागि आउँछु।"
+    },
+    "segments": [
+      {
+        "token": "Ik",
+        "startTime": 12820,
+        "endTime": 13320
+      },
+      {
+        "token": "kom",
+        "startTime": 13320,
+        "endTime": 13460
+      },
+      {
+        "token": "niet",
+        "startTime": 13460,
+        "endTime": 13580
+      },
+      {
+        "token": "werken,",
+        "startTime": 13580,
+        "endTime": 14040
+      },
+      {
+        "token": "ik",
+        "startTime": 14040,
+        "endTime": 14160
+      },
+      {
+        "token": "kom",
+        "startTime": 14160,
+        "endTime": 14280
+      },
+      {
+        "token": "voor",
+        "startTime": 14280,
+        "endTime": 14660
+      },
+      {
+        "token": "mijn",
+        "startTime": 14660,
+        "endTime": 15360
+      },
+      {
+        "token": "plezier",
+        "startTime": 15360,
+        "endTime": 15680
+      },
+      {
+        "token": "aan",
+        "startTime": 15680,
+        "endTime": 16040
+      },
+      {
+        "token": "hier.",
+        "startTime": 16040,
+        "endTime": 16540
+      }
+    ]
+  },
+  {
+    "sentence_text": "Al 12 jaar lang is Brussel-Zuid de vaste uitvalsbasis van Sven.",
+    "translations": {
+      "en": "१२ वर्षदेखि ब्रसेल्स-दक्षिण स्वेनको स्थायी आधार हो।"
+    },
+    "segments": [
+      {
+        "token": "Al",
+        "startTime": 16540,
+        "endTime": 16920
+      },
+      {
+        "token": "12",
+        "startTime": 16920,
+        "endTime": 17200
+      },
+      {
+        "token": "jaar",
+        "startTime": 17200,
+        "endTime": 17540
+      },
+      {
+        "token": "lang",
+        "startTime": 17540,
+        "endTime": 17760
+      },
+      {
+        "token": "is",
+        "startTime": 17760,
+        "endTime": 18040
+      },
+      {
+        "token": "Brussel-Zuid",
+        "startTime": 18040,
+        "endTime": 18860
+      },
+      {
+        "token": "de",
+        "startTime": 18860,
+        "endTime": 19180
+      },
+      {
+        "token": "vaste",
+        "startTime": 19180,
+        "endTime": 19400
+      },
+      {
+        "token": "uitvalsbasis",
+        "startTime": 19400,
+        "endTime": 20220
+      },
+      {
+        "token": "van",
+        "startTime": 20220,
+        "endTime": 20420
+      },
+      {
+        "token": "Sven.",
+        "startTime": 20420,
+        "endTime": 21200
+      }
+    ]
+  },
+  {
+    "sentence_text": "Als treinmanager bij Eurostar spoort hij dagelijks heen en weer naar Parijs om reizigers",
+    "translations": {
+      "en": "यूरोस्टारको ट्रेन प्रबन्धकको रूपमा, उनी दैनिक पेरिस जाने-आउने गर्छन् यात्रुहरूलाई"
+    },
+    "segments": [
+      {
+        "token": "Als",
+        "startTime": 21200,
+        "endTime": 21540
+      },
+      {
+        "token": "treinmanager",
+        "startTime": 21540,
+        "endTime": 22260
+      },
+      {
+        "token": "bij",
+        "startTime": 22260,
+        "endTime": 22520
+      },
+      {
+        "token": "Eurostar",
+        "startTime": 22520,
+        "endTime": 23280
+      },
+      {
+        "token": "spoort",
+        "startTime": 23280,
+        "endTime": 23680
+      },
+      {
+        "token": "hij",
+        "startTime": 23680,
+        "endTime": 23840
+      },
+      {
+        "token": "dagelijks",
+        "startTime": 23840,
+        "endTime": 24360
+      },
+      {
+        "token": "heen",
+        "startTime": 24360,
+        "endTime": 24740
+      },
+      {
+        "token": "en",
+        "startTime": 24740,
+        "endTime": 24880
+      },
+      {
+        "token": "weer",
+        "startTime": 24880,
+        "endTime": 24880
+      },
+      {
+        "token": "naar",
+        "startTime": 24880,
+        "endTime": 25240
+      },
+      {
+        "token": "Parijs",
+        "startTime": 25240,
+        "endTime": 25700
+      },
+      {
+        "token": "om",
+        "startTime": 25700,
+        "endTime": 25900
+      },
+      {
+        "token": "reizigers",
+        "startTime": 25900,
+        "endTime": 26420
+      }
+    ]
+  },
+  {
+    "sentence_text": "een zorgeloze rit te bezorgen.",
+    "translations": {
+      "en": "चिन्तामुक्त यात्रा प्रदान गर्न।"
+    },
+    "segments": [
+      {
+        "token": "een",
+        "startTime": 26420,
+        "endTime": 26660
+      },
+      {
+        "token": "zorgeloze",
+        "startTime": 26660,
+        "endTime": 27380
+      },
+      {
+        "token": "rit",
+        "startTime": 27380,
+        "endTime": 27580
+      },
+      {
+        "token": "te",
+        "startTime": 27580,
+        "endTime": 27860
+      },
+      {
+        "token": "bezorgen.",
+        "startTime": 27860,
+        "endTime": 28760
+      }
+    ]
+  },
+  {
+    "sentence_text": "We kijken naar de weg.",
+    "translations": {
+      "en": "हामी बाटो हेर्छौं।"
+    },
+    "segments": [
+      {
+        "token": "We",
+        "startTime": 28760,
+        "endTime": 29000
+      },
+      {
+        "token": "kijken",
+        "startTime": 29000,
+        "endTime": 29220
+      },
+      {
+        "token": "naar",
+        "startTime": 29220,
+        "endTime": 29660
+      },
+      {
+        "token": "de",
+        "startTime": 29660,
+        "endTime": 29780
+      },
+      {
+        "token": "weg.",
+        "startTime": 29780,
+        "endTime": 30600
+      }
+    ]
+  },
+  {
+    "sentence_text": "We kijken naar de weg en het rest van de plaats.",
+    "translations": {
+      "en": "हामी बाटो र बाँकी ठाउँ हेर्छौं।"
+    },
+    "segments": [
+      {
+        "token": "We",
+        "startTime": 30600,
+        "endTime": 31340
+      },
+      {
+        "token": "kijken",
+        "startTime": 31340,
+        "endTime": 31480
+      },
+      {
+        "token": "naar",
+        "startTime": 31480,
+        "endTime": 31660
+      },
+      {
+        "token": "de",
+        "startTime": 31660,
+        "endTime": 31800
+      },
+      {
+        "token": "weg",
+        "startTime": 31800,
+        "endTime": 31820
+      },
+      {
+        "token": "en",
+        "startTime": 31820,
+        "endTime": 32020
+      },
+      {
+        "token": "het",
+        "startTime": 32020,
+        "endTime": 32119
+      },
+      {
+        "token": "rest",
+        "startTime": 32119,
+        "endTime": 32140
+      },
+      {
+        "token": "van",
+        "startTime": 32140,
+        "endTime": 32320
+      },
+      {
+        "token": "de",
+        "startTime": 32320,
+        "endTime": 32340
+      },
+      {
+        "token": "plaats.",
+        "startTime": 32340,
+        "endTime": 33380
+      }
+    ]
+  },
+  {
+    "sentence_text": "Het moment net voor vertrek is altijd hectisch.",
+    "translations": {
+      "en": "प्रस्थान गर्नुभन्दा ठीक अघिको क्षण सधैं हतारो हुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "Het",
+        "startTime": 33380,
+        "endTime": 33700
+      },
+      {
+        "token": "moment",
+        "startTime": 33700,
+        "endTime": 34100
+      },
+      {
+        "token": "net",
+        "startTime": 34100,
+        "endTime": 34360
+      },
+      {
+        "token": "voor",
+        "startTime": 34360,
+        "endTime": 34620
+      },
+      {
+        "token": "vertrek",
+        "startTime": 34620,
+        "endTime": 35080
+      },
+      {
+        "token": "is",
+        "startTime": 35080,
+        "endTime": 35240
+      },
+      {
+        "token": "altijd",
+        "startTime": 35240,
+        "endTime": 35580
+      },
+      {
+        "token": "hectisch.",
+        "startTime": 35580,
+        "endTime": 36340
+      }
+    ]
+  },
+  {
+    "sentence_text": "Sven wijst nog snel een paar late reizigers naar het juiste rijtuig.",
+    "translations": {
+      "en": "स्वेनले केही ढिलो यात्रुहरूलाई सही डिब्बामा छिट्टै डोर्याउँछन्।"
+    },
+    "segments": [
+      {
+        "token": "Sven",
+        "startTime": 36340,
+        "endTime": 37000
+      },
+      {
+        "token": "wijst",
+        "startTime": 37000,
+        "endTime": 37340
+      },
+      {
+        "token": "nog",
+        "startTime": 37340,
+        "endTime": 37480
+      },
+      {
+        "token": "snel",
+        "startTime": 37480,
+        "endTime": 37840
+      },
+      {
+        "token": "een",
+        "startTime": 37840,
+        "endTime": 38100
+      },
+      {
+        "token": "paar",
+        "startTime": 38100,
+        "endTime": 38300
+      },
+      {
+        "token": "late",
+        "startTime": 38300,
+        "endTime": 38640
+      },
+      {
+        "token": "reizigers",
+        "startTime": 38640,
+        "endTime": 39160
+      },
+      {
+        "token": "naar",
+        "startTime": 39160,
+        "endTime": 39440
+      },
+      {
+        "token": "het",
+        "startTime": 39440,
+        "endTime": 39620
+      },
+      {
+        "token": "juiste",
+        "startTime": 39620,
+        "endTime": 40020
+      },
+      {
+        "token": "rijtuig.",
+        "startTime": 40020,
+        "endTime": 44060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Zodra het vertrekssijn groen oplicht, geeft Sven het definitieve lange fluitsignaal en sluit de deuren.",
+    "translations": {
+      "en": "प्रस्थानको हरियो बत्ती बल्ने बित्तिकै, स्वेनले अन्तिम लामो सिट्टी बजाउँछन् र ढोका बन्द गर्छन्।"
+    },
+    "segments": [
+      {
+        "token": "Zodra",
+        "startTime": 44060,
+        "endTime": 44400
+      },
+      {
+        "token": "het",
+        "startTime": 44400,
+        "endTime": 44600
+      },
+      {
+        "token": "vertrekssijn",
+        "startTime": 44600,
+        "endTime": 45220
+      },
+      {
+        "token": "groen",
+        "startTime": 45220,
+        "endTime": 45600
+      },
+      {
+        "token": "oplicht,",
+        "startTime": 45600,
+        "endTime": 45740
+      },
+      {
+        "token": "geeft",
+        "startTime": 45740,
+        "endTime": 46540
+      },
+      {
+        "token": "Sven",
+        "startTime": 46540,
+        "endTime": 46960
+      },
+      {
+        "token": "het",
+        "startTime": 46960,
+        "endTime": 47240
+      },
+      {
+        "token": "definitieve",
+        "startTime": 47240,
+        "endTime": 48040
+      },
+      {
+        "token": "lange",
+        "startTime": 48040,
+        "endTime": 48420
+      },
+      {
+        "token": "fluitsignaal",
+        "startTime": 48420,
+        "endTime": 49320
+      },
+      {
+        "token": "en",
+        "startTime": 49320,
+        "endTime": 49480
+      },
+      {
+        "token": "sluit",
+        "startTime": 49480,
+        "endTime": 49840
+      },
+      {
+        "token": "de",
+        "startTime": 49840,
+        "endTime": 50020
+      },
+      {
+        "token": "deuren.",
+        "startTime": 50020,
+        "endTime": 53660
+      }
+    ]
+  },
+  {
+    "sentence_text": "Slechts één uur en 22 minuten.",
+    "translations": {
+      "en": "केवल एक घण्टा र २२ मिनेट।"
+    },
+    "segments": [
+      {
+        "token": "Slechts",
+        "startTime": 53660,
+        "endTime": 54000
+      },
+      {
+        "token": "één",
+        "startTime": 54000,
+        "endTime": 54280
+      },
+      {
+        "token": "uur",
+        "startTime": 54280,
+        "endTime": 54700
+      },
+      {
+        "token": "en",
+        "startTime": 54700,
+        "endTime": 54920
+      },
+      {
+        "token": "22",
+        "startTime": 54920,
+        "endTime": 55440
+      },
+      {
+        "token": "minuten.",
+        "startTime": 55440,
+        "endTime": 56400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Meer is er tegenwoordig niet nodig om met 300 km",
+    "translations": {
+      "en": "आजकल ३०० किमी प्रति घण्टाको गतिमा"
+    },
+    "segments": [
+      {
+        "token": "Meer",
+        "startTime": 56400,
+        "endTime": 56720
+      },
+      {
+        "token": "is",
+        "startTime": 56720,
+        "endTime": 56860
+      },
+      {
+        "token": "er",
+        "startTime": 56860,
+        "endTime": 57000
+      },
+      {
+        "token": "tegenwoordig",
+        "startTime": 57000,
+        "endTime": 57600
+      },
+      {
+        "token": "niet",
+        "startTime": 57600,
+        "endTime": 57800
+      },
+      {
+        "token": "nodig",
+        "startTime": 57800,
+        "endTime": 58140
+      },
+      {
+        "token": "om",
+        "startTime": 58140,
+        "endTime": 58380
+      },
+      {
+        "token": "met",
+        "startTime": 58380,
+        "endTime": 58480
+      },
+      {
+        "token": "300",
+        "startTime": 58480,
+        "endTime": 59000
+      },
+      {
+        "token": "km",
+        "startTime": 59000,
+        "endTime": 59560
+      }
+    ]
+  },
+  {
+    "sentence_text": "per uur van Brussel naar Parijs te flitsen.",
+    "translations": {
+      "en": "ब्रसेल्सदेखि पेरिससम्म पुग्न यति मात्रै पर्याप्त छ।"
+    },
+    "segments": [
+      {
+        "token": "per",
+        "startTime": 59560,
+        "endTime": 59780
+      },
+      {
+        "token": "uur",
+        "startTime": 59780,
+        "endTime": 60120
+      },
+      {
+        "token": "van",
+        "startTime": 60120,
+        "endTime": 60240
+      },
+      {
+        "token": "Brussel",
+        "startTime": 60240,
+        "endTime": 60660
+      },
+      {
+        "token": "naar",
+        "startTime": 60660,
+        "endTime": 60820
+      },
+      {
+        "token": "Parijs",
+        "startTime": 60820,
+        "endTime": 61340
+      },
+      {
+        "token": "te",
+        "startTime": 61340,
+        "endTime": 61500
+      },
+      {
+        "token": "flitsen.",
+        "startTime": 61500,
+        "endTime": 62560
+      }
+    ]
+  },
+  {
+    "sentence_text": "Jaarlijks kiezen al ruim 3 miljoen reizigers voor deze razendsnelle",
+    "translations": {
+      "en": "वार्षिक रूपमा ३० लाखभन्दा बढी यात्रुहरूले यो अत्यन्त छिटो"
+    },
+    "segments": [
+      {
+        "token": "Jaarlijks",
+        "startTime": 62560,
+        "endTime": 63040
+      },
+      {
+        "token": "kiezen",
+        "startTime": 63040,
+        "endTime": 63400
+      },
+      {
+        "token": "al",
+        "startTime": 63400,
+        "endTime": 63540
+      },
+      {
+        "token": "ruim",
+        "startTime": 63540,
+        "endTime": 63760
+      },
+      {
+        "token": "3",
+        "startTime": 63760,
+        "endTime": 64080
+      },
+      {
+        "token": "miljoen",
+        "startTime": 64080,
+        "endTime": 64379
+      },
+      {
+        "token": "reizigers",
+        "startTime": 64379,
+        "endTime": 64860
+      },
+      {
+        "token": "voor",
+        "startTime": 64860,
+        "endTime": 65099
+      },
+      {
+        "token": "deze",
+        "startTime": 65099,
+        "endTime": 65379
+      },
+      {
+        "token": "razendsnelle",
+        "startTime": 65379,
+        "endTime": 66160
+      }
+    ]
+  },
+  {
+    "sentence_text": "verbinding en dat aantal blijft stijgen.",
+    "translations": {
+      "en": "जडान रोज्छन् र यो संख्या बढ्दै गइरहेको छ।"
+    },
+    "segments": [
+      {
+        "token": "verbinding",
+        "startTime": 66160,
+        "endTime": 66640
+      },
+      {
+        "token": "en",
+        "startTime": 66640,
+        "endTime": 66920
+      },
+      {
+        "token": "dat",
+        "startTime": 66920,
+        "endTime": 67060
+      },
+      {
+        "token": "aantal",
+        "startTime": 67060,
+        "endTime": 67400
+      },
+      {
+        "token": "blijft",
+        "startTime": 67400,
+        "endTime": 67780
+      },
+      {
+        "token": "stijgen.",
+        "startTime": 67780,
+        "endTime": 68800
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vooral voor businessreizigers is de keuze snel gemaakt.",
+    "translations": {
+      "en": "विशेषगरी व्यावसायिक यात्रुहरूले छिट्टै निर्णय गर्छन्।"
+    },
+    "segments": [
+      {
+        "token": "Vooral",
+        "startTime": 68800,
+        "endTime": 69120
+      },
+      {
+        "token": "voor",
+        "startTime": 69120,
+        "endTime": 69320
+      },
+      {
+        "token": "businessreizigers",
+        "startTime": 69320,
+        "endTime": 70400
+      },
+      {
+        "token": "is",
+        "startTime": 70400,
+        "endTime": 70620
+      },
+      {
+        "token": "de",
+        "startTime": 70620,
+        "endTime": 70780
+      },
+      {
+        "token": "keuze",
+        "startTime": 70780,
+        "endTime": 71080
+      },
+      {
+        "token": "snel",
+        "startTime": 71080,
+        "endTime": 71380
+      },
+      {
+        "token": "gemaakt.",
+        "startTime": 71380,
+        "endTime": 71560
+      }
+    ]
+  },
+  {
+    "sentence_text": "De vlotte boarding en het hoge comfort winnen het van de bus of het vliegtuig.",
+    "translations": {
+      "en": "सहज चढाइ र उच्च आरामले बस वा हवाईजहाजलाई पछाडि पार्छ।"
+    },
+    "segments": [
+      {
+        "token": "De",
+        "startTime": 71560,
+        "endTime": 72360
+      },
+      {
+        "token": "vlotte",
+        "startTime": 72360,
+        "endTime": 72560
+      },
+      {
+        "token": "boarding",
+        "startTime": 72560,
+        "endTime": 72940
+      },
+      {
+        "token": "en",
+        "startTime": 72940,
+        "endTime": 73220
+      },
+      {
+        "token": "het",
+        "startTime": 73220,
+        "endTime": 73400
+      },
+      {
+        "token": "hoge",
+        "startTime": 73400,
+        "endTime": 73640
+      },
+      {
+        "token": "comfort",
+        "startTime": 73640,
+        "endTime": 74060
+      },
+      {
+        "token": "winnen",
+        "startTime": 74060,
+        "endTime": 74500
+      },
+      {
+        "token": "het",
+        "startTime": 74500,
+        "endTime": 74680
+      },
+      {
+        "token": "van",
+        "startTime": 74680,
+        "endTime": 74820
+      },
+      {
+        "token": "de",
+        "startTime": 74820,
+        "endTime": 74990
+      },
+      {
+        "token": "bus",
+        "startTime": 74990,
+        "endTime": 75230
+      },
+      {
+        "token": "of",
+        "startTime": 75230,
+        "endTime": 75490
+      },
+      {
+        "token": "het",
+        "startTime": 75490,
+        "endTime": 75670
+      },
+      {
+        "token": "vliegtuig.",
+        "startTime": 75670,
+        "endTime": 76630
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ik vind de Eurostar waanzinnig.",
+    "translations": {
+      "en": "मलाई यूरोस्टार अद्भुत लाग्छ।"
+    },
+    "segments": [
+      {
+        "token": "Ik",
+        "startTime": 76630,
+        "endTime": 76890
+      },
+      {
+        "token": "vind",
+        "startTime": 76890,
+        "endTime": 77010
+      },
+      {
+        "token": "de",
+        "startTime": 77010,
+        "endTime": 77150
+      },
+      {
+        "token": "Eurostar",
+        "startTime": 77150,
+        "endTime": 77610
+      },
+      {
+        "token": "waanzinnig.",
+        "startTime": 77610,
+        "endTime": 78410
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je hebt gewoon een goed uitzicht, lekkere koffie en je kan een beetje rondlopen.",
+    "translations": {
+      "en": "तपाईंसँग राम्रो दृश्य, स्वादिष्ट कफी हुन्छ र अलिअलि हिँडडुल गर्न सकिन्छ।"
+    },
+    "segments": [
+      {
+        "token": "Je",
+        "startTime": 78410,
+        "endTime": 79110
+      },
+      {
+        "token": "hebt",
+        "startTime": 79110,
+        "endTime": 79170
+      },
+      {
+        "token": "gewoon",
+        "startTime": 79170,
+        "endTime": 79390
+      },
+      {
+        "token": "een",
+        "startTime": 79390,
+        "endTime": 80130
+      },
+      {
+        "token": "goed",
+        "startTime": 80130,
+        "endTime": 80270
+      },
+      {
+        "token": "uitzicht,",
+        "startTime": 80270,
+        "endTime": 80870
+      },
+      {
+        "token": "lekkere",
+        "startTime": 80870,
+        "endTime": 81150
+      },
+      {
+        "token": "koffie",
+        "startTime": 81150,
+        "endTime": 81590
+      },
+      {
+        "token": "en",
+        "startTime": 81590,
+        "endTime": 82070
+      },
+      {
+        "token": "je",
+        "startTime": 82070,
+        "endTime": 82210
+      },
+      {
+        "token": "kan",
+        "startTime": 82210,
+        "endTime": 82290
+      },
+      {
+        "token": "een",
+        "startTime": 82290,
+        "endTime": 82430
+      },
+      {
+        "token": "beetje",
+        "startTime": 82430,
+        "endTime": 82510
+      },
+      {
+        "token": "rondlopen.",
+        "startTime": 82510,
+        "endTime": 83530
+      }
+    ]
+  },
+  {
+    "sentence_text": "Werken, het is perfect.",
+    "translations": {
+      "en": "काम गर्नु, यो उत्तम छ।"
+    },
+    "segments": [
+      {
+        "token": "Werken,",
+        "startTime": 83530,
+        "endTime": 84090
+      },
+      {
+        "token": "het",
+        "startTime": 84090,
+        "endTime": 84210
+      },
+      {
+        "token": "is",
+        "startTime": 84210,
+        "endTime": 84290
+      },
+      {
+        "token": "perfect.",
+        "startTime": 84290,
+        "endTime": 84370
+      }
+    ]
+  },
+  {
+    "sentence_text": "Echt veel beter dan vliegen.",
+    "translations": {
+      "en": "उडान भन्दा धेरै राम्रो।"
+    },
+    "segments": [
+      {
+        "token": "Echt",
+        "startTime": 84370,
+        "endTime": 85070
+      },
+      {
+        "token": "veel",
+        "startTime": 85070,
+        "endTime": 85190
+      },
+      {
+        "token": "beter",
+        "startTime": 85190,
+        "endTime": 85510
+      },
+      {
+        "token": "dan",
+        "startTime": 85510,
+        "endTime": 85770
+      },
+      {
+        "token": "vliegen.",
+        "startTime": 85770,
+        "endTime": 86550
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ja, absoluut.",
+    "translations": {
+      "en": "हो, पक्कै पनि।"
+    },
+    "segments": [
+      {
+        "token": "Ja,",
+        "startTime": 86550,
+        "endTime": 86690
+      },
+      {
+        "token": "absoluut.",
+        "startTime": 86690,
+        "endTime": 87670
+      }
+    ]
+  },
+  {
+    "sentence_text": "Het is echt superflexibel.",
+    "translations": {
+      "en": "यो साँच्चै धेरै लचिलो छ।"
+    },
+    "segments": [
+      {
+        "token": "Het",
+        "startTime": 87670,
+        "endTime": 87930
+      },
+      {
+        "token": "is",
+        "startTime": 87930,
+        "endTime": 88090
+      },
+      {
+        "token": "echt",
+        "startTime": 88090,
+        "endTime": 88270
+      },
+      {
+        "token": "superflexibel.",
+        "startTime": 88270,
+        "endTime": 89190
+      }
+    ]
+  },
+  {
+    "sentence_text": "Als je een kaartje koopt en je kan een trein eerder of later,",
+    "translations": {
+      "en": "यदि तपाईंले टिकट किन्नुभयो र तपाईंले पहिले वा पछिको रेल लिन सक्नुहुन्छ भने,"
+    },
+    "segments": [
+      {
+        "token": "Als",
+        "startTime": 89190,
+        "endTime": 89430
+      },
+      {
+        "token": "je",
+        "startTime": 89430,
+        "endTime": 89490
+      },
+      {
+        "token": "een",
+        "startTime": 89490,
+        "endTime": 89550
+      },
+      {
+        "token": "kaartje",
+        "startTime": 89550,
+        "endTime": 89870
+      },
+      {
+        "token": "koopt",
+        "startTime": 89870,
+        "endTime": 90210
+      },
+      {
+        "token": "en",
+        "startTime": 90210,
+        "endTime": 90550
+      },
+      {
+        "token": "je",
+        "startTime": 90550,
+        "endTime": 90950
+      },
+      {
+        "token": "kan",
+        "startTime": 90950,
+        "endTime": 91010
+      },
+      {
+        "token": "een",
+        "startTime": 91010,
+        "endTime": 91210
+      },
+      {
+        "token": "trein",
+        "startTime": 91210,
+        "endTime": 91410
+      },
+      {
+        "token": "eerder",
+        "startTime": 91410,
+        "endTime": 91690
+      },
+      {
+        "token": "of",
+        "startTime": 91690,
+        "endTime": 91830
+      },
+      {
+        "token": "later,",
+        "startTime": 91830,
+        "endTime": 92050
+      }
+    ]
+  },
+  {
+    "sentence_text": "je vraagt aan de treinmanager, dan zegt je,",
+    "translations": {
+      "en": "तपाईंले रेल प्रबन्धकलाई सोध्नुहुन्छ, त्यसपछि उसले भन्छ,"
+    },
+    "segments": [
+      {
+        "token": "je",
+        "startTime": 92050,
+        "endTime": 92250
+      },
+      {
+        "token": "vraagt",
+        "startTime": 92250,
+        "endTime": 92490
+      },
+      {
+        "token": "aan",
+        "startTime": 92490,
+        "endTime": 92650
+      },
+      {
+        "token": "de",
+        "startTime": 92650,
+        "endTime": 92750
+      },
+      {
+        "token": "treinmanager,",
+        "startTime": 92750,
+        "endTime": 93530
+      },
+      {
+        "token": "dan",
+        "startTime": 93530,
+        "endTime": 93630
+      },
+      {
+        "token": "zegt",
+        "startTime": 93630,
+        "endTime": 93750
+      },
+      {
+        "token": "je,",
+        "startTime": 93750,
+        "endTime": 93890
+      }
+    ]
+  },
+  {
+    "sentence_text": "stap maar in en dan ga je mee.",
+    "translations": {
+      "en": "चढ्नुहोस् र तपाईं सँगै जानुहोस्।"
+    },
+    "segments": [
+      {
+        "token": "stap",
+        "startTime": 93890,
+        "endTime": 94170
+      },
+      {
+        "token": "maar",
+        "startTime": 94170,
+        "endTime": 94390
+      },
+      {
+        "token": "in",
+        "startTime": 94390,
+        "endTime": 94570
+      },
+      {
+        "token": "en",
+        "startTime": 94570,
+        "endTime": 94710
+      },
+      {
+        "token": "dan",
+        "startTime": 94710,
+        "endTime": 94790
+      },
+      {
+        "token": "ga",
+        "startTime": 94790,
+        "endTime": 94870
+      },
+      {
+        "token": "je",
+        "startTime": 94870,
+        "endTime": 94990
+      },
+      {
+        "token": "mee.",
+        "startTime": 94990,
+        "endTime": 95830
+      }
+    ]
+  },
+  {
+    "sentence_text": "De tickets zijn supermakkelijk via die app te krijgen.",
+    "translations": {
+      "en": "त्यो एप मार्फत टिकटहरू धेरै सजिलै पाइन्छ।"
+    },
+    "segments": [
+      {
+        "token": "De",
+        "startTime": 95830,
+        "endTime": 96670
+      },
+      {
+        "token": "tickets",
+        "startTime": 96670,
+        "endTime": 96930
+      },
+      {
+        "token": "zijn",
+        "startTime": 96930,
+        "endTime": 97190
+      },
+      {
+        "token": "supermakkelijk",
+        "startTime": 97190,
+        "endTime": 97850
+      },
+      {
+        "token": "via",
+        "startTime": 97850,
+        "endTime": 98030
+      },
+      {
+        "token": "die",
+        "startTime": 98030,
+        "endTime": 98190
+      },
+      {
+        "token": "app",
+        "startTime": 98190,
+        "endTime": 98350
+      },
+      {
+        "token": "te",
+        "startTime": 98350,
+        "endTime": 98530
+      },
+      {
+        "token": "krijgen.",
+        "startTime": 98530,
+        "endTime": 100370
+      }
+    ]
+  },
+  {
+    "sentence_text": "Van Amsterdam naar Parijs en Londen gaat, dat is echt een enorme toegevoegde waarde.",
+    "translations": {
+      "en": "एम्स्टर्डमदेखि पेरिस र लन्डन जानु, त्यो साँच्चै ठूलो मूल्य वृद्धि हो।"
+    },
+    "segments": [
+      {
+        "token": "Van",
+        "startTime": 100370,
+        "endTime": 100750
+      },
+      {
+        "token": "Amsterdam",
+        "startTime": 100750,
+        "endTime": 101150
+      },
+      {
+        "token": "naar",
+        "startTime": 101150,
+        "endTime": 101370
+      },
+      {
+        "token": "Parijs",
+        "startTime": 101370,
+        "endTime": 101750
+      },
+      {
+        "token": "en",
+        "startTime": 101750,
+        "endTime": 101850
+      },
+      {
+        "token": "Londen",
+        "startTime": 101850,
+        "endTime": 102170
+      },
+      {
+        "token": "gaat,",
+        "startTime": 102170,
+        "endTime": 102530
+      },
+      {
+        "token": "dat",
+        "startTime": 102530,
+        "endTime": 103570
+      },
+      {
+        "token": "is",
+        "startTime": 103570,
+        "endTime": 103730
+      },
+      {
+        "token": "echt",
+        "startTime": 103730,
+        "endTime": 103750
+      },
+      {
+        "token": "een",
+        "startTime": 103750,
+        "endTime": 104130
+      },
+      {
+        "token": "enorme",
+        "startTime": 104130,
+        "endTime": 104410
+      },
+      {
+        "token": "toegevoegde",
+        "startTime": 104410,
+        "endTime": 105070
+      },
+      {
+        "token": "waarde.",
+        "startTime": 105070,
+        "endTime": 106190
+      }
+    ]
+  },
+  {
+    "sentence_text": "Eurostar rijdt in vijf landen met het operationele hart in Brussel.",
+    "translations": {
+      "en": "युरोस्टार पाँच देशहरूमा सञ्चालन हुन्छ जसको सञ्चालन केन्द्र ब्रसेल्समा छ।"
+    },
+    "segments": [
+      {
+        "token": "Eurostar",
+        "startTime": 106190,
+        "endTime": 106770
+      },
+      {
+        "token": "rijdt",
+        "startTime": 106770,
+        "endTime": 107070
+      },
+      {
+        "token": "in",
+        "startTime": 107070,
+        "endTime": 107210
+      },
+      {
+        "token": "vijf",
+        "startTime": 107210,
+        "endTime": 107550
+      },
+      {
+        "token": "landen",
+        "startTime": 107550,
+        "endTime": 107870
+      },
+      {
+        "token": "met",
+        "startTime": 107870,
+        "endTime": 108030
+      },
+      {
+        "token": "het",
+        "startTime": 108030,
+        "endTime": 108210
+      },
+      {
+        "token": "operationele",
+        "startTime": 108210,
+        "endTime": 108990
+      },
+      {
+        "token": "hart",
+        "startTime": 108990,
+        "endTime": 109230
+      },
+      {
+        "token": "in",
+        "startTime": 109230,
+        "endTime": 109470
+      },
+      {
+        "token": "Brussel.",
+        "startTime": 109470,
+        "endTime": 110530
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vanuit een gloednieuw operatiecentrum loodzen honderden medewerkers een vloot van 51 treinen en 50.000",
+    "translations": {
+      "en": "एकदमै नयाँ सञ्चालन केन्द्रबाट सयौं कर्मचारीहरूले ५१ रेल र ५०,०००"
+    },
+    "segments": [
+      {
+        "token": "Vanuit",
+        "startTime": 110530,
+        "endTime": 110830
+      },
+      {
+        "token": "een",
+        "startTime": 110830,
+        "endTime": 111030
+      },
+      {
+        "token": "gloednieuw",
+        "startTime": 111030,
+        "endTime": 111530
+      },
+      {
+        "token": "operatiecentrum",
+        "startTime": 111530,
+        "endTime": 112550
+      },
+      {
+        "token": "loodzen",
+        "startTime": 112550,
+        "endTime": 112950
+      },
+      {
+        "token": "honderden",
+        "startTime": 112950,
+        "endTime": 113450
+      },
+      {
+        "token": "medewerkers",
+        "startTime": 113450,
+        "endTime": 114170
+      },
+      {
+        "token": "een",
+        "startTime": 114170,
+        "endTime": 114350
+      },
+      {
+        "token": "vloot",
+        "startTime": 114350,
+        "endTime": 114650
+      },
+      {
+        "token": "van",
+        "startTime": 114650,
+        "endTime": 114810
+      },
+      {
+        "token": "51",
+        "startTime": 114810,
+        "endTime": 115370
+      },
+      {
+        "token": "treinen",
+        "startTime": 115370,
+        "endTime": 115990
+      },
+      {
+        "token": "en",
+        "startTime": 115990,
+        "endTime": 116490
+      },
+      {
+        "token": "50.000",
+        "startTime": 116490,
+        "endTime": 117230
+      }
+    ]
+  },
+  {
+    "sentence_text": "reizigers veilig over zes verschillende spoornetten.",
+    "translations": {
+      "en": "यात्रुहरूलाई सुरक्षित रूपमा छवटा फरक रेल सञ्जालमा पुर्याउँछन्।"
+    },
+    "segments": [
+      {
+        "token": "reizigers",
+        "startTime": 117230,
+        "endTime": 117790
+      },
+      {
+        "token": "veilig",
+        "startTime": 117790,
+        "endTime": 118350
+      },
+      {
+        "token": "over",
+        "startTime": 118350,
+        "endTime": 118630
+      },
+      {
+        "token": "zes",
+        "startTime": 118630,
+        "endTime": 119090
+      },
+      {
+        "token": "verschillende",
+        "startTime": 119090,
+        "endTime": 119630
+      },
+      {
+        "token": "spoornetten.",
+        "startTime": 119630,
+        "endTime": 120790
+      }
+    ]
+  },
+  {
+    "sentence_text": "Een logistiek huzarenstukje.",
+    "translations": {
+      "en": "एक लजिस्टिक चमत्कार।"
+    },
+    "segments": [
+      {
+        "token": "Een",
+        "startTime": 120790,
+        "endTime": 120990
+      },
+      {
+        "token": "logistiek",
+        "startTime": 120990,
+        "endTime": 121570
+      },
+      {
+        "token": "huzarenstukje.",
+        "startTime": 121570,
+        "endTime": 123030
+      }
+    ]
+  },
+  {
+    "sentence_text": "In 94.26, als hij in de tijd op het reisje van het reisje,",
+    "translations": {
+      "en": "९४.२६ मा, यदि उसले यात्राको समयमा यात्रा गर्छ भने,"
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 123030,
+        "endTime": 123590
+      },
+      {
+        "token": "94.26,",
+        "startTime": 123590,
+        "endTime": 124350
+      },
+      {
+        "token": "als",
+        "startTime": 124350,
+        "endTime": 124470
+      },
+      {
+        "token": "hij",
+        "startTime": 124470,
+        "endTime": 124650
+      },
+      {
+        "token": "in",
+        "startTime": 124650,
+        "endTime": 124670
+      },
+      {
+        "token": "de",
+        "startTime": 124670,
+        "endTime": 124870
+      },
+      {
+        "token": "tijd",
+        "startTime": 124870,
+        "endTime": 124890
+      },
+      {
+        "token": "op",
+        "startTime": 124890,
+        "endTime": 126050
+      },
+      {
+        "token": "het",
+        "startTime": 126050,
+        "endTime": 126270
+      },
+      {
+        "token": "reisje",
+        "startTime": 126270,
+        "endTime": 126510
+      },
+      {
+        "token": "van",
+        "startTime": 126510,
+        "endTime": 126530
+      },
+      {
+        "token": "het",
+        "startTime": 126530,
+        "endTime": 126650
+      },
+      {
+        "token": "reisje,",
+        "startTime": 126650,
+        "endTime": 126730
+      }
+    ]
+  },
+  {
+    "sentence_text": "zal hij het verdubbelen.",
+    "translations": {
+      "en": "उसले यसलाई दोब्बर बनाउनेछ।"
+    },
+    "segments": [
+      {
+        "token": "zal",
+        "startTime": 126730,
+        "endTime": 126850
+      },
+      {
+        "token": "hij",
+        "startTime": 126850,
+        "endTime": 126970
+      },
+      {
+        "token": "het",
+        "startTime": 126970,
+        "endTime": 127090
+      },
+      {
+        "token": "verdubbelen.",
+        "startTime": 127090,
+        "endTime": 127490
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mooi dat kan.",
+    "translations": {
+      "en": "राम्रो, त्यो सम्भव छ।"
+    },
+    "segments": [
+      {
+        "token": "Mooi",
+        "startTime": 127490,
+        "endTime": 127870
+      },
+      {
+        "token": "dat",
+        "startTime": 127870,
+        "endTime": 128030
+      },
+      {
+        "token": "kan.",
+        "startTime": 128030,
+        "endTime": 128310
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ik vind het leuk dat al die verschillende talen, als je in het OCC bent,",
+    "translations": {
+      "en": "मलाई लाग्छ राम्रो छ कि ती सबै फरक भाषाहरू, जब तपाईं OCC मा हुनुहुन्छ,"
+    },
+    "segments": [
+      {
+        "token": "Ik",
+        "startTime": 128310,
+        "endTime": 128550
+      },
+      {
+        "token": "vind",
+        "startTime": 128550,
+        "endTime": 128610
+      },
+      {
+        "token": "het",
+        "startTime": 128610,
+        "endTime": 128690
+      },
+      {
+        "token": "leuk",
+        "startTime": 128690,
+        "endTime": 128790
+      },
+      {
+        "token": "dat",
+        "startTime": 128790,
+        "endTime": 128990
+      },
+      {
+        "token": "al",
+        "startTime": 128990,
+        "endTime": 129270
+      },
+      {
+        "token": "die",
+        "startTime": 129270,
+        "endTime": 129430
+      },
+      {
+        "token": "verschillende",
+        "startTime": 129430,
+        "endTime": 129850
+      },
+      {
+        "token": "talen,",
+        "startTime": 129850,
+        "endTime": 130250
+      },
+      {
+        "token": "als",
+        "startTime": 130250,
+        "endTime": 130350
+      },
+      {
+        "token": "je",
+        "startTime": 130350,
+        "endTime": 130470
+      },
+      {
+        "token": "in",
+        "startTime": 130470,
+        "endTime": 130550
+      },
+      {
+        "token": "het",
+        "startTime": 130550,
+        "endTime": 130650
+      },
+      {
+        "token": "OCC",
+        "startTime": 130650,
+        "endTime": 130890
+      },
+      {
+        "token": "bent,",
+        "startTime": 130890,
+        "endTime": 131010
+      }
+    ]
+  },
+  {
+    "sentence_text": "hoor je vier, vijf verschillende talen, verschillende landen,",
+    "translations": {
+      "en": "तपाईंले चार, पाँच फरक भाषाहरू, फरक देशहरू सुन्नुहुन्छ,"
+    },
+    "segments": [
+      {
+        "token": "hoor",
+        "startTime": 131010,
+        "endTime": 131310
+      },
+      {
+        "token": "je",
+        "startTime": 131310,
+        "endTime": 131470
+      },
+      {
+        "token": "vier,",
+        "startTime": 131470,
+        "endTime": 131910
+      },
+      {
+        "token": "vijf",
+        "startTime": 131910,
+        "endTime": 132070
+      },
+      {
+        "token": "verschillende",
+        "startTime": 132070,
+        "endTime": 132490
+      },
+      {
+        "token": "talen,",
+        "startTime": 132490,
+        "endTime": 132910
+      },
+      {
+        "token": "verschillende",
+        "startTime": 132910,
+        "endTime": 133330
+      },
+      {
+        "token": "landen,",
+        "startTime": 133330,
+        "endTime": 134090
+      }
+    ]
+  },
+  {
+    "sentence_text": "dat dat uiteindelijk allemaal samenkomt om toch die treinen te laten rijden en",
+    "translations": {
+      "en": "अन्ततः ती सबै मिलेर ती रेलहरू चलाउन र"
+    },
+    "segments": [
+      {
+        "token": "dat",
+        "startTime": 134090,
+        "endTime": 134250
+      },
+      {
+        "token": "dat",
+        "startTime": 134250,
+        "endTime": 134370
+      },
+      {
+        "token": "uiteindelijk",
+        "startTime": 134370,
+        "endTime": 134670
+      },
+      {
+        "token": "allemaal",
+        "startTime": 134670,
+        "endTime": 134830
+      },
+      {
+        "token": "samenkomt",
+        "startTime": 134830,
+        "endTime": 135510
+      },
+      {
+        "token": "om",
+        "startTime": 135510,
+        "endTime": 135690
+      },
+      {
+        "token": "toch",
+        "startTime": 135690,
+        "endTime": 135770
+      },
+      {
+        "token": "die",
+        "startTime": 135770,
+        "endTime": 135990
+      },
+      {
+        "token": "treinen",
+        "startTime": 135990,
+        "endTime": 136170
+      },
+      {
+        "token": "te",
+        "startTime": 136170,
+        "endTime": 136290
+      },
+      {
+        "token": "laten",
+        "startTime": 136290,
+        "endTime": 136450
+      },
+      {
+        "token": "rijden",
+        "startTime": 136450,
+        "endTime": 136710
+      },
+      {
+        "token": "en",
+        "startTime": 136710,
+        "endTime": 137090
+      }
+    ]
+  },
+  {
+    "sentence_text": "dat je als reiziger er eigenlijk niets van merkt.",
+    "translations": {
+      "en": "तपाईंले यात्रुको रूपमा यसको केही पनि याद गर्नुहुन्न।"
+    },
+    "segments": [
+      {
+        "token": "dat",
+        "startTime": 137090,
+        "endTime": 137190
+      },
+      {
+        "token": "je",
+        "startTime": 137190,
+        "endTime": 137310
+      },
+      {
+        "token": "als",
+        "startTime": 137310,
+        "endTime": 137590
+      },
+      {
+        "token": "reiziger",
+        "startTime": 137590,
+        "endTime": 138190
+      },
+      {
+        "token": "er",
+        "startTime": 138190,
+        "endTime": 138350
+      },
+      {
+        "token": "eigenlijk",
+        "startTime": 138350,
+        "endTime": 138410
+      },
+      {
+        "token": "niets",
+        "startTime": 138410,
+        "endTime": 138710
+      },
+      {
+        "token": "van",
+        "startTime": 138710,
+        "endTime": 138850
+      },
+      {
+        "token": "merkt.",
+        "startTime": 138850,
+        "endTime": 139090
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je stapt op de trein in Amsterdam, je komt toe in Londen,",
+    "translations": {
+      "en": "तपाईं एम्स्टर्डममा रेलमा चढ्नुहुन्छ, तपाईं लन्डनमा पुग्नुहुन्छ,"
+    },
+    "segments": [
+      {
+        "token": "Je",
+        "startTime": 139090,
+        "endTime": 139290
+      },
+      {
+        "token": "stapt",
+        "startTime": 139290,
+        "endTime": 139690
+      },
+      {
+        "token": "op",
+        "startTime": 139690,
+        "endTime": 139890
+      },
+      {
+        "token": "de",
+        "startTime": 139890,
+        "endTime": 140030
+      },
+      {
+        "token": "trein",
+        "startTime": 140030,
+        "endTime": 140170
+      },
+      {
+        "token": "in",
+        "startTime": 140170,
+        "endTime": 140250
+      },
+      {
+        "token": "Amsterdam,",
+        "startTime": 140250,
+        "endTime": 140810
+      },
+      {
+        "token": "je",
+        "startTime": 140810,
+        "endTime": 140890
+      },
+      {
+        "token": "komt",
+        "startTime": 140890,
+        "endTime": 141050
+      },
+      {
+        "token": "toe",
+        "startTime": 141050,
+        "endTime": 141190
+      },
+      {
+        "token": "in",
+        "startTime": 141190,
+        "endTime": 141410
+      },
+      {
+        "token": "Londen,",
+        "startTime": 141410,
+        "endTime": 141570
+      }
+    ]
+  },
+  {
+    "sentence_text": "je bent je niet bewust van al het werk dat daar eigenlijk achter gaat.",
+    "translations": {
+      "en": "तपाईंलाई त्यस पछाडि वास्तवमा हुने सबै कामको बारेमा थाहा छैन।"
+    },
+    "segments": [
+      {
+        "token": "je",
+        "startTime": 141570,
+        "endTime": 142210
+      },
+      {
+        "token": "bent",
+        "startTime": 142210,
+        "endTime": 142310
+      },
+      {
+        "token": "je",
+        "startTime": 142310,
+        "endTime": 142410
+      },
+      {
+        "token": "niet",
+        "startTime": 142410,
+        "endTime": 142530
+      },
+      {
+        "token": "bewust",
+        "startTime": 142530,
+        "endTime": 142830
+      },
+      {
+        "token": "van",
+        "startTime": 142830,
+        "endTime": 143030
+      },
+      {
+        "token": "al",
+        "startTime": 143030,
+        "endTime": 143230
+      },
+      {
+        "token": "het",
+        "startTime": 143230,
+        "endTime": 143390
+      },
+      {
+        "token": "werk",
+        "startTime": 143390,
+        "endTime": 143550
+      },
+      {
+        "token": "dat",
+        "startTime": 143550,
+        "endTime": 143730
+      },
+      {
+        "token": "daar",
+        "startTime": 143730,
+        "endTime": 143870
+      },
+      {
+        "token": "eigenlijk",
+        "startTime": 143870,
+        "endTime": 143990
+      },
+      {
+        "token": "achter",
+        "startTime": 143990,
+        "endTime": 145130
+      },
+      {
+        "token": "gaat.",
+        "startTime": 145130,
+        "endTime": 146330
+      }
+    ]
+  },
+  {
+    "sentence_text": "Het meest uitdagende is om te proberen, als de situatie moeilijker gaat,",
+    "translations": {
+      "en": "सबैभन्दा चुनौतीपूर्ण कुरा भनेको, जब परिस्थिति कठिन हुँदै जान्छ, त्यतिबेला पनि"
+    },
+    "segments": [
+      {
+        "token": "Het",
+        "startTime": 146330,
+        "endTime": 146510
+      },
+      {
+        "token": "meest",
+        "startTime": 146510,
+        "endTime": 146750
+      },
+      {
+        "token": "uitdagende",
+        "startTime": 146750,
+        "endTime": 147350
+      },
+      {
+        "token": "is",
+        "startTime": 147350,
+        "endTime": 147690
+      },
+      {
+        "token": "om",
+        "startTime": 147690,
+        "endTime": 147910
+      },
+      {
+        "token": "te",
+        "startTime": 147910,
+        "endTime": 148030
+      },
+      {
+        "token": "proberen,",
+        "startTime": 148030,
+        "endTime": 148630
+      },
+      {
+        "token": "als",
+        "startTime": 148630,
+        "endTime": 148730
+      },
+      {
+        "token": "de",
+        "startTime": 148730,
+        "endTime": 148850
+      },
+      {
+        "token": "situatie",
+        "startTime": 148850,
+        "endTime": 149330
+      },
+      {
+        "token": "moeilijker",
+        "startTime": 149330,
+        "endTime": 150130
+      },
+      {
+        "token": "gaat,",
+        "startTime": 150130,
+        "endTime": 150190
+      }
+    ]
+  },
+  {
+    "sentence_text": "om toch proberen het overzicht te behouden en ervoor te zorgen van oké,",
+    "translations": {
+      "en": "समग्र परिदृश्य कायम राख्ने प्रयास गर्नु र यो सुनिश्चित गर्नु कि ठीक छ,"
+    },
+    "segments": [
+      {
+        "token": "om",
+        "startTime": 150190,
+        "endTime": 150670
+      },
+      {
+        "token": "toch",
+        "startTime": 150670,
+        "endTime": 150790
+      },
+      {
+        "token": "proberen",
+        "startTime": 150790,
+        "endTime": 151770
+      },
+      {
+        "token": "het",
+        "startTime": 151770,
+        "endTime": 152120
+      },
+      {
+        "token": "overzicht",
+        "startTime": 152120,
+        "endTime": 152460
+      },
+      {
+        "token": "te",
+        "startTime": 152460,
+        "endTime": 152600
+      },
+      {
+        "token": "behouden",
+        "startTime": 152600,
+        "endTime": 153020
+      },
+      {
+        "token": "en",
+        "startTime": 153020,
+        "endTime": 153240
+      },
+      {
+        "token": "ervoor",
+        "startTime": 153240,
+        "endTime": 153420
+      },
+      {
+        "token": "te",
+        "startTime": 153420,
+        "endTime": 153600
+      },
+      {
+        "token": "zorgen",
+        "startTime": 153600,
+        "endTime": 153820
+      },
+      {
+        "token": "van",
+        "startTime": 153820,
+        "endTime": 153980
+      },
+      {
+        "token": "oké,",
+        "startTime": 153980,
+        "endTime": 155000
+      }
+    ]
+  },
+  {
+    "sentence_text": "er zijn problemen op het netwerk, er zijn zaken dat we moeten doen,",
+    "translations": {
+      "en": "नेटवर्कमा समस्याहरू छन्, हामीले गर्नुपर्ने कामहरू छन्,"
+    },
+    "segments": [
+      {
+        "token": "er",
+        "startTime": 155000,
+        "endTime": 155100
+      },
+      {
+        "token": "zijn",
+        "startTime": 155100,
+        "endTime": 155260
+      },
+      {
+        "token": "problemen",
+        "startTime": 155260,
+        "endTime": 156120
+      },
+      {
+        "token": "op",
+        "startTime": 156120,
+        "endTime": 156260
+      },
+      {
+        "token": "het",
+        "startTime": 156260,
+        "endTime": 156340
+      },
+      {
+        "token": "netwerk,",
+        "startTime": 156340,
+        "endTime": 156760
+      },
+      {
+        "token": "er",
+        "startTime": 156760,
+        "endTime": 156860
+      },
+      {
+        "token": "zijn",
+        "startTime": 156860,
+        "endTime": 157020
+      },
+      {
+        "token": "zaken",
+        "startTime": 157020,
+        "endTime": 157260
+      },
+      {
+        "token": "dat",
+        "startTime": 157260,
+        "endTime": 157380
+      },
+      {
+        "token": "we",
+        "startTime": 157380,
+        "endTime": 157500
+      },
+      {
+        "token": "moeten",
+        "startTime": 157500,
+        "endTime": 157600
+      },
+      {
+        "token": "doen,",
+        "startTime": 157600,
+        "endTime": 158000
+      }
+    ]
+  },
+  {
+    "sentence_text": "maar hoe kunnen we nog het maximale eruit halen?",
+    "translations": {
+      "en": "तर हामी कसरी अझै पनि यसबाट अधिकतम लाभ लिन सक्छौं?"
+    },
+    "segments": [
+      {
+        "token": "maar",
+        "startTime": 158000,
+        "endTime": 158080
+      },
+      {
+        "token": "hoe",
+        "startTime": 158080,
+        "endTime": 158260
+      },
+      {
+        "token": "kunnen",
+        "startTime": 158260,
+        "endTime": 158400
+      },
+      {
+        "token": "we",
+        "startTime": 158400,
+        "endTime": 158540
+      },
+      {
+        "token": "nog",
+        "startTime": 158540,
+        "endTime": 158620
+      },
+      {
+        "token": "het",
+        "startTime": 158620,
+        "endTime": 158740
+      },
+      {
+        "token": "maximale",
+        "startTime": 158740,
+        "endTime": 159280
+      },
+      {
+        "token": "eruit",
+        "startTime": 159280,
+        "endTime": 159620
+      },
+      {
+        "token": "halen?",
+        "startTime": 159620,
+        "endTime": 160400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat is de grootste uitdaging die we toch wel voor ons hebben.",
+    "translations": {
+      "en": "यो नै हाम्रो अगाडि रहेको सबैभन्दा ठूलो चुनौती हो।"
+    },
+    "segments": [
+      {
+        "token": "Dat",
+        "startTime": 160400,
+        "endTime": 160540
+      },
+      {
+        "token": "is",
+        "startTime": 160540,
+        "endTime": 160680
+      },
+      {
+        "token": "de",
+        "startTime": 160680,
+        "endTime": 161120
+      },
+      {
+        "token": "grootste",
+        "startTime": 161120,
+        "endTime": 161520
+      },
+      {
+        "token": "uitdaging",
+        "startTime": 161520,
+        "endTime": 161900
+      },
+      {
+        "token": "die",
+        "startTime": 161900,
+        "endTime": 162060
+      },
+      {
+        "token": "we",
+        "startTime": 162060,
+        "endTime": 162180
+      },
+      {
+        "token": "toch",
+        "startTime": 162180,
+        "endTime": 162280
+      },
+      {
+        "token": "wel",
+        "startTime": 162280,
+        "endTime": 162540
+      },
+      {
+        "token": "voor",
+        "startTime": 162540,
+        "endTime": 163100
+      },
+      {
+        "token": "ons",
+        "startTime": 163100,
+        "endTime": 163320
+      },
+      {
+        "token": "hebben.",
+        "startTime": 163320,
+        "endTime": 170640
+      }
+    ]
+  },
+  {
+    "sentence_text": "In de NMBS-werkplaats in Vorst gebeurt vandaag het onderhoud van de treinen.",
+    "translations": {
+      "en": "आज फोर्स्टको NMBS कार्यशालामा रेलहरूको मर्मतसम्भार भइरहेको छ।"
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 170640,
+        "endTime": 170760
+      },
+      {
+        "token": "de",
+        "startTime": 170760,
+        "endTime": 170920
+      },
+      {
+        "token": "NMBS-werkplaats",
+        "startTime": 170920,
+        "endTime": 172060
+      },
+      {
+        "token": "in",
+        "startTime": 172060,
+        "endTime": 172240
+      },
+      {
+        "token": "Vorst",
+        "startTime": 172240,
+        "endTime": 172560
+      },
+      {
+        "token": "gebeurt",
+        "startTime": 172560,
+        "endTime": 172940
+      },
+      {
+        "token": "vandaag",
+        "startTime": 172940,
+        "endTime": 173280
+      },
+      {
+        "token": "het",
+        "startTime": 173280,
+        "endTime": 173540
+      },
+      {
+        "token": "onderhoud",
+        "startTime": 173540,
+        "endTime": 174060
+      },
+      {
+        "token": "van",
+        "startTime": 174060,
+        "endTime": 174220
+      },
+      {
+        "token": "de",
+        "startTime": 174220,
+        "endTime": 174420
+      },
+      {
+        "token": "treinen.",
+        "startTime": 174420,
+        "endTime": 175360
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vanaf 2030 maken de huidige stellen plaats voor 50 splinternieuwe dubbeldektreinen.",
+    "translations": {
+      "en": "सन् २०३० देखि, हालका सेटहरू ५० वटा नयाँ डबल-डेकर रेलहरूले प्रतिस्थापन गर्नेछन्।"
+    },
+    "segments": [
+      {
+        "token": "Vanaf",
+        "startTime": 175360,
+        "endTime": 175600
+      },
+      {
+        "token": "2030",
+        "startTime": 175600,
+        "endTime": 176260
+      },
+      {
+        "token": "maken",
+        "startTime": 176260,
+        "endTime": 176800
+      },
+      {
+        "token": "de",
+        "startTime": 176800,
+        "endTime": 177000
+      },
+      {
+        "token": "huidige",
+        "startTime": 177000,
+        "endTime": 177440
+      },
+      {
+        "token": "stellen",
+        "startTime": 177440,
+        "endTime": 177680
+      },
+      {
+        "token": "plaats",
+        "startTime": 177680,
+        "endTime": 178140
+      },
+      {
+        "token": "voor",
+        "startTime": 178140,
+        "endTime": 178280
+      },
+      {
+        "token": "50",
+        "startTime": 178280,
+        "endTime": 178740
+      },
+      {
+        "token": "splinternieuwe",
+        "startTime": 178740,
+        "endTime": 179660
+      },
+      {
+        "token": "dubbeldektreinen.",
+        "startTime": 179660,
+        "endTime": 181240
+      }
+    ]
+  },
+  {
+    "sentence_text": "Treinmanager Sven kijkt enorm uit naar de modernisering van de vloot.",
+    "translations": {
+      "en": "ट्रेन प्रबन्धक स्वेन फ्लीटको आधुनिकीकरणको लागि धेरै उत्सुक छन्।"
+    },
+    "segments": [
+      {
+        "token": "Treinmanager",
+        "startTime": 181240,
+        "endTime": 181900
+      },
+      {
+        "token": "Sven",
+        "startTime": 181900,
+        "endTime": 182180
+      },
+      {
+        "token": "kijkt",
+        "startTime": 182180,
+        "endTime": 182580
+      },
+      {
+        "token": "enorm",
+        "startTime": 182580,
+        "endTime": 182960
+      },
+      {
+        "token": "uit",
+        "startTime": 182960,
+        "endTime": 183260
+      },
+      {
+        "token": "naar",
+        "startTime": 183260,
+        "endTime": 183460
+      },
+      {
+        "token": "de",
+        "startTime": 183460,
+        "endTime": 183660
+      },
+      {
+        "token": "modernisering",
+        "startTime": 183660,
+        "endTime": 184420
+      },
+      {
+        "token": "van",
+        "startTime": 184420,
+        "endTime": 184620
+      },
+      {
+        "token": "de",
+        "startTime": 184620,
+        "endTime": 184860
+      },
+      {
+        "token": "vloot.",
+        "startTime": 184860,
+        "endTime": 185480
+      }
+    ]
+  },
+  {
+    "sentence_text": "Leste reizen, zodanig komen we aan in Parino, Parino het eindstation van onze trein.",
+    "translations": {
+      "en": "अन्तिम यात्रा, यसरी हामी पारिनो, हाम्रो रेलको अन्तिम स्टेशन पारिनोमा पुग्छौं।"
+    },
+    "segments": [
+      {
+        "token": "Leste",
+        "startTime": 185480,
+        "endTime": 185720
+      },
+      {
+        "token": "reizen,",
+        "startTime": 185720,
+        "endTime": 186120
+      },
+      {
+        "token": "zodanig",
+        "startTime": 186120,
+        "endTime": 186460
+      },
+      {
+        "token": "komen",
+        "startTime": 186460,
+        "endTime": 186640
+      },
+      {
+        "token": "we",
+        "startTime": 186640,
+        "endTime": 186720
+      },
+      {
+        "token": "aan",
+        "startTime": 186720,
+        "endTime": 186860
+      },
+      {
+        "token": "in",
+        "startTime": 186860,
+        "endTime": 187000
+      },
+      {
+        "token": "Parino,",
+        "startTime": 187000,
+        "endTime": 187480
+      },
+      {
+        "token": "Parino",
+        "startTime": 187480,
+        "endTime": 187880
+      },
+      {
+        "token": "het",
+        "startTime": 187880,
+        "endTime": 188120
+      },
+      {
+        "token": "eindstation",
+        "startTime": 188120,
+        "endTime": 188540
+      },
+      {
+        "token": "van",
+        "startTime": 188540,
+        "endTime": 188760
+      },
+      {
+        "token": "onze",
+        "startTime": 188760,
+        "endTime": 189000
+      },
+      {
+        "token": "trein.",
+        "startTime": 189000,
+        "endTime": 189480
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ik kijk daar heel erg naar uit,",
+    "translations": {
+      "en": "म त्यसको लागि धेरै उत्सुक छु,"
+    },
+    "segments": [
+      {
+        "token": "Ik",
+        "startTime": 189480,
+        "endTime": 189640
+      },
+      {
+        "token": "kijk",
+        "startTime": 189640,
+        "endTime": 189760
+      },
+      {
+        "token": "daar",
+        "startTime": 189760,
+        "endTime": 189960
+      },
+      {
+        "token": "heel",
+        "startTime": 189960,
+        "endTime": 190160
+      },
+      {
+        "token": "erg",
+        "startTime": 190160,
+        "endTime": 190260
+      },
+      {
+        "token": "naar",
+        "startTime": 190260,
+        "endTime": 190400
+      },
+      {
+        "token": "uit,",
+        "startTime": 190400,
+        "endTime": 190800
+      }
+    ]
+  },
+  {
+    "sentence_text": "ook omdat je soms voelt dat deze die we vandaag hebben",
+    "translations": {
+      "en": "किनकि तपाईंले कहिलेकाहीं महसुस गर्नुहुन्छ कि आज हामीसँग भएको यो"
+    },
+    "segments": [
+      {
+        "token": "ook",
+        "startTime": 190800,
+        "endTime": 190960
+      },
+      {
+        "token": "omdat",
+        "startTime": 190960,
+        "endTime": 191280
+      },
+      {
+        "token": "je",
+        "startTime": 191280,
+        "endTime": 191400
+      },
+      {
+        "token": "soms",
+        "startTime": 191400,
+        "endTime": 191760
+      },
+      {
+        "token": "voelt",
+        "startTime": 191760,
+        "endTime": 191960
+      },
+      {
+        "token": "dat",
+        "startTime": 191960,
+        "endTime": 192160
+      },
+      {
+        "token": "deze",
+        "startTime": 192160,
+        "endTime": 192820
+      },
+      {
+        "token": "die",
+        "startTime": 192820,
+        "endTime": 192920
+      },
+      {
+        "token": "we",
+        "startTime": 192920,
+        "endTime": 193120
+      },
+      {
+        "token": "vandaag",
+        "startTime": 193120,
+        "endTime": 193320
+      },
+      {
+        "token": "hebben",
+        "startTime": 193320,
+        "endTime": 193600
+      }
+    ]
+  },
+  {
+    "sentence_text": "is nu een van de oudere stellen.",
+    "translations": {
+      "en": "अहिले पुरानो सेट मध्ये एक हो।"
+    },
+    "segments": [
+      {
+        "token": "is",
+        "startTime": 193600,
+        "endTime": 193800
+      },
+      {
+        "token": "nu",
+        "startTime": 193800,
+        "endTime": 193920
+      },
+      {
+        "token": "een",
+        "startTime": 193920,
+        "endTime": 194160
+      },
+      {
+        "token": "van",
+        "startTime": 194160,
+        "endTime": 194260
+      },
+      {
+        "token": "de",
+        "startTime": 194260,
+        "endTime": 194400
+      },
+      {
+        "token": "oudere",
+        "startTime": 194400,
+        "endTime": 194720
+      },
+      {
+        "token": "stellen.",
+        "startTime": 194720,
+        "endTime": 195580
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat kan je zien aan de bar, we hebben nog effectief een vaart.",
+    "translations": {
+      "en": "तपाईं यो बारमा देख्न सक्नुहुन्छ, हामीसँग अझै पनि एउटा बार छ।"
+    },
+    "segments": [
+      {
+        "token": "Dat",
+        "startTime": 195580,
+        "endTime": 195760
+      },
+      {
+        "token": "kan",
+        "startTime": 195760,
+        "endTime": 195880
+      },
+      {
+        "token": "je",
+        "startTime": 195880,
+        "endTime": 196000
+      },
+      {
+        "token": "zien",
+        "startTime": 196000,
+        "endTime": 196080
+      },
+      {
+        "token": "aan",
+        "startTime": 196080,
+        "endTime": 196260
+      },
+      {
+        "token": "de",
+        "startTime": 196260,
+        "endTime": 196400
+      },
+      {
+        "token": "bar,",
+        "startTime": 196400,
+        "endTime": 196760
+      },
+      {
+        "token": "we",
+        "startTime": 196760,
+        "endTime": 196820
+      },
+      {
+        "token": "hebben",
+        "startTime": 196820,
+        "endTime": 196920
+      },
+      {
+        "token": "nog",
+        "startTime": 196920,
+        "endTime": 197020
+      },
+      {
+        "token": "effectief",
+        "startTime": 197020,
+        "endTime": 197620
+      },
+      {
+        "token": "een",
+        "startTime": 197620,
+        "endTime": 197840
+      },
+      {
+        "token": "vaart.",
+        "startTime": 197840,
+        "endTime": 198580
+      }
+    ]
+  },
+  {
+    "sentence_text": "In de reedsgemodellen die het is,",
+    "translations": {
+      "en": "पहिले नै मोडेल गरिएका मोडेलहरूमा,"
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 198580,
+        "endTime": 198820
+      },
+      {
+        "token": "de",
+        "startTime": 198820,
+        "endTime": 198980
+      },
+      {
+        "token": "reedsgemodellen",
+        "startTime": 198980,
+        "endTime": 199620
+      },
+      {
+        "token": "die",
+        "startTime": 199620,
+        "endTime": 199780
+      },
+      {
+        "token": "het",
+        "startTime": 199780,
+        "endTime": 199980
+      },
+      {
+        "token": "is,",
+        "startTime": 199980,
+        "endTime": 200420
+      }
+    ]
+  },
+  {
+    "sentence_text": "staan er gewoon vendingmachines en staat er ook wel een stuwachter beschikking.",
+    "translations": {
+      "en": "त्यहाँ भेन्डिङ मेसिनहरू छन् र एउटा स्टुअर्ड पनि उपलब्ध छ।"
+    },
+    "segments": [
+      {
+        "token": "staan",
+        "startTime": 200420,
+        "endTime": 200660
+      },
+      {
+        "token": "er",
+        "startTime": 200660,
+        "endTime": 200800
+      },
+      {
+        "token": "gewoon",
+        "startTime": 200800,
+        "endTime": 201020
+      },
+      {
+        "token": "vendingmachines",
+        "startTime": 201020,
+        "endTime": 201800
+      },
+      {
+        "token": "en",
+        "startTime": 201800,
+        "endTime": 202360
+      },
+      {
+        "token": "staat",
+        "startTime": 202360,
+        "endTime": 202600
+      },
+      {
+        "token": "er",
+        "startTime": 202600,
+        "endTime": 202840
+      },
+      {
+        "token": "ook",
+        "startTime": 202840,
+        "endTime": 202920
+      },
+      {
+        "token": "wel",
+        "startTime": 202920,
+        "endTime": 203120
+      },
+      {
+        "token": "een",
+        "startTime": 203120,
+        "endTime": 203240
+      },
+      {
+        "token": "stuwachter",
+        "startTime": 203240,
+        "endTime": 203720
+      },
+      {
+        "token": "beschikking.",
+        "startTime": 203720,
+        "endTime": 203860
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar niet meer zoals hier inderdaad.",
+    "translations": {
+      "en": "तर यहाँ जस्तो अब छैन।"
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 203860,
+        "endTime": 204900
+      },
+      {
+        "token": "niet",
+        "startTime": 204900,
+        "endTime": 205120
+      },
+      {
+        "token": "meer",
+        "startTime": 205120,
+        "endTime": 205260
+      },
+      {
+        "token": "zoals",
+        "startTime": 205260,
+        "endTime": 205460
+      },
+      {
+        "token": "hier",
+        "startTime": 205460,
+        "endTime": 205740
+      },
+      {
+        "token": "inderdaad.",
+        "startTime": 205740,
+        "endTime": 206200
+      }
+    ]
+  },
+  {
+    "sentence_text": "En die nieuwe materialen gaan terug met een mooie",
+    "translations": {
+      "en": "र ती नयाँ सामग्रीहरू फेरि एउटा सुन्दर"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 206200,
+        "endTime": 206360
+      },
+      {
+        "token": "die",
+        "startTime": 206360,
+        "endTime": 206500
+      },
+      {
+        "token": "nieuwe",
+        "startTime": 206500,
+        "endTime": 206740
+      },
+      {
+        "token": "materialen",
+        "startTime": 206740,
+        "endTime": 207400
+      },
+      {
+        "token": "gaan",
+        "startTime": 207400,
+        "endTime": 207620
+      },
+      {
+        "token": "terug",
+        "startTime": 207620,
+        "endTime": 207860
+      },
+      {
+        "token": "met",
+        "startTime": 207860,
+        "endTime": 208000
+      },
+      {
+        "token": "een",
+        "startTime": 208000,
+        "endTime": 208180
+      },
+      {
+        "token": "mooie",
+        "startTime": 208180,
+        "endTime": 208900
+      }
+    ]
+  },
+  {
+    "sentence_text": "baarwerker waar je op boven kan zitten, het hode bubbels trekken.",
+    "translations": {
+      "en": "बारको साथ फर्कनेछन् जहाँ तपाईं माथि बस्न सक्नुहुन्छ, बुलबुले तान्न सक्नुहुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "baarwerker",
+        "startTime": 208900,
+        "endTime": 209420
+      },
+      {
+        "token": "waar",
+        "startTime": 209420,
+        "endTime": 209580
+      },
+      {
+        "token": "je",
+        "startTime": 209580,
+        "endTime": 209700
+      },
+      {
+        "token": "op",
+        "startTime": 209700,
+        "endTime": 209900
+      },
+      {
+        "token": "boven",
+        "startTime": 209900,
+        "endTime": 210160
+      },
+      {
+        "token": "kan",
+        "startTime": 210160,
+        "endTime": 210300
+      },
+      {
+        "token": "zitten,",
+        "startTime": 210300,
+        "endTime": 210620
+      },
+      {
+        "token": "het",
+        "startTime": 210620,
+        "endTime": 210720
+      },
+      {
+        "token": "hode",
+        "startTime": 210720,
+        "endTime": 210800
+      },
+      {
+        "token": "bubbels",
+        "startTime": 210800,
+        "endTime": 211180
+      },
+      {
+        "token": "trekken.",
+        "startTime": 211180,
+        "endTime": 212660
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mensen gaan terug ruim zitten, gaan beter comfort voelen.",
+    "translations": {
+      "en": "मानिसहरू फेरि आरामसँग बस्नेछन्, राम्रो आराम महसुस गर्नेछन्।"
+    },
+    "segments": [
+      {
+        "token": "Mensen",
+        "startTime": 212660,
+        "endTime": 213220
+      },
+      {
+        "token": "gaan",
+        "startTime": 213220,
+        "endTime": 213300
+      },
+      {
+        "token": "terug",
+        "startTime": 213300,
+        "endTime": 213460
+      },
+      {
+        "token": "ruim",
+        "startTime": 213460,
+        "endTime": 213760
+      },
+      {
+        "token": "zitten,",
+        "startTime": 213760,
+        "endTime": 214320
+      },
+      {
+        "token": "gaan",
+        "startTime": 214320,
+        "endTime": 214520
+      },
+      {
+        "token": "beter",
+        "startTime": 214520,
+        "endTime": 215020
+      },
+      {
+        "token": "comfort",
+        "startTime": 215020,
+        "endTime": 215360
+      },
+      {
+        "token": "voelen.",
+        "startTime": 215360,
+        "endTime": 216220
+      }
+    ]
+  },
+  {
+    "sentence_text": "Eens voel je toch wel echt dat het einde eraan komt voor je stellen.",
+    "translations": {
+      "en": "अन्ततः तपाईंलाई लाग्छ कि तपाईंको सम्बन्धको अन्त्य नजिकिँदै छ।"
+    },
+    "segments": [
+      {
+        "token": "Eens",
+        "startTime": 216220,
+        "endTime": 217220
+      },
+      {
+        "token": "voel",
+        "startTime": 217220,
+        "endTime": 217400
+      },
+      {
+        "token": "je",
+        "startTime": 217400,
+        "endTime": 217520
+      },
+      {
+        "token": "toch",
+        "startTime": 217520,
+        "endTime": 217620
+      },
+      {
+        "token": "wel",
+        "startTime": 217620,
+        "endTime": 217820
+      },
+      {
+        "token": "echt",
+        "startTime": 217820,
+        "endTime": 218040
+      },
+      {
+        "token": "dat",
+        "startTime": 218040,
+        "endTime": 218200
+      },
+      {
+        "token": "het",
+        "startTime": 218200,
+        "endTime": 219080
+      },
+      {
+        "token": "einde",
+        "startTime": 219080,
+        "endTime": 219380
+      },
+      {
+        "token": "eraan",
+        "startTime": 219380,
+        "endTime": 219740
+      },
+      {
+        "token": "komt",
+        "startTime": 219740,
+        "endTime": 219820
+      },
+      {
+        "token": "voor",
+        "startTime": 219820,
+        "endTime": 220060
+      },
+      {
+        "token": "je",
+        "startTime": 220060,
+        "endTime": 220160
+      },
+      {
+        "token": "stellen.",
+        "startTime": 220160,
+        "endTime": 221000
+      }
+    ]
+  },
+  {
+    "sentence_text": "Op dat opzicht gaat het voor ons ook aangenamer werken zijn.",
+    "translations": {
+      "en": "त्यस दृष्टिले, हाम्रो लागि पनि काम गर्न सजिलो हुनेछ।"
+    },
+    "segments": [
+      {
+        "token": "Op",
+        "startTime": 221000,
+        "endTime": 221160
+      },
+      {
+        "token": "dat",
+        "startTime": 221160,
+        "endTime": 221280
+      },
+      {
+        "token": "opzicht",
+        "startTime": 221280,
+        "endTime": 221580
+      },
+      {
+        "token": "gaat",
+        "startTime": 221580,
+        "endTime": 221700
+      },
+      {
+        "token": "het",
+        "startTime": 221700,
+        "endTime": 221720
+      },
+      {
+        "token": "voor",
+        "startTime": 221720,
+        "endTime": 221740
+      },
+      {
+        "token": "ons",
+        "startTime": 221740,
+        "endTime": 221920
+      },
+      {
+        "token": "ook",
+        "startTime": 221920,
+        "endTime": 222340
+      },
+      {
+        "token": "aangenamer",
+        "startTime": 222340,
+        "endTime": 222780
+      },
+      {
+        "token": "werken",
+        "startTime": 222780,
+        "endTime": 223120
+      },
+      {
+        "token": "zijn.",
+        "startTime": 223120,
+        "endTime": 223500
+      }
+    ]
+  },
+  {
+    "sentence_text": "Met deze investering van 2 miljard euro wil Eurostar",
+    "translations": {
+      "en": "यो २ अर्ब युरोको लगानीले, यूरोस्टार"
+    },
+    "segments": [
+      {
+        "token": "Met",
+        "startTime": 223500,
+        "endTime": 224200
+      },
+      {
+        "token": "deze",
+        "startTime": 224200,
+        "endTime": 224460
+      },
+      {
+        "token": "investering",
+        "startTime": 224460,
+        "endTime": 225140
+      },
+      {
+        "token": "van",
+        "startTime": 225140,
+        "endTime": 225340
+      },
+      {
+        "token": "2",
+        "startTime": 225340,
+        "endTime": 225640
+      },
+      {
+        "token": "miljard",
+        "startTime": 225640,
+        "endTime": 225980
+      },
+      {
+        "token": "euro",
+        "startTime": 225980,
+        "endTime": 226480
+      },
+      {
+        "token": "wil",
+        "startTime": 226480,
+        "endTime": 226640
+      },
+      {
+        "token": "Eurostar",
+        "startTime": 226640,
+        "endTime": 227260
+      }
+    ]
+  },
+  {
+    "sentence_text": "groeien naar 30 miljoen jaarlijks reizigers tegen 2030.",
+    "translations": {
+      "en": "सन् २०३० सम्म वार्षिक ३ करोड यात्रु पुर्याउने लक्ष्य राख्छ।"
+    },
+    "segments": [
+      {
+        "token": "groeien",
+        "startTime": 227260,
+        "endTime": 227260
+      },
+      {
+        "token": "naar",
+        "startTime": 227260,
+        "endTime": 227730
+      },
+      {
+        "token": "30",
+        "startTime": 227730,
+        "endTime": 228070
+      },
+      {
+        "token": "miljoen",
+        "startTime": 228070,
+        "endTime": 228450
+      },
+      {
+        "token": "jaarlijks",
+        "startTime": 228450,
+        "endTime": 229030
+      },
+      {
+        "token": "reizigers",
+        "startTime": 229030,
+        "endTime": 229590
+      },
+      {
+        "token": "tegen",
+        "startTime": 229590,
+        "endTime": 229910
+      },
+      {
+        "token": "2030.",
+        "startTime": 229910,
+        "endTime": 231190
+      }
+    ]
+  },
+  {
+    "sentence_text": "Een absolute wereldprimeur volgens CEO Gwendoline Casenavi. en die zijn wat de klanten vandaag willen.",
+    "translations": {
+      "en": "सीईओ ग्वेन्डोलिन कासेनाभीका अनुसार यो विश्वमै पहिलो पटक हो, र ग्राहकहरूले आज यही चाहन्छन्।"
+    },
+    "segments": [
+      {
+        "token": "Een",
+        "startTime": 231190,
+        "endTime": 231490
+      },
+      {
+        "token": "absolute",
+        "startTime": 231490,
+        "endTime": 231970
+      },
+      {
+        "token": "wereldprimeur",
+        "startTime": 231970,
+        "endTime": 232790
+      },
+      {
+        "token": "volgens",
+        "startTime": 232790,
+        "endTime": 233250
+      },
+      {
+        "token": "CEO",
+        "startTime": 233250,
+        "endTime": 233810
+      },
+      {
+        "token": "Gwendoline",
+        "startTime": 233810,
+        "endTime": 234610
+      },
+      {
+        "token": "Casenavi.",
+        "startTime": 234610,
+        "endTime": 252610
+      },
+      {
+        "token": "en",
+        "startTime": 252610,
+        "endTime": 253330
+      },
+      {
+        "token": "die",
+        "startTime": 253330,
+        "endTime": 253470
+      },
+      {
+        "token": "zijn",
+        "startTime": 253470,
+        "endTime": 253670
+      },
+      {
+        "token": "wat",
+        "startTime": 253670,
+        "endTime": 253990
+      },
+      {
+        "token": "de",
+        "startTime": 253990,
+        "endTime": 254350
+      },
+      {
+        "token": "klanten",
+        "startTime": 254350,
+        "endTime": 254670
+      },
+      {
+        "token": "vandaag",
+        "startTime": 254670,
+        "endTime": 254810
+      },
+      {
+        "token": "willen.",
+        "startTime": 254810,
+        "endTime": 256250
+      }
+    ]
+  },
+  {
+    "sentence_text": "Eurostar wil fors groeien met meer capaciteit en nieuwe verbindingen naar Geneve en Frankfurt.",
+    "translations": {
+      "en": "यूरोस्टारले क्षमता बढाएर र जेनेभा तथा फ्र्याङ्कफर्टका लागि नयाँ रुटहरू थपेर ठूलो विस्तार गर्न चाहन्छ।"
+    },
+    "segments": [
+      {
+        "token": "Eurostar",
+        "startTime": 256250,
+        "endTime": 256810
+      },
+      {
+        "token": "wil",
+        "startTime": 256810,
+        "endTime": 256970
+      },
+      {
+        "token": "fors",
+        "startTime": 256970,
+        "endTime": 257270
+      },
+      {
+        "token": "groeien",
+        "startTime": 257270,
+        "endTime": 257650
+      },
+      {
+        "token": "met",
+        "startTime": 257650,
+        "endTime": 257830
+      },
+      {
+        "token": "meer",
+        "startTime": 257830,
+        "endTime": 258110
+      },
+      {
+        "token": "capaciteit",
+        "startTime": 258110,
+        "endTime": 258710
+      },
+      {
+        "token": "en",
+        "startTime": 258710,
+        "endTime": 259050
+      },
+      {
+        "token": "nieuwe",
+        "startTime": 259050,
+        "endTime": 259290
+      },
+      {
+        "token": "verbindingen",
+        "startTime": 259290,
+        "endTime": 259890
+      },
+      {
+        "token": "naar",
+        "startTime": 259890,
+        "endTime": 260010
+      },
+      {
+        "token": "Geneve",
+        "startTime": 260010,
+        "endTime": 260490
+      },
+      {
+        "token": "en",
+        "startTime": 260490,
+        "endTime": 260730
+      },
+      {
+        "token": "Frankfurt.",
+        "startTime": 260730,
+        "endTime": 261570
+      }
+    ]
+  },
+  {
+    "sentence_text": "Die uitbreiding is nodig, want vanaf 2030",
+    "translations": {
+      "en": "त्यो विस्तार आवश्यक छ, किनकि सन् २०३० देखि"
+    },
+    "segments": [
+      {
+        "token": "Die",
+        "startTime": 261570,
+        "endTime": 262190
+      },
+      {
+        "token": "uitbreiding",
+        "startTime": 262190,
+        "endTime": 262770
+      },
+      {
+        "token": "is",
+        "startTime": 262770,
+        "endTime": 262970
+      },
+      {
+        "token": "nodig,",
+        "startTime": 262970,
+        "endTime": 263410
+      },
+      {
+        "token": "want",
+        "startTime": 263410,
+        "endTime": 263670
+      },
+      {
+        "token": "vanaf",
+        "startTime": 263670,
+        "endTime": 263930
+      },
+      {
+        "token": "2030",
+        "startTime": 263930,
+        "endTime": 264690
+      }
+    ]
+  },
+  {
+    "sentence_text": "wil Richard Branson met Virgin Trains de kanaaltunnel veroveren.",
+    "translations": {
+      "en": "रिचर्ड ब्रान्सनले भर्जिन ट्रेन्सका साथ च्यानल सुरुङमा प्रवेश गर्न चाहन्छन्।"
+    },
+    "segments": [
+      {
+        "token": "wil",
+        "startTime": 264690,
+        "endTime": 264990
+      },
+      {
+        "token": "Richard",
+        "startTime": 264990,
+        "endTime": 265410
+      },
+      {
+        "token": "Branson",
+        "startTime": 265410,
+        "endTime": 265990
+      },
+      {
+        "token": "met",
+        "startTime": 265990,
+        "endTime": 266210
+      },
+      {
+        "token": "Virgin",
+        "startTime": 266210,
+        "endTime": 266710
+      },
+      {
+        "token": "Trains",
+        "startTime": 266710,
+        "endTime": 267170
+      },
+      {
+        "token": "de",
+        "startTime": 267170,
+        "endTime": 267350
+      },
+      {
+        "token": "kanaaltunnel",
+        "startTime": 267350,
+        "endTime": 268050
+      },
+      {
+        "token": "veroveren.",
+        "startTime": 268050,
+        "endTime": 268790
+      }
+    ]
+  },
+  {
+    "sentence_text": "Eurostar vreest de concurrentie echter niet.",
+    "translations": {
+      "en": "तर, यूरोस्टार प्रतिस्पर्धासँग डराउँदैन।"
+    },
+    "segments": [
+      {
+        "token": "Eurostar",
+        "startTime": 268790,
+        "endTime": 269970
+      },
+      {
+        "token": "vreest",
+        "startTime": 269970,
+        "endTime": 270410
+      },
+      {
+        "token": "de",
+        "startTime": 270410,
+        "endTime": 270570
+      },
+      {
+        "token": "concurrentie",
+        "startTime": 270570,
+        "endTime": 271130
+      },
+      {
+        "token": "echter",
+        "startTime": 271130,
+        "endTime": 271370
+      },
+      {
+        "token": "niet.",
+        "startTime": 271370,
+        "endTime": 271770
+      }
+    ]
+  },
+  {
+    "sentence_text": "De vraag naar duurzame treinritten",
+    "translations": {
+      "en": "सीईओका अनुसार दिगो रेल यात्राको माग"
+    },
+    "segments": [
+      {
+        "token": "De",
+        "startTime": 271770,
+        "endTime": 272330
+      },
+      {
+        "token": "vraag",
+        "startTime": 272330,
+        "endTime": 272510
+      },
+      {
+        "token": "naar",
+        "startTime": 272510,
+        "endTime": 272770
+      },
+      {
+        "token": "duurzame",
+        "startTime": 272770,
+        "endTime": 273310
+      },
+      {
+        "token": "treinritten",
+        "startTime": 273310,
+        "endTime": 273890
+      }
+    ]
+  },
+  {
+    "sentence_text": "stijgt volgens de CEO zo hard dat er genoeg ruimte is voor een nieuwe speler.",
+    "translations": {
+      "en": "यति छिटो बढिरहेको छ कि नयाँ खेलाडीको लागि पर्याप्त ठाउँ छ।"
+    },
+    "segments": [
+      {
+        "token": "stijgt",
+        "startTime": 273890,
+        "endTime": 274350
+      },
+      {
+        "token": "volgens",
+        "startTime": 274350,
+        "endTime": 274710
+      },
+      {
+        "token": "de",
+        "startTime": 274710,
+        "endTime": 274890
+      },
+      {
+        "token": "CEO",
+        "startTime": 274890,
+        "endTime": 275310
+      },
+      {
+        "token": "zo",
+        "startTime": 275310,
+        "endTime": 275670
+      },
+      {
+        "token": "hard",
+        "startTime": 275670,
+        "endTime": 275670
+      },
+      {
+        "token": "dat",
+        "startTime": 275670,
+        "endTime": 276250
+      },
+      {
+        "token": "er",
+        "startTime": 276250,
+        "endTime": 276390
+      },
+      {
+        "token": "genoeg",
+        "startTime": 276390,
+        "endTime": 276790
+      },
+      {
+        "token": "ruimte",
+        "startTime": 276790,
+        "endTime": 277170
+      },
+      {
+        "token": "is",
+        "startTime": 277170,
+        "endTime": 277350
+      },
+      {
+        "token": "voor",
+        "startTime": 277350,
+        "endTime": 277690
+      },
+      {
+        "token": "een",
+        "startTime": 277690,
+        "endTime": 277950
+      },
+      {
+        "token": "nieuwe",
+        "startTime": 277950,
+        "endTime": 278150
+      },
+      {
+        "token": "speler.",
+        "startTime": 278150,
+        "endTime": 282610
+      }
+    ]
+  },
+  {
+    "sentence_text": "die komen op de markt.",
+    "translations": {
+      "en": "जो बजारमा आउँदैछन्।"
+    },
+    "segments": [
+      {
+        "token": "die",
+        "startTime": 282610,
+        "endTime": 283150
+      },
+      {
+        "token": "komen",
+        "startTime": 283150,
+        "endTime": 283430
+      },
+      {
+        "token": "op",
+        "startTime": 283430,
+        "endTime": 283830
+      },
+      {
+        "token": "de",
+        "startTime": 283830,
+        "endTime": 283930
+      },
+      {
+        "token": "markt.",
+        "startTime": 283930,
+        "endTime": 284510
+      }
+    ]
+  },
+  {
+    "sentence_text": "En ik denk dat het eerst de zin van de zin, van de volantie,",
+    "translations": {
+      "en": "र मलाई लाग्छ, पहिले वाक्यको अर्थ, स्वैच्छिकताको,"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 284510,
+        "endTime": 285030
+      },
+      {
+        "token": "ik",
+        "startTime": 285030,
+        "endTime": 285110
+      },
+      {
+        "token": "denk",
+        "startTime": 285110,
+        "endTime": 285310
+      },
+      {
+        "token": "dat",
+        "startTime": 285310,
+        "endTime": 285490
+      },
+      {
+        "token": "het",
+        "startTime": 285490,
+        "endTime": 285690
+      },
+      {
+        "token": "eerst",
+        "startTime": 285690,
+        "endTime": 285950
+      },
+      {
+        "token": "de",
+        "startTime": 285950,
+        "endTime": 286230
+      },
+      {
+        "token": "zin",
+        "startTime": 286230,
+        "endTime": 286290
+      },
+      {
+        "token": "van",
+        "startTime": 286290,
+        "endTime": 286650
+      },
+      {
+        "token": "de",
+        "startTime": 286650,
+        "endTime": 286750
+      },
+      {
+        "token": "zin,",
+        "startTime": 286750,
+        "endTime": 287110
+      },
+      {
+        "token": "van",
+        "startTime": 287110,
+        "endTime": 288010
+      },
+      {
+        "token": "de",
+        "startTime": 288010,
+        "endTime": 288090
+      },
+      {
+        "token": "volantie,",
+        "startTime": 288090,
+        "endTime": 288990
+      }
+    ]
+  },
+  {
+    "sentence_text": "van de volantie van de volantie.",
+    "translations": {
+      "en": "स्वैच्छिकताको स्वैच्छिकता।"
+    },
+    "segments": [
+      {
+        "token": "van",
+        "startTime": 288990,
+        "endTime": 290130
+      },
+      {
+        "token": "de",
+        "startTime": 290130,
+        "endTime": 292070
+      },
+      {
+        "token": "volantie",
+        "startTime": 292070,
+        "endTime": 292410
+      },
+      {
+        "token": "van",
+        "startTime": 292410,
+        "endTime": 292490
+      },
+      {
+        "token": "de",
+        "startTime": 292490,
+        "endTime": 292510
+      },
+      {
+        "token": "volantie.",
+        "startTime": 292510,
+        "endTime": 293250
+      }
+    ]
+  },
+  {
+    "sentence_text": "De volantie van de volantie van de volantie.",
+    "translations": {
+      "en": "स्वैच्छिकताको स्वैच्छिकताको स्वैच्छिकता।"
+    },
+    "segments": [
+      {
+        "token": "De",
+        "startTime": 293250,
+        "endTime": 293550
+      },
+      {
+        "token": "volantie",
+        "startTime": 293550,
+        "endTime": 294050
+      },
+      {
+        "token": "van",
+        "startTime": 294050,
+        "endTime": 294170
+      },
+      {
+        "token": "de",
+        "startTime": 294170,
+        "endTime": 294210
+      },
+      {
+        "token": "volantie",
+        "startTime": 294210,
+        "endTime": 294450
+      },
+      {
+        "token": "van",
+        "startTime": 294450,
+        "endTime": 294470
+      },
+      {
+        "token": "de",
+        "startTime": 294470,
+        "endTime": 294770
+      },
+      {
+        "token": "volantie.",
+        "startTime": 294770,
+        "endTime": 295970
+      }
+    ]
+  },
+  {
+    "sentence_text": "En dat is het moeilijk voorkomen.",
+    "translations": {
+      "en": "र त्यो रोक्न गाह्रो छ।"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 295970,
+        "endTime": 296210
+      },
+      {
+        "token": "dat",
+        "startTime": 296210,
+        "endTime": 296270
+      },
+      {
+        "token": "is",
+        "startTime": 296270,
+        "endTime": 296490
+      },
+      {
+        "token": "het",
+        "startTime": 296490,
+        "endTime": 297450
+      },
+      {
+        "token": "moeilijk",
+        "startTime": 297450,
+        "endTime": 298510
+      },
+      {
+        "token": "voorkomen.",
+        "startTime": 298510,
+        "endTime": 298510
+      }
+    ]
+  },
+  {
+    "sentence_text": "En dat is een heel goed nieuw.",
+    "translations": {
+      "en": "र त्यो धेरै राम्रो खबर हो।"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 298510,
+        "endTime": 299230
+      },
+      {
+        "token": "dat",
+        "startTime": 299230,
+        "endTime": 299430
+      },
+      {
+        "token": "is",
+        "startTime": 299430,
+        "endTime": 299630
+      },
+      {
+        "token": "een",
+        "startTime": 299630,
+        "endTime": 299890
+      },
+      {
+        "token": "heel",
+        "startTime": 299890,
+        "endTime": 300510
+      },
+      {
+        "token": "goed",
+        "startTime": 300510,
+        "endTime": 300670
+      },
+      {
+        "token": "nieuw.",
+        "startTime": 300670,
+        "endTime": 301090
+      }
+    ]
+  }
+]
