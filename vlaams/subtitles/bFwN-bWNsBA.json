@@ -1,7 +1,9 @@
 [
   {
     "sentence_text": "Alle verkeersboetes stijgen met 10 procent.",
-    "translations": {},
+    "translations": {
+      "en": "सबै ट्राफिक जरिवाना १० प्रतिशतले बढ्छ।"
+    },
     "segments": [
       {
         "token": "Alle",
@@ -36,8 +38,10 @@
     ]
   },
   {
-    "sentence_text": "Een snelheidsovertreding in een zone 50",
-    "translations": {},
+    "sentence_text": "Een snelheidsovertreding in een zone 50 waarbij je minder dan 10 km per uur te",
+    "translations": {
+      "en": "जोन ५० मा गति सीमा उल्लङ्घन गर्दा १० किलोमिटर प्रति घण्टा भन्दा कम"
+    },
     "segments": [
       {
         "token": "Een",
@@ -68,13 +72,7 @@
         "token": "50",
         "startTime": 4800,
         "endTime": 5320
-      }
-    ]
-  },
-  {
-    "sentence_text": "waarbij je minder dan 10 km per uur te snel rijdt, is voorlopig 68 euro,",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "waarbij",
         "startTime": 5320,
@@ -119,7 +117,15 @@
         "token": "te",
         "startTime": 7460,
         "endTime": 7640
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "snel rijdt, is voorlopig 68 euro, wordt vanaf 1 juli 74 euro.",
+    "translations": {
+      "en": "छिटो गुडेको अवस्थामा हाल ६८ युरो छ, जुलाई १ देखि ७४ युरो हुनेछ।"
+    },
+    "segments": [
       {
         "token": "snel",
         "startTime": 7640,
@@ -149,13 +155,7 @@
         "token": "euro,",
         "startTime": 9840,
         "endTime": 10200
-      }
-    ]
-  },
-  {
-    "sentence_text": "wordt vanaf 1 juli 74 euro.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "wordt",
         "startTime": 10200,
@@ -190,7 +190,9 @@
   },
   {
     "sentence_text": "Je gordel niet dragen.",
-    "translations": {},
+    "translations": {
+      "en": "सिट बेल्ट नलगाउनु।"
+    },
     "segments": [
       {
         "token": "Je",
@@ -216,7 +218,9 @@
   },
   {
     "sentence_text": "Een overtreding van de tweede graad gaat van 126 euro naar 138 euro.",
-    "translations": {},
+    "translations": {
+      "en": "दोस्रो डिग्रीको उल्लङ्घन १२६ युरोबाट १३८ युरो हुन्छ।"
+    },
     "segments": [
       {
         "token": "Een",
@@ -286,8 +290,10 @@
     ]
   },
   {
-    "sentence_text": "Door een oranje licht rijden of bellen achter het sturen een overtreding",
-    "translations": {},
+    "sentence_text": "Door een oranje licht rijden of bellen achter het sturen een overtreding van de derde",
+    "translations": {
+      "en": "पहेँलो बत्तीमा गुड्नु वा गाडी चलाउँदै फोन गर्नु तेस्रो डिग्रीको उल्लङ्घन हो"
+    },
     "segments": [
       {
         "token": "Door",
@@ -348,13 +354,7 @@
         "token": "overtreding",
         "startTime": 24880,
         "endTime": 25360
-      }
-    ]
-  },
-  {
-    "sentence_text": "van de derde graad gaat van 182 naar 201.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "van",
         "startTime": 25360,
@@ -369,7 +369,15 @@
         "token": "derde",
         "startTime": 25860,
         "endTime": 26340
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "graad gaat van 182 naar 201.",
+    "translations": {
+      "en": "जुन १८२ बाट २०१ युरो हुन्छ।"
+    },
+    "segments": [
       {
         "token": "graad",
         "startTime": 26340,
@@ -403,8 +411,10 @@
     ]
   },
   {
-    "sentence_text": "Een stevig bedrag, maar in Nederland betaal je zelfs 440",
-    "translations": {},
+    "sentence_text": "Een stevig bedrag,",
+    "translations": {
+      "en": "ठूलो रकम हो, तर नेदरल्याण्डमा"
+    },
     "segments": [
       {
         "token": "Een",
@@ -420,7 +430,15 @@
         "token": "bedrag,",
         "startTime": 30920,
         "endTime": 31440
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "maar in Nederland betaal je zelfs 440 euro als je met de gsm in je",
+    "translations": {
+      "en": "गाडी चलाउँदै हातमा मोबाइल लिएको भेटिएमा ४४० युरो तिर्नुपर्छ।"
+    },
+    "segments": [
       {
         "token": "maar",
         "startTime": 31440,
@@ -455,13 +473,7 @@
         "token": "440",
         "startTime": 33220,
         "endTime": 34440
-      }
-    ]
-  },
-  {
-    "sentence_text": "euro als je met de gsm in je hand betrapt wordt achter het stuur.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "euro",
         "startTime": 34440,
@@ -501,7 +513,15 @@
         "token": "je",
         "startTime": 36260,
         "endTime": 36400
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "hand betrapt wordt achter het stuur.",
+    "translations": {
+      "en": "धेरै मदिरा सेवन गरेर ०.५ प्रोमिलभन्दा माथि हुनुहुन्छ भने"
+    },
+    "segments": [
       {
         "token": "hand",
         "startTime": 36400,
@@ -535,8 +555,10 @@
     ]
   },
   {
-    "sentence_text": "Heb je te veel gedronken en je zit boven de 0,5 promille,",
-    "translations": {},
+    "sentence_text": "Heb je te veel gedronken en je zit boven de 0,5 promille, dan",
+    "translations": {
+      "en": "जुलाई १ देखि २०७ युरो तिर्नुपर्छ।"
+    },
     "segments": [
       {
         "token": "Heb",
@@ -597,18 +619,20 @@
         "token": "promille,",
         "startTime": 41480,
         "endTime": 42300
-      }
-    ]
-  },
-  {
-    "sentence_text": "dan ben je vanaf 1 juli 207 euro kwijt.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "dan",
         "startTime": 42300,
         "endTime": 42560
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ben je vanaf 1 juli 207 euro kwijt. Dat",
+    "translations": {
+      "en": "पहिले १८९ युरो थियो।"
+    },
+    "segments": [
       {
         "token": "ben",
         "startTime": 42560,
@@ -648,18 +672,20 @@
         "token": "kwijt.",
         "startTime": 45780,
         "endTime": 46140
-      }
-    ]
-  },
-  {
-    "sentence_text": "Dat was 189.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "Dat",
         "startTime": 46140,
         "endTime": 46220
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "was 189. Meer",
+    "translations": {
+      "en": "०.८ प्रोमिलभन्दा माथि भए ४७२ युरो तिर्नुपर्छ।"
+    },
+    "segments": [
       {
         "token": "was",
         "startTime": 46220,
@@ -669,18 +695,20 @@
         "token": "189.",
         "startTime": 46460,
         "endTime": 47840
-      }
-    ]
-  },
-  {
-    "sentence_text": "Meer dan 0,8 promille, dan betaal je 472 euro.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "Meer",
         "startTime": 47840,
         "endTime": 48200
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "dan 0,8 promille, dan betaal je 472 euro. Ieder",
+    "translations": {
+      "en": "प्रत्येक वर्ष जरिवानाको संख्या पनि बढ्दै गएको छ।"
+    },
+    "segments": [
       {
         "token": "dan",
         "startTime": 48200,
@@ -720,18 +748,20 @@
         "token": "euro.",
         "startTime": 52780,
         "endTime": 53800
-      }
-    ]
-  },
-  {
-    "sentence_text": "Ieder jaar stijgt ook het aantal boetes.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "Ieder",
         "startTime": 53800,
         "endTime": 54140
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "jaar stijgt ook het aantal boetes. Vorig",
+    "translations": {
+      "en": "गत वर्ष पहिलो पटक १ करोडभन्दा बढी ट्राफिक उल्लङ्घन भए।"
+    },
+    "segments": [
       {
         "token": "jaar",
         "startTime": 54140,
@@ -761,18 +791,20 @@
         "token": "boetes.",
         "startTime": 55800,
         "endTime": 56460
-      }
-    ]
-  },
-  {
-    "sentence_text": "Vorig jaar waren er voor het eerst meer dan 10 miljoen verkeersovertredingen.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "Vorig",
         "startTime": 56460,
         "endTime": 56900
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "jaar waren er voor het eerst meer dan 10 miljoen verkeersovertredingen. Dat",
+    "translations": {
+      "en": "आगामी वर्षहरूमा यो अझै बढ्नेछ किनकि ट्र्याजेक्टरी नियन्त्रण र एएनपीआर क्यामेराहरू अझ राम्रो र"
+    },
+    "segments": [
       {
         "token": "jaar",
         "startTime": 56900,
@@ -827,18 +859,20 @@
         "token": "verkeersovertredingen.",
         "startTime": 59580,
         "endTime": 60760
-      }
-    ]
-  },
-  {
-    "sentence_text": "Dat zal de volgende jaren nog verder stijgen omdat trajectcontroles",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "Dat",
         "startTime": 60760,
         "endTime": 61220
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "zal de volgende jaren nog verder stijgen omdat trajectcontroles en ANPR-camera's beter en beter zullen",
+    "translations": {
+      "en": "प्रभावकारी हुँदै जानेछन्।"
+    },
+    "segments": [
       {
         "token": "zal",
         "startTime": 61220,
@@ -883,13 +917,7 @@
         "token": "trajectcontroles",
         "startTime": 63920,
         "endTime": 64980
-      }
-    ]
-  },
-  {
-    "sentence_text": "en ANPR-camera's beter en beter zullen werken.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "en",
         "startTime": 64980,
@@ -919,7 +947,15 @@
         "token": "zullen",
         "startTime": 67340,
         "endTime": 67880
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "werken.",
+    "translations": {
+      "en": "यसरी पक्राउ पर्ने सम्भावना बढ्छ।"
+    },
+    "segments": [
       {
         "token": "werken.",
         "startTime": 67880,
@@ -929,7 +965,9 @@
   },
   {
     "sentence_text": "De pakkans vergroot dus.",
-    "translations": {},
+    "translations": {
+      "en": "र अध्ययनहरूले देखाएको छ कि यसले हाम्रो ड्राइभिङ व्यवहारमा ठूलो प्रभाव पार्छ।"
+    },
     "segments": [
       {
         "token": "De",
@@ -945,18 +983,20 @@
         "token": "vergroot",
         "startTime": 69140,
         "endTime": 69820
-      }
-    ]
-  },
-  {
-    "sentence_text": "En studies wijzen uit dat dat een veel groter effect heeft op ons rijgedrag",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "dus.",
         "startTime": 69820,
         "endTime": 69820
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "En studies wijzen uit dat dat een veel groter effect heeft op ons rijgedrag dan",
+    "translations": {
+      "en": "अध्ययनहरूले देखाउँछन् कि यसले हाम्रो ड्राइभिङ व्यवहारमा धेरै ठूलो प्रभाव पार्छ"
+    },
+    "segments": [
       {
         "token": "En",
         "startTime": 69820,
@@ -1026,18 +1066,20 @@
         "token": "rijgedrag",
         "startTime": 74520,
         "endTime": 75180
-      }
-    ]
-  },
-  {
-    "sentence_text": "dan die hogere boetes.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "dan",
         "startTime": 75180,
         "endTime": 75660
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "die hogere boetes.",
+    "translations": {
+      "en": "उच्च जरिवाना।"
+    },
+    "segments": [
       {
         "token": "die",
         "startTime": 75660,
@@ -1057,7 +1099,9 @@
   },
   {
     "sentence_text": "Dat dacht ik eigenlijk.",
-    "translations": {},
+    "translations": {
+      "en": "मैले वास्तवमा त्यस्तै सोचेको थिएँ।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -1083,7 +1127,9 @@
   },
   {
     "sentence_text": "Het is het idee van hoe ze mij hier kunnen pakken.",
-    "translations": {},
+    "translations": {
+      "en": "यो उनीहरूले मलाई यहाँ कसरी समात्न सक्छन् भन्ने विचार हो।"
+    },
     "segments": [
       {
         "token": "Het",
@@ -1144,7 +1190,9 @@
   },
   {
     "sentence_text": "En niet de boetes zijn 10 procent duurder geworden.",
-    "translations": {},
+    "translations": {
+      "en": "र जरिवाना १० प्रतिशतले महँगो भएको होइन।"
+    },
     "segments": [
       {
         "token": "En",
