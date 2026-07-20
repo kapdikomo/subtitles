@@ -1,7 +1,9 @@
 [
   {
     "sentence_text": "Elke keer als je de fles open draait, komt er toch wat microplastic vrij.",
-    "translations": {},
+    "translations": {
+      "en": "प्रत्येक पटक बोतल खोल्दा केही माइक्रोप्लास्टिक निस्कन्छ।"
+    },
     "segments": [
       {
         "token": "Elke",
@@ -77,7 +79,9 @@
   },
   {
     "sentence_text": "Hey you, dit zijn jouw vijf vragen over...",
-    "translations": {},
+    "translations": {
+      "en": "हे तिमी, यी तिम्रा पाँच प्रश्नहरू हुन्..."
+    },
     "segments": [
       {
         "token": "Hey",
@@ -123,7 +127,9 @@
   },
   {
     "sentence_text": "Drinkwater.",
-    "translations": {},
+    "translations": {
+      "en": "पिउने पानी।"
+    },
     "segments": [
       {
         "token": "Drinkwater.",
@@ -134,7 +140,9 @@
   },
   {
     "sentence_text": "Ik ben Doris van Halem, hoogleraar drinkwaterkwaliteit en zuivering... aan de Technische Universiteit Delft.",
-    "translations": {},
+    "translations": {
+      "en": "म डोरिस भ्यान हालेम हुँ, डेल्फ्ट प्राविधिक विश्वविद्यालयमा पिउने पानीको गुणस्तर र शुद्धीकरणकी प्राध्यापिका।"
+    },
     "segments": [
       {
         "token": "Ik",
@@ -210,7 +218,9 @@
   },
   {
     "sentence_text": "En ik doe onderzoek naar drinkwater.",
-    "translations": {},
+    "translations": {
+      "en": "र म पिउने पानीमा अनुसन्धान गर्छु।"
+    },
     "segments": [
       {
         "token": "En",
@@ -246,7 +256,9 @@
   },
   {
     "sentence_text": "Vraag vijf is van Eva.",
-    "translations": {},
+    "translations": {
+      "en": "पाँचौं प्रश्न इभाको हो।"
+    },
     "segments": [
       {
         "token": "Vraag",
@@ -277,7 +289,9 @@
   },
   {
     "sentence_text": "Is bronwater beter dan kraanwater?",
-    "translations": {},
+    "translations": {
+      "en": "के मुहानको पानी धाराको पानीभन्दा राम्रो हो?"
+    },
     "segments": [
       {
         "token": "Is",
@@ -308,7 +322,9 @@
   },
   {
     "sentence_text": "Ik denk dat met bronwater ook wel flessenwater wordt bedoeld.",
-    "translations": {},
+    "translations": {
+      "en": "मलाई लाग्छ मुहानको पानी भन्नाले बोतलको पानी पनि बुझिन्छ।"
+    },
     "segments": [
       {
         "token": "Ik",
@@ -364,7 +380,9 @@
   },
   {
     "sentence_text": "Dus je hebt natuurlijk water uit je kraan en water",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले तपाईंसँग धाराबाट प्राकृतिक पानी र पानी हुन्छ"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -420,7 +438,9 @@
   },
   {
     "sentence_text": "die je kan kopen in de supermarkt uit een fles.",
-    "translations": {},
+    "translations": {
+      "en": "जुन तपाईं सुपरमार्केटमा बोतलमा किन्न सक्नुहुन्छ।"
+    },
     "segments": [
       {
         "token": "die",
@@ -476,7 +496,9 @@
   },
   {
     "sentence_text": "Met het flessenwater kun je weer opdelen in twee soorten water. namelijk mineraalwater of bronwater.",
-    "translations": {},
+    "translations": {
+      "en": "बोतलको पानीलाई फेरि दुई प्रकारमा विभाजन गर्न सकिन्छ: खनिज पानी वा मुहानको पानी।"
+    },
     "segments": [
       {
         "token": "Met",
@@ -557,7 +579,9 @@
   },
   {
     "sentence_text": "En die komen allebei uit een diepe grondwaterbron meestal.",
-    "translations": {},
+    "translations": {
+      "en": "र ती दुवै प्रायः गहिरो भूमिगत पानीको स्रोतबाट आउँछन्।"
+    },
     "segments": [
       {
         "token": "En",
@@ -608,7 +632,9 @@
   },
   {
     "sentence_text": "Alleen mineraalwater moet meteen verpakt worden bij de bron.",
-    "translations": {},
+    "translations": {
+      "en": "खनिज पानी मात्र स्रोतमै तुरुन्तै प्याकेज गर्नुपर्छ।"
+    },
     "segments": [
       {
         "token": "Alleen",
@@ -659,7 +685,9 @@
   },
   {
     "sentence_text": "Terwijl bronwater ook nog een klein stukje getransporteerd mag worden...",
-    "translations": {},
+    "translations": {
+      "en": "जबकि मुहानको पानीलाई शुद्धीकरण र प्याकेज गर्नुअघि सानो दूरीसम्म ढुवानी गर्न अनुमति छ..."
+    },
     "segments": [
       {
         "token": "Terwijl",
@@ -715,7 +743,9 @@
   },
   {
     "sentence_text": "voordat het gezuiverd en verpakt wordt.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसो गर्नुअघि।"
+    },
     "segments": [
       {
         "token": "voordat",
@@ -751,7 +781,9 @@
   },
   {
     "sentence_text": "Kraanwater kan gewoon uit eenzelfde bron komen als het bronwater.",
-    "translations": {},
+    "translations": {
+      "en": "धाराको पानी पनि मुहानको पानी जस्तै स्रोतबाट आउन सक्छ।"
+    },
     "segments": [
       {
         "token": "Kraanwater",
@@ -807,7 +839,9 @@
   },
   {
     "sentence_text": "Het hangt een beetje vanaf waar je woont in Nederland, wat die bron is.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो स्रोत तपाईं नेदरल्यान्ड्सको कहाँ बस्नुहुन्छ भन्नेमा निर्भर गर्छ।"
+    },
     "segments": [
       {
         "token": "Het",
@@ -883,7 +917,9 @@
   },
   {
     "sentence_text": "Maar soms is het ook echt dezelfde",
-    "translations": {},
+    "translations": {
+      "en": "तर कहिलेकाहीँ यो सुपरमार्केटमा किन्न सकिने बोतलको पानीको"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -924,7 +960,9 @@
   },
   {
     "sentence_text": "bron als de flessen die je in de supermarkt kan kopen.",
-    "translations": {},
+    "translations": {
+      "en": "उही स्रोत पनि हुन्छ।"
+    },
     "segments": [
       {
         "token": "bron",
@@ -985,7 +1023,9 @@
   },
   {
     "sentence_text": "Dus ja, is het beter?",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले हो, के यो राम्रो हो?"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -1016,7 +1056,9 @@
   },
   {
     "sentence_text": "Ik zou eigenlijk zeggen van niet, want kraanwater wordt verpompt via leidingen.",
-    "translations": {},
+    "translations": {
+      "en": "म भन्न चाहन्छु, होइन, किनकि धाराको पानी पाइपमार्फत पम्प गरिन्छ।"
+    },
     "segments": [
       {
         "token": "Ik",
@@ -1082,7 +1124,9 @@
   },
   {
     "sentence_text": "Dat is een hele duurzame manier om water te verplaatsen.",
-    "translations": {},
+    "translations": {
+      "en": "पानी सार्नको लागि यो धेरै दिगो तरिका हो।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -1138,7 +1182,9 @@
   },
   {
     "sentence_text": "Terwijl flessenwater moet over de weg meestal.",
-    "translations": {},
+    "translations": {
+      "en": "जबकि बोतलको पानी प्रायः सडकमार्फत ढुवानी गरिन्छ।"
+    },
     "segments": [
       {
         "token": "Terwijl",
@@ -1179,7 +1225,9 @@
   },
   {
     "sentence_text": "Dus wordt met vrachtwagens naar de supermarkt gebracht.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले यसलाई ट्रकमा सुपरमार्केटमा ल्याइन्छ।"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -1225,7 +1273,9 @@
   },
   {
     "sentence_text": "En daar komt nog bij dat kraanwater heel goed gecontroleerd wordt.",
-    "translations": {},
+    "translations": {
+      "en": "र यसमा थप, धाराको पानी धेरै राम्रोसँग नियन्त्रण गरिन्छ।"
+    },
     "segments": [
       {
         "token": "En",
@@ -1286,7 +1336,9 @@
   },
   {
     "sentence_text": "We willen niet dat we daar ziek van worden.",
-    "translations": {},
+    "translations": {
+      "en": "हामी यसबाट बिरामी हुन चाहँदैनौं।"
+    },
     "segments": [
       {
         "token": "We",
@@ -1337,7 +1389,9 @@
   },
   {
     "sentence_text": "Dus het wordt goed in de gaten gehouden.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले यसलाई राम्रोसँग निगरानी गरिन्छ।"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -1383,7 +1437,9 @@
   },
   {
     "sentence_text": "En dat is bij flessenwater natuurlijk ook zo.",
-    "translations": {},
+    "translations": {
+      "en": "र बोतलको पानीको लागि पनि यस्तै हो।"
+    },
     "segments": [
       {
         "token": "En",
@@ -1429,7 +1485,9 @@
   },
   {
     "sentence_text": "Dus natuurlijk mag je er ook niet ziek van worden.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले स्वाभाविक रूपमा तपाईं यसबाट बिरामी हुनुहुँदैन।"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -1485,7 +1543,9 @@
   },
   {
     "sentence_text": "Maar ja, dat drink je misschien niet elke dag.",
-    "translations": {},
+    "translations": {
+      "en": "तर, तपाईंले यो हरेक दिन पिउनुहुन्न होला।"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -1536,7 +1596,9 @@
   },
   {
     "sentence_text": "Daar wordt dus wel anders naar gekeken.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले यसलाई फरक दृष्टिकोणले हेरिन्छ।"
+    },
     "segments": [
       {
         "token": "Daar",
@@ -1577,7 +1639,9 @@
   },
   {
     "sentence_text": "Tot slot, als je flessenwater drinkt uit een plastic fles.",
-    "translations": {},
+    "translations": {
+      "en": "अन्तमा, यदि तपाईंले प्लास्टिकको बोतलबाट पानी पिउनुहुन्छ भने।"
+    },
     "segments": [
       {
         "token": "Tot",
@@ -1633,7 +1697,9 @@
   },
   {
     "sentence_text": "Elke keer als je de fles open draait, komt er toch wat microplastic vrij.",
-    "translations": {},
+    "translations": {
+      "en": "हरेक पटक बोतल खोल्दा, केही माइक्रोप्लास्टिक निस्कन्छ।"
+    },
     "segments": [
       {
         "token": "Elke",
@@ -1709,7 +1775,9 @@
   },
   {
     "sentence_text": "En dat is natuurlijk zonde",
-    "translations": {},
+    "translations": {
+      "en": "र यो पक्कै पनि दु:खद छ"
+    },
     "segments": [
       {
         "token": "En",
@@ -1740,7 +1808,9 @@
   },
   {
     "sentence_text": "om het op die manier binnen te krijgen terwijl uit de kraan het zonder",
-    "translations": {},
+    "translations": {
+      "en": "यसरी यसलाई शरीरमा लिनु, जबकि धाराबाट पानी बिना"
+    },
     "segments": [
       {
         "token": "om",
@@ -1816,7 +1886,9 @@
   },
   {
     "sentence_text": "plastic komt.",
-    "translations": {},
+    "translations": {
+      "en": "प्लास्टिक आउँछ।"
+    },
     "segments": [
       {
         "token": "plastic",
@@ -1832,7 +1904,9 @@
   },
   {
     "sentence_text": "Vraag 4 is van Eddorre Banaan82.",
-    "translations": {},
+    "translations": {
+      "en": "प्रश्न ४ एडोर्रे बानाना८२ बाट हो।"
+    },
     "segments": [
       {
         "token": "Vraag",
@@ -1868,7 +1942,9 @@
   },
   {
     "sentence_text": "Blijkbaar is er een trend om geen kraanwater meer te drinken.",
-    "translations": {},
+    "translations": {
+      "en": "स्पष्ट रूपमा, धाराको पानी नपिउने प्रवृत्ति छ।"
+    },
     "segments": [
       {
         "token": "Blijkbaar",
@@ -1929,7 +2005,9 @@
   },
   {
     "sentence_text": "Is dat terecht?",
-    "translations": {},
+    "translations": {
+      "en": "के यो उचित हो?"
+    },
     "segments": [
       {
         "token": "Is",
@@ -1950,7 +2028,9 @@
   },
   {
     "sentence_text": "Is het water in Nederland betrouwbaar drinkwater?",
-    "translations": {},
+    "translations": {
+      "en": "के नेदरल्याण्डको पानी भरपर्दो पिउने पानी हो?"
+    },
     "segments": [
       {
         "token": "Is",
@@ -1991,7 +2071,9 @@
   },
   {
     "sentence_text": "Ja, veel mensen maken zich zorgen over de kwaliteit van ons drinkwater.",
-    "translations": {},
+    "translations": {
+      "en": "हो, धेरै मानिसहरू हाम्रो पिउने पानीको गुणस्तरको बारेमा चिन्तित छन्।"
+    },
     "segments": [
       {
         "token": "Ja,",
@@ -2057,7 +2139,9 @@
   },
   {
     "sentence_text": "Waar ik denk dat de zorgen vandaan komen is dat het water in Nederland,",
-    "translations": {},
+    "translations": {
+      "en": "मलाई लाग्छ चिन्ताको कारण यो हो कि नेदरल्याण्ड्सको पानी, विशेष गरी सतहको पानी, क्रमशः कम गुणस्तरको हुँदै गइरहेको छ।"
+    },
     "segments": [
       {
         "token": "Waar",
@@ -2133,7 +2217,9 @@
   },
   {
     "sentence_text": "vooral het oppervlaktewater, steeds minder goed van kwaliteit is.",
-    "translations": {},
+    "translations": {
+      "en": "र यो प्रायः हाम्रा नदीहरू वा ढलको पानीको बारेमा हुन्छ।"
+    },
     "segments": [
       {
         "token": "vooral",
@@ -2184,7 +2270,9 @@
   },
   {
     "sentence_text": "En dat gaat vaak dan over onze rivieren of over rioolwater.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले उदाहरणका लागि, यसमा औषधिका अवशेष वा कृषिबाट आएको कीटनाशक पनि हुन सक्छ।"
+    },
     "segments": [
       {
         "token": "En",
@@ -2245,7 +2333,9 @@
   },
   {
     "sentence_text": "Dus bijvoorbeeld dat er medicijnresten in kunnen zitten of misschien ook wel bestrijdingsmiddelen",
-    "translations": {},
+    "translations": {
+      "en": "वा कहिलेकाहीँ पानीमा लागूऔषधको बारेमा समाचार आउँछ।"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -2316,7 +2406,9 @@
   },
   {
     "sentence_text": "vanuit de landbouw.",
-    "translations": {},
+    "translations": {
+      "en": "र यो साँच्चै समस्या हो, यो हाम्रो जल प्रणालीको लागि राम्रो छैन।"
+    },
     "segments": [
       {
         "token": "vanuit",
@@ -2337,7 +2429,9 @@
   },
   {
     "sentence_text": "Of soms berichten over drugs bijvoorbeeld in het water.",
-    "translations": {},
+    "translations": {
+      "en": "तर जब हामी यस प्रणालीबाट पानी निकाल्छौं, तब हामी यसलाई धाराबाट आउनु अघि धेरै गहिराइले शुद्ध गर्छौं।"
+    },
     "segments": [
       {
         "token": "Of",
@@ -2388,7 +2482,9 @@
   },
   {
     "sentence_text": "En dat is ook echt een probleem, dat is niet goed voor ons watersysteem.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले यस्तो होइन कि यदि स्रोतको पानीमा औषधिका अवशेष छन् भने, नदीको पानीमा छन् भने, तपाईंले अन्ततः त्यो तपाईंको धाराको पानीमा पाउनुहुन्छ।"
+    },
     "segments": [
       {
         "token": "En",
@@ -2464,7 +2560,9 @@
   },
   {
     "sentence_text": "Maar op het moment dat we het water onttrekken uit dit systeem,",
-    "translations": {},
+    "translations": {
+      "en": "र हालैको समयमा मलको ब्याक्टेरिया पनि धेरै समाचारमा आएको छ।"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -2530,7 +2628,9 @@
   },
   {
     "sentence_text": "dan zuiveren we het natuurlijk heel intensief voordat het uiteindelijk uit de kraan komt.",
-    "translations": {},
+    "translations": {
+      "en": "यो किनभने नेदरल्याण्ड्समा हामीले हाम्रो धाराको पानी धेरै पटक मापन गर्न सहमत भएका छौं, कि यसमा कुनै संक्रमण हुन सक्छ कि भनेर हेर्न।"
+    },
     "segments": [
       {
         "token": "dan",
@@ -2606,7 +2706,9 @@
   },
   {
     "sentence_text": "Dus het is niet zo dat als er medicijnresten in het bronwater zitten,",
-    "translations": {},
+    "translations": {
+      "en": "र जब हामी यो मापन गर्छौं, तब कानुनी रूपमा उमाल्ने सल्लाह दिनुपर्छ।"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -2677,7 +2779,9 @@
   },
   {
     "sentence_text": "in het rivierwater zitten, dat je dat dan uiteindelijk ook in je kraanwater hebt zitten.",
-    "translations": {},
+    "translations": {
+      "en": "तर यस्तो होइन कि यो सबैको लागि तुरुन्तै पानी पिउन खतरनाक छ।"
+    },
     "segments": [
       {
         "token": "in",
@@ -2758,7 +2862,9 @@
   },
   {
     "sentence_text": "En ook de poepbacterie is wel veel in het nieuws geweest de afgelopen tijd.",
-    "translations": {},
+    "translations": {
+      "en": "यो प्रायः कमजोर समूहहरूको बारेमा हुन्छ, जस्तै साना बच्चाहरू।"
+    },
     "segments": [
       {
         "token": "En",
@@ -2834,7 +2940,9 @@
   },
   {
     "sentence_text": "Dat komt omdat we in Nederland hebben afgesproken dat we ons kraanwater heel vaak meten,",
-    "translations": {},
+    "translations": {
+      "en": "यो कारणले हो किनभने हामीले नेदरल्याण्डमा हाम्रो नलको पानी धेरै पटक मापन गर्ने सहमति गरेका छौं,"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -2915,7 +3023,9 @@
   },
   {
     "sentence_text": "om te zien of er eventueel een besmetting in kan zitten.",
-    "translations": {},
+    "translations": {
+      "en": "सम्भावित संक्रमण छ कि छैन भनेर हेर्नको लागि।"
+    },
     "segments": [
       {
         "token": "om",
@@ -2976,7 +3086,9 @@
   },
   {
     "sentence_text": "En op het moment dat we die meten,",
-    "translations": {},
+    "translations": {
+      "en": "र हामीले त्यो मापन गर्ने बेलामा,"
+    },
     "segments": [
       {
         "token": "En",
@@ -3022,7 +3134,9 @@
   },
   {
     "sentence_text": "dan moet er wettelijk een kookadvies afgegeven worden.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसो भए कानुनी रूपमा पकाउने सल्लाह दिनुपर्छ।"
+    },
     "segments": [
       {
         "token": "dan",
@@ -3068,7 +3182,9 @@
   },
   {
     "sentence_text": "Maar het is niet zo dat het voor iedereen dan meteen gevaarlijk",
-    "translations": {},
+    "translations": {
+      "en": "तर यसको मतलब यो होइन कि यो सबैको लागि तुरुन्तै खतरनाक छ।"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -3134,7 +3250,9 @@
   },
   {
     "sentence_text": "is om het water te drinken.",
-    "translations": {},
+    "translations": {
+      "en": "पानी पिउनको लागि हो।"
+    },
     "segments": [
       {
         "token": "is",
@@ -3170,7 +3288,9 @@
   },
   {
     "sentence_text": "Dat gaat dan vaak om groepen die wat kwetsbaarder zijn, zoals jonge kinderen.",
-    "translations": {},
+    "translations": {
+      "en": "यो प्रायः केही कमजोर समूहहरू, जस्तै साना बच्चाहरूको लागि हुन्छ।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -3241,7 +3361,9 @@
   },
   {
     "sentence_text": "Preventief kun je dan inderdaad je water koken,",
-    "translations": {},
+    "translations": {
+      "en": "रोकथामको लागि तपाईंले पानी उमाल्न सक्नुहुन्छ,"
+    },
     "segments": [
       {
         "token": "Preventief",
@@ -3287,7 +3409,9 @@
   },
   {
     "sentence_text": "maar het is niet meteen zo dat ons hele drinkwatersysteem dan niet in orde is.",
-    "translations": {},
+    "translations": {
+      "en": "तर यसको मतलब हाम्रो सम्पूर्ण पिउने पानी प्रणाली ठीक छैन भन्ने होइन।"
+    },
     "segments": [
       {
         "token": "maar",
@@ -3368,7 +3492,9 @@
   },
   {
     "sentence_text": "Ja, en ik denk dat door deze berichten, ook al in de media,",
-    "translations": {},
+    "translations": {
+      "en": "हो, र मलाई लाग्छ यी समाचारहरूले, मिडियामा पनि,"
+    },
     "segments": [
       {
         "token": "Ja,",
@@ -3439,7 +3565,9 @@
   },
   {
     "sentence_text": "steeds meer mensen denken van, nou ja,",
-    "translations": {},
+    "translations": {
+      "en": "धेरै मानिसहरू सोच्न थालेका छन्,"
+    },
     "segments": [
       {
         "token": "steeds",
@@ -3480,7 +3608,9 @@
   },
   {
     "sentence_text": "misschien moet ik maar een thuisfilter nemen om toch de waterkwaliteit zelf beter te maken.",
-    "translations": {},
+    "translations": {
+      "en": "सायद म पानीको गुणस्तर सुधार्न घरमै फिल्टर लगाउनुपर्छ।"
+    },
     "segments": [
       {
         "token": "misschien",
@@ -3561,7 +3691,9 @@
   },
   {
     "sentence_text": "Nou, ik zou niet zeggen dat het nodig is om thuis zo'n huishoudfilter",
-    "translations": {},
+    "translations": {
+      "en": "होइन, म भन्दिन कि घरमा यस्तो फिल्टर"
+    },
     "segments": [
       {
         "token": "Nou,",
@@ -3632,7 +3764,9 @@
   },
   {
     "sentence_text": "aan te schaffen.",
-    "translations": {},
+    "translations": {
+      "en": "किन्न आवश्यक छ।"
+    },
     "segments": [
       {
         "token": "aan",
@@ -3653,7 +3787,9 @@
   },
   {
     "sentence_text": "Er zitten dezelfde zuiveringsstappen in die al gebeuren bij de waterzuivering.",
-    "translations": {},
+    "translations": {
+      "en": "यसमा पानी शुद्धीकरणमा हुने जस्तै चरणहरू छन्।"
+    },
     "segments": [
       {
         "token": "Er",
@@ -3714,7 +3850,9 @@
   },
   {
     "sentence_text": "Dus je doet het eigenlijk dubbel op, een beetje zonder van je geld.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले तपाईंले पैसा खर्च गरेर दोहोरो काम गरिरहनुभएको छ।"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -3785,7 +3923,9 @@
   },
   {
     "sentence_text": "En daarbij komt, als je het filter niet goed onderhoudt,",
-    "translations": {},
+    "translations": {
+      "en": "र यदि तपाईंले फिल्टरको राम्रोसँग मर्मत नगर्नुभयो भने,"
+    },
     "segments": [
       {
         "token": "En",
@@ -3841,7 +3981,9 @@
   },
   {
     "sentence_text": "het ook kan gebeuren dat je water juist van slechtere kwaliteit wordt.",
-    "translations": {},
+    "translations": {
+      "en": "पानीको गुणस्तर खराब हुन सक्छ।"
+    },
     "segments": [
       {
         "token": "het",
@@ -3907,7 +4049,9 @@
   },
   {
     "sentence_text": "Bijvoorbeeld doordat er bacteriën gaan groeien in je filter.",
-    "translations": {},
+    "translations": {
+      "en": "जस्तै फिल्टरमा ब्याक्टेरिया बढ्न सक्छ।"
+    },
     "segments": [
       {
         "token": "Bijvoorbeeld",
@@ -3958,7 +4102,9 @@
   },
   {
     "sentence_text": "Nou ben je nieuwsgierig naar wat er nou precies in je eigen kraanwater zit?",
-    "translations": {},
+    "translations": {
+      "en": "अब तपाईं आफ्नो धाराको पानीमा के छ भनेर उत्सुक हुनुहुन्छ?"
+    },
     "segments": [
       {
         "token": "Nou",
@@ -4034,7 +4180,9 @@
   },
   {
     "sentence_text": "Ik weet dat in ieder geval waterbedrijf Evides, die levert aan de regio Rotterdam,",
-    "translations": {},
+    "translations": {
+      "en": "मलाई थाहा छ कि कम्तीमा पानी कम्पनी Evides, जसले रोटरडम क्षेत्रमा आपूर्ति गर्छ,"
+    },
     "segments": [
       {
         "token": "Ik",
@@ -4110,7 +4258,9 @@
   },
   {
     "sentence_text": "die heeft een website waar je je postcode kan invoeren.",
-    "translations": {},
+    "translations": {
+      "en": "उसको वेबसाइटमा तपाईंले आफ्नो पोस्टकोड हाल्न सक्नुहुन्छ।"
+    },
     "segments": [
       {
         "token": "die",
@@ -4166,7 +4316,9 @@
   },
   {
     "sentence_text": "En dan kan je zien wat ze allemaal gemeten hebben in jouw kraanwater.",
-    "translations": {},
+    "translations": {
+      "en": "र तपाईंले आफ्नो धाराको पानीमा के मापन गरिएको छ हेर्न सक्नुहुन्छ।"
+    },
     "segments": [
       {
         "token": "En",
@@ -4237,7 +4389,9 @@
   },
   {
     "sentence_text": "Vraag drie is van Ed, wat denken jullie?",
-    "translations": {},
+    "translations": {
+      "en": "प्रश्न तीन Ed को हो, तपाईंहरू के सोच्नुहुन्छ?"
+    },
     "segments": [
       {
         "token": "Vraag",
@@ -4283,7 +4437,9 @@
   },
   {
     "sentence_text": "Kristerio?",
-    "translations": {},
+    "translations": {
+      "en": "क्रिस्टेरियो?"
+    },
     "segments": [
       {
         "token": "Kristerio?",
@@ -4294,7 +4450,9 @@
   },
   {
     "sentence_text": "Kristerio?",
-    "translations": {},
+    "translations": {
+      "en": "क्रिस्टेरियो?"
+    },
     "segments": [
       {
         "token": "Kristerio?",
@@ -4305,7 +4463,9 @@
   },
   {
     "sentence_text": "Reo?",
-    "translations": {},
+    "translations": {
+      "en": "रेओ?"
+    },
     "segments": [
       {
         "token": "Reo?",
@@ -4316,7 +4476,9 @@
   },
   {
     "sentence_text": "Kristerio?",
-    "translations": {},
+    "translations": {
+      "en": "क्रिस्टेरियो?"
+    },
     "segments": [
       {
         "token": "Kristerio?",
@@ -4327,7 +4489,9 @@
   },
   {
     "sentence_text": "Waarom smaakt kraanwater, bijvoorbeeld in Enschede, zoeter dan op andere plaatsen?",
-    "translations": {},
+    "translations": {
+      "en": "उदाहरणको लागि, एन्सेडेमा धाराको पानी अरू ठाउँको तुलनामा किन गुलियो हुन्छ?"
+    },
     "segments": [
       {
         "token": "Waarom",
@@ -4388,7 +4552,9 @@
   },
   {
     "sentence_text": "Bijvoorbeeld spijkenisse.",
-    "translations": {},
+    "translations": {
+      "en": "उदाहरणको लागि, स्पाइकेनेसे।"
+    },
     "segments": [
       {
         "token": "Bijvoorbeeld",
@@ -4404,7 +4570,9 @@
   },
   {
     "sentence_text": "Het verschil tussen spijkenisse en Enschede is dat in spijkenisse",
-    "translations": {},
+    "translations": {
+      "en": "स्पाइकेनेसे र एन्सेडेको भिन्नता यो हो कि स्पाइकेनेसमा"
+    },
     "segments": [
       {
         "token": "Het",
@@ -4460,7 +4628,9 @@
   },
   {
     "sentence_text": "voor een groot deel water uit rivieren komt.",
-    "translations": {},
+    "translations": {
+      "en": "धेरैजसो पानी नदीहरूबाट आउँछ।"
+    },
     "segments": [
       {
         "token": "voor",
@@ -4506,7 +4676,9 @@
   },
   {
     "sentence_text": "En in Enschede uit de grond.",
-    "translations": {},
+    "translations": {
+      "en": "र एन्सेडेमा जमिनबाट आउँछ।"
+    },
     "segments": [
       {
         "token": "En",
@@ -4542,7 +4714,9 @@
   },
   {
     "sentence_text": "Grondwater is vaak wat harder dan rivierwater.",
-    "translations": {},
+    "translations": {
+      "en": "भूमिगत पानी प्रायः नदीको पानीभन्दा अलि कडा हुन्छ।"
+    },
     "segments": [
       {
         "token": "Grondwater",
@@ -4583,7 +4757,9 @@
   },
   {
     "sentence_text": "Wat is dat hardere water dan?",
-    "translations": {},
+    "translations": {
+      "en": "त्यो कडा पानी भनेको के हो?"
+    },
     "segments": [
       {
         "token": "Wat",
@@ -4619,7 +4795,9 @@
   },
   {
     "sentence_text": "Dat zijn calcium en magnesiumionen.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो क्याल्सियम र म्याग्नेसियम आयनहरू हुन्।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -4650,7 +4828,9 @@
   },
   {
     "sentence_text": "Dat zijn calcium en magnesiumdeeltjes die opgelost zijn in water.",
-    "translations": {},
+    "translations": {
+      "en": "ती क्याल्सियम र म्याग्नेसियमका कणहरू हुन् जुन पानीमा घुल्छन्।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -4706,7 +4886,9 @@
   },
   {
     "sentence_text": "Op het moment dat je dat proeft, dan smaakt dat iets zoeter, hard water.",
-    "translations": {},
+    "translations": {
+      "en": "जब तपाईंले त्यो चाख्नुहुन्छ, कडा पानी अलि गुलियो स्वाद हुन्छ।"
+    },
     "segments": [
       {
         "token": "Op",
@@ -4782,7 +4964,9 @@
   },
   {
     "sentence_text": "Dus dat verklaart het verschil al.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले यसले भिन्नता स्पष्ट पार्छ।"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -4818,7 +5002,9 @@
   },
   {
     "sentence_text": "En als het uit je kraan komt en je gaat het water verwarmen,",
-    "translations": {},
+    "translations": {
+      "en": "र जब यो धाराबाट आउँछ र तपाईंले पानी तताउनुहुन्छ,"
+    },
     "segments": [
       {
         "token": "En",
@@ -4889,7 +5075,9 @@
   },
   {
     "sentence_text": "dan zullen die calciumdeeltjes die opgelost zijn in je water, reageren tot vaste deeltjes.",
-    "translations": {},
+    "translations": {
+      "en": "तब ती क्याल्सियमका कणहरू जुन पानीमा घुलेका छन्, ठोस कणहरूमा प्रतिक्रिया गर्छन्।"
+    },
     "segments": [
       {
         "token": "dan",
@@ -4965,7 +5153,9 @@
   },
   {
     "sentence_text": "En dat zie je dan ook als calciumcarbonaat of kalk,",
-    "translations": {},
+    "translations": {
+      "en": "र त्यो तपाईंले क्याल्सियम कार्बोनेट वा काल्कको रूपमा देख्नुहुन्छ,"
+    },
     "segments": [
       {
         "token": "En",
@@ -5021,7 +5211,9 @@
   },
   {
     "sentence_text": "bijvoorbeeld in je water koken of in je douche.",
-    "translations": {},
+    "translations": {
+      "en": "उदाहरणको लागि, पानी उमाल्दा वा नुहाउँदा।"
+    },
     "segments": [
       {
         "token": "bijvoorbeeld",
@@ -5072,7 +5264,9 @@
   },
   {
     "sentence_text": "En dat is natuurlijk niet goed voor de apparatuur.",
-    "translations": {},
+    "translations": {
+      "en": "र त्यो स्वाभाविक रूपमा उपकरणको लागि राम्रो हुँदैन।"
+    },
     "segments": [
       {
         "token": "En",
@@ -5123,7 +5317,9 @@
   },
   {
     "sentence_text": "Om te voorkomen dat dit gebeurt in Nederland,",
-    "translations": {},
+    "translations": {
+      "en": "नेदरल्यान्ड्समा यो हुनबाट रोक्नको लागि,"
+    },
     "segments": [
       {
         "token": "Om",
@@ -5169,7 +5365,9 @@
   },
   {
     "sentence_text": "halen we het meeste van de kalk eigenlijk al uit,",
-    "translations": {},
+    "translations": {
+      "en": "हामी प्रायः धेरैजसो काल्क पहिले नै हटाउँछौं,"
+    },
     "segments": [
       {
         "token": "halen",
@@ -5225,7 +5423,9 @@
   },
   {
     "sentence_text": "op de plekken waar hard water in de grond zit.",
-    "translations": {},
+    "translations": {
+      "en": "जहाँ जमिनमा कडा पानी छ।"
+    },
     "segments": [
       {
         "token": "op",
@@ -5281,7 +5481,9 @@
   },
   {
     "sentence_text": "En hoe kan het dat water in het buitenland dan naar gloorsmaakt?",
-    "translations": {},
+    "translations": {
+      "en": "अनि विदेशमा पानीको स्वाद क्लोरिनजस्तो किन हुन्छ?"
+    },
     "segments": [
       {
         "token": "En",
@@ -5347,7 +5549,9 @@
   },
   {
     "sentence_text": "Ja, inderdaad.",
-    "translations": {},
+    "translations": {
+      "en": "हो, साँच्चै।"
+    },
     "segments": [
       {
         "token": "Ja,",
@@ -5363,7 +5567,9 @@
   },
   {
     "sentence_text": "Als je op vakantie bent, dan smaakt het water wel soms naar chloor...",
-    "translations": {},
+    "translations": {
+      "en": "बिदामा हुँदा पानीको स्वाद कहिलेकाहीं क्लोरिनजस्तो हुन्छ..."
+    },
     "segments": [
       {
         "token": "Als",
@@ -5434,7 +5640,9 @@
   },
   {
     "sentence_text": "of eigenlijk vaak naar chloor.",
-    "translations": {},
+    "translations": {
+      "en": "वा वास्तवमा प्रायः क्लोरिनजस्तो।"
+    },
     "segments": [
       {
         "token": "of",
@@ -5465,7 +5673,9 @@
   },
   {
     "sentence_text": "Op het moment dat je chloor toevoegt, dan reageert dat chloor...",
-    "translations": {},
+    "translations": {
+      "en": "जब तपाईं क्लोरिन मिसाउनुहुन्छ, त्यो क्लोरिनले..."
+    },
     "segments": [
       {
         "token": "Op",
@@ -5526,7 +5736,9 @@
   },
   {
     "sentence_text": "met bijvoorbeeld bacteriën die ziek zouden kunnen maken...",
-    "translations": {},
+    "translations": {
+      "en": "उदाहरणका लागि, बिरामी बनाउन सक्ने ब्याक्टेरियासँग प्रतिक्रिया गर्छ..."
+    },
     "segments": [
       {
         "token": "met",
@@ -5572,7 +5784,9 @@
   },
   {
     "sentence_text": "en vervolgens kunnen die bacteriën niet meer infecteren.",
-    "translations": {},
+    "translations": {
+      "en": "र त्यसपछि ती ब्याक्टेरियाले संक्रमण गर्न सक्दैनन्।"
+    },
     "segments": [
       {
         "token": "en",
@@ -5618,7 +5832,9 @@
   },
   {
     "sentence_text": "In Nederland zijn we al tientallen jaren afgestapt van het doseren van chloor...",
-    "translations": {},
+    "translations": {
+      "en": "नेदरल्यान्ड्समा हामीले दशकौंदेखि हाम्रो धाराको पानीमा क्लोरिन मिसाउन छोडेका छौं..."
+    },
     "segments": [
       {
         "token": "In",
@@ -5689,7 +5905,9 @@
   },
   {
     "sentence_text": "aan ons kraanwater, omdat we ontdekt hebben dat op het moment dat er chloor...",
-    "translations": {},
+    "translations": {
+      "en": "किनभने हामीले पत्ता लगायौं कि जब पानीमा क्लोरिन..."
+    },
     "segments": [
       {
         "token": "aan",
@@ -5765,7 +5983,9 @@
   },
   {
     "sentence_text": "aan het water wordt toegevoegd, het niet alleen reageert met je bacteriën...",
-    "translations": {},
+    "translations": {
+      "en": "मिसाइन्छ, यसले ब्याक्टेरियासँग मात्र होइन..."
+    },
     "segments": [
       {
         "token": "aan",
@@ -5831,7 +6051,9 @@
   },
   {
     "sentence_text": "maar ook met andere stofjes.",
-    "translations": {},
+    "translations": {
+      "en": "अन्य पदार्थहरूसँग पनि प्रतिक्रिया गर्छ।"
+    },
     "segments": [
       {
         "token": "maar",
@@ -5862,7 +6084,9 @@
   },
   {
     "sentence_text": "En die reactie kan ervoor zorgen dat er weer nieuwe stofjes",
-    "translations": {},
+    "translations": {
+      "en": "र त्यो प्रतिक्रियाले नयाँ पदार्थहरू उत्पन्न गर्न सक्छ..."
+    },
     "segments": [
       {
         "token": "En",
@@ -5923,7 +6147,9 @@
   },
   {
     "sentence_text": "in het water komen die je wel ziek kunnen maken.",
-    "translations": {},
+    "translations": {
+      "en": "जसले तपाईंलाई बिरामी बनाउन सक्छ।"
+    },
     "segments": [
       {
         "token": "in",
@@ -5979,7 +6205,9 @@
   },
   {
     "sentence_text": "Ja, dat willen we niet, want in Nederland drinken we allemaal uit de kraan.",
-    "translations": {},
+    "translations": {
+      "en": "हो, हामी त्यो चाहँदैनौं, किनभने नेदरल्यान्ड्समा हामी सबै धाराको पानी पिउँछौं।"
+    },
     "segments": [
       {
         "token": "Ja,",
@@ -6055,7 +6283,9 @@
   },
   {
     "sentence_text": "Ja, misschien even als nuance dat",
-    "translations": {},
+    "translations": {
+      "en": "हो, सायद स्पष्ट गर्नको लागि..."
+    },
     "segments": [
       {
         "token": "Ja,",
@@ -6091,7 +6321,9 @@
   },
   {
     "sentence_text": "deze schadelijke stofjes die vormen door de dosering van chloor...",
-    "translations": {},
+    "translations": {
+      "en": "यी हानिकारक पदार्थहरू क्लोरिन मिसाउँदा बन्छन्..."
+    },
     "segments": [
       {
         "token": "deze",
@@ -6147,7 +6379,9 @@
   },
   {
     "sentence_text": "...vooral van zorg zijn als je het elke dag je hele leven drinkt.",
-    "translations": {},
+    "translations": {
+      "en": "...र यो विशेष गरी चिन्ताको विषय हो यदि तपाईंले हरेक दिन जीवनभर पिउनुहुन्छ भने।"
+    },
     "segments": [
       {
         "token": "...vooral",
@@ -6218,7 +6452,9 @@
   },
   {
     "sentence_text": "Terwijl als je een keertje op vakantie of bijvoorbeeld in een noodsituatie...",
-    "translations": {},
+    "translations": {
+      "en": "जबकि बिदामा वा आपतकालिन अवस्थामा एक पटक..."
+    },
     "segments": [
       {
         "token": "Terwijl",
@@ -6284,7 +6520,9 @@
   },
   {
     "sentence_text": "...dan is het natuurlijk helemaal prima om chloor te gebruiken...",
-    "translations": {},
+    "translations": {
+      "en": "...त्यसो भए क्लोरिन प्रयोग गर्नु पूर्ण रूपमा ठीक छ..."
+    },
     "segments": [
       {
         "token": "...dan",
@@ -6340,7 +6578,9 @@
   },
   {
     "sentence_text": "...om ervoor te zorgen dat je niet geïnfecteerd wordt door ziekteverwekkende bacteriën.",
-    "translations": {},
+    "translations": {
+      "en": "...ताकि तपाईं रोगजनक ब्याक्टेरियाबाट संक्रमित नहुनुहोस्।"
+    },
     "segments": [
       {
         "token": "...om",
@@ -6406,7 +6646,9 @@
   },
   {
     "sentence_text": "Vraag nummer 2 is van Ed Little Neil Wonders.",
-    "translations": {},
+    "translations": {
+      "en": "प्रश्न नम्बर २ एड लिटल नील वन्डर्सको हो।"
+    },
     "segments": [
       {
         "token": "Vraag",
@@ -6457,7 +6699,9 @@
   },
   {
     "sentence_text": "In hoeverre moet ik mij zorgen maken over dat het drinkwater ooit opraakt?",
-    "translations": {},
+    "translations": {
+      "en": "पिउने पानी सकिने सम्भावनाको बारेमा म कत्ति चिन्तित हुनुपर्छ?"
+    },
     "segments": [
       {
         "token": "In",
@@ -6528,7 +6772,9 @@
   },
   {
     "sentence_text": "Ik denk hier in Nederland, weten we allemaal, is gewoon echt heel veel water.",
-    "translations": {},
+    "translations": {
+      "en": "मलाई लाग्छ, नेदरल्याण्डमा हामी सबैलाई थाहा छ, यहाँ साँच्चै धेरै पानी छ।"
+    },
     "segments": [
       {
         "token": "Ik",
@@ -6604,7 +6850,9 @@
   },
   {
     "sentence_text": "Echt de kans dat ons water opraakt is niet zo groot.",
-    "translations": {},
+    "translations": {
+      "en": "हाम्रो पानी सकिने सम्भावना त्यति ठूलो छैन।"
+    },
     "segments": [
       {
         "token": "Echt",
@@ -6665,7 +6913,9 @@
   },
   {
     "sentence_text": "Maar er zijn wel wat dingen aan de hand waardoor ons drinkwatersysteem",
-    "translations": {},
+    "translations": {
+      "en": "तर केही कुराहरू भइरहेका छन् जसले हाम्रो पिउने पानी प्रणालीलाई"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -6731,7 +6981,9 @@
   },
   {
     "sentence_text": "echt onder druk staat.",
-    "translations": {},
+    "translations": {
+      "en": "साँच्चै दबाबमा राखेको छ।"
+    },
     "segments": [
       {
         "token": "echt",
@@ -6757,7 +7009,9 @@
   },
   {
     "sentence_text": "Als eerste zorg is dat ons watersysteem",
-    "translations": {},
+    "translations": {
+      "en": "पहिलो चिन्ता भनेको हाम्रो पानी प्रणाली"
+    },
     "segments": [
       {
         "token": "Als",
@@ -6798,7 +7052,9 @@
   },
   {
     "sentence_text": "steeds meer vervuild raakt met stofjes die moeilijk uit het water te halen zijn.",
-    "translations": {},
+    "translations": {
+      "en": "बढ्दो रूपमा ती पदार्थहरूले प्रदूषित हुँदैछ जुन पानीबाट निकाल्न गाह्रो छ।"
+    },
     "segments": [
       {
         "token": "steeds",
@@ -6874,7 +7130,9 @@
   },
   {
     "sentence_text": "Ik zie het een beetje dat alles wat wij doen op dat land,",
-    "translations": {},
+    "translations": {
+      "en": "म यसलाई यसरी देख्छु कि हामीले त्यो जमिनमा गर्ने सबै कुराको"
+    },
     "segments": [
       {
         "token": "Ik",
@@ -6945,7 +7203,9 @@
   },
   {
     "sentence_text": "daarvan is een vingerafdruk te zien in de waterkwaliteit.",
-    "translations": {},
+    "translations": {
+      "en": "पानीको गुणस्तरमा औंठाछाप देखिन्छ।"
+    },
     "segments": [
       {
         "token": "daarvan",
@@ -6996,7 +7256,9 @@
   },
   {
     "sentence_text": "Dus dat betekent dat we bijvoorbeeld PFAS zien vanuit de industrie,",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले यसको अर्थ हामी उद्योगबाट PFAS देख्छौं,"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -7057,7 +7319,9 @@
   },
   {
     "sentence_text": "soms ook vanuit de landbouw.",
-    "translations": {},
+    "translations": {
+      "en": "कहिलेकाहीँ कृषिबाट पनि।"
+    },
     "segments": [
       {
         "token": "soms",
@@ -7088,7 +7352,9 @@
   },
   {
     "sentence_text": "Gewasbeschermingsmiddelen kunnen afstromen vanuit de landbouw.",
-    "translations": {},
+    "translations": {
+      "en": "बाली संरक्षण रसायनहरू कृषिबाट बगेर आउन सक्छन्।"
+    },
     "segments": [
       {
         "token": "Gewasbeschermingsmiddelen",
@@ -7124,7 +7390,9 @@
   },
   {
     "sentence_text": "In een ideale wereld is",
-    "translations": {},
+    "translations": {
+      "en": "एक आदर्श संसारमा,"
+    },
     "segments": [
       {
         "token": "In",
@@ -7155,7 +7423,9 @@
   },
   {
     "sentence_text": "het natuurlijk toch fijner als die verontreinigingen niet in ons watersysteem zitten.",
-    "translations": {},
+    "translations": {
+      "en": "यो निश्चित रूपमा राम्रो हुन्छ यदि ती प्रदूषणहरू हाम्रो पानी प्रणालीमा नभएको भए।"
+    },
     "segments": [
       {
         "token": "het",
@@ -7221,7 +7491,9 @@
   },
   {
     "sentence_text": "Want dan hoeven we het er ook niet uit te halen.",
-    "translations": {},
+    "translations": {
+      "en": "किनकि त्यसो भए हामीले तिनलाई बाहिर निकाल्नु पनि पर्दैन।"
+    },
     "segments": [
       {
         "token": "Want",
@@ -7282,7 +7554,9 @@
   },
   {
     "sentence_text": "Een tweede zorg is dat door klimaatverandering we steeds vaker langere periodes van droogte hebben.",
-    "translations": {},
+    "translations": {
+      "en": "दोस्रो चिन्ता भनेको जलवायु परिवर्तनका कारण हामीले बढ्दो रूपमा लामो सुख्खा अवधि भोगिरहेका छौं।"
+    },
     "segments": [
       {
         "token": "Een",
@@ -7363,7 +7637,9 @@
   },
   {
     "sentence_text": "We horen het wel eens in Oost-Nederland bijvoorbeeld dat het grondwaterpeil",
-    "translations": {},
+    "translations": {
+      "en": "हामीले पूर्वी नेदरल्याण्डमा, उदाहरणका लागि, सुख्खा समयमा भूमिगत पानीको सतह"
+    },
     "segments": [
       {
         "token": "We",
@@ -7424,7 +7700,9 @@
   },
   {
     "sentence_text": "te ver daalt in droge periodes.",
-    "translations": {},
+    "translations": {
+      "en": "धेरै तल झरेको सुन्छौं।"
+    },
     "segments": [
       {
         "token": "te",
@@ -7460,7 +7738,9 @@
   },
   {
     "sentence_text": "Ook als het dan later in het najaar weer gaat regenen,",
-    "translations": {},
+    "translations": {
+      "en": "पछि शरद ऋतुमा फेरि पानी पर्दा पनि,"
+    },
     "segments": [
       {
         "token": "Ook",
@@ -7521,7 +7801,9 @@
   },
   {
     "sentence_text": "vult het wel weer aan.",
-    "translations": {},
+    "translations": {
+      "en": "यो फेरि ठीक हुनेछ।"
+    },
     "segments": [
       {
         "token": "vult",
@@ -7552,7 +7834,9 @@
   },
   {
     "sentence_text": "Maar op dat moment is het wel echt spannend of",
-    "translations": {},
+    "translations": {
+      "en": "तर त्यो समयमा यो साँच्चै रोमाञ्चक हुन्छ कि"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -7608,7 +7892,9 @@
   },
   {
     "sentence_text": "er water uit de kraan kan blijven komen.",
-    "translations": {},
+    "translations": {
+      "en": "नलबाट पानी आइरहन सक्छ कि सक्दैन।"
+    },
     "segments": [
       {
         "token": "er",
@@ -7654,7 +7940,9 @@
   },
   {
     "sentence_text": "De derde reden is dat ons drinkwatersysteem al best wel oud is.",
-    "translations": {},
+    "translations": {
+      "en": "तेस्रो कारण भनेको हाम्रो पिउने पानी प्रणाली धेरै पुरानो भइसकेको छ।"
+    },
     "segments": [
       {
         "token": "De",
@@ -7720,7 +8008,9 @@
   },
   {
     "sentence_text": "Diep in de vorige eeuw hebben we dat aangelegd met elkaar.",
-    "translations": {},
+    "translations": {
+      "en": "पछिल्लो शताब्दीमा हामीले मिलेर त्यो निर्माण गरेका थियौं।"
+    },
     "segments": [
       {
         "token": "Diep",
@@ -7781,7 +8071,9 @@
   },
   {
     "sentence_text": "Maar we zijn nu gewoon met veel meer mensen en we gebruiken",
-    "translations": {},
+    "translations": {
+      "en": "तर अहिले हामी धेरै मानिस छौं र हामी"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -7847,7 +8139,9 @@
   },
   {
     "sentence_text": "ook veel meer water met elkaar.",
-    "translations": {},
+    "translations": {
+      "en": "धेरै पानी पनि प्रयोग गर्छौं।"
+    },
     "segments": [
       {
         "token": "ook",
@@ -7883,7 +8177,9 @@
   },
   {
     "sentence_text": "Plus die klimaatverandering waardoor die schommelingen steeds groter worden.",
-    "translations": {},
+    "translations": {
+      "en": "साथै जलवायु परिवर्तनले उतारचढाव झन् ठूलो बनाइरहेको छ।"
+    },
     "segments": [
       {
         "token": "Plus",
@@ -7934,7 +8230,9 @@
   },
   {
     "sentence_text": "Dat knelt nu, dat is niet met elkaar meegegroeid.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो अहिले समस्याग्रस्त छ, यो हाम्रो वृद्धिसँगै बढेको छैन।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -7985,7 +8283,9 @@
   },
   {
     "sentence_text": "Daar liggen grote vraagstukken, ook voor de politiek.",
-    "translations": {},
+    "translations": {
+      "en": "त्यहाँ ठूला प्रश्नहरू छन्, राजनीतिको लागि पनि।"
+    },
     "segments": [
       {
         "token": "Daar",
@@ -8031,7 +8331,9 @@
   },
   {
     "sentence_text": "Ja, dus even samenvattend, ons drinkwater raakt niet op,",
-    "translations": {},
+    "translations": {
+      "en": "हो, त्यसैले संक्षेपमा भन्नुपर्दा, हाम्रो पिउने पानी सकिँदैन,"
+    },
     "segments": [
       {
         "token": "Ja,",
@@ -8082,7 +8384,9 @@
   },
   {
     "sentence_text": "maar we moeten wel echt aan de slag met elkaar om ons watersysteem ook",
-    "translations": {},
+    "translations": {
+      "en": "तर हामीले साँच्चै मिलेर हाम्रो पानी प्रणालीलाई"
+    },
     "segments": [
       {
         "token": "maar",
@@ -8158,7 +8462,9 @@
   },
   {
     "sentence_text": "voor de toekomst zeker te stellen.",
-    "translations": {},
+    "translations": {
+      "en": "भविष्यको लागि सुरक्षित बनाउन काम गर्नुपर्छ।"
+    },
     "segments": [
       {
         "token": "voor",
@@ -8194,7 +8500,9 @@
   },
   {
     "sentence_text": "En als je zelf graag iets wil doen, is minder water gebruiken natuurlijk altijd goed.",
-    "translations": {},
+    "translations": {
+      "en": "र यदि तपाईं आफैं केही गर्न चाहनुहुन्छ भने, कम पानी प्रयोग गर्नु सधैं राम्रो हुन्छ।"
+    },
     "segments": [
       {
         "token": "En",
@@ -8275,7 +8583,9 @@
   },
   {
     "sentence_text": "Misschien korter douchen, want douchewater",
-    "translations": {},
+    "translations": {
+      "en": "हुनसक्छ छोटो नुहाउनुहोस्, किनकि नुहाउने पानी"
+    },
     "segments": [
       {
         "token": "Misschien",
@@ -8306,7 +8616,9 @@
   },
   {
     "sentence_text": "is vaak het meeste water dat je gebruikt op een dag.",
-    "translations": {},
+    "translations": {
+      "en": "प्रायः दिनभरमा तपाईंले प्रयोग गर्ने सबैभन्दा धेरै पानी हुन्छ।"
+    },
     "segments": [
       {
         "token": "is",
@@ -8367,7 +8679,9 @@
   },
   {
     "sentence_text": "Overweeg om de tuin niet te beregenen",
-    "translations": {},
+    "translations": {
+      "en": "बगैंचामा पानी नहाल्ने विचार गर्नुहोस्"
+    },
     "segments": [
       {
         "token": "Overweeg",
@@ -8408,7 +8722,9 @@
   },
   {
     "sentence_text": "of de auto niet te wassen in die periodes",
-    "translations": {},
+    "translations": {
+      "en": "वा धेरै सुक्खा हुने मौसममा"
+    },
     "segments": [
       {
         "token": "of",
@@ -8459,7 +8775,9 @@
   },
   {
     "sentence_text": "van het jaar dat het heel droog is.",
-    "translations": {},
+    "translations": {
+      "en": "गाडी नधुने।"
+    },
     "segments": [
       {
         "token": "van",
@@ -8505,7 +8823,9 @@
   },
   {
     "sentence_text": "En dan moeten we misschien maar geel gras en wat adviesere auto accepteren.",
-    "translations": {},
+    "translations": {
+      "en": "र हामीले पहेंलो घाँस र अलि सल्लाह दिने गाडी स्वीकार गर्नुपर्ने हुन सक्छ।"
+    },
     "segments": [
       {
         "token": "En",
@@ -8576,7 +8896,9 @@
   },
   {
     "sentence_text": "Vraag 1 is van Sjors.",
-    "translations": {},
+    "translations": {
+      "en": "प्रश्न १ शोर्सको हो।"
+    },
     "segments": [
       {
         "token": "Vraag",
@@ -8607,7 +8929,9 @@
   },
   {
     "sentence_text": "We zijn omringd door zeewater.",
-    "translations": {},
+    "translations": {
+      "en": "हामी समुद्री पानीले घेरिएका छौं।"
+    },
     "segments": [
       {
         "token": "We",
@@ -8638,7 +8962,9 @@
   },
   {
     "sentence_text": "Waarom kunnen we niet gewoon zeewater drinken?",
-    "translations": {},
+    "translations": {
+      "en": "हामी किन समुद्री पानी पिउन सक्दैनौं?"
+    },
     "segments": [
       {
         "token": "Waarom",
@@ -8679,7 +9005,9 @@
   },
   {
     "sentence_text": "Dit hoor ik echt heel erg vaak en dat klopt ook wel.",
-    "translations": {},
+    "translations": {
+      "en": "यो मैले धेरै पटक सुन्छु र यो सही पनि हो।"
+    },
     "segments": [
       {
         "token": "Dit",
@@ -8745,7 +9073,9 @@
   },
   {
     "sentence_text": "Je kunt van Noordzeewater prima drinkwater maken.",
-    "translations": {},
+    "translations": {
+      "en": "उत्तरी समुद्रको पानीबाट सजिलै पिउने पानी बनाउन सकिन्छ।"
+    },
     "segments": [
       {
         "token": "Je",
@@ -8786,7 +9116,9 @@
   },
   {
     "sentence_text": "Het enige is dat het maken van drinkwater wat zoet is, uit zout zeewater,",
-    "translations": {},
+    "translations": {
+      "en": "एउटा कुरा के हो भने, नुनिलो समुद्री पानीबाट मीठो पिउने पानी बनाउन"
+    },
     "segments": [
       {
         "token": "Het",
@@ -8862,7 +9194,9 @@
   },
   {
     "sentence_text": "kost veel energie.",
-    "translations": {},
+    "translations": {
+      "en": "धेरै ऊर्जा खर्च हुन्छ।"
+    },
     "segments": [
       {
         "token": "kost",
@@ -8883,7 +9217,9 @@
   },
   {
     "sentence_text": "De techniek die we gebruiken om zout",
-    "translations": {},
+    "translations": {
+      "en": "पानीबाट नुन हटाउन प्रयोग गरिने प्रविधि"
+    },
     "segments": [
       {
         "token": "De",
@@ -8924,7 +9260,9 @@
   },
   {
     "sentence_text": "uit water te halen is een techniek die gebaseerd",
-    "translations": {},
+    "translations": {
+      "en": "प्रकृतिमा हुने एउटा प्रक्रियामा आधारित छ"
+    },
     "segments": [
       {
         "token": "uit",
@@ -8975,7 +9313,9 @@
   },
   {
     "sentence_text": "is op een proces in de natuur en dat heet osmose.",
-    "translations": {},
+    "translations": {
+      "en": "र यसलाई ओस्मोसिस भनिन्छ।"
+    },
     "segments": [
       {
         "token": "is",
@@ -9036,7 +9376,9 @@
   },
   {
     "sentence_text": "Bij osmose stroomt water van de zoete naar de zoute kant.",
-    "translations": {},
+    "translations": {
+      "en": "ओस्मोसिसमा पानी मीठो भागबाट नुनिलो भागतिर बग्छ।"
+    },
     "segments": [
       {
         "token": "Bij",
@@ -9097,7 +9439,9 @@
   },
   {
     "sentence_text": "Wij willen niet meer zout water maken, maar wij willen juist meer zoet water maken.",
-    "translations": {},
+    "translations": {
+      "en": "हामी अझ बढी नुनिलो पानी बनाउन चाहँदैनौं, बरु हामी अझ बढी मीठो पानी बनाउन चाहन्छौं।"
+    },
     "segments": [
       {
         "token": "Wij",
@@ -9178,7 +9522,9 @@
   },
   {
     "sentence_text": "Wat betekent dat we druk nodig",
-    "translations": {},
+    "translations": {
+      "en": "यसको अर्थ हामीलाई पानीलाई अर्को दिशामा धकेल्न"
+    },
     "segments": [
       {
         "token": "Wat",
@@ -9214,7 +9560,9 @@
   },
   {
     "sentence_text": "hebben om het water de andere kant op te duwen.",
-    "translations": {},
+    "translations": {
+      "en": "दबाब चाहिन्छ।"
+    },
     "segments": [
       {
         "token": "hebben",
@@ -9270,7 +9618,9 @@
   },
   {
     "sentence_text": "De techniek die we daarvoor moeten gebruiken heet omgekeerde osmose.",
-    "translations": {},
+    "translations": {
+      "en": "यसका लागि प्रयोग गरिने प्रविधिलाई उल्टो ओस्मोसिस भनिन्छ।"
+    },
     "segments": [
       {
         "token": "De",
@@ -9326,7 +9676,9 @@
   },
   {
     "sentence_text": "En hoe zouter het water is waar we zoet water uit willen maken,",
-    "translations": {},
+    "translations": {
+      "en": "र हामीले मीठो पानी बनाउन चाहेको पानी जति नुनिलो हुन्छ,"
+    },
     "segments": [
       {
         "token": "En",
@@ -9397,7 +9749,9 @@
   },
   {
     "sentence_text": "hoe meer druk we daarvoor nodig hebben en dus hoe meer energie daarvoor nodig is.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसका लागि त्यति नै बढी दबाब चाहिन्छ र त्यसैले त्यति नै बढी ऊर्जा चाहिन्छ।"
+    },
     "segments": [
       {
         "token": "hoe",
@@ -9478,7 +9832,9 @@
   },
   {
     "sentence_text": "En dat betekent dus dat het produceren van drinkwater uit zeewater, wat heel zout is,",
-    "translations": {},
+    "translations": {
+      "en": "र यसको अर्थ धेरै नुनिलो समुद्री पानीबाट पिउने पानी उत्पादन गर्न"
+    },
     "segments": [
       {
         "token": "En",
@@ -9559,7 +9915,9 @@
   },
   {
     "sentence_text": "veel meer energie kost dan het produceren van drinkwater uit zoetgrondwater, rivierwater.",
-    "translations": {},
+    "translations": {
+      "en": "मीठो भूमिगत पानी वा नदीको पानीबाट पिउने पानी उत्पादन गर्नुभन्दा धेरै बढी ऊर्जा खर्च हुन्छ।"
+    },
     "segments": [
       {
         "token": "veel",
@@ -9625,7 +9983,9 @@
   },
   {
     "sentence_text": "En daarbij komt, als je deze techniek gebruikt,",
-    "translations": {},
+    "translations": {
+      "en": "र यसमा, यदि तपाईंले यो प्रविधि प्रयोग गर्नुहुन्छ भने,"
+    },
     "segments": [
       {
         "token": "En",
@@ -9671,7 +10031,9 @@
   },
   {
     "sentence_text": "kun je niet van al je water dat je erin stopt drinkwater maken.",
-    "translations": {},
+    "translations": {
+      "en": "तपाईंले त्यसमा हाल्नुभएको सबै पानीबाट पिउने पानी बनाउन सक्नुहुन्न।"
+    },
     "segments": [
       {
         "token": "kun",
@@ -9742,7 +10104,9 @@
   },
   {
     "sentence_text": "Een deel van het water waar al het zout dan geconcentreerd in zit,",
-    "translations": {},
+    "translations": {
+      "en": "पानीको एउटा भाग जसमा सबै नुन केन्द्रित हुन्छ,"
+    },
     "segments": [
       {
         "token": "Een",
@@ -9813,7 +10177,9 @@
   },
   {
     "sentence_text": "hou je over als afvalstroom.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो फोहोरको रूपमा बाँकी रहन्छ।"
+    },
     "segments": [
       {
         "token": "hou",
@@ -9844,7 +10210,9 @@
   },
   {
     "sentence_text": "En met die afvalstroom moet je iets.",
-    "translations": {},
+    "translations": {
+      "en": "र त्यो फोहोरको साथ केही गर्नुपर्छ।"
+    },
     "segments": [
       {
         "token": "En",
@@ -9885,7 +10253,9 @@
   },
   {
     "sentence_text": "Nou, dat kun je bijvoorbeeld terugbrengen in de zee.",
-    "translations": {},
+    "translations": {
+      "en": "अब, त्यसलाई उदाहरणका लागि समुद्रमा फिर्ता लैजान सकिन्छ।"
+    },
     "segments": [
       {
         "token": "Nou,",
@@ -9936,7 +10306,9 @@
   },
   {
     "sentence_text": "Maar omdat het zwaarder is dan de rest van het zeewater,",
-    "translations": {},
+    "translations": {
+      "en": "तर यो बाँकी समुद्री पानीभन्दा भारी हुन्छ,"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -9997,7 +10369,9 @@
   },
   {
     "sentence_text": "want er zitten immers meer zouten in,",
-    "translations": {},
+    "translations": {
+      "en": "किनभने यसमा धेरै नुन हुन्छ,"
+    },
     "segments": [
       {
         "token": "want",
@@ -10038,7 +10412,9 @@
   },
   {
     "sentence_text": "gaat het op de bodem van de zee liggen en verstoort het het ecologische systeem.",
-    "translations": {},
+    "translations": {
+      "en": "यो समुद्रको तल्लो भागमा बस्छ र पारिस्थितिक प्रणालीलाई बिथोल्छ।"
+    },
     "segments": [
       {
         "token": "gaat",
@@ -10119,7 +10495,9 @@
   },
   {
     "sentence_text": "Dus ja, er kleven wel echt nadelen aan het produceren van drinkwater uit Noordzeewater.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले हो, उत्तरी समुद्रको पानीबाट पिउने पानी उत्पादन गर्नमा निश्चित रूपमा हानिहरू छन्।"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -10195,7 +10573,9 @@
   },
   {
     "sentence_text": "Nou, dit was het.",
-    "translations": {},
+    "translations": {
+      "en": "अब, यो सकियो।"
+    },
     "segments": [
       {
         "token": "Nou,",
@@ -10221,7 +10601,9 @@
   },
   {
     "sentence_text": "Bedankt voor jullie vragen.",
-    "translations": {},
+    "translations": {
+      "en": "तपाईंको प्रश्नहरूको लागि धन्यवाद।"
+    },
     "segments": [
       {
         "token": "Bedankt",
@@ -10247,7 +10629,9 @@
   },
   {
     "sentence_text": "Mocht je nou toch nog een andere vraag hebben,",
-    "translations": {},
+    "translations": {
+      "en": "यदि तपाईंसँग अर्को प्रश्न छ भने,"
+    },
     "segments": [
       {
         "token": "Mocht",
@@ -10298,7 +10682,9 @@
   },
   {
     "sentence_text": "laat hem vooral achter in de comments.",
-    "translations": {},
+    "translations": {
+      "en": "यसलाई टिप्पणीहरूमा छोड्नुहोस्।"
+    },
     "segments": [
       {
         "token": "laat",
@@ -10339,7 +10725,9 @@
   },
   {
     "sentence_text": "Wie weet beantwoord ik hem nog.",
-    "translations": {},
+    "translations": {
+      "en": "हुनसक्छ म यसको जवाफ दिनेछु।"
+    },
     "segments": [
       {
         "token": "Wie",
@@ -10375,7 +10763,9 @@
   },
   {
     "sentence_text": "Tot de volgende.",
-    "translations": {},
+    "translations": {
+      "en": "अर्को पटक भेटौंला।"
+    },
     "segments": [
       {
         "token": "Tot",
@@ -10396,7 +10786,9 @@
   },
   {
     "sentence_text": "Oké, dat was een grote watertest.",
-    "translations": {},
+    "translations": {
+      "en": "ठीक छ, त्यो ठूलो पानी परीक्षण थियो।"
+    },
     "segments": [
       {
         "token": "Oké,",
@@ -10432,7 +10824,9 @@
   },
   {
     "sentence_text": "Kun jij de spa, het drinkwater en de barleduc uit elkaar halen?",
-    "translations": {},
+    "translations": {
+      "en": "के तपाईं स्पा, पिउने पानी र बार्लेडक छुट्याउन सक्नुहुन्छ?"
+    },
     "segments": [
       {
         "token": "Kun",
@@ -10498,7 +10892,9 @@
   },
   {
     "sentence_text": "Nee, ik kan het niet.",
-    "translations": {},
+    "translations": {
+      "en": "होइन, म सक्दिन।"
+    },
     "segments": [
       {
         "token": "Nee,",
@@ -10529,7 +10925,9 @@
   },
   {
     "sentence_text": "Kraamwater, barleduc en spa.",
-    "translations": {},
+    "translations": {
+      "en": "क्रामवाटर, बार्लेडक र स्पा।"
+    },
     "segments": [
       {
         "token": "Kraamwater,",
@@ -10555,7 +10953,9 @@
   },
   {
     "sentence_text": "Ja, dat is goed.",
-    "translations": {},
+    "translations": {
+      "en": "हो, त्यो ठीक छ।"
+    },
     "segments": [
       {
         "token": "Ja,",
@@ -10581,7 +10981,9 @@
   },
   {
     "sentence_text": "Ja!",
-    "translations": {},
+    "translations": {
+      "en": "हो!"
+    },
     "segments": [
       {
         "token": "Ja!",
@@ -10592,7 +10994,9 @@
   },
   {
     "sentence_text": "Serieus?",
-    "translations": {},
+    "translations": {
+      "en": "साँच्चै?"
+    },
     "segments": [
       {
         "token": "Serieus?",
@@ -10603,7 +11007,9 @@
   },
   {
     "sentence_text": "Serieus?",
-    "translations": {},
+    "translations": {
+      "en": "साँच्चै?"
+    },
     "segments": [
       {
         "token": "Serieus?",
@@ -10614,7 +11020,9 @@
   },
   {
     "sentence_text": "Serieus?",
-    "translations": {},
+    "translations": {
+      "en": "साँच्चै?"
+    },
     "segments": [
       {
         "token": "Serieus?",
@@ -10625,7 +11033,9 @@
   },
   {
     "sentence_text": "Nice!",
-    "translations": {},
+    "translations": {
+      "en": "राम्रो!"
+    },
     "segments": [
       {
         "token": "Nice!",
