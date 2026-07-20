@@ -1,7 +1,9 @@
 [
   {
     "sentence_text": "Dinsdagmorgen treffen de medewerkers van Velodome de fietsenwinkel zo aan.",
-    "translations": {},
+    "translations": {
+      "en": "मंगलबार बिहान भेलोडोमका कर्मचारीहरूले साइकल पसल यसरी भेट्टाउँछन्।"
+    },
     "segments": [
       {
         "token": "Dinsdagmorgen",
@@ -57,7 +59,9 @@
   },
   {
     "sentence_text": "Er zit een gat in het dak en de fietsen die eronder stonden zijn weg.",
-    "translations": {},
+    "translations": {
+      "en": "छतमा एउटा प्वाल छ र त्यस मुनि रहेका साइकलहरू हराएका छन्।"
+    },
     "segments": [
       {
         "token": "Er",
@@ -138,7 +142,9 @@
   },
   {
     "sentence_text": "Ja, hoe of langs waar?",
-    "translations": {},
+    "translations": {
+      "en": "हो, कसरी वा कहाँबाट?"
+    },
     "segments": [
       {
         "token": "Ja,",
@@ -169,7 +175,9 @@
   },
   {
     "sentence_text": "Het is sowieso langs dak gebeurd.",
-    "translations": {},
+    "translations": {
+      "en": "यो जे भए पनि छतबाट भएको हो।"
+    },
     "segments": [
       {
         "token": "Het",
@@ -205,7 +213,9 @@
   },
   {
     "sentence_text": "Ze hebben langs de voorkant of langs achter,",
-    "translations": {},
+    "translations": {
+      "en": "तिनीहरू अगाडि वा पछाडिबाट गएका छन्,"
+    },
     "segments": [
       {
         "token": "Ze",
@@ -251,7 +261,9 @@
   },
   {
     "sentence_text": "wat voor ons misschien het meest logische lijkt,",
-    "translations": {},
+    "translations": {
+      "en": "जुन हामीलाई सायद सबैभन्दा तार्किक लाग्छ,"
+    },
     "segments": [
       {
         "token": "wat",
@@ -287,18 +299,20 @@
         "token": "logische",
         "startTime": 18960,
         "endTime": 19440
+      },
+      {
+        "token": "lijkt,",
+        "startTime": 19440,
+        "endTime": 19440
       }
     ]
   },
   {
     "sentence_text": "maar dat dat een plaats is waar ze ongezien",
-    "translations": {},
+    "translations": {
+      "en": "तर त्यो यस्तो ठाउँ हो जहाँ तिनीहरू नदेखी"
+    },
     "segments": [
-      {
-        "token": "lijkt,",
-        "startTime": 19440,
-        "endTime": 19440
-      },
       {
         "token": "maar",
         "startTime": 19440,
@@ -348,7 +362,9 @@
   },
   {
     "sentence_text": "te werk kunnen gaan of zouden kunnen gaan.",
-    "translations": {},
+    "translations": {
+      "en": "काम गर्न सक्छन् वा जान सक्छन्।"
+    },
     "segments": [
       {
         "token": "te",
@@ -394,7 +410,9 @@
   },
   {
     "sentence_text": "Aan de kant van de schouw is ook een metaalschaar",
-    "translations": {},
+    "translations": {
+      "en": "चिम्नीको छेउमा प्रहरीको प्रयोगशालाले एउटा धातुको कैंची"
+    },
     "segments": [
       {
         "token": "Aan",
@@ -450,7 +468,9 @@
   },
   {
     "sentence_text": "gevonden door het labo van de politie.",
-    "translations": {},
+    "translations": {
+      "en": "पनि फेला पारेको छ।"
+    },
     "segments": [
       {
         "token": "gevonden",
@@ -491,7 +511,9 @@
   },
   {
     "sentence_text": "Dus wij vermoeden dat het langs daar gaat gebeurd zijn en dat ze via",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले हामी शंका गर्छौं कि यो त्यहीँबाट भएको हो र तिनीहरूले"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -567,7 +589,9 @@
   },
   {
     "sentence_text": "mijn vislijn of dergelijk de fietsen daarom gehengeld hebben.",
-    "translations": {},
+    "translations": {
+      "en": "मेरो माछा मार्ने धागो वा यस्तै केहीले साइकलहरू तानेका हुन्।"
+    },
     "segments": [
       {
         "token": "mijn",
@@ -618,7 +642,9 @@
   },
   {
     "sentence_text": "Opvallend, het alarm is niet afgegaan",
-    "translations": {},
+    "translations": {
+      "en": "उल्लेखनीय कुरा, अलार्म बजेन"
+    },
     "segments": [
       {
         "token": "Opvallend,",
@@ -654,7 +680,9 @@
   },
   {
     "sentence_text": "en de dieven zijn misschien zelfs niet eens echt binnen geweest.",
-    "translations": {},
+    "translations": {
+      "en": "र चोरहरू सायद भित्र पनि पसेका थिएनन्।"
+    },
     "segments": [
       {
         "token": "en",
@@ -715,7 +743,9 @@
   },
   {
     "sentence_text": "Volgens de medewerkers kwamen ze mogelijk eerder al op verkenning.",
-    "translations": {},
+    "translations": {
+      "en": "कर्मचारीहरूका अनुसार, तिनीहरू पहिले नै जाँच गर्न आएका हुन सक्छन्।"
+    },
     "segments": [
       {
         "token": "Volgens",
@@ -771,7 +801,9 @@
   },
   {
     "sentence_text": "Vorige week ging het alarm meerdere keren af.",
-    "translations": {},
+    "translations": {
+      "en": "गत हप्ता अलार्म धेरै पटक बजेको थियो।"
+    },
     "segments": [
       {
         "token": "Vorige",
@@ -817,7 +849,9 @@
   },
   {
     "sentence_text": "In totaal stillen de dieven tien dure fietsen.",
-    "translations": {},
+    "translations": {
+      "en": "कुलमा, चोरहरूले दस महँगा साइकलहरू चोरे।"
+    },
     "segments": [
       {
         "token": "In",
@@ -863,7 +897,9 @@
   },
   {
     "sentence_text": "Ze hebben eigenlijk alleen maar koortsfietsen mee.",
-    "translations": {},
+    "translations": {
+      "en": "तिनीहरूले वास्तवमा मात्र रेसिङ साइकलहरू लगे।"
+    },
     "segments": [
       {
         "token": "Ze",
@@ -904,7 +940,9 @@
   },
   {
     "sentence_text": "Van het merk Factor, Scott en Cube.",
-    "translations": {},
+    "translations": {
+      "en": "फ्याक्टर, स्कट र क्यूब ब्रान्डका।"
+    },
     "segments": [
       {
         "token": "Van",
@@ -945,7 +983,9 @@
   },
   {
     "sentence_text": "Het zijn wel high-end fietsen die daar gegroepeerd stonden.",
-    "translations": {},
+    "translations": {
+      "en": "यी उच्च-स्तरीय साइकलहरू हुन् जुन त्यहाँ समूहबद्ध रूपमा राखिएका थिए।"
+    },
     "segments": [
       {
         "token": "Het",
@@ -996,7 +1036,9 @@
   },
   {
     "sentence_text": "En over welke prijzen spreken we dan zo?",
-    "translations": {},
+    "translations": {
+      "en": "अनि हामी कुन मूल्यहरूको बारेमा कुरा गर्दैछौं?"
+    },
     "segments": [
       {
         "token": "En",
@@ -1032,18 +1074,20 @@
         "token": "dan",
         "startTime": 72380,
         "endTime": 72500
+      },
+      {
+        "token": "zo?",
+        "startTime": 72500,
+        "endTime": 72500
       }
     ]
   },
   {
     "sentence_text": "Het is wat opgeleid geweest.",
-    "translations": {},
+    "translations": {
+      "en": "यो केही प्रशिक्षित भएको छ।"
+    },
     "segments": [
-      {
-        "token": "zo?",
-        "startTime": 72500,
-        "endTime": 72500
-      },
       {
         "token": "Het",
         "startTime": 72500,
@@ -1073,7 +1117,9 @@
   },
   {
     "sentence_text": "Een totaalprijs zou toch rond de 65.000 euro verkoopswaarde zitten.",
-    "translations": {},
+    "translations": {
+      "en": "कुल मूल्य लगभग ६५,००० युरो बिक्री मूल्य हुनेछ।"
+    },
     "segments": [
       {
         "token": "Een",
@@ -1129,7 +1175,9 @@
   },
   {
     "sentence_text": "En dan zijn er ook nog de kosten voor de schade",
-    "translations": {},
+    "translations": {
+      "en": "अनि त्यहाँ क्षतिको लागि पनि लागतहरू छन्"
+    },
     "segments": [
       {
         "token": "En",
@@ -1190,7 +1238,9 @@
   },
   {
     "sentence_text": "aan het dak en schade aan de andere fietsen.",
-    "translations": {},
+    "translations": {
+      "en": "छानामा र अन्य साइकलहरूमा भएको क्षति।"
+    },
     "segments": [
       {
         "token": "aan",
@@ -1241,7 +1291,9 @@
   },
   {
     "sentence_text": "Bij de vestiging in Aarschot werden vier jaar geleden ook al eens 12 fietsen",
-    "translations": {},
+    "translations": {
+      "en": "आर्स्कोटको शाखामा चार वर्ष पहिले पनि १२ वटा साइकलहरू"
+    },
     "segments": [
       {
         "token": "Bij",
@@ -1317,7 +1369,9 @@
   },
   {
     "sentence_text": "gestolen via een gat in de muur.",
-    "translations": {},
+    "translations": {
+      "en": "पर्खालको प्वालबाट चोरी भएका थिए।"
+    },
     "segments": [
       {
         "token": "gestolen",
@@ -1358,7 +1412,9 @@
   },
   {
     "sentence_text": "De politie is een onderzoek gestart.",
-    "translations": {},
+    "translations": {
+      "en": "प्रहरीले अनुसन्धान सुरु गरेको छ।"
+    },
     "segments": [
       {
         "token": "De",
