@@ -1,0 +1,2000 @@
+[
+  {
+    "sentence_text": "We nemen er even een voorbeeld bij.",
+    "translations": {
+      "en": "हामी एउटा उदाहरण लिन्छौं।"
+    },
+    "segments": [
+      {
+        "token": "We",
+        "startTime": 40,
+        "endTime": 220
+      },
+      {
+        "token": "nemen",
+        "startTime": 220,
+        "endTime": 340
+      },
+      {
+        "token": "er",
+        "startTime": 340,
+        "endTime": 520
+      },
+      {
+        "token": "even",
+        "startTime": 520,
+        "endTime": 760
+      },
+      {
+        "token": "een",
+        "startTime": 760,
+        "endTime": 1060
+      },
+      {
+        "token": "voorbeeld",
+        "startTime": 1060,
+        "endTime": 1840
+      },
+      {
+        "token": "bij.",
+        "startTime": 1840,
+        "endTime": 2160
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je gaat op skivakantie naar Val Torrance in de Franse Alpen.",
+    "translations": {
+      "en": "तपाईं फ्रान्सेली आल्प्सको भ्याल टोरेन्समा स्की बिदामा जाँदै हुनुहुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "Je",
+        "startTime": 2160,
+        "endTime": 2340
+      },
+      {
+        "token": "gaat",
+        "startTime": 2340,
+        "endTime": 2520
+      },
+      {
+        "token": "op",
+        "startTime": 2520,
+        "endTime": 2760
+      },
+      {
+        "token": "skivakantie",
+        "startTime": 2760,
+        "endTime": 3600
+      },
+      {
+        "token": "naar",
+        "startTime": 3600,
+        "endTime": 3800
+      },
+      {
+        "token": "Val",
+        "startTime": 3800,
+        "endTime": 4460
+      },
+      {
+        "token": "Torrance",
+        "startTime": 4460,
+        "endTime": 4820
+      },
+      {
+        "token": "in",
+        "startTime": 4820,
+        "endTime": 5000
+      },
+      {
+        "token": "de",
+        "startTime": 5000,
+        "endTime": 5100
+      },
+      {
+        "token": "Franse",
+        "startTime": 5100,
+        "endTime": 5580
+      },
+      {
+        "token": "Alpen.",
+        "startTime": 5580,
+        "endTime": 6260
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vanuit onze studio in Antwerpen is dat ongeveer 976 kilometer.",
+    "translations": {
+      "en": "एन्टवर्पको हाम्रो स्टुडियोबाट त्यो लगभग ९७६ किलोमिटर हो।"
+    },
+    "segments": [
+      {
+        "token": "Vanuit",
+        "startTime": 6260,
+        "endTime": 6520
+      },
+      {
+        "token": "onze",
+        "startTime": 6520,
+        "endTime": 6700
+      },
+      {
+        "token": "studio",
+        "startTime": 6700,
+        "endTime": 6900
+      },
+      {
+        "token": "in",
+        "startTime": 6900,
+        "endTime": 7020
+      },
+      {
+        "token": "Antwerpen",
+        "startTime": 7020,
+        "endTime": 7380
+      },
+      {
+        "token": "is",
+        "startTime": 7380,
+        "endTime": 7700
+      },
+      {
+        "token": "dat",
+        "startTime": 7700,
+        "endTime": 7840
+      },
+      {
+        "token": "ongeveer",
+        "startTime": 7840,
+        "endTime": 8260
+      },
+      {
+        "token": "976",
+        "startTime": 8260,
+        "endTime": 9920
+      },
+      {
+        "token": "kilometer.",
+        "startTime": 9920,
+        "endTime": 11200
+      }
+    ]
+  },
+  {
+    "sentence_text": "Bij een gemiddeld verbruik betaal je ongeveer 111 euro aan benzine en 136",
+    "translations": {
+      "en": "सामान्य खपतमा, तपाईंले पेट्रोलको लागि लगभग १११ युरो र डिजेलको लागि १३६"
+    },
+    "segments": [
+      {
+        "token": "Bij",
+        "startTime": 11200,
+        "endTime": 11380
+      },
+      {
+        "token": "een",
+        "startTime": 11380,
+        "endTime": 11540
+      },
+      {
+        "token": "gemiddeld",
+        "startTime": 11540,
+        "endTime": 11700
+      },
+      {
+        "token": "verbruik",
+        "startTime": 11700,
+        "endTime": 12140
+      },
+      {
+        "token": "betaal",
+        "startTime": 12140,
+        "endTime": 12500
+      },
+      {
+        "token": "je",
+        "startTime": 12500,
+        "endTime": 12620
+      },
+      {
+        "token": "ongeveer",
+        "startTime": 12620,
+        "endTime": 12920
+      },
+      {
+        "token": "111",
+        "startTime": 12920,
+        "endTime": 13960
+      },
+      {
+        "token": "euro",
+        "startTime": 13960,
+        "endTime": 14240
+      },
+      {
+        "token": "aan",
+        "startTime": 14240,
+        "endTime": 14540
+      },
+      {
+        "token": "benzine",
+        "startTime": 14540,
+        "endTime": 14640
+      },
+      {
+        "token": "en",
+        "startTime": 14640,
+        "endTime": 15780
+      },
+      {
+        "token": "136",
+        "startTime": 15780,
+        "endTime": 17220
+      }
+    ]
+  },
+  {
+    "sentence_text": "euro aan diesel.",
+    "translations": {
+      "en": "युरो तिर्नुहुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "euro",
+        "startTime": 17220,
+        "endTime": 17560
+      },
+      {
+        "token": "aan",
+        "startTime": 17560,
+        "endTime": 17960
+      },
+      {
+        "token": "diesel.",
+        "startTime": 17960,
+        "endTime": 19120
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar als je nu met kerst gaan skiën,",
+    "translations": {
+      "en": "तर यदि तपाईं क्रिसमसमा स्की गर्न जानुहुन्छ भने,"
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 19120,
+        "endTime": 19200
+      },
+      {
+        "token": "als",
+        "startTime": 19200,
+        "endTime": 19480
+      },
+      {
+        "token": "je",
+        "startTime": 19480,
+        "endTime": 19700
+      },
+      {
+        "token": "nu",
+        "startTime": 19700,
+        "endTime": 19860
+      },
+      {
+        "token": "met",
+        "startTime": 19860,
+        "endTime": 20580
+      },
+      {
+        "token": "kerst",
+        "startTime": 20580,
+        "endTime": 20980
+      },
+      {
+        "token": "gaan",
+        "startTime": 20980,
+        "endTime": 21140
+      },
+      {
+        "token": "skiën,",
+        "startTime": 21140,
+        "endTime": 21960
+      }
+    ]
+  },
+  {
+    "sentence_text": "dan had je 18 euro minder aan benzine betaald en 38 euro minder aan diesel.",
+    "translations": {
+      "en": "तपाईंले पेट्रोलमा १८ युरो र डिजेलमा ३८ युरो कम तिर्नुहुन्थ्यो।"
+    },
+    "segments": [
+      {
+        "token": "dan",
+        "startTime": 21960,
+        "endTime": 22140
+      },
+      {
+        "token": "had",
+        "startTime": 22140,
+        "endTime": 22340
+      },
+      {
+        "token": "je",
+        "startTime": 22340,
+        "endTime": 22480
+      },
+      {
+        "token": "18",
+        "startTime": 22480,
+        "endTime": 23020
+      },
+      {
+        "token": "euro",
+        "startTime": 23020,
+        "endTime": 23500
+      },
+      {
+        "token": "minder",
+        "startTime": 23500,
+        "endTime": 23880
+      },
+      {
+        "token": "aan",
+        "startTime": 23880,
+        "endTime": 24220
+      },
+      {
+        "token": "benzine",
+        "startTime": 24220,
+        "endTime": 24640
+      },
+      {
+        "token": "betaald",
+        "startTime": 24640,
+        "endTime": 24640
+      },
+      {
+        "token": "en",
+        "startTime": 24640,
+        "endTime": 25340
+      },
+      {
+        "token": "38",
+        "startTime": 25340,
+        "endTime": 26340
+      },
+      {
+        "token": "euro",
+        "startTime": 26340,
+        "endTime": 27040
+      },
+      {
+        "token": "minder",
+        "startTime": 27040,
+        "endTime": 27600
+      },
+      {
+        "token": "aan",
+        "startTime": 27600,
+        "endTime": 28120
+      },
+      {
+        "token": "diesel.",
+        "startTime": 28120,
+        "endTime": 29480
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je kan ook gewoon vertrekken en ergens onderweg in onze buurlanden tanken.",
+    "translations": {
+      "en": "तपाईं सिधै हिँड्न सक्नुहुन्छ र बाटोमा हाम्रा छिमेकी देशहरूमा इन्धन भर्न सक्नुहुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "Je",
+        "startTime": 29480,
+        "endTime": 29580
+      },
+      {
+        "token": "kan",
+        "startTime": 29580,
+        "endTime": 29700
+      },
+      {
+        "token": "ook",
+        "startTime": 29700,
+        "endTime": 29880
+      },
+      {
+        "token": "gewoon",
+        "startTime": 29880,
+        "endTime": 30300
+      },
+      {
+        "token": "vertrekken",
+        "startTime": 30300,
+        "endTime": 31060
+      },
+      {
+        "token": "en",
+        "startTime": 31060,
+        "endTime": 31240
+      },
+      {
+        "token": "ergens",
+        "startTime": 31240,
+        "endTime": 31560
+      },
+      {
+        "token": "onderweg",
+        "startTime": 31560,
+        "endTime": 32140
+      },
+      {
+        "token": "in",
+        "startTime": 32140,
+        "endTime": 32340
+      },
+      {
+        "token": "onze",
+        "startTime": 32340,
+        "endTime": 32540
+      },
+      {
+        "token": "buurlanden",
+        "startTime": 32540,
+        "endTime": 33340
+      },
+      {
+        "token": "tanken.",
+        "startTime": 33340,
+        "endTime": 33720
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar is dat wel verstandig?",
+    "translations": {
+      "en": "तर के त्यो बुद्धिमानी हो?"
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 33720,
+        "endTime": 34100
+      },
+      {
+        "token": "is",
+        "startTime": 34100,
+        "endTime": 34400
+      },
+      {
+        "token": "dat",
+        "startTime": 34400,
+        "endTime": 34720
+      },
+      {
+        "token": "wel",
+        "startTime": 34720,
+        "endTime": 34980
+      },
+      {
+        "token": "verstandig?",
+        "startTime": 34980,
+        "endTime": 36280
+      }
+    ]
+  },
+  {
+    "sentence_text": "Even kijken naar Luxemburg.",
+    "translations": {
+      "en": "लक्जमबर्ग हेरौं।"
+    },
+    "segments": [
+      {
+        "token": "Even",
+        "startTime": 36280,
+        "endTime": 36540
+      },
+      {
+        "token": "kijken",
+        "startTime": 36540,
+        "endTime": 36900
+      },
+      {
+        "token": "naar",
+        "startTime": 36900,
+        "endTime": 37240
+      },
+      {
+        "token": "Luxemburg.",
+        "startTime": 37240,
+        "endTime": 37700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Daar tank je altijd wat goedkoper dan in België. 14 cent per liter voor benzine,",
+    "translations": {
+      "en": "त्यहाँ तपाईंले बेल्जियम भन्दा सधैं सस्तो इन्धन भर्नुहुन्छ। पेट्रोलको लागि प्रति लिटर १४ सेन्ट,"
+    },
+    "segments": [
+      {
+        "token": "Daar",
+        "startTime": 37700,
+        "endTime": 38640
+      },
+      {
+        "token": "tank",
+        "startTime": 38640,
+        "endTime": 38980
+      },
+      {
+        "token": "je",
+        "startTime": 38980,
+        "endTime": 39120
+      },
+      {
+        "token": "altijd",
+        "startTime": 39120,
+        "endTime": 39520
+      },
+      {
+        "token": "wat",
+        "startTime": 39520,
+        "endTime": 39800
+      },
+      {
+        "token": "goedkoper",
+        "startTime": 39800,
+        "endTime": 40300
+      },
+      {
+        "token": "dan",
+        "startTime": 40300,
+        "endTime": 40440
+      },
+      {
+        "token": "in",
+        "startTime": 40440,
+        "endTime": 40560
+      },
+      {
+        "token": "België.",
+        "startTime": 40560,
+        "endTime": 40560
+      },
+      {
+        "token": "14",
+        "startTime": 40560,
+        "endTime": 41700
+      },
+      {
+        "token": "cent",
+        "startTime": 41700,
+        "endTime": 41980
+      },
+      {
+        "token": "per",
+        "startTime": 41980,
+        "endTime": 42180
+      },
+      {
+        "token": "liter",
+        "startTime": 42180,
+        "endTime": 42340
+      },
+      {
+        "token": "voor",
+        "startTime": 42340,
+        "endTime": 42540
+      },
+      {
+        "token": "benzine,",
+        "startTime": 42540,
+        "endTime": 43160
+      }
+    ]
+  },
+  {
+    "sentence_text": "13 cent voor een liter diesel.",
+    "translations": {
+      "en": "डिजेलको लागि प्रति लिटर १३ सेन्ट।"
+    },
+    "segments": [
+      {
+        "token": "13",
+        "startTime": 43160,
+        "endTime": 44520
+      },
+      {
+        "token": "cent",
+        "startTime": 44520,
+        "endTime": 45360
+      },
+      {
+        "token": "voor",
+        "startTime": 45360,
+        "endTime": 46400
+      },
+      {
+        "token": "een",
+        "startTime": 46400,
+        "endTime": 47260
+      },
+      {
+        "token": "liter",
+        "startTime": 47260,
+        "endTime": 47520
+      },
+      {
+        "token": "diesel.",
+        "startTime": 47520,
+        "endTime": 48240
+      }
+    ]
+  },
+  {
+    "sentence_text": "Op een tank van 50 liter benzine loont het als je minder dan 115",
+    "translations": {
+      "en": "५० लिटर पेट्रोलको ट्याङ्कीमा, यदि तपाईंले लक्जमबर्ग हुँदै ११५"
+    },
+    "segments": [
+      {
+        "token": "Op",
+        "startTime": 48240,
+        "endTime": 48380
+      },
+      {
+        "token": "een",
+        "startTime": 48380,
+        "endTime": 48500
+      },
+      {
+        "token": "tank",
+        "startTime": 48500,
+        "endTime": 48820
+      },
+      {
+        "token": "van",
+        "startTime": 48820,
+        "endTime": 49020
+      },
+      {
+        "token": "50",
+        "startTime": 49020,
+        "endTime": 49680
+      },
+      {
+        "token": "liter",
+        "startTime": 49680,
+        "endTime": 50080
+      },
+      {
+        "token": "benzine",
+        "startTime": 50080,
+        "endTime": 50600
+      },
+      {
+        "token": "loont",
+        "startTime": 50600,
+        "endTime": 51180
+      },
+      {
+        "token": "het",
+        "startTime": 51180,
+        "endTime": 51180
+      },
+      {
+        "token": "als",
+        "startTime": 51180,
+        "endTime": 51880
+      },
+      {
+        "token": "je",
+        "startTime": 51880,
+        "endTime": 52060
+      },
+      {
+        "token": "minder",
+        "startTime": 52060,
+        "endTime": 52520
+      },
+      {
+        "token": "dan",
+        "startTime": 52520,
+        "endTime": 52780
+      },
+      {
+        "token": "115",
+        "startTime": 52780,
+        "endTime": 53640
+      }
+    ]
+  },
+  {
+    "sentence_text": "kilometer moet omrijden via Luxemburg.",
+    "translations": {
+      "en": "किलोमिटर भन्दा कम घुम्नु पर्छ भने यो लाभदायक हुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "kilometer",
+        "startTime": 53640,
+        "endTime": 54220
+      },
+      {
+        "token": "moet",
+        "startTime": 54220,
+        "endTime": 54540
+      },
+      {
+        "token": "omrijden",
+        "startTime": 54540,
+        "endTime": 55260
+      },
+      {
+        "token": "via",
+        "startTime": 55260,
+        "endTime": 55600
+      },
+      {
+        "token": "Luxemburg.",
+        "startTime": 55600,
+        "endTime": 56760
+      }
+    ]
+  },
+  {
+    "sentence_text": "Voor diesel kan je zelfs tot 250 kilometer extra omrijden.",
+    "translations": {
+      "en": "डिजेलको लागि, तपाईं २५० किलोमिटर सम्म पनि घुम्न सक्नुहुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "Voor",
+        "startTime": 56760,
+        "endTime": 56920
+      },
+      {
+        "token": "diesel",
+        "startTime": 56920,
+        "endTime": 57280
+      },
+      {
+        "token": "kan",
+        "startTime": 57280,
+        "endTime": 57580
+      },
+      {
+        "token": "je",
+        "startTime": 57580,
+        "endTime": 57680
+      },
+      {
+        "token": "zelfs",
+        "startTime": 57680,
+        "endTime": 58120
+      },
+      {
+        "token": "tot",
+        "startTime": 58120,
+        "endTime": 58260
+      },
+      {
+        "token": "250",
+        "startTime": 58260,
+        "endTime": 59120
+      },
+      {
+        "token": "kilometer",
+        "startTime": 59120,
+        "endTime": 59740
+      },
+      {
+        "token": "extra",
+        "startTime": 59740,
+        "endTime": 60540
+      },
+      {
+        "token": "omrijden.",
+        "startTime": 60540,
+        "endTime": 61920
+      }
+    ]
+  },
+  {
+    "sentence_text": "Is tanken in Frankrijk dan een goed idee?",
+    "translations": {
+      "en": "के फ्रान्समा इन्धन भर्नु राम्रो विचार हो?"
+    },
+    "segments": [
+      {
+        "token": "Is",
+        "startTime": 61920,
+        "endTime": 62120
+      },
+      {
+        "token": "tanken",
+        "startTime": 62120,
+        "endTime": 62420
+      },
+      {
+        "token": "in",
+        "startTime": 62420,
+        "endTime": 62580
+      },
+      {
+        "token": "Frankrijk",
+        "startTime": 62580,
+        "endTime": 63380
+      },
+      {
+        "token": "dan",
+        "startTime": 63380,
+        "endTime": 63560
+      },
+      {
+        "token": "een",
+        "startTime": 63560,
+        "endTime": 63880
+      },
+      {
+        "token": "goed",
+        "startTime": 63880,
+        "endTime": 64220
+      },
+      {
+        "token": "idee?",
+        "startTime": 64220,
+        "endTime": 64660
+      }
+    ]
+  },
+  {
+    "sentence_text": "Wel, voor benzine niet direct.",
+    "translations": {
+      "en": "पेट्रोलको लागि तुरुन्तै होइन।"
+    },
+    "segments": [
+      {
+        "token": "Wel,",
+        "startTime": 64660,
+        "endTime": 64959
+      },
+      {
+        "token": "voor",
+        "startTime": 64959,
+        "endTime": 65099
+      },
+      {
+        "token": "benzine",
+        "startTime": 65099,
+        "endTime": 65660
+      },
+      {
+        "token": "niet",
+        "startTime": 65660,
+        "endTime": 66180
+      },
+      {
+        "token": "direct.",
+        "startTime": 66180,
+        "endTime": 67180
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar diesel is wel gemiddeld goedkoper dan in ons land.",
+    "translations": {
+      "en": "तर डिजेल हाम्रो देश भन्दा औसतमा सस्तो छ।"
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 67180,
+        "endTime": 67420
+      },
+      {
+        "token": "diesel",
+        "startTime": 67420,
+        "endTime": 67920
+      },
+      {
+        "token": "is",
+        "startTime": 67920,
+        "endTime": 68300
+      },
+      {
+        "token": "wel",
+        "startTime": 68300,
+        "endTime": 68620
+      },
+      {
+        "token": "gemiddeld",
+        "startTime": 68620,
+        "endTime": 69260
+      },
+      {
+        "token": "goedkoper",
+        "startTime": 69260,
+        "endTime": 69860
+      },
+      {
+        "token": "dan",
+        "startTime": 69860,
+        "endTime": 70060
+      },
+      {
+        "token": "in",
+        "startTime": 70060,
+        "endTime": 70220
+      },
+      {
+        "token": "ons",
+        "startTime": 70220,
+        "endTime": 70540
+      },
+      {
+        "token": "land.",
+        "startTime": 70540,
+        "endTime": 71100
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar nog interessanter.",
+    "translations": {
+      "en": "तर अझ रोचक।"
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 71100,
+        "endTime": 71340
+      },
+      {
+        "token": "nog",
+        "startTime": 71340,
+        "endTime": 71840
+      },
+      {
+        "token": "interessanter.",
+        "startTime": 71840,
+        "endTime": 73200
+      }
+    ]
+  },
+  {
+    "sentence_text": "Total Energies heeft zijn dieselprijzen afgetopt tot en met 7 april.",
+    "translations": {
+      "en": "टोटल एनर्जीजले ७ अप्रिल सम्म आफ्नो डिजेल मूल्य सीमित गरेको छ।"
+    },
+    "segments": [
+      {
+        "token": "Total",
+        "startTime": 73200,
+        "endTime": 73540
+      },
+      {
+        "token": "Energies",
+        "startTime": 73540,
+        "endTime": 74120
+      },
+      {
+        "token": "heeft",
+        "startTime": 74120,
+        "endTime": 74380
+      },
+      {
+        "token": "zijn",
+        "startTime": 74380,
+        "endTime": 74680
+      },
+      {
+        "token": "dieselprijzen",
+        "startTime": 74680,
+        "endTime": 75580
+      },
+      {
+        "token": "afgetopt",
+        "startTime": 75580,
+        "endTime": 76240
+      },
+      {
+        "token": "tot",
+        "startTime": 76240,
+        "endTime": 76500
+      },
+      {
+        "token": "en",
+        "startTime": 76500,
+        "endTime": 76620
+      },
+      {
+        "token": "met",
+        "startTime": 76620,
+        "endTime": 76760
+      },
+      {
+        "token": "7",
+        "startTime": 76760,
+        "endTime": 77200
+      },
+      {
+        "token": "april.",
+        "startTime": 77200,
+        "endTime": 77980
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je betaalt er nu voor 1 liter diesel 2,09 euro.",
+    "translations": {
+      "en": "अब तपाईं १ लिटर डिजेलको लागि २.०९ युरो तिर्दै हुनुहुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "Je",
+        "startTime": 77980,
+        "endTime": 78140
+      },
+      {
+        "token": "betaalt",
+        "startTime": 78140,
+        "endTime": 78460
+      },
+      {
+        "token": "er",
+        "startTime": 78460,
+        "endTime": 78640
+      },
+      {
+        "token": "nu",
+        "startTime": 78640,
+        "endTime": 78720
+      },
+      {
+        "token": "voor",
+        "startTime": 78720,
+        "endTime": 78900
+      },
+      {
+        "token": "1",
+        "startTime": 78900,
+        "endTime": 79220
+      },
+      {
+        "token": "liter",
+        "startTime": 79220,
+        "endTime": 79420
+      },
+      {
+        "token": "diesel",
+        "startTime": 79420,
+        "endTime": 79760
+      },
+      {
+        "token": "2,09",
+        "startTime": 79760,
+        "endTime": 81240
+      },
+      {
+        "token": "euro.",
+        "startTime": 81240,
+        "endTime": 83000
+      }
+    ]
+  },
+  {
+    "sentence_text": "Allemaal zeer interessant, maar het heeft ook gezorgd voor een rush op diesel.",
+    "translations": {
+      "en": "यी सबै धेरै रोचक छन्, तर यसले डिजेलमा भीड पनि निम्त्याएको छ।"
+    },
+    "segments": [
+      {
+        "token": "Allemaal",
+        "startTime": 83000,
+        "endTime": 83380
+      },
+      {
+        "token": "zeer",
+        "startTime": 83380,
+        "endTime": 83980
+      },
+      {
+        "token": "interessant,",
+        "startTime": 83980,
+        "endTime": 84980
+      },
+      {
+        "token": "maar",
+        "startTime": 84980,
+        "endTime": 85100
+      },
+      {
+        "token": "het",
+        "startTime": 85100,
+        "endTime": 85360
+      },
+      {
+        "token": "heeft",
+        "startTime": 85360,
+        "endTime": 85380
+      },
+      {
+        "token": "ook",
+        "startTime": 85380,
+        "endTime": 85620
+      },
+      {
+        "token": "gezorgd",
+        "startTime": 85620,
+        "endTime": 86240
+      },
+      {
+        "token": "voor",
+        "startTime": 86240,
+        "endTime": 86380
+      },
+      {
+        "token": "een",
+        "startTime": 86380,
+        "endTime": 86640
+      },
+      {
+        "token": "rush",
+        "startTime": 86640,
+        "endTime": 87060
+      },
+      {
+        "token": "op",
+        "startTime": 87060,
+        "endTime": 87380
+      },
+      {
+        "token": "diesel.",
+        "startTime": 87380,
+        "endTime": 87520
+      }
+    ]
+  },
+  {
+    "sentence_text": "En dat zorgt dan weer voor bevoorradingsproblemen.",
+    "translations": {
+      "en": "र त्यसले फेरि आपूर्ति समस्याहरू निम्त्याउँछ।"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 87520,
+        "endTime": 88560
+      },
+      {
+        "token": "dat",
+        "startTime": 88560,
+        "endTime": 88660
+      },
+      {
+        "token": "zorgt",
+        "startTime": 88660,
+        "endTime": 89560
+      },
+      {
+        "token": "dan",
+        "startTime": 89560,
+        "endTime": 89680
+      },
+      {
+        "token": "weer",
+        "startTime": 89680,
+        "endTime": 89840
+      },
+      {
+        "token": "voor",
+        "startTime": 89840,
+        "endTime": 90000
+      },
+      {
+        "token": "bevoorradingsproblemen.",
+        "startTime": 90000,
+        "endTime": 91900
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hou er rekening mee dat er in de 900 tankstations in Frankrijk,",
+    "translations": {
+      "en": "ध्यान राख्नुहोस् कि फ्रान्सका ९०० पेट्रोल पम्पहरूमध्ये,"
+    },
+    "segments": [
+      {
+        "token": "Hou",
+        "startTime": 91900,
+        "endTime": 92060
+      },
+      {
+        "token": "er",
+        "startTime": 92060,
+        "endTime": 92260
+      },
+      {
+        "token": "rekening",
+        "startTime": 92260,
+        "endTime": 92660
+      },
+      {
+        "token": "mee",
+        "startTime": 92660,
+        "endTime": 92820
+      },
+      {
+        "token": "dat",
+        "startTime": 92820,
+        "endTime": 93120
+      },
+      {
+        "token": "er",
+        "startTime": 93120,
+        "endTime": 93340
+      },
+      {
+        "token": "in",
+        "startTime": 93340,
+        "endTime": 93640
+      },
+      {
+        "token": "de",
+        "startTime": 93640,
+        "endTime": 93800
+      },
+      {
+        "token": "900",
+        "startTime": 93800,
+        "endTime": 94420
+      },
+      {
+        "token": "tankstations",
+        "startTime": 94420,
+        "endTime": 95120
+      },
+      {
+        "token": "in",
+        "startTime": 95120,
+        "endTime": 95420
+      },
+      {
+        "token": "Frankrijk,",
+        "startTime": 95420,
+        "endTime": 96020
+      }
+    ]
+  },
+  {
+    "sentence_text": "dat bijna 10 procent geen diesel meer te verkrijgen is.",
+    "translations": {
+      "en": "लगभग १० प्रतिशतमा डिजेल उपलब्ध छैन।"
+    },
+    "segments": [
+      {
+        "token": "dat",
+        "startTime": 96020,
+        "endTime": 96160
+      },
+      {
+        "token": "bijna",
+        "startTime": 96160,
+        "endTime": 96460
+      },
+      {
+        "token": "10",
+        "startTime": 96460,
+        "endTime": 96740
+      },
+      {
+        "token": "procent",
+        "startTime": 96740,
+        "endTime": 97080
+      },
+      {
+        "token": "geen",
+        "startTime": 97080,
+        "endTime": 97880
+      },
+      {
+        "token": "diesel",
+        "startTime": 97880,
+        "endTime": 98480
+      },
+      {
+        "token": "meer",
+        "startTime": 98480,
+        "endTime": 98920
+      },
+      {
+        "token": "te",
+        "startTime": 98920,
+        "endTime": 99160
+      },
+      {
+        "token": "verkrijgen",
+        "startTime": 99160,
+        "endTime": 99780
+      },
+      {
+        "token": "is.",
+        "startTime": 99780,
+        "endTime": 100420
+      }
+    ]
+  },
+  {
+    "sentence_text": "Tanken in Duitsland is duurder voor zowel diesel als benzine.",
+    "translations": {
+      "en": "जर्मनीमा पेट्रोल र डिजेल दुवैको लागि मूल्य बढी छ।"
+    },
+    "segments": [
+      {
+        "token": "Tanken",
+        "startTime": 100420,
+        "endTime": 100900
+      },
+      {
+        "token": "in",
+        "startTime": 100900,
+        "endTime": 101280
+      },
+      {
+        "token": "Duitsland",
+        "startTime": 101280,
+        "endTime": 102080
+      },
+      {
+        "token": "is",
+        "startTime": 102080,
+        "endTime": 102500
+      },
+      {
+        "token": "duurder",
+        "startTime": 102500,
+        "endTime": 103100
+      },
+      {
+        "token": "voor",
+        "startTime": 103100,
+        "endTime": 103380
+      },
+      {
+        "token": "zowel",
+        "startTime": 103380,
+        "endTime": 103760
+      },
+      {
+        "token": "diesel",
+        "startTime": 103760,
+        "endTime": 104400
+      },
+      {
+        "token": "als",
+        "startTime": 104400,
+        "endTime": 105120
+      },
+      {
+        "token": "benzine.",
+        "startTime": 105120,
+        "endTime": 105880
+      }
+    ]
+  },
+  {
+    "sentence_text": "En als je er dan toch moet tanken, doe dat dan vlak voor twaalf uur.",
+    "translations": {
+      "en": "र यदि तपाईंले पेट्रोल हाल्नै पर्छ भने, त्यो बाह्र बजेभन्दा ठीक अघि गर्नुहोस्।"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 105880,
+        "endTime": 106480
+      },
+      {
+        "token": "als",
+        "startTime": 106480,
+        "endTime": 106520
+      },
+      {
+        "token": "je",
+        "startTime": 106520,
+        "endTime": 106600
+      },
+      {
+        "token": "er",
+        "startTime": 106600,
+        "endTime": 106720
+      },
+      {
+        "token": "dan",
+        "startTime": 106720,
+        "endTime": 106840
+      },
+      {
+        "token": "toch",
+        "startTime": 106840,
+        "endTime": 107200
+      },
+      {
+        "token": "moet",
+        "startTime": 107200,
+        "endTime": 107480
+      },
+      {
+        "token": "tanken,",
+        "startTime": 107480,
+        "endTime": 107980
+      },
+      {
+        "token": "doe",
+        "startTime": 107980,
+        "endTime": 108140
+      },
+      {
+        "token": "dat",
+        "startTime": 108140,
+        "endTime": 108380
+      },
+      {
+        "token": "dan",
+        "startTime": 108380,
+        "endTime": 108580
+      },
+      {
+        "token": "vlak",
+        "startTime": 108580,
+        "endTime": 109120
+      },
+      {
+        "token": "voor",
+        "startTime": 109120,
+        "endTime": 109560
+      },
+      {
+        "token": "twaalf",
+        "startTime": 109560,
+        "endTime": 110000
+      },
+      {
+        "token": "uur.",
+        "startTime": 110000,
+        "endTime": 111180
+      }
+    ]
+  },
+  {
+    "sentence_text": "Volgens een nieuwe wet mogen tankstations maar één keer per dag hun prijzen verhogen,",
+    "translations": {
+      "en": "नयाँ कानुन अनुसार, पेट्रोल पम्पहरूले दिनमा एक पटक मात्र आफ्नो मूल्य बढाउन सक्छन्,"
+    },
+    "segments": [
+      {
+        "token": "Volgens",
+        "startTime": 111180,
+        "endTime": 111580
+      },
+      {
+        "token": "een",
+        "startTime": 111580,
+        "endTime": 111720
+      },
+      {
+        "token": "nieuwe",
+        "startTime": 111720,
+        "endTime": 112200
+      },
+      {
+        "token": "wet",
+        "startTime": 112200,
+        "endTime": 112440
+      },
+      {
+        "token": "mogen",
+        "startTime": 112440,
+        "endTime": 112940
+      },
+      {
+        "token": "tankstations",
+        "startTime": 112940,
+        "endTime": 113080
+      },
+      {
+        "token": "maar",
+        "startTime": 113080,
+        "endTime": 113840
+      },
+      {
+        "token": "één",
+        "startTime": 113840,
+        "endTime": 114400
+      },
+      {
+        "token": "keer",
+        "startTime": 114400,
+        "endTime": 114500
+      },
+      {
+        "token": "per",
+        "startTime": 114500,
+        "endTime": 114720
+      },
+      {
+        "token": "dag",
+        "startTime": 114720,
+        "endTime": 114940
+      },
+      {
+        "token": "hun",
+        "startTime": 114940,
+        "endTime": 115380
+      },
+      {
+        "token": "prijzen",
+        "startTime": 115380,
+        "endTime": 115740
+      },
+      {
+        "token": "verhogen,",
+        "startTime": 115740,
+        "endTime": 116360
+      }
+    ]
+  },
+  {
+    "sentence_text": "en dat om twaalf uur.",
+    "translations": {
+      "en": "र त्यो बाह्र बजे।"
+    },
+    "segments": [
+      {
+        "token": "en",
+        "startTime": 116360,
+        "endTime": 116480
+      },
+      {
+        "token": "dat",
+        "startTime": 116480,
+        "endTime": 116620
+      },
+      {
+        "token": "om",
+        "startTime": 116620,
+        "endTime": 116980
+      },
+      {
+        "token": "twaalf",
+        "startTime": 116980,
+        "endTime": 117580
+      },
+      {
+        "token": "uur.",
+        "startTime": 117580,
+        "endTime": 118720
+      }
+    ]
+  },
+  {
+    "sentence_text": "Als je dan terugrijdt van op je skivakantie,",
+    "translations": {
+      "en": "यदि तपाईं आफ्नो स्की बिदाबाट फर्किंदै हुनुहुन्छ भने,"
+    },
+    "segments": [
+      {
+        "token": "Als",
+        "startTime": 118720,
+        "endTime": 119020
+      },
+      {
+        "token": "je",
+        "startTime": 119020,
+        "endTime": 119080
+      },
+      {
+        "token": "dan",
+        "startTime": 119080,
+        "endTime": 119140
+      },
+      {
+        "token": "terugrijdt",
+        "startTime": 119140,
+        "endTime": 119800
+      },
+      {
+        "token": "van",
+        "startTime": 119800,
+        "endTime": 120080
+      },
+      {
+        "token": "op",
+        "startTime": 120080,
+        "endTime": 120380
+      },
+      {
+        "token": "je",
+        "startTime": 120380,
+        "endTime": 120520
+      },
+      {
+        "token": "skivakantie,",
+        "startTime": 120520,
+        "endTime": 121220
+      }
+    ]
+  },
+  {
+    "sentence_text": "dan gooi je hem best ook nog eens vol op je bestemming.",
+    "translations": {
+      "en": "तपाईंले आफ्नो गाडी आफ्नो गन्तव्यमा पनि भर्नु राम्रो हुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "dan",
+        "startTime": 121220,
+        "endTime": 121460
+      },
+      {
+        "token": "gooi",
+        "startTime": 121460,
+        "endTime": 121560
+      },
+      {
+        "token": "je",
+        "startTime": 121560,
+        "endTime": 121700
+      },
+      {
+        "token": "hem",
+        "startTime": 121700,
+        "endTime": 121780
+      },
+      {
+        "token": "best",
+        "startTime": 121780,
+        "endTime": 122000
+      },
+      {
+        "token": "ook",
+        "startTime": 122000,
+        "endTime": 122220
+      },
+      {
+        "token": "nog",
+        "startTime": 122220,
+        "endTime": 122440
+      },
+      {
+        "token": "eens",
+        "startTime": 122440,
+        "endTime": 122580
+      },
+      {
+        "token": "vol",
+        "startTime": 122580,
+        "endTime": 122840
+      },
+      {
+        "token": "op",
+        "startTime": 122840,
+        "endTime": 123100
+      },
+      {
+        "token": "je",
+        "startTime": 123100,
+        "endTime": 123280
+      },
+      {
+        "token": "bestemming.",
+        "startTime": 123280,
+        "endTime": 124520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Toch zeker als je vanuit Oostenrijk of Italië vertrekt.",
+    "translations": {
+      "en": "निश्चित रूपमा यदि तपाईं अस्ट्रिया वा इटालीबाट प्रस्थान गर्दै हुनुहुन्छ भने।"
+    },
+    "segments": [
+      {
+        "token": "Toch",
+        "startTime": 124520,
+        "endTime": 124820
+      },
+      {
+        "token": "zeker",
+        "startTime": 124820,
+        "endTime": 125260
+      },
+      {
+        "token": "als",
+        "startTime": 125260,
+        "endTime": 125560
+      },
+      {
+        "token": "je",
+        "startTime": 125560,
+        "endTime": 125740
+      },
+      {
+        "token": "vanuit",
+        "startTime": 125740,
+        "endTime": 126140
+      },
+      {
+        "token": "Oostenrijk",
+        "startTime": 126140,
+        "endTime": 126880
+      },
+      {
+        "token": "of",
+        "startTime": 126880,
+        "endTime": 127220
+      },
+      {
+        "token": "Italië",
+        "startTime": 127220,
+        "endTime": 127960
+      },
+      {
+        "token": "vertrekt.",
+        "startTime": 127960,
+        "endTime": 129200
+      }
+    ]
+  },
+  {
+    "sentence_text": "In beide landen hebben ze de accijns op brandstof verlaagd.",
+    "translations": {
+      "en": "दुवै देशहरूमा उनीहरूले इन्धनमा कर घटाएका छन्।"
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 129200,
+        "endTime": 129320
+      },
+      {
+        "token": "beide",
+        "startTime": 129320,
+        "endTime": 129900
+      },
+      {
+        "token": "landen",
+        "startTime": 129900,
+        "endTime": 130380
+      },
+      {
+        "token": "hebben",
+        "startTime": 130380,
+        "endTime": 130640
+      },
+      {
+        "token": "ze",
+        "startTime": 130640,
+        "endTime": 130700
+      },
+      {
+        "token": "de",
+        "startTime": 130700,
+        "endTime": 130880
+      },
+      {
+        "token": "accijns",
+        "startTime": 130880,
+        "endTime": 131320
+      },
+      {
+        "token": "op",
+        "startTime": 131320,
+        "endTime": 131480
+      },
+      {
+        "token": "brandstof",
+        "startTime": 131480,
+        "endTime": 132060
+      },
+      {
+        "token": "verlaagd.",
+        "startTime": 132060,
+        "endTime": 132740
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je betaalt er nu 18 cent per liter minder en",
+    "translations": {
+      "en": "अब तपाईंले प्रति लिटर १८ सेन्ट कम तिर्दै हुनुहुन्छ र"
+    },
+    "segments": [
+      {
+        "token": "Je",
+        "startTime": 132740,
+        "endTime": 133180
+      },
+      {
+        "token": "betaalt",
+        "startTime": 133180,
+        "endTime": 133540
+      },
+      {
+        "token": "er",
+        "startTime": 133540,
+        "endTime": 133680
+      },
+      {
+        "token": "nu",
+        "startTime": 133680,
+        "endTime": 133800
+      },
+      {
+        "token": "18",
+        "startTime": 133800,
+        "endTime": 134540
+      },
+      {
+        "token": "cent",
+        "startTime": 134540,
+        "endTime": 134920
+      },
+      {
+        "token": "per",
+        "startTime": 134920,
+        "endTime": 135160
+      },
+      {
+        "token": "liter",
+        "startTime": 135160,
+        "endTime": 135380
+      },
+      {
+        "token": "minder",
+        "startTime": 135380,
+        "endTime": 135680
+      },
+      {
+        "token": "en",
+        "startTime": 135680,
+        "endTime": 136620
+      }
+    ]
+  },
+  {
+    "sentence_text": "22 cent per liter diesel minder dan in ons stand.",
+    "translations": {
+      "en": "हाम्रो देशको तुलनामा प्रति लिटर डिजेलमा २२ सेन्ट कम।"
+    },
+    "segments": [
+      {
+        "token": "22",
+        "startTime": 136620,
+        "endTime": 137080
+      },
+      {
+        "token": "cent",
+        "startTime": 137080,
+        "endTime": 137400
+      },
+      {
+        "token": "per",
+        "startTime": 137400,
+        "endTime": 137640
+      },
+      {
+        "token": "liter",
+        "startTime": 137640,
+        "endTime": 137860
+      },
+      {
+        "token": "diesel",
+        "startTime": 137860,
+        "endTime": 138240
+      },
+      {
+        "token": "minder",
+        "startTime": 138240,
+        "endTime": 138580
+      },
+      {
+        "token": "dan",
+        "startTime": 138580,
+        "endTime": 138880
+      },
+      {
+        "token": "in",
+        "startTime": 138880,
+        "endTime": 139180
+      },
+      {
+        "token": "ons",
+        "startTime": 139180,
+        "endTime": 139500
+      },
+      {
+        "token": "stand.",
+        "startTime": 139500,
+        "endTime": 139500
+      }
+    ]
+  },
+  {
+    "sentence_text": "In Zwitserland zijn de prijzen ongeveer een beetje hetzelfde als bij ons.",
+    "translations": {
+      "en": "स्विट्जरल्याण्डमा मूल्यहरू हाम्रो जस्तै लगभग समान छन्।"
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 139500,
+        "endTime": 140160
+      },
+      {
+        "token": "Zwitserland",
+        "startTime": 140160,
+        "endTime": 141000
+      },
+      {
+        "token": "zijn",
+        "startTime": 141000,
+        "endTime": 141320
+      },
+      {
+        "token": "de",
+        "startTime": 141320,
+        "endTime": 141540
+      },
+      {
+        "token": "prijzen",
+        "startTime": 141540,
+        "endTime": 141820
+      },
+      {
+        "token": "ongeveer",
+        "startTime": 141820,
+        "endTime": 142140
+      },
+      {
+        "token": "een",
+        "startTime": 142140,
+        "endTime": 142280
+      },
+      {
+        "token": "beetje",
+        "startTime": 142280,
+        "endTime": 142480
+      },
+      {
+        "token": "hetzelfde",
+        "startTime": 142480,
+        "endTime": 143020
+      },
+      {
+        "token": "als",
+        "startTime": 143020,
+        "endTime": 143520
+      },
+      {
+        "token": "bij",
+        "startTime": 143520,
+        "endTime": 143840
+      },
+      {
+        "token": "ons.",
+        "startTime": 143840,
+        "endTime": 144360
+      }
+    ]
+  }
+]
