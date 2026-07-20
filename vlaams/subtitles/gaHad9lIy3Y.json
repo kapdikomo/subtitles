@@ -1,7 +1,9 @@
 [
   {
     "sentence_text": "Een nieuwe studie toont aan dat er wel degelijk",
-    "translations": {},
+    "translations": {
+      "en": "एउटा नयाँ अध्ययनले देखाएको छ कि स्पेन र मोरक्को बीच"
+    },
     "segments": [
       {
         "token": "Een",
@@ -52,7 +54,9 @@
   },
   {
     "sentence_text": "een tunnel kan worden gebouwd tussen Spanje en Marokko.",
-    "translations": {},
+    "translations": {
+      "en": "साँच्चै एउटा सुरुङ बनाउन सकिन्छ।"
+    },
     "segments": [
       {
         "token": "een",
@@ -103,7 +107,9 @@
   },
   {
     "sentence_text": "Dat zou de eerste rechtstreekse verbinding zijn tussen Europa en Afrika.",
-    "translations": {},
+    "translations": {
+      "en": "यो युरोप र अफ्रिका बीचको पहिलो प्रत्यक्ष जडान हुनेछ।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -164,7 +170,9 @@
   },
   {
     "sentence_text": "Elk jaar steken meer dan een half miljoen vrachtwagens",
-    "translations": {},
+    "translations": {
+      "en": "हरेक वर्ष, आधा मिलियनभन्दा बढी ट्रकहरू"
+    },
     "segments": [
       {
         "token": "Elk",
@@ -215,7 +223,9 @@
   },
   {
     "sentence_text": "de straat van Gibraltar over met een boot en meer dan vijf miljoen mensen.",
-    "translations": {},
+    "translations": {
+      "en": "र पाँच मिलियनभन्दा बढी मानिसहरू डुङ्गामा जिब्राल्टरको जलडमरू पार गर्छन्।"
+    },
     "segments": [
       {
         "token": "de",
@@ -281,18 +291,20 @@
         "token": "miljoen",
         "startTime": 18880,
         "endTime": 19200
+      },
+      {
+        "token": "mensen.",
+        "startTime": 19200,
+        "endTime": 19200
       }
     ]
   },
   {
     "sentence_text": "Met de snelste ferry doe je er nu een uur over.",
-    "translations": {},
+    "translations": {
+      "en": "सबैभन्दा छिटो फेरीले अहिले एक घण्टा लाग्छ।"
+    },
     "segments": [
-      {
-        "token": "mensen.",
-        "startTime": 19200,
-        "endTime": 19200
-      },
       {
         "token": "Met",
         "startTime": 19200,
@@ -352,7 +364,9 @@
   },
   {
     "sentence_text": "Met een trein onder de zeebodem",
-    "translations": {},
+    "translations": {
+      "en": "समुद्रको तलाबाट रेलमा"
+    },
     "segments": [
       {
         "token": "Met",
@@ -388,7 +402,9 @@
   },
   {
     "sentence_text": "zou je in een half uurtje van Spanje naar Marokko kunnen.",
-    "translations": {},
+    "translations": {
+      "en": "तपाईं आधा घण्टामा स्पेनबाट मोरक्को पुग्न सक्नुहुन्छ।"
+    },
     "segments": [
       {
         "token": "zou",
@@ -449,7 +465,9 @@
   },
   {
     "sentence_text": "Of omgekeerd natuurlijk.",
-    "translations": {},
+    "translations": {
+      "en": "वा स्वाभाविक रूपमा उल्टो।"
+    },
     "segments": [
       {
         "token": "Of",
@@ -470,7 +488,9 @@
   },
   {
     "sentence_text": "Birgit, ze dromen.",
-    "translations": {},
+    "translations": {
+      "en": "बिर्गिट, तिनीहरू सपना देखिरहेका छन्।"
+    },
     "segments": [
       {
         "token": "Birgit,",
@@ -491,7 +511,9 @@
   },
   {
     "sentence_text": "Al meer dan een eeuw van die tunnel.",
-    "translations": {},
+    "translations": {
+      "en": "एक शताब्दीभन्दा बढीदेखि त्यो सुरुङको।"
+    },
     "segments": [
       {
         "token": "Al",
@@ -537,7 +559,9 @@
   },
   {
     "sentence_text": "Het was technisch nooit haalbaar.",
-    "translations": {},
+    "translations": {
+      "en": "यो प्राविधिक रूपमा कहिल्यै सम्भव थिएन।"
+    },
     "segments": [
       {
         "token": "Het",
@@ -568,7 +592,9 @@
   },
   {
     "sentence_text": "Waarom nu dan opeens wel?",
-    "translations": {},
+    "translations": {
+      "en": "त्यसो भए अब किन अचानक सम्भव भयो?"
+    },
     "segments": [
       {
         "token": "Waarom",
@@ -599,7 +625,9 @@
   },
   {
     "sentence_text": "Omdat ze nu dus een manier gevonden hebben waarop het wel kan.",
-    "translations": {},
+    "translations": {
+      "en": "किनभने अब तिनीहरूले यसलाई सम्भव बनाउने तरिका फेला पारेका छन्।"
+    },
     "segments": [
       {
         "token": "Omdat",
@@ -665,7 +693,9 @@
   },
   {
     "sentence_text": "Het zit zo.",
-    "translations": {},
+    "translations": {
+      "en": "कुरा यस्तो छ।"
+    },
     "segments": [
       {
         "token": "Het",
@@ -686,7 +716,9 @@
   },
   {
     "sentence_text": "Het meest logische is natuurlijk om een tunnel te graven op het punt waar",
-    "translations": {},
+    "translations": {
+      "en": "सबैभन्दा तार्किक कुरा भनेको त्यो ठाउँमा सुरुङ खन्नु हो जहाँ"
+    },
     "segments": [
       {
         "token": "Het",
@@ -762,7 +794,9 @@
   },
   {
     "sentence_text": "de afstand tussen Spanje en Marokko het kortst is.",
-    "translations": {},
+    "translations": {
+      "en": "स्पेन र मोरक्को बीचको दूरी सबैभन्दा छोटो छ।"
+    },
     "segments": [
       {
         "token": "de",
@@ -813,7 +847,9 @@
   },
   {
     "sentence_text": "Dat is daar 14 kilometer.",
-    "translations": {},
+    "translations": {
+      "en": "त्यहाँ १४ किलोमिटर छ।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -844,7 +880,9 @@
   },
   {
     "sentence_text": "Maar de zee is daar gigantisch diep. 800 meter.",
-    "translations": {},
+    "translations": {
+      "en": "तर त्यहाँ समुद्र अत्यन्तै गहिरो छ। ८०० मिटर।"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -895,7 +933,9 @@
   },
   {
     "sentence_text": "Die tunnel zou dan gewoon instorten onder het gewicht van dat water.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो सुरुङ पानीको तौलले भत्किने थियो।"
+    },
     "segments": [
       {
         "token": "Die",
@@ -961,7 +1001,9 @@
   },
   {
     "sentence_text": "En dus heeft men heel wat onderzoek moeten doen.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले धेरै अनुसन्धान गर्नुपर्यो।"
+    },
     "segments": [
       {
         "token": "En",
@@ -1012,7 +1054,9 @@
   },
   {
     "sentence_text": "Boringen in die zeebodem.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो समुद्री भुइँमा ड्रिलिंग।"
+    },
     "segments": [
       {
         "token": "Boringen",
@@ -1038,7 +1082,9 @@
   },
   {
     "sentence_text": "En is het uiteindelijk deze route geworden?",
-    "translations": {},
+    "translations": {
+      "en": "र अन्ततः यो मार्ग नै रोजियो?"
+    },
     "segments": [
       {
         "token": "En",
@@ -1079,7 +1125,9 @@
   },
   {
     "sentence_text": "Van Paloma, in Spanje is dat, ten westen van Tarifa, naar Malabata.",
-    "translations": {},
+    "translations": {
+      "en": "स्पेनको पालोमा, तारिफाको पश्चिममा, देखि मालाबाटा सम्म।"
+    },
     "segments": [
       {
         "token": "Van",
@@ -1145,7 +1193,9 @@
   },
   {
     "sentence_text": "Dat is net boven Tangier.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो ट्याङ्गियरको माथि पर्छ।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -1176,7 +1226,9 @@
   },
   {
     "sentence_text": "Dubbel zo lang is die tunnel daardoor wel 28 kilometer.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसकारण त्यो सुरुङ २८ किलोमिटर लामो छ।"
+    },
     "segments": [
       {
         "token": "Dubbel",
@@ -1232,7 +1284,9 @@
   },
   {
     "sentence_text": "Maar op het diepste punt is het daar maar 300 meter.",
-    "translations": {},
+    "translations": {
+      "en": "तर सबैभन्दा गहिरो ठाउँमा त्यो मात्र ३०० मिटर छ।"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -1293,7 +1347,9 @@
   },
   {
     "sentence_text": "Dat is nog altijd heel diep.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो अझै धेरै गहिरो हो।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -1329,7 +1385,9 @@
   },
   {
     "sentence_text": "Om te vergelijken, laten we de kanaaltunnel er eens bij halen.",
-    "translations": {},
+    "translations": {
+      "en": "तुलना गर्न, च्यानल सुरुङलाई हेरौं।"
+    },
     "segments": [
       {
         "token": "Om",
@@ -1390,7 +1448,9 @@
   },
   {
     "sentence_text": "De tunnel tussen Calais en Groot-Brittannië is op zijn diepst maar 75 meter diep.",
-    "translations": {},
+    "translations": {
+      "en": "क्याले र बेलायत बीचको सुरुङ सबैभन्दा गहिरोमा मात्र ७५ मिटर गहिरो छ।"
+    },
     "segments": [
       {
         "token": "De",
@@ -1466,7 +1526,9 @@
   },
   {
     "sentence_text": "Deze tunnel ligt dus vier keer dieper nog altijd.",
-    "translations": {},
+    "translations": {
+      "en": "यो सुरुङ त्यसभन्दा चार गुणा गहिरो छ।"
+    },
     "segments": [
       {
         "token": "Deze",
@@ -1517,7 +1579,9 @@
   },
   {
     "sentence_text": "Qua lengte zijn ze eigenlijk vergelijkbaar.",
-    "translations": {},
+    "translations": {
+      "en": "लम्बाइको हिसाबले तिनीहरू लगभग समान छन्।"
+    },
     "segments": [
       {
         "token": "Qua",
@@ -1553,7 +1617,9 @@
   },
   {
     "sentence_text": "En dat is dus het nieuwste plan.",
-    "translations": {},
+    "translations": {
+      "en": "र यो नै नयाँ योजना हो।"
+    },
     "segments": [
       {
         "token": "En",
@@ -1594,7 +1660,9 @@
   },
   {
     "sentence_text": "Een tunnel van in totaal 38,7 kilometer lang.",
-    "translations": {},
+    "translations": {
+      "en": "कुल ३८.७ किलोमिटर लामो सुरुङ।"
+    },
     "segments": [
       {
         "token": "Een",
@@ -1640,7 +1708,9 @@
   },
   {
     "sentence_text": "Waarvan dus 28 kilometer onder water.",
-    "translations": {},
+    "translations": {
+      "en": "जसमध्ये २८ किलोमिटर पानीमुनि।"
+    },
     "segments": [
       {
         "token": "Waarvan",
@@ -1676,7 +1746,9 @@
   },
   {
     "sentence_text": "Een half uurtje duurt het dan om van Spanje naar Marokko te gaan en omgekeerd.",
-    "translations": {},
+    "translations": {
+      "en": "स्पेनबाट मोरक्को जान र फर्कन आधा घण्टा लाग्छ।"
+    },
     "segments": [
       {
         "token": "Een",
@@ -1757,7 +1829,9 @@
   },
   {
     "sentence_text": "Nu is dat dus op zijn snelst met de ferry een uur.",
-    "translations": {},
+    "translations": {
+      "en": "अहिले फेरीले एक घण्टा लाग्छ।"
+    },
     "segments": [
       {
         "token": "Nu",
@@ -1823,7 +1897,9 @@
   },
   {
     "sentence_text": "Maar hoe bouw je zoiets?",
-    "translations": {},
+    "translations": {
+      "en": "तर यस्तो कसरी बनाउने?"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -1854,7 +1930,9 @@
   },
   {
     "sentence_text": "Dat graven, dat is absoluut niet evident.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो खन्नु पक्कै पनि सजिलो छैन।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -1895,7 +1973,9 @@
   },
   {
     "sentence_text": "En daarom heeft men net zo lang gezocht naar een juist traject.",
-    "translations": {},
+    "translations": {
+      "en": "र त्यसैले सही मार्ग खोज्न धेरै समय लाग्यो।"
+    },
     "segments": [
       {
         "token": "En",
@@ -1961,7 +2041,9 @@
   },
   {
     "sentence_text": "Want er zitten daar heel veel verschillende soorten gesteenten in de ondergrond.",
-    "translations": {},
+    "translations": {
+      "en": "भूमिगतमा धेरै फरक प्रकारका चट्टानहरू छन्।"
+    },
     "segments": [
       {
         "token": "Want",
@@ -2027,7 +2109,9 @@
   },
   {
     "sentence_text": "En je boort dat niet zomaar.",
-    "translations": {},
+    "translations": {
+      "en": "र तपाईं त्यसलाई सजिलै ड्रिल गर्न सक्नुहुन्न।"
+    },
     "segments": [
       {
         "token": "En",
@@ -2063,7 +2147,9 @@
   },
   {
     "sentence_text": "Het is echt een soort van ondergrondse fabriek die dat doet.",
-    "translations": {},
+    "translations": {
+      "en": "यो वास्तवमा एउटा भूमिगत कारखाना जस्तै हो जसले त्यो गर्छ।"
+    },
     "segments": [
       {
         "token": "Het",
@@ -2124,7 +2210,9 @@
   },
   {
     "sentence_text": "U herinnert zich misschien nog wel de beelden van het graven van die kanaaltunnel.",
-    "translations": {},
+    "translations": {
+      "en": "तपाईंलाई च्यानल सुरुङ खन्ने दृश्यहरू सम्झना होला।"
+    },
     "segments": [
       {
         "token": "U",
@@ -2200,7 +2288,9 @@
   },
   {
     "sentence_text": "Een graafwiel schraapt af.",
-    "translations": {},
+    "translations": {
+      "en": "एउटा खन्ने पाङ्ग्राले माटो काट्छ।"
+    },
     "segments": [
       {
         "token": "Een",
@@ -2226,7 +2316,9 @@
   },
   {
     "sentence_text": "Dat gruis moet meteen afgevoerd worden.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो धुलो तुरुन्तै हटाउनुपर्छ।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -2262,7 +2354,9 @@
   },
   {
     "sentence_text": "En er moet ook meteen gebouwd worden, zodat die tunnel achter je niet instort.",
-    "translations": {},
+    "translations": {
+      "en": "र तुरुन्तै निर्माण पनि गर्नुपर्छ, ताकि पछाडिको सुरुङ भत्किँदैन।"
+    },
     "segments": [
       {
         "token": "En",
@@ -2338,7 +2432,9 @@
   },
   {
     "sentence_text": "De ondergrond mag daarom niet te broos zijn, dan zijpelt er water in de tunnel.",
-    "translations": {},
+    "translations": {
+      "en": "भूमिगत धेरै कमजोर हुनु हुँदैन, नत्र पानी सुरुङमा चुहिन्छ।"
+    },
     "segments": [
       {
         "token": "De",
@@ -2419,7 +2515,9 @@
   },
   {
     "sentence_text": "Maar te hard mag ook niet, want dan raak je daar natuurlijk gewoon niet door.",
-    "translations": {},
+    "translations": {
+      "en": "तर धेरै कडा पनि हुनु हुँदैन, किनकि त्यसो भए तपाईं त्यसबाट जान सक्नुहुन्न।"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -2500,7 +2598,9 @@
   },
   {
     "sentence_text": "Twee tunnels worden dat dan, Heel groot is dat niet,",
-    "translations": {},
+    "translations": {
+      "en": "त्यसपछि दुईवटा सुरुङहरू हुन्छन्, त्यो धेरै ठूलो हुँदैन,"
+    },
     "segments": [
       {
         "token": "Twee",
@@ -2528,27 +2628,27 @@
         "endTime": 153910
       },
       {
-        "token": "met",
+        "token": "Heel",
         "startTime": 153910,
         "endTime": 154030
       },
       {
-        "token": "telkens",
+        "token": "groot",
         "startTime": 154030,
         "endTime": 154410
       },
       {
-        "token": "één",
+        "token": "is",
         "startTime": 154410,
         "endTime": 154630
       },
       {
-        "token": "spoor.",
+        "token": "dat",
         "startTime": 154630,
         "endTime": 155510
       },
       {
-        "token": "Heel",
+        "token": "niet,",
         "startTime": 155510,
         "endTime": 155710
       }
@@ -2556,40 +2656,42 @@
   },
   {
     "sentence_text": "een diameter van net geen acht meter.",
-    "translations": {},
+    "translations": {
+      "en": "व्यास आठ मिटरभन्दा अलि कम हुन्छ।"
+    },
     "segments": [
       {
-        "token": "groot",
+        "token": "een",
         "startTime": 155710,
         "endTime": 156030
       },
       {
-        "token": "is",
+        "token": "diameter",
         "startTime": 156030,
         "endTime": 156270
       },
       {
-        "token": "dat",
+        "token": "van",
         "startTime": 156270,
         "endTime": 156390
       },
       {
-        "token": "niet,",
+        "token": "net",
         "startTime": 156390,
         "endTime": 156790
       },
       {
-        "token": "een",
+        "token": "geen",
         "startTime": 156790,
         "endTime": 156970
       },
       {
-        "token": "diameter",
+        "token": "acht",
         "startTime": 156970,
         "endTime": 157310
       },
       {
-        "token": "van",
+        "token": "meter.",
         "startTime": 157310,
         "endTime": 157550
       }
@@ -2597,35 +2699,37 @@
   },
   {
     "sentence_text": "Een diensttunnel komt daar ook nog",
-    "translations": {},
+    "translations": {
+      "en": "एउटा सेवा सुरुङ पनि हुन्छ"
+    },
     "segments": [
       {
-        "token": "net",
+        "token": "Een",
         "startTime": 157550,
         "endTime": 157690
       },
       {
-        "token": "geen",
+        "token": "diensttunnel",
         "startTime": 157690,
         "endTime": 157950
       },
       {
-        "token": "acht",
+        "token": "komt",
         "startTime": 157950,
         "endTime": 158250
       },
       {
-        "token": "meter.",
+        "token": "daar",
         "startTime": 158250,
         "endTime": 158970
       },
       {
-        "token": "Een",
+        "token": "ook",
         "startTime": 158970,
         "endTime": 159170
       },
       {
-        "token": "diensttunnel",
+        "token": "nog",
         "startTime": 159170,
         "endTime": 159890
       }
@@ -2633,75 +2737,77 @@
   },
   {
     "sentence_text": "voor als er een pannen zou zijn of als er onderhoud gedaan moet worden.",
-    "translations": {},
+    "translations": {
+      "en": "यदि कुनै समस्या भयो भने वा मर्मत गर्नुपर्ने भएमा।"
+    },
     "segments": [
       {
-        "token": "komt",
+        "token": "voor",
         "startTime": 159890,
         "endTime": 160190
       },
       {
-        "token": "daar",
+        "token": "als",
         "startTime": 160190,
         "endTime": 160310
       },
       {
-        "token": "ook",
+        "token": "er",
         "startTime": 160310,
         "endTime": 160570
       },
       {
-        "token": "nog",
+        "token": "een",
         "startTime": 160570,
         "endTime": 160790
       },
       {
-        "token": "voor",
+        "token": "pannen",
         "startTime": 160790,
         "endTime": 161010
       },
       {
-        "token": "als",
+        "token": "zou",
         "startTime": 161010,
         "endTime": 161230
       },
       {
-        "token": "er",
+        "token": "zijn",
         "startTime": 161230,
         "endTime": 161350
       },
       {
-        "token": "een",
+        "token": "of",
         "startTime": 161350,
         "endTime": 161450
       },
       {
-        "token": "pannen",
+        "token": "als",
         "startTime": 161450,
         "endTime": 161670
       },
       {
-        "token": "zou",
+        "token": "er",
         "startTime": 161670,
         "endTime": 161850
       },
       {
-        "token": "zijn",
+        "token": "onderhoud",
         "startTime": 161850,
         "endTime": 161850
       },
       {
-        "token": "of",
+        "token": "gedaan",
         "startTime": 161850,
         "endTime": 162430
       },
       {
-        "token": "als",
+        "token": "moet",
         "startTime": 162430,
         "endTime": 162590
       },
       {
-        "token": "er",
+        "token": "worden.",
         "startTime": 162590,
         "endTime": 162790
       }
@@ -2709,40 +2815,42 @@
   },
   {
     "sentence_text": "Het is dus een tunnel voor treinen.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले यो रेलको लागि सुरुङ हो।"
+    },
     "segments": [
       {
-        "token": "onderhoud",
+        "token": "Het",
         "startTime": 162790,
         "endTime": 163370
       },
       {
-        "token": "gedaan",
+        "token": "is",
         "startTime": 163370,
         "endTime": 163770
       },
       {
-        "token": "moet",
+        "token": "dus",
         "startTime": 163770,
         "endTime": 164130
       },
       {
-        "token": "worden.",
+        "token": "een",
         "startTime": 164130,
         "endTime": 165370
       },
       {
-        "token": "Het",
+        "token": "tunnel",
         "startTime": 165370,
         "endTime": 165510
       },
       {
-        "token": "is",
+        "token": "voor",
         "startTime": 165510,
         "endTime": 165650
       },
       {
-        "token": "dus",
+        "token": "treinen.",
         "startTime": 165650,
         "endTime": 165770
       }
@@ -2750,60 +2858,62 @@
   },
   {
     "sentence_text": "Maar auto's op die trein, zoals dat bij de Kanaaltunnel is,",
-    "translations": {},
+    "translations": {
+      "en": "तर च्यानल सुरुङमा जस्तै रेलमा गाडीहरू,"
+    },
     "segments": [
       {
-        "token": "een",
+        "token": "Maar",
         "startTime": 165770,
         "endTime": 165890
       },
       {
-        "token": "tunnel",
+        "token": "auto's",
         "startTime": 165890,
         "endTime": 166130
       },
       {
-        "token": "voor",
+        "token": "op",
         "startTime": 166130,
         "endTime": 166410
       },
       {
-        "token": "treinen.",
+        "token": "die",
         "startTime": 166410,
         "endTime": 167330
       },
       {
-        "token": "Maar",
+        "token": "trein,",
         "startTime": 167330,
         "endTime": 167530
       },
       {
-        "token": "auto's",
+        "token": "zoals",
         "startTime": 167530,
         "endTime": 168250
       },
       {
-        "token": "op",
+        "token": "dat",
         "startTime": 168250,
         "endTime": 168610
       },
       {
-        "token": "die",
+        "token": "bij",
         "startTime": 168610,
         "endTime": 168830
       },
       {
-        "token": "trein,",
+        "token": "de",
         "startTime": 168830,
         "endTime": 169190
       },
       {
-        "token": "zoals",
+        "token": "Kanaaltunnel",
         "startTime": 169190,
         "endTime": 169410
       },
       {
-        "token": "dat",
+        "token": "is,",
         "startTime": 169410,
         "endTime": 169570
       }
@@ -2811,30 +2921,32 @@
   },
   {
     "sentence_text": "dat zou bijvoorbeeld wel kunnen.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो सम्भव हुन सक्छ।"
+    },
     "segments": [
       {
-        "token": "bij",
+        "token": "dat",
         "startTime": 169570,
         "endTime": 169670
       },
       {
-        "token": "de",
+        "token": "zou",
         "startTime": 169670,
         "endTime": 169830
       },
       {
-        "token": "Kanaaltunnel",
+        "token": "bijvoorbeeld",
         "startTime": 169830,
         "endTime": 170350
       },
       {
-        "token": "is,",
+        "token": "wel",
         "startTime": 170350,
         "endTime": 170450
       },
       {
-        "token": "dat",
+        "token": "kunnen.",
         "startTime": 170450,
         "endTime": 170690
       }
@@ -2842,75 +2954,77 @@
   },
   {
     "sentence_text": "Maar auto's, bussen, vrachtwagens daardoor laten rijden, dat maakt het allemaal veel te moeilijk.",
-    "translations": {},
+    "translations": {
+      "en": "तर गाडी, बस, ट्रकहरू त्यहाँबाट चलाउनु, त्यसले सबै धेरै गाह्रो बनाउँछ।"
+    },
     "segments": [
       {
-        "token": "zou",
+        "token": "Maar",
         "startTime": 170690,
         "endTime": 170830
       },
       {
-        "token": "bijvoorbeeld",
+        "token": "auto's,",
         "startTime": 170830,
         "endTime": 171270
       },
       {
-        "token": "wel",
+        "token": "bussen,",
         "startTime": 171270,
         "endTime": 171690
       },
       {
-        "token": "kunnen.",
+        "token": "vrachtwagens",
         "startTime": 171690,
         "endTime": 172690
       },
       {
-        "token": "Maar",
+        "token": "daardoor",
         "startTime": 172690,
         "endTime": 172850
       },
       {
-        "token": "auto's,",
+        "token": "laten",
         "startTime": 172850,
         "endTime": 173430
       },
       {
-        "token": "bussen,",
+        "token": "rijden,",
         "startTime": 173430,
         "endTime": 173770
       },
       {
-        "token": "vrachtwagens",
+        "token": "dat",
         "startTime": 173770,
         "endTime": 174290
       },
       {
-        "token": "daardoor",
+        "token": "maakt",
         "startTime": 174290,
         "endTime": 174630
       },
       {
-        "token": "laten",
+        "token": "het",
         "startTime": 174630,
         "endTime": 174910
       },
       {
-        "token": "rijden,",
+        "token": "allemaal",
         "startTime": 174910,
         "endTime": 175190
       },
       {
-        "token": "dat",
+        "token": "veel",
         "startTime": 175190,
         "endTime": 175410
       },
       {
-        "token": "maakt",
+        "token": "te",
         "startTime": 175410,
         "endTime": 175630
       },
       {
-        "token": "het",
+        "token": "moeilijk.",
         "startTime": 175630,
         "endTime": 175750
       }
@@ -2918,50 +3032,52 @@
   },
   {
     "sentence_text": "Als er iets zou gebeuren in die tunnel, rook,",
-    "translations": {},
+    "translations": {
+      "en": "यदि त्यो सुरुङमा केही भयो भने, धुवाँ,"
+    },
     "segments": [
       {
-        "token": "allemaal",
+        "token": "Als",
         "startTime": 175750,
         "endTime": 175890
       },
       {
-        "token": "veel",
+        "token": "er",
         "startTime": 175890,
         "endTime": 176210
       },
       {
-        "token": "te",
+        "token": "iets",
         "startTime": 176210,
         "endTime": 176330
       },
       {
-        "token": "moeilijk.",
+        "token": "zou",
         "startTime": 176330,
         "endTime": 176770
       },
       {
-        "token": "Als",
+        "token": "gebeuren",
         "startTime": 176770,
         "endTime": 177270
       },
       {
-        "token": "er",
+        "token": "in",
         "startTime": 177270,
         "endTime": 177390
       },
       {
-        "token": "iets",
+        "token": "die",
         "startTime": 177390,
         "endTime": 177470
       },
       {
-        "token": "zou",
+        "token": "tunnel,",
         "startTime": 177470,
         "endTime": 177570
       },
       {
-        "token": "gebeuren",
+        "token": "rook,",
         "startTime": 177570,
         "endTime": 177950
       }
@@ -2969,40 +3085,42 @@
   },
   {
     "sentence_text": "dat krijg je daar heel moeilijk weg.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो त्यहाँबाट हटाउन धेरै गाह्रो हुन्छ।"
+    },
     "segments": [
       {
-        "token": "in",
+        "token": "dat",
         "startTime": 177950,
         "endTime": 178110
       },
       {
-        "token": "die",
+        "token": "krijg",
         "startTime": 178110,
         "endTime": 178270
       },
       {
-        "token": "tunnel,",
+        "token": "je",
         "startTime": 178270,
         "endTime": 178590
       },
       {
-        "token": "rook,",
+        "token": "daar",
         "startTime": 178590,
         "endTime": 178850
       },
       {
-        "token": "dat",
+        "token": "heel",
         "startTime": 178850,
         "endTime": 179490
       },
       {
-        "token": "krijg",
+        "token": "moeilijk",
         "startTime": 179490,
         "endTime": 179770
       },
       {
-        "token": "je",
+        "token": "weg.",
         "startTime": 179770,
         "endTime": 179790
       }
@@ -3010,35 +3128,37 @@
   },
   {
     "sentence_text": "Evacueren, dat is ook een kluwen.",
-    "translations": {},
+    "translations": {
+      "en": "उद्धार गर्नु पनि एउटा जटिल काम हो।"
+    },
     "segments": [
       {
-        "token": "daar",
+        "token": "Evacueren,",
         "startTime": 179790,
         "endTime": 179950
       },
       {
-        "token": "heel",
+        "token": "dat",
         "startTime": 179950,
         "endTime": 180110
       },
       {
-        "token": "moeilijk",
+        "token": "is",
         "startTime": 180110,
         "endTime": 180490
       },
       {
-        "token": "weg.",
+        "token": "ook",
         "startTime": 180490,
         "endTime": 180750
       },
       {
-        "token": "Evacueren,",
+        "token": "een",
         "startTime": 180750,
         "endTime": 181730
       },
       {
-        "token": "dat",
+        "token": "kluwen.",
         "startTime": 181730,
         "endTime": 181930
       }
@@ -3046,35 +3166,37 @@
   },
   {
     "sentence_text": "Allemaal dingen die men wil vermijden.",
-    "translations": {},
+    "translations": {
+      "en": "यी सबै चीजहरू हुन् जो मानिसहरूले बेवास्ता गर्न चाहन्छन्।"
+    },
     "segments": [
       {
-        "token": "is",
+        "token": "Allemaal",
         "startTime": 181930,
         "endTime": 182090
       },
       {
-        "token": "ook",
+        "token": "dingen",
         "startTime": 182090,
         "endTime": 182330
       },
       {
-        "token": "een",
+        "token": "die",
         "startTime": 182330,
         "endTime": 182550
       },
       {
-        "token": "kluwen.",
+        "token": "men",
         "startTime": 182550,
         "endTime": 182950
       },
       {
-        "token": "Allemaal",
+        "token": "wil",
         "startTime": 182950,
         "endTime": 183270
       },
       {
-        "token": "dingen",
+        "token": "vermijden.",
         "startTime": 183270,
         "endTime": 183570
       }
@@ -3082,45 +3204,47 @@
   },
   {
     "sentence_text": "Wat kost dat dan? we weten van dit",
-    "translations": {},
+    "translations": {
+      "en": "त्यसको लागत कति हुन्छ? हामीलाई यो थाहा छ"
+    },
     "segments": [
       {
-        "token": "die",
+        "token": "Wat",
         "startTime": 183570,
         "endTime": 184210
       },
       {
-        "token": "men",
+        "token": "kost",
         "startTime": 184210,
         "endTime": 184350
       },
       {
-        "token": "wil",
+        "token": "dat",
         "startTime": 184350,
         "endTime": 184690
       },
       {
-        "token": "vermijden.",
+        "token": "dan?",
         "startTime": 184690,
         "endTime": 185910
       },
       {
-        "token": "Wat",
+        "token": "we",
         "startTime": 185910,
         "endTime": 186110
       },
       {
-        "token": "kost",
+        "token": "weten",
         "startTime": 186110,
         "endTime": 186570
       },
       {
-        "token": "dat",
+        "token": "van",
         "startTime": 186570,
         "endTime": 186750
       },
       {
-        "token": "dan?",
+        "token": "dit",
         "startTime": 186750,
         "endTime": 187470
       }
@@ -3128,60 +3252,62 @@
   },
   {
     "sentence_text": "soort van projecten dat die kosten ook nog enorm kunnen oplopen.",
-    "translations": {},
+    "translations": {
+      "en": "यस्ता प्रकारका परियोजनाहरूमा लागत पनि ठूलो मात्रामा बढ्न सक्छ।"
+    },
     "segments": [
       {
-        "token": "Het",
+        "token": "soort",
         "startTime": 187470,
         "endTime": 187710
       },
       {
-        "token": "zou",
+        "token": "van",
         "startTime": 187710,
         "endTime": 188010
       },
       {
-        "token": "15",
+        "token": "projecten",
         "startTime": 188010,
         "endTime": 188610
       },
       {
-        "token": "à",
+        "token": "dat",
         "startTime": 188610,
         "endTime": 188990
       },
       {
-        "token": "20",
+        "token": "die",
         "startTime": 188990,
         "endTime": 189590
       },
       {
-        "token": "miljard",
+        "token": "kosten",
         "startTime": 189590,
         "endTime": 190030
       },
       {
-        "token": "kosten,",
+        "token": "ook",
         "startTime": 190030,
         "endTime": 190030
       },
       {
-        "token": "maar",
+        "token": "nog",
         "startTime": 190030,
         "endTime": 190550
       },
       {
-        "token": "we",
+        "token": "enorm",
         "startTime": 190550,
         "endTime": 190690
       },
       {
-        "token": "weten",
+        "token": "kunnen",
         "startTime": 190690,
         "endTime": 190910
       },
       {
-        "token": "van",
+        "token": "oplopen.",
         "startTime": 190910,
         "endTime": 191050
       }
@@ -3189,40 +3315,42 @@
   },
   {
     "sentence_text": "En Stef, wanneer komt die er dan?",
-    "translations": {},
+    "translations": {
+      "en": "र स्टेफ, त्यो कहिले आउँछ त?"
+    },
     "segments": [
       {
-        "token": "dit",
+        "token": "En",
         "startTime": 191050,
         "endTime": 191290
       },
       {
-        "token": "soort",
+        "token": "Stef,",
         "startTime": 191290,
         "endTime": 191550
       },
       {
-        "token": "van",
+        "token": "wanneer",
         "startTime": 191550,
         "endTime": 191730
       },
       {
-        "token": "projecten",
+        "token": "komt",
         "startTime": 191730,
         "endTime": 192550
       },
       {
-        "token": "dat",
+        "token": "die",
         "startTime": 192550,
         "endTime": 192650
       },
       {
-        "token": "die",
+        "token": "er",
         "startTime": 192650,
         "endTime": 192810
       },
       {
-        "token": "kosten",
+        "token": "dan?",
         "startTime": 192810,
         "endTime": 193090
       }
@@ -3230,30 +3358,32 @@
   },
   {
     "sentence_text": "Het is eigenlijk zo dat",
-    "translations": {},
+    "translations": {
+      "en": "वास्तवमा यस्तो छ कि"
+    },
     "segments": [
       {
-        "token": "ook",
+        "token": "Het",
         "startTime": 193090,
         "endTime": 193290
       },
       {
-        "token": "nog",
+        "token": "is",
         "startTime": 193290,
         "endTime": 193490
       },
       {
-        "token": "enorm",
+        "token": "eigenlijk",
         "startTime": 193490,
         "endTime": 194270
       },
       {
-        "token": "kunnen",
+        "token": "zo",
         "startTime": 194270,
         "endTime": 194810
       },
       {
-        "token": "oplopen.",
+        "token": "dat",
         "startTime": 194810,
         "endTime": 196390
       }
@@ -3261,60 +3391,62 @@
   },
   {
     "sentence_text": "ze die nog klaar wilden krijgen tegen het volgende WK voetbal.",
-    "translations": {},
+    "translations": {
+      "en": "उनीहरूले त्यसलाई अर्को फुटबल विश्वकप अघि तयार गर्न चाहन्थे।"
+    },
     "segments": [
       {
-        "token": "En",
+        "token": "ze",
         "startTime": 196390,
         "endTime": 196570
       },
       {
-        "token": "Stef,",
+        "token": "die",
         "startTime": 196570,
         "endTime": 197030
       },
       {
-        "token": "wanneer",
+        "token": "nog",
         "startTime": 197030,
         "endTime": 197410
       },
       {
-        "token": "komt",
+        "token": "klaar",
         "startTime": 197410,
         "endTime": 197970
       },
       {
-        "token": "die",
+        "token": "wilden",
         "startTime": 197970,
         "endTime": 198090
       },
       {
-        "token": "er",
+        "token": "krijgen",
         "startTime": 198090,
         "endTime": 198210
       },
       {
-        "token": "dan?",
+        "token": "tegen",
         "startTime": 198210,
         "endTime": 199070
       },
       {
-        "token": "Het",
+        "token": "het",
         "startTime": 199070,
         "endTime": 199190
       },
       {
-        "token": "is",
+        "token": "volgende",
         "startTime": 199190,
         "endTime": 199270
       },
       {
-        "token": "eigenlijk",
+        "token": "WK",
         "startTime": 199270,
         "endTime": 199510
       },
       {
-        "token": "zo",
+        "token": "voetbal.",
         "startTime": 199510,
         "endTime": 199710
       }
@@ -3322,25 +3454,27 @@
   },
   {
     "sentence_text": "Jij weet dat misschien.",
-    "translations": {},
+    "translations": {
+      "en": "तिमीलाई सायद त्यो थाहा छ।"
+    },
     "segments": [
       {
-        "token": "dat",
+        "token": "Jij",
         "startTime": 199710,
         "endTime": 199870
       },
       {
-        "token": "ze",
+        "token": "weet",
         "startTime": 199870,
         "endTime": 200010
       },
       {
-        "token": "die",
+        "token": "dat",
         "startTime": 200010,
         "endTime": 200130
       },
       {
-        "token": "nog",
+        "token": "misschien.",
         "startTime": 200130,
         "endTime": 200270
       }
@@ -3348,45 +3482,47 @@
   },
   {
     "sentence_text": "Dat gaat door in Spanje, Portugal en Marokko.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो स्पेन, पोर्चुगल र मोरक्कोमा हुँदैछ।"
+    },
     "segments": [
       {
-        "token": "klaar",
+        "token": "Dat",
         "startTime": 200270,
         "endTime": 200650
       },
       {
-        "token": "wilden",
+        "token": "gaat",
         "startTime": 200650,
         "endTime": 200890
       },
       {
-        "token": "krijgen",
+        "token": "door",
         "startTime": 200890,
         "endTime": 200910
       },
       {
-        "token": "tegen",
+        "token": "in",
         "startTime": 200910,
         "endTime": 201570
       },
       {
-        "token": "het",
+        "token": "Spanje,",
         "startTime": 201570,
         "endTime": 201790
       },
       {
-        "token": "volgende",
+        "token": "Portugal",
         "startTime": 201790,
         "endTime": 202650
       },
       {
-        "token": "WK",
+        "token": "en",
         "startTime": 202650,
         "endTime": 203230
       },
       {
-        "token": "voetbal.",
+        "token": "Marokko.",
         "startTime": 203230,
         "endTime": 203950
       }
@@ -3394,25 +3530,27 @@
   },
   {
     "sentence_text": "Binnen vier jaar pas.",
-    "translations": {},
+    "translations": {
+      "en": "चार वर्षपछि मात्र।"
+    },
     "segments": [
       {
-        "token": "Jij",
+        "token": "Binnen",
         "startTime": 203950,
         "endTime": 204170
       },
       {
-        "token": "weet",
+        "token": "vier",
         "startTime": 204170,
         "endTime": 204410
       },
       {
-        "token": "dat",
+        "token": "jaar",
         "startTime": 204410,
         "endTime": 204570
       },
       {
-        "token": "misschien.",
+        "token": "pas.",
         "startTime": 204570,
         "endTime": 204650
       }
@@ -3420,7 +3558,9 @@
   },
   {
     "sentence_text": "Dat gaat niet lukken.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो सम्भव छैन।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -3433,12 +3573,12 @@
         "endTime": 205270
       },
       {
-        "token": "door",
+        "token": "niet",
         "startTime": 205270,
         "endTime": 205510
       },
       {
-        "token": "in",
+        "token": "lukken.",
         "startTime": 205510,
         "endTime": 205750
       }
@@ -3446,20 +3586,22 @@
   },
   {
     "sentence_text": "Over vier jaar?",
-    "translations": {},
+    "translations": {
+      "en": "चार वर्षपछि?"
+    },
     "segments": [
       {
-        "token": "Spanje,",
+        "token": "Over",
         "startTime": 205750,
         "endTime": 206490
       },
       {
-        "token": "Portugal",
+        "token": "vier",
         "startTime": 206490,
         "endTime": 206770
       },
       {
-        "token": "en",
+        "token": "jaar?",
         "startTime": 206770,
         "endTime": 207350
       }
@@ -3467,15 +3609,17 @@
   },
   {
     "sentence_text": "No way.",
-    "translations": {},
+    "translations": {
+      "en": "कहिल्यै हुँदैन।"
+    },
     "segments": [
       {
-        "token": "Marokko.",
+        "token": "No",
         "startTime": 207350,
         "endTime": 208190
       },
       {
-        "token": "Binnen",
+        "token": "way.",
         "startTime": 208190,
         "endTime": 208510
       }
@@ -3483,25 +3627,27 @@
   },
   {
     "sentence_text": "Dat gaat niet lukken.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो सम्भव छैन।"
+    },
     "segments": [
       {
-        "token": "vier",
+        "token": "Dat",
         "startTime": 208510,
         "endTime": 208710
       },
       {
-        "token": "jaar",
+        "token": "gaat",
         "startTime": 208710,
         "endTime": 208970
       },
       {
-        "token": "pas.",
+        "token": "niet",
         "startTime": 208970,
         "endTime": 209670
       },
       {
-        "token": "Dat",
+        "token": "lukken.",
         "startTime": 209670,
         "endTime": 209850
       }
@@ -3509,65 +3655,67 @@
   },
   {
     "sentence_text": "Dus ze zeggen nu tussen 2030 en 2040, als die er komt.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले उनीहरू अहिले भन्छन् कि यदि त्यो आउँछ भने २०३० र २०४० को बीचमा।"
+    },
     "segments": [
       {
-        "token": "gaat",
+        "token": "Dus",
         "startTime": 209850,
         "endTime": 210010
       },
       {
-        "token": "niet",
+        "token": "ze",
         "startTime": 210010,
         "endTime": 210150
       },
       {
-        "token": "lukken.",
+        "token": "zeggen",
         "startTime": 210150,
         "endTime": 210330
       },
       {
-        "token": "Over",
+        "token": "nu",
         "startTime": 210330,
         "endTime": 210610
       },
       {
-        "token": "vier",
+        "token": "tussen",
         "startTime": 210610,
         "endTime": 210790
       },
       {
-        "token": "jaar?",
+        "token": "2030",
         "startTime": 210790,
         "endTime": 211210
       },
       {
-        "token": "No",
+        "token": "en",
         "startTime": 211210,
         "endTime": 211930
       },
       {
-        "token": "way.",
+        "token": "2040,",
         "startTime": 211930,
         "endTime": 212590
       },
       {
-        "token": "Dat",
+        "token": "als",
         "startTime": 212590,
         "endTime": 212750
       },
       {
-        "token": "gaat",
+        "token": "die",
         "startTime": 212750,
         "endTime": 213010
       },
       {
-        "token": "niet",
+        "token": "er",
         "startTime": 213010,
         "endTime": 213130
       },
       {
-        "token": "lukken.",
+        "token": "komt.",
         "startTime": 213130,
         "endTime": 213490
       }
@@ -3575,55 +3723,57 @@
   },
   {
     "sentence_text": "Want het zijn ook nog maar stappen die gezet worden.",
-    "translations": {},
+    "translations": {
+      "en": "किनभने यी अझै पनि मात्र उठाइएका कदमहरू हुन्।"
+    },
     "segments": [
       {
-        "token": "Dus",
+        "token": "Want",
         "startTime": 213490,
         "endTime": 213710
       },
       {
-        "token": "ze",
+        "token": "het",
         "startTime": 213710,
         "endTime": 214130
       },
       {
-        "token": "zeggen",
+        "token": "zijn",
         "startTime": 214130,
         "endTime": 214370
       },
       {
-        "token": "nu",
+        "token": "ook",
         "startTime": 214370,
         "endTime": 214550
       },
       {
-        "token": "tussen",
+        "token": "nog",
         "startTime": 214550,
         "endTime": 214930
       },
       {
-        "token": "2030",
+        "token": "maar",
         "startTime": 214930,
         "endTime": 215530
       },
       {
-        "token": "en",
+        "token": "stappen",
         "startTime": 215530,
         "endTime": 215950
       },
       {
-        "token": "2040,",
+        "token": "die",
         "startTime": 215950,
         "endTime": 216930
       },
       {
-        "token": "als",
+        "token": "gezet",
         "startTime": 216930,
         "endTime": 217070
       },
       {
-        "token": "die",
+        "token": "worden.",
         "startTime": 217070,
         "endTime": 217250
       }
@@ -3631,75 +3781,77 @@
   },
   {
     "sentence_text": "Het zal een huzarenstukje zijn. en benieuwd of het er ooit echt van komt.",
-    "translations": {},
+    "translations": {
+      "en": "यो एक ठूलो चुनौती हुनेछ। र यो साँच्चै कहिल्यै हुन्छ कि हुँदैन भनेर उत्सुक छु।"
+    },
     "segments": [
       {
-        "token": "er",
+        "token": "Het",
         "startTime": 217250,
         "endTime": 217350
       },
       {
-        "token": "komt.",
+        "token": "zal",
         "startTime": 217350,
         "endTime": 217690
       },
       {
-        "token": "Want",
+        "token": "een",
         "startTime": 217690,
         "endTime": 217850
       },
       {
-        "token": "het",
+        "token": "huzarenstukje",
         "startTime": 217850,
         "endTime": 217990
       },
       {
-        "token": "zijn",
+        "token": "zijn.",
         "startTime": 217990,
         "endTime": 218070
       },
       {
-        "token": "ook",
+        "token": "en",
         "startTime": 218070,
         "endTime": 218290
       },
       {
-        "token": "nog",
+        "token": "benieuwd",
         "startTime": 218290,
         "endTime": 218530
       },
       {
-        "token": "maar",
+        "token": "of",
         "startTime": 218530,
         "endTime": 218690
       },
       {
-        "token": "stappen",
+        "token": "het",
         "startTime": 218690,
         "endTime": 219310
       },
       {
-        "token": "die",
+        "token": "er",
         "startTime": 219310,
         "endTime": 219410
       },
       {
-        "token": "gezet",
+        "token": "ooit",
         "startTime": 219410,
         "endTime": 219750
       },
       {
-        "token": "worden.",
+        "token": "echt",
         "startTime": 219750,
         "endTime": 220130
       },
       {
-        "token": "Het",
+        "token": "van",
         "startTime": 220130,
         "endTime": 220730
       },
       {
-        "token": "zal",
+        "token": "komt.",
         "startTime": 220730,
         "endTime": 220930
       }
@@ -3707,25 +3859,27 @@
   },
   {
     "sentence_text": "Dank je wel, Birgit.",
-    "translations": {},
+    "translations": {
+      "en": "धन्यवाद, बिर्गिट।"
+    },
     "segments": [
       {
-        "token": "een",
+        "token": "Dank",
         "startTime": 220930,
         "endTime": 221090
       },
       {
-        "token": "huzarenstukje",
+        "token": "je",
         "startTime": 221090,
         "endTime": 221930
       },
       {
-        "token": "zijn.",
+        "token": "wel,",
         "startTime": 221930,
         "endTime": 222830
       },
       {
-        "token": "en",
+        "token": "Birgit.",
         "startTime": 222830,
         "endTime": 222930
       }
