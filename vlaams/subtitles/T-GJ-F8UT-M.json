@@ -1,0 +1,2014 @@
+[
+  {
+    "sentence_text": "Waar gaat uw belastinggeld naartoe?",
+    "translations": {
+      "en": "तपाईंको करको पैसा कहाँ जान्छ?"
+    },
+    "segments": [
+      {
+        "token": "Waar",
+        "startTime": 220,
+        "endTime": 440
+      },
+      {
+        "token": "gaat",
+        "startTime": 440,
+        "endTime": 700
+      },
+      {
+        "token": "uw",
+        "startTime": 700,
+        "endTime": 940
+      },
+      {
+        "token": "belastinggeld",
+        "startTime": 940,
+        "endTime": 1600
+      },
+      {
+        "token": "naartoe?",
+        "startTime": 1600,
+        "endTime": 2040
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hoe werkt de begroting van 2026, de boekhouding van de regering?",
+    "translations": {
+      "en": "सरकारको लेखा, २०२६ को बजेट कसरी काम गर्छ?"
+    },
+    "segments": [
+      {
+        "token": "Hoe",
+        "startTime": 2040,
+        "endTime": 2220
+      },
+      {
+        "token": "werkt",
+        "startTime": 2220,
+        "endTime": 2500
+      },
+      {
+        "token": "de",
+        "startTime": 2500,
+        "endTime": 2620
+      },
+      {
+        "token": "begroting",
+        "startTime": 2620,
+        "endTime": 3060
+      },
+      {
+        "token": "van",
+        "startTime": 3060,
+        "endTime": 3280
+      },
+      {
+        "token": "2026,",
+        "startTime": 3280,
+        "endTime": 4780
+      },
+      {
+        "token": "de",
+        "startTime": 4780,
+        "endTime": 4920
+      },
+      {
+        "token": "boekhouding",
+        "startTime": 4920,
+        "endTime": 5560
+      },
+      {
+        "token": "van",
+        "startTime": 5560,
+        "endTime": 6000
+      },
+      {
+        "token": "de",
+        "startTime": 6000,
+        "endTime": 6200
+      },
+      {
+        "token": "regering?",
+        "startTime": 6200,
+        "endTime": 7420
+      }
+    ]
+  },
+  {
+    "sentence_text": "Er komt voor de staat 267 miljard euro aan belastingen en bijdrage binnen,",
+    "translations": {
+      "en": "राज्यमा २६७ अर्ब युरो कर र योगदान आउँछ,"
+    },
+    "segments": [
+      {
+        "token": "Er",
+        "startTime": 7420,
+        "endTime": 7540
+      },
+      {
+        "token": "komt",
+        "startTime": 7540,
+        "endTime": 7740
+      },
+      {
+        "token": "voor",
+        "startTime": 7740,
+        "endTime": 7860
+      },
+      {
+        "token": "de",
+        "startTime": 7860,
+        "endTime": 8039
+      },
+      {
+        "token": "staat",
+        "startTime": 8039,
+        "endTime": 8340
+      },
+      {
+        "token": "267",
+        "startTime": 8340,
+        "endTime": 9900
+      },
+      {
+        "token": "miljard",
+        "startTime": 9900,
+        "endTime": 10260
+      },
+      {
+        "token": "euro",
+        "startTime": 10260,
+        "endTime": 10520
+      },
+      {
+        "token": "aan",
+        "startTime": 10520,
+        "endTime": 10660
+      },
+      {
+        "token": "belastingen",
+        "startTime": 10660,
+        "endTime": 11200
+      },
+      {
+        "token": "en",
+        "startTime": 11200,
+        "endTime": 11360
+      },
+      {
+        "token": "bijdrage",
+        "startTime": 11360,
+        "endTime": 11820
+      },
+      {
+        "token": "binnen,",
+        "startTime": 11820,
+        "endTime": 12220
+      }
+    ]
+  },
+  {
+    "sentence_text": "maar er gaat 293 miljard euro naar buiten.",
+    "translations": {
+      "en": "तर २९३ अर्ब युरो बाहिर जान्छ।"
+    },
+    "segments": [
+      {
+        "token": "maar",
+        "startTime": 12220,
+        "endTime": 12540
+      },
+      {
+        "token": "er",
+        "startTime": 12540,
+        "endTime": 13060
+      },
+      {
+        "token": "gaat",
+        "startTime": 13060,
+        "endTime": 13300
+      },
+      {
+        "token": "293",
+        "startTime": 13300,
+        "endTime": 14700
+      },
+      {
+        "token": "miljard",
+        "startTime": 14700,
+        "endTime": 14980
+      },
+      {
+        "token": "euro",
+        "startTime": 14980,
+        "endTime": 15240
+      },
+      {
+        "token": "naar",
+        "startTime": 15240,
+        "endTime": 15400
+      },
+      {
+        "token": "buiten.",
+        "startTime": 15400,
+        "endTime": 16100
+      }
+    ]
+  },
+  {
+    "sentence_text": "Gevolg het begrotingstekort. 24,6 miljard euro dit jaar.",
+    "translations": {
+      "en": "परिणामस्वरूप बजेट घाटा। यस वर्ष २४.६ अर्ब युरो।"
+    },
+    "segments": [
+      {
+        "token": "Gevolg",
+        "startTime": 16100,
+        "endTime": 16580
+      },
+      {
+        "token": "het",
+        "startTime": 16580,
+        "endTime": 17120
+      },
+      {
+        "token": "begrotingstekort.",
+        "startTime": 17120,
+        "endTime": 18260
+      },
+      {
+        "token": "24,6",
+        "startTime": 18260,
+        "endTime": 19840
+      },
+      {
+        "token": "miljard",
+        "startTime": 19840,
+        "endTime": 20280
+      },
+      {
+        "token": "euro",
+        "startTime": 20280,
+        "endTime": 20620
+      },
+      {
+        "token": "dit",
+        "startTime": 20620,
+        "endTime": 21140
+      },
+      {
+        "token": "jaar.",
+        "startTime": 21140,
+        "endTime": 21700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Zoveel staat de rekening in het rood.",
+    "translations": {
+      "en": "यति धेरै खाता रातोमा छ।"
+    },
+    "segments": [
+      {
+        "token": "Zoveel",
+        "startTime": 21700,
+        "endTime": 22120
+      },
+      {
+        "token": "staat",
+        "startTime": 22120,
+        "endTime": 22380
+      },
+      {
+        "token": "de",
+        "startTime": 22380,
+        "endTime": 22580
+      },
+      {
+        "token": "rekening",
+        "startTime": 22580,
+        "endTime": 23120
+      },
+      {
+        "token": "in",
+        "startTime": 23120,
+        "endTime": 23360
+      },
+      {
+        "token": "het",
+        "startTime": 23360,
+        "endTime": 23460
+      },
+      {
+        "token": "rood.",
+        "startTime": 23460,
+        "endTime": 24580
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar wat doet de regering met uw centen?",
+    "translations": {
+      "en": "तर सरकारले तपाईंको पैसा के गर्छ?"
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 24580,
+        "endTime": 24820
+      },
+      {
+        "token": "wat",
+        "startTime": 24820,
+        "endTime": 25280
+      },
+      {
+        "token": "doet",
+        "startTime": 25280,
+        "endTime": 25500
+      },
+      {
+        "token": "de",
+        "startTime": 25500,
+        "endTime": 25600
+      },
+      {
+        "token": "regering",
+        "startTime": 25600,
+        "endTime": 26000
+      },
+      {
+        "token": "met",
+        "startTime": 26000,
+        "endTime": 26240
+      },
+      {
+        "token": "uw",
+        "startTime": 26240,
+        "endTime": 26500
+      },
+      {
+        "token": "centen?",
+        "startTime": 26500,
+        "endTime": 26500
+      }
+    ]
+  },
+  {
+    "sentence_text": "Het geld dat binnenkomt. 147,3 miljard euro geven wij uit aan de sociale zekerheid.",
+    "translations": {
+      "en": "आउने पैसा। १४७.३ अर्ब युरो हामी सामाजिक सुरक्षामा खर्च गर्छौं।"
+    },
+    "segments": [
+      {
+        "token": "Het",
+        "startTime": 26500,
+        "endTime": 27020
+      },
+      {
+        "token": "geld",
+        "startTime": 27020,
+        "endTime": 27280
+      },
+      {
+        "token": "dat",
+        "startTime": 27280,
+        "endTime": 27680
+      },
+      {
+        "token": "binnenkomt.",
+        "startTime": 27680,
+        "endTime": 29060
+      },
+      {
+        "token": "147,3",
+        "startTime": 29060,
+        "endTime": 30820
+      },
+      {
+        "token": "miljard",
+        "startTime": 30820,
+        "endTime": 31140
+      },
+      {
+        "token": "euro",
+        "startTime": 31140,
+        "endTime": 31380
+      },
+      {
+        "token": "geven",
+        "startTime": 31380,
+        "endTime": 31740
+      },
+      {
+        "token": "wij",
+        "startTime": 31740,
+        "endTime": 31900
+      },
+      {
+        "token": "uit",
+        "startTime": 31900,
+        "endTime": 32080
+      },
+      {
+        "token": "aan",
+        "startTime": 32080,
+        "endTime": 32320
+      },
+      {
+        "token": "de",
+        "startTime": 32320,
+        "endTime": 32800
+      },
+      {
+        "token": "sociale",
+        "startTime": 32800,
+        "endTime": 33360
+      },
+      {
+        "token": "zekerheid.",
+        "startTime": 33360,
+        "endTime": 34060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dit is de helft van alles wat de staat uitgeeft.",
+    "translations": {
+      "en": "यो राज्यले खर्च गर्ने सबैको आधा हो।"
+    },
+    "segments": [
+      {
+        "token": "Dit",
+        "startTime": 34060,
+        "endTime": 34380
+      },
+      {
+        "token": "is",
+        "startTime": 34380,
+        "endTime": 34540
+      },
+      {
+        "token": "de",
+        "startTime": 34540,
+        "endTime": 34720
+      },
+      {
+        "token": "helft",
+        "startTime": 34720,
+        "endTime": 35100
+      },
+      {
+        "token": "van",
+        "startTime": 35100,
+        "endTime": 35220
+      },
+      {
+        "token": "alles",
+        "startTime": 35220,
+        "endTime": 35660
+      },
+      {
+        "token": "wat",
+        "startTime": 35660,
+        "endTime": 36120
+      },
+      {
+        "token": "de",
+        "startTime": 36120,
+        "endTime": 36260
+      },
+      {
+        "token": "staat",
+        "startTime": 36260,
+        "endTime": 36560
+      },
+      {
+        "token": "uitgeeft.",
+        "startTime": 36560,
+        "endTime": 37460
+      }
+    ]
+  },
+  {
+    "sentence_text": "Wat valt daar onder meer onder?",
+    "translations": {
+      "en": "यस अन्तर्गत के-के पर्छ?"
+    },
+    "segments": [
+      {
+        "token": "Wat",
+        "startTime": 37460,
+        "endTime": 37920
+      },
+      {
+        "token": "valt",
+        "startTime": 37920,
+        "endTime": 38320
+      },
+      {
+        "token": "daar",
+        "startTime": 38320,
+        "endTime": 38520
+      },
+      {
+        "token": "onder",
+        "startTime": 38520,
+        "endTime": 38780
+      },
+      {
+        "token": "meer",
+        "startTime": 38780,
+        "endTime": 38900
+      },
+      {
+        "token": "onder?",
+        "startTime": 38900,
+        "endTime": 39440
+      }
+    ]
+  },
+  {
+    "sentence_text": "De grote kosten. 72,3 miljard euro gaat naar pensioenen.",
+    "translations": {
+      "en": "ठूला खर्चहरू। ७२.३ अर्ब युरो पेन्सनमा जान्छ।"
+    },
+    "segments": [
+      {
+        "token": "De",
+        "startTime": 39440,
+        "endTime": 39500
+      },
+      {
+        "token": "grote",
+        "startTime": 39500,
+        "endTime": 39880
+      },
+      {
+        "token": "kosten.",
+        "startTime": 39880,
+        "endTime": 40320
+      },
+      {
+        "token": "72,3",
+        "startTime": 40320,
+        "endTime": 41980
+      },
+      {
+        "token": "miljard",
+        "startTime": 41980,
+        "endTime": 42340
+      },
+      {
+        "token": "euro",
+        "startTime": 42340,
+        "endTime": 42640
+      },
+      {
+        "token": "gaat",
+        "startTime": 42640,
+        "endTime": 43160
+      },
+      {
+        "token": "naar",
+        "startTime": 43160,
+        "endTime": 43440
+      },
+      {
+        "token": "pensioenen.",
+        "startTime": 43440,
+        "endTime": 44840
+      }
+    ]
+  },
+  {
+    "sentence_text": "41,3 miljard euro geven wij uit aan alles wat met geneeskundige zorg te maken heeft.",
+    "translations": {
+      "en": "४१.३ अर्ब युरो हामी चिकित्सा हेरचाहसँग सम्बन्धित सबै कुरामा खर्च गर्छौं।"
+    },
+    "segments": [
+      {
+        "token": "41,3",
+        "startTime": 44840,
+        "endTime": 45980
+      },
+      {
+        "token": "miljard",
+        "startTime": 45980,
+        "endTime": 46280
+      },
+      {
+        "token": "euro",
+        "startTime": 46280,
+        "endTime": 46580
+      },
+      {
+        "token": "geven",
+        "startTime": 46580,
+        "endTime": 47080
+      },
+      {
+        "token": "wij",
+        "startTime": 47080,
+        "endTime": 47240
+      },
+      {
+        "token": "uit",
+        "startTime": 47240,
+        "endTime": 47380
+      },
+      {
+        "token": "aan",
+        "startTime": 47380,
+        "endTime": 47540
+      },
+      {
+        "token": "alles",
+        "startTime": 47540,
+        "endTime": 47540
+      },
+      {
+        "token": "wat",
+        "startTime": 47540,
+        "endTime": 47960
+      },
+      {
+        "token": "met",
+        "startTime": 47960,
+        "endTime": 48100
+      },
+      {
+        "token": "geneeskundige",
+        "startTime": 48100,
+        "endTime": 49000
+      },
+      {
+        "token": "zorg",
+        "startTime": 49000,
+        "endTime": 49320
+      },
+      {
+        "token": "te",
+        "startTime": 49320,
+        "endTime": 49500
+      },
+      {
+        "token": "maken",
+        "startTime": 49500,
+        "endTime": 49720
+      },
+      {
+        "token": "heeft.",
+        "startTime": 49720,
+        "endTime": 49840
+      }
+    ]
+  },
+  {
+    "sentence_text": "Lonen van dokters, verplegers, terugbetalingen van zorgmedicijnen,",
+    "translations": {
+      "en": "डाक्टर, नर्सको तलब, औषधिको प्रतिपूर्ति,"
+    },
+    "segments": [
+      {
+        "token": "Lonen",
+        "startTime": 49840,
+        "endTime": 50280
+      },
+      {
+        "token": "van",
+        "startTime": 50280,
+        "endTime": 50420
+      },
+      {
+        "token": "dokters,",
+        "startTime": 50420,
+        "endTime": 50860
+      },
+      {
+        "token": "verplegers,",
+        "startTime": 50860,
+        "endTime": 51520
+      },
+      {
+        "token": "terugbetalingen",
+        "startTime": 51520,
+        "endTime": 52200
+      },
+      {
+        "token": "van",
+        "startTime": 52200,
+        "endTime": 52340
+      },
+      {
+        "token": "zorgmedicijnen,",
+        "startTime": 52340,
+        "endTime": 54280
+      }
+    ]
+  },
+  {
+    "sentence_text": "En ook nog 15,9 miljard euro aan uitkeringen voor ziekte of werkloosheid.",
+    "translations": {
+      "en": "र बिरामी वा बेरोजगारीको लागि १५.९ अर्ब युरो भत्ता पनि।"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 54280,
+        "endTime": 54440
+      },
+      {
+        "token": "ook",
+        "startTime": 54440,
+        "endTime": 54820
+      },
+      {
+        "token": "nog",
+        "startTime": 54820,
+        "endTime": 55080
+      },
+      {
+        "token": "15,9",
+        "startTime": 55080,
+        "endTime": 56860
+      },
+      {
+        "token": "miljard",
+        "startTime": 56860,
+        "endTime": 57220
+      },
+      {
+        "token": "euro",
+        "startTime": 57220,
+        "endTime": 57520
+      },
+      {
+        "token": "aan",
+        "startTime": 57520,
+        "endTime": 57660
+      },
+      {
+        "token": "uitkeringen",
+        "startTime": 57660,
+        "endTime": 58480
+      },
+      {
+        "token": "voor",
+        "startTime": 58480,
+        "endTime": 58900
+      },
+      {
+        "token": "ziekte",
+        "startTime": 58900,
+        "endTime": 59400
+      },
+      {
+        "token": "of",
+        "startTime": 59400,
+        "endTime": 59660
+      },
+      {
+        "token": "werkloosheid.",
+        "startTime": 59660,
+        "endTime": 61500
+      }
+    ]
+  },
+  {
+    "sentence_text": "Naast de sociale zekerheid, wat is er nog?",
+    "translations": {
+      "en": "सामाजिक सुरक्षा बाहेक, अरू के छ?"
+    },
+    "segments": [
+      {
+        "token": "Naast",
+        "startTime": 61500,
+        "endTime": 61920
+      },
+      {
+        "token": "de",
+        "startTime": 61920,
+        "endTime": 62120
+      },
+      {
+        "token": "sociale",
+        "startTime": 62120,
+        "endTime": 62620
+      },
+      {
+        "token": "zekerheid,",
+        "startTime": 62620,
+        "endTime": 63220
+      },
+      {
+        "token": "wat",
+        "startTime": 63220,
+        "endTime": 63340
+      },
+      {
+        "token": "is",
+        "startTime": 63340,
+        "endTime": 63540
+      },
+      {
+        "token": "er",
+        "startTime": 63540,
+        "endTime": 63740
+      },
+      {
+        "token": "nog?",
+        "startTime": 63740,
+        "endTime": 64040
+      }
+    ]
+  },
+  {
+    "sentence_text": "Een bijzonder groot bedrag, 81,5 miljard euro, dat is de federale regering meteen kwijt,",
+    "translations": {
+      "en": "एक विशेष ठूलो रकम, ८१.५ अर्ब युरो, संघीय सरकारले तुरुन्तै गुमाउँछ,"
+    },
+    "segments": [
+      {
+        "token": "Een",
+        "startTime": 64040,
+        "endTime": 64800
+      },
+      {
+        "token": "bijzonder",
+        "startTime": 64800,
+        "endTime": 65280
+      },
+      {
+        "token": "groot",
+        "startTime": 65280,
+        "endTime": 65560
+      },
+      {
+        "token": "bedrag,",
+        "startTime": 65560,
+        "endTime": 66040
+      },
+      {
+        "token": "81,5",
+        "startTime": 66040,
+        "endTime": 67380
+      },
+      {
+        "token": "miljard",
+        "startTime": 67380,
+        "endTime": 67700
+      },
+      {
+        "token": "euro,",
+        "startTime": 67700,
+        "endTime": 68080
+      },
+      {
+        "token": "dat",
+        "startTime": 68080,
+        "endTime": 68500
+      },
+      {
+        "token": "is",
+        "startTime": 68500,
+        "endTime": 68780
+      },
+      {
+        "token": "de",
+        "startTime": 68780,
+        "endTime": 68900
+      },
+      {
+        "token": "federale",
+        "startTime": 68900,
+        "endTime": 69460
+      },
+      {
+        "token": "regering",
+        "startTime": 69460,
+        "endTime": 69860
+      },
+      {
+        "token": "meteen",
+        "startTime": 69860,
+        "endTime": 70400
+      },
+      {
+        "token": "kwijt,",
+        "startTime": 70400,
+        "endTime": 70760
+      }
+    ]
+  },
+  {
+    "sentence_text": "want ze storten het door naar de regio's.",
+    "translations": {
+      "en": "किनभने उनीहरूले यसलाई क्षेत्रहरूमा पठाउँछन्।"
+    },
+    "segments": [
+      {
+        "token": "want",
+        "startTime": 70760,
+        "endTime": 70940
+      },
+      {
+        "token": "ze",
+        "startTime": 70940,
+        "endTime": 71080
+      },
+      {
+        "token": "storten",
+        "startTime": 71080,
+        "endTime": 71500
+      },
+      {
+        "token": "het",
+        "startTime": 71500,
+        "endTime": 71610
+      },
+      {
+        "token": "door",
+        "startTime": 71610,
+        "endTime": 71850
+      },
+      {
+        "token": "naar",
+        "startTime": 71850,
+        "endTime": 71970
+      },
+      {
+        "token": "de",
+        "startTime": 71970,
+        "endTime": 72110
+      },
+      {
+        "token": "regio's.",
+        "startTime": 72110,
+        "endTime": 72630
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vlaanderen, Brussel en Wallonië, dat is voor onderwijs en welzijn.",
+    "translations": {
+      "en": "फ्ल्यान्डर्स, ब्रसेल्स र वालोनिया, यो शिक्षा र कल्याणको लागि हो।"
+    },
+    "segments": [
+      {
+        "token": "Vlaanderen,",
+        "startTime": 72630,
+        "endTime": 73350
+      },
+      {
+        "token": "Brussel",
+        "startTime": 73350,
+        "endTime": 73650
+      },
+      {
+        "token": "en",
+        "startTime": 73650,
+        "endTime": 73830
+      },
+      {
+        "token": "Wallonië,",
+        "startTime": 73830,
+        "endTime": 74410
+      },
+      {
+        "token": "dat",
+        "startTime": 74410,
+        "endTime": 74790
+      },
+      {
+        "token": "is",
+        "startTime": 74790,
+        "endTime": 74810
+      },
+      {
+        "token": "voor",
+        "startTime": 74810,
+        "endTime": 74990
+      },
+      {
+        "token": "onderwijs",
+        "startTime": 74990,
+        "endTime": 75390
+      },
+      {
+        "token": "en",
+        "startTime": 75390,
+        "endTime": 75570
+      },
+      {
+        "token": "welzijn.",
+        "startTime": 75570,
+        "endTime": 76650
+      }
+    ]
+  },
+  {
+    "sentence_text": "En we betalen 9,1 miljard euro jaarlijks lidgeld aan Europa.",
+    "translations": {
+      "en": "र हामी युरोपलाई वार्षिक ९.१ अर्ब युरो सदस्यता शुल्क तिर्छौं।"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 76650,
+        "endTime": 77030
+      },
+      {
+        "token": "we",
+        "startTime": 77030,
+        "endTime": 77410
+      },
+      {
+        "token": "betalen",
+        "startTime": 77410,
+        "endTime": 77750
+      },
+      {
+        "token": "9,1",
+        "startTime": 77750,
+        "endTime": 78630
+      },
+      {
+        "token": "miljard",
+        "startTime": 78630,
+        "endTime": 78910
+      },
+      {
+        "token": "euro",
+        "startTime": 78910,
+        "endTime": 79210
+      },
+      {
+        "token": "jaarlijks",
+        "startTime": 79210,
+        "endTime": 79830
+      },
+      {
+        "token": "lidgeld",
+        "startTime": 79830,
+        "endTime": 80190
+      },
+      {
+        "token": "aan",
+        "startTime": 80190,
+        "endTime": 80450
+      },
+      {
+        "token": "Europa.",
+        "startTime": 80450,
+        "endTime": 81670
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dus je hebt ruwweg dit wat we uitgeven.",
+    "translations": {
+      "en": "त्यसैले हामीले खर्च गर्ने कुरा मोटामोटी यही हो।"
+    },
+    "segments": [
+      {
+        "token": "Dus",
+        "startTime": 81670,
+        "endTime": 82010
+      },
+      {
+        "token": "je",
+        "startTime": 82010,
+        "endTime": 82570
+      },
+      {
+        "token": "hebt",
+        "startTime": 82570,
+        "endTime": 82690
+      },
+      {
+        "token": "ruwweg",
+        "startTime": 82690,
+        "endTime": 83390
+      },
+      {
+        "token": "dit",
+        "startTime": 83390,
+        "endTime": 83830
+      },
+      {
+        "token": "wat",
+        "startTime": 83830,
+        "endTime": 84110
+      },
+      {
+        "token": "we",
+        "startTime": 84110,
+        "endTime": 84390
+      },
+      {
+        "token": "uitgeven.",
+        "startTime": 84390,
+        "endTime": 85510
+      }
+    ]
+  },
+  {
+    "sentence_text": "En dan is er nog een grote kost, dat is de rente.",
+    "translations": {
+      "en": "अनि त्यहाँ अर्को ठूलो लागत छ, त्यो हो ब्याज।"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 85510,
+        "endTime": 85870
+      },
+      {
+        "token": "dan",
+        "startTime": 85870,
+        "endTime": 86030
+      },
+      {
+        "token": "is",
+        "startTime": 86030,
+        "endTime": 86050
+      },
+      {
+        "token": "er",
+        "startTime": 86050,
+        "endTime": 86150
+      },
+      {
+        "token": "nog",
+        "startTime": 86150,
+        "endTime": 86490
+      },
+      {
+        "token": "een",
+        "startTime": 86490,
+        "endTime": 86750
+      },
+      {
+        "token": "grote",
+        "startTime": 86750,
+        "endTime": 87090
+      },
+      {
+        "token": "kost,",
+        "startTime": 87090,
+        "endTime": 87490
+      },
+      {
+        "token": "dat",
+        "startTime": 87490,
+        "endTime": 87570
+      },
+      {
+        "token": "is",
+        "startTime": 87570,
+        "endTime": 87710
+      },
+      {
+        "token": "de",
+        "startTime": 87710,
+        "endTime": 88010
+      },
+      {
+        "token": "rente.",
+        "startTime": 88010,
+        "endTime": 88570
+      }
+    ]
+  },
+  {
+    "sentence_text": "Rente die we betalen op onze schulden, daar betalen we voor 12,3 miljard euro nu.",
+    "translations": {
+      "en": "हामीले हाम्रो ऋणमा तिर्ने ब्याज, त्यसको लागि हामी अहिले १२.३ अर्ब युरो तिर्दैछौं।"
+    },
+    "segments": [
+      {
+        "token": "Rente",
+        "startTime": 88570,
+        "endTime": 89130
+      },
+      {
+        "token": "die",
+        "startTime": 89130,
+        "endTime": 89270
+      },
+      {
+        "token": "we",
+        "startTime": 89270,
+        "endTime": 89370
+      },
+      {
+        "token": "betalen",
+        "startTime": 89370,
+        "endTime": 89770
+      },
+      {
+        "token": "op",
+        "startTime": 89770,
+        "endTime": 89930
+      },
+      {
+        "token": "onze",
+        "startTime": 89930,
+        "endTime": 90190
+      },
+      {
+        "token": "schulden,",
+        "startTime": 90190,
+        "endTime": 90650
+      },
+      {
+        "token": "daar",
+        "startTime": 90650,
+        "endTime": 90830
+      },
+      {
+        "token": "betalen",
+        "startTime": 90830,
+        "endTime": 91250
+      },
+      {
+        "token": "we",
+        "startTime": 91250,
+        "endTime": 91370
+      },
+      {
+        "token": "voor",
+        "startTime": 91370,
+        "endTime": 91490
+      },
+      {
+        "token": "12,3",
+        "startTime": 91490,
+        "endTime": 92870
+      },
+      {
+        "token": "miljard",
+        "startTime": 92870,
+        "endTime": 93470
+      },
+      {
+        "token": "euro",
+        "startTime": 93470,
+        "endTime": 93790
+      },
+      {
+        "token": "nu.",
+        "startTime": 93790,
+        "endTime": 94010
+      }
+    ]
+  },
+  {
+    "sentence_text": "En dat stijgt straks tot zo'n 20 miljard euro in 2029.",
+    "translations": {
+      "en": "र त्यो २०२९ सम्ममा लगभग २० अर्ब युरो पुग्नेछ।"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 94010,
+        "endTime": 94290
+      },
+      {
+        "token": "dat",
+        "startTime": 94290,
+        "endTime": 94470
+      },
+      {
+        "token": "stijgt",
+        "startTime": 94470,
+        "endTime": 94930
+      },
+      {
+        "token": "straks",
+        "startTime": 94930,
+        "endTime": 95310
+      },
+      {
+        "token": "tot",
+        "startTime": 95310,
+        "endTime": 95510
+      },
+      {
+        "token": "zo'n",
+        "startTime": 95510,
+        "endTime": 95770
+      },
+      {
+        "token": "20",
+        "startTime": 95770,
+        "endTime": 96270
+      },
+      {
+        "token": "miljard",
+        "startTime": 96270,
+        "endTime": 96670
+      },
+      {
+        "token": "euro",
+        "startTime": 96670,
+        "endTime": 96950
+      },
+      {
+        "token": "in",
+        "startTime": 96950,
+        "endTime": 97250
+      },
+      {
+        "token": "2029.",
+        "startTime": 97250,
+        "endTime": 98190
+      }
+    ]
+  },
+  {
+    "sentence_text": "Niet voor beleid, maar om onze schulden af te betalen.",
+    "translations": {
+      "en": "नीतिको लागि होइन, तर हाम्रो ऋण तिर्नको लागि।"
+    },
+    "segments": [
+      {
+        "token": "Niet",
+        "startTime": 98190,
+        "endTime": 98570
+      },
+      {
+        "token": "voor",
+        "startTime": 98570,
+        "endTime": 98770
+      },
+      {
+        "token": "beleid,",
+        "startTime": 98770,
+        "endTime": 99250
+      },
+      {
+        "token": "maar",
+        "startTime": 99250,
+        "endTime": 99730
+      },
+      {
+        "token": "om",
+        "startTime": 99730,
+        "endTime": 99930
+      },
+      {
+        "token": "onze",
+        "startTime": 99930,
+        "endTime": 100210
+      },
+      {
+        "token": "schulden",
+        "startTime": 100210,
+        "endTime": 100810
+      },
+      {
+        "token": "af",
+        "startTime": 100810,
+        "endTime": 101030
+      },
+      {
+        "token": "te",
+        "startTime": 101030,
+        "endTime": 101150
+      },
+      {
+        "token": "betalen.",
+        "startTime": 101150,
+        "endTime": 101770
+      }
+    ]
+  },
+  {
+    "sentence_text": "Wat blijft er dan nog over met die rente er nu bij?",
+    "translations": {
+      "en": "अब त्यो ब्याज थप्दा के बाँकी रहन्छ?"
+    },
+    "segments": [
+      {
+        "token": "Wat",
+        "startTime": 101770,
+        "endTime": 102230
+      },
+      {
+        "token": "blijft",
+        "startTime": 102230,
+        "endTime": 102570
+      },
+      {
+        "token": "er",
+        "startTime": 102570,
+        "endTime": 102750
+      },
+      {
+        "token": "dan",
+        "startTime": 102750,
+        "endTime": 102870
+      },
+      {
+        "token": "nog",
+        "startTime": 102870,
+        "endTime": 103010
+      },
+      {
+        "token": "over",
+        "startTime": 103010,
+        "endTime": 103390
+      },
+      {
+        "token": "met",
+        "startTime": 103390,
+        "endTime": 103930
+      },
+      {
+        "token": "die",
+        "startTime": 103930,
+        "endTime": 104190
+      },
+      {
+        "token": "rente",
+        "startTime": 104190,
+        "endTime": 104590
+      },
+      {
+        "token": "er",
+        "startTime": 104590,
+        "endTime": 104790
+      },
+      {
+        "token": "nu",
+        "startTime": 104790,
+        "endTime": 105050
+      },
+      {
+        "token": "bij?",
+        "startTime": 105050,
+        "endTime": 105410
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar een kleine 42 miljard euro waarmee de regering de Wever het moet doen.",
+    "translations": {
+      "en": "केवल ४२ अर्ब युरोभन्दा अलि बढी, जसले गर्दा डे वेभर सरकारले काम गर्नुपर्छ।"
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 105410,
+        "endTime": 106170
+      },
+      {
+        "token": "een",
+        "startTime": 106170,
+        "endTime": 106730
+      },
+      {
+        "token": "kleine",
+        "startTime": 106730,
+        "endTime": 107070
+      },
+      {
+        "token": "42",
+        "startTime": 107070,
+        "endTime": 107750
+      },
+      {
+        "token": "miljard",
+        "startTime": 107750,
+        "endTime": 108210
+      },
+      {
+        "token": "euro",
+        "startTime": 108210,
+        "endTime": 108550
+      },
+      {
+        "token": "waarmee",
+        "startTime": 108550,
+        "endTime": 108870
+      },
+      {
+        "token": "de",
+        "startTime": 108870,
+        "endTime": 109010
+      },
+      {
+        "token": "regering",
+        "startTime": 109010,
+        "endTime": 109290
+      },
+      {
+        "token": "de",
+        "startTime": 109290,
+        "endTime": 109470
+      },
+      {
+        "token": "Wever",
+        "startTime": 109470,
+        "endTime": 109650
+      },
+      {
+        "token": "het",
+        "startTime": 109650,
+        "endTime": 109790
+      },
+      {
+        "token": "moet",
+        "startTime": 109790,
+        "endTime": 109910
+      },
+      {
+        "token": "doen.",
+        "startTime": 109910,
+        "endTime": 110230
+      }
+    ]
+  },
+  {
+    "sentence_text": "Sociale zekerheid is ook voor zijn regering.",
+    "translations": {
+      "en": "सामाजिक सुरक्षा पनि उनको सरकारको लागि हो।"
+    },
+    "segments": [
+      {
+        "token": "Sociale",
+        "startTime": 110230,
+        "endTime": 110930
+      },
+      {
+        "token": "zekerheid",
+        "startTime": 110930,
+        "endTime": 111330
+      },
+      {
+        "token": "is",
+        "startTime": 111330,
+        "endTime": 111450
+      },
+      {
+        "token": "ook",
+        "startTime": 111450,
+        "endTime": 111690
+      },
+      {
+        "token": "voor",
+        "startTime": 111690,
+        "endTime": 111930
+      },
+      {
+        "token": "zijn",
+        "startTime": 111930,
+        "endTime": 112090
+      },
+      {
+        "token": "regering.",
+        "startTime": 112090,
+        "endTime": 112650
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar dit bedrag is voor justitie, politie, defensie, mobiliteit, energie, ambtenaren besparen.",
+    "translations": {
+      "en": "तर यो रकम न्याय, प्रहरी, रक्षा, गतिशीलता, ऊर्जा, र कर्मचारी बचतको लागि हो।"
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 112650,
+        "endTime": 113010
+      },
+      {
+        "token": "dit",
+        "startTime": 113010,
+        "endTime": 113210
+      },
+      {
+        "token": "bedrag",
+        "startTime": 113210,
+        "endTime": 113590
+      },
+      {
+        "token": "is",
+        "startTime": 113590,
+        "endTime": 113830
+      },
+      {
+        "token": "voor",
+        "startTime": 113830,
+        "endTime": 114070
+      },
+      {
+        "token": "justitie,",
+        "startTime": 114070,
+        "endTime": 114870
+      },
+      {
+        "token": "politie,",
+        "startTime": 114870,
+        "endTime": 115430
+      },
+      {
+        "token": "defensie,",
+        "startTime": 115430,
+        "endTime": 115430
+      },
+      {
+        "token": "mobiliteit,",
+        "startTime": 115430,
+        "endTime": 116690
+      },
+      {
+        "token": "energie,",
+        "startTime": 116690,
+        "endTime": 117250
+      },
+      {
+        "token": "ambtenaren",
+        "startTime": 117250,
+        "endTime": 117850
+      },
+      {
+        "token": "besparen.",
+        "startTime": 117850,
+        "endTime": 118390
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hier is heel erg moeilijk, want je moet veel doen met niet zoveel centen.",
+    "translations": {
+      "en": "यहाँ धेरै गाह्रो छ, किनकि तपाईंले धेरै काम गर्नुपर्छ तर पैसा धेरै छैन।"
+    },
+    "segments": [
+      {
+        "token": "Hier",
+        "startTime": 118390,
+        "endTime": 119310
+      },
+      {
+        "token": "is",
+        "startTime": 119310,
+        "endTime": 119470
+      },
+      {
+        "token": "heel",
+        "startTime": 119470,
+        "endTime": 119830
+      },
+      {
+        "token": "erg",
+        "startTime": 119830,
+        "endTime": 120170
+      },
+      {
+        "token": "moeilijk,",
+        "startTime": 120170,
+        "endTime": 120870
+      },
+      {
+        "token": "want",
+        "startTime": 120870,
+        "endTime": 121230
+      },
+      {
+        "token": "je",
+        "startTime": 121230,
+        "endTime": 121350
+      },
+      {
+        "token": "moet",
+        "startTime": 121350,
+        "endTime": 121450
+      },
+      {
+        "token": "veel",
+        "startTime": 121450,
+        "endTime": 121850
+      },
+      {
+        "token": "doen",
+        "startTime": 121850,
+        "endTime": 122070
+      },
+      {
+        "token": "met",
+        "startTime": 122070,
+        "endTime": 122470
+      },
+      {
+        "token": "niet",
+        "startTime": 122470,
+        "endTime": 122770
+      },
+      {
+        "token": "zoveel",
+        "startTime": 122770,
+        "endTime": 123050
+      },
+      {
+        "token": "centen.",
+        "startTime": 123050,
+        "endTime": 124690
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vijf miljard euro wil premier De Wever nu nog vinden.",
+    "translations": {
+      "en": "प्रधानमन्त्री डे वेभरले अझै पाँच अर्ब युरो खोज्न चाहन्छन्।"
+    },
+    "segments": [
+      {
+        "token": "Vijf",
+        "startTime": 124690,
+        "endTime": 125050
+      },
+      {
+        "token": "miljard",
+        "startTime": 125050,
+        "endTime": 125310
+      },
+      {
+        "token": "euro",
+        "startTime": 125310,
+        "endTime": 125570
+      },
+      {
+        "token": "wil",
+        "startTime": 125570,
+        "endTime": 125690
+      },
+      {
+        "token": "premier",
+        "startTime": 125690,
+        "endTime": 125950
+      },
+      {
+        "token": "De",
+        "startTime": 125950,
+        "endTime": 126150
+      },
+      {
+        "token": "Wever",
+        "startTime": 126150,
+        "endTime": 126390
+      },
+      {
+        "token": "nu",
+        "startTime": 126390,
+        "endTime": 126610
+      },
+      {
+        "token": "nog",
+        "startTime": 126610,
+        "endTime": 126730
+      },
+      {
+        "token": "vinden.",
+        "startTime": 126730,
+        "endTime": 127150
+      }
+    ]
+  },
+  {
+    "sentence_text": "Zeven miljard euro, denkt minister van Begroting van Petegem.",
+    "translations": {
+      "en": "बजेट मन्त्री भ्यान पेटेगेमले सात अर्ब युरो सोचेका छन्।"
+    },
+    "segments": [
+      {
+        "token": "Zeven",
+        "startTime": 127150,
+        "endTime": 127570
+      },
+      {
+        "token": "miljard",
+        "startTime": 127570,
+        "endTime": 127890
+      },
+      {
+        "token": "euro,",
+        "startTime": 127890,
+        "endTime": 128350
+      },
+      {
+        "token": "denkt",
+        "startTime": 128350,
+        "endTime": 128470
+      },
+      {
+        "token": "minister",
+        "startTime": 128470,
+        "endTime": 128690
+      },
+      {
+        "token": "van",
+        "startTime": 128690,
+        "endTime": 128930
+      },
+      {
+        "token": "Begroting",
+        "startTime": 128930,
+        "endTime": 129310
+      },
+      {
+        "token": "van",
+        "startTime": 129310,
+        "endTime": 129470
+      },
+      {
+        "token": "Petegem.",
+        "startTime": 129470,
+        "endTime": 130350
+      }
+    ]
+  },
+  {
+    "sentence_text": "In dat laatste potje alleen lukt dat veel te moeilijk.",
+    "translations": {
+      "en": "त्यो अन्तिम कोषमा मात्र यो धेरै गाह्रो छ।"
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 130350,
+        "endTime": 130510
+      },
+      {
+        "token": "dat",
+        "startTime": 130510,
+        "endTime": 130590
+      },
+      {
+        "token": "laatste",
+        "startTime": 130590,
+        "endTime": 131070
+      },
+      {
+        "token": "potje",
+        "startTime": 131070,
+        "endTime": 131370
+      },
+      {
+        "token": "alleen",
+        "startTime": 131370,
+        "endTime": 131610
+      },
+      {
+        "token": "lukt",
+        "startTime": 131610,
+        "endTime": 131890
+      },
+      {
+        "token": "dat",
+        "startTime": 131890,
+        "endTime": 132030
+      },
+      {
+        "token": "veel",
+        "startTime": 132030,
+        "endTime": 132230
+      },
+      {
+        "token": "te",
+        "startTime": 132230,
+        "endTime": 132390
+      },
+      {
+        "token": "moeilijk.",
+        "startTime": 132390,
+        "endTime": 132770
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dus daarom gaat het nu ook over de sociale zekerheid.",
+    "translations": {
+      "en": "त्यसैले अब सामाजिक सुरक्षाको बारेमा पनि कुरा भइरहेको छ।"
+    },
+    "segments": [
+      {
+        "token": "Dus",
+        "startTime": 132770,
+        "endTime": 132990
+      },
+      {
+        "token": "daarom",
+        "startTime": 132990,
+        "endTime": 133490
+      },
+      {
+        "token": "gaat",
+        "startTime": 133490,
+        "endTime": 133650
+      },
+      {
+        "token": "het",
+        "startTime": 133650,
+        "endTime": 133830
+      },
+      {
+        "token": "nu",
+        "startTime": 133830,
+        "endTime": 133970
+      },
+      {
+        "token": "ook",
+        "startTime": 133970,
+        "endTime": 134150
+      },
+      {
+        "token": "over",
+        "startTime": 134150,
+        "endTime": 134430
+      },
+      {
+        "token": "de",
+        "startTime": 134430,
+        "endTime": 134590
+      },
+      {
+        "token": "sociale",
+        "startTime": 134590,
+        "endTime": 135130
+      },
+      {
+        "token": "zekerheid.",
+        "startTime": 135130,
+        "endTime": 136150
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vandaar de vele voorstellen over besparen bij langdurig zieken en ziekenfondsen.",
+    "translations": {
+      "en": "त्यसैले दीर्घकालीन बिरामी र स्वास्थ्य बीमा कोषमा बचत गर्ने धेरै प्रस्तावहरू आएका छन्।"
+    },
+    "segments": [
+      {
+        "token": "Vandaar",
+        "startTime": 136150,
+        "endTime": 136490
+      },
+      {
+        "token": "de",
+        "startTime": 136490,
+        "endTime": 136670
+      },
+      {
+        "token": "vele",
+        "startTime": 136670,
+        "endTime": 136890
+      },
+      {
+        "token": "voorstellen",
+        "startTime": 136890,
+        "endTime": 137390
+      },
+      {
+        "token": "over",
+        "startTime": 137390,
+        "endTime": 137890
+      },
+      {
+        "token": "besparen",
+        "startTime": 137890,
+        "endTime": 138410
+      },
+      {
+        "token": "bij",
+        "startTime": 138410,
+        "endTime": 138570
+      },
+      {
+        "token": "langdurig",
+        "startTime": 138570,
+        "endTime": 139110
+      },
+      {
+        "token": "zieken",
+        "startTime": 139110,
+        "endTime": 139410
+      },
+      {
+        "token": "en",
+        "startTime": 139410,
+        "endTime": 139690
+      },
+      {
+        "token": "ziekenfondsen.",
+        "startTime": 139690,
+        "endTime": 140370
+      }
+    ]
+  }
+]
