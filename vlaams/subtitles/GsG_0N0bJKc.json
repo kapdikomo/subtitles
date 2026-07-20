@@ -1,7 +1,9 @@
 [
   {
     "sentence_text": "We zijn vandaag officieel open en we zijn juist recht over de Shuman.",
-    "translations": {},
+    "translations": {
+      "en": "हामी आज आधिकारिक रूपमा खुला छौं र हामी शुमानको ठीक अगाडि छौं।"
+    },
     "segments": [
       {
         "token": "We",
@@ -72,7 +74,9 @@
   },
   {
     "sentence_text": "Dus recht over de Europese Unie.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले युरोपेली संघको ठीक अगाडि।"
+    },
     "segments": [
       {
         "token": "Dus",
@@ -108,7 +112,9 @@
   },
   {
     "sentence_text": "Geen toeval.",
-    "translations": {},
+    "translations": {
+      "en": "संयोग होइन।"
+    },
     "segments": [
       {
         "token": "Geen",
@@ -124,7 +130,9 @@
   },
   {
     "sentence_text": "Nee, maar wij staan hier.",
-    "translations": {},
+    "translations": {
+      "en": "होइन, तर हामी यहाँ छौं।"
+    },
     "segments": [
       {
         "token": "Nee,",
@@ -155,7 +163,9 @@
   },
   {
     "sentence_text": "Een Chinese koffiebar in het hart van de Europese wijk. oogopslag al duidelijk.",
-    "translations": {},
+    "translations": {
+      "en": "युरोपेली क्षेत्रको मुटुमा एउटा चिनियाँ कफी बार। एक नजरमा स्पष्ट।"
+    },
     "segments": [
       {
         "token": "Een",
@@ -208,17 +218,17 @@
         "endTime": 18120
       },
       {
-        "token": "De",
+        "token": "oogopslag",
         "startTime": 18120,
         "endTime": 18280
       },
       {
-        "token": "ambities",
+        "token": "al",
         "startTime": 18280,
         "endTime": 18600
       },
       {
-        "token": "van",
+        "token": "duidelijk.",
         "startTime": 18600,
         "endTime": 18840
       }
@@ -226,70 +236,72 @@
   },
   {
     "sentence_text": "De koffieketen met zo'n 18.000 verkooppunten wil naast China nu ook Europa veroveren.",
-    "translations": {},
+    "translations": {
+      "en": "लगभग १८,००० बिक्री बिन्दु भएको कफी चेनले चीन पछि अब युरोप पनि जित्न चाहन्छ।"
+    },
     "segments": [
       {
-        "token": "Kotti",
+        "token": "De",
         "startTime": 18840,
         "endTime": 19140
       },
       {
-        "token": "Koffie",
+        "token": "koffieketen",
         "startTime": 19140,
         "endTime": 19440
       },
       {
-        "token": "zijn",
+        "token": "met",
         "startTime": 19440,
         "endTime": 19620
       },
       {
-        "token": "in",
+        "token": "zo'n",
         "startTime": 19620,
         "endTime": 19900
       },
       {
-        "token": "één",
+        "token": "18.000",
         "startTime": 19900,
         "endTime": 20040
       },
       {
-        "token": "oogopslag",
+        "token": "verkooppunten",
         "startTime": 20040,
         "endTime": 20720
       },
       {
-        "token": "al",
+        "token": "wil",
         "startTime": 20720,
         "endTime": 20940
       },
       {
-        "token": "duidelijk.",
+        "token": "naast",
         "startTime": 20940,
         "endTime": 22000
       },
       {
-        "token": "De",
+        "token": "China",
         "startTime": 22000,
         "endTime": 22140
       },
       {
-        "token": "koffieketen",
+        "token": "nu",
         "startTime": 22140,
         "endTime": 22720
       },
       {
-        "token": "met",
+        "token": "ook",
         "startTime": 22720,
         "endTime": 22840
       },
       {
-        "token": "zo'n",
+        "token": "Europa",
         "startTime": 22840,
         "endTime": 23060
       },
       {
-        "token": "18.000",
+        "token": "veroveren.",
         "startTime": 23060,
         "endTime": 23620
       }
@@ -297,53 +309,67 @@
   },
   {
     "sentence_text": "De hele Oost- en de hele Nederlandse verkocht zijn goed.",
-    "translations": {},
+    "translations": {
+      "en": "पूर्वी र सम्पूर्ण डच बिक्री राम्रो छ।"
+    },
     "segments": [
       {
-        "token": "verkooppunten",
+        "token": "De",
         "startTime": 23620,
-        "endTime": 24320
+        "endTime": 24258
       },
       {
-        "token": "wil",
-        "startTime": 24320,
-        "endTime": 24620
+        "token": "hele",
+        "startTime": 24258,
+        "endTime": 24896
       },
       {
-        "token": "naast",
-        "startTime": 24620,
-        "endTime": 25020
+        "token": "Oost-",
+        "startTime": 24896,
+        "endTime": 25534
       },
       {
-        "token": "China",
-        "startTime": 25020,
-        "endTime": 25200
+        "token": "en",
+        "startTime": 25534,
+        "endTime": 26172
       },
       {
-        "token": "nu",
-        "startTime": 25200,
-        "endTime": 25460
+        "token": "de",
+        "startTime": 26172,
+        "endTime": 26810
       },
       {
-        "token": "ook",
-        "startTime": 25460,
-        "endTime": 25600
+        "token": "hele",
+        "startTime": 26810,
+        "endTime": 27448
       },
       {
-        "token": "Europa",
-        "startTime": 25600,
-        "endTime": 26040
+        "token": "Nederlandse",
+        "startTime": 27448,
+        "endTime": 28086
       },
       {
-        "token": "veroveren.",
-        "startTime": 26040,
+        "token": "verkocht",
+        "startTime": 28086,
+        "endTime": 28724
+      },
+      {
+        "token": "zijn",
+        "startTime": 28724,
+        "endTime": 29362
+      },
+      {
+        "token": "goed.",
+        "startTime": 29362,
         "endTime": 30000
       }
     ]
   },
   {
     "sentence_text": "De basisingrediënten, koffie vanaf 1 euro voor wie de app",
-    "translations": {},
+    "translations": {
+      "en": "आधारभूत सामग्री, एप स्थापना गर्नेहरूका लागि १ यूरोबाट कफी"
+    },
     "segments": [
       {
         "token": "De",
@@ -354,13 +380,7 @@
         "token": "basisingrediënten,",
         "startTime": 40960,
         "endTime": 42160
-      }
-    ]
-  },
-  {
-    "sentence_text": "installeert en veel nieuwe smaken om ook de jongeren te overtuigen.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "koffie",
         "startTime": 42160,
@@ -400,19 +420,67 @@
         "token": "app",
         "startTime": 43840,
         "endTime": 44040
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "installeert en veel nieuwe smaken om ook de jongeren te overtuigen.",
+    "translations": {
+      "en": "र युवाहरूलाई पनि मनाउन धेरै नयाँ स्वादहरू।"
+    },
+    "segments": [
       {
         "token": "installeert",
+        "startTime": 42160,
+        "endTime": 42520
+      },
+      {
+        "token": "en",
+        "startTime": 42520,
+        "endTime": 42820
+      },
+      {
+        "token": "veel",
+        "startTime": 42820,
+        "endTime": 43140
+      },
+      {
+        "token": "nieuwe",
+        "startTime": 43140,
+        "endTime": 43400
+      },
+      {
+        "token": "smaken",
+        "startTime": 43400,
+        "endTime": 43620
+      },
+      {
+        "token": "om",
+        "startTime": 43620,
+        "endTime": 43740
+      },
+      {
+        "token": "ook",
+        "startTime": 43740,
+        "endTime": 43840
+      },
+      {
+        "token": "de",
+        "startTime": 43840,
+        "endTime": 44040
+      },
+      {
+        "token": "jongeren",
         "startTime": 44040,
         "endTime": 44740
       },
       {
-        "token": "en",
+        "token": "te",
         "startTime": 44740,
         "endTime": 44940
       },
       {
-        "token": "veel",
+        "token": "overtuigen.",
         "startTime": 44940,
         "endTime": 45140
       }
@@ -420,65 +488,67 @@
   },
   {
     "sentence_text": "Dus, we hebben fruitkoffies, we hebben ook fruitthee, we hebben ook matcha.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले, हामीसँग फलफूल कफी, फलफूल चिया, र माचा पनि छ।"
+    },
     "segments": [
       {
-        "token": "nieuwe",
+        "token": "Dus,",
         "startTime": 45140,
         "endTime": 45480
       },
       {
-        "token": "smaken",
+        "token": "we",
         "startTime": 45480,
         "endTime": 45880
       },
       {
-        "token": "om",
+        "token": "hebben",
         "startTime": 45880,
         "endTime": 46160
       },
       {
-        "token": "ook",
+        "token": "fruitkoffies,",
         "startTime": 46160,
         "endTime": 46300
       },
       {
-        "token": "de",
+        "token": "we",
         "startTime": 46300,
         "endTime": 46460
       },
       {
-        "token": "jongeren",
+        "token": "hebben",
         "startTime": 46460,
         "endTime": 46760
       },
       {
-        "token": "te",
+        "token": "ook",
         "startTime": 46760,
         "endTime": 46960
       },
       {
-        "token": "overtuigen.",
+        "token": "fruitthee,",
         "startTime": 46960,
         "endTime": 48340
       },
       {
-        "token": "Dus,",
+        "token": "we",
         "startTime": 48340,
         "endTime": 49380
       },
       {
-        "token": "we",
+        "token": "hebben",
         "startTime": 49380,
         "endTime": 49500
       },
       {
-        "token": "hebben",
+        "token": "ook",
         "startTime": 49500,
         "endTime": 49720
       },
       {
-        "token": "fruitkoffies,",
+        "token": "matcha.",
         "startTime": 49720,
         "endTime": 52220
       }
@@ -486,50 +556,52 @@
   },
   {
     "sentence_text": "Nu momenteel op de markt voor de jongeren zeker.",
-    "translations": {},
+    "translations": {
+      "en": "अहिले बजारमा युवाहरूका लागि निश्चित रूपमा।"
+    },
     "segments": [
       {
-        "token": "we",
+        "token": "Nu",
         "startTime": 52220,
         "endTime": 52300
       },
       {
-        "token": "hebben",
+        "token": "momenteel",
         "startTime": 52300,
         "endTime": 52420
       },
       {
-        "token": "ook",
+        "token": "op",
         "startTime": 52420,
         "endTime": 52540
       },
       {
-        "token": "fruitthee,",
+        "token": "de",
         "startTime": 52540,
         "endTime": 53900
       },
       {
-        "token": "we",
+        "token": "markt",
         "startTime": 53900,
         "endTime": 54400
       },
       {
-        "token": "hebben",
+        "token": "voor",
         "startTime": 54400,
         "endTime": 54540
       },
       {
-        "token": "ook",
+        "token": "de",
         "startTime": 54540,
         "endTime": 54760
       },
       {
-        "token": "matcha.",
+        "token": "jongeren",
         "startTime": 54760,
         "endTime": 56520
       },
       {
-        "token": "Nu",
+        "token": "zeker.",
         "startTime": 56520,
         "endTime": 56760
       }
@@ -537,25 +609,27 @@
   },
   {
     "sentence_text": "Matcha is heel populair.",
-    "translations": {},
+    "translations": {
+      "en": "माचा धेरै लोकप्रिय छ।"
+    },
     "segments": [
       {
-        "token": "momenteel",
+        "token": "Matcha",
         "startTime": 56760,
         "endTime": 57340
       },
       {
-        "token": "op",
+        "token": "is",
         "startTime": 57340,
         "endTime": 57480
       },
       {
-        "token": "de",
+        "token": "heel",
         "startTime": 57480,
         "endTime": 57620
       },
       {
-        "token": "markt",
+        "token": "populair.",
         "startTime": 57620,
         "endTime": 58080
       }
@@ -563,70 +637,72 @@
   },
   {
     "sentence_text": "Kortom, het verschil met de klassieke Belgische koffiebar kan niet veel groter zijn.",
-    "translations": {},
+    "translations": {
+      "en": "छोटकरीमा, क्लासिक बेल्जियन कफी बारसँगको भिन्नता यो भन्दा ठूलो हुन सक्दैन।"
+    },
     "segments": [
       {
-        "token": "voor",
+        "token": "Kortom,",
         "startTime": 58080,
         "endTime": 58340
       },
       {
-        "token": "de",
+        "token": "het",
         "startTime": 58340,
         "endTime": 58540
       },
       {
-        "token": "jongeren",
+        "token": "verschil",
         "startTime": 58540,
         "endTime": 58840
       },
       {
-        "token": "zeker.",
+        "token": "met",
         "startTime": 58840,
         "endTime": 59200
       },
       {
-        "token": "Matcha",
+        "token": "de",
         "startTime": 59200,
         "endTime": 59700
       },
       {
-        "token": "is",
+        "token": "klassieke",
         "startTime": 59700,
         "endTime": 60100
       },
       {
-        "token": "heel",
+        "token": "Belgische",
         "startTime": 60100,
         "endTime": 60560
       },
       {
-        "token": "populair.",
+        "token": "koffiebar",
         "startTime": 60560,
         "endTime": 62300
       },
       {
-        "token": "Kortom,",
+        "token": "kan",
         "startTime": 62300,
         "endTime": 62820
       },
       {
-        "token": "het",
+        "token": "niet",
         "startTime": 62820,
         "endTime": 62940
       },
       {
-        "token": "verschil",
+        "token": "veel",
         "startTime": 62940,
         "endTime": 63260
       },
       {
-        "token": "met",
+        "token": "groter",
         "startTime": 63260,
         "endTime": 63400
       },
       {
-        "token": "de",
+        "token": "zijn.",
         "startTime": 63400,
         "endTime": 63560
       }
@@ -634,55 +710,57 @@
   },
   {
     "sentence_text": "Wij proberen het verschil te maken op basis van kwaliteit.",
-    "translations": {},
+    "translations": {
+      "en": "हामी गुणस्तरको आधारमा भिन्नता ल्याउन प्रयास गर्छौं।"
+    },
     "segments": [
       {
-        "token": "klassieke",
+        "token": "Wij",
         "startTime": 63560,
         "endTime": 64019
       },
       {
-        "token": "Belgische",
+        "token": "proberen",
         "startTime": 64019,
         "endTime": 64599
       },
       {
-        "token": "koffiebar",
+        "token": "het",
         "startTime": 64599,
         "endTime": 65140
       },
       {
-        "token": "kan",
+        "token": "verschil",
         "startTime": 65140,
         "endTime": 65360
       },
       {
-        "token": "niet",
+        "token": "te",
         "startTime": 65360,
         "endTime": 65940
       },
       {
-        "token": "veel",
+        "token": "maken",
         "startTime": 65940,
         "endTime": 66160
       },
       {
-        "token": "groter",
+        "token": "op",
         "startTime": 66160,
         "endTime": 66560
       },
       {
-        "token": "zijn.",
+        "token": "basis",
         "startTime": 66560,
         "endTime": 67140
       },
       {
-        "token": "Wij",
+        "token": "van",
         "startTime": 67140,
         "endTime": 67720
       },
       {
-        "token": "proberen",
+        "token": "kwaliteit.",
         "startTime": 67720,
         "endTime": 67940
       }
@@ -690,65 +768,67 @@
   },
   {
     "sentence_text": "Maitmum moet vooral voor mij een warme plek zijn waar mensen graag",
-    "translations": {},
+    "translations": {
+      "en": "मेटमम मेरो लागि मुख्यतया एउटा न्यानो ठाउँ हुनुपर्छ जहाँ मानिसहरू"
+    },
     "segments": [
       {
-        "token": "het",
+        "token": "Maitmum",
         "startTime": 67940,
         "endTime": 68040
       },
       {
-        "token": "verschil",
+        "token": "moet",
         "startTime": 68040,
         "endTime": 68280
       },
       {
-        "token": "te",
+        "token": "vooral",
         "startTime": 68280,
         "endTime": 68420
       },
       {
-        "token": "maken",
+        "token": "voor",
         "startTime": 68420,
         "endTime": 68580
       },
       {
-        "token": "op",
+        "token": "mij",
         "startTime": 68580,
         "endTime": 68820
       },
       {
-        "token": "basis",
+        "token": "een",
         "startTime": 68820,
         "endTime": 69000
       },
       {
-        "token": "van",
+        "token": "warme",
         "startTime": 69000,
         "endTime": 69200
       },
       {
-        "token": "kwaliteit.",
+        "token": "plek",
         "startTime": 69200,
         "endTime": 70080
       },
       {
-        "token": "Maitmum",
+        "token": "zijn",
         "startTime": 70080,
         "endTime": 70680
       },
       {
-        "token": "moet",
+        "token": "waar",
         "startTime": 70680,
         "endTime": 70940
       },
       {
-        "token": "vooral",
+        "token": "mensen",
         "startTime": 70940,
         "endTime": 71220
       },
       {
-        "token": "voor",
+        "token": "graag",
         "startTime": 71220,
         "endTime": 72140
       }
@@ -756,40 +836,42 @@
   },
   {
     "sentence_text": "samenkomen rond die perfecte lekkere tas koffie.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो उत्तम स्वादिलो कफीको कपको वरिपरि भेला हुन मन पराउँछन्।"
+    },
     "segments": [
       {
-        "token": "mij",
+        "token": "samenkomen",
         "startTime": 72140,
         "endTime": 72400
       },
       {
-        "token": "een",
+        "token": "rond",
         "startTime": 72400,
         "endTime": 73120
       },
       {
-        "token": "warme",
+        "token": "die",
         "startTime": 73120,
         "endTime": 73460
       },
       {
-        "token": "plek",
+        "token": "perfecte",
         "startTime": 73460,
         "endTime": 73700
       },
       {
-        "token": "zijn",
+        "token": "lekkere",
         "startTime": 73700,
         "endTime": 73980
       },
       {
-        "token": "waar",
+        "token": "tas",
         "startTime": 73980,
         "endTime": 74280
       },
       {
-        "token": "mensen",
+        "token": "koffie.",
         "startTime": 74280,
         "endTime": 74520
       }
@@ -797,45 +879,47 @@
   },
   {
     "sentence_text": "Voor de Vlaamse koffieketen Metmum wil dat zeggen",
-    "translations": {},
+    "translations": {
+      "en": "फ्लेमिश कफी चेन मेटममको लागि यसको अर्थ"
+    },
     "segments": [
       {
-        "token": "graag",
+        "token": "Voor",
         "startTime": 74520,
         "endTime": 74780
       },
       {
-        "token": "samenkomen",
+        "token": "de",
         "startTime": 74780,
         "endTime": 75400
       },
       {
-        "token": "rond",
+        "token": "Vlaamse",
         "startTime": 75400,
         "endTime": 75840
       },
       {
-        "token": "die",
+        "token": "koffieketen",
         "startTime": 75840,
         "endTime": 76060
       },
       {
-        "token": "perfecte",
+        "token": "Metmum",
         "startTime": 76060,
         "endTime": 76680
       },
       {
-        "token": "lekkere",
+        "token": "wil",
         "startTime": 76680,
         "endTime": 76940
       },
       {
-        "token": "tas",
+        "token": "dat",
         "startTime": 76940,
         "endTime": 77080
       },
       {
-        "token": "koffie.",
+        "token": "zeggen",
         "startTime": 77080,
         "endTime": 78160
       }
@@ -843,50 +927,52 @@
   },
   {
     "sentence_text": "op zoek gaan naar de juiste koffieboeren en de",
-    "translations": {},
+    "translations": {
+      "en": "सही कफी किसानहरू खोज्नु र"
+    },
     "segments": [
       {
-        "token": "Voor",
+        "token": "op",
         "startTime": 78160,
         "endTime": 78440
       },
       {
-        "token": "de",
+        "token": "zoek",
         "startTime": 78440,
         "endTime": 78600
       },
       {
-        "token": "Vlaamse",
+        "token": "gaan",
         "startTime": 78600,
         "endTime": 78960
       },
       {
-        "token": "koffieketen",
+        "token": "naar",
         "startTime": 78960,
         "endTime": 79595
       },
       {
-        "token": "Metmum",
+        "token": "de",
         "startTime": 79595,
         "endTime": 79995
       },
       {
-        "token": "wil",
+        "token": "juiste",
         "startTime": 79995,
         "endTime": 80175
       },
       {
-        "token": "dat",
+        "token": "koffieboeren",
         "startTime": 80175,
         "endTime": 80355
       },
       {
-        "token": "zeggen",
+        "token": "en",
         "startTime": 80355,
         "endTime": 80355
       },
       {
-        "token": "op",
+        "token": "de",
         "startTime": 80355,
         "endTime": 80855
       }
@@ -894,50 +980,52 @@
   },
   {
     "sentence_text": "koffiebonen ook zelf branden in het centrum van Leuven.",
-    "translations": {},
+    "translations": {
+      "en": "कफीको बीउ लुभेनको केन्द्रमा आफैं भुट्नु हो।"
+    },
     "segments": [
       {
-        "token": "zoek",
+        "token": "koffiebonen",
         "startTime": 80855,
         "endTime": 81115
       },
       {
-        "token": "gaan",
+        "token": "ook",
         "startTime": 81115,
         "endTime": 81275
       },
       {
-        "token": "naar",
+        "token": "zelf",
         "startTime": 81275,
         "endTime": 81435
       },
       {
-        "token": "de",
+        "token": "branden",
         "startTime": 81435,
         "endTime": 81595
       },
       {
-        "token": "juiste",
+        "token": "in",
         "startTime": 81595,
         "endTime": 81895
       },
       {
-        "token": "koffieboeren",
+        "token": "het",
         "startTime": 81895,
         "endTime": 82295
       },
       {
-        "token": "en",
+        "token": "centrum",
         "startTime": 82295,
         "endTime": 82915
       },
       {
-        "token": "de",
+        "token": "van",
         "startTime": 82915,
         "endTime": 82995
       },
       {
-        "token": "koffiebonen",
+        "token": "Leuven.",
         "startTime": 82995,
         "endTime": 83575
       }
@@ -945,50 +1033,52 @@
   },
   {
     "sentence_text": "Met echt het perfecte koffie branden maak je het",
-    "translations": {},
+    "translations": {
+      "en": "साँच्चै उत्तम कफी भुटेर तपाईंले यो बनाउनुहुन्छ।"
+    },
     "segments": [
       {
-        "token": "ook",
+        "token": "Met",
         "startTime": 83575,
         "endTime": 83695
       },
       {
-        "token": "zelf",
+        "token": "echt",
         "startTime": 83695,
         "endTime": 84155
       },
       {
-        "token": "branden",
+        "token": "het",
         "startTime": 84155,
         "endTime": 84535
       },
       {
-        "token": "in",
+        "token": "perfecte",
         "startTime": 84535,
         "endTime": 84695
       },
       {
-        "token": "het",
+        "token": "koffie",
         "startTime": 84695,
         "endTime": 84815
       },
       {
-        "token": "centrum",
+        "token": "branden",
         "startTime": 84815,
         "endTime": 85155
       },
       {
-        "token": "van",
+        "token": "maak",
         "startTime": 85155,
         "endTime": 85415
       },
       {
-        "token": "Leuven.",
+        "token": "je",
         "startTime": 85415,
         "endTime": 85615
       },
       {
-        "token": "Met",
+        "token": "het",
         "startTime": 85615,
         "endTime": 86575
       }
@@ -996,70 +1086,72 @@
   },
   {
     "sentence_text": "verschil en zoek je eigenlijk het beste van elke origine, elke koffieboon op.",
-    "translations": {},
+    "translations": {
+      "en": "भिन्नता र तपाईं वास्तवमा प्रत्येक मूल, प्रत्येक कफी बीनको उत्कृष्ट खोज्दै हुनुहुन्छ।"
+    },
     "segments": [
       {
-        "token": "echt",
+        "token": "verschil",
         "startTime": 86575,
         "endTime": 86855
       },
       {
-        "token": "het",
+        "token": "en",
         "startTime": 86855,
         "endTime": 87035
       },
       {
-        "token": "perfecte",
+        "token": "zoek",
         "startTime": 87035,
         "endTime": 87715
       },
       {
-        "token": "koffie",
+        "token": "je",
         "startTime": 87715,
         "endTime": 87995
       },
       {
-        "token": "branden",
+        "token": "eigenlijk",
         "startTime": 87995,
         "endTime": 88415
       },
       {
-        "token": "maak",
+        "token": "het",
         "startTime": 88415,
         "endTime": 89255
       },
       {
-        "token": "je",
+        "token": "beste",
         "startTime": 89255,
         "endTime": 89395
       },
       {
-        "token": "het",
+        "token": "van",
         "startTime": 89395,
         "endTime": 89455
       },
       {
-        "token": "verschil",
+        "token": "elke",
         "startTime": 89455,
         "endTime": 89455
       },
       {
-        "token": "en",
+        "token": "origine,",
         "startTime": 89455,
         "endTime": 90355
       },
       {
-        "token": "zoek",
+        "token": "elke",
         "startTime": 90355,
         "endTime": 90735
       },
       {
-        "token": "je",
+        "token": "koffieboon",
         "startTime": 90735,
         "endTime": 90895
       },
       {
-        "token": "eigenlijk",
+        "token": "op.",
         "startTime": 90895,
         "endTime": 91135
       }
@@ -1067,70 +1159,72 @@
   },
   {
     "sentence_text": "Maar die focus op kwaliteit heeft natuurlijk een prijs. is hier gewoon onmogelijk.",
-    "translations": {},
+    "translations": {
+      "en": "तर गुणस्तरमा त्यो ध्यानको स्वाभाविक रूपमा मूल्य हुन्छ। यहाँ यो असम्भव छ।"
+    },
     "segments": [
       {
-        "token": "het",
+        "token": "Maar",
         "startTime": 91135,
         "endTime": 91375
       },
       {
-        "token": "beste",
+        "token": "die",
         "startTime": 91375,
         "endTime": 91695
       },
       {
-        "token": "van",
+        "token": "focus",
         "startTime": 91695,
         "endTime": 91835
       },
       {
-        "token": "elke",
+        "token": "op",
         "startTime": 91835,
         "endTime": 92215
       },
       {
-        "token": "origine,",
+        "token": "kwaliteit",
         "startTime": 92215,
         "endTime": 92975
       },
       {
-        "token": "elke",
+        "token": "heeft",
         "startTime": 92975,
         "endTime": 93215
       },
       {
-        "token": "koffieboon",
+        "token": "natuurlijk",
         "startTime": 93215,
         "endTime": 93735
       },
       {
-        "token": "op.",
+        "token": "een",
         "startTime": 93735,
         "endTime": 94615
       },
       {
-        "token": "Maar",
+        "token": "prijs.",
         "startTime": 94615,
         "endTime": 94795
       },
       {
-        "token": "die",
+        "token": "is",
         "startTime": 94795,
         "endTime": 94955
       },
       {
-        "token": "focus",
+        "token": "hier",
         "startTime": 94955,
         "endTime": 95235
       },
       {
-        "token": "op",
+        "token": "gewoon",
         "startTime": 95235,
         "endTime": 95455
       },
       {
-        "token": "kwaliteit",
+        "token": "onmogelijk.",
         "startTime": 95455,
         "endTime": 95915
       }
@@ -1138,55 +1232,57 @@
   },
   {
     "sentence_text": "Dan zit je nog niet aan de kostprijs voor ons.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसो भए तपाईं हाम्रो लागत मूल्यमा पुग्नुभएको छैन।"
+    },
     "segments": [
       {
-        "token": "heeft",
+        "token": "Dan",
         "startTime": 95915,
         "endTime": 96295
       },
       {
-        "token": "natuurlijk",
+        "token": "zit",
         "startTime": 96295,
         "endTime": 96715
       },
       {
-        "token": "een",
+        "token": "je",
         "startTime": 96715,
         "endTime": 96955
       },
       {
-        "token": "prijs.",
+        "token": "nog",
         "startTime": 96955,
         "endTime": 97715
       },
       {
-        "token": "Een",
+        "token": "niet",
         "startTime": 97715,
         "endTime": 97855
       },
       {
-        "token": "kop",
+        "token": "aan",
         "startTime": 97855,
         "endTime": 98035
       },
       {
-        "token": "koffie",
+        "token": "de",
         "startTime": 98035,
         "endTime": 98395
       },
       {
-        "token": "voor",
+        "token": "kostprijs",
         "startTime": 98395,
         "endTime": 98595
       },
       {
-        "token": "één",
+        "token": "voor",
         "startTime": 98595,
         "endTime": 98855
       },
       {
-        "token": "of",
+        "token": "ons.",
         "startTime": 98855,
         "endTime": 99055
       }
@@ -1194,55 +1290,57 @@
   },
   {
     "sentence_text": "Een chocolaatje dat we erbij geven is al 25 cent.",
-    "translations": {},
+    "translations": {
+      "en": "हामीले दिने एउटा चकलेट पहिले नै २५ सेन्टको हुन्छ।"
+    },
     "segments": [
       {
-        "token": "twee",
+        "token": "Een",
         "startTime": 99055,
         "endTime": 99275
       },
       {
-        "token": "euro",
+        "token": "chocolaatje",
         "startTime": 99275,
         "endTime": 99635
       },
       {
-        "token": "is",
+        "token": "dat",
         "startTime": 99635,
         "endTime": 99895
       },
       {
-        "token": "hier",
+        "token": "we",
         "startTime": 99895,
         "endTime": 100115
       },
       {
-        "token": "gewoon",
+        "token": "erbij",
         "startTime": 100115,
         "endTime": 100415
       },
       {
-        "token": "onmogelijk.",
+        "token": "geven",
         "startTime": 100415,
         "endTime": 101155
       },
       {
-        "token": "Dan",
+        "token": "is",
         "startTime": 101155,
         "endTime": 101595
       },
       {
-        "token": "zit",
+        "token": "al",
         "startTime": 101595,
         "endTime": 102615
       },
       {
-        "token": "je",
+        "token": "25",
         "startTime": 102615,
         "endTime": 102775
       },
       {
-        "token": "nog",
+        "token": "cent.",
         "startTime": 102775,
         "endTime": 103035
       }
@@ -1250,55 +1348,57 @@
   },
   {
     "sentence_text": "Dus ik denk dat er zeker een markt voor is.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले मलाई लाग्छ यसको लागि पक्कै पनि बजार छ।"
+    },
     "segments": [
       {
-        "token": "niet",
+        "token": "Dus",
         "startTime": 103035,
         "endTime": 103295
       },
       {
-        "token": "aan",
+        "token": "ik",
         "startTime": 103295,
         "endTime": 103495
       },
       {
-        "token": "de",
+        "token": "denk",
         "startTime": 103495,
         "endTime": 103615
       },
       {
-        "token": "kostprijs",
+        "token": "dat",
         "startTime": 103615,
         "endTime": 104135
       },
       {
-        "token": "voor",
+        "token": "er",
         "startTime": 104135,
         "endTime": 104275
       },
       {
-        "token": "ons.",
+        "token": "zeker",
         "startTime": 104275,
         "endTime": 106535
       },
       {
-        "token": "Een",
+        "token": "een",
         "startTime": 106535,
         "endTime": 107355
       },
       {
-        "token": "chocolaatje",
+        "token": "markt",
         "startTime": 107355,
         "endTime": 107855
       },
       {
-        "token": "dat",
+        "token": "voor",
         "startTime": 107855,
         "endTime": 107935
       },
       {
-        "token": "we",
+        "token": "is.",
         "startTime": 107935,
         "endTime": 108035
       }
@@ -1306,15 +1406,17 @@
   },
   {
     "sentence_text": "En dat is ook goed dat mensen zo koffie leren kennen.",
-    "translations": {},
+    "translations": {
+      "en": "र यो पनि राम्रो हो कि मानिसहरूले यसरी कफी चिन्न सिक्छन्।"
+    },
     "segments": [
       {
-        "token": "erbij",
+        "token": "En",
         "startTime": 108035,
         "endTime": 108255
       },
       {
-        "token": "geven",
+        "token": "dat",
         "startTime": 108255,
         "endTime": 108455
       },
@@ -1324,42 +1426,42 @@
         "endTime": 108615
       },
       {
-        "token": "al",
+        "token": "ook",
         "startTime": 108615,
         "endTime": 108735
       },
       {
-        "token": "25",
+        "token": "goed",
         "startTime": 108735,
         "endTime": 109095
       },
       {
-        "token": "cent.",
+        "token": "dat",
         "startTime": 109095,
         "endTime": 110475
       },
       {
-        "token": "Dus",
+        "token": "mensen",
         "startTime": 110475,
         "endTime": 110635
       },
       {
-        "token": "ik",
+        "token": "zo",
         "startTime": 110635,
         "endTime": 111375
       },
       {
-        "token": "denk",
+        "token": "koffie",
         "startTime": 111375,
         "endTime": 111495
       },
       {
-        "token": "dat",
+        "token": "leren",
         "startTime": 111495,
         "endTime": 111595
       },
       {
-        "token": "er",
+        "token": "kennen.",
         "startTime": 111595,
         "endTime": 111715
       }
@@ -1367,35 +1469,37 @@
   },
   {
     "sentence_text": "Maar dat is niet een model dat haalbaar is voor ons.",
-    "translations": {},
+    "translations": {
+      "en": "तर यो हाम्रो लागि सम्भव मोडेल होइन।"
+    },
     "segments": [
       {
-        "token": "zeker",
+        "token": "Maar",
         "startTime": 111715,
         "endTime": 111895
       },
       {
-        "token": "een",
+        "token": "dat",
         "startTime": 111895,
         "endTime": 112095
       },
       {
-        "token": "markt",
+        "token": "is",
         "startTime": 112095,
         "endTime": 112415
       },
       {
-        "token": "voor",
+        "token": "niet",
         "startTime": 112415,
         "endTime": 112575
       },
       {
-        "token": "is.",
+        "token": "een",
         "startTime": 112575,
         "endTime": 113515
       },
       {
-        "token": "En",
+        "token": "model",
         "startTime": 113515,
         "endTime": 113655
       },
@@ -1405,22 +1509,22 @@
         "endTime": 113755
       },
       {
-        "token": "is",
+        "token": "haalbaar",
         "startTime": 113755,
         "endTime": 113835
       },
       {
-        "token": "ook",
+        "token": "is",
         "startTime": 113835,
         "endTime": 114015
       },
       {
-        "token": "goed",
+        "token": "voor",
         "startTime": 114015,
         "endTime": 114195
       },
       {
-        "token": "dat",
+        "token": "ons.",
         "startTime": 114195,
         "endTime": 114335
       }
@@ -1428,20 +1532,22 @@
   },
   {
     "sentence_text": "Nee, zeker niet.",
-    "translations": {},
+    "translations": {
+      "en": "होइन, पक्कै पनि होइन।"
+    },
     "segments": [
       {
-        "token": "mensen",
+        "token": "Nee,",
         "startTime": 114335,
         "endTime": 114575
       },
       {
-        "token": "zo",
+        "token": "zeker",
         "startTime": 114575,
         "endTime": 115115
       },
       {
-        "token": "koffie",
+        "token": "niet.",
         "startTime": 115115,
         "endTime": 115835
       }
@@ -1449,45 +1555,47 @@
   },
   {
     "sentence_text": "Voor het Chinese Kotti Koffie lukt dat wel.",
-    "translations": {},
+    "translations": {
+      "en": "चिनियाँ कोट्टी कफीको लागि यो सम्भव छ।"
+    },
     "segments": [
       {
-        "token": "leren",
+        "token": "Voor",
         "startTime": 115835,
         "endTime": 116015
       },
       {
-        "token": "kennen.",
+        "token": "het",
         "startTime": 116015,
         "endTime": 117835
       },
       {
-        "token": "Maar",
+        "token": "Chinese",
         "startTime": 117835,
         "endTime": 118015
       },
       {
-        "token": "dat",
+        "token": "Kotti",
         "startTime": 118015,
         "endTime": 118175
       },
       {
-        "token": "is",
+        "token": "Koffie",
         "startTime": 118175,
         "endTime": 118315
       },
       {
-        "token": "niet",
+        "token": "lukt",
         "startTime": 118315,
         "endTime": 118555
       },
       {
-        "token": "een",
+        "token": "dat",
         "startTime": 118555,
         "endTime": 118915
       },
       {
-        "token": "model",
+        "token": "wel.",
         "startTime": 118915,
         "endTime": 119135
       }
@@ -1495,75 +1603,77 @@
   },
   {
     "sentence_text": "Omdat het de wereldwijde aanvoerketen van koffie zelf stevig in handen probeert te houden.",
-    "translations": {},
+    "translations": {
+      "en": "किनकि यसले कफीको विश्वव्यापी आपूर्ति श्रृंखलालाई आफैंले बलियोसँग नियन्त्रण गर्ने प्रयास गर्छ।"
+    },
     "segments": [
       {
-        "token": "dat",
+        "token": "Omdat",
         "startTime": 119135,
         "endTime": 119375
       },
       {
-        "token": "haalbaar",
+        "token": "het",
         "startTime": 119375,
         "endTime": 119695
       },
       {
-        "token": "is",
+        "token": "de",
         "startTime": 119695,
         "endTime": 119855
       },
       {
-        "token": "voor",
+        "token": "wereldwijde",
         "startTime": 119855,
         "endTime": 119955
       },
       {
-        "token": "ons.",
+        "token": "aanvoerketen",
         "startTime": 119955,
         "endTime": 120595
       },
       {
-        "token": "Nee,",
+        "token": "van",
         "startTime": 120595,
         "endTime": 120815
       },
       {
-        "token": "zeker",
+        "token": "koffie",
         "startTime": 120815,
         "endTime": 121175
       },
       {
-        "token": "niet.",
+        "token": "zelf",
         "startTime": 121175,
         "endTime": 122155
       },
       {
-        "token": "Voor",
+        "token": "stevig",
         "startTime": 122155,
         "endTime": 122315
       },
       {
-        "token": "het",
+        "token": "in",
         "startTime": 122315,
         "endTime": 122535
       },
       {
-        "token": "Chinese",
+        "token": "handen",
         "startTime": 122535,
         "endTime": 122755
       },
       {
-        "token": "Kotti",
+        "token": "probeert",
         "startTime": 122755,
         "endTime": 123175
       },
       {
-        "token": "Koffie",
+        "token": "te",
         "startTime": 123175,
         "endTime": 123515
       },
       {
-        "token": "lukt",
+        "token": "houden.",
         "startTime": 123515,
         "endTime": 123715
       }
@@ -1571,30 +1681,32 @@
   },
   {
     "sentence_text": "Dat is het Chinese model.",
-    "translations": {},
+    "translations": {
+      "en": "त्यो चिनियाँ मोडेल हो।"
+    },
     "segments": [
       {
-        "token": "op",
+        "token": "Dat",
         "startTime": 135575,
         "endTime": 135615
       },
       {
-        "token": "de",
+        "token": "is",
         "startTime": 135615,
         "endTime": 135675
       },
       {
-        "token": "eigenaar",
+        "token": "het",
         "startTime": 135675,
         "endTime": 135915
       },
       {
-        "token": "te",
+        "token": "Chinese",
         "startTime": 135915,
         "endTime": 136155
       },
       {
-        "token": "zetten.",
+        "token": "model.",
         "startTime": 136155,
         "endTime": 136555
       }
@@ -1602,20 +1714,22 @@
   },
   {
     "sentence_text": "En de bedoeling is om in de eerste periode niet geld te verdienen...",
-    "translations": {},
+    "translations": {
+      "en": "र पहिलो अवधिमा पैसा कमाउनु उद्देश्य होइन..."
+    },
     "segments": [
       {
-        "token": "Dus",
+        "token": "En",
         "startTime": 136555,
         "endTime": 137055
       },
       {
-        "token": "onze",
+        "token": "de",
         "startTime": 137055,
         "endTime": 137315
       },
       {
-        "token": "eigenaar",
+        "token": "bedoeling",
         "startTime": 137315,
         "endTime": 137895
       },
@@ -1625,47 +1739,47 @@
         "endTime": 138135
       },
       {
-        "token": "heel",
+        "token": "om",
         "startTime": 138135,
         "endTime": 138595
       },
       {
-        "token": "goed.",
+        "token": "in",
         "startTime": 138595,
         "endTime": 138855
       },
       {
-        "token": "De",
+        "token": "de",
         "startTime": 138855,
         "endTime": 139155
       },
       {
-        "token": "eigenaar",
+        "token": "eerste",
         "startTime": 139155,
         "endTime": 139435
       },
       {
-        "token": "is",
+        "token": "periode",
         "startTime": 139435,
         "endTime": 139795
       },
       {
-        "token": "heel",
+        "token": "niet",
         "startTime": 139795,
         "endTime": 139955
       },
       {
-        "token": "goed.",
+        "token": "geld",
         "startTime": 139955,
         "endTime": 140515
       },
       {
-        "token": "Dat",
+        "token": "te",
         "startTime": 140515,
         "endTime": 140715
       },
       {
-        "token": "is",
+        "token": "verdienen...",
         "startTime": 140715,
         "endTime": 140855
       }
@@ -1673,40 +1787,42 @@
   },
   {
     "sentence_text": "...om zoveel geld te verdienen, maar wel om marktaanteel te winnen.",
-    "translations": {},
+    "translations": {
+      "en": "...धेरै पैसा कमाउनु, तर बजार हिस्सा जित्नु हो।"
+    },
     "segments": [
       {
-        "token": "het",
+        "token": "...om",
         "startTime": 140855,
         "endTime": 141015
       },
       {
-        "token": "Chinese",
+        "token": "zoveel",
         "startTime": 141015,
         "endTime": 141195
       },
       {
-        "token": "model.",
+        "token": "geld",
         "startTime": 141195,
         "endTime": 142235
       },
       {
-        "token": "En",
+        "token": "te",
         "startTime": 142235,
         "endTime": 142495
       },
       {
-        "token": "de",
+        "token": "verdienen,",
         "startTime": 142495,
         "endTime": 142615
       },
       {
-        "token": "bedoeling",
+        "token": "maar",
         "startTime": 142615,
         "endTime": 142875
       },
       {
-        "token": "is",
+        "token": "wel",
         "startTime": 142875,
         "endTime": 143075
       },
@@ -1716,17 +1832,17 @@
         "endTime": 143575
       },
       {
-        "token": "in",
+        "token": "marktaanteel",
         "startTime": 143575,
         "endTime": 144435
       },
       {
-        "token": "de",
+        "token": "te",
         "startTime": 144435,
         "endTime": 144555
       },
       {
-        "token": "eerste",
+        "token": "winnen.",
         "startTime": 144555,
         "endTime": 144735
       }
@@ -1734,65 +1850,67 @@
   },
   {
     "sentence_text": "En op die manier is het natuurlijk wel qua concurrentie heel scherp.",
-    "translations": {},
+    "translations": {
+      "en": "र त्यसरी यो प्रतिस्पर्धाको दृष्टिले धेरै तीखो छ।"
+    },
     "segments": [
       {
-        "token": "periode",
+        "token": "En",
         "startTime": 144735,
         "endTime": 145015
       },
       {
-        "token": "niet",
+        "token": "op",
         "startTime": 145015,
         "endTime": 145215
       },
       {
-        "token": "geld",
+        "token": "die",
         "startTime": 145215,
         "endTime": 145795
       },
       {
-        "token": "te",
+        "token": "manier",
         "startTime": 145795,
         "endTime": 146195
       },
       {
-        "token": "verdienen...",
+        "token": "is",
         "startTime": 146195,
         "endTime": 146675
       },
       {
-        "token": "...om",
+        "token": "het",
         "startTime": 146675,
         "endTime": 146875
       },
       {
-        "token": "zoveel",
+        "token": "natuurlijk",
         "startTime": 146875,
         "endTime": 147035
       },
       {
-        "token": "geld",
+        "token": "wel",
         "startTime": 147035,
         "endTime": 147335
       },
       {
-        "token": "te",
+        "token": "qua",
         "startTime": 147335,
         "endTime": 147455
       },
       {
-        "token": "verdienen,",
+        "token": "concurrentie",
         "startTime": 147455,
         "endTime": 147895
       },
       {
-        "token": "maar",
+        "token": "heel",
         "startTime": 147895,
         "endTime": 147995
       },
       {
-        "token": "wel",
+        "token": "scherp.",
         "startTime": 147995,
         "endTime": 148395
       }
@@ -1800,60 +1918,62 @@
   },
   {
     "sentence_text": "Qingling Pang is niet alleen antropoloog, maar ook liefhebber van koffie.",
-    "translations": {},
+    "translations": {
+      "en": "किङलिङ पाङ केवल मानवशास्त्री मात्र होइनन्, तर कफी प्रेमी पनि हुन्।"
+    },
     "segments": [
       {
-        "token": "om",
+        "token": "Qingling",
         "startTime": 148395,
         "endTime": 149355
       },
       {
-        "token": "marktaanteel",
+        "token": "Pang",
         "startTime": 149355,
         "endTime": 150175
       },
       {
-        "token": "te",
+        "token": "is",
         "startTime": 150175,
         "endTime": 150435
       },
       {
-        "token": "winnen.",
+        "token": "niet",
         "startTime": 150435,
         "endTime": 150795
       },
       {
-        "token": "En",
+        "token": "alleen",
         "startTime": 150795,
         "endTime": 151315
       },
       {
-        "token": "op",
+        "token": "antropoloog,",
         "startTime": 151315,
         "endTime": 151435
       },
       {
-        "token": "die",
+        "token": "maar",
         "startTime": 151435,
         "endTime": 151495
       },
       {
-        "token": "manier",
+        "token": "ook",
         "startTime": 151495,
         "endTime": 151835
       },
       {
-        "token": "is",
+        "token": "liefhebber",
         "startTime": 151835,
         "endTime": 152155
       },
       {
-        "token": "het",
+        "token": "van",
         "startTime": 152155,
         "endTime": 152255
       },
       {
-        "token": "natuurlijk",
+        "token": "koffie.",
         "startTime": 152255,
         "endTime": 152475
       }
@@ -1861,15 +1981,17 @@
   },
   {
     "sentence_text": "Goeie koffie.",
-    "translations": {},
+    "translations": {
+      "en": "राम्रो कफी।"
+    },
     "segments": [
       {
-        "token": "wel",
+        "token": "Goeie",
         "startTime": 152475,
         "endTime": 152875
       },
       {
-        "token": "qua",
+        "token": "koffie.",
         "startTime": 152875,
         "endTime": 153435
       }
@@ -1877,50 +1999,52 @@
   },
   {
     "sentence_text": "Die komt de laatste jaren steeds vaker uit China.",
-    "translations": {},
+    "translations": {
+      "en": "पछिल्ला वर्षहरूमा यो प्रायः चीनबाट आउँदैछ।"
+    },
     "segments": [
       {
-        "token": "concurrentie",
+        "token": "Die",
         "startTime": 153435,
         "endTime": 154175
       },
       {
-        "token": "heel",
+        "token": "komt",
         "startTime": 154175,
         "endTime": 154595
       },
       {
-        "token": "scherp.",
+        "token": "de",
         "startTime": 154595,
         "endTime": 155755
       },
       {
-        "token": "Qingling",
+        "token": "laatste",
         "startTime": 155755,
         "endTime": 156255
       },
       {
-        "token": "Pang",
+        "token": "jaren",
         "startTime": 156255,
         "endTime": 156475
       },
       {
-        "token": "is",
+        "token": "steeds",
         "startTime": 156475,
         "endTime": 156715
       },
       {
-        "token": "niet",
+        "token": "vaker",
         "startTime": 156715,
         "endTime": 156835
       },
       {
-        "token": "alleen",
+        "token": "uit",
         "startTime": 156835,
         "endTime": 157175
       },
       {
-        "token": "antropoloog,",
+        "token": "China.",
         "startTime": 157175,
         "endTime": 158010
       }
@@ -1928,30 +2052,32 @@
   },
   {
     "sentence_text": "Dat zijn zogenaamde specialise koffiebonen.",
-    "translations": {},
+    "translations": {
+      "en": "ती तथाकथित विशेष कफी बीनहरू हुन्।"
+    },
     "segments": [
       {
-        "token": "maar",
+        "token": "Dat",
         "startTime": 158010,
         "endTime": 158170
       },
       {
-        "token": "ook",
+        "token": "zijn",
         "startTime": 158170,
         "endTime": 158450
       },
       {
-        "token": "liefhebber",
+        "token": "zogenaamde",
         "startTime": 158450,
         "endTime": 159090
       },
       {
-        "token": "van",
+        "token": "specialise",
         "startTime": 159090,
         "endTime": 159290
       },
       {
-        "token": "koffie.",
+        "token": "koffiebonen.",
         "startTime": 159290,
         "endTime": 160050
       }
@@ -1959,45 +2085,47 @@
   },
   {
     "sentence_text": "Al die bonen komen uit Yunnan, een Yunnan-provincie.",
-    "translations": {},
+    "translations": {
+      "en": "ती सबै बीनहरू युनान, युनान प्रान्तबाट आउँछन्।"
+    },
     "segments": [
       {
-        "token": "Goeie",
+        "token": "Al",
         "startTime": 160050,
         "endTime": 160350
       },
       {
-        "token": "koffie.",
+        "token": "die",
         "startTime": 160350,
         "endTime": 161230
       },
       {
-        "token": "Die",
+        "token": "bonen",
         "startTime": 161230,
         "endTime": 161410
       },
       {
-        "token": "komt",
+        "token": "komen",
         "startTime": 161410,
         "endTime": 161550
       },
       {
-        "token": "de",
+        "token": "uit",
         "startTime": 161550,
         "endTime": 161710
       },
       {
-        "token": "laatste",
+        "token": "Yunnan,",
         "startTime": 161710,
         "endTime": 162050
       },
       {
-        "token": "jaren",
+        "token": "een",
         "startTime": 162050,
         "endTime": 162310
       },
       {
-        "token": "steeds",
+        "token": "Yunnan-provincie.",
         "startTime": 162310,
         "endTime": 162590
       }
@@ -2005,70 +2133,72 @@
   },
   {
     "sentence_text": "Deze koffiebonen heeft als nasmaak atropische vruchten, gedroogde mango's en een vleugje sake.",
-    "translations": {},
+    "translations": {
+      "en": "यी कफी बीनहरूको स्वादमा उष्णकटिबन्धीय फलहरू, सुकेको आँप र साकेको एक झल्को हुन्छ।"
+    },
     "segments": [
       {
-        "token": "vaker",
+        "token": "Deze",
         "startTime": 162590,
         "endTime": 163070
       },
       {
-        "token": "uit",
+        "token": "koffiebonen",
         "startTime": 163070,
         "endTime": 163350
       },
       {
-        "token": "China.",
+        "token": "heeft",
         "startTime": 163350,
         "endTime": 164230
       },
       {
-        "token": "Dat",
+        "token": "als",
         "startTime": 164230,
         "endTime": 164410
       },
       {
-        "token": "zijn",
+        "token": "nasmaak",
         "startTime": 164410,
         "endTime": 165190
       },
       {
-        "token": "zogenaamde",
+        "token": "atropische",
         "startTime": 165190,
         "endTime": 165890
       },
       {
-        "token": "specialise",
+        "token": "vruchten,",
         "startTime": 165890,
         "endTime": 166550
       },
       {
-        "token": "koffiebonen.",
+        "token": "gedroogde",
         "startTime": 166550,
         "endTime": 167630
       },
       {
-        "token": "Al",
+        "token": "mango's",
         "startTime": 167630,
         "endTime": 167790
       },
       {
-        "token": "die",
+        "token": "en",
         "startTime": 167790,
         "endTime": 167930
       },
       {
-        "token": "bonen",
+        "token": "een",
         "startTime": 167930,
         "endTime": 168430
       },
       {
-        "token": "komen",
+        "token": "vleugje",
         "startTime": 168430,
         "endTime": 169450
       },
       {
-        "token": "uit",
+        "token": "sake.",
         "startTime": 169450,
         "endTime": 169890
       }
@@ -2076,60 +2206,62 @@
   },
   {
     "sentence_text": "Pakkenweg 25 jaar geleden was er niets van koffiecultuur in China.",
-    "translations": {},
+    "translations": {
+      "en": "पाक्केनवेग २५ वर्षअघि चीनमा कफी संस्कृति भन्ने केही थिएन।"
+    },
     "segments": [
       {
-        "token": "Yunnan,",
+        "token": "Pakkenweg",
         "startTime": 169890,
         "endTime": 170410
       },
       {
-        "token": "een",
+        "token": "25",
         "startTime": 170410,
         "endTime": 170770
       },
       {
-        "token": "Yunnan-provincie.",
+        "token": "jaar",
         "startTime": 170770,
         "endTime": 172110
       },
       {
-        "token": "Deze",
+        "token": "geleden",
         "startTime": 172110,
         "endTime": 172590
       },
       {
-        "token": "koffiebonen",
+        "token": "was",
         "startTime": 172590,
         "endTime": 174030
       },
       {
-        "token": "heeft",
+        "token": "er",
         "startTime": 174030,
         "endTime": 174050
       },
       {
-        "token": "als",
+        "token": "niets",
         "startTime": 174050,
         "endTime": 174890
       },
       {
-        "token": "nasmaak",
+        "token": "van",
         "startTime": 174890,
         "endTime": 175630
       },
       {
-        "token": "atropische",
+        "token": "koffiecultuur",
         "startTime": 175630,
         "endTime": 176270
       },
       {
-        "token": "vruchten,",
+        "token": "in",
         "startTime": 176270,
         "endTime": 177470
       },
       {
-        "token": "gedroogde",
+        "token": "China.",
         "startTime": 177470,
         "endTime": 178210
       }
@@ -2137,30 +2269,32 @@
   },
   {
     "sentence_text": "De verandering is fenomenaal snel.",
-    "translations": {},
+    "translations": {
+      "en": "परिवर्तन अत्यन्तै द्रुत गतिमा भएको छ।"
+    },
     "segments": [
       {
-        "token": "mango's",
+        "token": "De",
         "startTime": 178210,
         "endTime": 179150
       },
       {
-        "token": "en",
+        "token": "verandering",
         "startTime": 179150,
         "endTime": 179530
       },
       {
-        "token": "een",
+        "token": "is",
         "startTime": 179530,
         "endTime": 179930
       },
       {
-        "token": "vleugje",
+        "token": "fenomenaal",
         "startTime": 179930,
         "endTime": 180370
       },
       {
-        "token": "sake.",
+        "token": "snel.",
         "startTime": 180370,
         "endTime": 180730
       }
@@ -2168,55 +2302,57 @@
   },
   {
     "sentence_text": "Dus die ontwikkeling zowel op vlak van productie als consumptie.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले उत्पादन र उपभोग दुवै क्षेत्रमा त्यो विकास भएको छ।"
+    },
     "segments": [
       {
-        "token": "Pakkenweg",
+        "token": "Dus",
         "startTime": 180730,
         "endTime": 181510
       },
       {
-        "token": "25",
+        "token": "die",
         "startTime": 181510,
         "endTime": 182390
       },
       {
-        "token": "jaar",
+        "token": "ontwikkeling",
         "startTime": 182390,
         "endTime": 182690
       },
       {
-        "token": "geleden",
+        "token": "zowel",
         "startTime": 182690,
         "endTime": 183110
       },
       {
-        "token": "was",
+        "token": "op",
         "startTime": 183110,
         "endTime": 183890
       },
       {
-        "token": "er",
+        "token": "vlak",
         "startTime": 183890,
         "endTime": 184010
       },
       {
-        "token": "niets",
+        "token": "van",
         "startTime": 184010,
         "endTime": 184410
       },
       {
-        "token": "van",
+        "token": "productie",
         "startTime": 184410,
         "endTime": 184590
       },
       {
-        "token": "koffiecultuur",
+        "token": "als",
         "startTime": 184590,
         "endTime": 185170
       },
       {
-        "token": "in",
+        "token": "consumptie.",
         "startTime": 185170,
         "endTime": 185350
       }
@@ -2224,30 +2360,32 @@
   },
   {
     "sentence_text": "Ik zie een enorme verandering,",
-    "translations": {},
+    "translations": {
+      "en": "म ठूलो परिवर्तन देख्छु,"
+    },
     "segments": [
       {
-        "token": "China.",
+        "token": "Ik",
         "startTime": 185350,
         "endTime": 185910
       },
       {
-        "token": "De",
+        "token": "zie",
         "startTime": 185910,
         "endTime": 186030
       },
       {
-        "token": "verandering",
+        "token": "een",
         "startTime": 186030,
         "endTime": 186510
       },
       {
-        "token": "is",
+        "token": "enorme",
         "startTime": 186510,
         "endTime": 186810
       },
       {
-        "token": "fenomenaal",
+        "token": "verandering,",
         "startTime": 186810,
         "endTime": 188550
       }
@@ -2255,65 +2393,67 @@
   },
   {
     "sentence_text": "zowel als ik kijk naar de koffieboeren als ook naar de koffieconsumenten.",
-    "translations": {},
+    "translations": {
+      "en": "कफी किसान र कफी उपभोक्ता दुवैलाई हेर्दा।"
+    },
     "segments": [
       {
-        "token": "snel.",
+        "token": "zowel",
         "startTime": 188550,
         "endTime": 189590
       },
       {
-        "token": "Dus",
+        "token": "als",
         "startTime": 189590,
         "endTime": 189790
       },
       {
-        "token": "die",
+        "token": "ik",
         "startTime": 189790,
         "endTime": 189930
       },
       {
-        "token": "ontwikkeling",
+        "token": "kijk",
         "startTime": 189930,
         "endTime": 190470
       },
       {
-        "token": "zowel",
+        "token": "naar",
         "startTime": 190470,
         "endTime": 190850
       },
       {
-        "token": "op",
+        "token": "de",
         "startTime": 190850,
         "endTime": 191030
       },
       {
-        "token": "vlak",
+        "token": "koffieboeren",
         "startTime": 191030,
         "endTime": 191210
       },
       {
-        "token": "van",
+        "token": "als",
         "startTime": 191210,
         "endTime": 191430
       },
       {
-        "token": "productie",
+        "token": "ook",
         "startTime": 191430,
         "endTime": 192870
       },
       {
-        "token": "als",
+        "token": "naar",
         "startTime": 192870,
         "endTime": 193010
       },
       {
-        "token": "consumptie.",
+        "token": "de",
         "startTime": 193010,
         "endTime": 194310
       },
       {
-        "token": "Ik",
+        "token": "koffieconsumenten.",
         "startTime": 194310,
         "endTime": 194430
       }
@@ -2321,60 +2461,62 @@
   },
   {
     "sentence_text": "Mijn eerste bezoek aan een koffieplantage in China was in 2014.",
-    "translations": {},
+    "translations": {
+      "en": "चीनको कफी बगानमा मेरो पहिलो भ्रमण सन् २०१४ मा भएको थियो।"
+    },
     "segments": [
       {
-        "token": "zie",
+        "token": "Mijn",
         "startTime": 194430,
         "endTime": 194530
       },
       {
-        "token": "een",
+        "token": "eerste",
         "startTime": 194530,
         "endTime": 194710
       },
       {
-        "token": "enorme",
+        "token": "bezoek",
         "startTime": 194710,
         "endTime": 195190
       },
       {
-        "token": "verandering,",
+        "token": "aan",
         "startTime": 195190,
         "endTime": 195950
       },
       {
-        "token": "zowel",
+        "token": "een",
         "startTime": 195950,
         "endTime": 197910
       },
       {
-        "token": "als",
+        "token": "koffieplantage",
         "startTime": 197910,
         "endTime": 198350
       },
       {
-        "token": "ik",
+        "token": "in",
         "startTime": 198350,
         "endTime": 198490
       },
       {
-        "token": "kijk",
+        "token": "China",
         "startTime": 198490,
         "endTime": 198570
       },
       {
-        "token": "naar",
+        "token": "was",
         "startTime": 198570,
         "endTime": 198710
       },
       {
-        "token": "de",
+        "token": "in",
         "startTime": 198710,
         "endTime": 198930
       },
       {
-        "token": "koffieboeren",
+        "token": "2014.",
         "startTime": 198930,
         "endTime": 199890
       }
@@ -2382,70 +2524,72 @@
   },
   {
     "sentence_text": "Als ik nu naar een koffieplantage ga, die koffieboeren, dat zijn echt experten.",
-    "translations": {},
+    "translations": {
+      "en": "अहिले म कफी बगानमा जाँदा, ती कफी किसानहरू साँच्चै विज्ञ भइसकेका छन्।"
+    },
     "segments": [
       {
-        "token": "als",
+        "token": "Als",
         "startTime": 199890,
         "endTime": 200410
       },
       {
-        "token": "ook",
+        "token": "ik",
         "startTime": 200410,
         "endTime": 200550
       },
       {
-        "token": "naar",
+        "token": "nu",
         "startTime": 200550,
         "endTime": 200870
       },
       {
-        "token": "de",
+        "token": "naar",
         "startTime": 200870,
         "endTime": 201410
       },
       {
-        "token": "koffieconsumenten.",
+        "token": "een",
         "startTime": 201410,
         "endTime": 204370
       },
       {
-        "token": "Mijn",
+        "token": "koffieplantage",
         "startTime": 204370,
         "endTime": 204550
       },
       {
-        "token": "eerste",
+        "token": "ga,",
         "startTime": 204550,
         "endTime": 205050
       },
       {
-        "token": "bezoek",
+        "token": "die",
         "startTime": 205050,
         "endTime": 205770
       },
       {
-        "token": "aan",
+        "token": "koffieboeren,",
         "startTime": 205770,
         "endTime": 206030
       },
       {
-        "token": "een",
+        "token": "dat",
         "startTime": 206030,
         "endTime": 206210
       },
       {
-        "token": "koffieplantage",
+        "token": "zijn",
         "startTime": 206210,
         "endTime": 206850
       },
       {
-        "token": "in",
+        "token": "echt",
         "startTime": 206850,
         "endTime": 207250
       },
       {
-        "token": "China",
+        "token": "experten.",
         "startTime": 207250,
         "endTime": 207290
       }
@@ -2453,80 +2597,82 @@
   },
   {
     "sentence_text": "Vooral de provincie Yunaan is in sneltempo aan het uitgroeien tot de koffieprovincie in China.",
-    "translations": {},
+    "translations": {
+      "en": "विशेषगरी युनान प्रान्त द्रुत गतिमा चीनको कफी प्रान्तको रूपमा विकसित हुँदैछ।"
+    },
     "segments": [
       {
-        "token": "was",
+        "token": "Vooral",
         "startTime": 207290,
         "endTime": 207490
       },
       {
-        "token": "in",
+        "token": "de",
         "startTime": 207490,
         "endTime": 207630
       },
       {
-        "token": "2014.",
+        "token": "provincie",
         "startTime": 207630,
         "endTime": 208310
       },
       {
-        "token": "Als",
+        "token": "Yunaan",
         "startTime": 208310,
         "endTime": 208850
       },
       {
-        "token": "ik",
+        "token": "is",
         "startTime": 208850,
         "endTime": 209030
       },
       {
-        "token": "nu",
+        "token": "in",
         "startTime": 209030,
         "endTime": 209390
       },
       {
-        "token": "naar",
+        "token": "sneltempo",
         "startTime": 209390,
         "endTime": 209990
       },
       {
-        "token": "een",
+        "token": "aan",
         "startTime": 209990,
         "endTime": 210230
       },
       {
-        "token": "koffieplantage",
+        "token": "het",
         "startTime": 210230,
         "endTime": 210890
       },
       {
-        "token": "ga,",
+        "token": "uitgroeien",
         "startTime": 210890,
         "endTime": 211170
       },
       {
-        "token": "die",
+        "token": "tot",
         "startTime": 211170,
         "endTime": 211290
       },
       {
-        "token": "koffieboeren,",
+        "token": "de",
         "startTime": 211290,
         "endTime": 211950
       },
       {
-        "token": "dat",
+        "token": "koffieprovincie",
         "startTime": 211950,
         "endTime": 212170
       },
       {
-        "token": "zijn",
+        "token": "in",
         "startTime": 212170,
         "endTime": 212270
       },
       {
-        "token": "echt",
+        "token": "China.",
         "startTime": 212270,
         "endTime": 212490
       }
@@ -2534,15 +2680,17 @@
   },
   {
     "sentence_text": "En hoewel de koffieboon nog niet kan concurreren met de productie uit Brazilië,",
-    "translations": {},
+    "translations": {
+      "en": "र यद्यपि कफीको बीउले ब्राजिल, भियतनाम वा इथियोपियाको उत्पादनसँग प्रतिस्पर्धा गर्न सक्दैन,"
+    },
     "segments": [
       {
-        "token": "experten.",
+        "token": "En",
         "startTime": 212490,
         "endTime": 213630
       },
       {
-        "token": "Vooral",
+        "token": "hoewel",
         "startTime": 213630,
         "endTime": 214050
       },
@@ -2552,52 +2700,52 @@
         "endTime": 214130
       },
       {
-        "token": "provincie",
+        "token": "koffieboon",
         "startTime": 214130,
         "endTime": 214630
       },
       {
-        "token": "Yunaan",
+        "token": "nog",
         "startTime": 214630,
         "endTime": 215010
       },
       {
-        "token": "is",
+        "token": "niet",
         "startTime": 215010,
         "endTime": 215230
       },
       {
-        "token": "in",
+        "token": "kan",
         "startTime": 215230,
         "endTime": 215310
       },
       {
-        "token": "sneltempo",
+        "token": "concurreren",
         "startTime": 215310,
         "endTime": 215970
       },
       {
-        "token": "aan",
+        "token": "met",
         "startTime": 215970,
         "endTime": 216150
       },
       {
-        "token": "het",
+        "token": "de",
         "startTime": 216150,
         "endTime": 216270
       },
       {
-        "token": "uitgroeien",
+        "token": "productie",
         "startTime": 216270,
         "endTime": 216290
       },
       {
-        "token": "tot",
+        "token": "uit",
         "startTime": 216290,
         "endTime": 217010
       },
       {
-        "token": "de",
+        "token": "Brazilië,",
         "startTime": 217010,
         "endTime": 217250
       }
@@ -2605,45 +2753,47 @@
   },
   {
     "sentence_text": "Vietnam of Ethiopië, zijn de Chinese ambities torenhoog.",
-    "translations": {},
+    "translations": {
+      "en": "चीनको महत्वाकांक्षा भने आकाश छुने छ।"
+    },
     "segments": [
       {
-        "token": "koffieprovincie",
+        "token": "Vietnam",
         "startTime": 217250,
         "endTime": 218190
       },
       {
-        "token": "in",
+        "token": "of",
         "startTime": 218190,
         "endTime": 218410
       },
       {
-        "token": "China.",
+        "token": "Ethiopië,",
         "startTime": 218410,
         "endTime": 219130
       },
       {
-        "token": "En",
+        "token": "zijn",
         "startTime": 219130,
         "endTime": 219430
       },
       {
-        "token": "hoewel",
+        "token": "de",
         "startTime": 219430,
         "endTime": 219630
       },
       {
-        "token": "de",
+        "token": "Chinese",
         "startTime": 219630,
         "endTime": 219770
       },
       {
-        "token": "koffieboon",
+        "token": "ambities",
         "startTime": 219770,
         "endTime": 220290
       },
       {
-        "token": "nog",
+        "token": "torenhoog.",
         "startTime": 220290,
         "endTime": 220410
       }
@@ -2651,45 +2801,47 @@
   },
   {
     "sentence_text": "Koffie is zeker een vorm van soft power",
-    "translations": {},
+    "translations": {
+      "en": "कफी पक्कै पनि सफ्ट पावरको एक रूप हो"
+    },
     "segments": [
       {
-        "token": "niet",
+        "token": "Koffie",
         "startTime": 220410,
         "endTime": 220710
       },
       {
-        "token": "kan",
+        "token": "is",
         "startTime": 220710,
         "endTime": 220910
       },
       {
-        "token": "concurreren",
+        "token": "zeker",
         "startTime": 220910,
         "endTime": 221390
       },
       {
-        "token": "met",
+        "token": "een",
         "startTime": 221390,
         "endTime": 221670
       },
       {
-        "token": "de",
+        "token": "vorm",
         "startTime": 221670,
         "endTime": 221770
       },
       {
-        "token": "productie",
+        "token": "van",
         "startTime": 221770,
         "endTime": 222270
       },
       {
-        "token": "uit",
+        "token": "soft",
         "startTime": 222270,
         "endTime": 222430
       },
       {
-        "token": "Brazilië,",
+        "token": "power",
         "startTime": 222430,
         "endTime": 223050
       }
@@ -2697,25 +2849,27 @@
   },
   {
     "sentence_text": "en pas volledig in de nieuwe trend van China die tracht via producten,",
-    "translations": {},
+    "translations": {
+      "en": "र चीनको नयाँ प्रवृत्तिमा पूर्ण रूपमा फिट हुन्छ जसले उत्पादन, सेवा र सुविधाहरू मार्फत चीनको फरक छवि प्रस्तुत गर्न खोज्छ।"
+    },
     "segments": [
       {
-        "token": "Vietnam",
+        "token": "en",
         "startTime": 223050,
         "endTime": 223310
       },
       {
-        "token": "of",
+        "token": "pas",
         "startTime": 223310,
         "endTime": 223590
       },
       {
-        "token": "Ethiopië,",
+        "token": "volledig",
         "startTime": 223590,
         "endTime": 224150
       },
       {
-        "token": "zijn",
+        "token": "in",
         "startTime": 224150,
         "endTime": 224730
       },
@@ -2725,42 +2879,42 @@
         "endTime": 224870
       },
       {
-        "token": "Chinese",
+        "token": "nieuwe",
         "startTime": 224870,
         "endTime": 225090
       },
       {
-        "token": "ambities",
+        "token": "trend",
         "startTime": 225090,
         "endTime": 225830
       },
       {
-        "token": "torenhoog.",
+        "token": "van",
         "startTime": 225830,
         "endTime": 239090
       },
       {
-        "token": "Koffie",
+        "token": "China",
         "startTime": 239090,
         "endTime": 239370
       },
       {
-        "token": "is",
+        "token": "die",
         "startTime": 239370,
         "endTime": 239465
       },
       {
-        "token": "zeker",
+        "token": "tracht",
         "startTime": 239465,
         "endTime": 239905
       },
       {
-        "token": "een",
+        "token": "via",
         "startTime": 239905,
         "endTime": 240525
       },
       {
-        "token": "vorm",
+        "token": "producten,",
         "startTime": 240525,
         "endTime": 240665
       }
@@ -2768,94 +2922,10 @@
   },
   {
     "sentence_text": "maar ook via diensten, services, een ander beeld van China te brengen.",
-    "translations": {},
+    "translations": {
+      "en": "त्यसैले कफी पनि भूराजनीतिक रूपमा चाखलाग्दो उत्पादनहरूको बढ्दो श्रृंखलामा समावेश छ,"
+    },
     "segments": [
-      {
-        "token": "van",
-        "startTime": 240665,
-        "endTime": 240845
-      },
-      {
-        "token": "soft",
-        "startTime": 240845,
-        "endTime": 241405
-      },
-      {
-        "token": "power",
-        "startTime": 241405,
-        "endTime": 241765
-      },
-      {
-        "token": "en",
-        "startTime": 241765,
-        "endTime": 242945
-      },
-      {
-        "token": "pas",
-        "startTime": 242945,
-        "endTime": 243125
-      },
-      {
-        "token": "volledig",
-        "startTime": 243125,
-        "endTime": 243665
-      },
-      {
-        "token": "in",
-        "startTime": 243665,
-        "endTime": 243845
-      },
-      {
-        "token": "de",
-        "startTime": 243845,
-        "endTime": 243965
-      },
-      {
-        "token": "nieuwe",
-        "startTime": 243965,
-        "endTime": 244125
-      },
-      {
-        "token": "trend",
-        "startTime": 244125,
-        "endTime": 244565
-      },
-      {
-        "token": "van",
-        "startTime": 244565,
-        "endTime": 245065
-      }
-    ]
-  },
-  {
-    "sentence_text": "Zo staat ook koffie in een groeiende reeks van geopolitiek interessante producten,",
-    "translations": {},
-    "segments": [
-      {
-        "token": "China",
-        "startTime": 245065,
-        "endTime": 245065
-      },
-      {
-        "token": "die",
-        "startTime": 245065,
-        "endTime": 245765
-      },
-      {
-        "token": "tracht",
-        "startTime": 245765,
-        "endTime": 246205
-      },
-      {
-        "token": "via",
-        "startTime": 246205,
-        "endTime": 246885
-      },
-      {
-        "token": "producten,",
-        "startTime": 246885,
-        "endTime": 247985
-      },
       {
         "token": "maar",
         "startTime": 247985,
@@ -2895,13 +2965,7 @@
         "token": "beeld",
         "startTime": 251765,
         "endTime": 251985
-      }
-    ]
-  },
-  {
-    "sentence_text": "zoals grondstoffen of zeldzame aardmetalen.",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "van",
         "startTime": 251985,
@@ -2921,18 +2985,53 @@
         "token": "brengen.",
         "startTime": 252645,
         "endTime": 253665
+      }
+    ]
+  },
+  {
+    "sentence_text": "zoals grondstoffen of zeldzame aardmetalen.",
+    "translations": {
+      "en": "किनभने आपूर्ति श्रृंखलामा नियन्त्रण गर्नेले विश्वव्यापी रूपमा मूल्य निर्धारण गर्न सक्छ।"
+    },
+    "segments": [
+      {
+        "token": "zoals",
+        "startTime": 251985,
+        "endTime": 252165
       },
       {
-        "token": "Zo",
+        "token": "grondstoffen",
+        "startTime": 252165,
+        "endTime": 252385
+      },
+      {
+        "token": "of",
+        "startTime": 252385,
+        "endTime": 252645
+      },
+      {
+        "token": "zeldzame",
+        "startTime": 252645,
+        "endTime": 253665
+      },
+      {
+        "token": "aardmetalen.",
         "startTime": 253665,
         "endTime": 253805
       }
     ]
   },
   {
-    "sentence_text": "Want wie de aanvoerketen in handen heeft, kan wereldwijd de prijs bepalen.",
-    "translations": {},
+    "sentence_text": "Zo staat ook koffie in een groeiende reeks van geopolitiek interessante producten,",
+    "translations": {
+      "en": "जस्तै कच्चा पदार्थ वा दुर्लभ पृथ्वी धातुहरू।"
+    },
     "segments": [
+      {
+        "token": "Zo",
+        "startTime": 253665,
+        "endTime": 253805
+      },
       {
         "token": "staat",
         "startTime": 253805,
@@ -2987,9 +3086,72 @@
         "token": "producten,",
         "startTime": 256865,
         "endTime": 258065
+      }
+    ]
+  },
+  {
+    "sentence_text": "Want wie de aanvoerketen in handen heeft, kan wereldwijd de prijs bepalen.",
+    "translations": {
+      "en": "मलाई थाहा छ चिनियाँ सरकारले ब्राजिलियन सरकारसँग प्रत्यक्ष सम्झौता गर्छ"
+    },
+    "segments": [
+      {
+        "token": "Want",
+        "startTime": 253805,
+        "endTime": 254105
       },
       {
-        "token": "zoals",
+        "token": "wie",
+        "startTime": 254105,
+        "endTime": 254285
+      },
+      {
+        "token": "de",
+        "startTime": 254285,
+        "endTime": 254585
+      },
+      {
+        "token": "aanvoerketen",
+        "startTime": 254585,
+        "endTime": 254725
+      },
+      {
+        "token": "in",
+        "startTime": 254725,
+        "endTime": 254845
+      },
+      {
+        "token": "handen",
+        "startTime": 254845,
+        "endTime": 255245
+      },
+      {
+        "token": "heeft,",
+        "startTime": 255245,
+        "endTime": 255565
+      },
+      {
+        "token": "kan",
+        "startTime": 255565,
+        "endTime": 255765
+      },
+      {
+        "token": "wereldwijd",
+        "startTime": 255765,
+        "endTime": 256445
+      },
+      {
+        "token": "de",
+        "startTime": 256445,
+        "endTime": 256865
+      },
+      {
+        "token": "prijs",
+        "startTime": 256865,
+        "endTime": 258065
+      },
+      {
+        "token": "bepalen.",
         "startTime": 258065,
         "endTime": 258205
       }
@@ -2997,45 +3159,47 @@
   },
   {
     "sentence_text": "Ik weet dat de Chinese overheid wel rechtstreeks",
-    "translations": {},
+    "translations": {
+      "en": "हामीले किन्न सक्ने भन्दा सम्भवतः राम्रो मूल्यमा ती ब्राजिलियन कफी बीउको आपूर्ति सुनिश्चित गर्न।"
+    },
     "segments": [
       {
-        "token": "grondstoffen",
+        "token": "Ik",
         "startTime": 258205,
         "endTime": 258905
       },
       {
-        "token": "of",
+        "token": "weet",
         "startTime": 258905,
         "endTime": 259105
       },
       {
-        "token": "zeldzame",
+        "token": "dat",
         "startTime": 259105,
         "endTime": 259705
       },
       {
-        "token": "aardmetalen.",
+        "token": "de",
         "startTime": 259705,
         "endTime": 260925
       },
       {
-        "token": "Want",
+        "token": "Chinese",
         "startTime": 260925,
         "endTime": 261065
       },
       {
-        "token": "wie",
+        "token": "overheid",
         "startTime": 261065,
         "endTime": 261165
       },
       {
-        "token": "de",
+        "token": "wel",
         "startTime": 261165,
         "endTime": 261305
       },
       {
-        "token": "aanvoerketen",
+        "token": "rechtstreeks",
         "startTime": 261305,
         "endTime": 262005
       }
@@ -3043,45 +3207,47 @@
   },
   {
     "sentence_text": "akkoorden maakt met de Braziliaanse overheid om aan",
-    "translations": {},
+    "translations": {
+      "en": "जबकि हाम्रो आधार न्यूयोर्कको कफी बजार हो।"
+    },
     "segments": [
       {
-        "token": "in",
+        "token": "akkoorden",
         "startTime": 262005,
         "endTime": 262145
       },
       {
-        "token": "handen",
+        "token": "maakt",
         "startTime": 262145,
         "endTime": 262425
       },
       {
-        "token": "heeft,",
+        "token": "met",
         "startTime": 262425,
         "endTime": 262785
       },
       {
-        "token": "kan",
+        "token": "de",
         "startTime": 262785,
         "endTime": 262905
       },
       {
-        "token": "wereldwijd",
+        "token": "Braziliaanse",
         "startTime": 262905,
         "endTime": 263565
       },
       {
-        "token": "de",
+        "token": "overheid",
         "startTime": 263565,
         "endTime": 263805
       },
       {
-        "token": "prijs",
+        "token": "om",
         "startTime": 263805,
         "endTime": 264065
       },
       {
-        "token": "bepalen.",
+        "token": "aan",
         "startTime": 264065,
         "endTime": 265305
       }
@@ -3089,80 +3255,82 @@
   },
   {
     "sentence_text": "mogelijk betere prijzen dan wij kunnen kopen een leveringsgarantie te hebben van die Braziliaanse koffiebonen.",
-    "translations": {},
+    "translations": {
+      "en": "हामीले खरिद गर्न सक्ने भन्दा राम्रो मूल्य हुन सक्छ, ती ब्राजिलियन कफी बीन्सको आपूर्ति ग्यारेन्टी पाउनको लागि।"
+    },
     "segments": [
       {
-        "token": "Ik",
+        "token": "mogelijk",
         "startTime": 265305,
         "endTime": 265445
       },
       {
-        "token": "weet",
+        "token": "betere",
         "startTime": 265445,
         "endTime": 265605
       },
       {
-        "token": "dat",
+        "token": "prijzen",
         "startTime": 265605,
         "endTime": 265745
       },
       {
-        "token": "de",
+        "token": "dan",
         "startTime": 265745,
         "endTime": 266265
       },
       {
-        "token": "Chinese",
+        "token": "wij",
         "startTime": 266265,
         "endTime": 266485
       },
       {
-        "token": "overheid",
+        "token": "kunnen",
         "startTime": 266485,
         "endTime": 267085
       },
       {
-        "token": "wel",
+        "token": "kopen",
         "startTime": 267085,
         "endTime": 267685
       },
       {
-        "token": "rechtstreeks",
+        "token": "een",
         "startTime": 267685,
         "endTime": 268365
       },
       {
-        "token": "akkoorden",
+        "token": "leveringsgarantie",
         "startTime": 268365,
         "endTime": 268825
       },
       {
-        "token": "maakt",
+        "token": "te",
         "startTime": 268825,
         "endTime": 269165
       },
       {
-        "token": "met",
+        "token": "hebben",
         "startTime": 269165,
         "endTime": 269645
       },
       {
-        "token": "de",
+        "token": "van",
         "startTime": 269645,
         "endTime": 269865
       },
       {
-        "token": "Braziliaanse",
+        "token": "die",
         "startTime": 269865,
         "endTime": 270405
       },
       {
-        "token": "overheid",
+        "token": "Braziliaanse",
         "startTime": 270405,
         "endTime": 271405
       },
       {
-        "token": "om",
+        "token": "koffiebonen.",
         "startTime": 271405,
         "endTime": 271605
       }
@@ -3170,55 +3338,57 @@
   },
   {
     "sentence_text": "Terwijl wij als basis hebben de koffieburgs in New York.",
-    "translations": {},
+    "translations": {
+      "en": "हामीले न्युयोर्कको कफीबर्ग्सलाई आधार मानेका छौं।"
+    },
     "segments": [
       {
-        "token": "aan",
+        "token": "Terwijl",
         "startTime": 271605,
         "endTime": 272365
       },
       {
-        "token": "mogelijk",
+        "token": "wij",
         "startTime": 272365,
         "endTime": 274145
       },
       {
-        "token": "betere",
+        "token": "als",
         "startTime": 274145,
         "endTime": 274625
       },
       {
-        "token": "prijzen",
+        "token": "basis",
         "startTime": 274625,
         "endTime": 275005
       },
       {
-        "token": "dan",
+        "token": "hebben",
         "startTime": 275005,
         "endTime": 275145
       },
       {
-        "token": "wij",
+        "token": "de",
         "startTime": 275145,
         "endTime": 275365
       },
       {
-        "token": "kunnen",
+        "token": "koffieburgs",
         "startTime": 275365,
         "endTime": 275625
       },
       {
-        "token": "kopen",
+        "token": "in",
         "startTime": 275625,
         "endTime": 276045
       },
       {
-        "token": "een",
+        "token": "New",
         "startTime": 276045,
         "endTime": 277065
       },
       {
-        "token": "leveringsgarantie",
+        "token": "York.",
         "startTime": 277065,
         "endTime": 278825
       }
@@ -3226,35 +3396,37 @@
   },
   {
     "sentence_text": "en daarna ook een meerprijs opbezamen.",
-    "translations": {},
+    "translations": {
+      "en": "र त्यसपछि पनि अतिरिक्त मूल्य लाग्छ।"
+    },
     "segments": [
       {
-        "token": "te",
+        "token": "en",
         "startTime": 278825,
         "endTime": 278945
       },
       {
-        "token": "hebben",
+        "token": "daarna",
         "startTime": 278945,
         "endTime": 279065
       },
       {
-        "token": "van",
+        "token": "ook",
         "startTime": 279065,
         "endTime": 279465
       },
       {
-        "token": "die",
+        "token": "een",
         "startTime": 279465,
         "endTime": 279645
       },
       {
-        "token": "Braziliaanse",
+        "token": "meerprijs",
         "startTime": 279645,
         "endTime": 280165
       },
       {
-        "token": "koffiebonen.",
+        "token": "opbezamen.",
         "startTime": 280165,
         "endTime": 281585
       }
@@ -3262,618 +3434,566 @@
   },
   {
     "sentence_text": "China in de近20 jaar de voorkomst is heel erg moeilijk.",
-    "translations": {},
+    "translations": {
+      "en": "चीनमा पछिल्लो २० वर्षमा उपस्थिति धेरै गाह्रो छ।"
+    },
     "segments": [
       {
-        "token": "T",
-        "startTime": 281585,
-        "endTime": 281636,
-        "pinyin": "T"
+        "token": "C",
+        "startTime": 290465,
+        "endTime": 290537,
+        "pinyin": "C"
+      },
+      {
+        "token": "h",
+        "startTime": 290537,
+        "endTime": 290609,
+        "pinyin": "h"
+      },
+      {
+        "token": "i",
+        "startTime": 290609,
+        "endTime": 290681,
+        "pinyin": "i"
+      },
+      {
+        "token": "n",
+        "startTime": 290681,
+        "endTime": 290753,
+        "pinyin": "n"
+      },
+      {
+        "token": "a",
+        "startTime": 290753,
+        "endTime": 290825,
+        "pinyin": "a"
+      },
+      {
+        "token": "i",
+        "startTime": 290825,
+        "endTime": 291015,
+        "pinyin": "i"
+      },
+      {
+        "token": "n",
+        "startTime": 291015,
+        "endTime": 291205,
+        "pinyin": "n"
+      },
+      {
+        "token": "d",
+        "startTime": 291205,
+        "endTime": 291452,
+        "pinyin": "d"
       },
       {
         "token": "e",
-        "startTime": 281636,
-        "endTime": 281688,
+        "startTime": 291452,
+        "endTime": 291698,
         "pinyin": "e"
       },
       {
+        "token": "近",
+        "startTime": 291698,
+        "endTime": 291945,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "2",
+        "startTime": 291945,
+        "endTime": 292465,
+        "pinyin": "2"
+      },
+      {
+        "token": "0",
+        "startTime": 292465,
+        "endTime": 292985,
+        "pinyin": "0"
+      },
+      {
+        "token": "j",
+        "startTime": 292985,
+        "endTime": 293040,
+        "pinyin": "j"
+      },
+      {
+        "token": "a",
+        "startTime": 293040,
+        "endTime": 293095,
+        "pinyin": "a"
+      },
+      {
+        "token": "a",
+        "startTime": 293095,
+        "endTime": 293150,
+        "pinyin": "a"
+      },
+      {
         "token": "r",
-        "startTime": 281688,
-        "endTime": 281739,
+        "startTime": 293150,
+        "endTime": 293205,
         "pinyin": "r"
       },
       {
-        "token": "w",
-        "startTime": 281739,
-        "endTime": 281791,
-        "pinyin": "w"
+        "token": "d",
+        "startTime": 293205,
+        "endTime": 293265,
+        "pinyin": "d"
       },
       {
-        "token": "i",
-        "startTime": 281791,
-        "endTime": 281842,
-        "pinyin": "i"
+        "token": "e",
+        "startTime": 293265,
+        "endTime": 293325,
+        "pinyin": "e"
       },
       {
-        "token": "j",
-        "startTime": 281842,
-        "endTime": 281894,
-        "pinyin": "j"
+        "token": "v",
+        "startTime": 293325,
+        "endTime": 293354,
+        "pinyin": "v"
       },
       {
-        "token": "l",
-        "startTime": 281894,
-        "endTime": 281945,
-        "pinyin": "l"
+        "token": "o",
+        "startTime": 293354,
+        "endTime": 293383,
+        "pinyin": "o"
       },
       {
-        "token": "w",
-        "startTime": 281945,
-        "endTime": 282098,
-        "pinyin": "w"
+        "token": "o",
+        "startTime": 293383,
+        "endTime": 293412,
+        "pinyin": "o"
       },
       {
-        "token": "i",
-        "startTime": 282098,
-        "endTime": 282252,
-        "pinyin": "i"
+        "token": "r",
+        "startTime": 293412,
+        "endTime": 293441,
+        "pinyin": "r"
       },
       {
-        "token": "j",
-        "startTime": 282252,
-        "endTime": 282405,
-        "pinyin": "j"
+        "token": "k",
+        "startTime": 293441,
+        "endTime": 293469,
+        "pinyin": "k"
       },
       {
-        "token": "a",
-        "startTime": 282405,
-        "endTime": 282985,
-        "pinyin": "a"
+        "token": "o",
+        "startTime": 293469,
+        "endTime": 293498,
+        "pinyin": "o"
       },
       {
-        "token": "l",
-        "startTime": 282985,
-        "endTime": 283565,
-        "pinyin": "l"
+        "token": "m",
+        "startTime": 293498,
+        "endTime": 293527,
+        "pinyin": "m"
       },
       {
         "token": "s",
-        "startTime": 283565,
-        "endTime": 284145,
+        "startTime": 293527,
+        "endTime": 293556,
         "pinyin": "s"
       },
       {
-        "token": "b",
-        "startTime": 284145,
-        "endTime": 284217,
-        "pinyin": "b"
-      },
-      {
-        "token": "a",
-        "startTime": 284217,
-        "endTime": 284289,
-        "pinyin": "a"
-      },
-      {
-        "token": "s",
-        "startTime": 284289,
-        "endTime": 284361,
-        "pinyin": "s"
+        "token": "t",
+        "startTime": 293556,
+        "endTime": 293585,
+        "pinyin": "t"
       },
       {
         "token": "i",
-        "startTime": 284361,
-        "endTime": 284433,
+        "startTime": 293585,
+        "endTime": 293795,
         "pinyin": "i"
       },
       {
         "token": "s",
-        "startTime": 284433,
-        "endTime": 284505,
+        "startTime": 293795,
+        "endTime": 294005,
         "pinyin": "s"
       },
       {
         "token": "h",
-        "startTime": 284505,
-        "endTime": 284542,
+        "startTime": 294005,
+        "endTime": 294110,
         "pinyin": "h"
       },
       {
         "token": "e",
-        "startTime": 284542,
-        "endTime": 284578,
+        "startTime": 294110,
+        "endTime": 294215,
         "pinyin": "e"
-      },
-      {
-        "token": "b",
-        "startTime": 284578,
-        "endTime": 284615,
-        "pinyin": "b"
-      },
-      {
-        "token": "b",
-        "startTime": 284615,
-        "endTime": 284652,
-        "pinyin": "b"
       },
       {
         "token": "e",
-        "startTime": 284652,
-        "endTime": 284688,
+        "startTime": 294215,
+        "endTime": 294320,
         "pinyin": "e"
       },
       {
-        "token": "n",
-        "startTime": 284688,
-        "endTime": 284725,
-        "pinyin": "n"
-      },
-      {
-        "token": "d",
-        "startTime": 284725,
-        "endTime": 285155,
-        "pinyin": "d"
+        "token": "l",
+        "startTime": 294320,
+        "endTime": 294425,
+        "pinyin": "l"
       },
       {
         "token": "e",
-        "startTime": 285155,
-        "endTime": 285585,
+        "startTime": 294425,
+        "endTime": 294485,
         "pinyin": "e"
-      },
-      {
-        "token": "k",
-        "startTime": 285585,
-        "endTime": 285667,
-        "pinyin": "k"
-      },
-      {
-        "token": "o",
-        "startTime": 285667,
-        "endTime": 285749,
-        "pinyin": "o"
-      },
-      {
-        "token": "f",
-        "startTime": 285749,
-        "endTime": 285830,
-        "pinyin": "f"
-      },
-      {
-        "token": "f",
-        "startTime": 285830,
-        "endTime": 285912,
-        "pinyin": "f"
-      },
-      {
-        "token": "i",
-        "startTime": 285912,
-        "endTime": 285994,
-        "pinyin": "i"
-      },
-      {
-        "token": "e",
-        "startTime": 285994,
-        "endTime": 286076,
-        "pinyin": "e"
-      },
-      {
-        "token": "b",
-        "startTime": 286076,
-        "endTime": 286158,
-        "pinyin": "b"
-      },
-      {
-        "token": "u",
-        "startTime": 286158,
-        "endTime": 286240,
-        "pinyin": "u"
       },
       {
         "token": "r",
-        "startTime": 286240,
-        "endTime": 286321,
+        "startTime": 294485,
+        "endTime": 294545,
         "pinyin": "r"
       },
       {
         "token": "g",
-        "startTime": 286321,
-        "endTime": 286403,
+        "startTime": 294545,
+        "endTime": 294605,
         "pinyin": "g"
       },
       {
-        "token": "s",
-        "startTime": 286403,
-        "endTime": 286485,
-        "pinyin": "s"
-      },
-      {
-        "token": "i",
-        "startTime": 286485,
-        "endTime": 286555,
-        "pinyin": "i"
-      },
-      {
-        "token": "n",
-        "startTime": 286555,
-        "endTime": 286625,
-        "pinyin": "n"
-      },
-      {
-        "token": "N",
-        "startTime": 286625,
-        "endTime": 286665,
-        "pinyin": "N"
-      },
-      {
-        "token": "e",
-        "startTime": 286665,
-        "endTime": 286705,
-        "pinyin": "e"
-      },
-      {
-        "token": "w",
-        "startTime": 286705,
-        "endTime": 286745,
-        "pinyin": "w"
-      },
-      {
-        "token": "Y",
-        "startTime": 286745,
-        "endTime": 286925,
-        "pinyin": "Y"
-      },
-      {
-        "token": "o",
-        "startTime": 286925,
-        "endTime": 287105,
-        "pinyin": "o"
-      },
-      {
-        "token": "r",
-        "startTime": 287105,
-        "endTime": 287285,
-        "pinyin": "r"
-      },
-      {
-        "token": "k",
-        "startTime": 287285,
-        "endTime": 287465,
-        "pinyin": "k"
-      },
-      {
-        "token": ".",
-        "startTime": 287465,
-        "endTime": 287645,
-        "pinyin": "."
-      }
-    ]
-  },
-  {
-    "sentence_text": "En China in de世界is de verhaal.",
-    "translations": {},
-    "segments": [
-      {
-        "token": "e",
-        "startTime": 287645,
-        "endTime": 287845,
-        "pinyin": "e"
-      },
-      {
-        "token": "n",
-        "startTime": 287845,
-        "endTime": 288045,
-        "pinyin": "n"
-      },
-      {
-        "token": "d",
-        "startTime": 288045,
-        "endTime": 288102,
-        "pinyin": "d"
-      },
-      {
-        "token": "a",
-        "startTime": 288102,
-        "endTime": 288158,
-        "pinyin": "a"
-      },
-      {
-        "token": "a",
-        "startTime": 288158,
-        "endTime": 288215,
-        "pinyin": "a"
-      },
-      {
-        "token": "r",
-        "startTime": 288215,
-        "endTime": 288272,
-        "pinyin": "r"
-      },
-      {
-        "token": "n",
-        "startTime": 288272,
-        "endTime": 288328,
-        "pinyin": "n"
-      },
-      {
-        "token": "a",
-        "startTime": 288328,
-        "endTime": 288385,
-        "pinyin": "a"
-      },
-      {
-        "token": "o",
-        "startTime": 288385,
-        "endTime": 288438,
-        "pinyin": "o"
-      },
-      {
-        "token": "o",
-        "startTime": 288438,
-        "endTime": 288492,
-        "pinyin": "o"
-      },
-      {
-        "token": "k",
-        "startTime": 288492,
-        "endTime": 288545,
-        "pinyin": "k"
-      },
-      {
-        "token": "e",
-        "startTime": 288545,
-        "endTime": 288665,
-        "pinyin": "e"
-      },
-      {
-        "token": "e",
-        "startTime": 288665,
-        "endTime": 288785,
-        "pinyin": "e"
-      },
-      {
-        "token": "n",
-        "startTime": 288785,
-        "endTime": 288905,
-        "pinyin": "n"
-      },
-      {
         "token": "m",
-        "startTime": 288905,
-        "endTime": 288969,
+        "startTime": 294605,
+        "endTime": 294643,
         "pinyin": "m"
       },
       {
-        "token": "e",
-        "startTime": 288969,
-        "endTime": 289034,
-        "pinyin": "e"
+        "token": "o",
+        "startTime": 294643,
+        "endTime": 294681,
+        "pinyin": "o"
       },
       {
         "token": "e",
-        "startTime": 289034,
-        "endTime": 289098,
+        "startTime": 294681,
+        "endTime": 294718,
         "pinyin": "e"
-      },
-      {
-        "token": "r",
-        "startTime": 289098,
-        "endTime": 289163,
-        "pinyin": "r"
-      },
-      {
-        "token": "p",
-        "startTime": 289163,
-        "endTime": 289227,
-        "pinyin": "p"
-      },
-      {
-        "token": "r",
-        "startTime": 289227,
-        "endTime": 289292,
-        "pinyin": "r"
       },
       {
         "token": "i",
-        "startTime": 289292,
-        "endTime": 289356,
+        "startTime": 294718,
+        "endTime": 294756,
+        "pinyin": "i"
+      },
+      {
+        "token": "l",
+        "startTime": 294756,
+        "endTime": 294794,
+        "pinyin": "l"
+      },
+      {
+        "token": "i",
+        "startTime": 294794,
+        "endTime": 294832,
         "pinyin": "i"
       },
       {
         "token": "j",
-        "startTime": 289356,
-        "endTime": 289421,
+        "startTime": 294832,
+        "endTime": 294869,
         "pinyin": "j"
       },
       {
-        "token": "s",
-        "startTime": 289421,
-        "endTime": 289485,
-        "pinyin": "s"
-      },
-      {
-        "token": "o",
-        "startTime": 289485,
-        "endTime": 289583,
-        "pinyin": "o"
-      },
-      {
-        "token": "p",
-        "startTime": 289583,
-        "endTime": 289681,
-        "pinyin": "p"
-      },
-      {
-        "token": "b",
-        "startTime": 289681,
-        "endTime": 289779,
-        "pinyin": "b"
-      },
-      {
-        "token": "e",
-        "startTime": 289779,
-        "endTime": 289877,
-        "pinyin": "e"
-      },
-      {
-        "token": "z",
-        "startTime": 289877,
-        "endTime": 289975,
-        "pinyin": "z"
-      },
-      {
-        "token": "a",
-        "startTime": 289975,
-        "endTime": 290073,
-        "pinyin": "a"
-      },
-      {
-        "token": "m",
-        "startTime": 290073,
-        "endTime": 290171,
-        "pinyin": "m"
-      },
-      {
-        "token": "e",
-        "startTime": 290171,
-        "endTime": 290269,
-        "pinyin": "e"
-      },
-      {
-        "token": "n",
-        "startTime": 290269,
-        "endTime": 290367,
-        "pinyin": "n"
+        "token": "k",
+        "startTime": 294869,
+        "endTime": 294907,
+        "pinyin": "k"
       },
       {
         "token": ".",
-        "startTime": 290367,
-        "endTime": 290465,
+        "startTime": 294907,
+        "endTime": 294945,
         "pinyin": "."
       }
     ]
   },
   {
     "sentence_text": "Ik hoop dat in de 5 jaar in Europa veel meer verhaal",
-    "translations": {},
+    "translations": {
+      "en": "म आशा गर्छु कि युरोपमा ५ वर्षमा धेरै कथाहरू"
+    },
     "segments": [
       {
-        "token": "China",
+        "token": "Ik",
         "startTime": 290465,
         "endTime": 290825
       },
       {
-        "token": "in",
+        "token": "hoop",
         "startTime": 290825,
         "endTime": 291205
       },
       {
-        "token": "de近",
+        "token": "dat",
         "startTime": 291205,
         "endTime": 291945
       },
       {
-        "token": "20",
+        "token": "in",
         "startTime": 291945,
         "endTime": 292985
       },
       {
-        "token": "jaar",
+        "token": "de",
         "startTime": 292985,
         "endTime": 293205
       },
       {
-        "token": "de",
+        "token": "5",
         "startTime": 293205,
         "endTime": 293325
       },
       {
-        "token": "voorkomst",
+        "token": "jaar",
         "startTime": 293325,
         "endTime": 293585
       },
       {
-        "token": "is",
+        "token": "in",
         "startTime": 293585,
         "endTime": 294005
       },
       {
-        "token": "heel",
+        "token": "Europa",
         "startTime": 294005,
         "endTime": 294425
       },
       {
-        "token": "erg",
+        "token": "veel",
         "startTime": 294425,
         "endTime": 294605
       },
       {
-        "token": "moeilijk.",
+        "token": "meer",
         "startTime": 294605,
         "endTime": 294945
       },
       {
-        "token": "En",
+        "token": "verhaal",
         "startTime": 294945,
         "endTime": 295765
       }
     ]
   },
   {
-    "sentence_text": "en de grote dingen en de nieuwe producten kunnen laten zien.",
-    "translations": {},
+    "sentence_text": "En China in de世界is de verhaal.",
+    "translations": {
+      "en": "र चीन विश्वमा एउटा कथा हो।"
+    },
     "segments": [
       {
-        "token": "China",
+        "token": "E",
+        "startTime": 294945,
+        "endTime": 295355,
+        "pinyin": "E"
+      },
+      {
+        "token": "n",
+        "startTime": 295355,
+        "endTime": 295765,
+        "pinyin": "n"
+      },
+      {
+        "token": "C",
+        "startTime": 295765,
+        "endTime": 295789,
+        "pinyin": "C"
+      },
+      {
+        "token": "h",
+        "startTime": 295789,
+        "endTime": 295813,
+        "pinyin": "h"
+      },
+      {
+        "token": "i",
+        "startTime": 295813,
+        "endTime": 295837,
+        "pinyin": "i"
+      },
+      {
+        "token": "n",
+        "startTime": 295837,
+        "endTime": 295861,
+        "pinyin": "n"
+      },
+      {
+        "token": "a",
+        "startTime": 295861,
+        "endTime": 295885,
+        "pinyin": "a"
+      },
+      {
+        "token": "i",
+        "startTime": 295885,
+        "endTime": 296095,
+        "pinyin": "i"
+      },
+      {
+        "token": "n",
+        "startTime": 296095,
+        "endTime": 296305,
+        "pinyin": "n"
+      },
+      {
+        "token": "d",
+        "startTime": 296305,
+        "endTime": 296460,
+        "pinyin": "d"
+      },
+      {
+        "token": "e",
+        "startTime": 296460,
+        "endTime": 296615,
+        "pinyin": "e"
+      },
+      {
+        "token": "世",
+        "startTime": 296615,
+        "endTime": 296770,
+        "pinyin": "shì"
+      },
+      {
+        "token": "界",
+        "startTime": 296770,
+        "endTime": 296925,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "i",
+        "startTime": 296925,
+        "endTime": 297315,
+        "pinyin": "i"
+      },
+      {
+        "token": "s",
+        "startTime": 297315,
+        "endTime": 297705,
+        "pinyin": "s"
+      },
+      {
+        "token": "d",
+        "startTime": 297705,
+        "endTime": 298715,
+        "pinyin": "d"
+      },
+      {
+        "token": "e",
+        "startTime": 298715,
+        "endTime": 299725,
+        "pinyin": "e"
+      },
+      {
+        "token": "v",
+        "startTime": 299725,
+        "endTime": 299833,
+        "pinyin": "v"
+      },
+      {
+        "token": "e",
+        "startTime": 299833,
+        "endTime": 299940,
+        "pinyin": "e"
+      },
+      {
+        "token": "r",
+        "startTime": 299940,
+        "endTime": 300048,
+        "pinyin": "r"
+      },
+      {
+        "token": "h",
+        "startTime": 300048,
+        "endTime": 300155,
+        "pinyin": "h"
+      },
+      {
+        "token": "a",
+        "startTime": 300155,
+        "endTime": 300263,
+        "pinyin": "a"
+      },
+      {
+        "token": "a",
+        "startTime": 300263,
+        "endTime": 300370,
+        "pinyin": "a"
+      },
+      {
+        "token": "l",
+        "startTime": 300370,
+        "endTime": 300477,
+        "pinyin": "l"
+      },
+      {
+        "token": ".",
+        "startTime": 300477,
+        "endTime": 300585,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "en de grote dingen en de nieuwe producten kunnen laten zien.",
+    "translations": {
+      "en": "र ठूला कुराहरू र नयाँ उत्पादनहरू देखाउन सकिन्छ।"
+    },
+    "segments": [
+      {
+        "token": "en",
         "startTime": 295765,
         "endTime": 295885
       },
       {
-        "token": "in",
+        "token": "de",
         "startTime": 295885,
         "endTime": 296305
       },
       {
-        "token": "de世界",
+        "token": "grote",
         "startTime": 296305,
         "endTime": 296925
       },
       {
-        "token": "is",
+        "token": "dingen",
         "startTime": 296925,
         "endTime": 297705
       },
       {
-        "token": "de",
+        "token": "en",
         "startTime": 297705,
         "endTime": 299725
       },
       {
-        "token": "verhaal.",
+        "token": "de",
         "startTime": 299725,
         "endTime": 300585
       },
       {
-        "token": "Ik",
+        "token": "nieuwe",
         "startTime": 300585,
         "endTime": 300825
       },
       {
-        "token": "hoop",
+        "token": "producten",
         "startTime": 300825,
         "endTime": 301165
       },
       {
-        "token": "dat",
+        "token": "kunnen",
         "startTime": 301165,
         "endTime": 301305
       },
       {
-        "token": "in",
+        "token": "laten",
         "startTime": 301305,
         "endTime": 301325
       },
       {
-        "token": "de",
+        "token": "zien.",
         "startTime": 301325,
         "endTime": 301565
       }
@@ -3881,35 +4001,37 @@
   },
   {
     "sentence_text": "Have a nice day, bye bye.",
-    "translations": {},
+    "translations": {
+      "en": "शुभ दिन, बाइ बाइ।"
+    },
     "segments": [
       {
-        "token": "5",
+        "token": "Have",
         "startTime": 301565,
         "endTime": 301585
       },
       {
-        "token": "jaar",
+        "token": "a",
         "startTime": 301585,
         "endTime": 301805
       },
       {
-        "token": "in",
+        "token": "nice",
         "startTime": 301805,
         "endTime": 302645
       },
       {
-        "token": "Europa",
+        "token": "day,",
         "startTime": 302645,
         "endTime": 302905
       },
       {
-        "token": "veel",
+        "token": "bye",
         "startTime": 302905,
         "endTime": 303645
       },
       {
-        "token": "meer",
+        "token": "bye.",
         "startTime": 303645,
         "endTime": 303665
       }
