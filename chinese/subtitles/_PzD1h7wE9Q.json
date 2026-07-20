@@ -1,0 +1,5754 @@
+[
+  {
+    "sentence_text": "为什么 有些 昆虫 可以 在 水面 上 爬行",
+    "translations": {
+      "en": "Why can some insects walk on water?"
+    },
+    "segments": [
+      {
+        "token": "为",
+        "startTime": 7280,
+        "endTime": 7287,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "什",
+        "startTime": 7287,
+        "endTime": 7293,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 7293,
+        "endTime": 7300,
+        "pinyin": "me"
+      },
+      {
+        "token": "有",
+        "startTime": 7300,
+        "endTime": 7530,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "些",
+        "startTime": 7530,
+        "endTime": 7760,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "昆",
+        "startTime": 7760,
+        "endTime": 7910,
+        "pinyin": "kūn"
+      },
+      {
+        "token": "虫",
+        "startTime": 7910,
+        "endTime": 8060,
+        "pinyin": "chóng"
+      },
+      {
+        "token": "可",
+        "startTime": 8060,
+        "endTime": 8170,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 8170,
+        "endTime": 8280,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "在",
+        "startTime": 8280,
+        "endTime": 8480,
+        "pinyin": "zài"
+      },
+      {
+        "token": "水",
+        "startTime": 8480,
+        "endTime": 8650,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "面",
+        "startTime": 8650,
+        "endTime": 8820,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "上",
+        "startTime": 8820,
+        "endTime": 9000,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "爬",
+        "startTime": 9000,
+        "endTime": 9390,
+        "pinyin": "pá"
+      },
+      {
+        "token": "行",
+        "startTime": 9390,
+        "endTime": 9780,
+        "pinyin": "xíng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但是 当 你 试图 在 水上 行走 时 就 会 立即 沉入 水底",
+    "translations": {
+      "en": "But when you try to walk on water, you immediately sink."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 9780,
+        "endTime": 9870,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "是",
+        "startTime": 9870,
+        "endTime": 9960,
+        "pinyin": "shì"
+      },
+      {
+        "token": "当",
+        "startTime": 9960,
+        "endTime": 10180,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "你",
+        "startTime": 10180,
+        "endTime": 10360,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "试",
+        "startTime": 10360,
+        "endTime": 10450,
+        "pinyin": "shì"
+      },
+      {
+        "token": "图",
+        "startTime": 10450,
+        "endTime": 10540,
+        "pinyin": "tú"
+      },
+      {
+        "token": "在",
+        "startTime": 10540,
+        "endTime": 10760,
+        "pinyin": "zài"
+      },
+      {
+        "token": "水",
+        "startTime": 10760,
+        "endTime": 10970,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "上",
+        "startTime": 10970,
+        "endTime": 11180,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "行",
+        "startTime": 11180,
+        "endTime": 11350,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "走",
+        "startTime": 11350,
+        "endTime": 11520,
+        "pinyin": "zǒu"
+      },
+      {
+        "token": "时",
+        "startTime": 11520,
+        "endTime": 11580,
+        "pinyin": "shí"
+      },
+      {
+        "token": "就",
+        "startTime": 11580,
+        "endTime": 12060,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "会",
+        "startTime": 12060,
+        "endTime": 12140,
+        "pinyin": "huì"
+      },
+      {
+        "token": "立",
+        "startTime": 12140,
+        "endTime": 12310,
+        "pinyin": "lì"
+      },
+      {
+        "token": "即",
+        "startTime": 12310,
+        "endTime": 12480,
+        "pinyin": "jí"
+      },
+      {
+        "token": "沉",
+        "startTime": 12480,
+        "endTime": 12660,
+        "pinyin": "chén"
+      },
+      {
+        "token": "入",
+        "startTime": 12660,
+        "endTime": 12840,
+        "pinyin": "rù"
+      },
+      {
+        "token": "水",
+        "startTime": 12840,
+        "endTime": 13500,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "底",
+        "startTime": 13500,
+        "endTime": 14160,
+        "pinyin": "dǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "为什么 冬天 湖水 结冰 时 是从 水面 开始 往 下 结冰 呢",
+    "translations": {
+      "en": "Why does lake water freeze from the surface downward in winter?"
+    },
+    "segments": [
+      {
+        "token": "为",
+        "startTime": 14160,
+        "endTime": 14260,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "什",
+        "startTime": 14260,
+        "endTime": 14360,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 14360,
+        "endTime": 14460,
+        "pinyin": "me"
+      },
+      {
+        "token": "冬",
+        "startTime": 14460,
+        "endTime": 14650,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "天",
+        "startTime": 14650,
+        "endTime": 14840,
+        "pinyin": "tiān"
+      },
+      {
+        "token": "湖",
+        "startTime": 14840,
+        "endTime": 15000,
+        "pinyin": "hú"
+      },
+      {
+        "token": "水",
+        "startTime": 15000,
+        "endTime": 15160,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "结",
+        "startTime": 15160,
+        "endTime": 15270,
+        "pinyin": "jié"
+      },
+      {
+        "token": "冰",
+        "startTime": 15270,
+        "endTime": 15380,
+        "pinyin": "bīng"
+      },
+      {
+        "token": "时",
+        "startTime": 15380,
+        "endTime": 15380,
+        "pinyin": "shí"
+      },
+      {
+        "token": "是",
+        "startTime": 15380,
+        "endTime": 15730,
+        "pinyin": "shì"
+      },
+      {
+        "token": "从",
+        "startTime": 15730,
+        "endTime": 16079,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "水",
+        "startTime": 16079,
+        "endTime": 16260,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "面",
+        "startTime": 16260,
+        "endTime": 16440,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "开",
+        "startTime": 16440,
+        "endTime": 16550,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 16550,
+        "endTime": 16660,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "往",
+        "startTime": 16660,
+        "endTime": 16920,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "下",
+        "startTime": 16920,
+        "endTime": 17160,
+        "pinyin": "xià"
+      },
+      {
+        "token": "结",
+        "startTime": 17160,
+        "endTime": 17320,
+        "pinyin": "jié"
+      },
+      {
+        "token": "冰",
+        "startTime": 17320,
+        "endTime": 17480,
+        "pinyin": "bīng"
+      },
+      {
+        "token": "呢",
+        "startTime": 17480,
+        "endTime": 17480,
+        "pinyin": "ne"
+      }
+    ]
+  },
+  {
+    "sentence_text": "简单 地说 以上 所有 问题 的 答案 都 是 急性",
+    "translations": {
+      "en": "Simply put, the answer to all these questions is polarity."
+    },
+    "segments": [
+      {
+        "token": "简",
+        "startTime": 17480,
+        "endTime": 17820,
+        "pinyin": "jiǎn"
+      },
+      {
+        "token": "单",
+        "startTime": 17820,
+        "endTime": 18160,
+        "pinyin": "dān"
+      },
+      {
+        "token": "地",
+        "startTime": 18160,
+        "endTime": 18160,
+        "pinyin": "dì"
+      },
+      {
+        "token": "说",
+        "startTime": 18160,
+        "endTime": 18160,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "以",
+        "startTime": 18160,
+        "endTime": 18530,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "上",
+        "startTime": 18530,
+        "endTime": 18900,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "所",
+        "startTime": 18900,
+        "endTime": 19050,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "有",
+        "startTime": 19050,
+        "endTime": 19200,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "问",
+        "startTime": 19200,
+        "endTime": 19340,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "题",
+        "startTime": 19340,
+        "endTime": 19480,
+        "pinyin": "tí"
+      },
+      {
+        "token": "的",
+        "startTime": 19480,
+        "endTime": 19640,
+        "pinyin": "de"
+      },
+      {
+        "token": "答",
+        "startTime": 19640,
+        "endTime": 19780,
+        "pinyin": "dá"
+      },
+      {
+        "token": "案",
+        "startTime": 19780,
+        "endTime": 19920,
+        "pinyin": "àn"
+      },
+      {
+        "token": "都",
+        "startTime": 19920,
+        "endTime": 20320,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "是",
+        "startTime": 20320,
+        "endTime": 20600,
+        "pinyin": "shì"
+      },
+      {
+        "token": "急",
+        "startTime": 20600,
+        "endTime": 21240,
+        "pinyin": "jí"
+      },
+      {
+        "token": "性",
+        "startTime": 21240,
+        "endTime": 21880,
+        "pinyin": "xìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "水是 一种 简单 的 分子 由 一个 氧原子 和 两个 氢原子 组成",
+    "translations": {
+      "en": "Water is a simple molecule made of one oxygen atom and two hydrogen atoms."
+    },
+    "segments": [
+      {
+        "token": "水",
+        "startTime": 21880,
+        "endTime": 22250,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "是",
+        "startTime": 22250,
+        "endTime": 22620,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 22620,
+        "endTime": 22820,
+        "pinyin": "yī"
+      },
+      {
+        "token": "种",
+        "startTime": 22820,
+        "endTime": 23020,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "简",
+        "startTime": 23020,
+        "endTime": 23170,
+        "pinyin": "jiǎn"
+      },
+      {
+        "token": "单",
+        "startTime": 23170,
+        "endTime": 23320,
+        "pinyin": "dān"
+      },
+      {
+        "token": "的",
+        "startTime": 23320,
+        "endTime": 23500,
+        "pinyin": "de"
+      },
+      {
+        "token": "分",
+        "startTime": 23500,
+        "endTime": 23800,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 23800,
+        "endTime": 24100,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "由",
+        "startTime": 24100,
+        "endTime": 24300,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "一",
+        "startTime": 24300,
+        "endTime": 24490,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 24490,
+        "endTime": 24680,
+        "pinyin": "gè"
+      },
+      {
+        "token": "氧",
+        "startTime": 24680,
+        "endTime": 24907,
+        "pinyin": "yǎng"
+      },
+      {
+        "token": "原",
+        "startTime": 24907,
+        "endTime": 25133,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 25133,
+        "endTime": 25360,
+        "pinyin": "zi"
+      },
+      {
+        "token": "和",
+        "startTime": 25360,
+        "endTime": 25500,
+        "pinyin": "hé"
+      },
+      {
+        "token": "两",
+        "startTime": 25500,
+        "endTime": 25660,
+        "pinyin": "liǎng"
+      },
+      {
+        "token": "个",
+        "startTime": 25660,
+        "endTime": 25820,
+        "pinyin": "gè"
+      },
+      {
+        "token": "氢",
+        "startTime": 25820,
+        "endTime": 26180,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "原",
+        "startTime": 26180,
+        "endTime": 26540,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 26540,
+        "endTime": 26900,
+        "pinyin": "zi"
+      },
+      {
+        "token": "组",
+        "startTime": 26900,
+        "endTime": 27130,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "成",
+        "startTime": 27130,
+        "endTime": 27360,
+        "pinyin": "chéng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但水 仍然 是 生命 之源",
+    "translations": {
+      "en": "Yet water is the source of life."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 27360,
+        "endTime": 27630,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "水",
+        "startTime": 27630,
+        "endTime": 27900,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "仍",
+        "startTime": 27900,
+        "endTime": 28110,
+        "pinyin": "réng"
+      },
+      {
+        "token": "然",
+        "startTime": 28110,
+        "endTime": 28320,
+        "pinyin": "rán"
+      },
+      {
+        "token": "是",
+        "startTime": 28320,
+        "endTime": 28520,
+        "pinyin": "shì"
+      },
+      {
+        "token": "生",
+        "startTime": 28520,
+        "endTime": 28880,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "命",
+        "startTime": 28880,
+        "endTime": 29240,
+        "pinyin": "mìng"
+      },
+      {
+        "token": "之",
+        "startTime": 29240,
+        "endTime": 29390,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "源",
+        "startTime": 29390,
+        "endTime": 29540,
+        "pinyin": "yuán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "事实上 一个 成年人 60% 的 体重 都 是 由 水 组成 的",
+    "translations": {
+      "en": "In fact, about 60% of an adult's body weight is water."
+    },
+    "segments": [
+      {
+        "token": "事",
+        "startTime": 29540,
+        "endTime": 29773,
+        "pinyin": "shì"
+      },
+      {
+        "token": "实",
+        "startTime": 29773,
+        "endTime": 30007,
+        "pinyin": "shí"
+      },
+      {
+        "token": "上",
+        "startTime": 30007,
+        "endTime": 30240,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "一",
+        "startTime": 30240,
+        "endTime": 30420,
+        "pinyin": "yī"
+      },
+      {
+        "token": "个",
+        "startTime": 30420,
+        "endTime": 30600,
+        "pinyin": "gè"
+      },
+      {
+        "token": "成",
+        "startTime": 30600,
+        "endTime": 30633,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "年",
+        "startTime": 30633,
+        "endTime": 30667,
+        "pinyin": "nián"
+      },
+      {
+        "token": "人",
+        "startTime": 30667,
+        "endTime": 30700,
+        "pinyin": "rén"
+      },
+      {
+        "token": "6",
+        "startTime": 30700,
+        "endTime": 30907,
+        "pinyin": "6"
+      },
+      {
+        "token": "0",
+        "startTime": 30907,
+        "endTime": 31113,
+        "pinyin": "0"
+      },
+      {
+        "token": "%",
+        "startTime": 31113,
+        "endTime": 31320,
+        "pinyin": "%"
+      },
+      {
+        "token": "的",
+        "startTime": 31320,
+        "endTime": 31600,
+        "pinyin": "de"
+      },
+      {
+        "token": "体",
+        "startTime": 31600,
+        "endTime": 31810,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "重",
+        "startTime": 31810,
+        "endTime": 32020,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "都",
+        "startTime": 32020,
+        "endTime": 32340,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "是",
+        "startTime": 32340,
+        "endTime": 32520,
+        "pinyin": "shì"
+      },
+      {
+        "token": "由",
+        "startTime": 32520,
+        "endTime": 32860,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "水",
+        "startTime": 32860,
+        "endTime": 33160,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "组",
+        "startTime": 33160,
+        "endTime": 33760,
+        "pinyin": "zǔ"
+      },
+      {
+        "token": "成",
+        "startTime": 33760,
+        "endTime": 34360,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "的",
+        "startTime": 34360,
+        "endTime": 34560,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这是 水分子 的 极性 赋予 了 这种 简单 的 物质 独特 且 能够 维持 生命 的 性质",
+    "translations": {
+      "en": "It is the polarity of water molecules that gives this simple substance its unique and life-sustaining properties."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 34560,
+        "endTime": 34860,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "是",
+        "startTime": 34860,
+        "endTime": 35020,
+        "pinyin": "shì"
+      },
+      {
+        "token": "水",
+        "startTime": 35020,
+        "endTime": 35167,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 35167,
+        "endTime": 35313,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 35313,
+        "endTime": 35460,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 35460,
+        "endTime": 35980,
+        "pinyin": "de"
+      },
+      {
+        "token": "极",
+        "startTime": 35980,
+        "endTime": 36120,
+        "pinyin": "jí"
+      },
+      {
+        "token": "性",
+        "startTime": 36120,
+        "endTime": 36260,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "赋",
+        "startTime": 36260,
+        "endTime": 36420,
+        "pinyin": "fù"
+      },
+      {
+        "token": "予",
+        "startTime": 36420,
+        "endTime": 36580,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "了",
+        "startTime": 36580,
+        "endTime": 36720,
+        "pinyin": "le"
+      },
+      {
+        "token": "这",
+        "startTime": 36720,
+        "endTime": 36990,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 36990,
+        "endTime": 37260,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "简",
+        "startTime": 37260,
+        "endTime": 37420,
+        "pinyin": "jiǎn"
+      },
+      {
+        "token": "单",
+        "startTime": 37420,
+        "endTime": 37580,
+        "pinyin": "dān"
+      },
+      {
+        "token": "的",
+        "startTime": 37580,
+        "endTime": 37960,
+        "pinyin": "de"
+      },
+      {
+        "token": "物",
+        "startTime": 37960,
+        "endTime": 38170,
+        "pinyin": "wù"
+      },
+      {
+        "token": "质",
+        "startTime": 38170,
+        "endTime": 38380,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "独",
+        "startTime": 38380,
+        "endTime": 38710,
+        "pinyin": "dú"
+      },
+      {
+        "token": "特",
+        "startTime": 38710,
+        "endTime": 39040,
+        "pinyin": "tè"
+      },
+      {
+        "token": "且",
+        "startTime": 39040,
+        "endTime": 39160,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "能",
+        "startTime": 39160,
+        "endTime": 39320,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 39320,
+        "endTime": 39480,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "维",
+        "startTime": 39480,
+        "endTime": 39740,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "持",
+        "startTime": 39740,
+        "endTime": 40000,
+        "pinyin": "chí"
+      },
+      {
+        "token": "生",
+        "startTime": 40000,
+        "endTime": 40190,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "命",
+        "startTime": 40190,
+        "endTime": 40380,
+        "pinyin": "mìng"
+      },
+      {
+        "token": "的",
+        "startTime": 40380,
+        "endTime": 41940,
+        "pinyin": "de"
+      },
+      {
+        "token": "性",
+        "startTime": 41940,
+        "endTime": 42150,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "质",
+        "startTime": 42150,
+        "endTime": 42360,
+        "pinyin": "zhì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "极性 指 的 是 一个 分子 内 电荷分布 的 不 均匀 性",
+    "translations": {
+      "en": "Polarity refers to the uneven distribution of electric charge within a molecule."
+    },
+    "segments": [
+      {
+        "token": "极",
+        "startTime": 42360,
+        "endTime": 42490,
+        "pinyin": "jí"
+      },
+      {
+        "token": "性",
+        "startTime": 42490,
+        "endTime": 42620,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "指",
+        "startTime": 42620,
+        "endTime": 43520,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 43520,
+        "endTime": 43760,
+        "pinyin": "de"
+      },
+      {
+        "token": "是",
+        "startTime": 43760,
+        "endTime": 43880,
+        "pinyin": "shì"
+      },
+      {
+        "token": "一",
+        "startTime": 43880,
+        "endTime": 44160,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 44160,
+        "endTime": 44440,
+        "pinyin": "gè"
+      },
+      {
+        "token": "分",
+        "startTime": 44440,
+        "endTime": 44660,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 44660,
+        "endTime": 44880,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "内",
+        "startTime": 44880,
+        "endTime": 44980,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "电",
+        "startTime": 44980,
+        "endTime": 45115,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "荷",
+        "startTime": 45115,
+        "endTime": 45250,
+        "pinyin": "hè"
+      },
+      {
+        "token": "分",
+        "startTime": 45250,
+        "endTime": 45385,
+        "pinyin": "fēn"
+      },
+      {
+        "token": "布",
+        "startTime": 45385,
+        "endTime": 45520,
+        "pinyin": "bù"
+      },
+      {
+        "token": "的",
+        "startTime": 45520,
+        "endTime": 46060,
+        "pinyin": "de"
+      },
+      {
+        "token": "不",
+        "startTime": 46060,
+        "endTime": 46260,
+        "pinyin": "bù"
+      },
+      {
+        "token": "均",
+        "startTime": 46260,
+        "endTime": 46270,
+        "pinyin": "jūn"
+      },
+      {
+        "token": "匀",
+        "startTime": 46270,
+        "endTime": 46280,
+        "pinyin": "yún"
+      },
+      {
+        "token": "性",
+        "startTime": 46280,
+        "endTime": 47260,
+        "pinyin": "xìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "就是 而言 在 一个 水分子 中",
+    "translations": {
+      "en": "For water, in a water molecule,"
+    },
+    "segments": [
+      {
+        "token": "就",
+        "startTime": 47260,
+        "endTime": 47350,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "是",
+        "startTime": 47350,
+        "endTime": 47440,
+        "pinyin": "shì"
+      },
+      {
+        "token": "而",
+        "startTime": 47440,
+        "endTime": 47620,
+        "pinyin": "ér"
+      },
+      {
+        "token": "言",
+        "startTime": 47620,
+        "endTime": 47800,
+        "pinyin": "yán"
+      },
+      {
+        "token": "在",
+        "startTime": 47800,
+        "endTime": 47880,
+        "pinyin": "zài"
+      },
+      {
+        "token": "一",
+        "startTime": 47880,
+        "endTime": 48290,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 48290,
+        "endTime": 48700,
+        "pinyin": "gè"
+      },
+      {
+        "token": "水",
+        "startTime": 48700,
+        "endTime": 48920,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 48920,
+        "endTime": 49140,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 49140,
+        "endTime": 49360,
+        "pinyin": "zi"
+      },
+      {
+        "token": "中",
+        "startTime": 49360,
+        "endTime": 49500,
+        "pinyin": "zhōng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "氧原子 和 两个 氢原子 之间 的 化学键 就 像 一个 高大 强壮 的 橄榄球 运动员",
+    "translations": {
+      "en": "the chemical bonds between the oxygen atom and the two hydrogen atoms are like a tug-of-war between a big, strong football player"
+    },
+    "segments": [
+      {
+        "token": "氧",
+        "startTime": 49500,
+        "endTime": 49667,
+        "pinyin": "yǎng"
+      },
+      {
+        "token": "原",
+        "startTime": 49667,
+        "endTime": 49833,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 49833,
+        "endTime": 50000,
+        "pinyin": "zi"
+      },
+      {
+        "token": "和",
+        "startTime": 50000,
+        "endTime": 50120,
+        "pinyin": "hé"
+      },
+      {
+        "token": "两",
+        "startTime": 50120,
+        "endTime": 50270,
+        "pinyin": "liǎng"
+      },
+      {
+        "token": "个",
+        "startTime": 50270,
+        "endTime": 50420,
+        "pinyin": "gè"
+      },
+      {
+        "token": "氢",
+        "startTime": 50420,
+        "endTime": 50600,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "原",
+        "startTime": 50600,
+        "endTime": 50780,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 50780,
+        "endTime": 50960,
+        "pinyin": "zi"
+      },
+      {
+        "token": "之",
+        "startTime": 50960,
+        "endTime": 51240,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 51240,
+        "endTime": 51520,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 51520,
+        "endTime": 51640,
+        "pinyin": "de"
+      },
+      {
+        "token": "化",
+        "startTime": 51640,
+        "endTime": 51813,
+        "pinyin": "huà"
+      },
+      {
+        "token": "学",
+        "startTime": 51813,
+        "endTime": 51987,
+        "pinyin": "xué"
+      },
+      {
+        "token": "键",
+        "startTime": 51987,
+        "endTime": 52160,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "就",
+        "startTime": 52160,
+        "endTime": 52320,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "像",
+        "startTime": 52320,
+        "endTime": 52680,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "一",
+        "startTime": 52680,
+        "endTime": 52820,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 52820,
+        "endTime": 52960,
+        "pinyin": "gè"
+      },
+      {
+        "token": "高",
+        "startTime": 52960,
+        "endTime": 53080,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "大",
+        "startTime": 53080,
+        "endTime": 53200,
+        "pinyin": "dà"
+      },
+      {
+        "token": "强",
+        "startTime": 53200,
+        "endTime": 53390,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "壮",
+        "startTime": 53390,
+        "endTime": 53580,
+        "pinyin": "zhuàng"
+      },
+      {
+        "token": "的",
+        "startTime": 53580,
+        "endTime": 53760,
+        "pinyin": "de"
+      },
+      {
+        "token": "橄",
+        "startTime": 53760,
+        "endTime": 54040,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "榄",
+        "startTime": 54040,
+        "endTime": 54320,
+        "pinyin": "lǎn"
+      },
+      {
+        "token": "球",
+        "startTime": 54320,
+        "endTime": 54600,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "运",
+        "startTime": 54600,
+        "endTime": 54787,
+        "pinyin": "yùn"
+      },
+      {
+        "token": "动",
+        "startTime": 54787,
+        "endTime": 54973,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "员",
+        "startTime": 54973,
+        "endTime": 55160,
+        "pinyin": "yuán"
+      }
+    ]
+  },
+  {
+    "sentence_text": "与 一个 可爱 的 婴儿 之间 进行 拔河",
+    "translations": {
+      "en": "and a cute baby."
+    },
+    "segments": [
+      {
+        "token": "与",
+        "startTime": 55160,
+        "endTime": 55280,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "一",
+        "startTime": 55280,
+        "endTime": 55480,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 55480,
+        "endTime": 55680,
+        "pinyin": "gè"
+      },
+      {
+        "token": "可",
+        "startTime": 55680,
+        "endTime": 55920,
+        "pinyin": "kě"
+      },
+      {
+        "token": "爱",
+        "startTime": 55920,
+        "endTime": 56160,
+        "pinyin": "ài"
+      },
+      {
+        "token": "的",
+        "startTime": 56160,
+        "endTime": 56320,
+        "pinyin": "de"
+      },
+      {
+        "token": "婴",
+        "startTime": 56320,
+        "endTime": 57030,
+        "pinyin": "yīng"
+      },
+      {
+        "token": "儿",
+        "startTime": 57030,
+        "endTime": 57740,
+        "pinyin": "ér"
+      },
+      {
+        "token": "之",
+        "startTime": 57740,
+        "endTime": 57940,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 57940,
+        "endTime": 58140,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "进",
+        "startTime": 58140,
+        "endTime": 58380,
+        "pinyin": "jìn"
+      },
+      {
+        "token": "行",
+        "startTime": 58380,
+        "endTime": 58620,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "拔",
+        "startTime": 58620,
+        "endTime": 59150,
+        "pinyin": "bá"
+      },
+      {
+        "token": "河",
+        "startTime": 59150,
+        "endTime": 59680,
+        "pinyin": "hé"
+      }
+    ]
+  },
+  {
+    "sentence_text": "氧原子 更大 一些 它 的 原子核 中 的 质子 比 氢原子 更 多",
+    "translations": {
+      "en": "The oxygen atom is larger and has more protons in its nucleus than hydrogen atoms."
+    },
+    "segments": [
+      {
+        "token": "氧",
+        "startTime": 59680,
+        "endTime": 59800,
+        "pinyin": "yǎng"
+      },
+      {
+        "token": "原",
+        "startTime": 59800,
+        "endTime": 59920,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 59920,
+        "endTime": 60040,
+        "pinyin": "zi"
+      },
+      {
+        "token": "更",
+        "startTime": 60040,
+        "endTime": 60170,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "大",
+        "startTime": 60170,
+        "endTime": 60300,
+        "pinyin": "dà"
+      },
+      {
+        "token": "一",
+        "startTime": 60300,
+        "endTime": 60500,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 60500,
+        "endTime": 60700,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "它",
+        "startTime": 60700,
+        "endTime": 60800,
+        "pinyin": "tā"
+      },
+      {
+        "token": "的",
+        "startTime": 60800,
+        "endTime": 61000,
+        "pinyin": "de"
+      },
+      {
+        "token": "原",
+        "startTime": 61000,
+        "endTime": 61273,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 61273,
+        "endTime": 61547,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "核",
+        "startTime": 61547,
+        "endTime": 61820,
+        "pinyin": "hé"
+      },
+      {
+        "token": "中",
+        "startTime": 61820,
+        "endTime": 61960,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "的",
+        "startTime": 61960,
+        "endTime": 62140,
+        "pinyin": "de"
+      },
+      {
+        "token": "质",
+        "startTime": 62140,
+        "endTime": 62580,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "子",
+        "startTime": 62580,
+        "endTime": 63020,
+        "pinyin": "zi"
+      },
+      {
+        "token": "比",
+        "startTime": 63020,
+        "endTime": 63200,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "氢",
+        "startTime": 63200,
+        "endTime": 63367,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "原",
+        "startTime": 63367,
+        "endTime": 63533,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 63533,
+        "endTime": 63700,
+        "pinyin": "zi"
+      },
+      {
+        "token": "更",
+        "startTime": 63700,
+        "endTime": 63840,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "多",
+        "startTime": 63840,
+        "endTime": 64360,
+        "pinyin": "duō"
+      }
+    ]
+  },
+  {
+    "sentence_text": "质子 的 正电荷 又 像 一个 人 的 力气 一样",
+    "translations": {
+      "en": "The positive charge of protons, like a person's strength,"
+    },
+    "segments": [
+      {
+        "token": "质",
+        "startTime": 64360,
+        "endTime": 64530,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "子",
+        "startTime": 64530,
+        "endTime": 64700,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 64700,
+        "endTime": 64840,
+        "pinyin": "de"
+      },
+      {
+        "token": "正",
+        "startTime": 64840,
+        "endTime": 64993,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "电",
+        "startTime": 64993,
+        "endTime": 65147,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "荷",
+        "startTime": 65147,
+        "endTime": 65300,
+        "pinyin": "hè"
+      },
+      {
+        "token": "又",
+        "startTime": 65300,
+        "endTime": 65480,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "像",
+        "startTime": 65480,
+        "endTime": 65960,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "一",
+        "startTime": 65960,
+        "endTime": 66100,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 66100,
+        "endTime": 66240,
+        "pinyin": "gè"
+      },
+      {
+        "token": "人",
+        "startTime": 66240,
+        "endTime": 66360,
+        "pinyin": "rén"
+      },
+      {
+        "token": "的",
+        "startTime": 66360,
+        "endTime": 66500,
+        "pinyin": "de"
+      },
+      {
+        "token": "力",
+        "startTime": 66500,
+        "endTime": 66700,
+        "pinyin": "lì"
+      },
+      {
+        "token": "气",
+        "startTime": 66700,
+        "endTime": 66900,
+        "pinyin": "qì"
+      },
+      {
+        "token": "一",
+        "startTime": 66900,
+        "endTime": 67200,
+        "pinyin": "yī"
+      },
+      {
+        "token": "样",
+        "startTime": 67200,
+        "endTime": 67500,
+        "pinyin": "yàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "能够 经由 化学键 吸引 带 负电荷 的 电子",
+    "translations": {
+      "en": "can attract negatively charged electrons through chemical bonds."
+    },
+    "segments": [
+      {
+        "token": "能",
+        "startTime": 67500,
+        "endTime": 67660,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 67660,
+        "endTime": 67820,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "经",
+        "startTime": 67820,
+        "endTime": 68020,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "由",
+        "startTime": 68020,
+        "endTime": 68220,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "化",
+        "startTime": 68220,
+        "endTime": 68380,
+        "pinyin": "huà"
+      },
+      {
+        "token": "学",
+        "startTime": 68380,
+        "endTime": 68540,
+        "pinyin": "xué"
+      },
+      {
+        "token": "键",
+        "startTime": 68540,
+        "endTime": 68700,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "吸",
+        "startTime": 68700,
+        "endTime": 69180,
+        "pinyin": "xī"
+      },
+      {
+        "token": "引",
+        "startTime": 69180,
+        "endTime": 69660,
+        "pinyin": "yǐn"
+      },
+      {
+        "token": "带",
+        "startTime": 69660,
+        "endTime": 69800,
+        "pinyin": "dài"
+      },
+      {
+        "token": "负",
+        "startTime": 69800,
+        "endTime": 69967,
+        "pinyin": "fù"
+      },
+      {
+        "token": "电",
+        "startTime": 69967,
+        "endTime": 70133,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "荷",
+        "startTime": 70133,
+        "endTime": 70300,
+        "pinyin": "hè"
+      },
+      {
+        "token": "的",
+        "startTime": 70300,
+        "endTime": 70440,
+        "pinyin": "de"
+      },
+      {
+        "token": "电",
+        "startTime": 70440,
+        "endTime": 70640,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 70640,
+        "endTime": 70840,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "就 像 较 强 的 一方 可以 在 拔河比赛 中 战胜 较弱 的 一方",
+    "translations": {
+      "en": "Just as the stronger side can defeat the weaker side in a tug-of-war,"
+    },
+    "segments": [
+      {
+        "token": "就",
+        "startTime": 70840,
+        "endTime": 71040,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "像",
+        "startTime": 71040,
+        "endTime": 71160,
+        "pinyin": "xiàng"
+      },
+      {
+        "token": "较",
+        "startTime": 71160,
+        "endTime": 71280,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "强",
+        "startTime": 71280,
+        "endTime": 71460,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "的",
+        "startTime": 71460,
+        "endTime": 71580,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 71580,
+        "endTime": 71930,
+        "pinyin": "yī"
+      },
+      {
+        "token": "方",
+        "startTime": 71930,
+        "endTime": 72280,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "可",
+        "startTime": 72280,
+        "endTime": 72490,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 72490,
+        "endTime": 72700,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "在",
+        "startTime": 72700,
+        "endTime": 72900,
+        "pinyin": "zài"
+      },
+      {
+        "token": "拔",
+        "startTime": 72900,
+        "endTime": 73420,
+        "pinyin": "bá"
+      },
+      {
+        "token": "河",
+        "startTime": 73420,
+        "endTime": 73940,
+        "pinyin": "hé"
+      },
+      {
+        "token": "比",
+        "startTime": 73940,
+        "endTime": 74460,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "赛",
+        "startTime": 74460,
+        "endTime": 74980,
+        "pinyin": "sài"
+      },
+      {
+        "token": "中",
+        "startTime": 74980,
+        "endTime": 75640,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "战",
+        "startTime": 75640,
+        "endTime": 75860,
+        "pinyin": "zhàn"
+      },
+      {
+        "token": "胜",
+        "startTime": 75860,
+        "endTime": 76080,
+        "pinyin": "shèng"
+      },
+      {
+        "token": "较",
+        "startTime": 76080,
+        "endTime": 76350,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "弱",
+        "startTime": 76350,
+        "endTime": 76620,
+        "pinyin": "ruò"
+      },
+      {
+        "token": "的",
+        "startTime": 76620,
+        "endTime": 76760,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 76760,
+        "endTime": 76990,
+        "pinyin": "yī"
+      },
+      {
+        "token": "方",
+        "startTime": 76990,
+        "endTime": 77220,
+        "pinyin": "fāng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "所以 氧原子 能够 比 氢原子 吸引 更 多 的 电子",
+    "translations": {
+      "en": "the oxygen atom can attract more electrons than the hydrogen atoms."
+    },
+    "segments": [
+      {
+        "token": "所",
+        "startTime": 77220,
+        "endTime": 77490,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "以",
+        "startTime": 77490,
+        "endTime": 77760,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "氧",
+        "startTime": 77760,
+        "endTime": 77967,
+        "pinyin": "yǎng"
+      },
+      {
+        "token": "原",
+        "startTime": 77967,
+        "endTime": 78173,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 78173,
+        "endTime": 78380,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "能",
+        "startTime": 78380,
+        "endTime": 78530,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 78530,
+        "endTime": 78680,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "比",
+        "startTime": 78680,
+        "endTime": 79680,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "氢",
+        "startTime": 79680,
+        "endTime": 79807,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "原",
+        "startTime": 79807,
+        "endTime": 79933,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 79933,
+        "endTime": 80060,
+        "pinyin": "zi"
+      },
+      {
+        "token": "吸",
+        "startTime": 80060,
+        "endTime": 80210,
+        "pinyin": "xī"
+      },
+      {
+        "token": "引",
+        "startTime": 80210,
+        "endTime": 80360,
+        "pinyin": "yǐn"
+      },
+      {
+        "token": "更",
+        "startTime": 80360,
+        "endTime": 80520,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "多",
+        "startTime": 80520,
+        "endTime": 80600,
+        "pinyin": "duō"
+      },
+      {
+        "token": "的",
+        "startTime": 80600,
+        "endTime": 80780,
+        "pinyin": "de"
+      },
+      {
+        "token": "电",
+        "startTime": 80780,
+        "endTime": 81040,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 81040,
+        "endTime": 81300,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "因为 氢原子 体积 较 小 拥有 的 质子 更 少 吸引力 也 相对 较 小",
+    "translations": {
+      "en": "Because hydrogen atoms are smaller, have fewer protons, and thus less attraction,"
+    },
+    "segments": [
+      {
+        "token": "因",
+        "startTime": 81300,
+        "endTime": 81430,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "为",
+        "startTime": 81430,
+        "endTime": 81560,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "氢",
+        "startTime": 81560,
+        "endTime": 81680,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "原",
+        "startTime": 81680,
+        "endTime": 81800,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 81800,
+        "endTime": 81920,
+        "pinyin": "zi"
+      },
+      {
+        "token": "体",
+        "startTime": 81920,
+        "endTime": 82270,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "积",
+        "startTime": 82270,
+        "endTime": 82620,
+        "pinyin": "jī"
+      },
+      {
+        "token": "较",
+        "startTime": 82620,
+        "endTime": 82760,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "小",
+        "startTime": 82760,
+        "endTime": 82880,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "拥",
+        "startTime": 82880,
+        "endTime": 83040,
+        "pinyin": "yōng"
+      },
+      {
+        "token": "有",
+        "startTime": 83040,
+        "endTime": 83200,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "的",
+        "startTime": 83200,
+        "endTime": 83340,
+        "pinyin": "de"
+      },
+      {
+        "token": "质",
+        "startTime": 83340,
+        "endTime": 83650,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "子",
+        "startTime": 83650,
+        "endTime": 83960,
+        "pinyin": "zi"
+      },
+      {
+        "token": "更",
+        "startTime": 83960,
+        "endTime": 84120,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "少",
+        "startTime": 84120,
+        "endTime": 84260,
+        "pinyin": "shǎo"
+      },
+      {
+        "token": "吸",
+        "startTime": 84260,
+        "endTime": 84400,
+        "pinyin": "xī"
+      },
+      {
+        "token": "引",
+        "startTime": 84400,
+        "endTime": 84540,
+        "pinyin": "yǐn"
+      },
+      {
+        "token": "力",
+        "startTime": 84540,
+        "endTime": 84680,
+        "pinyin": "lì"
+      },
+      {
+        "token": "也",
+        "startTime": 84680,
+        "endTime": 84720,
+        "pinyin": "yě"
+      },
+      {
+        "token": "相",
+        "startTime": 84720,
+        "endTime": 84870,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "对",
+        "startTime": 84870,
+        "endTime": 85020,
+        "pinyin": "duì"
+      },
+      {
+        "token": "较",
+        "startTime": 85020,
+        "endTime": 85260,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "小",
+        "startTime": 85260,
+        "endTime": 85440,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 在 这场 拔河比赛 中落 于 下风",
+    "translations": {
+      "en": "they lose in this tug-of-war,"
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 85440,
+        "endTime": 85560,
+        "pinyin": "tā"
+      },
+      {
+        "token": "在",
+        "startTime": 85560,
+        "endTime": 85760,
+        "pinyin": "zài"
+      },
+      {
+        "token": "这",
+        "startTime": 85760,
+        "endTime": 86050,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "场",
+        "startTime": 86050,
+        "endTime": 86340,
+        "pinyin": "chǎng"
+      },
+      {
+        "token": "拔",
+        "startTime": 86340,
+        "endTime": 86485,
+        "pinyin": "bá"
+      },
+      {
+        "token": "河",
+        "startTime": 86485,
+        "endTime": 86630,
+        "pinyin": "hé"
+      },
+      {
+        "token": "比",
+        "startTime": 86630,
+        "endTime": 86775,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "赛",
+        "startTime": 86775,
+        "endTime": 86920,
+        "pinyin": "sài"
+      },
+      {
+        "token": "中",
+        "startTime": 86920,
+        "endTime": 87100,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "落",
+        "startTime": 87100,
+        "endTime": 87280,
+        "pinyin": "luò"
+      },
+      {
+        "token": "于",
+        "startTime": 87280,
+        "endTime": 87320,
+        "pinyin": "yú"
+      },
+      {
+        "token": "下",
+        "startTime": 87320,
+        "endTime": 87480,
+        "pinyin": "xià"
+      },
+      {
+        "token": "风",
+        "startTime": 87480,
+        "endTime": 87640,
+        "pinyin": "fēng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "相较 于 氧原子 吸引 的 电子 更 少",
+    "translations": {
+      "en": "attracting fewer electrons than the oxygen atom."
+    },
+    "segments": [
+      {
+        "token": "相",
+        "startTime": 87640,
+        "endTime": 87840,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "较",
+        "startTime": 87840,
+        "endTime": 88040,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "于",
+        "startTime": 88040,
+        "endTime": 89240,
+        "pinyin": "yú"
+      },
+      {
+        "token": "氧",
+        "startTime": 89240,
+        "endTime": 89580,
+        "pinyin": "yǎng"
+      },
+      {
+        "token": "原",
+        "startTime": 89580,
+        "endTime": 89920,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 89920,
+        "endTime": 90260,
+        "pinyin": "zi"
+      },
+      {
+        "token": "吸",
+        "startTime": 90260,
+        "endTime": 90490,
+        "pinyin": "xī"
+      },
+      {
+        "token": "引",
+        "startTime": 90490,
+        "endTime": 90720,
+        "pinyin": "yǐn"
+      },
+      {
+        "token": "的",
+        "startTime": 90720,
+        "endTime": 90920,
+        "pinyin": "de"
+      },
+      {
+        "token": "电",
+        "startTime": 90920,
+        "endTime": 91080,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 91080,
+        "endTime": 91240,
+        "pinyin": "zi"
+      },
+      {
+        "token": "更",
+        "startTime": 91240,
+        "endTime": 91520,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "少",
+        "startTime": 91520,
+        "endTime": 91960,
+        "pinyin": "shǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "因此 水 当中 的 氧原子 带 负电 氢原子 带 正电",
+    "translations": {
+      "en": "Therefore, the oxygen atom in water carries a negative charge, while the hydrogen atoms carry a positive charge."
+    },
+    "segments": [
+      {
+        "token": "因",
+        "startTime": 91960,
+        "endTime": 92440,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "此",
+        "startTime": 92440,
+        "endTime": 92920,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "水",
+        "startTime": 92920,
+        "endTime": 93140,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "当",
+        "startTime": 93140,
+        "endTime": 93360,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "中",
+        "startTime": 93360,
+        "endTime": 93580,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "的",
+        "startTime": 93580,
+        "endTime": 94060,
+        "pinyin": "de"
+      },
+      {
+        "token": "氧",
+        "startTime": 94060,
+        "endTime": 94733,
+        "pinyin": "yǎng"
+      },
+      {
+        "token": "原",
+        "startTime": 94733,
+        "endTime": 95407,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 95407,
+        "endTime": 96080,
+        "pinyin": "zi"
+      },
+      {
+        "token": "带",
+        "startTime": 96080,
+        "endTime": 96460,
+        "pinyin": "dài"
+      },
+      {
+        "token": "负",
+        "startTime": 96460,
+        "endTime": 96610,
+        "pinyin": "fù"
+      },
+      {
+        "token": "电",
+        "startTime": 96610,
+        "endTime": 96760,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "氢",
+        "startTime": 96760,
+        "endTime": 96887,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "原",
+        "startTime": 96887,
+        "endTime": 97013,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 97013,
+        "endTime": 97140,
+        "pinyin": "zi"
+      },
+      {
+        "token": "带",
+        "startTime": 97140,
+        "endTime": 97380,
+        "pinyin": "dài"
+      },
+      {
+        "token": "正",
+        "startTime": 97380,
+        "endTime": 97660,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "电",
+        "startTime": 97660,
+        "endTime": 97940,
+        "pinyin": "diàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "一个 水分子 中 的 化学键 叫做 极性 供价键",
+    "translations": {
+      "en": "The chemical bond within a water molecule is called a polar covalent bond."
+    },
+    "segments": [
+      {
+        "token": "一",
+        "startTime": 97940,
+        "endTime": 98210,
+        "pinyin": "yí"
+      },
+      {
+        "token": "个",
+        "startTime": 98210,
+        "endTime": 98480,
+        "pinyin": "gè"
+      },
+      {
+        "token": "水",
+        "startTime": 98480,
+        "endTime": 98667,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 98667,
+        "endTime": 98853,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 98853,
+        "endTime": 99040,
+        "pinyin": "zi"
+      },
+      {
+        "token": "中",
+        "startTime": 99040,
+        "endTime": 99940,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "的",
+        "startTime": 99940,
+        "endTime": 100060,
+        "pinyin": "de"
+      },
+      {
+        "token": "化",
+        "startTime": 100060,
+        "endTime": 100327,
+        "pinyin": "huà"
+      },
+      {
+        "token": "学",
+        "startTime": 100327,
+        "endTime": 100593,
+        "pinyin": "xué"
+      },
+      {
+        "token": "键",
+        "startTime": 100593,
+        "endTime": 100860,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "叫",
+        "startTime": 100860,
+        "endTime": 101070,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "做",
+        "startTime": 101070,
+        "endTime": 101280,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "极",
+        "startTime": 101280,
+        "endTime": 101500,
+        "pinyin": "jí"
+      },
+      {
+        "token": "性",
+        "startTime": 101500,
+        "endTime": 101720,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "供",
+        "startTime": 101720,
+        "endTime": 101880,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "价",
+        "startTime": 101880,
+        "endTime": 102040,
+        "pinyin": "jià"
+      },
+      {
+        "token": "键",
+        "startTime": 102040,
+        "endTime": 102200,
+        "pinyin": "jiàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "供价 代表 电子 有 两个 原子 共有",
+    "translations": {
+      "en": "Covalent means that electrons are shared by two atoms."
+    },
+    "segments": [
+      {
+        "token": "供",
+        "startTime": 102200,
+        "endTime": 102820,
+        "pinyin": "gōng"
+      },
+      {
+        "token": "价",
+        "startTime": 102820,
+        "endTime": 103440,
+        "pinyin": "jià"
+      },
+      {
+        "token": "代",
+        "startTime": 103440,
+        "endTime": 103570,
+        "pinyin": "dài"
+      },
+      {
+        "token": "表",
+        "startTime": 103570,
+        "endTime": 103700,
+        "pinyin": "biǎo"
+      },
+      {
+        "token": "电",
+        "startTime": 103700,
+        "endTime": 104000,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 104000,
+        "endTime": 104300,
+        "pinyin": "zi"
+      },
+      {
+        "token": "有",
+        "startTime": 104300,
+        "endTime": 104500,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "两",
+        "startTime": 104500,
+        "endTime": 104700,
+        "pinyin": "liǎng"
+      },
+      {
+        "token": "个",
+        "startTime": 104700,
+        "endTime": 104900,
+        "pinyin": "gè"
+      },
+      {
+        "token": "原",
+        "startTime": 104900,
+        "endTime": 105070,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 105070,
+        "endTime": 105240,
+        "pinyin": "zi"
+      },
+      {
+        "token": "共",
+        "startTime": 105240,
+        "endTime": 105580,
+        "pinyin": "gòng"
+      },
+      {
+        "token": "有",
+        "startTime": 105580,
+        "endTime": 105920,
+        "pinyin": "yǒu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但是 正如 我们 刚才 所学 到 的 极性 表示 电子 不是 均匀分布 的",
+    "translations": {
+      "en": "But as we just learned, polar indicates that the electrons are not evenly distributed."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 105920,
+        "endTime": 106150,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "是",
+        "startTime": 106150,
+        "endTime": 106380,
+        "pinyin": "shì"
+      },
+      {
+        "token": "正",
+        "startTime": 106380,
+        "endTime": 106540,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "如",
+        "startTime": 106540,
+        "endTime": 106700,
+        "pinyin": "rú"
+      },
+      {
+        "token": "我",
+        "startTime": 106700,
+        "endTime": 106920,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 106920,
+        "endTime": 107140,
+        "pinyin": "men"
+      },
+      {
+        "token": "刚",
+        "startTime": 107140,
+        "endTime": 107240,
+        "pinyin": "gāng"
+      },
+      {
+        "token": "才",
+        "startTime": 107240,
+        "endTime": 107340,
+        "pinyin": "cái"
+      },
+      {
+        "token": "所",
+        "startTime": 107340,
+        "endTime": 107520,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "学",
+        "startTime": 107520,
+        "endTime": 107700,
+        "pinyin": "xué"
+      },
+      {
+        "token": "到",
+        "startTime": 107700,
+        "endTime": 107940,
+        "pinyin": "dào"
+      },
+      {
+        "token": "的",
+        "startTime": 107940,
+        "endTime": 108040,
+        "pinyin": "de"
+      },
+      {
+        "token": "极",
+        "startTime": 108040,
+        "endTime": 108910,
+        "pinyin": "jí"
+      },
+      {
+        "token": "性",
+        "startTime": 108910,
+        "endTime": 109780,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "表",
+        "startTime": 109780,
+        "endTime": 109990,
+        "pinyin": "biǎo"
+      },
+      {
+        "token": "示",
+        "startTime": 109990,
+        "endTime": 110200,
+        "pinyin": "shì"
+      },
+      {
+        "token": "电",
+        "startTime": 110200,
+        "endTime": 110200,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "子",
+        "startTime": 110200,
+        "endTime": 110200,
+        "pinyin": "zi"
+      },
+      {
+        "token": "不",
+        "startTime": 110200,
+        "endTime": 110760,
+        "pinyin": "bú"
+      },
+      {
+        "token": "是",
+        "startTime": 110760,
+        "endTime": 111320,
+        "pinyin": "shì"
+      },
+      {
+        "token": "均",
+        "startTime": 111320,
+        "endTime": 111475,
+        "pinyin": "jūn"
+      },
+      {
+        "token": "匀",
+        "startTime": 111475,
+        "endTime": 111630,
+        "pinyin": "yún"
+      },
+      {
+        "token": "分",
+        "startTime": 111630,
+        "endTime": 111785,
+        "pinyin": "fēn"
+      },
+      {
+        "token": "布",
+        "startTime": 111785,
+        "endTime": 111940,
+        "pinyin": "bù"
+      },
+      {
+        "token": "的",
+        "startTime": 111940,
+        "endTime": 112440,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 水分子 中 氧原子 带 负电 而 氢原子 带 正电",
+    "translations": {
+      "en": "In a water molecule, the oxygen atom is negatively charged, and the hydrogen atoms are positively charged."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 112440,
+        "endTime": 112640,
+        "pinyin": "zài"
+      },
+      {
+        "token": "水",
+        "startTime": 112640,
+        "endTime": 112800,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 112800,
+        "endTime": 112960,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 112960,
+        "endTime": 113120,
+        "pinyin": "zi"
+      },
+      {
+        "token": "中",
+        "startTime": 113120,
+        "endTime": 113320,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "氧",
+        "startTime": 113320,
+        "endTime": 113800,
+        "pinyin": "yǎng"
+      },
+      {
+        "token": "原",
+        "startTime": 113800,
+        "endTime": 114280,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 114280,
+        "endTime": 114760,
+        "pinyin": "zi"
+      },
+      {
+        "token": "带",
+        "startTime": 114760,
+        "endTime": 114940,
+        "pinyin": "dài"
+      },
+      {
+        "token": "负",
+        "startTime": 114940,
+        "endTime": 115070,
+        "pinyin": "fù"
+      },
+      {
+        "token": "电",
+        "startTime": 115070,
+        "endTime": 115200,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "而",
+        "startTime": 115200,
+        "endTime": 115440,
+        "pinyin": "ér"
+      },
+      {
+        "token": "氢",
+        "startTime": 115440,
+        "endTime": 115687,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "原",
+        "startTime": 115687,
+        "endTime": 115933,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 115933,
+        "endTime": 116180,
+        "pinyin": "zi"
+      },
+      {
+        "token": "带",
+        "startTime": 116180,
+        "endTime": 116320,
+        "pinyin": "dài"
+      },
+      {
+        "token": "正",
+        "startTime": 116320,
+        "endTime": 116470,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "电",
+        "startTime": 116470,
+        "endTime": 116620,
+        "pinyin": "diàn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "易 电性 物质 相互 吸引 , 所以 不同 的 水分子 之中 的 氧原子 和 氢原子 相互 吸引",
+    "translations": {
+      "en": "Electrically charged substances attract each other, so oxygen and hydrogen atoms from different water molecules attract each other."
+    },
+    "segments": [
+      {
+        "token": "易",
+        "startTime": 116620,
+        "endTime": 116800,
+        "pinyin": "yì"
+      },
+      {
+        "token": "电",
+        "startTime": 116800,
+        "endTime": 116950,
+        "pinyin": "diàn"
+      },
+      {
+        "token": "性",
+        "startTime": 116950,
+        "endTime": 117100,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "物",
+        "startTime": 117100,
+        "endTime": 117240,
+        "pinyin": "wù"
+      },
+      {
+        "token": "质",
+        "startTime": 117240,
+        "endTime": 117380,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "相",
+        "startTime": 117380,
+        "endTime": 117500,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "互",
+        "startTime": 117500,
+        "endTime": 117620,
+        "pinyin": "hù"
+      },
+      {
+        "token": "吸",
+        "startTime": 117620,
+        "endTime": 117790,
+        "pinyin": "xī"
+      },
+      {
+        "token": "引",
+        "startTime": 117790,
+        "endTime": 117960,
+        "pinyin": "yǐn"
+      },
+      {
+        "token": ",",
+        "startTime": 117960,
+        "endTime": 118140,
+        "pinyin": ","
+      },
+      {
+        "token": "所",
+        "startTime": 118140,
+        "endTime": 118290,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "以",
+        "startTime": 118290,
+        "endTime": 118440,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "不",
+        "startTime": 118440,
+        "endTime": 118630,
+        "pinyin": "bù"
+      },
+      {
+        "token": "同",
+        "startTime": 118630,
+        "endTime": 118820,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "的",
+        "startTime": 118820,
+        "endTime": 119100,
+        "pinyin": "de"
+      },
+      {
+        "token": "水",
+        "startTime": 119100,
+        "endTime": 119800,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 119800,
+        "endTime": 120500,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 120500,
+        "endTime": 121200,
+        "pinyin": "zi"
+      },
+      {
+        "token": "之",
+        "startTime": 121200,
+        "endTime": 121430,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "中",
+        "startTime": 121430,
+        "endTime": 121660,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "的",
+        "startTime": 121660,
+        "endTime": 121780,
+        "pinyin": "de"
+      },
+      {
+        "token": "氧",
+        "startTime": 121780,
+        "endTime": 122047,
+        "pinyin": "yǎng"
+      },
+      {
+        "token": "原",
+        "startTime": 122047,
+        "endTime": 122313,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 122313,
+        "endTime": 122580,
+        "pinyin": "zi"
+      },
+      {
+        "token": "和",
+        "startTime": 122580,
+        "endTime": 122680,
+        "pinyin": "hé"
+      },
+      {
+        "token": "氢",
+        "startTime": 122680,
+        "endTime": 122793,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "原",
+        "startTime": 122793,
+        "endTime": 122907,
+        "pinyin": "yuán"
+      },
+      {
+        "token": "子",
+        "startTime": 122907,
+        "endTime": 123020,
+        "pinyin": "zi"
+      },
+      {
+        "token": "相",
+        "startTime": 123020,
+        "endTime": 123240,
+        "pinyin": "xiāng"
+      },
+      {
+        "token": "互",
+        "startTime": 123240,
+        "endTime": 123460,
+        "pinyin": "hù"
+      },
+      {
+        "token": "吸",
+        "startTime": 123460,
+        "endTime": 123590,
+        "pinyin": "xī"
+      },
+      {
+        "token": "引",
+        "startTime": 123590,
+        "endTime": 123720,
+        "pinyin": "yǐn"
+      }
+    ]
+  },
+  {
+    "sentence_text": "水分子 之间 产生 了 一种 特殊 的 化学键 , 即",
+    "translations": {
+      "en": "This creates a special chemical bond between water molecules, known as"
+    },
+    "segments": [
+      {
+        "token": "水",
+        "startTime": 123720,
+        "endTime": 124040,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 124040,
+        "endTime": 124360,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 124360,
+        "endTime": 124680,
+        "pinyin": "zi"
+      },
+      {
+        "token": "之",
+        "startTime": 124680,
+        "endTime": 124930,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 124930,
+        "endTime": 125180,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "产",
+        "startTime": 125180,
+        "endTime": 125930,
+        "pinyin": "chǎn"
+      },
+      {
+        "token": "生",
+        "startTime": 125930,
+        "endTime": 126680,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "了",
+        "startTime": 126680,
+        "endTime": 126780,
+        "pinyin": "le"
+      },
+      {
+        "token": "一",
+        "startTime": 126780,
+        "endTime": 127030,
+        "pinyin": "yī"
+      },
+      {
+        "token": "种",
+        "startTime": 127030,
+        "endTime": 127280,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "特",
+        "startTime": 127280,
+        "endTime": 127530,
+        "pinyin": "tè"
+      },
+      {
+        "token": "殊",
+        "startTime": 127530,
+        "endTime": 127780,
+        "pinyin": "shū"
+      },
+      {
+        "token": "的",
+        "startTime": 127780,
+        "endTime": 127920,
+        "pinyin": "de"
+      },
+      {
+        "token": "化",
+        "startTime": 127920,
+        "endTime": 128053,
+        "pinyin": "huà"
+      },
+      {
+        "token": "学",
+        "startTime": 128053,
+        "endTime": 128187,
+        "pinyin": "xué"
+      },
+      {
+        "token": "键",
+        "startTime": 128187,
+        "endTime": 128320,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": ",",
+        "startTime": 128320,
+        "endTime": 128520,
+        "pinyin": ","
+      },
+      {
+        "token": "即",
+        "startTime": 128520,
+        "endTime": 129220,
+        "pinyin": "jí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "也 可以 在 水分子 和 另 一种 极性 物质 或者 离子 物质 之间 形成",
+    "translations": {
+      "en": "It can also form between a water molecule and another polar substance or ionic substance."
+    },
+    "segments": [
+      {
+        "token": "也",
+        "startTime": 129220,
+        "endTime": 129280,
+        "pinyin": "yě"
+      },
+      {
+        "token": "可",
+        "startTime": 129280,
+        "endTime": 129340,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 129340,
+        "endTime": 129400,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "在",
+        "startTime": 129400,
+        "endTime": 129660,
+        "pinyin": "zài"
+      },
+      {
+        "token": "水",
+        "startTime": 129660,
+        "endTime": 129867,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 129867,
+        "endTime": 130073,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 130073,
+        "endTime": 130280,
+        "pinyin": "zi"
+      },
+      {
+        "token": "和",
+        "startTime": 130280,
+        "endTime": 130660,
+        "pinyin": "hé"
+      },
+      {
+        "token": "另",
+        "startTime": 130660,
+        "endTime": 130840,
+        "pinyin": "lìng"
+      },
+      {
+        "token": "一",
+        "startTime": 130840,
+        "endTime": 130970,
+        "pinyin": "yī"
+      },
+      {
+        "token": "种",
+        "startTime": 130970,
+        "endTime": 131100,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "极",
+        "startTime": 131100,
+        "endTime": 131300,
+        "pinyin": "jí"
+      },
+      {
+        "token": "性",
+        "startTime": 131300,
+        "endTime": 131500,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "物",
+        "startTime": 131500,
+        "endTime": 131670,
+        "pinyin": "wù"
+      },
+      {
+        "token": "质",
+        "startTime": 131670,
+        "endTime": 131840,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "或",
+        "startTime": 131840,
+        "endTime": 132060,
+        "pinyin": "huò"
+      },
+      {
+        "token": "者",
+        "startTime": 132060,
+        "endTime": 132280,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "离",
+        "startTime": 132280,
+        "endTime": 132460,
+        "pinyin": "lí"
+      },
+      {
+        "token": "子",
+        "startTime": 132460,
+        "endTime": 132640,
+        "pinyin": "zi"
+      },
+      {
+        "token": "物",
+        "startTime": 132640,
+        "endTime": 132790,
+        "pinyin": "wù"
+      },
+      {
+        "token": "质",
+        "startTime": 132790,
+        "endTime": 132940,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "之",
+        "startTime": 132940,
+        "endTime": 133090,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 133090,
+        "endTime": 133240,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "形",
+        "startTime": 133240,
+        "endTime": 134230,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "成",
+        "startTime": 134230,
+        "endTime": 135220,
+        "pinyin": "chéng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "水分子 能够 粗 聚在一起 , 这种 能力 叫做 凝聚力",
+    "translations": {
+      "en": "Water's ability to stick together is called cohesion."
+    },
+    "segments": [
+      {
+        "token": "水",
+        "startTime": 135220,
+        "endTime": 135380,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 135380,
+        "endTime": 135540,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 135540,
+        "endTime": 135700,
+        "pinyin": "zi"
+      },
+      {
+        "token": "能",
+        "startTime": 135700,
+        "endTime": 135840,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 135840,
+        "endTime": 135980,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "粗",
+        "startTime": 135980,
+        "endTime": 136080,
+        "pinyin": "cū"
+      },
+      {
+        "token": "聚",
+        "startTime": 136080,
+        "endTime": 136180,
+        "pinyin": "jù"
+      },
+      {
+        "token": "在",
+        "startTime": 136180,
+        "endTime": 136360,
+        "pinyin": "zài"
+      },
+      {
+        "token": "一",
+        "startTime": 136360,
+        "endTime": 136507,
+        "pinyin": "yì"
+      },
+      {
+        "token": "起",
+        "startTime": 136507,
+        "endTime": 136653,
+        "pinyin": "qǐ"
+      },
+      {
+        "token": ",",
+        "startTime": 136653,
+        "endTime": 136800,
+        "pinyin": ","
+      },
+      {
+        "token": "这",
+        "startTime": 136800,
+        "endTime": 136940,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 136940,
+        "endTime": 137080,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "能",
+        "startTime": 137080,
+        "endTime": 137230,
+        "pinyin": "néng"
+      },
+      {
+        "token": "力",
+        "startTime": 137230,
+        "endTime": 137380,
+        "pinyin": "lì"
+      },
+      {
+        "token": "叫",
+        "startTime": 137380,
+        "endTime": 137520,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "做",
+        "startTime": 137520,
+        "endTime": 137660,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "凝",
+        "startTime": 137660,
+        "endTime": 137927,
+        "pinyin": "níng"
+      },
+      {
+        "token": "聚",
+        "startTime": 137927,
+        "endTime": 138193,
+        "pinyin": "jù"
+      },
+      {
+        "token": "力",
+        "startTime": 138193,
+        "endTime": 138460,
+        "pinyin": "lì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "水 也 能够 粘 在 别的 物质 上 这种 能力 叫做 粘腹粒",
+    "translations": {
+      "en": "Water can also stick to other substances; this ability is called adhesion."
+    },
+    "segments": [
+      {
+        "token": "水",
+        "startTime": 138460,
+        "endTime": 138660,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "也",
+        "startTime": 138660,
+        "endTime": 138800,
+        "pinyin": "yě"
+      },
+      {
+        "token": "能",
+        "startTime": 138800,
+        "endTime": 138910,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 138910,
+        "endTime": 139020,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "粘",
+        "startTime": 139020,
+        "endTime": 139160,
+        "pinyin": "zhān"
+      },
+      {
+        "token": "在",
+        "startTime": 139160,
+        "endTime": 139360,
+        "pinyin": "zài"
+      },
+      {
+        "token": "别",
+        "startTime": 139360,
+        "endTime": 139500,
+        "pinyin": "bié"
+      },
+      {
+        "token": "的",
+        "startTime": 139500,
+        "endTime": 139640,
+        "pinyin": "de"
+      },
+      {
+        "token": "物",
+        "startTime": 139640,
+        "endTime": 139750,
+        "pinyin": "wù"
+      },
+      {
+        "token": "质",
+        "startTime": 139750,
+        "endTime": 139860,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "上",
+        "startTime": 139860,
+        "endTime": 139960,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "这",
+        "startTime": 139960,
+        "endTime": 140290,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "种",
+        "startTime": 140290,
+        "endTime": 140620,
+        "pinyin": "zhǒng"
+      },
+      {
+        "token": "能",
+        "startTime": 140620,
+        "endTime": 140760,
+        "pinyin": "néng"
+      },
+      {
+        "token": "力",
+        "startTime": 140760,
+        "endTime": 140900,
+        "pinyin": "lì"
+      },
+      {
+        "token": "叫",
+        "startTime": 140900,
+        "endTime": 141030,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "做",
+        "startTime": 141030,
+        "endTime": 141160,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "粘",
+        "startTime": 141160,
+        "endTime": 141747,
+        "pinyin": "zhān"
+      },
+      {
+        "token": "腹",
+        "startTime": 141747,
+        "endTime": 142333,
+        "pinyin": "fù"
+      },
+      {
+        "token": "粒",
+        "startTime": 142333,
+        "endTime": 142920,
+        "pinyin": "lì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "现在 我们 再 回想 一下 最初 的 问题",
+    "translations": {
+      "en": "Now let's revisit the original question."
+    },
+    "segments": [
+      {
+        "token": "现",
+        "startTime": 142920,
+        "endTime": 143030,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "在",
+        "startTime": 143030,
+        "endTime": 143140,
+        "pinyin": "zài"
+      },
+      {
+        "token": "我",
+        "startTime": 143140,
+        "endTime": 143270,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 143270,
+        "endTime": 143400,
+        "pinyin": "men"
+      },
+      {
+        "token": "再",
+        "startTime": 143400,
+        "endTime": 143580,
+        "pinyin": "zài"
+      },
+      {
+        "token": "回",
+        "startTime": 143580,
+        "endTime": 143740,
+        "pinyin": "huí"
+      },
+      {
+        "token": "想",
+        "startTime": 143740,
+        "endTime": 143900,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "一",
+        "startTime": 143900,
+        "endTime": 144020,
+        "pinyin": "yī"
+      },
+      {
+        "token": "下",
+        "startTime": 144020,
+        "endTime": 144140,
+        "pinyin": "xià"
+      },
+      {
+        "token": "最",
+        "startTime": 144140,
+        "endTime": 144360,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "初",
+        "startTime": 144360,
+        "endTime": 144580,
+        "pinyin": "chū"
+      },
+      {
+        "token": "的",
+        "startTime": 144580,
+        "endTime": 144680,
+        "pinyin": "de"
+      },
+      {
+        "token": "问",
+        "startTime": 144680,
+        "endTime": 145170,
+        "pinyin": "wèn"
+      },
+      {
+        "token": "题",
+        "startTime": 145170,
+        "endTime": 145660,
+        "pinyin": "tí"
+      }
+    ]
+  },
+  {
+    "sentence_text": "第一 为什么 有些 昆虫 能够 在 水上 爬行",
+    "translations": {
+      "en": "First, why can some insects walk on water?"
+    },
+    "segments": [
+      {
+        "token": "第",
+        "startTime": 145660,
+        "endTime": 146010,
+        "pinyin": "dì"
+      },
+      {
+        "token": "一",
+        "startTime": 146010,
+        "endTime": 146360,
+        "pinyin": "yī"
+      },
+      {
+        "token": "为",
+        "startTime": 146360,
+        "endTime": 146453,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "什",
+        "startTime": 146453,
+        "endTime": 146547,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 146547,
+        "endTime": 146640,
+        "pinyin": "me"
+      },
+      {
+        "token": "有",
+        "startTime": 146640,
+        "endTime": 146820,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "些",
+        "startTime": 146820,
+        "endTime": 147000,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "昆",
+        "startTime": 147000,
+        "endTime": 147130,
+        "pinyin": "kūn"
+      },
+      {
+        "token": "虫",
+        "startTime": 147130,
+        "endTime": 147260,
+        "pinyin": "chóng"
+      },
+      {
+        "token": "能",
+        "startTime": 147260,
+        "endTime": 147410,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 147410,
+        "endTime": 147560,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "在",
+        "startTime": 147560,
+        "endTime": 147700,
+        "pinyin": "zài"
+      },
+      {
+        "token": "水",
+        "startTime": 147700,
+        "endTime": 147920,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "上",
+        "startTime": 147920,
+        "endTime": 148140,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "爬",
+        "startTime": 148140,
+        "endTime": 148780,
+        "pinyin": "pá"
+      },
+      {
+        "token": "行",
+        "startTime": 148780,
+        "endTime": 149420,
+        "pinyin": "xíng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "轻贱 具有 表面张力 在 水面 上 产生 了 一层 薄膜",
+    "translations": {
+      "en": "Hydrogen bonds create surface tension, forming a thin film on the water's surface."
+    },
+    "segments": [
+      {
+        "token": "轻",
+        "startTime": 149420,
+        "endTime": 149580,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "贱",
+        "startTime": 149580,
+        "endTime": 149740,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "具",
+        "startTime": 149740,
+        "endTime": 149900,
+        "pinyin": "jù"
+      },
+      {
+        "token": "有",
+        "startTime": 149900,
+        "endTime": 150060,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "表",
+        "startTime": 150060,
+        "endTime": 150335,
+        "pinyin": "biǎo"
+      },
+      {
+        "token": "面",
+        "startTime": 150335,
+        "endTime": 150610,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "张",
+        "startTime": 150610,
+        "endTime": 150885,
+        "pinyin": "zhāng"
+      },
+      {
+        "token": "力",
+        "startTime": 150885,
+        "endTime": 151160,
+        "pinyin": "lì"
+      },
+      {
+        "token": "在",
+        "startTime": 151160,
+        "endTime": 151320,
+        "pinyin": "zài"
+      },
+      {
+        "token": "水",
+        "startTime": 151320,
+        "endTime": 151450,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "面",
+        "startTime": 151450,
+        "endTime": 151580,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "上",
+        "startTime": 151580,
+        "endTime": 151800,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "产",
+        "startTime": 151800,
+        "endTime": 151980,
+        "pinyin": "chǎn"
+      },
+      {
+        "token": "生",
+        "startTime": 151980,
+        "endTime": 152160,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "了",
+        "startTime": 152160,
+        "endTime": 152280,
+        "pinyin": "le"
+      },
+      {
+        "token": "一",
+        "startTime": 152280,
+        "endTime": 152370,
+        "pinyin": "yī"
+      },
+      {
+        "token": "层",
+        "startTime": 152370,
+        "endTime": 152460,
+        "pinyin": "céng"
+      },
+      {
+        "token": "薄",
+        "startTime": 152460,
+        "endTime": 152890,
+        "pinyin": "báo"
+      },
+      {
+        "token": "膜",
+        "startTime": 152890,
+        "endTime": 153320,
+        "pinyin": "mó"
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 的 弹性 足以 支撑 小型 昆虫 在 上面 爬行",
+    "translations": {
+      "en": "Its elasticity is strong enough to support small insects walking on it."
+    },
+    "segments": [
+      {
+        "token": "它",
+        "startTime": 153320,
+        "endTime": 153500,
+        "pinyin": "tā"
+      },
+      {
+        "token": "的",
+        "startTime": 153500,
+        "endTime": 153680,
+        "pinyin": "de"
+      },
+      {
+        "token": "弹",
+        "startTime": 153680,
+        "endTime": 153890,
+        "pinyin": "tán"
+      },
+      {
+        "token": "性",
+        "startTime": 153890,
+        "endTime": 154100,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "足",
+        "startTime": 154100,
+        "endTime": 154210,
+        "pinyin": "zú"
+      },
+      {
+        "token": "以",
+        "startTime": 154210,
+        "endTime": 154320,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "支",
+        "startTime": 154320,
+        "endTime": 154530,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "撑",
+        "startTime": 154530,
+        "endTime": 154740,
+        "pinyin": "chēng"
+      },
+      {
+        "token": "小",
+        "startTime": 154740,
+        "endTime": 154880,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "型",
+        "startTime": 154880,
+        "endTime": 155020,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "昆",
+        "startTime": 155020,
+        "endTime": 155200,
+        "pinyin": "kūn"
+      },
+      {
+        "token": "虫",
+        "startTime": 155200,
+        "endTime": 155380,
+        "pinyin": "chóng"
+      },
+      {
+        "token": "在",
+        "startTime": 155380,
+        "endTime": 155660,
+        "pinyin": "zài"
+      },
+      {
+        "token": "上",
+        "startTime": 155660,
+        "endTime": 156130,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "面",
+        "startTime": 156130,
+        "endTime": 156600,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "爬",
+        "startTime": 156600,
+        "endTime": 156760,
+        "pinyin": "pá"
+      },
+      {
+        "token": "行",
+        "startTime": 156760,
+        "endTime": 156920,
+        "pinyin": "xíng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但 你 无法 在 水上 行走 这 是因为 轻贱 的 强度 不足以",
+    "translations": {
+      "en": "But you cannot walk on water because the strength of hydrogen bonds is not sufficient."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 156920,
+        "endTime": 157060,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "你",
+        "startTime": 157060,
+        "endTime": 157180,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "无",
+        "startTime": 157180,
+        "endTime": 157380,
+        "pinyin": "wú"
+      },
+      {
+        "token": "法",
+        "startTime": 157380,
+        "endTime": 157580,
+        "pinyin": "fǎ"
+      },
+      {
+        "token": "在",
+        "startTime": 157580,
+        "endTime": 157820,
+        "pinyin": "zài"
+      },
+      {
+        "token": "水",
+        "startTime": 157820,
+        "endTime": 158450,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "上",
+        "startTime": 158450,
+        "endTime": 159080,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "行",
+        "startTime": 159080,
+        "endTime": 159160,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "走",
+        "startTime": 159160,
+        "endTime": 159240,
+        "pinyin": "zǒu"
+      },
+      {
+        "token": "这",
+        "startTime": 159240,
+        "endTime": 159560,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "是",
+        "startTime": 159560,
+        "endTime": 159813,
+        "pinyin": "shì"
+      },
+      {
+        "token": "因",
+        "startTime": 159813,
+        "endTime": 160067,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "为",
+        "startTime": 160067,
+        "endTime": 160320,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "轻",
+        "startTime": 160320,
+        "endTime": 160510,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "贱",
+        "startTime": 160510,
+        "endTime": 160700,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "的",
+        "startTime": 160700,
+        "endTime": 161000,
+        "pinyin": "de"
+      },
+      {
+        "token": "强",
+        "startTime": 161000,
+        "endTime": 161140,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "度",
+        "startTime": 161140,
+        "endTime": 161280,
+        "pinyin": "dù"
+      },
+      {
+        "token": "不",
+        "startTime": 161280,
+        "endTime": 161873,
+        "pinyin": "bù"
+      },
+      {
+        "token": "足",
+        "startTime": 161873,
+        "endTime": 162467,
+        "pinyin": "zú"
+      },
+      {
+        "token": "以",
+        "startTime": 162467,
+        "endTime": 163060,
+        "pinyin": "yǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "为什么 冰 能够 漂浮 在 液态水 中 呢",
+    "translations": {
+      "en": "Why can ice float on liquid water?"
+    },
+    "segments": [
+      {
+        "token": "为",
+        "startTime": 163060,
+        "endTime": 163167,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "什",
+        "startTime": 163167,
+        "endTime": 163273,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 163273,
+        "endTime": 163380,
+        "pinyin": "me"
+      },
+      {
+        "token": "冰",
+        "startTime": 163380,
+        "endTime": 163680,
+        "pinyin": "bīng"
+      },
+      {
+        "token": "能",
+        "startTime": 163680,
+        "endTime": 163830,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 163830,
+        "endTime": 163980,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "漂",
+        "startTime": 163980,
+        "endTime": 164110,
+        "pinyin": "piāo"
+      },
+      {
+        "token": "浮",
+        "startTime": 164110,
+        "endTime": 164240,
+        "pinyin": "fú"
+      },
+      {
+        "token": "在",
+        "startTime": 164240,
+        "endTime": 164440,
+        "pinyin": "zài"
+      },
+      {
+        "token": "液",
+        "startTime": 164440,
+        "endTime": 164600,
+        "pinyin": "yè"
+      },
+      {
+        "token": "态",
+        "startTime": 164600,
+        "endTime": 164760,
+        "pinyin": "tài"
+      },
+      {
+        "token": "水",
+        "startTime": 164760,
+        "endTime": 164920,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "中",
+        "startTime": 164920,
+        "endTime": 165120,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "呢",
+        "startTime": 165120,
+        "endTime": 165860,
+        "pinyin": "ne"
+      }
+    ]
+  },
+  {
+    "sentence_text": "对于 大多数 物质 来说 物态 的 密度 总是 比 液态 的 密度 大",
+    "translations": {
+      "en": "For most substances, the solid state is denser than the liquid state."
+    },
+    "segments": [
+      {
+        "token": "对",
+        "startTime": 165860,
+        "endTime": 165990,
+        "pinyin": "duì"
+      },
+      {
+        "token": "于",
+        "startTime": 165990,
+        "endTime": 166120,
+        "pinyin": "yú"
+      },
+      {
+        "token": "大",
+        "startTime": 166120,
+        "endTime": 166273,
+        "pinyin": "dà"
+      },
+      {
+        "token": "多",
+        "startTime": 166273,
+        "endTime": 166427,
+        "pinyin": "duō"
+      },
+      {
+        "token": "数",
+        "startTime": 166427,
+        "endTime": 166580,
+        "pinyin": "shù"
+      },
+      {
+        "token": "物",
+        "startTime": 166580,
+        "endTime": 166690,
+        "pinyin": "wù"
+      },
+      {
+        "token": "质",
+        "startTime": 166690,
+        "endTime": 166800,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "来",
+        "startTime": 166800,
+        "endTime": 167190,
+        "pinyin": "lái"
+      },
+      {
+        "token": "说",
+        "startTime": 167190,
+        "endTime": 167580,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "物",
+        "startTime": 167580,
+        "endTime": 167720,
+        "pinyin": "wù"
+      },
+      {
+        "token": "态",
+        "startTime": 167720,
+        "endTime": 167860,
+        "pinyin": "tài"
+      },
+      {
+        "token": "的",
+        "startTime": 167860,
+        "endTime": 168000,
+        "pinyin": "de"
+      },
+      {
+        "token": "密",
+        "startTime": 168000,
+        "endTime": 168160,
+        "pinyin": "mì"
+      },
+      {
+        "token": "度",
+        "startTime": 168160,
+        "endTime": 168320,
+        "pinyin": "dù"
+      },
+      {
+        "token": "总",
+        "startTime": 168320,
+        "endTime": 168490,
+        "pinyin": "zǒng"
+      },
+      {
+        "token": "是",
+        "startTime": 168490,
+        "endTime": 168660,
+        "pinyin": "shì"
+      },
+      {
+        "token": "比",
+        "startTime": 168660,
+        "endTime": 168760,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "液",
+        "startTime": 168760,
+        "endTime": 168930,
+        "pinyin": "yè"
+      },
+      {
+        "token": "态",
+        "startTime": 168930,
+        "endTime": 169100,
+        "pinyin": "tài"
+      },
+      {
+        "token": "的",
+        "startTime": 169100,
+        "endTime": 169220,
+        "pinyin": "de"
+      },
+      {
+        "token": "密",
+        "startTime": 169220,
+        "endTime": 169370,
+        "pinyin": "mì"
+      },
+      {
+        "token": "度",
+        "startTime": 169370,
+        "endTime": 169520,
+        "pinyin": "dù"
+      },
+      {
+        "token": "大",
+        "startTime": 169520,
+        "endTime": 170780,
+        "pinyin": "dà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "但是 水 却 不是 这样",
+    "translations": {
+      "en": "But this is not the case for water."
+    },
+    "segments": [
+      {
+        "token": "但",
+        "startTime": 170780,
+        "endTime": 170920,
+        "pinyin": "dàn"
+      },
+      {
+        "token": "是",
+        "startTime": 170920,
+        "endTime": 171060,
+        "pinyin": "shì"
+      },
+      {
+        "token": "水",
+        "startTime": 171060,
+        "endTime": 171560,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "却",
+        "startTime": 171560,
+        "endTime": 171800,
+        "pinyin": "què"
+      },
+      {
+        "token": "不",
+        "startTime": 171800,
+        "endTime": 171900,
+        "pinyin": "bú"
+      },
+      {
+        "token": "是",
+        "startTime": 171900,
+        "endTime": 172000,
+        "pinyin": "shì"
+      },
+      {
+        "token": "这",
+        "startTime": 172000,
+        "endTime": 172530,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "样",
+        "startTime": 172530,
+        "endTime": 173060,
+        "pinyin": "yàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 轻贱 的 作用 下冰中 的 水分子 之间 的 距离 比 液态水 更大",
+    "translations": {
+      "en": "Under the influence of hydrogen bonds, the distance between water molecules in ice is greater than in liquid water."
+    },
+    "segments": [
+      {
+        "token": "在",
+        "startTime": 173060,
+        "endTime": 173280,
+        "pinyin": "zài"
+      },
+      {
+        "token": "轻",
+        "startTime": 173280,
+        "endTime": 173420,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "贱",
+        "startTime": 173420,
+        "endTime": 173560,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "的",
+        "startTime": 173560,
+        "endTime": 173680,
+        "pinyin": "de"
+      },
+      {
+        "token": "作",
+        "startTime": 173680,
+        "endTime": 173810,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "用",
+        "startTime": 173810,
+        "endTime": 173940,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "下",
+        "startTime": 173940,
+        "endTime": 174233,
+        "pinyin": "xià"
+      },
+      {
+        "token": "冰",
+        "startTime": 174233,
+        "endTime": 174527,
+        "pinyin": "bīng"
+      },
+      {
+        "token": "中",
+        "startTime": 174527,
+        "endTime": 174820,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "的",
+        "startTime": 174820,
+        "endTime": 174960,
+        "pinyin": "de"
+      },
+      {
+        "token": "水",
+        "startTime": 174960,
+        "endTime": 175093,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 175093,
+        "endTime": 175227,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 175227,
+        "endTime": 175360,
+        "pinyin": "zi"
+      },
+      {
+        "token": "之",
+        "startTime": 175360,
+        "endTime": 175500,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 175500,
+        "endTime": 175640,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 175640,
+        "endTime": 175780,
+        "pinyin": "de"
+      },
+      {
+        "token": "距",
+        "startTime": 175780,
+        "endTime": 175780,
+        "pinyin": "jù"
+      },
+      {
+        "token": "离",
+        "startTime": 175780,
+        "endTime": 175780,
+        "pinyin": "lí"
+      },
+      {
+        "token": "比",
+        "startTime": 175780,
+        "endTime": 176460,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "液",
+        "startTime": 176460,
+        "endTime": 176647,
+        "pinyin": "yè"
+      },
+      {
+        "token": "态",
+        "startTime": 176647,
+        "endTime": 176833,
+        "pinyin": "tài"
+      },
+      {
+        "token": "水",
+        "startTime": 176833,
+        "endTime": 177020,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "更",
+        "startTime": 177020,
+        "endTime": 177240,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "大",
+        "startTime": 177240,
+        "endTime": 177773,
+        "pinyin": "dà"
+      }
+    ]
+  },
+  {
+    "sentence_text": "分子 之间 的 距离 越大 固体 的 密度 就 越 小",
+    "translations": {
+      "en": "The greater the distance between molecules, the lower the density of the solid."
+    },
+    "segments": [
+      {
+        "token": "分",
+        "startTime": 177773,
+        "endTime": 178307,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 178307,
+        "endTime": 178840,
+        "pinyin": "zǐ"
+      },
+      {
+        "token": "之",
+        "startTime": 178840,
+        "endTime": 178960,
+        "pinyin": "zhī"
+      },
+      {
+        "token": "间",
+        "startTime": 178960,
+        "endTime": 179080,
+        "pinyin": "jiān"
+      },
+      {
+        "token": "的",
+        "startTime": 179080,
+        "endTime": 179220,
+        "pinyin": "de"
+      },
+      {
+        "token": "距",
+        "startTime": 179220,
+        "endTime": 179320,
+        "pinyin": "jù"
+      },
+      {
+        "token": "离",
+        "startTime": 179320,
+        "endTime": 179420,
+        "pinyin": "lí"
+      },
+      {
+        "token": "越",
+        "startTime": 179420,
+        "endTime": 179660,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "大",
+        "startTime": 179660,
+        "endTime": 179900,
+        "pinyin": "dà"
+      },
+      {
+        "token": "固",
+        "startTime": 179900,
+        "endTime": 180130,
+        "pinyin": "gù"
+      },
+      {
+        "token": "体",
+        "startTime": 180130,
+        "endTime": 180360,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 180360,
+        "endTime": 180520,
+        "pinyin": "de"
+      },
+      {
+        "token": "密",
+        "startTime": 180520,
+        "endTime": 180670,
+        "pinyin": "mì"
+      },
+      {
+        "token": "度",
+        "startTime": 180670,
+        "endTime": 180820,
+        "pinyin": "dù"
+      },
+      {
+        "token": "就",
+        "startTime": 180820,
+        "endTime": 181000,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "越",
+        "startTime": 181000,
+        "endTime": 181100,
+        "pinyin": "yuè"
+      },
+      {
+        "token": "小",
+        "startTime": 181100,
+        "endTime": 182640,
+        "pinyin": "xiǎo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而冰 的 密度 比水 大约 小 9% 所以 能够 漂浮 在 水上",
+    "translations": {
+      "en": "Ice is about 9% less dense than water, so it floats on the surface."
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 182640,
+        "endTime": 182840,
+        "pinyin": "ér"
+      },
+      {
+        "token": "冰",
+        "startTime": 182840,
+        "endTime": 182900,
+        "pinyin": "bīng"
+      },
+      {
+        "token": "的",
+        "startTime": 182900,
+        "endTime": 183080,
+        "pinyin": "de"
+      },
+      {
+        "token": "密",
+        "startTime": 183080,
+        "endTime": 183210,
+        "pinyin": "mì"
+      },
+      {
+        "token": "度",
+        "startTime": 183210,
+        "endTime": 183340,
+        "pinyin": "dù"
+      },
+      {
+        "token": "比",
+        "startTime": 183340,
+        "endTime": 183530,
+        "pinyin": "bǐ"
+      },
+      {
+        "token": "水",
+        "startTime": 183530,
+        "endTime": 183720,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "大",
+        "startTime": 183720,
+        "endTime": 183910,
+        "pinyin": "dà"
+      },
+      {
+        "token": "约",
+        "startTime": 183910,
+        "endTime": 184100,
+        "pinyin": "yuē"
+      },
+      {
+        "token": "小",
+        "startTime": 184100,
+        "endTime": 184300,
+        "pinyin": "xiǎo"
+      },
+      {
+        "token": "9",
+        "startTime": 184300,
+        "endTime": 184330,
+        "pinyin": "9"
+      },
+      {
+        "token": "%",
+        "startTime": 184330,
+        "endTime": 184360,
+        "pinyin": "%"
+      },
+      {
+        "token": "所",
+        "startTime": 184360,
+        "endTime": 184840,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "以",
+        "startTime": 184840,
+        "endTime": 185320,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "能",
+        "startTime": 185320,
+        "endTime": 185470,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 185470,
+        "endTime": 185620,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "漂",
+        "startTime": 185620,
+        "endTime": 185830,
+        "pinyin": "piāo"
+      },
+      {
+        "token": "浮",
+        "startTime": 185830,
+        "endTime": 186040,
+        "pinyin": "fú"
+      },
+      {
+        "token": "在",
+        "startTime": 186040,
+        "endTime": 186200,
+        "pinyin": "zài"
+      },
+      {
+        "token": "水",
+        "startTime": 186200,
+        "endTime": 187200,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "上",
+        "startTime": 187200,
+        "endTime": 188200,
+        "pinyin": "shàng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 就是 为什么 湖水 结冰 时 是从 水面 开始 往 下 结冰",
+    "translations": {
+      "en": "That's why when a lake freezes, it starts from the top down."
+    },
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 188200,
+        "endTime": 188400,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "就",
+        "startTime": 188400,
+        "endTime": 188470,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "是",
+        "startTime": 188470,
+        "endTime": 188540,
+        "pinyin": "shì"
+      },
+      {
+        "token": "为",
+        "startTime": 188540,
+        "endTime": 188633,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "什",
+        "startTime": 188633,
+        "endTime": 188727,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 188727,
+        "endTime": 188820,
+        "pinyin": "me"
+      },
+      {
+        "token": "湖",
+        "startTime": 188820,
+        "endTime": 189010,
+        "pinyin": "hú"
+      },
+      {
+        "token": "水",
+        "startTime": 189010,
+        "endTime": 189200,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "结",
+        "startTime": 189200,
+        "endTime": 189300,
+        "pinyin": "jié"
+      },
+      {
+        "token": "冰",
+        "startTime": 189300,
+        "endTime": 189400,
+        "pinyin": "bīng"
+      },
+      {
+        "token": "时",
+        "startTime": 189400,
+        "endTime": 189400,
+        "pinyin": "shí"
+      },
+      {
+        "token": "是",
+        "startTime": 189400,
+        "endTime": 189690,
+        "pinyin": "shì"
+      },
+      {
+        "token": "从",
+        "startTime": 189690,
+        "endTime": 189980,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "水",
+        "startTime": 189980,
+        "endTime": 190180,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "面",
+        "startTime": 190180,
+        "endTime": 190380,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "开",
+        "startTime": 190380,
+        "endTime": 190500,
+        "pinyin": "kāi"
+      },
+      {
+        "token": "始",
+        "startTime": 190500,
+        "endTime": 190620,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "往",
+        "startTime": 190620,
+        "endTime": 190780,
+        "pinyin": "wǎng"
+      },
+      {
+        "token": "下",
+        "startTime": 190780,
+        "endTime": 191000,
+        "pinyin": "xià"
+      },
+      {
+        "token": "结",
+        "startTime": 191000,
+        "endTime": 191310,
+        "pinyin": "jié"
+      },
+      {
+        "token": "冰",
+        "startTime": 191310,
+        "endTime": 191620,
+        "pinyin": "bīng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "也 正因如此 水生 生物 才 能够 度过 每个 寒冷 的 冬天",
+    "translations": {
+      "en": "And that's how aquatic life survives each cold winter."
+    },
+    "segments": [
+      {
+        "token": "也",
+        "startTime": 191620,
+        "endTime": 191780,
+        "pinyin": "yě"
+      },
+      {
+        "token": "正",
+        "startTime": 191780,
+        "endTime": 191795,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "因",
+        "startTime": 191795,
+        "endTime": 191810,
+        "pinyin": "yīn"
+      },
+      {
+        "token": "如",
+        "startTime": 191810,
+        "endTime": 191825,
+        "pinyin": "rú"
+      },
+      {
+        "token": "此",
+        "startTime": 191825,
+        "endTime": 191840,
+        "pinyin": "cǐ"
+      },
+      {
+        "token": "水",
+        "startTime": 191840,
+        "endTime": 192300,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "生",
+        "startTime": 192300,
+        "endTime": 192760,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "生",
+        "startTime": 192760,
+        "endTime": 192910,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "物",
+        "startTime": 192910,
+        "endTime": 193060,
+        "pinyin": "wù"
+      },
+      {
+        "token": "才",
+        "startTime": 193060,
+        "endTime": 193220,
+        "pinyin": "cái"
+      },
+      {
+        "token": "能",
+        "startTime": 193220,
+        "endTime": 193320,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 193320,
+        "endTime": 193420,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "度",
+        "startTime": 193420,
+        "endTime": 193550,
+        "pinyin": "dù"
+      },
+      {
+        "token": "过",
+        "startTime": 193550,
+        "endTime": 193680,
+        "pinyin": "guò"
+      },
+      {
+        "token": "每",
+        "startTime": 193680,
+        "endTime": 193810,
+        "pinyin": "měi"
+      },
+      {
+        "token": "个",
+        "startTime": 193810,
+        "endTime": 193940,
+        "pinyin": "gè"
+      },
+      {
+        "token": "寒",
+        "startTime": 193940,
+        "endTime": 194090,
+        "pinyin": "hán"
+      },
+      {
+        "token": "冷",
+        "startTime": 194090,
+        "endTime": 194240,
+        "pinyin": "lěng"
+      },
+      {
+        "token": "的",
+        "startTime": 194240,
+        "endTime": 194380,
+        "pinyin": "de"
+      },
+      {
+        "token": "冬",
+        "startTime": 194380,
+        "endTime": 194930,
+        "pinyin": "dōng"
+      },
+      {
+        "token": "天",
+        "startTime": 194930,
+        "endTime": 195480,
+        "pinyin": "tiān"
+      }
+    ]
+  },
+  {
+    "sentence_text": "水分子 的 极性 和 极性 带来 的 清贱 造就 了 水 独特 的 性质",
+    "translations": {
+      "en": "The polarity of water molecules and the resulting properties give water its unique characteristics."
+    },
+    "segments": [
+      {
+        "token": "水",
+        "startTime": 195480,
+        "endTime": 195647,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 195647,
+        "endTime": 195813,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 195813,
+        "endTime": 195980,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 195980,
+        "endTime": 196160,
+        "pinyin": "de"
+      },
+      {
+        "token": "极",
+        "startTime": 196160,
+        "endTime": 196310,
+        "pinyin": "jí"
+      },
+      {
+        "token": "性",
+        "startTime": 196310,
+        "endTime": 196460,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "和",
+        "startTime": 196460,
+        "endTime": 196780,
+        "pinyin": "hé"
+      },
+      {
+        "token": "极",
+        "startTime": 196780,
+        "endTime": 196950,
+        "pinyin": "jí"
+      },
+      {
+        "token": "性",
+        "startTime": 196950,
+        "endTime": 197120,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "带",
+        "startTime": 197120,
+        "endTime": 197300,
+        "pinyin": "dài"
+      },
+      {
+        "token": "来",
+        "startTime": 197300,
+        "endTime": 197480,
+        "pinyin": "lái"
+      },
+      {
+        "token": "的",
+        "startTime": 197480,
+        "endTime": 197600,
+        "pinyin": "de"
+      },
+      {
+        "token": "清",
+        "startTime": 197600,
+        "endTime": 198010,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "贱",
+        "startTime": 198010,
+        "endTime": 198420,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "造",
+        "startTime": 198420,
+        "endTime": 198580,
+        "pinyin": "zào"
+      },
+      {
+        "token": "就",
+        "startTime": 198580,
+        "endTime": 198740,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "了",
+        "startTime": 198740,
+        "endTime": 198880,
+        "pinyin": "le"
+      },
+      {
+        "token": "水",
+        "startTime": 198880,
+        "endTime": 199100,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "独",
+        "startTime": 199100,
+        "endTime": 199320,
+        "pinyin": "dú"
+      },
+      {
+        "token": "特",
+        "startTime": 199320,
+        "endTime": 199540,
+        "pinyin": "tè"
+      },
+      {
+        "token": "的",
+        "startTime": 199540,
+        "endTime": 199740,
+        "pinyin": "de"
+      },
+      {
+        "token": "性",
+        "startTime": 199740,
+        "endTime": 201390,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "质",
+        "startTime": 201390,
+        "endTime": 203040,
+        "pinyin": "zhì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "从 你 体内 的 细胞 到 地球 上 的 海洋 水 都 发挥 着 独特 的 作用",
+    "translations": {
+      "en": "From the cells in your body to the oceans on Earth, water plays a unique role."
+    },
+    "segments": [
+      {
+        "token": "从",
+        "startTime": 203040,
+        "endTime": 203260,
+        "pinyin": "cóng"
+      },
+      {
+        "token": "你",
+        "startTime": 203260,
+        "endTime": 203380,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "体",
+        "startTime": 203380,
+        "endTime": 203540,
+        "pinyin": "tǐ"
+      },
+      {
+        "token": "内",
+        "startTime": 203540,
+        "endTime": 203700,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "的",
+        "startTime": 203700,
+        "endTime": 203820,
+        "pinyin": "de"
+      },
+      {
+        "token": "细",
+        "startTime": 203820,
+        "endTime": 203960,
+        "pinyin": "xì"
+      },
+      {
+        "token": "胞",
+        "startTime": 203960,
+        "endTime": 204100,
+        "pinyin": "bāo"
+      },
+      {
+        "token": "到",
+        "startTime": 204100,
+        "endTime": 204400,
+        "pinyin": "dào"
+      },
+      {
+        "token": "地",
+        "startTime": 204400,
+        "endTime": 204570,
+        "pinyin": "dì"
+      },
+      {
+        "token": "球",
+        "startTime": 204570,
+        "endTime": 204740,
+        "pinyin": "qiú"
+      },
+      {
+        "token": "上",
+        "startTime": 204740,
+        "endTime": 204900,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "的",
+        "startTime": 204900,
+        "endTime": 205020,
+        "pinyin": "de"
+      },
+      {
+        "token": "海",
+        "startTime": 205020,
+        "endTime": 205420,
+        "pinyin": "hǎi"
+      },
+      {
+        "token": "洋",
+        "startTime": 205420,
+        "endTime": 205820,
+        "pinyin": "yáng"
+      },
+      {
+        "token": "水",
+        "startTime": 205820,
+        "endTime": 206020,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "都",
+        "startTime": 206020,
+        "endTime": 206220,
+        "pinyin": "dōu"
+      },
+      {
+        "token": "发",
+        "startTime": 206220,
+        "endTime": 206390,
+        "pinyin": "fā"
+      },
+      {
+        "token": "挥",
+        "startTime": 206390,
+        "endTime": 206560,
+        "pinyin": "huī"
+      },
+      {
+        "token": "着",
+        "startTime": 206560,
+        "endTime": 206700,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "独",
+        "startTime": 206700,
+        "endTime": 206860,
+        "pinyin": "dú"
+      },
+      {
+        "token": "特",
+        "startTime": 206860,
+        "endTime": 207020,
+        "pinyin": "tè"
+      },
+      {
+        "token": "的",
+        "startTime": 207020,
+        "endTime": 207160,
+        "pinyin": "de"
+      },
+      {
+        "token": "作",
+        "startTime": 207160,
+        "endTime": 207460,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "用",
+        "startTime": 207460,
+        "endTime": 207760,
+        "pinyin": "yòng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而 正是 水分子 的 极性 使得 水 与众不同",
+    "translations": {
+      "en": "It is the polarity of water molecules that makes water so special."
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 207760,
+        "endTime": 207920,
+        "pinyin": "ér"
+      },
+      {
+        "token": "正",
+        "startTime": 207920,
+        "endTime": 208030,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "是",
+        "startTime": 208030,
+        "endTime": 208140,
+        "pinyin": "shì"
+      },
+      {
+        "token": "水",
+        "startTime": 208140,
+        "endTime": 208307,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "分",
+        "startTime": 208307,
+        "endTime": 208473,
+        "pinyin": "fèn"
+      },
+      {
+        "token": "子",
+        "startTime": 208473,
+        "endTime": 208640,
+        "pinyin": "zi"
+      },
+      {
+        "token": "的",
+        "startTime": 208640,
+        "endTime": 208780,
+        "pinyin": "de"
+      },
+      {
+        "token": "极",
+        "startTime": 208780,
+        "endTime": 209120,
+        "pinyin": "jí"
+      },
+      {
+        "token": "性",
+        "startTime": 209120,
+        "endTime": 209460,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "使",
+        "startTime": 209460,
+        "endTime": 209610,
+        "pinyin": "shǐ"
+      },
+      {
+        "token": "得",
+        "startTime": 209610,
+        "endTime": 209760,
+        "pinyin": "de"
+      },
+      {
+        "token": "水",
+        "startTime": 209760,
+        "endTime": 210080,
+        "pinyin": "shuǐ"
+      },
+      {
+        "token": "与",
+        "startTime": 210080,
+        "endTime": 213760,
+        "pinyin": "yǔ"
+      },
+      {
+        "token": "众",
+        "startTime": 213760,
+        "endTime": 217440,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "不",
+        "startTime": 217440,
+        "endTime": 221120,
+        "pinyin": "bù"
+      },
+      {
+        "token": "同",
+        "startTime": 221120,
+        "endTime": 224800,
+        "pinyin": "tóng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "更 多 内容 , 敬请 继续 关注 永保 探索 热情",
+    "translations": {
+      "en": "For more, stay tuned and keep exploring with passion."
+    },
+    "segments": [
+      {
+        "token": "更",
+        "startTime": 224800,
+        "endTime": 224820,
+        "pinyin": "gèng"
+      },
+      {
+        "token": "多",
+        "startTime": 224820,
+        "endTime": 225060,
+        "pinyin": "duō"
+      },
+      {
+        "token": "内",
+        "startTime": 225060,
+        "endTime": 225400,
+        "pinyin": "nèi"
+      },
+      {
+        "token": "容",
+        "startTime": 225400,
+        "endTime": 225740,
+        "pinyin": "róng"
+      },
+      {
+        "token": ",",
+        "startTime": 225740,
+        "endTime": 225860,
+        "pinyin": ","
+      },
+      {
+        "token": "敬",
+        "startTime": 225860,
+        "endTime": 226050,
+        "pinyin": "jìng"
+      },
+      {
+        "token": "请",
+        "startTime": 226050,
+        "endTime": 226240,
+        "pinyin": "qǐng"
+      },
+      {
+        "token": "继",
+        "startTime": 226240,
+        "endTime": 226370,
+        "pinyin": "jì"
+      },
+      {
+        "token": "续",
+        "startTime": 226370,
+        "endTime": 226500,
+        "pinyin": "xù"
+      },
+      {
+        "token": "关",
+        "startTime": 226500,
+        "endTime": 226860,
+        "pinyin": "guān"
+      },
+      {
+        "token": "注",
+        "startTime": 226860,
+        "endTime": 227220,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "永",
+        "startTime": 227220,
+        "endTime": 227580,
+        "pinyin": "yǒng"
+      },
+      {
+        "token": "保",
+        "startTime": 227580,
+        "endTime": 227940,
+        "pinyin": "bǎo"
+      },
+      {
+        "token": "探",
+        "startTime": 227940,
+        "endTime": 228150,
+        "pinyin": "tàn"
+      },
+      {
+        "token": "索",
+        "startTime": 228150,
+        "endTime": 228360,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "热",
+        "startTime": 228360,
+        "endTime": 228460,
+        "pinyin": "rè"
+      },
+      {
+        "token": "情",
+        "startTime": 228460,
+        "endTime": 228560,
+        "pinyin": "qíng"
+      }
+    ]
+  }
+]
