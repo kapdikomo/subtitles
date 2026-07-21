@@ -2,7 +2,7 @@
   {
     "sentence_text": "像 我 身后 的 这些 房子 即便 一 美元 也 没有 人要",
     "translations": {
-      "en": "Even houses like these behind me can't be sold for a single dollar."
+      "en": "Even houses like these behind me can't sell for a dollar."
     },
     "segments": [
       {
@@ -202,7 +202,7 @@
       {
         "token": "市",
         "startTime": 9500,
-        "endTime": 9712,
+        "endTime": 10100,
         "pinyin": "shì"
       }
     ]
@@ -210,7 +210,7 @@
   {
     "sentence_text": "而 在 底特律 市像 这样 的 房子 还有 整整 五万",
     "translations": {
-      "en": "And in Detroit, there are still fifty thousand houses like this."
+      "en": "And in Detroit, there are still 50,000 houses like this."
     },
     "segments": [
       {
@@ -312,13 +312,13 @@
       {
         "token": "五",
         "startTime": 12980,
-        "endTime": 13110,
+        "endTime": 13320,
         "pinyin": "wǔ"
       },
       {
         "token": "万",
-        "startTime": 13110,
-        "endTime": 13240,
+        "startTime": 13320,
+        "endTime": 13660,
         "pinyin": "wàn"
       }
     ]
@@ -434,17 +434,9 @@
       {
         "token": "的",
         "startTime": 17240,
-        "endTime": 17340,
+        "endTime": 17400,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "19 50 年 这里 的 人均收入 一度 超过 纽约 成为 全美 第一",
-    "translations": {
-      "en": "In 1950, its per capita income surpassed New York's to become number one in the nation."
-    },
-    "segments": [
+      },
       {
         "token": "城",
         "startTime": 17400,
@@ -456,7 +448,15 @@
         "startTime": 17400,
         "endTime": 17400,
         "pinyin": "shì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "19 50 年 这里 的 人均收入 一度 超过 纽约 成为 全美 第一",
+    "translations": {
+      "en": "In 1950, its per capita income surpassed New York's to become number one in the US."
+    },
+    "segments": [
       {
         "token": "1",
         "startTime": 17400,
@@ -856,13 +856,13 @@
       {
         "token": "第",
         "startTime": 33280,
-        "endTime": 33542,
+        "endTime": 33610,
         "pinyin": "dì"
       },
       {
         "token": "二",
-        "startTime": 33542,
-        "endTime": 33805,
+        "startTime": 33610,
+        "endTime": 33940,
         "pinyin": "èr"
       }
     ]
@@ -968,12 +968,6 @@
         "startTime": 36380,
         "endTime": 36380,
         "pinyin": "lù"
-      },
-      {
-        "token": "被",
-        "startTime": 36380,
-        "endTime": 36673,
-        "pinyin": "bèi"
       }
     ]
   },
@@ -983,6 +977,12 @@
       "en": "has been blocked off by police."
     },
     "segments": [
+      {
+        "token": "被",
+        "startTime": 36380,
+        "endTime": 36880,
+        "pinyin": "bèi"
+      },
       {
         "token": "警",
         "startTime": 36880,
@@ -1324,15 +1324,7 @@
         "startTime": 48080,
         "endTime": 48140,
         "pinyin": "qī"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我们 就要 查看 比特 律 这些 逆 美元 的 房子",
-    "translations": {
-      "en": "we're going to check out these dollar houses in Detroit."
-    },
-    "segments": [
+      },
       {
         "token": "视",
         "startTime": 48140,
@@ -1344,7 +1336,15 @@
         "startTime": 48140,
         "endTime": 48140,
         "pinyin": "pín"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 就要 查看 比特 律 这些 逆 美元 的 房子",
+    "translations": {
+      "en": "we're going to check out these dollar houses in Detroit."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 48140,
@@ -1452,7 +1452,7 @@
   {
     "sentence_text": "说起 就 这样 其实 之前 一直 反复 的 说",
     "translations": {
-      "en": "Speaking of which, I've been saying this repeatedly:"
+      "en": "Speaking of which, I've said it repeatedly before:"
     },
     "segments": [
       {
@@ -1624,15 +1624,7 @@
         "startTime": 61500,
         "endTime": 61600,
         "pinyin": "ge"
-      }
-    ]
-  },
-  {
-    "sentence_text": "一定 要 给 这个 系列 多多 的 点赞",
-    "translations": {
-      "en": "please give this series lots of likes."
-    },
-    "segments": [
+      },
       {
         "token": "系",
         "startTime": 61600,
@@ -1644,7 +1636,15 @@
         "startTime": 61600,
         "endTime": 61600,
         "pinyin": "liè"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "一定 要 给 这个 系列 多多 的 点赞",
+    "translations": {
+      "en": "be sure to give it lots of likes."
+    },
+    "segments": [
       {
         "token": "一",
         "startTime": 61600,
@@ -1728,7 +1728,7 @@
   {
     "sentence_text": "只有 多点 赞 我 才 知道 你们 是 真的 喜欢 这个 系列",
     "translations": {
-      "en": "Only with many likes will I know you truly enjoy it,"
+      "en": "Only with many likes will I know you truly enjoy this series,"
     },
     "segments": [
       {
@@ -1838,15 +1838,7 @@
         "startTime": 66470,
         "endTime": 66580,
         "pinyin": "ge"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我 才 有 动力 的 花 这么 多 时间 这么 多 精力",
-    "translations": {
-      "en": "and I'll have the motivation to spend so much time and effort"
-    },
-    "segments": [
+      },
       {
         "token": "系",
         "startTime": 66580,
@@ -1858,7 +1850,15 @@
         "startTime": 66580,
         "endTime": 66580,
         "pinyin": "liè"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 才 有 动力 的 花 这么 多 时间 这么 多 精力",
+    "translations": {
+      "en": "so I'll have the motivation to spend so much time and energy"
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 66580,
@@ -1948,15 +1948,7 @@
         "startTime": 68740,
         "endTime": 68940,
         "pinyin": "duō"
-      }
-    ]
-  },
-  {
-    "sentence_text": "把 这个 系列 坚持下去",
-    "translations": {
-      "en": "to keep this series going."
-    },
-    "segments": [
+      },
       {
         "token": "精",
         "startTime": 68940,
@@ -1968,7 +1960,15 @@
         "startTime": 68940,
         "endTime": 68940,
         "pinyin": "lì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "把 这个 系列 坚持下去",
+    "translations": {
+      "en": "to keep this series going."
+    },
+    "segments": [
       {
         "token": "把",
         "startTime": 68940,
@@ -2028,7 +2028,7 @@
   {
     "sentence_text": "你 看 一个 城市 还 蛮 安全 的",
     "translations": {
-      "en": "You can tell a city is pretty safe"
+      "en": "You can tell a city is quite safe"
     },
     "segments": [
       {
@@ -2102,7 +2102,7 @@
   {
     "sentence_text": "就 看 这个 城市 的 快餐店 防弹 波",
     "translations": {
-      "en": "by looking at the bulletproof glass in its fast-food restaurants"
+      "en": "by looking at whether its fast-food restaurants have bulletproof glass"
     },
     "segments": [
       {
@@ -2188,7 +2188,7 @@
   {
     "sentence_text": "又 一个 关节 这么 好 看到 吗",
     "translations": {
-      "en": "Another joint that looks this good, see?"
+      "en": "Another joint looks this good, can you see it?"
     },
     "segments": [
       {
@@ -2260,9 +2260,9 @@
     ]
   },
   {
-    "sentence_text": "而且 - 1 - 2",
+    "sentence_text": "而且 - 1 - 2 - 8 - s ure 电源",
     "translations": {
-      "en": "And - 1 - 2"
+      "en": "And - 1 - 2 - 8 - sure power"
     },
     "segments": [
       {
@@ -2300,46 +2300,49 @@
         "startTime": 85760,
         "endTime": 85780,
         "pinyin": "2"
-      }
-    ]
-  },
-  {
-    "sentence_text": "- 8 - s ure",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "-",
         "startTime": 85780,
-        "endTime": 85940
+        "endTime": 85940,
+        "pinyin": "-"
       },
       {
         "token": "8",
         "startTime": 85940,
-        "endTime": 86420
+        "endTime": 86420,
+        "pinyin": "8"
       },
       {
         "token": "-",
         "startTime": 86420,
-        "endTime": 86600
+        "endTime": 86600,
+        "pinyin": "-"
       },
       {
         "token": "s",
         "startTime": 86600,
-        "endTime": 86620
+        "endTime": 86620,
+        "pinyin": "s"
       },
       {
-        "token": "ure",
+        "token": "u",
         "startTime": 86620,
-        "endTime": 86640
-      }
-    ]
-  },
-  {
-    "sentence_text": "电源 把 他们 的 餐 在 那 准备 好 了 之后 放到 这儿",
-    "translations": {
-      "en": "After the power source prepares their meal there, it's placed here."
-    },
-    "segments": [
+        "endTime": 87353,
+        "pinyin": "u"
+      },
+      {
+        "token": "r",
+        "startTime": 87353,
+        "endTime": 88087,
+        "pinyin": "r"
+      },
+      {
+        "token": "e",
+        "startTime": 88087,
+        "endTime": 88820,
+        "pinyin": "e"
+      },
       {
         "token": "电",
         "startTime": 88820,
@@ -2351,7 +2354,15 @@
         "startTime": 89810,
         "endTime": 90800,
         "pinyin": "yuán"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "把 他们 的 餐 在 那 准备 好 了 之后 放到 这儿",
+    "translations": {
+      "en": "After preparing their meals, they place them here"
+    },
+    "segments": [
       {
         "token": "把",
         "startTime": 90800,
@@ -2459,7 +2470,7 @@
   {
     "sentence_text": "然后 它 有 个 旋转 的 就 可以 让 你 转进 了",
     "translations": {
-      "en": "Then it has a rotating mechanism that lets you turn in."
+      "en": "Then there's a rotating one that lets you spin it in"
     },
     "segments": [
       {
@@ -2551,21 +2562,21 @@
         "startTime": 96230,
         "endTime": 96620,
         "pinyin": "jìn"
+      },
+      {
+        "token": "了",
+        "startTime": 96620,
+        "endTime": 96620,
+        "pinyin": "le"
       }
     ]
   },
   {
     "sentence_text": "这样的话 你 就 可以 完全避免 的 和 他们 接触",
     "translations": {
-      "en": "This way, you can completely avoid contact with them."
+      "en": "This way you can completely avoid contact with them"
     },
     "segments": [
-      {
-        "token": "了",
-        "startTime": 96620,
-        "endTime": 96620,
-        "pinyin": "le"
-      },
       {
         "token": "这",
         "startTime": 96620,
@@ -2679,7 +2690,7 @@
   {
     "sentence_text": "所以 回到 我们 今天 D T RE D 的 话题",
     "translations": {
-      "en": "So, back to today's topic of D T RE D."
+      "en": "So back to today's topic of D T RE D"
     },
     "segments": [
       {
@@ -2765,15 +2776,7 @@
         "startTime": 100920,
         "endTime": 101100,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "D T RE D 真的 有 一 美元 的 房子",
-    "translations": {
-      "en": "D T RE D really has one-dollar houses."
-    },
-    "segments": [
+      },
       {
         "token": "话",
         "startTime": 101100,
@@ -2785,7 +2788,15 @@
         "startTime": 101100,
         "endTime": 101100,
         "pinyin": "tí"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "D T RE D 真的 有 一 美元 的 房子",
+    "translations": {
+      "en": "D T RE D really has one-dollar houses"
+    },
+    "segments": [
       {
         "token": "D",
         "startTime": 101100,
@@ -2875,7 +2886,7 @@
   {
     "sentence_text": "APP 是 D T RE D 是 购房 APP",
     "translations": {
-      "en": "APP is D T RE D, a home-buying app."
+      "en": "The app is D T RE D, a home-buying app"
     },
     "segments": [
       {
@@ -2949,15 +2960,7 @@
         "startTime": 105930,
         "endTime": 106260,
         "pinyin": "fáng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "房子 的 上限 设成 了 1000 美金",
-    "translations": {
-      "en": "The house price cap is set at $1,000."
-    },
-    "segments": [
+      },
       {
         "token": "A",
         "startTime": 106260,
@@ -2975,7 +2978,15 @@
         "startTime": 106260,
         "endTime": 106260,
         "pinyin": "P"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "房子 的 上限 设成 了 1000 美金",
+    "translations": {
+      "en": "The house price cap is set at $1,000"
+    },
+    "segments": [
       {
         "token": "房",
         "startTime": 106260,
@@ -3047,15 +3058,7 @@
         "startTime": 108825,
         "endTime": 108900,
         "pinyin": "0"
-      }
-    ]
-  },
-  {
-    "sentence_text": "所有 这些 红 点点 就是 低于 1000 美金",
-    "translations": {
-      "en": "All these red dots are houses under $1,000."
-    },
-    "segments": [
+      },
       {
         "token": "美",
         "startTime": 108900,
@@ -3067,7 +3070,15 @@
         "startTime": 108900,
         "endTime": 108900,
         "pinyin": "jīn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "所有 这些 红 点点 就是 低于 1000 美金",
+    "translations": {
+      "en": "All these red dots are houses under $1,000"
+    },
+    "segments": [
       {
         "token": "所",
         "startTime": 108900,
@@ -3175,7 +3186,7 @@
   {
     "sentence_text": "你 仔细 看 的话 会 发现 其实 还 真的 有 1 美元 的 房子",
     "translations": {
-      "en": "If you look closely, you'll find there really are one-dollar houses."
+      "en": "If you look closely, you'll find there really are one-dollar houses"
     },
     "segments": [
       {
@@ -3295,13 +3306,13 @@
       {
         "token": "房",
         "startTime": 117400,
-        "endTime": 117478,
+        "endTime": 117570,
         "pinyin": "fáng"
       },
       {
         "token": "子",
-        "startTime": 117478,
-        "endTime": 117555,
+        "startTime": 117570,
+        "endTime": 117740,
         "pinyin": "zi"
       }
     ]
@@ -3309,7 +3320,7 @@
   {
     "sentence_text": "150 平 上下 的 限于 19 12 年",
     "translations": {
-      "en": "Around 150 square meters, limited to 1912."
+      "en": "Around 150 square meters, limited to 1912"
     },
     "segments": [
       {
@@ -3381,29 +3392,29 @@
       {
         "token": "1",
         "startTime": 119820,
-        "endTime": 120037,
+        "endTime": 120140,
         "pinyin": "1"
       },
       {
         "token": "2",
-        "startTime": 120037,
-        "endTime": 120254,
+        "startTime": 120140,
+        "endTime": 120460,
         "pinyin": "2"
+      },
+      {
+        "token": "年",
+        "startTime": 120460,
+        "endTime": 120740,
+        "pinyin": "nián"
       }
     ]
   },
   {
     "sentence_text": "它 对外 的 交价 是 1 美金",
     "translations": {
-      "en": "Its listed price is $1."
+      "en": "Its listed price is $1"
     },
     "segments": [
-      {
-        "token": "年",
-        "startTime": 120460,
-        "endTime": 120740,
-        "pinyin": "nián"
-      },
       {
         "token": "它",
         "startTime": 120740,
@@ -3469,7 +3480,7 @@
   {
     "sentence_text": "这 套房 如果 是 放在 你们 城市 的话 大概 要花 多少 钱",
     "translations": {
-      "en": "How much would this house cost in your city?"
+      "en": "How much would this house cost if it were in your city?"
     },
     "segments": [
       {
@@ -3591,6 +3602,12 @@
         "startTime": 125660,
         "endTime": 125760,
         "pinyin": "shǎo"
+      },
+      {
+        "token": "钱",
+        "startTime": 125760,
+        "endTime": 125760,
+        "pinyin": "qián"
       }
     ]
   },
@@ -3600,12 +3617,6 @@
       "en": "What does a one-dollar house even mean?"
     },
     "segments": [
-      {
-        "token": "钱",
-        "startTime": 125760,
-        "endTime": 125760,
-        "pinyin": "qián"
-      },
       {
         "token": "1",
         "startTime": 125760,
@@ -3683,7 +3694,7 @@
   {
     "sentence_text": "我 刚刚 买 的 这个 可乐 鸡 的 套餐 售价 24 美金",
     "translations": {
-      "en": "The Coke chicken combo I just bought costs $24."
+      "en": "The Coke chicken combo I just bought costs $24"
     },
     "segments": [
       {
@@ -3805,7 +3816,7 @@
   {
     "sentence_text": "再 夸张 一点 说 我 手上 这个 鸡腿 售价 2 美金",
     "translations": {
-      "en": "To exaggerate, this chicken leg in my hand costs $2."
+      "en": "To exaggerate, this chicken leg in my hand costs $2"
     },
     "segments": [
       {
@@ -3921,7 +3932,7 @@
   {
     "sentence_text": "那 就 一个 鸡腿 你 在 里头 律师 可以 换 了 两 套房",
     "translations": {
-      "en": "So with one chicken leg, you could trade for two houses there with a lawyer."
+      "en": "So with one chicken leg, you could trade for two houses in there, lawyer"
     },
     "segments": [
       {
@@ -4043,7 +4054,7 @@
   {
     "sentence_text": "两 套房 本来 再 一 喝喝 可乐 这个 卫生间 美 了",
     "translations": {
-      "en": "Two houses, then drink some Coke, and the bathroom is sorted."
+      "en": "With two houses, and a Coke, this bathroom would be perfect."
     },
     "segments": [
       {
@@ -4159,7 +4170,7 @@
   {
     "sentence_text": "第一次 K L Z 第一次 ?",
     "translations": {
-      "en": "First time K L Z first time?"
+      "en": "First K L Z first?"
     },
     "segments": [
       {
@@ -4227,7 +4238,7 @@
   {
     "sentence_text": "不 真的 哪裡 ?",
     "translations": {
-      "en": "No, really where?"
+      "en": "Really, where?"
     },
     "segments": [
       {
@@ -4269,9 +4280,9 @@
     ]
   },
   {
-    "sentence_text": "我 從 中國 中國 只有 三天",
+    "sentence_text": "我 從 中國 中國 只有 三天 三天 三天 ?",
     "translations": {
-      "en": "I'm from China, only three days."
+      "en": "I've only been in China for three days, three days, three days?"
     },
     "segments": [
       {
@@ -4333,15 +4344,7 @@
         "startTime": 152810,
         "endTime": 152840,
         "pinyin": "tiān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "三天 三天 ?",
-    "translations": {
-      "en": "Three days? Three days?"
-    },
-    "segments": [
+      },
       {
         "token": "三",
         "startTime": 152840,
@@ -4377,7 +4380,7 @@
   {
     "sentence_text": "你 一直 在 看 窗外",
     "translations": {
-      "en": "You've been looking out the window the whole time."
+      "en": "You've been looking out the window."
     },
     "segments": [
       {
@@ -4507,7 +4510,7 @@
   {
     "sentence_text": "我們 在 德州 所以 有 很多 警察",
     "translations": {
-      "en": "We're in Texas, so there are a lot of cops."
+      "en": "We're in Texas, so there are a lot of police."
     },
     "segments": [
       {
@@ -4661,7 +4664,7 @@
   {
     "sentence_text": "對 好吃 這個 筍子 原味 真的 很不錯",
     "translations": {
-      "en": "Yeah, delicious. This bamboo shoot's natural flavor is really good."
+      "en": "Yes, delicious. This bamboo shoot in its original flavor is really good."
     },
     "segments": [
       {
@@ -4753,7 +4756,7 @@
   {
     "sentence_text": "有 一种 外 酥 里 嫩 然后 一口 下去 还 爆汁",
     "translations": {
-      "en": "It's crispy on the outside and tender inside, and it bursts with juice in one bite."
+      "en": "It's crispy on the outside and tender on the inside, and it bursts with juice in one bite."
     },
     "segments": [
       {
@@ -4843,13 +4846,13 @@
       {
         "token": "爆",
         "startTime": 176500,
-        "endTime": 176767,
+        "endTime": 176770,
         "pinyin": "bào"
       },
       {
         "token": "汁",
-        "startTime": 176767,
-        "endTime": 177033,
+        "startTime": 176770,
+        "endTime": 177040,
         "pinyin": "zhī"
       }
     ]
@@ -4857,7 +4860,7 @@
   {
     "sentence_text": "如果 仅 从 原味 剂 来说 它 和 中国 的 原味 剂 的 口感 差距 其实 非常 小",
     "translations": {
-      "en": "If you just compare the original flavor, the taste difference from the Chinese version is actually very small."
+      "en": "If you just consider the original flavor seasoning, the taste difference from China's is actually very small."
     },
     "segments": [
       {
@@ -5027,7 +5030,7 @@
   {
     "sentence_text": "据说 这 款 原味 剂 它 的 原始 配方 价值连城",
     "translations": {
-      "en": "They say the original recipe for this flavor is worth a fortune."
+      "en": "It's said that the original recipe for this seasoning is priceless."
     },
     "segments": [
       {
@@ -5137,7 +5140,7 @@
   {
     "sentence_text": "就 一直 锁 在 肯德基 最早 最早 被 发明 的 那个 办公室",
     "translations": {
-      "en": "It's been locked away in the office where KFC was first invented."
+      "en": "It's been locked in the office where KFC was first invented."
     },
     "segments": [
       {
@@ -5251,19 +5254,19 @@
       {
         "token": "办",
         "startTime": 190100,
-        "endTime": 190288,
+        "endTime": 190373,
         "pinyin": "bàn"
       },
       {
         "token": "公",
-        "startTime": 190288,
-        "endTime": 190477,
+        "startTime": 190373,
+        "endTime": 190647,
         "pinyin": "gōng"
       },
       {
         "token": "室",
-        "startTime": 190477,
-        "endTime": 190665,
+        "startTime": 190647,
+        "endTime": 190920,
         "pinyin": "shì"
       }
     ]
@@ -5271,7 +5274,7 @@
   {
     "sentence_text": "他们 家 那个 保险柜 里面",
     "translations": {
-      "en": "In their safe."
+      "en": "Inside their safe."
     },
     "segments": [
       {
@@ -5307,647 +5310,549 @@
       {
         "token": "保",
         "startTime": 204800,
-        "endTime": 205180,
+        "endTime": 204967,
         "pinyin": "bǎo"
       },
       {
         "token": "险",
-        "startTime": 205180,
-        "endTime": 205560,
+        "startTime": 204967,
+        "endTime": 205133,
         "pinyin": "xiǎn"
       },
       {
         "token": "柜",
-        "startTime": 205560,
-        "endTime": 205940,
+        "startTime": 205133,
+        "endTime": 205300,
         "pinyin": "guì"
       },
       {
         "token": "里",
-        "startTime": 205940,
-        "endTime": 207270,
+        "startTime": 205300,
+        "endTime": 205750,
         "pinyin": "lǐ"
       },
       {
         "token": "面",
-        "startTime": 207270,
-        "endTime": 208600,
+        "startTime": 205750,
+        "endTime": 206200,
         "pinyin": "miàn"
       }
     ]
   },
   {
-    "sentence_text": "外面 的 那些 人有 很多 人 我 真的 有 很多 人 都 在 家中",
+    "sentence_text": "外面 的 那些 人 是 有 很多 人有 很多 人 都 在 家中",
     "translations": {
-      "en": "A lot of people outside, I really have a lot of people at home."
+      "en": "Those people outside, many are at home."
     },
     "segments": [
       {
         "token": "外",
-        "startTime": 208600,
-        "endTime": 209090,
+        "startTime": 206200,
+        "endTime": 206300,
         "pinyin": "wài"
       },
       {
         "token": "面",
-        "startTime": 209090,
-        "endTime": 209580,
+        "startTime": 206300,
+        "endTime": 206400,
         "pinyin": "miàn"
       },
       {
         "token": "的",
-        "startTime": 209580,
-        "endTime": 209600,
+        "startTime": 206400,
+        "endTime": 206880,
         "pinyin": "de"
       },
       {
         "token": "那",
-        "startTime": 209600,
-        "endTime": 209660,
+        "startTime": 206880,
+        "endTime": 207770,
         "pinyin": "nà"
       },
       {
         "token": "些",
-        "startTime": 209660,
-        "endTime": 209720,
+        "startTime": 207770,
+        "endTime": 208660,
         "pinyin": "xiē"
       },
       {
         "token": "人",
-        "startTime": 209720,
-        "endTime": 209740,
+        "startTime": 208660,
+        "endTime": 208900,
         "pinyin": "rén"
       },
       {
+        "token": "是",
+        "startTime": 208900,
+        "endTime": 209080,
+        "pinyin": "shì"
+      },
+      {
         "token": "有",
-        "startTime": 209740,
-        "endTime": 209760,
+        "startTime": 209080,
+        "endTime": 209240,
         "pinyin": "yǒu"
       },
       {
         "token": "很",
-        "startTime": 209760,
-        "endTime": 209810,
+        "startTime": 209240,
+        "endTime": 209800,
         "pinyin": "hěn"
       },
       {
         "token": "多",
-        "startTime": 209810,
-        "endTime": 209860,
+        "startTime": 209800,
+        "endTime": 210360,
         "pinyin": "duō"
       },
       {
         "token": "人",
-        "startTime": 209860,
-        "endTime": 209860,
+        "startTime": 210360,
+        "endTime": 210530,
         "pinyin": "rén"
       },
       {
-        "token": "我",
-        "startTime": 209860,
-        "endTime": 210580,
-        "pinyin": "wǒ"
-      },
-      {
-        "token": "真",
-        "startTime": 210580,
-        "endTime": 210710,
-        "pinyin": "zhēn"
-      },
-      {
-        "token": "的",
-        "startTime": 210710,
-        "endTime": 210840,
-        "pinyin": "de"
-      },
-      {
         "token": "有",
-        "startTime": 210840,
+        "startTime": 210530,
+        "endTime": 210700,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "很",
+        "startTime": 210700,
+        "endTime": 210850,
+        "pinyin": "hěn"
+      },
+      {
+        "token": "多",
+        "startTime": 210850,
         "endTime": 211000,
-        "pinyin": "yǒu"
-      },
-      {
-        "token": "很",
-        "startTime": 211000,
-        "endTime": 211190,
-        "pinyin": "hěn"
-      },
-      {
-        "token": "多",
-        "startTime": 211190,
-        "endTime": 211380,
         "pinyin": "duō"
       },
       {
         "token": "人",
-        "startTime": 211380,
-        "endTime": 211520,
+        "startTime": 211000,
+        "endTime": 211000,
         "pinyin": "rén"
       },
       {
         "token": "都",
-        "startTime": 211520,
-        "endTime": 212960,
+        "startTime": 211000,
+        "endTime": 211000,
         "pinyin": "dōu"
       },
       {
         "token": "在",
-        "startTime": 212960,
-        "endTime": 213040,
+        "startTime": 211000,
+        "endTime": 211000,
         "pinyin": "zài"
       },
       {
         "token": "家",
-        "startTime": 213040,
-        "endTime": 213110,
+        "startTime": 211000,
+        "endTime": 212060,
         "pinyin": "jiā"
       },
       {
         "token": "中",
-        "startTime": 213110,
-        "endTime": 213180,
+        "startTime": 212060,
+        "endTime": 213120,
         "pinyin": "zhōng"
       }
     ]
   },
   {
-    "sentence_text": "我 都 在 家中 有些 人 我 真的 有 很多 人 都 在 家中",
+    "sentence_text": "我 都 在 家中 在 家中 我 都 很 難 得到",
     "translations": {
-      "en": "I'm at home. Some people, I really have a lot of people at home."
+      "en": "I'm at home, at home, and it's hard for me to get it."
     },
     "segments": [
       {
         "token": "我",
-        "startTime": 213180,
-        "endTime": 213320,
+        "startTime": 213120,
+        "endTime": 213180,
         "pinyin": "wǒ"
       },
       {
         "token": "都",
-        "startTime": 213320,
-        "endTime": 213360,
+        "startTime": 213180,
+        "endTime": 213220,
         "pinyin": "dōu"
       },
       {
         "token": "在",
-        "startTime": 213360,
-        "endTime": 213560,
+        "startTime": 213220,
+        "endTime": 213420,
         "pinyin": "zài"
       },
       {
         "token": "家",
-        "startTime": 213560,
-        "endTime": 213640,
+        "startTime": 213420,
+        "endTime": 213530,
         "pinyin": "jiā"
       },
       {
         "token": "中",
-        "startTime": 213640,
-        "endTime": 213720,
+        "startTime": 213530,
+        "endTime": 213640,
         "pinyin": "zhōng"
       },
       {
-        "token": "有",
-        "startTime": 213720,
-        "endTime": 213720,
-        "pinyin": "yǒu"
-      },
-      {
-        "token": "些",
-        "startTime": 213720,
-        "endTime": 213720,
-        "pinyin": "xiē"
-      },
-      {
-        "token": "人",
-        "startTime": 213720,
+        "token": "在",
+        "startTime": 213640,
         "endTime": 215060,
-        "pinyin": "rén"
+        "pinyin": "zài"
+      },
+      {
+        "token": "家",
+        "startTime": 215060,
+        "endTime": 215250,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "中",
+        "startTime": 215250,
+        "endTime": 215440,
+        "pinyin": "zhōng"
       },
       {
         "token": "我",
-        "startTime": 215060,
-        "endTime": 215340,
+        "startTime": 215440,
+        "endTime": 215480,
         "pinyin": "wǒ"
       },
       {
-        "token": "真",
-        "startTime": 215340,
-        "endTime": 215850,
-        "pinyin": "zhēn"
-      },
-      {
-        "token": "的",
-        "startTime": 215850,
-        "endTime": 216360,
-        "pinyin": "de"
-      },
-      {
-        "token": "有",
-        "startTime": 216360,
-        "endTime": 216520,
-        "pinyin": "yǒu"
+        "token": "都",
+        "startTime": 215480,
+        "endTime": 215880,
+        "pinyin": "dōu"
       },
       {
         "token": "很",
-        "startTime": 216520,
-        "endTime": 216590,
+        "startTime": 215880,
+        "endTime": 216520,
         "pinyin": "hěn"
       },
       {
-        "token": "多",
-        "startTime": 216590,
-        "endTime": 216660,
-        "pinyin": "duō"
+        "token": "難",
+        "startTime": 216520,
+        "endTime": 216540,
+        "pinyin": "nán"
       },
       {
-        "token": "人",
-        "startTime": 216660,
+        "token": "得",
+        "startTime": 216540,
+        "endTime": 216790,
+        "pinyin": "dé"
+      },
+      {
+        "token": "到",
+        "startTime": 216790,
         "endTime": 217040,
-        "pinyin": "rén"
-      },
+        "pinyin": "dào"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 家中 的 朋友 都 不想 跟 我 一起",
+    "translations": {
+      "en": "My friends at home don't want to be with me."
+    },
+    "segments": [
       {
-        "token": "都",
+        "token": "我",
         "startTime": 217040,
         "endTime": 217200,
-        "pinyin": "dōu"
-      },
-      {
-        "token": "在",
-        "startTime": 217200,
-        "endTime": 217220,
-        "pinyin": "zài"
-      },
-      {
-        "token": "家",
-        "startTime": 217220,
-        "endTime": 217460,
-        "pinyin": "jiā"
-      },
-      {
-        "token": "中",
-        "startTime": 217460,
-        "endTime": 217700,
-        "pinyin": "zhōng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我家 的 朋友 都 不想 跟 我 一起 去",
-    "translations": {
-      "en": "My friends at home don't want to go with me."
-    },
-    "segments": [
-      {
-        "token": "我",
-        "startTime": 217700,
-        "endTime": 217890,
         "pinyin": "wǒ"
       },
       {
         "token": "家",
-        "startTime": 217890,
-        "endTime": 218080,
+        "startTime": 217200,
+        "endTime": 217330,
         "pinyin": "jiā"
       },
       {
+        "token": "中",
+        "startTime": 217330,
+        "endTime": 217460,
+        "pinyin": "zhōng"
+      },
+      {
         "token": "的",
-        "startTime": 218080,
-        "endTime": 218240,
+        "startTime": 217460,
+        "endTime": 217660,
         "pinyin": "de"
       },
       {
         "token": "朋",
-        "startTime": 218240,
-        "endTime": 218520,
+        "startTime": 217660,
+        "endTime": 217870,
         "pinyin": "péng"
       },
       {
         "token": "友",
-        "startTime": 218520,
-        "endTime": 218800,
+        "startTime": 217870,
+        "endTime": 218080,
         "pinyin": "yǒu"
       },
       {
         "token": "都",
-        "startTime": 218800,
-        "endTime": 219320,
+        "startTime": 218080,
+        "endTime": 218220,
         "pinyin": "dōu"
       },
       {
         "token": "不",
-        "startTime": 219320,
-        "endTime": 220150,
+        "startTime": 218220,
+        "endTime": 218510,
         "pinyin": "bù"
       },
       {
         "token": "想",
-        "startTime": 220150,
-        "endTime": 220980,
+        "startTime": 218510,
+        "endTime": 218800,
         "pinyin": "xiǎng"
       },
       {
         "token": "跟",
-        "startTime": 220980,
-        "endTime": 221000,
+        "startTime": 218800,
+        "endTime": 219300,
         "pinyin": "gēn"
       },
       {
         "token": "我",
-        "startTime": 221000,
-        "endTime": 221220,
+        "startTime": 219300,
+        "endTime": 219740,
         "pinyin": "wǒ"
       },
       {
         "token": "一",
-        "startTime": 221220,
-        "endTime": 221550,
+        "startTime": 219740,
+        "endTime": 220360,
         "pinyin": "yì"
       },
       {
         "token": "起",
-        "startTime": 221550,
-        "endTime": 221880,
+        "startTime": 220360,
+        "endTime": 220980,
         "pinyin": "qǐ"
-      },
-      {
-        "token": "去",
-        "startTime": 221880,
-        "endTime": 222360,
-        "pinyin": "qù"
       }
     ]
   },
   {
-    "sentence_text": "我 都 移到 這裡 到 南京 我 都 不 想到 我",
+    "sentence_text": "所以 我移 到 這裡 到 南京",
     "translations": {
-      "en": "I've moved here to Nanjing, I don't want to go to..."
+      "en": "So I moved here to Nanjing."
     },
     "segments": [
       {
+        "token": "所",
+        "startTime": 220980,
+        "endTime": 221120,
+        "pinyin": "suǒ"
+      },
+      {
+        "token": "以",
+        "startTime": 221120,
+        "endTime": 221260,
+        "pinyin": "yǐ"
+      },
+      {
         "token": "我",
-        "startTime": 222360,
-        "endTime": 222360,
+        "startTime": 221260,
+        "endTime": 221580,
         "pinyin": "wǒ"
       },
       {
-        "token": "都",
-        "startTime": 222360,
-        "endTime": 223220,
-        "pinyin": "dōu"
-      },
-      {
         "token": "移",
-        "startTime": 223220,
-        "endTime": 223490,
+        "startTime": 221580,
+        "endTime": 221900,
         "pinyin": "yí"
       },
       {
         "token": "到",
-        "startTime": 223490,
-        "endTime": 223760,
+        "startTime": 221900,
+        "endTime": 222020,
         "pinyin": "dào"
       },
       {
         "token": "這",
-        "startTime": 223760,
-        "endTime": 224120,
+        "startTime": 222020,
+        "endTime": 222620,
         "pinyin": "zhè"
       },
       {
         "token": "裡",
-        "startTime": 224120,
-        "endTime": 224480,
+        "startTime": 222620,
+        "endTime": 223220,
         "pinyin": "lǐ"
       },
       {
         "token": "到",
-        "startTime": 224480,
-        "endTime": 224500,
+        "startTime": 223220,
+        "endTime": 223360,
         "pinyin": "dào"
       },
       {
         "token": "南",
-        "startTime": 224500,
-        "endTime": 224500,
+        "startTime": 223360,
+        "endTime": 223400,
         "pinyin": "nán"
       },
       {
         "token": "京",
-        "startTime": 224500,
-        "endTime": 224500,
+        "startTime": 223400,
+        "endTime": 223440,
         "pinyin": "jīng"
-      },
-      {
-        "token": "我",
-        "startTime": 224500,
-        "endTime": 224500,
-        "pinyin": "wǒ"
-      },
-      {
-        "token": "都",
-        "startTime": 224500,
-        "endTime": 224500,
-        "pinyin": "dōu"
-      },
-      {
-        "token": "不",
-        "startTime": 224500,
-        "endTime": 224520,
-        "pinyin": "bù"
-      },
-      {
-        "token": "想",
-        "startTime": 224520,
-        "endTime": 224540,
-        "pinyin": "xiǎng"
-      },
-      {
-        "token": "到",
-        "startTime": 224540,
-        "endTime": 224560,
-        "pinyin": "dào"
-      },
-      {
-        "token": "我",
-        "startTime": 224560,
-        "endTime": 224580,
-        "pinyin": "wǒ"
       }
     ]
   },
   {
-    "sentence_text": "因為 南京 都 不 想到 我 在 南京 都 不 想到",
+    "sentence_text": "我 真的 不想 做到 因為 在 南京 是 在 南京",
     "translations": {
-      "en": "Because Nanjing doesn't want me, I don't want to go to Nanjing."
+      "en": "I really don't want to do it because in Nanjing, in Nanjing."
     },
     "segments": [
       {
+        "token": "我",
+        "startTime": 223440,
+        "endTime": 224140,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "真",
+        "startTime": 224140,
+        "endTime": 224350,
+        "pinyin": "zhēn"
+      },
+      {
+        "token": "的",
+        "startTime": 224350,
+        "endTime": 224560,
+        "pinyin": "de"
+      },
+      {
+        "token": "不",
+        "startTime": 224560,
+        "endTime": 225190,
+        "pinyin": "bù"
+      },
+      {
+        "token": "想",
+        "startTime": 225190,
+        "endTime": 225820,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "做",
+        "startTime": 225820,
+        "endTime": 225940,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "到",
+        "startTime": 225940,
+        "endTime": 226060,
+        "pinyin": "dào"
+      },
+      {
         "token": "因",
-        "startTime": 224580,
-        "endTime": 225410,
+        "startTime": 226060,
+        "endTime": 226820,
         "pinyin": "yīn"
       },
       {
         "token": "為",
-        "startTime": 225410,
-        "endTime": 226240,
+        "startTime": 226820,
+        "endTime": 227580,
         "pinyin": "wèi"
       },
       {
-        "token": "南",
-        "startTime": 226240,
-        "endTime": 226950,
-        "pinyin": "nán"
-      },
-      {
-        "token": "京",
-        "startTime": 226950,
-        "endTime": 227660,
-        "pinyin": "jīng"
-      },
-      {
-        "token": "都",
-        "startTime": 227660,
-        "endTime": 227680,
-        "pinyin": "dōu"
-      },
-      {
-        "token": "不",
-        "startTime": 227680,
-        "endTime": 227700,
-        "pinyin": "bù"
-      },
-      {
-        "token": "想",
-        "startTime": 227700,
-        "endTime": 227700,
-        "pinyin": "xiǎng"
-      },
-      {
-        "token": "到",
-        "startTime": 227700,
-        "endTime": 227700,
-        "pinyin": "dào"
-      },
-      {
-        "token": "我",
-        "startTime": 227700,
-        "endTime": 228500,
-        "pinyin": "wǒ"
-      },
-      {
         "token": "在",
-        "startTime": 228500,
-        "endTime": 229380,
+        "startTime": 227580,
+        "endTime": 227580,
         "pinyin": "zài"
       },
       {
         "token": "南",
-        "startTime": 229380,
-        "endTime": 229420,
+        "startTime": 227580,
+        "endTime": 227640,
         "pinyin": "nán"
       },
       {
         "token": "京",
-        "startTime": 229420,
-        "endTime": 229460,
+        "startTime": 227640,
+        "endTime": 227700,
         "pinyin": "jīng"
       },
       {
-        "token": "都",
-        "startTime": 229460,
-        "endTime": 229940,
-        "pinyin": "dōu"
+        "token": "是",
+        "startTime": 227700,
+        "endTime": 229080,
+        "pinyin": "shì"
       },
       {
-        "token": "不",
-        "startTime": 229940,
-        "endTime": 230160,
-        "pinyin": "bù"
+        "token": "在",
+        "startTime": 229080,
+        "endTime": 229420,
+        "pinyin": "zài"
       },
-      {
-        "token": "想",
-        "startTime": 230160,
-        "endTime": 230380,
-        "pinyin": "xiǎng"
-      },
-      {
-        "token": "到",
-        "startTime": 230380,
-        "endTime": 230600,
-        "pinyin": "dào"
-      }
-    ]
-  },
-  {
-    "sentence_text": "南京 都 不 想到 我 以前",
-    "translations": {
-      "en": "Nanjing doesn't want me like before."
-    },
-    "segments": [
       {
         "token": "南",
-        "startTime": 230600,
-        "endTime": 230800,
+        "startTime": 229420,
+        "endTime": 230210,
         "pinyin": "nán"
       },
       {
         "token": "京",
-        "startTime": 230800,
+        "startTime": 230210,
         "endTime": 231000,
         "pinyin": "jīng"
-      },
-      {
-        "token": "都",
-        "startTime": 231000,
-        "endTime": 231900,
-        "pinyin": "dōu"
-      },
-      {
-        "token": "不",
-        "startTime": 231900,
-        "endTime": 232660,
-        "pinyin": "bù"
-      },
-      {
-        "token": "想",
-        "startTime": 232660,
-        "endTime": 232730,
-        "pinyin": "xiǎng"
-      },
-      {
-        "token": "到",
-        "startTime": 232730,
-        "endTime": 232800,
-        "pinyin": "dào"
-      },
-      {
-        "token": "我",
-        "startTime": 232800,
-        "endTime": 232900,
-        "pinyin": "wǒ"
-      },
-      {
-        "token": "以",
-        "startTime": 232900,
-        "endTime": 233420,
-        "pinyin": "yǐ"
-      },
-      {
-        "token": "前",
-        "startTime": 233420,
-        "endTime": 233940,
-        "pinyin": "qián"
       }
     ]
   },
   {
-    "sentence_text": "- 很 好 , 好好 - 很 好 , 大英 - 29 - 29 - 保持 安全 - 你 也好 , 老师 - 谢谢",
+    "sentence_text": "在 南京 在 南京 - 很 好 , 好好 - 很 好 , 大英 - 29 - 29 - 保持 安全 - 你 也好 , 老师 - 谢谢",
     "translations": {
-      "en": "-Good, good. -Good, great. -29. -29. -Stay safe. -You too, teacher. -Thanks."
+      "en": "In Nanjing, in Nanjing - good, good - good, Great Britain - 29 - 29 - stay safe - you too, teacher - thanks."
     },
     "segments": [
+      {
+        "token": "在",
+        "startTime": 231000,
+        "endTime": 231900,
+        "pinyin": "zài"
+      },
+      {
+        "token": "南",
+        "startTime": 231900,
+        "endTime": 232350,
+        "pinyin": "nán"
+      },
+      {
+        "token": "京",
+        "startTime": 232350,
+        "endTime": 232800,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "在",
+        "startTime": 232800,
+        "endTime": 232900,
+        "pinyin": "zài"
+      },
+      {
+        "token": "南",
+        "startTime": 232900,
+        "endTime": 233420,
+        "pinyin": "nán"
+      },
+      {
+        "token": "京",
+        "startTime": 233420,
+        "endTime": 233940,
+        "pinyin": "jīng"
+      },
       {
         "token": "-",
         "startTime": 233940,
@@ -6133,27 +6038,27 @@
         "startTime": 238540,
         "endTime": 238920,
         "pinyin": "-"
+      },
+      {
+        "token": "谢",
+        "startTime": 238920,
+        "endTime": 238920,
+        "pinyin": "xiè"
+      },
+      {
+        "token": "谢",
+        "startTime": 238920,
+        "endTime": 238920,
+        "pinyin": "xiè"
       }
     ]
   },
   {
     "sentence_text": "饭正 吃 了 一半 , 然后 旁边 来 了 一个 客人 ,",
     "translations": {
-      "en": "I was halfway through my meal when a guest came by."
+      "en": "I was halfway through my meal when a guest came by,"
     },
     "segments": [
-      {
-        "token": "谢",
-        "startTime": 238920,
-        "endTime": 238920,
-        "pinyin": "xiè"
-      },
-      {
-        "token": "谢",
-        "startTime": 238920,
-        "endTime": 238920,
-        "pinyin": "xiè"
-      },
       {
         "token": "饭",
         "startTime": 238920,
@@ -6267,7 +6172,7 @@
   {
     "sentence_text": "然后 他 说 他 无家可归 , 所以 我 就 给 了 他 一些 汉堡 ,",
     "translations": {
-      "en": "Then he said he was homeless, so I gave him some burgers."
+      "en": "and he said he was homeless, so I gave him some burgers,"
     },
     "segments": [
       {
@@ -6407,7 +6312,7 @@
   {
     "sentence_text": "然后 给 了 他 几块钱",
     "translations": {
-      "en": "Then gave him a few bucks."
+      "en": "and then a few dollars."
     },
     "segments": [
       {
@@ -6463,7 +6368,7 @@
   {
     "sentence_text": "我 看着 他 脸上 稍微 有点 不好意思",
     "translations": {
-      "en": "I could see he looked a bit embarrassed."
+      "en": "I could see a hint of embarrassment on his face,"
     },
     "segments": [
       {
@@ -6555,7 +6460,7 @@
   {
     "sentence_text": "问 他 我们 能 做 的 就是 给 他 一点点 钱",
     "translations": {
-      "en": "I asked him, all we could do was give him a little money."
+      "en": "and I asked him if all we could do was give him a little money,"
     },
     "segments": [
       {
@@ -6641,21 +6546,21 @@
         "startTime": 256333,
         "endTime": 256400,
         "pinyin": "diǎn"
+      },
+      {
+        "token": "钱",
+        "startTime": 256400,
+        "endTime": 256400,
+        "pinyin": "qián"
       }
     ]
   },
   {
     "sentence_text": "然后 给 他 一点点 小小的 帮助",
     "translations": {
-      "en": "And give him a little help."
+      "en": "and offer a small bit of help."
     },
     "segments": [
-      {
-        "token": "钱",
-        "startTime": 256400,
-        "endTime": 256400,
-        "pinyin": "qián"
-      },
       {
         "token": "然",
         "startTime": 256400,
@@ -6733,7 +6638,7 @@
   {
     "sentence_text": "好 照顾 你 出发 好 谢谢 好 谢谢 好 谢谢 好 谢谢 好",
     "translations": {
-      "en": "Take care of your trip. Thanks, thanks, thanks, thanks, thanks."
+      "en": "Take care of yourself, thank you, thank you, thank you, thank you."
     },
     "segments": [
       {
@@ -6855,7 +6760,7 @@
   {
     "sentence_text": "我们 翻译 一次 完 J ud ian 带 你们 去 看 一下 这 套房",
     "translations": {
-      "en": "We'll translate it once. Let me take you to see this house."
+      "en": "We'll translate once, Judy, and then I'll take you to see this house."
     },
     "segments": [
       {
@@ -6983,15 +6888,7 @@
         "startTime": 273220,
         "endTime": 273460,
         "pinyin": "zhè"
-      }
-    ]
-  },
-  {
-    "sentence_text": "在 底特律 真的 只要 1 美元 的 房",
-    "translations": {
-      "en": "In Detroit, a house for just one dollar."
-    },
-    "segments": [
+      },
       {
         "token": "套",
         "startTime": 273460,
@@ -7003,7 +6900,15 @@
         "startTime": 273460,
         "endTime": 273460,
         "pinyin": "fáng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 底特律 真的 只要 1 美元 的 房",
+    "translations": {
+      "en": "In Detroit, a house for just one dollar."
+    },
+    "segments": [
       {
         "token": "在",
         "startTime": 273460,
@@ -7075,21 +6980,21 @@
         "startTime": 275740,
         "endTime": 275960,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "地址 是 15 14 然后 后面 跟着 这个",
-    "translations": {
-      "en": "The address is 1514, followed by this."
-    },
-    "segments": [
+      },
       {
         "token": "房",
         "startTime": 275960,
         "endTime": 275960,
         "pinyin": "fáng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "地址 是 15 14 然后 后面 跟着 这个 就 在 我 的 眼前",
+    "translations": {
+      "en": "The address is 1514, and it's right in front of me."
+    },
+    "segments": [
       {
         "token": "地",
         "startTime": 275960,
@@ -7167,15 +7072,7 @@
         "startTime": 278310,
         "endTime": 278420,
         "pinyin": "zhe"
-      }
-    ]
-  },
-  {
-    "sentence_text": "就 在 我 的 眼前 如果 你 仔细 看 的话",
-    "translations": {
-      "en": "Right in front of me, if you look closely."
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 278420,
@@ -7186,7 +7083,7 @@
         "token": "个",
         "startTime": 278420,
         "endTime": 278420,
-        "pinyin": "ge"
+        "pinyin": "gè"
       },
       {
         "token": "就",
@@ -7223,7 +7120,15 @@
         "startTime": 280520,
         "endTime": 281640,
         "pinyin": "qián"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 你 仔细 看 的话 这个 前面 的 你 15 14 的 就是 这 套房",
+    "translations": {
+      "en": "If you look closely, the one with 1514 in front is this house."
+    },
+    "segments": [
       {
         "token": "如",
         "startTime": 281640,
@@ -7246,7 +7151,7 @@
         "token": "仔",
         "startTime": 281800,
         "endTime": 281970,
-        "pinyin": "zǐ"
+        "pinyin": "zǎi"
       },
       {
         "token": "细",
@@ -7259,15 +7164,7 @@
         "startTime": 282140,
         "endTime": 282300,
         "pinyin": "kàn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 前面 的 你 15 14 的 就是 这 套房 它 一 整个 也 用 的 是 围栏 用 这种 铁 的 铁栅栏 给 它 围起来 一 美金 买 不 买",
-    "translations": {
-      "en": "The one in front, 1514, is this house. It's all fenced in with iron bars. One dollar, buy it or not?"
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 282300,
@@ -7375,7 +7272,15 @@
         "startTime": 284640,
         "endTime": 284640,
         "pinyin": "fáng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 一 整个 也 用 的 是 围栏 用 这种 铁 的 铁栅栏 给 它 围起来",
+    "translations": {
+      "en": "It's entirely fenced in with iron railings."
+    },
+    "segments": [
       {
         "token": "它",
         "startTime": 284640,
@@ -7513,7 +7418,15 @@
         "startTime": 290353,
         "endTime": 290760,
         "pinyin": "lái"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "一 美金 买 不 买 就 这个 房子 一 美金",
+    "translations": {
+      "en": "Buy it for one dollar? This house for one dollar."
+    },
+    "segments": [
       {
         "token": "一",
         "startTime": 290760,
@@ -7549,15 +7462,7 @@
         "startTime": 292100,
         "endTime": 292580,
         "pinyin": "mǎi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "就 这个 房子 一 美金 吃 一个 炸鸡 一块 炸鸡 能换 俩 这 房子 能换 俩 先 不要 着急 好不好 99 来 给 你们 揭秘 一下 为",
-    "translations": {
-      "en": "This house for one dollar. One piece of fried chicken could get you two of these houses. Don't rush, okay? 99, let me reveal why."
-    },
-    "segments": [
+      },
       {
         "token": "就",
         "startTime": 292580,
@@ -7574,7 +7479,7 @@
         "token": "个",
         "startTime": 292740,
         "endTime": 292740,
-        "pinyin": "gè"
+        "pinyin": "ge"
       },
       {
         "token": "房",
@@ -7605,7 +7510,15 @@
         "startTime": 294340,
         "endTime": 294560,
         "pinyin": "jīn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "吃 一个 炸鸡 一块 炸鸡 能换 俩 这 房子 能换 俩",
+    "translations": {
+      "en": "A piece of fried chicken could buy two of these houses."
+    },
+    "segments": [
       {
         "token": "吃",
         "startTime": 294560,
@@ -7616,7 +7529,7 @@
         "token": "一",
         "startTime": 294720,
         "endTime": 295080,
-        "pinyin": "yī"
+        "pinyin": "yí"
       },
       {
         "token": "个",
@@ -7713,7 +7626,15 @@
         "startTime": 299160,
         "endTime": 299360,
         "pinyin": "liǎ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "先 不要 着急 好不好 99 来 给 你们 揭秘 一下",
+    "translations": {
+      "en": "Don't rush, okay? 99, let me reveal the secret for you."
+    },
+    "segments": [
       {
         "token": "先",
         "startTime": 299360,
@@ -7821,33 +7742,33 @@
         "startTime": 301860,
         "endTime": 301860,
         "pinyin": "xià"
-      },
-      {
-        "token": "为",
-        "startTime": 301860,
-        "endTime": 301931,
-        "pinyin": "wèi"
-      },
-      {
-        "token": "什",
-        "startTime": 301931,
-        "endTime": 302002,
-        "pinyin": "shén"
-      },
-      {
-        "token": "么",
-        "startTime": 302002,
-        "endTime": 302073,
-        "pinyin": "me"
       }
     ]
   },
   {
-    "sentence_text": "什么 在 底特律 有 很多 这种 一块钱 的 房子 但是 挂牌 了 这么久 卖不掉 这 当中 另有 玄机 在 美国 买房 和 国内 不太",
+    "sentence_text": "为什么 在 底特律 有 很多 这种 一块钱 的 房子",
     "translations": {
-      "en": "Why are there so many one-dollar houses in Detroit that haven't sold after being listed so long? There's a catch. Buying a house in the US is different from in China."
+      "en": "Why are there so many one-dollar houses in Detroit?"
     },
     "segments": [
+      {
+        "token": "为",
+        "startTime": 301860,
+        "endTime": 302073,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "什",
+        "startTime": 302073,
+        "endTime": 302287,
+        "pinyin": "shén"
+      },
+      {
+        "token": "么",
+        "startTime": 302287,
+        "endTime": 302500,
+        "pinyin": "me"
+      },
       {
         "token": "在",
         "startTime": 302500,
@@ -7937,7 +7858,15 @@
         "startTime": 304820,
         "endTime": 304820,
         "pinyin": "zi"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "但是 挂牌 了 这么久 卖不掉",
+    "translations": {
+      "en": "But they've been listed for so long and haven't sold."
+    },
+    "segments": [
       {
         "token": "但",
         "startTime": 304820,
@@ -8003,7 +7932,15 @@
         "startTime": 306827,
         "endTime": 306980,
         "pinyin": "diào"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 当中 另有 玄机",
+    "translations": {
+      "en": "There's a hidden twist to it."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 306980,
@@ -8045,7 +7982,15 @@
         "startTime": 309660,
         "endTime": 310220,
         "pinyin": "jī"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 美国 买房 和 国内 不太 一样",
+    "translations": {
+      "en": "Buying a house in the US is different from back home."
+    },
+    "segments": [
       {
         "token": "在",
         "startTime": 310220,
@@ -8105,15 +8050,7 @@
         "startTime": 311350,
         "endTime": 311440,
         "pinyin": "tài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "一样 美国 的 房子 有 房产税 就是 你 买 了 之后 你 每 一年 依然 需要 为 这个 房子 支付 一定 比例 的 房产税 房产税 的",
-    "translations": {
-      "en": "In the US, houses have property tax. After you buy, you still have to pay a certain percentage of the property tax every year. The property tax rate is about 0.2% of the house price. For example, in 2013, Detroit filed for bankruptcy. Passed this house in 2013 and it went bankrupt. It owed 13 years of property tax. That property tax is worth, say, $50,000. After you buy it, you still have to pay the property tax, and the back taxes are also yours to pay. Second, the government will require you to renovate it. Within 6 months of buying, you have to submit a renovation plan. If you can't meet the government's requirements on time or to standard, the house will be taken back. How much do you think it would cost to renovate a house like this? Third, insurance. In the US, home insurance is actually quite expensive. But for these houses, because the neighborhoods are relatively more dangerous, their insurance is often..."
-    },
-    "segments": [
+      },
       {
         "token": "一",
         "startTime": 311440,
@@ -8125,7 +8062,15 @@
         "startTime": 311510,
         "endTime": 311580,
         "pinyin": "yàng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "美国 的 房子 有 房产税",
+    "translations": {
+      "en": "In the US, houses have property taxes."
+    },
+    "segments": [
       {
         "token": "美",
         "startTime": 311580,
@@ -8179,7 +8124,15 @@
         "startTime": 313113,
         "endTime": 313420,
         "pinyin": "shuì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "就是 你 买 了 之后 你 每 一年 依然 需要 为 这个 房子 支付 一定 比例 的 房产税",
+    "translations": {
+      "en": "After you buy it, you still have to pay a certain percentage of property tax on the house every year."
+    },
+    "segments": [
       {
         "token": "就",
         "startTime": 313420,
@@ -8359,7 +8312,15 @@
         "startTime": 317613,
         "endTime": 317740,
         "pinyin": "shuì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "房产税 的 比例 大概 是 房价 的 0 . 2% 左右",
+    "translations": {
+      "en": "The property tax rate is roughly around 0.2% of the home's value."
+    },
+    "segments": [
       {
         "token": "房",
         "startTime": 317740,
@@ -8383,15 +8344,7 @@
         "startTime": 318120,
         "endTime": 318260,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "比例 大概 是 房价 的 0 . 2% 左右 比方说 20",
-    "translations": {
-      "en": "The ratio is about 0.2% of the house price, for example 20."
-    },
-    "segments": [
+      },
       {
         "token": "比",
         "startTime": 318260,
@@ -8475,7 +8428,15 @@
         "startTime": 321230,
         "endTime": 321820,
         "pinyin": "yòu"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "比方说 20 13 年 利特 利斯特 姆 破产",
+    "translations": {
+      "en": "For example, in 2013, Little Stream went bankrupt."
+    },
+    "segments": [
       {
         "token": "比",
         "startTime": 321820,
@@ -8505,15 +8466,7 @@
         "startTime": 322210,
         "endTime": 322300,
         "pinyin": "0"
-      }
-    ]
-  },
-  {
-    "sentence_text": "13 年 利特 利斯特 姆 破产 13 年 时间 路过 这个 房子 就 破产 了 那 他 欠 了 13 年 的 房产税 这个 房产税 就 价值",
-    "translations": {
-      "en": "After 13 years, Littlelistem went bankrupt. Passing by this house, it went bankrupt. So he owed 13 years of property tax, and that property tax was worth"
-    },
-    "segments": [
+      },
       {
         "token": "1",
         "startTime": 322300,
@@ -8579,7 +8532,15 @@
         "startTime": 324000,
         "endTime": 324180,
         "pinyin": "chǎn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "13 年 时间 路过 这个 房子 就 破产 了",
+    "translations": {
+      "en": "In 13 years, the house went bankrupt."
+    },
+    "segments": [
       {
         "token": "1",
         "startTime": 324180,
@@ -8669,7 +8630,15 @@
         "startTime": 325800,
         "endTime": 325880,
         "pinyin": "le"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "那 他 欠 了 13 年 的 房产税",
+    "translations": {
+      "en": "So he owed 13 years of property tax."
+    },
+    "segments": [
       {
         "token": "那",
         "startTime": 325880,
@@ -8735,7 +8704,15 @@
         "startTime": 327560,
         "endTime": 327720,
         "pinyin": "shuì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 房产税 就 价值 打比方 5 万美金",
+    "translations": {
+      "en": "That property tax is worth, say, $50,000."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 327720,
@@ -8746,7 +8723,7 @@
         "token": "个",
         "startTime": 327860,
         "endTime": 328000,
-        "pinyin": "gè"
+        "pinyin": "ge"
       },
       {
         "token": "房",
@@ -8775,23 +8752,15 @@
       {
         "token": "价",
         "startTime": 328620,
-        "endTime": 328798,
+        "endTime": 328890,
         "pinyin": "jià"
       },
       {
         "token": "值",
-        "startTime": 328798,
-        "endTime": 328976,
+        "startTime": 328890,
+        "endTime": 329160,
         "pinyin": "zhí"
-      }
-    ]
-  },
-  {
-    "sentence_text": "打比方 5 万美金 那 你 买来 之后 这个 房产税 依然 要交且 欠价 的 房产税 也 由 你 来 交 第二点 就是 政府 会 要求 你",
-    "translations": {
-      "en": "For example, if you buy it for $50,000, you still have to pay the property tax, and you're also responsible for the overdue property tax. Second, the government will require you to"
-    },
-    "segments": [
+      },
       {
         "token": "打",
         "startTime": 329160,
@@ -8833,7 +8802,15 @@
         "startTime": 329680,
         "endTime": 329680,
         "pinyin": "jīn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "那 你 买来 之后 这个 房产税 依然 要交",
+    "translations": {
+      "en": "After you buy it, you still have to pay that property tax."
+    },
+    "segments": [
       {
         "token": "那",
         "startTime": 329680,
@@ -8923,7 +8900,15 @@
         "startTime": 333500,
         "endTime": 333740,
         "pinyin": "jiāo"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "且 欠价 的 房产税 也 由 你 来 交",
+    "translations": {
+      "en": "And the overdue property tax is also paid by you."
+    },
+    "segments": [
       {
         "token": "且",
         "startTime": 333740,
@@ -8995,7 +8980,15 @@
         "startTime": 336580,
         "endTime": 339480,
         "pinyin": "jiāo"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "第二点 就是 政府 会 要求 你 强制 的 翻新",
+    "translations": {
+      "en": "Second, the government will require you to do mandatory renovations."
+    },
+    "segments": [
       {
         "token": "第",
         "startTime": 339480,
@@ -9065,23 +9058,15 @@
       {
         "token": "强",
         "startTime": 345340,
-        "endTime": 345351,
+        "endTime": 345700,
         "pinyin": "qiáng"
       },
       {
         "token": "制",
-        "startTime": 345351,
-        "endTime": 345362,
+        "startTime": 345700,
+        "endTime": 346060,
         "pinyin": "zhì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "强制 的 翻新 你 买 了 之后 6 月 之内 你 就要 提交 一个 翻新 的 如果 你 不 能够 按时 也 不能 按量 的 达成 政府 的 要求",
-    "translations": {
-      "en": "Mandatory renovation: within 6 months of purchase, you must submit a renovation plan. If you cannot meet the government's requirements on time or in full,"
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 346060,
@@ -9099,7 +9084,15 @@
         "startTime": 346180,
         "endTime": 346180,
         "pinyin": "xīn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 买 了 之后 6 月 之内 你 就要 提交 一个 翻新 的",
+    "translations": {
+      "en": "Within 6 months of buying it, you have to submit a renovation plan."
+    },
+    "segments": [
       {
         "token": "你",
         "startTime": 346180,
@@ -9213,7 +9206,15 @@
         "startTime": 349300,
         "endTime": 349300,
         "pinyin": "de"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 你 不 能够 按时 也 不能 按量 的 达成 政府 的 要求",
+    "translations": {
+      "en": "If you can't meet the government's requirements on time or to standard,"
+    },
+    "segments": [
       {
         "token": "如",
         "startTime": 349300,
@@ -9331,21 +9332,21 @@
       {
         "token": "要",
         "startTime": 352720,
-        "endTime": 352764,
+        "endTime": 353000,
         "pinyin": "yāo"
       },
       {
         "token": "求",
-        "startTime": 352764,
-        "endTime": 352808,
+        "startTime": 353000,
+        "endTime": 353280,
         "pinyin": "qiú"
       }
     ]
   },
   {
-    "sentence_text": "房子 照样 给 你 收回 去 这样 的 房子 如果 要 翻新 的话 你们 猜猜 要花 多少 钱 第三个 就是 保险 在 美国 房屋 保险 其",
+    "sentence_text": "房子 照样 给 你 收回 去",
     "translations": {
-      "en": "They will still take the house back. If you want to renovate a house like this, guess how much it would cost. Thirdly, insurance—in the US, home insurance..."
+      "en": "the house will be taken back from you."
     },
     "segments": [
       {
@@ -9401,7 +9402,15 @@
         "startTime": 354320,
         "endTime": 354420,
         "pinyin": "qù"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这样 的 房子 如果 要 翻新 的话 你们 猜猜 要花 多少 钱",
+    "translations": {
+      "en": "Guess how much it would cost to renovate a house like that?"
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 354420,
@@ -9527,7 +9536,15 @@
         "startTime": 357280,
         "endTime": 357940,
         "pinyin": "qián"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "第三个 就是 保险",
+    "translations": {
+      "en": "Third is insurance."
+    },
+    "segments": [
       {
         "token": "第",
         "startTime": 357940,
@@ -9569,7 +9586,15 @@
         "startTime": 358870,
         "endTime": 359060,
         "pinyin": "xiǎn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 美国 房屋 保险 其实 也 比较 贵",
+    "translations": {
+      "en": "In the US, home insurance is actually quite expensive."
+    },
+    "segments": [
       {
         "token": "在",
         "startTime": 359060,
@@ -9615,23 +9640,15 @@
       {
         "token": "其",
         "startTime": 360960,
-        "endTime": 361045,
+        "endTime": 361130,
         "pinyin": "qí"
       },
       {
         "token": "实",
-        "startTime": 361045,
-        "endTime": 361130,
+        "startTime": 361130,
+        "endTime": 361300,
         "pinyin": "shí"
-      }
-    ]
-  },
-  {
-    "sentence_text": "实 也 比较 贵 但是 像 这些 房子 他们 因为 所在 的 社区 相对来说 就 更加 的 危险 所以 这些 房子 的 保险 往往 是 普通",
-    "translations": {
-      "en": "It's actually quite expensive, but houses like these are in relatively more dangerous neighborhoods, so their insurance is often ordinary."
-    },
-    "segments": [
+      },
       {
         "token": "也",
         "startTime": 361300,
@@ -9655,7 +9672,15 @@
         "startTime": 361900,
         "endTime": 362120,
         "pinyin": "guì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "但是 像 这些 房子 他们 因为 所在 的 社区 相对来说 就 更加 的 危险",
+    "translations": {
+      "en": "But for these houses, because the neighborhoods they're in are relatively more dangerous,"
+    },
+    "segments": [
       {
         "token": "但",
         "startTime": 362120,
@@ -9811,7 +9836,15 @@
         "startTime": 367660,
         "endTime": 367860,
         "pinyin": "xiǎn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "所以 这些 房子 的 保险 往往 是 普通 de b uff 加到 一起 之后",
+    "translations": {
+      "en": "the insurance for these houses is often combined with regular deductibles and buffers,"
+    },
+    "segments": [
       {
         "token": "所",
         "startTime": 367860,
@@ -9895,33 +9928,25 @@
         "startTime": 370660,
         "endTime": 370840,
         "pinyin": "tōng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "de b",
-    "translations": {
-      "en": "de b"
-    },
-    "segments": [
+      },
       {
-        "token": "de",
+        "token": "d",
         "startTime": 370840,
-        "endTime": 371080
+        "endTime": 370960,
+        "pinyin": "d"
+      },
+      {
+        "token": "e",
+        "startTime": 370960,
+        "endTime": 371080,
+        "pinyin": "e"
       },
       {
         "token": "b",
         "startTime": 371080,
-        "endTime": 371240
-      }
-    ]
-  },
-  {
-    "sentence_text": "uff 加到 一起 之后 你 就 为什么 在 底特律 当地 有 如此 多 没有 人要 的 这种 战术 中 的 方式 所以 底特律 这个 城",
-    "translations": {
-      "en": "When you add it all up, why does Detroit have so many unwanted tactical methods? So the city of Detroit"
-    },
-    "segments": [
+        "endTime": 371240,
+        "pinyin": "b"
+      },
       {
         "token": "u",
         "startTime": 371240,
@@ -9975,7 +10000,15 @@
         "startTime": 372250,
         "endTime": 372440,
         "pinyin": "hòu"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 就 为什么 在 底特律 当地 有 如此 多 没有 人要 的 这种 战术 中 的 方式",
+    "translations": {
+      "en": "which is why there are so many unwanted houses in Detroit."
+    },
+    "segments": [
       {
         "token": "你",
         "startTime": 372440,
@@ -10143,7 +10176,15 @@
         "startTime": 377550,
         "endTime": 377900,
         "pinyin": "shì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "所以 底特律 这个 城市 究竟 是 如何 从 当年 全美 收入 第一 的 城市",
+    "translations": {
+      "en": "So how did Detroit go from being the city with the highest income in the US,"
+    },
+    "segments": [
       {
         "token": "所",
         "startTime": 377900,
@@ -10184,28 +10225,20 @@
         "token": "个",
         "startTime": 378810,
         "endTime": 378900,
-        "pinyin": "gè"
+        "pinyin": "ge"
       },
       {
         "token": "城",
         "startTime": 378900,
-        "endTime": 378980,
+        "endTime": 379090,
         "pinyin": "chéng"
       },
       {
         "token": "市",
-        "startTime": 378980,
-        "endTime": 379060,
+        "startTime": 379090,
+        "endTime": 379280,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "市 究竟 是 如何 从 当年 全美 收入 第一 的 城市 一步步 沦落 成 现在 的 一个 模样 想要 搞 明白 这个 问题 呢 今天 我 就",
-    "translations": {
-      "en": "how exactly did it go from being the highest-income city in the U.S. to what it is now? To understand this, today I"
-    },
-    "segments": [
+      },
       {
         "token": "究",
         "startTime": 379280,
@@ -10307,7 +10340,15 @@
         "startTime": 383260,
         "endTime": 383500,
         "pinyin": "shì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "一步步 沦落 成 现在 的 一个 模样",
+    "translations": {
+      "en": "step by step, to what it is now?"
+    },
+    "segments": [
       {
         "token": "一",
         "startTime": 383500,
@@ -10385,7 +10426,15 @@
         "startTime": 385700,
         "endTime": 385920,
         "pinyin": "yàng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "想要 搞 明白 这个 问题 呢",
+    "translations": {
+      "en": "To understand this question"
+    },
+    "segments": [
       {
         "token": "想",
         "startTime": 385920,
@@ -10445,7 +10494,15 @@
         "startTime": 387160,
         "endTime": 387160,
         "pinyin": "ne"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "今天 我 就 必须 带 你们 来到 这个 B ud dy ' s 这家 餐厅",
+    "translations": {
+      "en": "today I have to bring you to this restaurant, Buddy's"
+    },
+    "segments": [
       {
         "token": "今",
         "startTime": 387160,
@@ -10469,15 +10526,7 @@
         "startTime": 388500,
         "endTime": 388660,
         "pinyin": "jiù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "必须 带 你们 来到 这个 B ud dy ' s 这家 餐厅 它 所 开业 的 年代 19 46 年 19",
-    "translations": {
-      "en": "have to take you to this restaurant, Buddy's. It opened in 1946, 19"
-    },
-    "segments": [
+      },
       {
         "token": "必",
         "startTime": 388660,
@@ -10597,7 +10646,15 @@
         "startTime": 391890,
         "endTime": 392040,
         "pinyin": "tīng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 所 开业 的 年代 19 46 年",
+    "translations": {
+      "en": "which opened in 1946"
+    },
+    "segments": [
       {
         "token": "它",
         "startTime": 392040,
@@ -10669,7 +10726,15 @@
         "startTime": 396400,
         "endTime": 399660,
         "pinyin": "nián"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "19 46 年 正好 是 底 特利 最 辉煌 的 年代",
+    "translations": {
+      "en": "1946 was exactly the most glorious era of Detroit"
+    },
+    "segments": [
       {
         "token": "1",
         "startTime": 399660,
@@ -10681,15 +10746,7 @@
         "startTime": 399770,
         "endTime": 399880,
         "pinyin": "9"
-      }
-    ]
-  },
-  {
-    "sentence_text": "46 年 正好 是 底 特利 最 辉煌 的 年代 基本上 这个 餐厅 就 见 任 了 底 特利 一 整个 新 王室 那 为什么 来到 这儿 呢 一",
-    "translations": {
-      "en": "46 was exactly Detroit's most glorious era. Basically, this restaurant witnessed the entire rise and fall of Detroit. Why come here? You'll"
-    },
-    "segments": [
+      },
       {
         "token": "4",
         "startTime": 399880,
@@ -10779,7 +10836,15 @@
         "startTime": 403880,
         "endTime": 404160,
         "pinyin": "dài"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "基本上 这个 餐厅 就 见 任 了 底 特利 一 整个 新 王室",
+    "translations": {
+      "en": "basically, this restaurant has witnessed Detroit's entire golden age"
+    },
+    "segments": [
       {
         "token": "基",
         "startTime": 404160,
@@ -10808,7 +10873,7 @@
         "token": "个",
         "startTime": 404810,
         "endTime": 405040,
-        "pinyin": "gè"
+        "pinyin": "ge"
       },
       {
         "token": "餐",
@@ -10899,7 +10964,15 @@
         "startTime": 408260,
         "endTime": 408740,
         "pinyin": "shì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "那 为什么 来到 这儿 呢",
+    "translations": {
+      "en": "so why come here?"
+    },
+    "segments": [
       {
         "token": "那",
         "startTime": 408740,
@@ -10953,33 +11026,33 @@
         "startTime": 410060,
         "endTime": 410260,
         "pinyin": "ne"
-      },
-      {
-        "token": "一",
-        "startTime": 410260,
-        "endTime": 410293,
-        "pinyin": "yī"
-      },
-      {
-        "token": "会",
-        "startTime": 410293,
-        "endTime": 410327,
-        "pinyin": "huì"
-      },
-      {
-        "token": "儿",
-        "startTime": 410327,
-        "endTime": 410360,
-        "pinyin": "ér"
       }
     ]
   },
   {
-    "sentence_text": "会儿 你们 就 知道 了 走",
+    "sentence_text": "一会儿 你们 就 知道 了",
     "translations": {
-      "en": "know in a moment. Let's go."
+      "en": "you'll find out in a moment"
     },
     "segments": [
+      {
+        "token": "一",
+        "startTime": 410260,
+        "endTime": 410360,
+        "pinyin": "yī"
+      },
+      {
+        "token": "会",
+        "startTime": 410360,
+        "endTime": 410460,
+        "pinyin": "huì"
+      },
+      {
+        "token": "儿",
+        "startTime": 410460,
+        "endTime": 410560,
+        "pinyin": "er"
+      },
       {
         "token": "你",
         "startTime": 410560,
@@ -11015,145 +11088,334 @@
         "startTime": 410980,
         "endTime": 411160,
         "pinyin": "le"
-      },
-      {
-        "token": "走",
-        "startTime": 411160,
-        "endTime": 411300,
-        "pinyin": "zǒu"
       }
     ]
   },
   {
-    "sentence_text": "Hello S light history of it 19 46",
-    "translations": {},
+    "sentence_text": "走 Hello S light history of it 19 46 Wow This is it Yes 80",
+    "translations": {
+      "en": "Let's go. A brief history: 1946. Wow, this is it. Yes, 80"
+    },
     "segments": [
       {
-        "token": "Hello",
+        "token": "走",
+        "startTime": 411160,
+        "endTime": 415280,
+        "pinyin": "zǒu"
+      },
+      {
+        "token": "H",
         "startTime": 415280,
-        "endTime": 415320
+        "endTime": 415288,
+        "pinyin": "H"
+      },
+      {
+        "token": "e",
+        "startTime": 415288,
+        "endTime": 415296,
+        "pinyin": "e"
+      },
+      {
+        "token": "l",
+        "startTime": 415296,
+        "endTime": 415304,
+        "pinyin": "l"
+      },
+      {
+        "token": "l",
+        "startTime": 415304,
+        "endTime": 415312,
+        "pinyin": "l"
+      },
+      {
+        "token": "o",
+        "startTime": 415312,
+        "endTime": 415320,
+        "pinyin": "o"
       },
       {
         "token": "S",
         "startTime": 415320,
-        "endTime": 416720
+        "endTime": 416720,
+        "pinyin": "S"
       },
       {
-        "token": "light",
+        "token": "l",
         "startTime": 416720,
-        "endTime": 416780
+        "endTime": 416732,
+        "pinyin": "l"
       },
       {
-        "token": "history",
+        "token": "i",
+        "startTime": 416732,
+        "endTime": 416744,
+        "pinyin": "i"
+      },
+      {
+        "token": "g",
+        "startTime": 416744,
+        "endTime": 416756,
+        "pinyin": "g"
+      },
+      {
+        "token": "h",
+        "startTime": 416756,
+        "endTime": 416768,
+        "pinyin": "h"
+      },
+      {
+        "token": "t",
+        "startTime": 416768,
+        "endTime": 416780,
+        "pinyin": "t"
+      },
+      {
+        "token": "h",
         "startTime": 416780,
-        "endTime": 417160
+        "endTime": 416834,
+        "pinyin": "h"
       },
       {
-        "token": "of",
+        "token": "i",
+        "startTime": 416834,
+        "endTime": 416889,
+        "pinyin": "i"
+      },
+      {
+        "token": "s",
+        "startTime": 416889,
+        "endTime": 416943,
+        "pinyin": "s"
+      },
+      {
+        "token": "t",
+        "startTime": 416943,
+        "endTime": 416997,
+        "pinyin": "t"
+      },
+      {
+        "token": "o",
+        "startTime": 416997,
+        "endTime": 417051,
+        "pinyin": "o"
+      },
+      {
+        "token": "r",
+        "startTime": 417051,
+        "endTime": 417106,
+        "pinyin": "r"
+      },
+      {
+        "token": "y",
+        "startTime": 417106,
+        "endTime": 417160,
+        "pinyin": "y"
+      },
+      {
+        "token": "o",
         "startTime": 417160,
-        "endTime": 417480
+        "endTime": 417320,
+        "pinyin": "o"
       },
       {
-        "token": "it",
+        "token": "f",
+        "startTime": 417320,
+        "endTime": 417480,
+        "pinyin": "f"
+      },
+      {
+        "token": "i",
         "startTime": 417480,
-        "endTime": 417680
+        "endTime": 417580,
+        "pinyin": "i"
       },
       {
-        "token": "19",
+        "token": "t",
+        "startTime": 417580,
+        "endTime": 417680,
+        "pinyin": "t"
+      },
+      {
+        "token": "1",
         "startTime": 417680,
-        "endTime": 418060
+        "endTime": 417870,
+        "pinyin": "1"
       },
       {
-        "token": "46",
+        "token": "9",
+        "startTime": 417870,
+        "endTime": 418060,
+        "pinyin": "9"
+      },
+      {
+        "token": "4",
         "startTime": 418060,
-        "endTime": 418220
+        "endTime": 418140,
+        "pinyin": "4"
       },
       {
-        "token": "Wow",
-        "startTime": 418220,
-        "endTime": 418480
-      }
-    ]
-  },
-  {
-    "sentence_text": "Wow This is it Yes 80 years",
-    "translations": {},
-    "segments": [
-      {
-        "token": "Wow",
-        "startTime": 418220,
-        "endTime": 419280
+        "token": "6",
+        "startTime": 418140,
+        "endTime": 418220,
+        "pinyin": "6"
       },
       {
-        "token": "This",
+        "token": "W",
+        "startTime": 418220,
+        "endTime": 418573,
+        "pinyin": "W"
+      },
+      {
+        "token": "o",
+        "startTime": 418573,
+        "endTime": 418927,
+        "pinyin": "o"
+      },
+      {
+        "token": "w",
+        "startTime": 418927,
+        "endTime": 419280,
+        "pinyin": "w"
+      },
+      {
+        "token": "T",
         "startTime": 419280,
-        "endTime": 420320
+        "endTime": 419540,
+        "pinyin": "T"
       },
       {
-        "token": "is",
+        "token": "h",
+        "startTime": 419540,
+        "endTime": 419800,
+        "pinyin": "h"
+      },
+      {
+        "token": "i",
+        "startTime": 419800,
+        "endTime": 420060,
+        "pinyin": "i"
+      },
+      {
+        "token": "s",
+        "startTime": 420060,
+        "endTime": 420320,
+        "pinyin": "s"
+      },
+      {
+        "token": "i",
         "startTime": 420320,
-        "endTime": 420660
+        "endTime": 420490,
+        "pinyin": "i"
       },
       {
-        "token": "it",
+        "token": "s",
+        "startTime": 420490,
+        "endTime": 420660,
+        "pinyin": "s"
+      },
+      {
+        "token": "i",
         "startTime": 420660,
-        "endTime": 421240
+        "endTime": 420950,
+        "pinyin": "i"
       },
       {
-        "token": "Yes",
+        "token": "t",
+        "startTime": 420950,
+        "endTime": 421240,
+        "pinyin": "t"
+      },
+      {
+        "token": "Y",
         "startTime": 421240,
-        "endTime": 421440
+        "endTime": 421307,
+        "pinyin": "Y"
       },
       {
-        "token": "80",
+        "token": "e",
+        "startTime": 421307,
+        "endTime": 421373,
+        "pinyin": "e"
+      },
+      {
+        "token": "s",
+        "startTime": 421373,
+        "endTime": 421440,
+        "pinyin": "s"
+      },
+      {
+        "token": "8",
         "startTime": 421440,
-        "endTime": 421720
+        "endTime": 421580,
+        "pinyin": "8"
       },
       {
-        "token": "years",
-        "startTime": 421720,
-        "endTime": 421720
-      },
-      {
-        "token": "Hi",
-        "startTime": 421720,
-        "endTime": 421980
+        "token": "0",
+        "startTime": 421580,
+        "endTime": 421720,
+        "pinyin": "0"
       }
     ]
   },
   {
-    "sentence_text": "Hi",
-    "translations": {},
+    "sentence_text": "Hi Re view for a table for two",
+    "translations": {
+      "en": "Hi, we have a reservation for a table for two."
+    },
     "segments": [
       {
-        "token": "years",
+        "token": "H",
         "startTime": 421720,
-        "endTime": 421720
+        "endTime": 424360
       },
       {
-        "token": "Hi",
-        "startTime": 421720,
-        "endTime": 425700
-      }
-    ]
-  },
-  {
-    "sentence_text": "Re view for a table for two",
-    "translations": {},
-    "segments": [
+        "token": "i",
+        "startTime": 424360,
+        "endTime": 427000
+      },
       {
-        "token": "Re",
+        "token": "R",
         "startTime": 427000,
+        "endTime": 427100
+      },
+      {
+        "token": "e",
+        "startTime": 427100,
         "endTime": 427200
       },
       {
-        "token": "view",
+        "token": "v",
         "startTime": 427200,
+        "endTime": 427215
+      },
+      {
+        "token": "i",
+        "startTime": 427215,
+        "endTime": 427230
+      },
+      {
+        "token": "e",
+        "startTime": 427230,
+        "endTime": 427245
+      },
+      {
+        "token": "w",
+        "startTime": 427245,
         "endTime": 427260
       },
       {
-        "token": "for",
+        "token": "f",
         "startTime": 427260,
+        "endTime": 427327
+      },
+      {
+        "token": "o",
+        "startTime": 427327,
+        "endTime": 427393
+      },
+      {
+        "token": "r",
+        "startTime": 427393,
         "endTime": 427460
       },
       {
@@ -11162,26 +11424,66 @@
         "endTime": 427580
       },
       {
-        "token": "table",
+        "token": "t",
         "startTime": 427580,
+        "endTime": 427596
+      },
+      {
+        "token": "a",
+        "startTime": 427596,
+        "endTime": 427612
+      },
+      {
+        "token": "b",
+        "startTime": 427612,
+        "endTime": 427628
+      },
+      {
+        "token": "l",
+        "startTime": 427628,
+        "endTime": 427644
+      },
+      {
+        "token": "e",
+        "startTime": 427644,
         "endTime": 427660
       },
       {
-        "token": "for",
+        "token": "f",
         "startTime": 427660,
+        "endTime": 427700
+      },
+      {
+        "token": "o",
+        "startTime": 427700,
+        "endTime": 427740
+      },
+      {
+        "token": "r",
+        "startTime": 427740,
         "endTime": 427780
       },
       {
-        "token": "two",
+        "token": "t",
         "startTime": 427780,
-        "endTime": 427920
+        "endTime": 428127
+      },
+      {
+        "token": "w",
+        "startTime": 428127,
+        "endTime": 428473
+      },
+      {
+        "token": "o",
+        "startTime": 428473,
+        "endTime": 428820
       }
     ]
   },
   {
-    "sentence_text": "欢迎 来到 原本 的 企业 对 第一个 店 你好 您好 吗 对 您好 吗 对 很 好 企业",
+    "sentence_text": "欢迎 来到 原本 的 企业 对 第一个 店",
     "translations": {
-      "en": "Welcome to the original first store of the enterprise. Hello, how are you? Good, very good."
+      "en": "Welcome to the original first location of the company."
     },
     "segments": [
       {
@@ -11267,7 +11569,15 @@
         "startTime": 431000,
         "endTime": 432140,
         "pinyin": "diàn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "你好 您好 吗 对 您好 吗 对 很 好 企业",
+    "translations": {
+      "en": "Hello, how are you? Yes, how are you? Very good."
+    },
+    "segments": [
       {
         "token": "你",
         "startTime": 432140,
@@ -11489,9 +11799,9 @@
     ]
   },
   {
-    "sentence_text": "它 和 其他 的 披萨 完全 不 一样 一口 来 了 臭 呢 我们 一边 吃 一边",
+    "sentence_text": "它 和 其他 的 披萨 完全 不 一样",
     "translations": {
-      "en": "It's completely different from other pizzas. One bite and it's amazing. Let's eat and talk."
+      "en": "It's completely different from other pizzas."
     },
     "segments": [
       {
@@ -11565,7 +11875,15 @@
         "startTime": 446120,
         "endTime": 446200,
         "pinyin": "yàng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "一口 来 了 臭 呢",
+    "translations": {
+      "en": "Take a bite, it smells great."
+    },
+    "segments": [
       {
         "token": "一",
         "startTime": 446200,
@@ -11601,7 +11919,15 @@
         "startTime": 448380,
         "endTime": 448580,
         "pinyin": "ne"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 一边 吃 一边 为什么 我们 今天 一定 要 来到 这儿 呢",
+    "translations": {
+      "en": "As we eat, let's talk about why we had to come here today."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 448580,
@@ -11643,15 +11969,7 @@
         "startTime": 449340,
         "endTime": 449500,
         "pinyin": "biān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "为什么 我们 今天 一定 要 来到 这儿 呢",
-    "translations": {
-      "en": "Why did we have to come here today?"
-    },
-    "segments": [
+      },
       {
         "token": "为",
         "startTime": 449500,
@@ -11735,21 +12053,21 @@
         "startTime": 450950,
         "endTime": 451140,
         "pinyin": "ér"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 是 这家 餐厅 的 餐餐 打开 之后 你 会 发现 其实 这家 餐厅 的 菜 非常 的 多",
-    "translations": {
-      "en": "This is the menu of this restaurant. When you open it, you'll find there are many dishes."
-    },
-    "segments": [
+      },
       {
         "token": "呢",
         "startTime": 451140,
         "endTime": 451140,
         "pinyin": "ne"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 是 这家 餐厅 的 餐餐 打开 之后",
+    "translations": {
+      "en": "This is the menu of this restaurant. When you open it,"
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 451140,
@@ -11833,7 +12151,15 @@
         "startTime": 453460,
         "endTime": 453560,
         "pinyin": "hòu"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 会 发现 其实 这家 餐厅 的 菜 非常 的 多",
+    "translations": {
+      "en": "you'll find that the restaurant has a lot of dishes."
+    },
+    "segments": [
       {
         "token": "你",
         "startTime": 453560,
@@ -11935,7 +12261,7 @@
   {
     "sentence_text": "大概 有 一页 两页 三页 然后 背面 还有 一整 子",
     "translations": {
-      "en": "About one, two, three pages, and there's a whole back side too."
+      "en": "About one, two, three pages, and then a whole page on the back."
     },
     "segments": [
       {
@@ -12049,9 +12375,9 @@
     ]
   },
   {
-    "sentence_text": "说句实话 这是 那种 就是 很 美式 的 餐厅 的 风格 就是 它 什么 都 有",
+    "sentence_text": "说句实话 这是 那种 就是 很 美式 的 餐厅 的 风格",
     "translations": {
-      "en": "To be honest, this is a very American-style restaurant—it has everything."
+      "en": "To be honest, this is a very American-style restaurant."
     },
     "segments": [
       {
@@ -12167,7 +12493,15 @@
         "startTime": 465390,
         "endTime": 465460,
         "pinyin": "gé"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "就是 它 什么 都 有",
+    "translations": {
+      "en": "It has everything."
+    },
+    "segments": [
       {
         "token": "就",
         "startTime": 465460,
@@ -12215,7 +12549,7 @@
   {
     "sentence_text": "但是 这 里面 有 一种 东西 是 他们 家 发明 的 什么 呢",
     "translations": {
-      "en": "But there's one thing they invented here. What is it?"
+      "en": "But there's one thing they invented—what is it?"
     },
     "segments": [
       {
@@ -12341,9 +12675,9 @@
     ]
   },
   {
-    "sentence_text": "底特律 风格 的 披萨 这种 风格 的 披萨 是 这家 餐厅 定义 的",
+    "sentence_text": "底特律 风格 的 披萨",
     "translations": {
-      "en": "Detroit-style pizza. This style of pizza was defined by this restaurant."
+      "en": "Detroit-style pizza."
     },
     "segments": [
       {
@@ -12393,7 +12727,15 @@
         "startTime": 474730,
         "endTime": 475180,
         "pinyin": "sà"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这种 风格 的 披萨 是 这家 餐厅 定义 的",
+    "translations": {
+      "en": "This style of pizza was defined by this restaurant."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 475180,
@@ -12489,7 +12831,7 @@
   {
     "sentence_text": "所以 如果 你 在 美国 将来 吃 到 了 任何 的 不好意思",
     "translations": {
-      "en": "So if you ever eat any other kind in the US, sorry—"
+      "en": "So if you ever eat any in the U.S., sorry,"
     },
     "segments": [
       {
@@ -12615,9 +12957,9 @@
     ]
   },
   {
-    "sentence_text": "这家 餐厅 还有 解释权 等 来 了 之后 给 你们 看看 到底 底特律 风格 p izza 什么 不 一样",
+    "sentence_text": "这家 餐厅 还有 解释权",
     "translations": {
-      "en": "this restaurant has the final say. When it arrives, I'll show you what makes Detroit-style pizza different."
+      "en": "this restaurant still holds the rights to explain it."
     },
     "segments": [
       {
@@ -12673,7 +13015,15 @@
         "startTime": 484227,
         "endTime": 484660,
         "pinyin": "quán"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "等 来 了 之后 给 你们 看看 到底 底特律 风格 p izza 什么 不 一样",
+    "translations": {
+      "en": "When it arrives, I'll show you what makes Detroit-style pizza different."
+    },
+    "segments": [
       {
         "token": "等",
         "startTime": 484660,
@@ -12823,15 +13173,7 @@
         "startTime": 488260,
         "endTime": 488440,
         "pinyin": "bù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我们 的 钱 菜 来 了 说句实话 就 试过 很多 的 沙拉",
-    "translations": {
-      "en": "Our appetizer is here. To be honest, I've tried many salads."
-    },
-    "segments": [
+      },
       {
         "token": "一",
         "startTime": 488440,
@@ -12843,7 +13185,15 @@
         "startTime": 488440,
         "endTime": 488440,
         "pinyin": "yàng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 的 钱 菜 来 了",
+    "translations": {
+      "en": "Our appetizer is here."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 488440,
@@ -12885,7 +13235,15 @@
         "startTime": 490740,
         "endTime": 490940,
         "pinyin": "le"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "说句实话 就 试过 很多 的 沙拉",
+    "translations": {
+      "en": "To be honest, I've tried many salads,"
+    },
+    "segments": [
       {
         "token": "说",
         "startTime": 490940,
@@ -12961,9 +13319,9 @@
     ]
   },
   {
-    "sentence_text": "但是 给 你 上 一个盆 的 沙拉 我 还是 第一 时间 他 4 个 不同 的 酱 咱们 配俩 吧",
+    "sentence_text": "但是 给 你 上 一个盆 的 沙拉 我 还是 第一 时间",
     "translations": {
-      "en": "But getting a whole bowl of salad is a first. They have four different sauces; let's pick two."
+      "en": "but being served a salad in a basin is a first for me."
     },
     "segments": [
       {
@@ -13073,7 +13431,15 @@
         "startTime": 497470,
         "endTime": 497620,
         "pinyin": "jiān"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "他 4 个 不同 的 酱 咱们 配俩 吧",
+    "translations": {
+      "en": "They have four different dressings—let's pick two."
+    },
+    "segments": [
       {
         "token": "他",
         "startTime": 497620,
@@ -13149,9 +13515,9 @@
     ]
   },
   {
-    "sentence_text": "这 沙拉 的 分量 太足 了 如果 你 不点 p izza 只点 这 沙拉",
+    "sentence_text": "这 沙拉 的 分量 太足 了",
     "translations": {
-      "en": "This salad is huge. If you don't order pizza and just get this salad,"
+      "en": "This salad is incredibly generous."
     },
     "segments": [
       {
@@ -13182,7 +13548,7 @@
         "token": "分",
         "startTime": 506860,
         "endTime": 506940,
-        "pinyin": "fēn"
+        "pinyin": "fèn"
       },
       {
         "token": "量",
@@ -13207,7 +13573,15 @@
         "startTime": 507380,
         "endTime": 507380,
         "pinyin": "le"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "如果 你 不点 p izza 只点 这 沙拉",
+    "translations": {
+      "en": "If you skip the pizza and just order this salad,"
+    },
+    "segments": [
       {
         "token": "如",
         "startTime": 507380,
@@ -13285,15 +13659,7 @@
         "startTime": 509780,
         "endTime": 509900,
         "pinyin": "zhè"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我 觉得 就 你 一个 人来 的话 谁 能 吃 这 一盆 沙拉 就 好玩 多 好吃",
-    "translations": {
-      "en": "I think if you're alone, who can finish this bowl? It's fun and delicious."
-    },
-    "segments": [
+      },
       {
         "token": "沙",
         "startTime": 509900,
@@ -13305,7 +13671,15 @@
         "startTime": 509900,
         "endTime": 509900,
         "pinyin": "lā"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 觉得 就 你 一个 人来 的话 谁 能 吃 这 一盆 沙拉",
+    "translations": {
+      "en": "I think if you're alone, who could finish this basin of salad?"
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 509900,
@@ -13419,7 +13793,15 @@
         "startTime": 513670,
         "endTime": 513940,
         "pinyin": "lā"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "就 好玩 多 好吃",
+    "translations": {
+      "en": "It's fun and delicious."
+    },
+    "segments": [
       {
         "token": "就",
         "startTime": 513940,
@@ -13459,9 +13841,9 @@
     ]
   },
   {
-    "sentence_text": "整个 p izza 我 觉得 上来 之后 非常 好玩 就是 什么 呢",
+    "sentence_text": "整个 p izza 我 觉得 上来 之后 非常 好玩",
     "translations": {
-      "en": "The whole pizza is very interesting when it comes out. What is it?"
+      "en": "The whole pizza is really fun when it comes out."
     },
     "segments": [
       {
@@ -13571,7 +13953,15 @@
         "startTime": 539370,
         "endTime": 539820,
         "pinyin": "wán"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "就是 什么 呢 你们 仔细 看 的话 会 发现 他们 家 的 p izza 有没有 发现 用 了 什么 东西",
+    "translations": {
+      "en": "What is it? If you look closely, you'll notice something they used in their pizza."
+    },
+    "segments": [
       {
         "token": "就",
         "startTime": 539820,
@@ -13595,15 +13985,7 @@
         "startTime": 540700,
         "endTime": 540780,
         "pinyin": "me"
-      }
-    ]
-  },
-  {
-    "sentence_text": "你们 仔细 看 的话 会 发现 他们 家 的 p izza 有没有 发现 用 了 什么 东西",
-    "translations": {
-      "en": "If you look closely, you'll notice their pizza—did you see what they used?"
-    },
-    "segments": [
+      },
       {
         "token": "呢",
         "startTime": 540780,
@@ -13795,7 +14177,7 @@
   {
     "sentence_text": "用 了 一个 大 的 铁盘 这种 拖盘 它 根本 就 不是 专业 的 披萨 用盘",
     "translations": {
-      "en": "They used a large iron tray. This tray is not a professional pizza pan at all."
+      "en": "They use a large iron tray—this tray isn't a professional pizza pan at all."
     },
     "segments": [
       {
@@ -14531,7 +14913,7 @@
   {
     "sentence_text": "所以 他 就 从 工厂 里面 买 了 很多 类似 于 这样 的 二手 的 托盘",
     "translations": {
-      "en": "So he bought a lot of used trays like these from a factory."
+      "en": "So he bought a lot of second-hand trays like these from a factory."
     },
     "segments": [
       {
@@ -14683,7 +15065,7 @@
   {
     "sentence_text": "之后 发现 这种 非专业 的 托盘 结果 它 的 导乐性 极其 的 良好",
     "translations": {
-      "en": "Later, he found that these non-professional trays have excellent heat conductivity."
+      "en": "Later, he found that these non-professional trays had excellent heat conductivity."
     },
     "segments": [
       {
@@ -14835,7 +15217,7 @@
   {
     "sentence_text": "所以 你们 p izza 的 下面 这些 烤 的 焦焦 的 这 一部分 只有 这种 烤盘 才能 烤 出来 这个 状态",
     "translations": {
-      "en": "So the charred part on the bottom of your pizza can only be achieved with this kind of tray."
+      "en": "So the crispy, charred part on the bottom of your pizza can only be achieved with this kind of tray."
     },
     "segments": [
       {
@@ -15071,7 +15453,7 @@
   {
     "sentence_text": "所以 这 也 是 比特 p izza 除了 它 的 形状 跟 平常 p izza 不 一样 之外",
     "translations": {
-      "en": "This is also why, besides its shape being different from regular pizza,"
+      "en": "This is also why Detroit pizza, besides its shape being different from regular pizza,"
     },
     "segments": [
       {
@@ -15233,17 +15615,9 @@
       {
         "token": "不",
         "startTime": 592240,
-        "endTime": 592320,
+        "endTime": 592400,
         "pinyin": "bù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "更 重要 的 是 这种 p izza 最 下面 的 焦质 的 焦感 它 也 和 我们 日常 的 p izza 不太 一样",
-    "translations": {
-      "en": "more importantly, the crispy texture on the bottom of this pizza is also different from what we usually have."
-    },
-    "segments": [
+      },
       {
         "token": "一",
         "startTime": 592400,
@@ -15267,7 +15641,15 @@
         "startTime": 592540,
         "endTime": 592540,
         "pinyin": "wài"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "更 重要 的 是 这种 p izza 最 下面 的 焦质 的 焦感 它 也 和 我们 日常 的 p izza 不太 一样",
+    "translations": {
+      "en": "more importantly, the charred texture on the bottom of this pizza is also different from our everyday pizza."
+    },
+    "segments": [
       {
         "token": "更",
         "startTime": 592540,
@@ -15763,7 +16145,7 @@
   {
     "sentence_text": "像 那种 F rench toast 的 对 没有 然后 在 上面 加 了 芝士",
     "translations": {
-      "en": "Like a French toast, but without that, and then topped with cheese."
+      "en": "Like a French toast, no, and then topped with cheese."
     },
     "segments": [
       {
@@ -15915,15 +16297,7 @@
         "startTime": 609460,
         "endTime": 609580,
         "pinyin": "le"
-      }
-    ]
-  },
-  {
-    "sentence_text": "然后 加 了 牛肉 加 了 番茄 加 了 Mac aron i",
-    "translations": {
-      "en": "Then beef, tomatoes, and macaroni are added."
-    },
-    "segments": [
+      },
       {
         "token": "芝",
         "startTime": 609580,
@@ -15935,7 +16309,15 @@
         "startTime": 609580,
         "endTime": 609580,
         "pinyin": "shì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "然后 加 了 牛肉 加 了 番茄 加 了 Mac aron i",
+    "translations": {
+      "en": "Then added beef, tomatoes, and macaroni."
+    },
+    "segments": [
       {
         "token": "然",
         "startTime": 609580,
@@ -16011,29 +16393,21 @@
       {
         "token": "M",
         "startTime": 612280,
-        "endTime": 612320,
+        "endTime": 612367,
         "pinyin": "M"
       },
       {
         "token": "a",
-        "startTime": 612320,
-        "endTime": 612360,
+        "startTime": 612367,
+        "endTime": 612453,
         "pinyin": "a"
       },
       {
         "token": "c",
-        "startTime": 612360,
-        "endTime": 612400,
+        "startTime": 612453,
+        "endTime": 612540,
         "pinyin": "c"
-      }
-    ]
-  },
-  {
-    "sentence_text": "试一下 底特律 风格 的 皮 特来 了 这个 底 超级 脆 芝士 含量 多到 爆炸",
-    "translations": {
-      "en": "Trying the Detroit-style pizza—super crispy bottom, incredibly cheesy."
-    },
-    "segments": [
+      },
       {
         "token": "a",
         "startTime": 612540,
@@ -16063,7 +16437,15 @@
         "startTime": 612720,
         "endTime": 612720,
         "pinyin": "i"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "试一下 底特律 风格 的 皮 特来 了 这个 底 超级 脆 芝士 含量 多到 爆炸",
+    "translations": {
+      "en": "Try the Detroit-style pizza—super crispy bottom, exploding with cheese."
+    },
+    "segments": [
       {
         "token": "试",
         "startTime": 612720,
@@ -16152,7 +16534,7 @@
         "token": "个",
         "startTime": 621900,
         "endTime": 622080,
-        "pinyin": "gè"
+        "pinyin": "ge"
       },
       {
         "token": "底",
@@ -16445,7 +16827,7 @@
   {
     "sentence_text": "熟 了 之后 上面 的 底 中 烤 得 非常 的 脆 然后 里面 的 芝士 又 很 柔和",
     "translations": {
-      "en": "After it's done, the bottom is very crispy, while the cheese inside is soft."
+      "en": "After it's cooked, the bottom gets very crispy, while the cheese inside stays soft."
     },
     "segments": [
       {
@@ -16607,9 +16989,9 @@
     ]
   },
   {
-    "sentence_text": "所以 下面 一 整个 脆 上面 一 整个 软 这 两种 不同 的 口感 混在 一起",
+    "sentence_text": "所以 下面 一 整个 脆 上面 一 整个 软 这 两种 不同 的 口感 混在 一起 让 你 感觉 非常 的 神奇",
     "translations": {
-      "en": "So the whole bottom is crispy, the top is soft—these two textures mix together."
+      "en": "So the bottom is all crunchy, the top is all soft—these two different textures mixed together feel amazing."
     },
     "segments": [
       {
@@ -16767,15 +17149,7 @@
         "startTime": 643410,
         "endTime": 643820,
         "pinyin": "qǐ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "让 你 感觉 非常 的 神奇 这个 口味 上面 放 了 蘑菇 番茄酱",
-    "translations": {
-      "en": "It feels amazing. This one has mushrooms and tomato sauce."
-    },
-    "segments": [
+      },
       {
         "token": "让",
         "startTime": 643820,
@@ -16829,7 +17203,15 @@
         "startTime": 644880,
         "endTime": 644880,
         "pinyin": "qí"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 口味 上面 放 了 蘑菇 番茄酱 这个 是 火腿 青椒",
+    "translations": {
+      "en": "This flavor has mushrooms and tomato sauce, and this one has ham and green peppers."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 644880,
@@ -16907,15 +17289,7 @@
         "startTime": 650720,
         "endTime": 651000,
         "pinyin": "jiàng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 是 火腿 青椒 然后 一样 的 放 了 非常 厚 的 芝士",
-    "translations": {
-      "en": "This one has ham and green peppers, and also a very thick layer of cheese."
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 651000,
@@ -16957,7 +17331,15 @@
         "startTime": 651650,
         "endTime": 651940,
         "pinyin": "jiāo"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "然后 一样 的 放 了 非常 厚 的 芝士 这个 和 我们 在 意大利 行 的 披萨 其实 有天 啊 地拉 地 的 披萨 是 一种 非常 非常 薄",
+    "translations": {
+      "en": "And it's topped with very thick cheese. This is completely different from the pizza we had in Italy—Italian pizza has a very, very thin crust."
+    },
+    "segments": [
       {
         "token": "然",
         "startTime": 651940,
@@ -17035,15 +17417,7 @@
         "startTime": 654760,
         "endTime": 655060,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 和 我们 在 意大利 行 的 披萨 其实 有天 啊 地拉 地 的 披萨 是 一种 非常 非常 薄",
-    "translations": {
-      "en": "This is totally different from the pizza we had in Italy—Italian pizza has a very, very thin crust."
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 655060,
@@ -17239,9 +17613,9 @@
     ]
   },
   {
-    "sentence_text": "巨薄 巨薄 的 底 那 这种 披萨 正好 跟 它 相反 你 看 超级 厚 知识 超级 多",
+    "sentence_text": "巨薄 巨薄 的 底",
     "translations": {
-      "en": "Extremely thin crust. This pizza is the opposite—see, super thick crust and tons of cheese."
+      "en": "Extremely thin crust."
     },
     "segments": [
       {
@@ -17279,7 +17653,15 @@
         "startTime": 660540,
         "endTime": 661120,
         "pinyin": "dǐ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "那 这种 披萨 正好 跟 它 相反 你 看 超级 厚 知识 超级 多",
+    "translations": {
+      "en": "This pizza is the opposite—look at the thick crust and tons of cheese."
+    },
+    "segments": [
       {
         "token": "那",
         "startTime": 661120,
@@ -17409,9 +17791,9 @@
     ]
   },
   {
-    "sentence_text": "我们 试一试 这个 风格 有 什么 不 一样 知识 多得 爆炸",
+    "sentence_text": "我们 试一试 这个 风格 有 什么 不 一样 知识 多得 爆炸 感觉 被 知识 淹没 了 呼吸 不上 蓝 老天",
     "translations": {
-      "en": "Let's try this style and see how it's different—knowledge is exploding."
+      "en": "Let's try this style and see how it's different. So much knowledge, it feels like drowning, can't breathe, oh heavens."
     },
     "segments": [
       {
@@ -17539,15 +17921,7 @@
         "startTime": 670820,
         "endTime": 670940,
         "pinyin": "zhà"
-      }
-    ]
-  },
-  {
-    "sentence_text": "感觉 被 知识 淹没 了 呼吸 不上 蓝 老天 有 一 说 一",
-    "translations": {
-      "en": "Feeling overwhelmed by knowledge, can't breathe, blue sky, to be honest."
-    },
-    "segments": [
+      },
       {
         "token": "感",
         "startTime": 670940,
@@ -17637,7 +18011,15 @@
         "startTime": 673000,
         "endTime": 673000,
         "pinyin": "tiān"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "有 一 说 一 它 这个 披萨 的 量 真的 太大 了 你 不要 看 它 个头 不 大",
+    "translations": {
+      "en": "Gotta say, the portion of this pizza is really huge. Don't be fooled by its size."
+    },
+    "segments": [
       {
         "token": "有",
         "startTime": 673000,
@@ -17661,15 +18043,7 @@
         "startTime": 673980,
         "endTime": 674020,
         "pinyin": "yī"
-      }
-    ]
-  },
-  {
-    "sentence_text": "它 这个 披萨 的 量 真的 太大 了 你 不要 看 它 个头 不 大",
-    "translations": {
-      "en": "The portion of this pizza is really huge, don't be fooled by its size."
-    },
-    "segments": [
+      },
       {
         "token": "它",
         "startTime": 674020,
@@ -17801,7 +18175,7 @@
   {
     "sentence_text": "如果 把 它 压扁 了 我 不见得 它 说 一个 超级 大 的 语言 来",
     "translations": {
-      "en": "If you flatten it, I don't think it would speak a super big language."
+      "en": "If you flatten it, I doubt it would take a super long word to describe."
     },
     "segments": [
       {
@@ -17905,15 +18279,7 @@
         "startTime": 679310,
         "endTime": 679380,
         "pinyin": "jí"
-      }
-    ]
-  },
-  {
-    "sentence_text": "刚刚 那个 小姐 跟 我们 你 可以 拿 他们 家 的 沙拉 放在 他们 家 的 披萨 上",
-    "translations": {
-      "en": "That young lady just told us you can put their salad on their pizza."
-    },
-    "segments": [
+      },
       {
         "token": "大",
         "startTime": 679380,
@@ -17943,7 +18309,15 @@
         "startTime": 679760,
         "endTime": 679760,
         "pinyin": "lái"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "刚刚 那个 小姐 跟 我们 你 可以 拿 他们 家 的 沙拉 放在 他们 家 的 披萨 上",
+    "translations": {
+      "en": "That lady just told us you can put their salad on their pizza."
+    },
+    "segments": [
       {
         "token": "刚",
         "startTime": 679760,
@@ -18115,9 +18489,9 @@
     ]
   },
   {
-    "sentence_text": "这是 当地人 的 一种 我 觉得 是 一种 恶趣味 第一次 披萨 配 沙拉",
+    "sentence_text": "这是 当地人 的 一种 我 觉得 是 一种 恶趣味 第一次 披萨 配 沙拉 开始 酸上 加酸 太酸 了",
     "translations": {
-      "en": "This is a kind of bad taste among locals, I think. First time having pizza with salad."
+      "en": "This is a local thing, I think it's a weird taste. First time having pizza with salad—sour on sour, too sour."
     },
     "segments": [
       {
@@ -18269,15 +18643,7 @@
         "startTime": 688570,
         "endTime": 688900,
         "pinyin": "lā"
-      }
-    ]
-  },
-  {
-    "sentence_text": "开始 酸上 加酸 太酸 了 本来 他们 的 披萨 就 放 了 很多 的 番茄酱",
-    "translations": {
-      "en": "It started to get sour on top of sour, too sour; their pizza already had a lot of ketchup."
-    },
-    "segments": [
+      },
       {
         "token": "开",
         "startTime": 688900,
@@ -18331,7 +18697,15 @@
         "startTime": 696920,
         "endTime": 697180,
         "pinyin": "le"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "本来 他们 的 披萨 就 放 了 很多 的 番茄酱 你 再 把 沙拉 放上去 沙拉 里 都 是 有复",
+    "translations": {
+      "en": "Their pizza already has a lot of ketchup, then you add the salad, which also has dressing."
+    },
+    "segments": [
       {
         "token": "本",
         "startTime": 697180,
@@ -18427,15 +18801,7 @@
         "startTime": 699013,
         "endTime": 699280,
         "pinyin": "jiàng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "你 再 把 沙拉 放上去 沙拉 里 都 是 有 复 我 觉得 我 说句实话",
-    "translations": {
-      "en": "If you put the salad on again, there are duplicates in the salad. I think I'll be honest."
-    },
-    "segments": [
+      },
       {
         "token": "你",
         "startTime": 699280,
@@ -18525,7 +18891,15 @@
         "startTime": 701720,
         "endTime": 701840,
         "pinyin": "fù"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 觉得 我 说句实话 我 没有 觉得 起来 什么 综合 作用 反倒 变成 沙拉 口味 变得 很 奇怪",
+    "translations": {
+      "en": "Honestly, I don't think it balanced anything out; instead, the salad's flavor became really strange."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 701840,
@@ -18573,15 +18947,7 @@
         "startTime": 702735,
         "endTime": 702740,
         "pinyin": "huà"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我 没有 觉得 起来 什么 综合 作用 反倒 变成 沙拉 口味 变得 很 奇怪",
-    "translations": {
-      "en": "I don't think it had any combined effect; instead, the salad's flavor became strange."
-    },
-    "segments": [
+      },
       {
         "token": "我",
         "startTime": 702740,
@@ -18711,23 +19077,15 @@
       {
         "token": "变",
         "startTime": 705760,
-        "endTime": 705780,
+        "endTime": 705860,
         "pinyin": "biàn"
       },
       {
         "token": "得",
-        "startTime": 705780,
-        "endTime": 705800,
+        "startTime": 705860,
+        "endTime": 705960,
         "pinyin": "dé"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我 只能 说 这种 吃法 真的 是 当地人 的 恶趣味 不 推荐",
-    "translations": {
-      "en": "I can only say this way of eating is really a local's quirky taste, not recommended."
-    },
-    "segments": [
+      },
       {
         "token": "很",
         "startTime": 705960,
@@ -18745,7 +19103,15 @@
         "startTime": 706060,
         "endTime": 706060,
         "pinyin": "guài"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 只能 说 这种 吃法 真的 是 当地人 的 恶趣味 不 推荐",
+    "translations": {
+      "en": "I can only say this way of eating is really a local weird taste—not recommended."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 706060,
@@ -18859,15 +19225,7 @@
         "startTime": 709640,
         "endTime": 709840,
         "pinyin": "bù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "所以 我 相信 很多 小伙伴 今天 看 了 我们 这个 片子 之后 肯定 很 好奇",
-    "translations": {
-      "en": "So I believe many of you are definitely curious after watching this video today."
-    },
-    "segments": [
+      },
       {
         "token": "推",
         "startTime": 709840,
@@ -18879,7 +19237,15 @@
         "startTime": 709840,
         "endTime": 709840,
         "pinyin": "jiàn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "所以 我 相信 很多 小伙伴 今天 看 了 我们 这个 片子 之后 肯定 很 好奇",
+    "translations": {
+      "en": "So I believe many of you watching this video today are really curious."
+    },
+    "segments": [
       {
         "token": "所",
         "startTime": 709840,
@@ -19045,9 +19411,9 @@
     ]
   },
   {
-    "sentence_text": "就是 底特律 这个 城市 到底 是 怎么 没落 为什么 会 有 这么 多 房子 没有 人要 对 吧",
+    "sentence_text": "就是 底特律 这个 城市 到底 是 怎么 没落",
     "translations": {
-      "en": "So how exactly did Detroit decline, and why are there so many abandoned houses?"
+      "en": "How exactly did the city of Detroit decline?"
     },
     "segments": [
       {
@@ -19145,7 +19511,15 @@
         "startTime": 717130,
         "endTime": 717200,
         "pinyin": "luò"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "为什么 会 有 这么 多 房子 没有 人要 对 吧",
+    "translations": {
+      "en": "Why are there so many houses with no one living in them, right?"
+    },
+    "segments": [
       {
         "token": "为",
         "startTime": 717200,
@@ -19221,23 +19595,15 @@
       {
         "token": "人",
         "startTime": 718240,
-        "endTime": 718567,
+        "endTime": 718640,
         "pinyin": "rén"
       },
       {
         "token": "要",
-        "startTime": 718567,
-        "endTime": 718894,
+        "startTime": 718640,
+        "endTime": 719040,
         "pinyin": "yào"
-      }
-    ]
-  },
-  {
-    "sentence_text": "底特律 在 19 50 年代 是 一个 非常 非常 富裕 的 城市",
-    "translations": {
-      "en": "Detroit was a very, very wealthy city in the 1950s."
-    },
-    "segments": [
+      },
       {
         "token": "对",
         "startTime": 719040,
@@ -19249,7 +19615,15 @@
         "startTime": 719060,
         "endTime": 719440,
         "pinyin": "ba"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "底特律 在 19 50 年代 是 一个 非常 非常 富裕 的 城市",
+    "translations": {
+      "en": "Detroit was a very, very wealthy city in the 1950s."
+    },
+    "segments": [
       {
         "token": "底",
         "startTime": 719440,
@@ -19385,9 +19759,9 @@
     ]
   },
   {
-    "sentence_text": "它 曾经 一度 呢 人均收入 超过 了 纽约 成为 美国 人均收入 排名 第一 的 城市",
+    "sentence_text": "它 曾经 一度 呢 人均收入 超过 了 纽约",
     "translations": {
-      "en": "It once had a per capita income surpassing New York, becoming the city with the highest per capita income in the United States."
+      "en": "At one point, its per capita income surpassed New York's."
     },
     "segments": [
       {
@@ -19479,7 +19853,15 @@
         "startTime": 726010,
         "endTime": 726120,
         "pinyin": "yuē"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "成为 美国 人均收入 排名 第一 的 城市",
+    "translations": {
+      "en": "Becoming the city with the highest per capita income in the United States."
+    },
+    "segments": [
       {
         "token": "成",
         "startTime": 726120,
@@ -19557,15 +19939,7 @@
         "startTime": 727900,
         "endTime": 728100,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "当然 是因为 汽车 大家 都 知道 底特律 有 一个 外号 呢 叫做 汽车 上 的 城市",
-    "translations": {
-      "en": "Of course, because of cars, everyone knows Detroit has a nickname: the Motor City."
-    },
-    "segments": [
+      },
       {
         "token": "城",
         "startTime": 728100,
@@ -19577,7 +19951,15 @@
         "startTime": 728100,
         "endTime": 728100,
         "pinyin": "shì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "当然 是因为 汽车 大家 都 知道",
+    "translations": {
+      "en": "Of course, it's because of cars, as everyone knows."
+    },
+    "segments": [
       {
         "token": "当",
         "startTime": 728100,
@@ -19649,7 +20031,15 @@
         "startTime": 729520,
         "endTime": 729600,
         "pinyin": "dào"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "底特律 有 一个 外号 呢 叫做 汽车 上 的 城市",
+    "translations": {
+      "en": "Detroit has a nickname: the City on Wheels."
+    },
+    "segments": [
       {
         "token": "底",
         "startTime": 729600,
@@ -19755,9 +20145,9 @@
     ]
   },
   {
-    "sentence_text": "美国 人 呢 80% 的 人 都 拥有 汽车 而 这些 车 在 当年 全部 不能 说 全部 大部分",
+    "sentence_text": "美国 人 呢 80% 的 人 都 拥有 汽车",
     "translations": {
-      "en": "80% of Americans own cars, and back then, not all, but most of these cars were..."
+      "en": "80% of Americans own cars."
     },
     "segments": [
       {
@@ -19843,7 +20233,15 @@
         "startTime": 734680,
         "endTime": 734820,
         "pinyin": "chē"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "而 这些 车 在 当年 全部 不能 说 全部 大部分 都 是 由 美国 的 三 大车 企 提供",
+    "translations": {
+      "en": "Back then, all—well, not all, but most—of these cars were supplied by America's Big Three automakers."
+    },
+    "segments": [
       {
         "token": "而",
         "startTime": 734820,
@@ -19931,29 +20329,21 @@
       {
         "token": "大",
         "startTime": 737280,
-        "endTime": 737405,
+        "endTime": 737553,
         "pinyin": "dà"
       },
       {
         "token": "部",
-        "startTime": 737405,
-        "endTime": 737530,
+        "startTime": 737553,
+        "endTime": 737827,
         "pinyin": "bù"
       },
       {
         "token": "分",
-        "startTime": 737530,
-        "endTime": 737655,
-        "pinyin": "fēn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "都 是 由 美国 的 三 大车 企 提供",
-    "translations": {
-      "en": "All provided by the three major American automakers"
-    },
-    "segments": [
+        "startTime": 737827,
+        "endTime": 738100,
+        "pinyin": "fèn"
+      },
       {
         "token": "都",
         "startTime": 738100,
@@ -20011,17 +20401,9 @@
       {
         "token": "企",
         "startTime": 739140,
-        "endTime": 739560,
+        "endTime": 739740,
         "pinyin": "qǐ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "而 这 三 大车 企 全部 把 自己 的 总部 建立 在 这个 城市",
-    "translations": {
-      "en": "And all three major automakers have set up their headquarters in this city."
-    },
-    "segments": [
+      },
       {
         "token": "提",
         "startTime": 739740,
@@ -20033,7 +20415,15 @@
         "startTime": 739850,
         "endTime": 739960,
         "pinyin": "gōng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "而 这 三 大车 企 全部 把 自己 的 总部 建立 在 这个 城市",
+    "translations": {
+      "en": "And all three of those automakers had their headquarters in this city."
+    },
+    "segments": [
       {
         "token": "而",
         "startTime": 739960,
@@ -20165,7 +20555,7 @@
   {
     "sentence_text": "所以 这 一家 车 刚好 见证 呢 底特律 那个 时候 最 辉煌 最 有钱 的 年代",
     "translations": {
-      "en": "So this car just witnessed the most glorious and wealthy era of Detroit at that time."
+      "en": "So this car company just witnessed Detroit's most glorious and richest era."
     },
     "segments": [
       {
@@ -20333,9 +20723,9 @@
     ]
   },
   {
-    "sentence_text": "但是 随着 美国 汽车 工会 日渐 强大 当时 汽车工人 的 工资 从 几块钱 一 小时",
+    "sentence_text": "但是 随着 美国 汽车 工会 日渐 强大",
     "translations": {
-      "en": "But as the U.S. auto workers' union grew stronger, the wages of auto workers at that time rose from a few dollars an hour."
+      "en": "But as the U.S. auto workers' union grew stronger,"
     },
     "segments": [
       {
@@ -20421,7 +20811,15 @@
         "startTime": 752420,
         "endTime": 752540,
         "pinyin": "dà"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "当时 汽车工人 的 工资 从 几块钱 一 小时 一直 今天 的 70 多 美金 一 小时",
+    "translations": {
+      "en": "auto workers' wages went from a few dollars an hour to over $70 an hour today."
+    },
+    "segments": [
       {
         "token": "当",
         "startTime": 752540,
@@ -20517,15 +20915,7 @@
         "startTime": 755140,
         "endTime": 755260,
         "pinyin": "shí"
-      }
-    ]
-  },
-  {
-    "sentence_text": "一直 今天 的 70 多 美金 一 小时",
-    "translations": {
-      "en": "It's been $70 an hour today."
-    },
-    "segments": [
+      },
       {
         "token": "一",
         "startTime": 755260,
@@ -20591,15 +20981,7 @@
         "startTime": 757620,
         "endTime": 757820,
         "pinyin": "yī"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我们 在 这里 工作 的 小姐姐 在 帮 我们 搞批 的 小姐姐 她 的 死心 就是 13 块 7 毛 3",
-    "translations": {
-      "en": "The young lady working here helping us with the batch has a base pay of $13.73."
-    },
-    "segments": [
+      },
       {
         "token": "小",
         "startTime": 757820,
@@ -20611,7 +20993,15 @@
         "startTime": 757820,
         "endTime": 757820,
         "pinyin": "shí"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 在 这里 工作 的 小姐姐 在 帮 我们 搞批 的 小姐姐 她 的 死心 就是 13 块 7 毛 3",
+    "translations": {
+      "en": "The girl working here helping us with the batch—her starting wage is $13.73."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 757820,
@@ -20813,9 +21203,9 @@
     ]
   },
   {
-    "sentence_text": "但是 如果 你 在 底特律 工厂 里面 做 一份 最 普通 的 工作 你 的 最低 死心 能够 71 小时",
+    "sentence_text": "但是 如果 你 在 底特律 工厂 里面 做 一份 最 普通 的 工作",
     "translations": {
-      "en": "But if you do the most ordinary job in a Detroit factory, your minimum base pay is $71 an hour."
+      "en": "But if you do the most ordinary job in a Detroit factory,"
     },
     "segments": [
       {
@@ -20949,7 +21339,15 @@
         "startTime": 766970,
         "endTime": 767200,
         "pinyin": "zuò"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 的 最低 死心 能够 71 小时",
+    "translations": {
+      "en": "your minimum starting wage is $71 an hour."
+    },
+    "segments": [
       {
         "token": "你",
         "startTime": 767200,
@@ -21027,7 +21425,7 @@
   {
     "sentence_text": "这种 情况 就 逼 着 当地 的 三 大车 企 没有 活路",
     "translations": {
-      "en": "This situation forces the local Big Three automakers into a dead end."
+      "en": "This situation left the local Big Three automakers with no way out."
     },
     "segments": [
       {
@@ -21129,13 +21527,13 @@
       {
         "token": "活",
         "startTime": 773120,
-        "endTime": 773270,
+        "endTime": 773350,
         "pinyin": "huó"
       },
       {
         "token": "路",
-        "startTime": 773270,
-        "endTime": 773420,
+        "startTime": 773350,
+        "endTime": 773580,
         "pinyin": "lù"
       }
     ]
@@ -21143,7 +21541,7 @@
   {
     "sentence_text": "他们 平均 每照 出 一辆车 都 比日 企多 了 3000 美金",
     "translations": {
-      "en": "On average, they spend $3,000 more per car than Japanese companies."
+      "en": "On average, they spent $3,000 more per car than Japanese companies."
     },
     "segments": [
       {
@@ -21269,13 +21667,13 @@
       {
         "token": "美",
         "startTime": 776680,
-        "endTime": 776948,
+        "endTime": 777000,
         "pinyin": "měi"
       },
       {
         "token": "金",
-        "startTime": 776948,
-        "endTime": 777216,
+        "startTime": 777000,
+        "endTime": 777320,
         "pinyin": "jīn"
       }
     ]
@@ -21283,7 +21681,7 @@
   {
     "sentence_text": "且照 的 越 多 赔 的 越 多",
     "translations": {
-      "en": "And the more cars they make, the more they lose."
+      "en": "And the more cars they made, the more they lost."
     },
     "segments": [
       {
@@ -21345,7 +21743,7 @@
   {
     "sentence_text": "所以 就 逼 着 大家 最终 的 把 产业 转移",
     "translations": {
-      "en": "So it forces everyone to eventually relocate production."
+      "en": "So they were forced to eventually move production,"
     },
     "segments": [
       {
@@ -21443,7 +21841,7 @@
   {
     "sentence_text": "要不然 就 往 美国 南方 没有 汽车 工会 的 州 转移",
     "translations": {
-      "en": "Either to southern U.S. states without auto unions."
+      "en": "either to the southern U.S., where there are no auto unions,"
     },
     "segments": [
       {
@@ -21565,7 +21963,7 @@
   {
     "sentence_text": "要不然 就 往 国外 转移",
     "translations": {
-      "en": "Or overseas."
+      "en": "or overseas."
     },
     "segments": [
       {
@@ -21625,9 +22023,9 @@
     ]
   },
   {
-    "sentence_text": "所以 底 特利 市 也 从 当年 人口 最 辉煌 的 180 万 人口",
+    "sentence_text": "所以 底 特利 市 也 从 当年 人口 最 辉煌 的 180 万 人口 一直 降到 降降 降降 降降 降",
     "translations": {
-      "en": "So Detroit, from its peak population of 1.8 million."
+      "en": "So Detroit's population dropped from its peak of 1.8 million, down and down and down,"
     },
     "segments": [
       {
@@ -21749,15 +22147,7 @@
         "startTime": 789660,
         "endTime": 790000,
         "pinyin": "wàn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "一直 降到 降降 降降 降降 降",
-    "translations": {
-      "en": "Kept dropping, dropping, dropping, dropping, dropping."
-    },
-    "segments": [
+      },
       {
         "token": "人",
         "startTime": 790000,
@@ -21774,7 +22164,7 @@
         "token": "一",
         "startTime": 790000,
         "endTime": 790230,
-        "pinyin": "yì"
+        "pinyin": "yī"
       },
       {
         "token": "直",
@@ -21841,7 +22231,7 @@
   {
     "sentence_text": "一直 人口 外移 然后 逃离 这个 城市",
     "translations": {
-      "en": "People kept moving out and fleeing the city."
+      "en": "as people moved out and fled the city."
     },
     "segments": [
       {
@@ -21915,15 +22305,7 @@
         "startTime": 794350,
         "endTime": 794440,
         "pinyin": "ge"
-      }
-    ]
-  },
-  {
-    "sentence_text": "最终 的 这个 城市 现在 目前 人口 只有 70 万人",
-    "translations": {
-      "en": "Now the city's population is only 700,000."
-    },
-    "segments": [
+      },
       {
         "token": "城",
         "startTime": 794440,
@@ -21935,7 +22317,15 @@
         "startTime": 794440,
         "endTime": 794440,
         "pinyin": "shì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "最终 的 这个 城市 现在 目前 人口 只有 70 万人",
+    "translations": {
+      "en": "Now the city's population is only 700,000."
+    },
+    "segments": [
       {
         "token": "最",
         "startTime": 794440,
@@ -22037,15 +22427,7 @@
         "startTime": 796590,
         "endTime": 796740,
         "pinyin": "0"
-      }
-    ]
-  },
-  {
-    "sentence_text": "当然 这个 工会 是 造成 美国 汽车行业 没入 的 主要 原因 之一",
-    "translations": {
-      "en": "Of course, the union is one of the main reasons for the decline of the U.S. auto industry."
-    },
-    "segments": [
+      },
       {
         "token": "万",
         "startTime": 796740,
@@ -22057,7 +22439,15 @@
         "startTime": 796740,
         "endTime": 796740,
         "pinyin": "rén"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "当然 这个 工会 是 造成 美国 汽车行业 没入 的 主要 原因 之一",
+    "translations": {
+      "en": "Of course, the union is one of the main reasons for the decline of the U.S. auto industry."
+    },
+    "segments": [
       {
         "token": "当",
         "startTime": 796740,
@@ -22445,7 +22835,7 @@
   {
     "sentence_text": "那到 了 今天 呢 更 不用说 了",
     "translations": {
-      "en": "And today, needless to say."
+      "en": "And today, needless to say,"
     },
     "segments": [
       {
@@ -22519,7 +22909,7 @@
   {
     "sentence_text": "来自 中国 的 这些 汽车行业 对 整个 全球 汽车行业 的 冲击 都 是 不可估量 的",
     "translations": {
-      "en": "The impact of China's auto industry on the global auto industry is immeasurable."
+      "en": "the impact of China's auto industry on the global auto industry is immeasurable."
     },
     "segments": [
       {
@@ -22707,7 +23097,7 @@
   {
     "sentence_text": "所以 来自 内部 薪资 的 问题 是 他们 自己 的 内部 的 原因",
     "translations": {
-      "en": "So internal wage issues are their own internal problem."
+      "en": "So the internal wage issue is their own internal problem."
     },
     "segments": [
       {
@@ -22847,7 +23237,7 @@
   {
     "sentence_text": "那 来自 外部 的 更是 降维 打击",
     "translations": {
-      "en": "And external factors are even more of a crushing blow."
+      "en": "The external blow was even more devastating."
     },
     "segments": [
       {
@@ -22925,9 +23315,9 @@
     ]
   },
   {
-    "sentence_text": "很快 一 相加 导致 现在 的 底特律 就 成 了 你 现在 看到 的 时候",
+    "sentence_text": "很快 一 相加 导致 现在 的 底特律 就 成 了 你 现在 看到 的 时候 180 万 人口 这 样子",
     "translations": {
-      "en": "The rapid accumulation of one thing led to Detroit becoming what you see now."
+      "en": "Soon, that combination brought Detroit to what you see now—1.8 million people."
     },
     "segments": [
       {
@@ -23055,15 +23445,7 @@
         "startTime": 826210,
         "endTime": 826480,
         "pinyin": "dào"
-      }
-    ]
-  },
-  {
-    "sentence_text": "180 万 人口 这 样子 今天 7 、 80 万人",
-    "translations": {
-      "en": "A population of 1.8 million back then, now just 700,000 to 800,000."
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 826480,
@@ -23135,7 +23517,15 @@
         "startTime": 828620,
         "endTime": 828820,
         "pinyin": "zi"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "今天 7 、 80 万人 哎 感觉 还是 挺 唏嘘 的",
+    "translations": {
+      "en": "Now it's 700,000 or 800,000—it's really quite sad."
+    },
+    "segments": [
       {
         "token": "今",
         "startTime": 828820,
@@ -23183,15 +23573,7 @@
         "startTime": 830340,
         "endTime": 830760,
         "pinyin": "rén"
-      }
-    ]
-  },
-  {
-    "sentence_text": "哎 感觉 还是 挺 唏嘘 的",
-    "translations": {
-      "en": "Ah, it really feels quite poignant."
-    },
-    "segments": [
+      },
       {
         "token": "哎",
         "startTime": 830760,
@@ -23249,9 +23631,9 @@
     ]
   },
   {
-    "sentence_text": "因为 其实 我 很 E min ent",
+    "sentence_text": "因为 其实 我 很 E min ent 我 很 喜欢 母爷 你们 都 知道 了",
     "translations": {
-      "en": "Because actually, I'm quite eminent."
+      "en": "Because, you know, I'm a huge Eminem fan—I love him, as you all know."
     },
     "segments": [
       {
@@ -23331,15 +23713,7 @@
         "startTime": 833693,
         "endTime": 833740,
         "pinyin": "t"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我 很 喜欢 母爷 你们 都 知道 了",
-    "translations": {
-      "en": "You all know I really like Eminem."
-    },
-    "segments": [
+      },
       {
         "token": "我",
         "startTime": 833740,
@@ -23405,21 +23779,21 @@
         "startTime": 835550,
         "endTime": 835920,
         "pinyin": "dào"
+      },
+      {
+        "token": "了",
+        "startTime": 835920,
+        "endTime": 835920,
+        "pinyin": "le"
       }
     ]
   },
   {
     "sentence_text": "母爷 呢 就 是从 这个 城市 走 出去 的",
     "translations": {
-      "en": "Eminem is from this city."
+      "en": "Eminem came from this city."
     },
     "segments": [
-      {
-        "token": "了",
-        "startTime": 835920,
-        "endTime": 835920,
-        "pinyin": "le"
-      },
       {
         "token": "母",
         "startTime": 835920,
@@ -23509,7 +23883,7 @@
   {
     "sentence_text": "当然 换个 角度 想 如果 这个 城市 不是 不是 还 在 做 工人 好",
     "translations": {
-      "en": "Of course, looking at it from another angle, if this city hadn't kept working as a factory town..."
+      "en": "Of course, looking at it differently, if the city hadn't still been stuck in its industrial past..."
     },
     "segments": [
       {
@@ -23655,7 +24029,7 @@
   {
     "sentence_text": "那 剩下 的 这些 披萨 呢 我 准备 把 它们 带 去 一个 特殊 的 地方",
     "translations": {
-      "en": "As for the remaining pizza, I plan to take it to a special place."
+      "en": "As for the remaining pizza, I'm going to take it to a special place."
     },
     "segments": [
       {
@@ -23801,7 +24175,15 @@
         "startTime": 847810,
         "endTime": 848000,
         "pinyin": "fāng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "然后 呢 我们 去 到 那边 呢",
+    "translations": {
+      "en": "Then, once we get there,"
+    },
+    "segments": [
       {
         "token": "然",
         "startTime": 848000,
@@ -23843,15 +24225,7 @@
         "startTime": 849500,
         "endTime": 849620,
         "pinyin": "dào"
-      }
-    ]
-  },
-  {
-    "sentence_text": "然后 呢 我们 去 到 那边 呢",
-    "translations": {
-      "en": "Then, when we get there..."
-    },
-    "segments": [
+      },
       {
         "token": "那",
         "startTime": 849620,
@@ -23875,7 +24249,7 @@
   {
     "sentence_text": "今天 的 这个 视频 的 结尾 呢 就要 带 你们 来到 一个 我 觉得 非常 有 意义 的 地方",
     "translations": {
-      "en": "At the end of today's video, I want to bring you to a place I find very meaningful."
+      "en": "at the end of today's video, I'll take you to a place I find very meaningful."
     },
     "segments": [
       {
@@ -24051,15 +24425,7 @@
         "startTime": 863140,
         "endTime": 863300,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我 现在 所站 的 这个 地方 是 帕卡德 汽车 工厂 的 废墟",
-    "translations": {
-      "en": "The place I'm standing now is the ruins of the Packard Automotive Plant."
-    },
-    "segments": [
+      },
       {
         "token": "地",
         "startTime": 863300,
@@ -24071,7 +24437,15 @@
         "startTime": 863300,
         "endTime": 863300,
         "pinyin": "fāng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 现在 所站 的 这个 地方 是 帕卡德 汽车 工厂 的 废墟",
+    "translations": {
+      "en": "Right now, I'm standing at the ruins of the Packard Automotive Plant."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 863300,
@@ -24203,7 +24577,7 @@
   {
     "sentence_text": "帕卡德 汽车 呢 我 相信 我们 这边 很多 人 从来 都 没有 听说 过 对 吧",
     "translations": {
-      "en": "I believe many of us here have never heard of Packard, right?"
+      "en": "I'm sure many of you have never heard of Packard, right?"
     },
     "segments": [
       {
@@ -24531,21 +24905,21 @@
         "startTime": 876920,
         "endTime": 877160,
         "pinyin": "shī"
-      }
-    ]
-  },
-  {
-    "sentence_text": "但是 在 当年 在 它 最 辉煌 的 时候",
-    "translations": {
-      "en": "But back in its heyday..."
-    },
-    "segments": [
+      },
       {
         "token": "了",
         "startTime": 877160,
         "endTime": 877160,
         "pinyin": "le"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "但是 在 当年 在 它 最 辉煌 的 时候 它 曾经 是 美国 最 顶尖 的 豪华车 品",
+    "translations": {
+      "en": "But back in its heyday, it was America's top luxury car brand."
+    },
+    "segments": [
       {
         "token": "但",
         "startTime": 877160,
@@ -24605,15 +24979,7 @@
         "startTime": 879910,
         "endTime": 880100,
         "pinyin": "huáng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "它 曾经 是 美国 最 顶尖 的 豪华车 品",
-    "translations": {
-      "en": "It was once America's top luxury car brand."
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 880100,
@@ -24713,23 +25079,23 @@
       {
         "token": "品",
         "startTime": 882800,
-        "endTime": 883485,
-        "pinyin": "pǐn"
-      },
-      {
-        "token": "在",
-        "startTime": 883485,
         "endTime": 884170,
-        "pinyin": "zài"
+        "pinyin": "pǐn"
       }
     ]
   },
   {
-    "sentence_text": "在 它 巅峰 的 时候 呢 这个 工厂 的 成绩 有 4 万贵",
+    "sentence_text": "在 它 巅峰 的 时候 呢 这个 工厂 的 成绩 有 4 万贵 生产 了 将近 160 万辆 豪华 的 帕 卡特 汽车",
     "translations": {
-      "en": "At its peak, this factory employed 40,000 workers."
+      "en": "At its peak, this factory employed 40,000 workers and produced nearly 1.6 million luxurious Packard cars."
     },
     "segments": [
+      {
+        "token": "在",
+        "startTime": 884170,
+        "endTime": 885540,
+        "pinyin": "zài"
+      },
       {
         "token": "它",
         "startTime": 885540,
@@ -24782,7 +25148,7 @@
         "token": "个",
         "startTime": 887410,
         "endTime": 887540,
-        "pinyin": "ge"
+        "pinyin": "gè"
       },
       {
         "token": "工",
@@ -24837,15 +25203,7 @@
         "startTime": 888910,
         "endTime": 889140,
         "pinyin": "guì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "生产 了 将近 160 万辆 豪华 的 帕 卡特 汽车",
-    "translations": {
-      "en": "Producing nearly 1.6 million luxury Packard cars."
-    },
-    "segments": [
+      },
       {
         "token": "生",
         "startTime": 889140,
@@ -24957,9 +25315,9 @@
     ]
   },
   {
-    "sentence_text": "当 你 坐在 废弃 的 底特律 汽车 工厂 门口",
+    "sentence_text": "当 你 坐在 废弃 的 底特律 汽车 工厂 门口 打开 了 这份 19 46 年 的 披萨",
     "translations": {
-      "en": "When you sit at the entrance of an abandoned Detroit auto plant..."
+      "en": "Sitting at the entrance of this abandoned Detroit car factory, opening this 1946 pizza,"
     },
     "segments": [
       {
@@ -25057,15 +25415,7 @@
         "startTime": 895770,
         "endTime": 896200,
         "pinyin": "kǒu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "打开 了 这份 19 46 年 的 披萨",
-    "translations": {
-      "en": "And open this pizza from 1946..."
-    },
-    "segments": [
+      },
       {
         "token": "打",
         "startTime": 896200,
@@ -25149,7 +25499,7 @@
   {
     "sentence_text": "时间 仿佛 又 穿梭 80 年前 那个 最 辉煌 的 底特律 的 黄金时代",
     "translations": {
-      "en": "Time seems to travel back 80 years to the golden age of Detroit's greatest glory."
+      "en": "time seems to warp back 80 years to Detroit's golden age of glory."
     },
     "segments": [
       {
@@ -25305,9 +25655,9 @@
     ]
   },
   {
-    "sentence_text": "你 只 听 耳边 除了 有 风声 之外",
+    "sentence_text": "你 只 听 耳边 除了 有 风声 之外 仿佛 还 能 听见 那个 时代 存在 的 回响",
     "translations": {
-      "en": "You hear nothing but the wind in your ears"
+      "en": "Besides the wind, you can almost hear the echoes of that era."
     },
     "segments": [
       {
@@ -25381,15 +25731,7 @@
         "startTime": 906660,
         "endTime": 907060,
         "pinyin": "wài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "仿佛 还 能 听见 那个 时代 存在 的 回响",
-    "translations": {
-      "en": "as if you can still hear the echoes of that era."
-    },
-    "segments": [
+      },
       {
         "token": "仿",
         "startTime": 907060,
@@ -25485,7 +25827,7 @@
   {
     "sentence_text": "好 吧 这 就 给 我们 这 期 视频 的 全部 介绍",
     "translations": {
-      "en": "Alright, that's all for this episode."
+      "en": "Alright, that's all for this video."
     },
     "segments": [
       {
@@ -25583,59 +25925,21 @@
         "startTime": 912110,
         "endTime": 912200,
         "pinyin": "shào"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我 是 俊 小周 喜欢 我们 视频 记得 给 我们 视频 一键 三连",
+    "translations": {
+      "en": "I'm Jun Xiaozhou. If you like our videos, remember to give us a one-click triple support."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 912200,
-        "endTime": 912457,
-        "pinyin": "wǒ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我 是 俊 小周",
-    "translations": {
-      "en": "I'm Jun Xiaozhou."
-    },
-    "segments": [
-      {
-        "token": "我",
-        "startTime": 912457,
-        "endTime": 912497,
+        "endTime": 912680,
         "pinyin": "wǒ"
       },
-      {
-        "token": "是",
-        "startTime": 912497,
-        "endTime": 912538,
-        "pinyin": "shì"
-      },
-      {
-        "token": "俊",
-        "startTime": 912538,
-        "endTime": 912579,
-        "pinyin": "jùn"
-      },
-      {
-        "token": "小",
-        "startTime": 912579,
-        "endTime": 912619,
-        "pinyin": "xiǎo"
-      },
-      {
-        "token": "周",
-        "startTime": 912619,
-        "endTime": 912660,
-        "pinyin": "zhōu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "喜欢 我们 视频 记得 给 我们 视频 一键 三连",
-    "translations": {
-      "en": "If you like our videos, remember to give us a one-click triple like."
-    },
-    "segments": [
       {
         "token": "是",
         "startTime": 912680,
@@ -25767,7 +26071,7 @@
   {
     "sentence_text": "下期 再见 拜拜",
     "translations": {
-      "en": "See you next time, bye!"
+      "en": "See you next time. Bye!"
     },
     "segments": [
       {
@@ -25809,45 +26113,154 @@
     ]
   },
   {
-    "sentence_text": "Yo Yo Television Series",
+    "sentence_text": "Yo Yo Television Series Exc lusive",
     "translations": {
-      "en": "Yo Yo Television Series"
+      "en": "Yo Yo Television Series Exclusive"
     },
     "segments": [
       {
-        "token": "Yo",
+        "token": "Y",
         "startTime": 920800,
+        "endTime": 920810
+      },
+      {
+        "token": "o",
+        "startTime": 920810,
         "endTime": 920820
       },
       {
-        "token": "Yo",
+        "token": "Y",
         "startTime": 920820,
+        "endTime": 920830
+      },
+      {
+        "token": "o",
+        "startTime": 920830,
         "endTime": 920840
       },
       {
-        "token": "Television",
+        "token": "T",
         "startTime": 920840,
+        "endTime": 920842
+      },
+      {
+        "token": "e",
+        "startTime": 920842,
+        "endTime": 920844
+      },
+      {
+        "token": "l",
+        "startTime": 920844,
+        "endTime": 920846
+      },
+      {
+        "token": "e",
+        "startTime": 920846,
+        "endTime": 920848
+      },
+      {
+        "token": "v",
+        "startTime": 920848,
+        "endTime": 920850
+      },
+      {
+        "token": "i",
+        "startTime": 920850,
+        "endTime": 920852
+      },
+      {
+        "token": "s",
+        "startTime": 920852,
+        "endTime": 920854
+      },
+      {
+        "token": "i",
+        "startTime": 920854,
+        "endTime": 920856
+      },
+      {
+        "token": "o",
+        "startTime": 920856,
+        "endTime": 920858
+      },
+      {
+        "token": "n",
+        "startTime": 920858,
         "endTime": 920860
       },
       {
-        "token": "Series",
+        "token": "S",
         "startTime": 920860,
-        "endTime": 920880
-      }
-    ]
-  },
-  {
-    "sentence_text": "Exc lusive",
-    "translations": {},
-    "segments": [
+        "endTime": 920863
+      },
       {
-        "token": "Exc",
+        "token": "e",
+        "startTime": 920863,
+        "endTime": 920867
+      },
+      {
+        "token": "r",
+        "startTime": 920867,
+        "endTime": 920870
+      },
+      {
+        "token": "i",
+        "startTime": 920870,
+        "endTime": 920873
+      },
+      {
+        "token": "e",
+        "startTime": 920873,
+        "endTime": 920877
+      },
+      {
+        "token": "s",
+        "startTime": 920877,
+        "endTime": 920880
+      },
+      {
+        "token": "E",
         "startTime": 920880,
+        "endTime": 920887
+      },
+      {
+        "token": "x",
+        "startTime": 920887,
+        "endTime": 920893
+      },
+      {
+        "token": "c",
+        "startTime": 920893,
         "endTime": 920900
       },
       {
-        "token": "lusive",
+        "token": "l",
         "startTime": 920900,
+        "endTime": 920903
+      },
+      {
+        "token": "u",
+        "startTime": 920903,
+        "endTime": 920907
+      },
+      {
+        "token": "s",
+        "startTime": 920907,
+        "endTime": 920910
+      },
+      {
+        "token": "i",
+        "startTime": 920910,
+        "endTime": 920913
+      },
+      {
+        "token": "v",
+        "startTime": 920913,
+        "endTime": 920917
+      },
+      {
+        "token": "e",
+        "startTime": 920917,
         "endTime": 920920
       }
     ]
