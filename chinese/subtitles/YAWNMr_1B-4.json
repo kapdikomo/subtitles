@@ -388,7 +388,7 @@
   {
     "sentence_text": "第四 题 下雨 了 女孩 打开 紫色 的 雨伞",
     "translations": {
-      "en": "Question 4: It's raining, and the girl opens a purple umbrella."
+      "en": "Question 4: It's raining, the girl opens a purple umbrella."
     },
     "segments": [
       {
@@ -602,7 +602,7 @@
   {
     "sentence_text": "第六 题 我 的 肚子饿 了 我 想 吃 汉堡包",
     "translations": {
-      "en": "Question 6: I'm hungry and I want to eat a hamburger."
+      "en": "Question 6: I'm hungry, I want to eat a hamburger."
     },
     "segments": [
       {
@@ -700,7 +700,7 @@
   {
     "sentence_text": "第七 题 今天天气 很 好 动物 们 在 草地 上 看书 。",
     "translations": {
-      "en": "Question 7: The weather is nice today, and the animals are reading on the grass."
+      "en": "Question 7: The weather is nice today, animals are reading on the grass."
     },
     "segments": [
       {
@@ -822,7 +822,7 @@
   {
     "sentence_text": "第八 题 弟弟 很 喜欢 音乐 , 他 在 弹琴 。",
     "translations": {
-      "en": "Question 8: My little brother loves music; he is playing the piano."
+      "en": "Question 8: Little brother loves music, he is playing the piano."
     },
     "segments": [
       {
@@ -926,7 +926,7 @@
   {
     "sentence_text": "第九 题 他 的 尾巴 很长 , 他 没有 脚 。",
     "translations": {
-      "en": "Question 9: Its tail is very long, and it has no feet."
+      "en": "Question 9: Its tail is very long, it has no feet."
     },
     "segments": [
       {
@@ -1024,7 +1024,7 @@
   {
     "sentence_text": "第十 题 它 是 黄色 的 人们 把 它 戴 在 头上",
     "translations": {
-      "en": "Question 10: It is yellow and people wear it on their heads."
+      "en": "Question 10: It is yellow, people wear it on their heads."
     },
     "segments": [
       {
@@ -1128,7 +1128,7 @@
   {
     "sentence_text": "第十一 题 它 的 形状 是 长方形 上面 有 一枚 邮票 。",
     "translations": {
-      "en": "Question 11: Its shape is rectangular, and there is a stamp on it."
+      "en": "Question 11: Its shape is rectangular, there is a stamp on it."
     },
     "segments": [
       {
@@ -1358,9 +1358,9 @@
     ]
   },
   {
-    "sentence_text": "地上",
+    "sentence_text": "地上 第十三 题 他 的 头上 有 皇冠 他 的 脸上 有 胡子",
     "translations": {
-      "en": "On the ground."
+      "en": "Question 13: On the ground, he has a crown on his head and a beard on his face."
     },
     "segments": [
       {
@@ -1374,15 +1374,7 @@
         "startTime": 244165,
         "endTime": 249115,
         "pinyin": "shàng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "第十三 题 他 的 头上 有 皇冠 他 的 脸上 有 胡子",
-    "translations": {
-      "en": "Question 13: He has a crown on his head and a beard on his face."
-    },
-    "segments": [
+      },
       {
         "token": "第",
         "startTime": 249115,
@@ -1496,7 +1488,7 @@
   {
     "sentence_text": "第十四 题 这 是 一种 食物 它 被 切成 八块",
     "translations": {
-      "en": "Question 14: This is a kind of food that is cut into eight pieces."
+      "en": "Question 14: This is a food, it is cut into eight pieces."
     },
     "segments": [
       {
@@ -1600,7 +1592,7 @@
   {
     "sentence_text": "第十五 题 春天 到 了 小蜜蜂",
     "translations": {
-      "en": "Question 15: Spring has come, and the little bee..."
+      "en": "Question 15: Spring has come, little bee..."
     },
     "segments": [
       {
