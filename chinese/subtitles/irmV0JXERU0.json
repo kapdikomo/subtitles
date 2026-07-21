@@ -52,7 +52,7 @@
   {
     "sentence_text": "看着 东西 被 火苗 吞噬",
     "translations": {
-      "en": "Watching things get devoured by flames."
+      "en": "Watching things be devoured by flames,"
     },
     "segments": [
       {
@@ -114,7 +114,7 @@
   {
     "sentence_text": "烧焦 变形 会 给 人 一种 特殊 的 乐趣",
     "translations": {
-      "en": "The charring and distortion give a peculiar pleasure."
+      "en": "charred and deformed, gives a peculiar pleasure."
     },
     "segments": [
       {
@@ -206,7 +206,7 @@
   {
     "sentence_text": "华氏 45 1 以 极乐 的 燃烧 开场",
     "translations": {
-      "en": "Fahrenheit 451 opens with a blissful burning."
+      "en": "Fahrenheit 451 opens with ecstatic burning."
     },
     "segments": [
       {
@@ -422,7 +422,7 @@
   {
     "sentence_text": "雷 布拉德 里 的 这部 小说 描写 了 一个 幻想 的 世界",
     "translations": {
-      "en": "This novel by Ray Bradbury depicts a fantasy world"
+      "en": "Ray Bradbury's novel depicts a fantasy world"
     },
     "segments": [
       {
@@ -742,7 +742,7 @@
   {
     "sentence_text": "主角 蒙 塔格 是 一位 消防员",
     "translations": {
-      "en": "The protagonist Montag is a fireman"
+      "en": "The protagonist, Montag, is a fireman"
     },
     "segments": [
       {
@@ -1406,7 +1406,7 @@
   {
     "sentence_text": "几乎 消除 了 所有 独立思考 的 能力",
     "translations": {
-      "en": "On the subway, walls are covered with ads."
+      "en": "Subway walls are covered with advertisements."
     },
     "segments": [
       {
@@ -1498,7 +1498,7 @@
   {
     "sentence_text": "在 地铁 上 墙上 布满 了 广告",
     "translations": {
-      "en": "The subway walls are covered with advertisements"
+      "en": "The subway walls are covered with advertisements."
     },
     "segments": [
       {
@@ -1706,7 +1706,7 @@
   {
     "sentence_text": "而且 客厅 的 时候 蒙 塔格 的 同事 浑身 散发 着 没有 味",
     "translations": {
-      "en": "And in the living room, Montag's colleague reeks of no particular scent."
+      "en": "And in the living room, Montag's colleague reeks of no smell."
     },
     "segments": [
       {
@@ -1840,7 +1840,7 @@
   {
     "sentence_text": "他们 打发 时间 的 方式 是 抽烟",
     "translations": {
-      "en": "Their way of passing time is smoking."
+      "en": "Their way to pass the time is smoking."
     },
     "segments": [
       {
@@ -1988,7 +1988,7 @@
   {
     "sentence_text": "当 警报 响起 他们 就 会 冲 上荣 原型 车辆 出发",
     "translations": {
-      "en": "When the alarm sounds, they rush to the fire engine and set off."
+      "en": "When the alarm sounds, they rush to the beetle-like vehicle and set off."
     },
     "segments": [
       {
@@ -2104,7 +2104,7 @@
   {
     "sentence_text": "有时 要 把 整座 图书馆 烧毁",
     "translations": {
-      "en": "Sometimes they burn down entire libraries."
+      "en": "Sometimes they have to burn down entire libraries."
     },
     "segments": [
       {
@@ -2428,7 +2428,7 @@
   {
     "sentence_text": "渐渐 的 他 开始 怀疑 这份 工作 的 出发点",
     "translations": {
-      "en": "Gradually, he begins to question the purpose of his job."
+      "en": "Gradually, he begins to question the purpose of this job."
     },
     "segments": [
       {
@@ -2532,7 +2532,7 @@
   {
     "sentence_text": "蒙 塔格 发现 他 总是 感觉 不自在",
     "translations": {
-      "en": "Montag finds that he always feels uneasy."
+      "en": "Montag finds himself always feeling uneasy."
     },
     "segments": [
       {
@@ -2618,7 +2618,7 @@
   {
     "sentence_text": "但是 他 无法 总结 出 描述 自己 感受 的 文字",
     "translations": {
-      "en": "But he cannot find the words to describe his feelings,"
+      "en": "But he cannot find words to describe his feelings."
     },
     "segments": [
       {
@@ -2728,7 +2728,7 @@
   {
     "sentence_text": "因为 这是 一个 念出 很久很久 以前 就 可能 招来 杀生 之祸 的 社会",
     "translations": {
-      "en": "because this is a society where speaking out long ago could bring death."
+      "en": "Because this is a society where speaking words from long ago could bring death."
     },
     "segments": [
       {
@@ -3042,13 +3042,13 @@
       {
         "token": "社",
         "startTime": 117480,
-        "endTime": 117846,
+        "endTime": 117950,
         "pinyin": "shè"
       },
       {
         "token": "会",
-        "startTime": 117846,
-        "endTime": 118212,
+        "startTime": 117950,
+        "endTime": 118420,
         "pinyin": "huì"
       }
     ]
@@ -3140,19 +3140,19 @@
       {
         "token": "预",
         "startTime": 120820,
-        "endTime": 121000,
+        "endTime": 121053,
         "pinyin": "yù"
       },
       {
         "token": "见",
-        "startTime": 121000,
-        "endTime": 121180,
+        "startTime": 121053,
+        "endTime": 121287,
         "pinyin": "jiàn"
       },
       {
         "token": "性",
-        "startTime": 121180,
-        "endTime": 121360,
+        "startTime": 121287,
+        "endTime": 121520,
         "pinyin": "xìng"
       }
     ]
@@ -3258,7 +3258,7 @@
   {
     "sentence_text": "小说 在 19 53 年 出版 《 政治 冷战 的 时代 》",
     "translations": {
-      "en": "The novel was published in 1953, during the Cold War era."
+      "en": "The novel was published in 1953, during the political Cold War era."
     },
     "segments": [
       {
@@ -3582,7 +3582,7 @@
   {
     "sentence_text": "对于 信息 的 管制 以及 残酷 的 政府 调查 则 使得 情况 变得 更糟",
     "translations": {
-      "en": "The control of information and harsh government investigations made things worse,"
+      "en": "The control of information and harsh government investigations made things worse."
     },
     "segments": [
       {
@@ -3740,7 +3740,7 @@
   {
     "sentence_text": "特别 是 存在 一种 猎物 心态",
     "translations": {
-      "en": "especially with a prevailing predator mentality."
+      "en": "Especially with a mentality of persecution."
     },
     "segments": [
       {
@@ -4530,7 +4530,7 @@
   {
     "sentence_text": "这 本书 名字 就是 纸张 燃烧 时 的 温度",
     "translations": {
-      "en": "The book's title refers to the temperature at which paper burns"
+      "en": "The book's title is the temperature at which paper burns"
     },
     "segments": [
       {
@@ -4848,7 +4848,7 @@
   {
     "sentence_text": "反 乌托邦 小说 放大 了 我们 周遭事物 的 负面 特征",
     "translations": {
-      "en": "Dystopian fiction amplifies the negative traits of the world around us"
+      "en": "Dystopian fiction amplifies the negative aspects of our surroundings"
     },
     "segments": [
       {
@@ -4976,7 +4976,7 @@
   {
     "sentence_text": "并 想象 这种 特征 登峰造极 之 时 可能 会 产生 的 后果",
     "translations": {
-      "en": "And imagines the consequences when those traits reach their peak"
+      "en": "And imagines the consequences if those traits were taken to their extreme"
     },
     "segments": [
       {
@@ -5184,7 +5184,7 @@
   {
     "sentence_text": "政府 会 对 有 反对 意见 的 对象 施加 约束",
     "translations": {
-      "en": "The government imposes constraints on dissenters"
+      "en": "The government imposes restrictions on dissenting voices"
     },
     "segments": [
       {
@@ -5354,35 +5354,35 @@
       {
         "token": "裡",
         "startTime": 194920,
-        "endTime": 194978,
-        "pinyin": "lǐ"
-      },
-      {
-        "token": "蒙",
-        "startTime": 194978,
-        "endTime": 195035,
-        "pinyin": "méng"
-      },
-      {
-        "token": "塔",
-        "startTime": 195035,
-        "endTime": 195092,
-        "pinyin": "tǎ"
-      },
-      {
-        "token": "哥",
-        "startTime": 195092,
         "endTime": 195150,
-        "pinyin": "gē"
+        "pinyin": "lǐ"
       }
     ]
   },
   {
     "sentence_text": "蒙塔哥 發現 其實 是 多數 人 的 冷漠 讓 當局 得以 掌權",
     "translations": {
-      "en": "Montag discovers it's actually the apathy of the majority that allows the authorities to hold power"
+      "en": "Montag discovers that it is the apathy of the majority that allows the authorities to hold power"
     },
     "segments": [
+      {
+        "token": "蒙",
+        "startTime": 195150,
+        "endTime": 195380,
+        "pinyin": "méng"
+      },
+      {
+        "token": "塔",
+        "startTime": 195380,
+        "endTime": 195610,
+        "pinyin": "tǎ"
+      },
+      {
+        "token": "哥",
+        "startTime": 195610,
+        "endTime": 195840,
+        "pinyin": "gē"
+      },
       {
         "token": "發",
         "startTime": 195840,
@@ -5496,7 +5496,7 @@
   {
     "sentence_text": "政府 只是 利用 了 人們 注意力 集中 時間 較 短 的 特徵",
     "translations": {
-      "en": "The government merely exploits people's short attention spans"
+      "en": "The government simply exploits people's short attention spans"
     },
     "segments": [
       {
@@ -6012,7 +6012,7 @@
   {
     "sentence_text": "比如说 蒙塔阁 的 老板 笔提 队长 是 这样 描述 大众文化 的",
     "translations": {
-      "en": "For example, Captain Beatty, the boss of Montag, describes mass culture like this:"
+      "en": "For instance, Captain Beatty of the Montag crew describes mass culture like this:"
     },
     "segments": [
       {
@@ -6212,9 +6212,9 @@
     ]
   },
   {
-    "sentence_text": "蒙塔阁 快 咔嚓 看 瞧 换 画面 这儿 那儿 快 走 夺步",
+    "sentence_text": "蒙塔阁 快 咔嚓 看 瞧 换 画面",
     "translations": {
-      "en": "Montag, quick, snap, look, switch scenes, here, there, fast, step, step."
+      "en": "Montag, quick, look, switch the scene."
     },
     "segments": [
       {
@@ -6282,7 +6282,15 @@
         "startTime": 227070,
         "endTime": 227220,
         "pinyin": "miàn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这儿 那儿 快 走 夺步",
+    "translations": {
+      "en": "Here, there, fast, grab, step."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 227220,
@@ -6322,21 +6330,21 @@
       {
         "token": "夺",
         "startTime": 229020,
-        "endTime": 229276,
+        "endTime": 229360,
         "pinyin": "duó"
       },
       {
         "token": "步",
-        "startTime": 229276,
-        "endTime": 229531,
+        "startTime": 229360,
+        "endTime": 229700,
         "pinyin": "bù"
       }
     ]
   },
   {
-    "sentence_text": "为什么 如何 水 什么 哪儿 烟 呃 砰 啪 咚 乒 砰 轰",
+    "sentence_text": "为什么 如何 水 什么 哪儿 烟",
     "translations": {
-      "en": "Why, how, what, where, smoke, uh, bang, pop, thump, ping, boom."
+      "en": "Why, how, water, what, where, smoke."
     },
     "segments": [
       {
@@ -6404,7 +6412,15 @@
         "startTime": 231940,
         "endTime": 231980,
         "pinyin": "yān"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "呃 砰 啪 咚 乒 砰 轰",
+    "translations": {
+      "en": "Uh, bang, pop, thud, ping, boom."
+    },
+    "segments": [
       {
         "token": "呃",
         "startTime": 231980,
@@ -6550,7 +6566,7 @@
   {
     "sentence_text": "政治 一则 专栏 两行 字句 一个 标题",
     "translations": {
-      "en": "Politics: one column, two lines of text, a headline."
+      "en": "Politics: one column, two lines, a headline."
     },
     "segments": [
       {
@@ -6642,7 +6658,7 @@
   {
     "sentence_text": "然后 半空中 全 消失 了",
     "translations": {
-      "en": "Then, in midair, it all vanishes."
+      "en": "Then it all vanishes midair."
     },
     "segments": [
       {
@@ -6758,14 +6774,8 @@
       {
         "token": "中",
         "startTime": 244960,
-        "endTime": 245115,
-        "pinyin": "zhōng"
-      },
-      {
-        "token": "蒙",
-        "startTime": 245115,
         "endTime": 245270,
-        "pinyin": "méng"
+        "pinyin": "zhōng"
       }
     ]
   },
@@ -6775,6 +6785,12 @@
       "en": "Montag understands that when there's nothing to hold onto,"
     },
     "segments": [
+      {
+        "token": "蒙",
+        "startTime": 245270,
+        "endTime": 245580,
+        "pinyin": "méng"
+      },
       {
         "token": "塔",
         "startTime": 245580,
@@ -7092,7 +7108,7 @@
   {
     "sentence_text": "这 本书 也 是 一个 预言 故事",
     "translations": {
-      "en": "This book is also a prophetic story,"
+      "en": "This book is also a cautionary tale,"
     },
     "segments": [
       {
@@ -7166,7 +7182,7 @@
   {
     "sentence_text": "说明 社会 也 是 使 它 自己 燃烧 的 共犯 之一",
     "translations": {
-      "en": "showing that society is complicit in its own burning."
+      "en": "showing that society is an accomplice in its own burning."
     },
     "segments": [
       {
@@ -7382,7 +7398,7 @@
   {
     "sentence_text": "每周 新鲜 视频",
     "translations": {
-      "en": "Fresh videos every week."
+      "en": "Fresh videos every week"
     },
     "segments": [
       {
@@ -7426,7 +7442,7 @@
   {
     "sentence_text": "你 可以 从 猫 的 视角 纵观 世界史",
     "translations": {
-      "en": "You can view world history from a cat's perspective."
+      "en": "You can view world history from a cat's perspective"
     },
     "segments": [
       {
@@ -7512,7 +7528,7 @@
   {
     "sentence_text": "也 可以 了解 如何 更好 倾听",
     "translations": {
-      "en": "You can also learn how to listen better"
+      "en": "Or learn how to listen better"
     },
     "segments": [
       {
@@ -7586,7 +7602,7 @@
   {
     "sentence_text": "还有 更 多 内容",
     "translations": {
-      "en": "There's more to come"
+      "en": "And much more"
     },
     "segments": [
       {
@@ -7674,7 +7690,7 @@
   {
     "sentence_text": "永保 探索 热情",
     "translations": {
-      "en": "Keep the passion for exploration alive"
+      "en": "Keep exploring with passion"
     },
     "segments": [
       {
