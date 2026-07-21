@@ -1,154 +1,502 @@
 [
   {
-    "sentence_text": "请",
+    "sentence_text": "嗨 大家 好 , 我们 又 见面 了",
     "translations": {
-      "en": "Please"
+      "en": "Hi everyone, we meet again."
     },
     "segments": [
       {
-        "token": "请",
-        "startTime": 6540,
-        "endTime": 21120,
-        "pinyin": "qǐng"
+        "token": "嗨",
+        "startTime": 6493,
+        "endTime": 6644,
+        "pinyin": "hāi"
+      },
+      {
+        "token": "大",
+        "startTime": 6644,
+        "endTime": 6795,
+        "pinyin": "dà"
+      },
+      {
+        "token": "家",
+        "startTime": 6795,
+        "endTime": 6946,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "好",
+        "startTime": 6946,
+        "endTime": 7097,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": ",",
+        "startTime": 7097,
+        "endTime": 7248,
+        "pinyin": ","
+      },
+      {
+        "token": "我",
+        "startTime": 7248,
+        "endTime": 7398,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "们",
+        "startTime": 7398,
+        "endTime": 7549,
+        "pinyin": "men"
+      },
+      {
+        "token": "又",
+        "startTime": 7549,
+        "endTime": 7700,
+        "pinyin": "yòu"
+      },
+      {
+        "token": "见",
+        "startTime": 7700,
+        "endTime": 7851,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "面",
+        "startTime": 7851,
+        "endTime": 8002,
+        "pinyin": "miàn"
+      },
+      {
+        "token": "了",
+        "startTime": 8002,
+        "endTime": 8153,
+        "pinyin": "le"
       }
     ]
   },
   {
-    "sentence_text": "不吝 点赞",
+    "sentence_text": "在 今天 最新 的 视频 当中 呢",
     "translations": {
-      "en": "don't hesitate"
+      "en": "In today's latest video,"
     },
     "segments": [
       {
+        "token": "在",
+        "startTime": 9193,
+        "endTime": 9402,
+        "pinyin": "zài"
+      },
+      {
+        "token": "今",
+        "startTime": 9402,
+        "endTime": 9611,
+        "pinyin": "jīn"
+      },
+      {
+        "token": "天",
+        "startTime": 9611,
+        "endTime": 9821,
+        "pinyin": "tiān"
+      },
+      {
+        "token": "最",
+        "startTime": 9821,
+        "endTime": 10030,
+        "pinyin": "zuì"
+      },
+      {
+        "token": "新",
+        "startTime": 10030,
+        "endTime": 10239,
+        "pinyin": "xīn"
+      },
+      {
+        "token": "的",
+        "startTime": 10239,
+        "endTime": 10448,
+        "pinyin": "de"
+      },
+      {
+        "token": "视",
+        "startTime": 10448,
+        "endTime": 10658,
+        "pinyin": "shì"
+      },
+      {
+        "token": "频",
+        "startTime": 10658,
+        "endTime": 10867,
+        "pinyin": "pín"
+      },
+      {
+        "token": "当",
+        "startTime": 10867,
+        "endTime": 11076,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "中",
+        "startTime": 11076,
+        "endTime": 11285,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "呢",
+        "startTime": 11285,
+        "endTime": 11495,
+        "pinyin": "ne"
+      }
+    ]
+  },
+  {
+    "sentence_text": "我会 继续 用 可 理解 性 输入 的 方式",
+    "translations": {
+      "en": "I'll continue using comprehensible input"
+    },
+    "segments": [
+      {
+        "token": "我",
+        "startTime": 11495,
+        "endTime": 11704,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "会",
+        "startTime": 11704,
+        "endTime": 11913,
+        "pinyin": "huì"
+      },
+      {
+        "token": "继",
+        "startTime": 11913,
+        "endTime": 12275,
+        "pinyin": "jì"
+      },
+      {
+        "token": "续",
+        "startTime": 12275,
+        "endTime": 12637,
+        "pinyin": "xù"
+      },
+      {
+        "token": "用",
+        "startTime": 12637,
+        "endTime": 12999,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "可",
+        "startTime": 12999,
+        "endTime": 13361,
+        "pinyin": "kě"
+      },
+      {
+        "token": "理",
+        "startTime": 13361,
+        "endTime": 13723,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "解",
+        "startTime": 13723,
+        "endTime": 14085,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "性",
+        "startTime": 14085,
+        "endTime": 14447,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "输",
+        "startTime": 14447,
+        "endTime": 14809,
+        "pinyin": "shū"
+      },
+      {
+        "token": "入",
+        "startTime": 14809,
+        "endTime": 15171,
+        "pinyin": "rù"
+      },
+      {
+        "token": "的",
+        "startTime": 15171,
+        "endTime": 15533,
+        "pinyin": "de"
+      },
+      {
+        "token": "方",
+        "startTime": 15533,
+        "endTime": 15816,
+        "pinyin": "fāng"
+      },
+      {
+        "token": "式",
+        "startTime": 15816,
+        "endTime": 16099,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "教 你 一些 地道 的 中文 表达",
+    "translations": {
+      "en": "to teach you some authentic Chinese expressions."
+    },
+    "segments": [
+      {
+        "token": "教",
+        "startTime": 16099,
+        "endTime": 16382,
+        "pinyin": "jiào"
+      },
+      {
+        "token": "你",
+        "startTime": 16382,
+        "endTime": 16665,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "一",
+        "startTime": 16665,
+        "endTime": 16948,
+        "pinyin": "yī"
+      },
+      {
+        "token": "些",
+        "startTime": 16948,
+        "endTime": 17231,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "地",
+        "startTime": 17231,
+        "endTime": 17515,
+        "pinyin": "dì"
+      },
+      {
+        "token": "道",
+        "startTime": 17515,
+        "endTime": 17798,
+        "pinyin": "dào"
+      },
+      {
+        "token": "的",
+        "startTime": 17798,
+        "endTime": 18081,
+        "pinyin": "de"
+      },
+      {
+        "token": "中",
+        "startTime": 18081,
+        "endTime": 18364,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "文",
+        "startTime": 18364,
+        "endTime": 18647,
+        "pinyin": "wén"
+      },
+      {
+        "token": "表",
+        "startTime": 18647,
+        "endTime": 18930,
+        "pinyin": "biǎo"
+      },
+      {
+        "token": "达",
+        "startTime": 18930,
+        "endTime": 19213,
+        "pinyin": "dá"
+      }
+    ]
+  },
+  {
+    "sentence_text": "那 可 理解 性 输入 呢",
+    "translations": {
+      "en": "Comprehensible input"
+    },
+    "segments": [
+      {
+        "token": "那",
+        "startTime": 20493,
+        "endTime": 20757,
+        "pinyin": "nà"
+      },
+      {
+        "token": "可",
+        "startTime": 20757,
+        "endTime": 21020,
+        "pinyin": "kě"
+      },
+      {
+        "token": "理",
+        "startTime": 21020,
+        "endTime": 21284,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "解",
+        "startTime": 21284,
+        "endTime": 21548,
+        "pinyin": "jiě"
+      },
+      {
+        "token": "性",
+        "startTime": 21548,
+        "endTime": 21811,
+        "pinyin": "xìng"
+      },
+      {
+        "token": "输",
+        "startTime": 21811,
+        "endTime": 22075,
+        "pinyin": "shū"
+      },
+      {
+        "token": "入",
+        "startTime": 22075,
+        "endTime": 22338,
+        "pinyin": "rù"
+      },
+      {
+        "token": "呢",
+        "startTime": 22338,
+        "endTime": 22602,
+        "pinyin": "ne"
+      }
+    ]
+  },
+  {
+    "sentence_text": "就是 让 你 不用 枯燥 的 记 单词 记 语法",
+    "translations": {
+      "en": "means you don't have to memorize words or grammar in a boring way."
+    },
+    "segments": [
+      {
+        "token": "就",
+        "startTime": 22602,
+        "endTime": 22866,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "是",
+        "startTime": 22866,
+        "endTime": 23129,
+        "pinyin": "shì"
+      },
+      {
+        "token": "让",
+        "startTime": 23129,
+        "endTime": 23393,
+        "pinyin": "ràng"
+      },
+      {
+        "token": "你",
+        "startTime": 23393,
+        "endTime": 23767,
+        "pinyin": "nǐ"
+      },
+      {
         "token": "不",
-        "startTime": 21120,
-        "endTime": 22870,
+        "startTime": 23767,
+        "endTime": 24141,
         "pinyin": "bù"
       },
       {
-        "token": "吝",
-        "startTime": 22870,
-        "endTime": 24620,
-        "pinyin": "lìn"
+        "token": "用",
+        "startTime": 24141,
+        "endTime": 24515,
+        "pinyin": "yòng"
       },
       {
-        "token": "点",
-        "startTime": 24620,
-        "endTime": 25450,
-        "pinyin": "diǎn"
+        "token": "枯",
+        "startTime": 24515,
+        "endTime": 24889,
+        "pinyin": "kū"
       },
       {
-        "token": "赞",
-        "startTime": 25450,
-        "endTime": 26280,
-        "pinyin": "zàn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "订阅 转发 打赏 支持 明镜 与 点点 栏目",
-    "translations": {
-      "en": "to like, subscribe, share, tip, and support Mingjing"
-    },
-    "segments": [
-      {
-        "token": "订",
-        "startTime": 27020,
-        "endTime": 27250,
-        "pinyin": "dìng"
+        "token": "燥",
+        "startTime": 24889,
+        "endTime": 25263,
+        "pinyin": "zào"
       },
       {
-        "token": "阅",
-        "startTime": 27250,
-        "endTime": 27480,
-        "pinyin": "yuè"
+        "token": "的",
+        "startTime": 25263,
+        "endTime": 25637,
+        "pinyin": "de"
       },
       {
-        "token": "转",
-        "startTime": 27480,
-        "endTime": 27510,
-        "pinyin": "zhuǎn"
+        "token": "记",
+        "startTime": 25637,
+        "endTime": 26011,
+        "pinyin": "jì"
       },
       {
-        "token": "发",
-        "startTime": 27510,
-        "endTime": 27540,
-        "pinyin": "fā"
+        "token": "单",
+        "startTime": 26011,
+        "endTime": 26385,
+        "pinyin": "dān"
       },
       {
-        "token": "打",
-        "startTime": 27540,
-        "endTime": 27560,
-        "pinyin": "dǎ"
+        "token": "词",
+        "startTime": 26385,
+        "endTime": 26759,
+        "pinyin": "cí"
       },
       {
-        "token": "赏",
-        "startTime": 27560,
-        "endTime": 27580,
-        "pinyin": "shǎng"
+        "token": "记",
+        "startTime": 26759,
+        "endTime": 27133,
+        "pinyin": "jì"
       },
       {
-        "token": "支",
-        "startTime": 27580,
-        "endTime": 27590,
-        "pinyin": "zhī"
-      },
-      {
-        "token": "持",
-        "startTime": 27590,
-        "endTime": 27600,
-        "pinyin": "chí"
-      },
-      {
-        "token": "明",
-        "startTime": 27600,
-        "endTime": 27620,
-        "pinyin": "míng"
-      },
-      {
-        "token": "镜",
-        "startTime": 27620,
-        "endTime": 27640,
-        "pinyin": "jìng"
-      },
-      {
-        "token": "与",
-        "startTime": 27640,
-        "endTime": 27660,
+        "token": "语",
+        "startTime": 27133,
+        "endTime": 27333,
         "pinyin": "yǔ"
       },
       {
-        "token": "点",
-        "startTime": 27660,
-        "endTime": 27680,
-        "pinyin": "diǎn"
-      },
-      {
-        "token": "点",
-        "startTime": 27680,
-        "endTime": 27700,
-        "pinyin": "diǎn"
-      },
-      {
-        "token": "栏",
-        "startTime": 27700,
-        "endTime": 27720,
-        "pinyin": "lán"
-      },
-      {
-        "token": "目",
-        "startTime": 27720,
-        "endTime": 27740,
-        "pinyin": "mù"
+        "token": "法",
+        "startTime": 27333,
+        "endTime": 27533,
+        "pinyin": "fǎ"
       }
     ]
   },
   {
-    "sentence_text": "反复 的 观看 我 的 视频",
+    "sentence_text": "你 只 需要 反复 的 观看 我 的 视频",
     "translations": {
-      "en": "and Dian Dian. Watch my"
+      "en": "You just need to watch my videos repeatedly."
     },
     "segments": [
+      {
+        "token": "你",
+        "startTime": 28673,
+        "endTime": 28873,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "只",
+        "startTime": 28873,
+        "endTime": 29073,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "需",
+        "startTime": 29073,
+        "endTime": 29273,
+        "pinyin": "xū"
+      },
+      {
+        "token": "要",
+        "startTime": 29273,
+        "endTime": 29473,
+        "pinyin": "yào"
+      },
       {
         "token": "反",
         "startTime": 30300,
@@ -206,9 +554,9 @@
     ]
   },
   {
-    "sentence_text": "先看 先",
+    "sentence_text": "先看 先 听 然后 呢",
     "translations": {
-      "en": "video"
+      "en": "First watch and listen, then"
     },
     "segments": [
       {
@@ -226,17 +574,9 @@
       {
         "token": "先",
         "startTime": 36080,
-        "endTime": 36660,
+        "endTime": 37520,
         "pinyin": "xiān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "听 然后 呢 再 跟着 我 一起 重复",
-    "translations": {
-      "en": "repeatedly—first watch, then listen, then repeat after"
-    },
-    "segments": [
+      },
       {
         "token": "听",
         "startTime": 37520,
@@ -260,7 +600,15 @@
         "startTime": 38580,
         "endTime": 39260,
         "pinyin": "ne"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "再 跟着 我 一起 重复 的 说",
+    "translations": {
+      "en": "repeat after me out loud."
+    },
+    "segments": [
       {
         "token": "再",
         "startTime": 39260,
@@ -308,15 +656,7 @@
         "startTime": 42060,
         "endTime": 43120,
         "pinyin": "fù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "的 说 这样 反复 几次 之后 呢 你",
-    "translations": {
-      "en": "me. After doing this a few"
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 43120,
@@ -328,7 +668,15 @@
         "startTime": 43360,
         "endTime": 43460,
         "pinyin": "shuō"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这样 反复 几次 之后 呢",
+    "translations": {
+      "en": "After doing this a few times,"
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 43460,
@@ -382,21 +730,21 @@
         "startTime": 45580,
         "endTime": 45780,
         "pinyin": "ne"
-      },
-      {
-        "token": "你",
-        "startTime": 45780,
-        "endTime": 46020,
-        "pinyin": "nǐ"
       }
     ]
   },
   {
-    "sentence_text": "就 会 轻松 的 愉快 的 掌握 这些",
+    "sentence_text": "你 就 会 轻松 的 愉快 的 掌握",
     "translations": {
-      "en": "times, you'll easily and happily master these"
+      "en": "you'll easily and happily master"
     },
     "segments": [
+      {
+        "token": "你",
+        "startTime": 45780,
+        "endTime": 47220,
+        "pinyin": "nǐ"
+      },
       {
         "token": "就",
         "startTime": 47220,
@@ -456,7 +804,15 @@
         "startTime": 49380,
         "endTime": 49540,
         "pinyin": "wò"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 简单 的 中文 表达",
+    "translations": {
+      "en": "these simple Chinese expressions."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 49540,
@@ -468,35 +824,19 @@
         "startTime": 49840,
         "endTime": 50140,
         "pinyin": "xiē"
-      }
-    ]
-  },
-  {
-    "sentence_text": "简单",
-    "translations": {
-      "en": "simple"
-    },
-    "segments": [
+      },
       {
         "token": "简",
         "startTime": 50140,
-        "endTime": 50340,
+        "endTime": 50800,
         "pinyin": "jiǎn"
       },
       {
         "token": "单",
-        "startTime": 50340,
-        "endTime": 50540,
+        "startTime": 50800,
+        "endTime": 51460,
         "pinyin": "dān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "的 中文 表达 那 今天 我们 C ity",
-    "translations": {
-      "en": "Chinese expressions. Today, we are in the city."
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 51460,
@@ -526,7 +866,15 @@
         "startTime": 52280,
         "endTime": 52400,
         "pinyin": "dá"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "那 今天 我们 C ity Walk 这里",
+    "translations": {
+      "en": "Today we're on a city walk here."
+    },
+    "segments": [
       {
         "token": "那",
         "startTime": 52400,
@@ -580,26 +928,31 @@
         "startTime": 53753,
         "endTime": 53800,
         "pinyin": "y"
-      }
-    ]
-  },
-  {
-    "sentence_text": "Walk",
-    "translations": {},
-    "segments": [
+      },
       {
-        "token": "Walk",
+        "token": "W",
         "startTime": 53800,
-        "endTime": 53980
-      }
-    ]
-  },
-  {
-    "sentence_text": "这里 我们 可以 看到 很多 的 广告牌",
-    "translations": {
-      "en": "Here we can see many billboards. This"
-    },
-    "segments": [
+        "endTime": 54345,
+        "pinyin": "W"
+      },
+      {
+        "token": "a",
+        "startTime": 54345,
+        "endTime": 54890,
+        "pinyin": "a"
+      },
+      {
+        "token": "l",
+        "startTime": 54890,
+        "endTime": 55435,
+        "pinyin": "l"
+      },
+      {
+        "token": "k",
+        "startTime": 55435,
+        "endTime": 55980,
+        "pinyin": "k"
+      },
       {
         "token": "这",
         "startTime": 55980,
@@ -611,7 +964,15 @@
         "startTime": 56070,
         "endTime": 56160,
         "pinyin": "lǐ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 可以 看到 很多 的 广告牌",
+    "translations": {
+      "en": "We can see many billboards."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 56160,
@@ -669,27 +1030,27 @@
       {
         "token": "广",
         "startTime": 57200,
-        "endTime": 57513,
+        "endTime": 58227,
         "pinyin": "guǎng"
       },
       {
         "token": "告",
-        "startTime": 57513,
-        "endTime": 57827,
+        "startTime": 58227,
+        "endTime": 59253,
         "pinyin": "gào"
       },
       {
         "token": "牌",
-        "startTime": 57827,
-        "endTime": 58140,
+        "startTime": 59253,
+        "endTime": 60280,
         "pinyin": "pái"
       }
     ]
   },
   {
-    "sentence_text": "这个 是 广告牌",
+    "sentence_text": "这个 是 广告牌 广告牌",
     "translations": {
-      "en": "is a billboard."
+      "en": "This is a billboard. Billboard."
     },
     "segments": [
       {
@@ -713,45 +1074,37 @@
       {
         "token": "广",
         "startTime": 60800,
-        "endTime": 61460,
+        "endTime": 62093,
         "pinyin": "guǎng"
       },
       {
         "token": "告",
-        "startTime": 61460,
-        "endTime": 62120,
+        "startTime": 62093,
+        "endTime": 63387,
         "pinyin": "gào"
       },
       {
         "token": "牌",
-        "startTime": 62120,
-        "endTime": 62780,
+        "startTime": 63387,
+        "endTime": 64680,
         "pinyin": "pái"
-      }
-    ]
-  },
-  {
-    "sentence_text": "广告牌",
-    "translations": {
-      "en": "A trash"
-    },
-    "segments": [
+      },
       {
         "token": "广",
         "startTime": 64680,
-        "endTime": 65033,
+        "endTime": 66287,
         "pinyin": "guǎng"
       },
       {
         "token": "告",
-        "startTime": 65033,
-        "endTime": 65387,
+        "startTime": 66287,
+        "endTime": 67893,
         "pinyin": "gào"
       },
       {
         "token": "牌",
-        "startTime": 65387,
-        "endTime": 65740,
+        "startTime": 67893,
+        "endTime": 69500,
         "pinyin": "pái"
       }
     ]
@@ -759,7 +1112,7 @@
   {
     "sentence_text": "垃圾桶 Tr ash Can 垃圾桶",
     "translations": {
-      "en": "can. We learned about trash cans last"
+      "en": "Trash can. Trash can."
     },
     "segments": [
       {
@@ -831,19 +1184,19 @@
       {
         "token": "垃",
         "startTime": 71180,
-        "endTime": 71420,
+        "endTime": 71633,
         "pinyin": "lā"
       },
       {
         "token": "圾",
-        "startTime": 71420,
-        "endTime": 71660,
+        "startTime": 71633,
+        "endTime": 72087,
         "pinyin": "jī"
       },
       {
         "token": "桶",
-        "startTime": 71660,
-        "endTime": 71900,
+        "startTime": 72087,
+        "endTime": 72540,
         "pinyin": "tǒng"
       }
     ]
@@ -851,7 +1204,7 @@
   {
     "sentence_text": "我们 上次 学过 的 垃圾桶",
     "translations": {
-      "en": "time. This is the busiest"
+      "en": "We learned 'trash can' last time."
     },
     "segments": [
       {
@@ -899,19 +1252,19 @@
       {
         "token": "垃",
         "startTime": 73540,
-        "endTime": 73987,
+        "endTime": 74807,
         "pinyin": "lā"
       },
       {
         "token": "圾",
-        "startTime": 73987,
-        "endTime": 74433,
+        "startTime": 74807,
+        "endTime": 76073,
         "pinyin": "jī"
       },
       {
         "token": "桶",
-        "startTime": 74433,
-        "endTime": 74880,
+        "startTime": 76073,
+        "endTime": 77340,
         "pinyin": "tǒng"
       }
     ]
@@ -919,7 +1272,7 @@
   {
     "sentence_text": "这是 这个 城市 最 繁华 的 市中心",
     "translations": {
-      "en": "city center. We call this place"
+      "en": "This is the busiest downtown area of the city."
     },
     "segments": [
       {
@@ -985,19 +1338,19 @@
       {
         "token": "市",
         "startTime": 79380,
-        "endTime": 79787,
+        "endTime": 80087,
         "pinyin": "shì"
       },
       {
         "token": "中",
-        "startTime": 79787,
-        "endTime": 80193,
+        "startTime": 80087,
+        "endTime": 80793,
         "pinyin": "zhōng"
       },
       {
         "token": "心",
-        "startTime": 80193,
-        "endTime": 80600,
+        "startTime": 80793,
+        "endTime": 81500,
         "pinyin": "xīn"
       }
     ]
@@ -1005,7 +1358,7 @@
   {
     "sentence_text": "我们 把 这个 地方 叫 市中心",
     "translations": {
-      "en": "the city center, which is the"
+      "en": "We call this place 'downtown'."
     },
     "segments": [
       {
@@ -1059,19 +1412,19 @@
       {
         "token": "市",
         "startTime": 82720,
-        "endTime": 83207,
+        "endTime": 83827,
         "pinyin": "shì"
       },
       {
         "token": "中",
-        "startTime": 83207,
-        "endTime": 83693,
+        "startTime": 83827,
+        "endTime": 84933,
         "pinyin": "zhōng"
       },
       {
         "token": "心",
-        "startTime": 83693,
-        "endTime": 84180,
+        "startTime": 84933,
+        "endTime": 86040,
         "pinyin": "xīn"
       }
     ]
@@ -1079,7 +1432,7 @@
   {
     "sentence_text": "就是 一个 城市 的 中心地带",
     "translations": {
-      "en": "central area of a city."
+      "en": "It's the central area of a city."
     },
     "segments": [
       {
@@ -1127,33 +1480,33 @@
       {
         "token": "中",
         "startTime": 87360,
-        "endTime": 87700,
+        "endTime": 87865,
         "pinyin": "zhōng"
       },
       {
         "token": "心",
-        "startTime": 87700,
-        "endTime": 88040,
+        "startTime": 87865,
+        "endTime": 88370,
         "pinyin": "xīn"
       },
       {
         "token": "地",
-        "startTime": 88040,
-        "endTime": 88380,
+        "startTime": 88370,
+        "endTime": 88875,
         "pinyin": "dì"
       },
       {
         "token": "带",
-        "startTime": 88380,
-        "endTime": 88720,
+        "startTime": 88875,
+        "endTime": 89380,
         "pinyin": "dài"
       }
     ]
   },
   {
-    "sentence_text": "人 最 多 最 繁华 的 地方 叫做",
+    "sentence_text": "人 最 多 最 繁华 的 地方 叫做 市中心",
     "translations": {
-      "en": "The place with the most people and"
+      "en": "The most crowded and bustling place is called the city center."
     },
     "segments": [
       {
@@ -1221,39 +1574,31 @@
         "startTime": 92550,
         "endTime": 93120,
         "pinyin": "zuò"
-      }
-    ]
-  },
-  {
-    "sentence_text": "市中心",
-    "translations": {
-      "en": "the busiest"
-    },
-    "segments": [
+      },
       {
         "token": "市",
         "startTime": 93120,
-        "endTime": 93553,
+        "endTime": 94353,
         "pinyin": "shì"
       },
       {
         "token": "中",
-        "startTime": 93553,
-        "endTime": 93987,
+        "startTime": 94353,
+        "endTime": 95587,
         "pinyin": "zhōng"
       },
       {
         "token": "心",
-        "startTime": 93987,
-        "endTime": 94420,
+        "startTime": 95587,
+        "endTime": 96820,
         "pinyin": "xīn"
       }
     ]
   },
   {
-    "sentence_text": "我们 在 等待",
+    "sentence_text": "我们 在 等待 等待 红绿灯",
     "translations": {
-      "en": "is called the city"
+      "en": "We are waiting, waiting for the traffic light."
     },
     "segments": [
       {
@@ -1277,23 +1622,15 @@
       {
         "token": "等",
         "startTime": 97340,
-        "endTime": 98030,
+        "endTime": 98380,
         "pinyin": "děng"
       },
       {
         "token": "待",
-        "startTime": 98030,
-        "endTime": 98720,
+        "startTime": 98380,
+        "endTime": 99420,
         "pinyin": "dài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "等待 红绿灯",
-    "translations": {
-      "en": "center. We are"
-    },
-    "segments": [
+      },
       {
         "token": "等",
         "startTime": 99420,
@@ -1309,65 +1646,27 @@
       {
         "token": "红",
         "startTime": 99940,
-        "endTime": 100587,
+        "endTime": 102447,
         "pinyin": "hóng"
       },
       {
         "token": "绿",
-        "startTime": 100587,
-        "endTime": 101233,
+        "startTime": 102447,
+        "endTime": 104953,
         "pinyin": "lǜ"
       },
       {
         "token": "灯",
-        "startTime": 101233,
-        "endTime": 101880,
+        "startTime": 104953,
+        "endTime": 107460,
         "pinyin": "dēng"
       }
     ]
   },
   {
-    "sentence_text": "等待 红绿灯",
+    "sentence_text": "好 现在 开始 过 马路",
     "translations": {
-      "en": "waiting for the traffic"
-    },
-    "segments": [
-      {
-        "token": "等",
-        "startTime": 103560,
-        "endTime": 104036,
-        "pinyin": "děng"
-      },
-      {
-        "token": "待",
-        "startTime": 104036,
-        "endTime": 104512,
-        "pinyin": "dài"
-      },
-      {
-        "token": "红",
-        "startTime": 104512,
-        "endTime": 104988,
-        "pinyin": "hóng"
-      },
-      {
-        "token": "绿",
-        "startTime": 104988,
-        "endTime": 105464,
-        "pinyin": "lǜ"
-      },
-      {
-        "token": "灯",
-        "startTime": 105464,
-        "endTime": 105940,
-        "pinyin": "dēng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "好 现在 开始",
-    "translations": {
-      "en": "light. Now we"
+      "en": "Okay, now start crossing the street."
     },
     "segments": [
       {
@@ -1391,23 +1690,15 @@
       {
         "token": "开",
         "startTime": 108920,
-        "endTime": 109170,
+        "endTime": 109560,
         "pinyin": "kāi"
       },
       {
         "token": "始",
-        "startTime": 109170,
-        "endTime": 109420,
+        "startTime": 109560,
+        "endTime": 110200,
         "pinyin": "shǐ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "过 马路",
-    "translations": {
-      "en": "start crossing"
-    },
-    "segments": [
+      },
       {
         "token": "过",
         "startTime": 110200,
@@ -1417,47 +1708,21 @@
       {
         "token": "马",
         "startTime": 110460,
-        "endTime": 110830,
+        "endTime": 112630,
         "pinyin": "mǎ"
       },
       {
         "token": "路",
-        "startTime": 110830,
-        "endTime": 111200,
+        "startTime": 112630,
+        "endTime": 114800,
         "pinyin": "lù"
       }
     ]
   },
   {
-    "sentence_text": "过 马路",
+    "sentence_text": "他们 在 过 马路",
     "translations": {
-      "en": "the street."
-    },
-    "segments": [
-      {
-        "token": "过",
-        "startTime": 112160,
-        "endTime": 112473,
-        "pinyin": "guò"
-      },
-      {
-        "token": "马",
-        "startTime": 112473,
-        "endTime": 112787,
-        "pinyin": "mǎ"
-      },
-      {
-        "token": "路",
-        "startTime": 112787,
-        "endTime": 113100,
-        "pinyin": "lù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "他们 在",
-    "translations": {
-      "en": "They are"
+      "en": "They are crossing the street."
     },
     "segments": [
       {
@@ -1475,17 +1740,9 @@
       {
         "token": "在",
         "startTime": 115020,
-        "endTime": 115440,
+        "endTime": 117320,
         "pinyin": "zài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "过 马路",
-    "translations": {
-      "en": "crossing"
-    },
-    "segments": [
+      },
       {
         "token": "过",
         "startTime": 117320,
@@ -1495,13 +1752,13 @@
       {
         "token": "马",
         "startTime": 117640,
-        "endTime": 118060,
+        "endTime": 118500,
         "pinyin": "mǎ"
       },
       {
         "token": "路",
-        "startTime": 118060,
-        "endTime": 118480,
+        "startTime": 118500,
+        "endTime": 119360,
         "pinyin": "lù"
       }
     ]
@@ -1509,7 +1766,7 @@
   {
     "sentence_text": "很多 人 在 过 马路",
     "translations": {
-      "en": "the street. Many people"
+      "en": "Many people are crossing the street."
     },
     "segments": [
       {
@@ -1545,21 +1802,21 @@
       {
         "token": "马",
         "startTime": 122000,
-        "endTime": 122350,
+        "endTime": 122970,
         "pinyin": "mǎ"
       },
       {
         "token": "路",
-        "startTime": 122350,
-        "endTime": 122700,
+        "startTime": 122970,
+        "endTime": 123940,
         "pinyin": "lù"
       }
     ]
   },
   {
-    "sentence_text": "我们 在 过 马路",
+    "sentence_text": "我们 在 过 马路 过 马路 ,",
     "translations": {
-      "en": "are crossing the"
+      "en": "We are crossing the street, crossing the street."
     },
     "segments": [
       {
@@ -1589,23 +1846,15 @@
       {
         "token": "马",
         "startTime": 125220,
-        "endTime": 125650,
+        "endTime": 126360,
         "pinyin": "mǎ"
       },
       {
         "token": "路",
-        "startTime": 125650,
-        "endTime": 126080,
+        "startTime": 126360,
+        "endTime": 127500,
         "pinyin": "lù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "过 马路 , 很多 人 在 过",
-    "translations": {
-      "en": "street. We are crossing the"
-    },
-    "segments": [
+      },
       {
         "token": "过",
         "startTime": 127500,
@@ -1629,7 +1878,15 @@
         "startTime": 129120,
         "endTime": 129580,
         "pinyin": ","
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "很多 人 在 过 马路",
+    "translations": {
+      "en": "Many people are crossing the street."
+    },
+    "segments": [
       {
         "token": "很",
         "startTime": 129580,
@@ -1657,17 +1914,9 @@
       {
         "token": "过",
         "startTime": 130780,
-        "endTime": 131160,
+        "endTime": 136240,
         "pinyin": "guò"
-      }
-    ]
-  },
-  {
-    "sentence_text": "马路 这个 是",
-    "translations": {
-      "en": "street. The light"
-    },
-    "segments": [
+      },
       {
         "token": "马",
         "startTime": 136240,
@@ -1679,7 +1928,15 @@
         "startTime": 136360,
         "endTime": 136480,
         "pinyin": "lù"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 是 绿灯 就 可以 通过 这个 马路",
+    "translations": {
+      "en": "When it's green, you can cross the street."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 136480,
@@ -1695,17 +1952,9 @@
       {
         "token": "是",
         "startTime": 137400,
-        "endTime": 137780,
+        "endTime": 139380,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "绿灯 就 可以 通过 这个 马路",
-    "translations": {
-      "en": "is green, so we can cross."
-    },
-    "segments": [
+      },
       {
         "token": "绿",
         "startTime": 139380,
@@ -1763,21 +2012,21 @@
       {
         "token": "马",
         "startTime": 141420,
-        "endTime": 141650,
+        "endTime": 142180,
         "pinyin": "mǎ"
       },
       {
         "token": "路",
-        "startTime": 141650,
-        "endTime": 141880,
+        "startTime": 142180,
+        "endTime": 142940,
         "pinyin": "lù"
       }
     ]
   },
   {
-    "sentence_text": "我们 就 可以 走 过去",
+    "sentence_text": "我们 就 可以 走 过去 了",
     "translations": {
-      "en": "We can walk across."
+      "en": "Then we can walk across."
     },
     "segments": [
       {
@@ -1819,43 +2068,35 @@
       {
         "token": "过",
         "startTime": 143700,
-        "endTime": 143970,
+        "endTime": 144680,
         "pinyin": "guò"
       },
       {
         "token": "去",
-        "startTime": 143970,
-        "endTime": 144240,
+        "startTime": 144680,
+        "endTime": 145660,
         "pinyin": "qù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "了 走",
-    "translations": {
-      "en": "Let's"
-    },
-    "segments": [
+      },
       {
         "token": "了",
         "startTime": 145660,
         "endTime": 145700,
         "pinyin": "le"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "走 吧 也 叫做 人行道",
+    "translations": {
+      "en": "Let's go, it's also called the sidewalk."
+    },
+    "segments": [
       {
         "token": "走",
         "startTime": 145700,
         "endTime": 159180,
         "pinyin": "zǒu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "吧 也 叫做 人行道",
-    "translations": {
-      "en": "go. This is also"
-    },
-    "segments": [
+      },
       {
         "token": "吧",
         "startTime": 159180,
@@ -1901,9 +2142,9 @@
     ]
   },
   {
-    "sentence_text": "人行道 就是 人 行走 的",
+    "sentence_text": "人行道 就是 人 行走 的 道路",
     "translations": {
-      "en": "called a sidewalk. A sidewalk"
+      "en": "The sidewalk is the path for pedestrians."
     },
     "segments": [
       {
@@ -1957,17 +2198,9 @@
       {
         "token": "的",
         "startTime": 166220,
-        "endTime": 166500,
+        "endTime": 167240,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "道路 人 行走 的 道 叫 人行道",
-    "translations": {
-      "en": "is a path for people to"
-    },
-    "segments": [
+      },
       {
         "token": "道",
         "startTime": 167240,
@@ -1979,7 +2212,15 @@
         "startTime": 167610,
         "endTime": 167980,
         "pinyin": "lù"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "人 行走 的 道 叫 人行道",
+    "translations": {
+      "en": "The path for pedestrians is called the sidewalk."
+    },
+    "segments": [
       {
         "token": "人",
         "startTime": 167980,
@@ -2019,27 +2260,27 @@
       {
         "token": "人",
         "startTime": 170320,
-        "endTime": 170413,
+        "endTime": 170713,
         "pinyin": "rén"
       },
       {
         "token": "行",
-        "startTime": 170413,
-        "endTime": 170507,
+        "startTime": 170713,
+        "endTime": 171107,
         "pinyin": "xíng"
       },
       {
         "token": "道",
-        "startTime": 170507,
-        "endTime": 170600,
+        "startTime": 171107,
+        "endTime": 171500,
         "pinyin": "dào"
       }
     ]
   },
   {
-    "sentence_text": "OK 好 这里 呢 是",
+    "sentence_text": "OK 好 这里 呢 是 一个 小巷子",
     "translations": {
-      "en": "walk on. OK. Here"
+      "en": "Okay, here is a small alley."
     },
     "segments": [
       {
@@ -2083,20 +2324,12 @@
         "startTime": 174440,
         "endTime": 175060,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "一个 小巷子",
-    "translations": {
-      "en": "is a small"
-    },
-    "segments": [
+      },
       {
         "token": "一",
         "startTime": 175060,
         "endTime": 175220,
-        "pinyin": "yí"
+        "pinyin": "yī"
       },
       {
         "token": "个",
@@ -2107,27 +2340,27 @@
       {
         "token": "小",
         "startTime": 175380,
-        "endTime": 175940,
+        "endTime": 176447,
         "pinyin": "xiǎo"
       },
       {
         "token": "巷",
-        "startTime": 175940,
-        "endTime": 176500,
+        "startTime": 176447,
+        "endTime": 177513,
         "pinyin": "xiàng"
       },
       {
         "token": "子",
-        "startTime": 176500,
-        "endTime": 177060,
+        "startTime": 177513,
+        "endTime": 178580,
         "pinyin": "zi"
       }
     ]
   },
   {
-    "sentence_text": "巷子 就是 很窄 的 一条 路 叫做",
+    "sentence_text": "巷子 就是 很窄 的 一条 路 叫做 巷子",
     "translations": {
-      "en": "alley. An alley is a very narrow"
+      "en": "An alley is a very narrow road called an alley."
     },
     "segments": [
       {
@@ -2201,53 +2434,25 @@
         "startTime": 182650,
         "endTime": 182880,
         "pinyin": "zuò"
-      }
-    ]
-  },
-  {
-    "sentence_text": "巷子",
-    "translations": {
-      "en": "road."
-    },
-    "segments": [
+      },
       {
         "token": "巷",
         "startTime": 182880,
-        "endTime": 183630,
+        "endTime": 185250,
         "pinyin": "xiàng"
       },
       {
         "token": "子",
-        "startTime": 183630,
-        "endTime": 184380,
+        "startTime": 185250,
+        "endTime": 187620,
         "pinyin": "zi"
       }
     ]
   },
   {
-    "sentence_text": "巷子",
+    "sentence_text": "我们 继续 走 吧",
     "translations": {
-      "en": "Let's"
-    },
-    "segments": [
-      {
-        "token": "巷",
-        "startTime": 186180,
-        "endTime": 186460,
-        "pinyin": "xiàng"
-      },
-      {
-        "token": "子",
-        "startTime": 186460,
-        "endTime": 186740,
-        "pinyin": "zi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我们 继续 走 吧 可以 从 这里",
-    "translations": {
-      "en": "keep walking. We can cut through here."
+      "en": "Let's keep walking."
     },
     "segments": [
       {
@@ -2285,7 +2490,15 @@
         "startTime": 188080,
         "endTime": 190380,
         "pinyin": "ba"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "可以 从 这里 穿出去",
+    "translations": {
+      "en": "We can cut through here."
+    },
+    "segments": [
       {
         "token": "可",
         "startTime": 190380,
@@ -2307,23 +2520,15 @@
       {
         "token": "这",
         "startTime": 191040,
-        "endTime": 191260,
+        "endTime": 193400,
         "pinyin": "zhè"
       },
       {
         "token": "里",
-        "startTime": 191260,
-        "endTime": 191480,
+        "startTime": 193400,
+        "endTime": 195760,
         "pinyin": "lǐ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "穿出去 这个",
-    "translations": {
-      "en": "This is a"
-    },
-    "segments": [
+      },
       {
         "token": "穿",
         "startTime": 195760,
@@ -2341,27 +2546,27 @@
         "startTime": 196053,
         "endTime": 196200,
         "pinyin": "qù"
-      },
-      {
-        "token": "这",
-        "startTime": 196200,
-        "endTime": 196890,
-        "pinyin": "zhè"
-      },
-      {
-        "token": "个",
-        "startTime": 196890,
-        "endTime": 197580,
-        "pinyin": "ge"
       }
     ]
   },
   {
-    "sentence_text": "是 大楼 大楼 这里 我们 可以",
+    "sentence_text": "这个 是 大楼 大楼",
     "translations": {
-      "en": "big building. Here we can see the"
+      "en": "This is a big building, a big building."
     },
     "segments": [
+      {
+        "token": "这",
+        "startTime": 196200,
+        "endTime": 197830,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "个",
+        "startTime": 197830,
+        "endTime": 199460,
+        "pinyin": "ge"
+      },
       {
         "token": "是",
         "startTime": 199460,
@@ -2391,7 +2596,15 @@
         "startTime": 202090,
         "endTime": 202240,
         "pinyin": "lóu"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这里 我们 可以 看到 城市 的 新旧交替",
+    "translations": {
+      "en": "Here we can see the old and new of the city."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 202240,
@@ -2427,15 +2640,7 @@
         "startTime": 203140,
         "endTime": 203460,
         "pinyin": "yǐ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "看到 城市 的 新旧交替",
-    "translations": {
-      "en": "old and new parts of"
-    },
-    "segments": [
+      },
       {
         "token": "看",
         "startTime": 203460,
@@ -2493,9 +2698,9 @@
     ]
   },
   {
-    "sentence_text": "有 新 的 楼房 还有",
+    "sentence_text": "有 新 的 楼房 还有 旧 的 屋子",
     "translations": {
-      "en": "the city—new buildings and old"
+      "en": "There are new buildings and old houses."
     },
     "segments": [
       {
@@ -2539,15 +2744,7 @@
         "startTime": 213400,
         "endTime": 214620,
         "pinyin": "yǒu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "旧 的 屋子 这个",
-    "translations": {
-      "en": "houses. This is"
-    },
-    "segments": [
+      },
       {
         "token": "旧",
         "startTime": 214620,
@@ -2571,7 +2768,15 @@
         "startTime": 216920,
         "endTime": 217480,
         "pinyin": "zi"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 叫 南木 厅",
+    "translations": {
+      "en": "This is called Nanmu Hall."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 217480,
@@ -2583,15 +2788,7 @@
         "startTime": 218150,
         "endTime": 218820,
         "pinyin": "ge"
-      }
-    ]
-  },
-  {
-    "sentence_text": "叫 南木 厅 我们",
-    "translations": {
-      "en": "called Nanmu Hall. We"
-    },
-    "segments": [
+      },
       {
         "token": "叫",
         "startTime": 218820,
@@ -2615,7 +2812,15 @@
         "startTime": 219540,
         "endTime": 222320,
         "pinyin": "tīng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 中国 的 这个 古代 的 文字",
+    "translations": {
+      "en": "In ancient Chinese script"
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 222320,
@@ -2627,15 +2832,7 @@
         "startTime": 222490,
         "endTime": 222660,
         "pinyin": "men"
-      }
-    ]
-  },
-  {
-    "sentence_text": "中国 的 这个 古代 的 文字 比较 早期",
-    "translations": {
-      "en": "In ancient Chinese writing, early texts were"
-    },
-    "segments": [
+      },
       {
         "token": "中",
         "startTime": 222660,
@@ -2695,7 +2892,15 @@
         "startTime": 224790,
         "endTime": 225060,
         "pinyin": "zì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "比较 早期 的 文字 都 会 从 右往 左来 读",
+    "translations": {
+      "en": "early writing was read from right to left"
+    },
+    "segments": [
       {
         "token": "比",
         "startTime": 225060,
@@ -2719,15 +2924,7 @@
         "startTime": 226160,
         "endTime": 226720,
         "pinyin": "qī"
-      }
-    ]
-  },
-  {
-    "sentence_text": "的 文字",
-    "translations": {
-      "en": "read from"
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 226720,
@@ -2737,23 +2934,15 @@
       {
         "token": "文",
         "startTime": 227200,
-        "endTime": 227500,
+        "endTime": 227890,
         "pinyin": "wén"
       },
       {
         "token": "字",
-        "startTime": 227500,
-        "endTime": 227800,
+        "startTime": 227890,
+        "endTime": 228580,
         "pinyin": "zì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "都 会 从 右往",
-    "translations": {
-      "en": "right to left."
-    },
-    "segments": [
+      },
       {
         "token": "都",
         "startTime": 228580,
@@ -2775,23 +2964,15 @@
       {
         "token": "右",
         "startTime": 230200,
-        "endTime": 230800,
+        "endTime": 231340,
         "pinyin": "yòu"
       },
       {
         "token": "往",
-        "startTime": 230800,
-        "endTime": 231400,
+        "startTime": 231340,
+        "endTime": 232480,
         "pinyin": "wǎng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "左来 读 从",
-    "translations": {
-      "en": "This side"
-    },
-    "segments": [
+      },
       {
         "token": "左",
         "startTime": 232480,
@@ -2809,21 +2990,21 @@
         "startTime": 232780,
         "endTime": 232960,
         "pinyin": "dú"
-      },
-      {
-        "token": "从",
-        "startTime": 232960,
-        "endTime": 233180,
-        "pinyin": "cóng"
       }
     ]
   },
   {
-    "sentence_text": "右往 左读",
+    "sentence_text": "从右往 左读",
     "translations": {
-      "en": "is right,"
+      "en": "read from right to left"
     },
     "segments": [
+      {
+        "token": "从",
+        "startTime": 232960,
+        "endTime": 234260,
+        "pinyin": "cóng"
+      },
       {
         "token": "右",
         "startTime": 234260,
@@ -2839,21 +3020,21 @@
       {
         "token": "左",
         "startTime": 234640,
-        "endTime": 235000,
+        "endTime": 235580,
         "pinyin": "zuǒ"
       },
       {
         "token": "读",
-        "startTime": 235000,
-        "endTime": 235360,
+        "startTime": 235580,
+        "endTime": 236520,
         "pinyin": "dú"
       }
     ]
   },
   {
-    "sentence_text": "这边 是 右",
+    "sentence_text": "这边 是 右 这边 是 左",
     "translations": {
-      "en": "this side"
+      "en": "This side is right, this side is left"
     },
     "segments": [
       {
@@ -2877,37 +3058,21 @@
       {
         "token": "右",
         "startTime": 238320,
-        "endTime": 239040,
+        "endTime": 240460,
         "pinyin": "yòu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这边",
-    "translations": {
-      "en": "is"
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 240460,
-        "endTime": 240820,
+        "endTime": 241800,
         "pinyin": "zhè"
       },
       {
         "token": "边",
-        "startTime": 240820,
-        "endTime": 241180,
+        "startTime": 241800,
+        "endTime": 243140,
         "pinyin": "biān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "是 左",
-    "translations": {
-      "en": "left."
-    },
-    "segments": [
+      },
       {
         "token": "是",
         "startTime": 243140,
@@ -2917,15 +3082,15 @@
       {
         "token": "左",
         "startTime": 243520,
-        "endTime": 243940,
+        "endTime": 246200,
         "pinyin": "zuǒ"
       }
     ]
   },
   {
-    "sentence_text": "从右到左 桌子 桌子",
+    "sentence_text": "从右到左 桌子 桌子 桌子",
     "translations": {
-      "en": "From right to left."
+      "en": "From right to left: table, table, table"
     },
     "segments": [
       {
@@ -2967,23 +3132,15 @@
       {
         "token": "桌",
         "startTime": 248840,
-        "endTime": 249640,
+        "endTime": 250440,
         "pinyin": "zhuō"
       },
       {
         "token": "子",
-        "startTime": 249640,
-        "endTime": 250440,
+        "startTime": 250440,
+        "endTime": 252040,
         "pinyin": "zi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "桌子 这个 呢 是 椅子 椅子 我们",
-    "translations": {
-      "en": "Table. This is a chair. We"
-    },
-    "segments": [
+      },
       {
         "token": "桌",
         "startTime": 252040,
@@ -2995,7 +3152,15 @@
         "startTime": 252620,
         "endTime": 253200,
         "pinyin": "zi"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 呢 是 椅子 椅子",
+    "translations": {
+      "en": "This is a chair, chair"
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 253200,
@@ -3043,7 +3208,15 @@
         "startTime": 254640,
         "endTime": 254800,
         "pinyin": "zi"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 会 坐在 这个 椅子 上",
+    "translations": {
+      "en": "We sit on this chair"
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 254800,
@@ -3055,15 +3228,7 @@
         "startTime": 257720,
         "endTime": 260640,
         "pinyin": "men"
-      }
-    ]
-  },
-  {
-    "sentence_text": "会 坐在",
-    "translations": {
-      "en": "sit on"
-    },
-    "segments": [
+      },
       {
         "token": "会",
         "startTime": 260640,
@@ -3073,23 +3238,15 @@
       {
         "token": "坐",
         "startTime": 260880,
-        "endTime": 261240,
+        "endTime": 261750,
         "pinyin": "zuò"
       },
       {
         "token": "在",
-        "startTime": 261240,
-        "endTime": 261600,
+        "startTime": 261750,
+        "endTime": 262620,
         "pinyin": "zài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 椅子 上 这个",
-    "translations": {
-      "en": "this chair. This"
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 262620,
@@ -3119,7 +3276,15 @@
         "startTime": 264520,
         "endTime": 264940,
         "pinyin": "shàng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 是 镜子",
+    "translations": {
+      "en": "This is a mirror"
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 264940,
@@ -3131,15 +3296,7 @@
         "startTime": 266000,
         "endTime": 267060,
         "pinyin": "ge"
-      }
-    ]
-  },
-  {
-    "sentence_text": "是 镜子 它 正在 照镜子",
-    "translations": {
-      "en": "is a mirror. It is"
-    },
-    "segments": [
+      },
       {
         "token": "是",
         "startTime": 267060,
@@ -3157,7 +3314,15 @@
         "startTime": 267960,
         "endTime": 268560,
         "pinyin": "zi"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 正在 照镜子",
+    "translations": {
+      "en": "It is looking in the mirror"
+    },
+    "segments": [
       {
         "token": "它",
         "startTime": 268560,
@@ -3179,27 +3344,27 @@
       {
         "token": "照",
         "startTime": 269900,
-        "endTime": 270780,
+        "endTime": 271267,
         "pinyin": "zhào"
       },
       {
         "token": "镜",
-        "startTime": 270780,
-        "endTime": 271660,
+        "startTime": 271267,
+        "endTime": 272633,
         "pinyin": "jìng"
       },
       {
         "token": "子",
-        "startTime": 271660,
-        "endTime": 272540,
+        "startTime": 272633,
+        "endTime": 274000,
         "pinyin": "zi"
       }
     ]
   },
   {
-    "sentence_text": "它 在 照镜子",
+    "sentence_text": "它 在 照镜子 真 好看",
     "translations": {
-      "en": "looking in"
+      "en": "It looks nice in the mirror"
     },
     "segments": [
       {
@@ -3217,29 +3382,21 @@
       {
         "token": "照",
         "startTime": 274400,
-        "endTime": 274573,
+        "endTime": 277120,
         "pinyin": "zhào"
       },
       {
         "token": "镜",
-        "startTime": 274573,
-        "endTime": 274747,
+        "startTime": 277120,
+        "endTime": 279840,
         "pinyin": "jìng"
       },
       {
         "token": "子",
-        "startTime": 274747,
-        "endTime": 274920,
+        "startTime": 279840,
+        "endTime": 282560,
         "pinyin": "zi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "真 好看 vis itor center 这个 是 游客",
-    "translations": {
-      "en": "the mirror. It looks nice. Visitor center. This is a tourist"
-    },
-    "segments": [
+      },
       {
         "token": "真",
         "startTime": 282560,
@@ -3257,85 +3414,88 @@
         "startTime": 282820,
         "endTime": 282960,
         "pinyin": "kàn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "vis itor center",
+    "translations": {
+      "en": "visitor center"
+    },
+    "segments": [
       {
         "token": "v",
         "startTime": 282960,
-        "endTime": 283147,
-        "pinyin": "v"
+        "endTime": 283147
       },
       {
         "token": "i",
         "startTime": 283147,
-        "endTime": 283333,
-        "pinyin": "i"
+        "endTime": 283333
       },
       {
         "token": "s",
         "startTime": 283333,
-        "endTime": 283520,
-        "pinyin": "s"
+        "endTime": 283520
       },
       {
         "token": "i",
         "startTime": 283520,
-        "endTime": 283580,
-        "pinyin": "i"
+        "endTime": 283580
       },
       {
         "token": "t",
         "startTime": 283580,
-        "endTime": 283640,
-        "pinyin": "t"
+        "endTime": 283640
       },
       {
         "token": "o",
         "startTime": 283640,
-        "endTime": 283700,
-        "pinyin": "o"
+        "endTime": 283700
       },
       {
         "token": "r",
         "startTime": 283700,
-        "endTime": 283760,
-        "pinyin": "r"
+        "endTime": 283760
       },
       {
         "token": "c",
         "startTime": 283760,
-        "endTime": 283787,
-        "pinyin": "c"
+        "endTime": 283787
       },
       {
         "token": "e",
         "startTime": 283787,
-        "endTime": 283813,
-        "pinyin": "e"
+        "endTime": 283813
       },
       {
         "token": "n",
         "startTime": 283813,
-        "endTime": 283840,
-        "pinyin": "n"
+        "endTime": 283840
       },
       {
         "token": "t",
         "startTime": 283840,
-        "endTime": 283867,
-        "pinyin": "t"
+        "endTime": 283867
       },
       {
         "token": "e",
         "startTime": 283867,
-        "endTime": 283893,
-        "pinyin": "e"
+        "endTime": 283893
       },
       {
         "token": "r",
         "startTime": 283893,
-        "endTime": 283920,
-        "pinyin": "r"
-      },
+        "endTime": 283920
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 是 游客 中心",
+    "translations": {
+      "en": "This is the visitor center"
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 283920,
@@ -3346,7 +3506,7 @@
         "token": "个",
         "startTime": 284380,
         "endTime": 284840,
-        "pinyin": "gè"
+        "pinyin": "ge"
       },
       {
         "token": "是",
@@ -3365,33 +3525,25 @@
         "startTime": 285570,
         "endTime": 286060,
         "pinyin": "kè"
-      }
-    ]
-  },
-  {
-    "sentence_text": "中心",
-    "translations": {
-      "en": "center."
-    },
-    "segments": [
+      },
       {
         "token": "中",
         "startTime": 286060,
-        "endTime": 286580,
+        "endTime": 287230,
         "pinyin": "zhōng"
       },
       {
         "token": "心",
-        "startTime": 286580,
-        "endTime": 287100,
+        "startTime": 287230,
+        "endTime": 288400,
         "pinyin": "xīn"
       }
     ]
   },
   {
-    "sentence_text": "每 一个 景区 都 会 有 一个 游客",
+    "sentence_text": "每 一个 景区 都 会 有 一个 游客 中心",
     "translations": {
-      "en": "Every scenic spot has a"
+      "en": "Every scenic area has a visitor center"
     },
     "segments": [
       {
@@ -3465,25 +3617,17 @@
         "startTime": 291170,
         "endTime": 291900,
         "pinyin": "kè"
-      }
-    ]
-  },
-  {
-    "sentence_text": "中心",
-    "translations": {
-      "en": "tourist"
-    },
-    "segments": [
+      },
       {
         "token": "中",
         "startTime": 291900,
-        "endTime": 292580,
+        "endTime": 293770,
         "pinyin": "zhōng"
       },
       {
         "token": "心",
-        "startTime": 292580,
-        "endTime": 293260,
+        "startTime": 293770,
+        "endTime": 295640,
         "pinyin": "xīn"
       }
     ]
@@ -3491,7 +3635,7 @@
   {
     "sentence_text": "在 这里 我 看到 了 很多 老照片",
     "translations": {
-      "en": "center. Here I see"
+      "en": "Here I saw many old photos"
     },
     "segments": [
       {
@@ -3551,49 +3695,41 @@
       {
         "token": "老",
         "startTime": 296840,
-        "endTime": 297227,
+        "endTime": 297867,
         "pinyin": "lǎo"
       },
       {
         "token": "照",
-        "startTime": 297227,
-        "endTime": 297613,
+        "startTime": 297867,
+        "endTime": 298893,
         "pinyin": "zhào"
       },
       {
         "token": "片",
-        "startTime": 297613,
-        "endTime": 298000,
+        "startTime": 298893,
+        "endTime": 299920,
         "pinyin": "piān"
       }
     ]
   },
   {
-    "sentence_text": "照片",
+    "sentence_text": "照片 它 是 老照片",
     "translations": {
-      "en": "many"
+      "en": "The photos are old photos"
     },
     "segments": [
       {
         "token": "照",
         "startTime": 299920,
-        "endTime": 300310,
+        "endTime": 301190,
         "pinyin": "zhào"
       },
       {
         "token": "片",
-        "startTime": 300310,
-        "endTime": 300700,
+        "startTime": 301190,
+        "endTime": 302460,
         "pinyin": "piān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "它 是 老照片 就是 离 现在 时间",
-    "translations": {
-      "en": "old photos. These are"
-    },
-    "segments": [
+      },
       {
         "token": "它",
         "startTime": 302460,
@@ -3623,7 +3759,15 @@
         "startTime": 303707,
         "endTime": 304180,
         "pinyin": "piān"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "就是 离 现在 时间 很久以前 的 照片",
+    "translations": {
+      "en": "Photos taken a long time ago"
+    },
+    "segments": [
       {
         "token": "就",
         "startTime": 304180,
@@ -3665,15 +3809,7 @@
         "startTime": 306220,
         "endTime": 306520,
         "pinyin": "jiān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "很久以前 的 照片",
-    "translations": {
-      "en": "old photos—photos from"
-    },
-    "segments": [
+      },
       {
         "token": "很",
         "startTime": 306520,
@@ -3707,21 +3843,21 @@
       {
         "token": "照",
         "startTime": 309540,
-        "endTime": 309790,
+        "endTime": 310580,
         "pinyin": "zhào"
       },
       {
         "token": "片",
-        "startTime": 309790,
-        "endTime": 310040,
+        "startTime": 310580,
+        "endTime": 311620,
         "pinyin": "piān"
       }
     ]
   },
   {
-    "sentence_text": "这些 都 是 老照片",
+    "sentence_text": "这些 都 是 老照片 照片 ph oto",
     "translations": {
-      "en": "a long"
+      "en": "These are all old photos, photo"
     },
     "segments": [
       {
@@ -3764,16 +3900,8 @@
         "token": "片",
         "startTime": 316027,
         "endTime": 317100,
-        "pinyin": "piān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "照片 ph oto",
-    "translations": {
-      "en": "time ago. Photo."
-    },
-    "segments": [
+        "pinyin": "piàn"
+      },
       {
         "token": "照",
         "startTime": 317100,
@@ -3801,27 +3929,27 @@
       {
         "token": "o",
         "startTime": 318380,
-        "endTime": 318420,
+        "endTime": 318707,
         "pinyin": "o"
       },
       {
         "token": "t",
-        "startTime": 318420,
-        "endTime": 318460,
+        "startTime": 318707,
+        "endTime": 319033,
         "pinyin": "t"
       },
       {
         "token": "o",
-        "startTime": 318460,
-        "endTime": 318500,
+        "startTime": 319033,
+        "endTime": 319360,
         "pinyin": "o"
       }
     ]
   },
   {
-    "sentence_text": "这 条 街 有 很多 人 在 拍照",
+    "sentence_text": "这条 街 有 很多 人 在 拍照",
     "translations": {
-      "en": "This street has many people"
+      "en": "Many people are taking photos on this street"
     },
     "segments": [
       {
@@ -3875,43 +4003,35 @@
       {
         "token": "拍",
         "startTime": 321660,
-        "endTime": 322350,
+        "endTime": 323370,
         "pinyin": "pāi"
       },
       {
         "token": "照",
-        "startTime": 322350,
-        "endTime": 323040,
+        "startTime": 323370,
+        "endTime": 325080,
         "pinyin": "zhào"
       }
     ]
   },
   {
-    "sentence_text": "拍照",
+    "sentence_text": "拍照 这个 是 自住 照相馆",
     "translations": {
-      "en": "taking"
+      "en": "Taking photos, this is a self-service photo studio"
     },
     "segments": [
       {
         "token": "拍",
         "startTime": 325080,
-        "endTime": 325540,
+        "endTime": 325860,
         "pinyin": "pāi"
       },
       {
         "token": "照",
-        "startTime": 325540,
-        "endTime": 326000,
+        "startTime": 325860,
+        "endTime": 326640,
         "pinyin": "zhào"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 是 自 住 照相馆 就是",
-    "translations": {
-      "en": "photos. This is a self-service photo"
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 326640,
@@ -3959,7 +4079,15 @@
         "startTime": 328827,
         "endTime": 329180,
         "pinyin": "guǎn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "就是 拍照 的 地方",
+    "translations": {
+      "en": "A place for taking photos"
+    },
+    "segments": [
       {
         "token": "就",
         "startTime": 329180,
@@ -3971,15 +4099,7 @@
         "startTime": 330050,
         "endTime": 330920,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "拍照 的 地方",
-    "translations": {
-      "en": "studio, a place"
-    },
-    "segments": [
+      },
       {
         "token": "拍",
         "startTime": 330920,
@@ -4001,59 +4121,21 @@
       {
         "token": "地",
         "startTime": 332500,
-        "endTime": 332690,
+        "endTime": 334900,
         "pinyin": "dì"
       },
       {
         "token": "方",
-        "startTime": 332690,
-        "endTime": 332880,
+        "startTime": 334900,
+        "endTime": 337300,
         "pinyin": "fāng"
       }
     ]
   },
   {
-    "sentence_text": "拍照 的 地方",
+    "sentence_text": "他 就 很 喜欢 拍照",
     "translations": {
-      "en": "for taking"
-    },
-    "segments": [
-      {
-        "token": "拍",
-        "startTime": 334920,
-        "endTime": 335124,
-        "pinyin": "pāi"
-      },
-      {
-        "token": "照",
-        "startTime": 335124,
-        "endTime": 335328,
-        "pinyin": "zhào"
-      },
-      {
-        "token": "的",
-        "startTime": 335328,
-        "endTime": 335532,
-        "pinyin": "de"
-      },
-      {
-        "token": "地",
-        "startTime": 335532,
-        "endTime": 335736,
-        "pinyin": "dì"
-      },
-      {
-        "token": "方",
-        "startTime": 335736,
-        "endTime": 335940,
-        "pinyin": "fāng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "他 就 很 喜欢 拍照 我们 刚刚 就",
-    "translations": {
-      "en": "photos. He really likes taking photos. We"
+      "en": "He really likes taking photos."
     },
     "segments": [
       {
@@ -4097,7 +4179,15 @@
         "startTime": 337860,
         "endTime": 337860,
         "pinyin": "zhào"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 刚刚 就 拍 了 好看 的 照片",
+    "translations": {
+      "en": "We just took some nice photos."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 337860,
@@ -4127,15 +4217,7 @@
         "startTime": 338960,
         "endTime": 339080,
         "pinyin": "jiù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "拍 了 好看 的 照片",
-    "translations": {
-      "en": "just took some"
-    },
-    "segments": [
+      },
       {
         "token": "拍",
         "startTime": 339080,
@@ -4169,21 +4251,21 @@
       {
         "token": "照",
         "startTime": 340700,
-        "endTime": 340850,
+        "endTime": 342030,
         "pinyin": "zhào"
       },
       {
         "token": "片",
-        "startTime": 340850,
-        "endTime": 341000,
+        "startTime": 342030,
+        "endTime": 343360,
         "pinyin": "piān"
       }
     ]
   },
   {
-    "sentence_text": "这个 街区 有 很多 的 年轻人 年轻人",
+    "sentence_text": "这个 街区 有 很多 的 年轻人",
     "translations": {
-      "en": "nice photos. This area has many young people."
+      "en": "This neighborhood has a lot of young people."
     },
     "segments": [
       {
@@ -4251,7 +4333,15 @@
         "startTime": 345880,
         "endTime": 346340,
         "pinyin": "rén"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "年轻人 非常 喜欢 到 这个 街区 来 拍照",
+    "translations": {
+      "en": "Young people really like coming to this neighborhood to take photos."
+    },
+    "segments": [
       {
         "token": "年",
         "startTime": 346340,
@@ -4269,15 +4359,7 @@
         "startTime": 346873,
         "endTime": 347140,
         "pinyin": "rén"
-      }
-    ]
-  },
-  {
-    "sentence_text": "非常 喜欢",
-    "translations": {
-      "en": "Young people really"
-    },
-    "segments": [
+      },
       {
         "token": "非",
         "startTime": 347140,
@@ -4293,23 +4375,15 @@
       {
         "token": "喜",
         "startTime": 347560,
-        "endTime": 347890,
+        "endTime": 348250,
         "pinyin": "xǐ"
       },
       {
         "token": "欢",
-        "startTime": 347890,
-        "endTime": 348220,
+        "startTime": 348250,
+        "endTime": 348940,
         "pinyin": "huān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "到 这个 街区 来 拍照",
-    "translations": {
-      "en": "like coming to this area"
-    },
-    "segments": [
+      },
       {
         "token": "到",
         "startTime": 348940,
@@ -4357,25 +4431,13 @@
         "startTime": 351690,
         "endTime": 352240,
         "pinyin": "zhào"
-      },
-      {
-        "token": "然",
-        "startTime": 352240,
-        "endTime": 352450,
-        "pinyin": "rán"
-      },
-      {
-        "token": "后",
-        "startTime": 352450,
-        "endTime": 352660,
-        "pinyin": "hòu"
       }
     ]
   },
   {
-    "sentence_text": "然后 吃",
+    "sentence_text": "然后 吃 美食 吃 东西",
     "translations": {
-      "en": "to take"
+      "en": "Then eat delicious food."
     },
     "segments": [
       {
@@ -4395,35 +4457,19 @@
         "startTime": 353900,
         "endTime": 355860,
         "pinyin": "chī"
-      }
-    ]
-  },
-  {
-    "sentence_text": "美食",
-    "translations": {
-      "en": "photos"
-    },
-    "segments": [
+      },
       {
         "token": "美",
         "startTime": 355860,
-        "endTime": 356300,
+        "endTime": 357060,
         "pinyin": "měi"
       },
       {
         "token": "食",
-        "startTime": 356300,
-        "endTime": 356740,
+        "startTime": 357060,
+        "endTime": 358260,
         "pinyin": "shí"
-      }
-    ]
-  },
-  {
-    "sentence_text": "吃 东西",
-    "translations": {
-      "en": "and eat"
-    },
-    "segments": [
+      },
       {
         "token": "吃",
         "startTime": 358260,
@@ -4433,13 +4479,13 @@
       {
         "token": "东",
         "startTime": 358540,
-        "endTime": 358870,
+        "endTime": 359830,
         "pinyin": "dōng"
       },
       {
         "token": "西",
-        "startTime": 358870,
-        "endTime": 359200,
+        "startTime": 359830,
+        "endTime": 361120,
         "pinyin": "xī"
       }
     ]
@@ -4447,7 +4493,7 @@
   {
     "sentence_text": "那 这里 呢 有 很多 的 小酒馆",
     "translations": {
-      "en": "good food. Here there are many small"
+      "en": "There are many small bars here."
     },
     "segments": [
       {
@@ -4501,19 +4547,19 @@
       {
         "token": "小",
         "startTime": 362380,
-        "endTime": 362793,
+        "endTime": 363147,
         "pinyin": "xiǎo"
       },
       {
         "token": "酒",
-        "startTime": 362793,
-        "endTime": 363207,
+        "startTime": 363147,
+        "endTime": 363913,
         "pinyin": "jiǔ"
       },
       {
         "token": "馆",
-        "startTime": 363207,
-        "endTime": 363620,
+        "startTime": 363913,
+        "endTime": 364680,
         "pinyin": "guǎn"
       }
     ]
@@ -4521,7 +4567,7 @@
   {
     "sentence_text": "还有 很多 的 咖啡店",
     "translations": {
-      "en": "bars and coffee shops. This"
+      "en": "And also many coffee shops."
     },
     "segments": [
       {
@@ -4557,27 +4603,27 @@
       {
         "token": "咖",
         "startTime": 365520,
-        "endTime": 366080,
+        "endTime": 366400,
         "pinyin": "kā"
       },
       {
         "token": "啡",
-        "startTime": 366080,
-        "endTime": 366640,
+        "startTime": 366400,
+        "endTime": 367280,
         "pinyin": "fēi"
       },
       {
         "token": "店",
-        "startTime": 366640,
-        "endTime": 367200,
+        "startTime": 367280,
+        "endTime": 368160,
         "pinyin": "diàn"
       }
     ]
   },
   {
-    "sentence_text": "这个 是 咖啡店",
+    "sentence_text": "这个 是 咖啡店 咖啡店",
     "translations": {
-      "en": "is a coffee shop."
+      "en": "This is a coffee shop, a coffee shop."
     },
     "segments": [
       {
@@ -4601,45 +4647,37 @@
       {
         "token": "咖",
         "startTime": 368640,
-        "endTime": 369393,
+        "endTime": 370167,
         "pinyin": "kā"
       },
       {
         "token": "啡",
-        "startTime": 369393,
-        "endTime": 370147,
+        "startTime": 370167,
+        "endTime": 371693,
         "pinyin": "fēi"
       },
       {
         "token": "店",
-        "startTime": 370147,
-        "endTime": 370900,
+        "startTime": 371693,
+        "endTime": 373220,
         "pinyin": "diàn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "咖啡店",
-    "translations": {
-      "en": "A coffee"
-    },
-    "segments": [
+      },
       {
         "token": "咖",
         "startTime": 373220,
-        "endTime": 373947,
+        "endTime": 374760,
         "pinyin": "kā"
       },
       {
         "token": "啡",
-        "startTime": 373947,
-        "endTime": 374673,
+        "startTime": 374760,
+        "endTime": 376300,
         "pinyin": "fēi"
       },
       {
         "token": "店",
-        "startTime": 374673,
-        "endTime": 375400,
+        "startTime": 376300,
+        "endTime": 377840,
         "pinyin": "diàn"
       }
     ]
@@ -4647,7 +4685,7 @@
   {
     "sentence_text": "韩国菜 韩国菜",
     "translations": {
-      "en": "shop. Korean food. A"
+      "en": "Korean food, Korean food."
     },
     "segments": [
       {
@@ -4671,19 +4709,19 @@
       {
         "token": "韩",
         "startTime": 378120,
-        "endTime": 378620,
+        "endTime": 379033,
         "pinyin": "hán"
       },
       {
         "token": "国",
-        "startTime": 378620,
-        "endTime": 379120,
+        "startTime": 379033,
+        "endTime": 379947,
         "pinyin": "guó"
       },
       {
         "token": "菜",
-        "startTime": 379120,
-        "endTime": 379620,
+        "startTime": 379947,
+        "endTime": 380860,
         "pinyin": "cài"
       }
     ]
@@ -4691,7 +4729,7 @@
   {
     "sentence_text": "一家 吃 韩国菜 的 餐厅",
     "translations": {
-      "en": "restaurant serving Korean food. This"
+      "en": "A restaurant serving Korean food."
     },
     "segments": [
       {
@@ -4739,21 +4777,21 @@
       {
         "token": "餐",
         "startTime": 382700,
-        "endTime": 383400,
+        "endTime": 384180,
         "pinyin": "cān"
       },
       {
         "token": "厅",
-        "startTime": 383400,
-        "endTime": 384100,
+        "startTime": 384180,
+        "endTime": 385660,
         "pinyin": "tīng"
       }
     ]
   },
   {
-    "sentence_text": "这是 厕所",
+    "sentence_text": "这是 厕所 厕所",
     "translations": {
-      "en": "is a restroom."
+      "en": "This is a restroom, a restroom."
     },
     "segments": [
       {
@@ -4771,33 +4809,25 @@
       {
         "token": "厕",
         "startTime": 385940,
-        "endTime": 386570,
+        "endTime": 387430,
         "pinyin": "cè"
       },
       {
         "token": "所",
-        "startTime": 386570,
-        "endTime": 387200,
+        "startTime": 387430,
+        "endTime": 388920,
         "pinyin": "suǒ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "厕所",
-    "translations": {
-      "en": "This"
-    },
-    "segments": [
+      },
       {
         "token": "厕",
         "startTime": 388920,
-        "endTime": 389300,
+        "endTime": 390190,
         "pinyin": "cè"
       },
       {
         "token": "所",
-        "startTime": 389300,
-        "endTime": 389680,
+        "startTime": 390190,
+        "endTime": 391460,
         "pinyin": "suǒ"
       }
     ]
@@ -4805,7 +4835,7 @@
   {
     "sentence_text": "这是 这个 景区 的 厕所",
     "translations": {
-      "en": "is the restroom in this scenic"
+      "en": "This is the restroom for this scenic area."
     },
     "segments": [
       {
@@ -4853,21 +4883,21 @@
       {
         "token": "厕",
         "startTime": 392360,
-        "endTime": 392610,
+        "endTime": 397010,
         "pinyin": "cè"
       },
       {
         "token": "所",
-        "startTime": 392610,
-        "endTime": 392860,
+        "startTime": 397010,
+        "endTime": 401660,
         "pinyin": "suǒ"
       }
     ]
   },
   {
-    "sentence_text": "走 我们 去 吃 烤饼",
+    "sentence_text": "走 我们 去 吃 烤饼 来",
     "translations": {
-      "en": "area. Let's go eat a"
+      "en": "Come on, let's go eat some pancakes."
     },
     "segments": [
       {
@@ -4903,29 +4933,29 @@
       {
         "token": "烤",
         "startTime": 404360,
-        "endTime": 404820,
+        "endTime": 404980,
         "pinyin": "kǎo"
       },
       {
         "token": "饼",
-        "startTime": 404820,
-        "endTime": 405280,
+        "startTime": 404980,
+        "endTime": 405600,
         "pinyin": "bǐng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "来 我们 来 买 一个",
-    "translations": {
-      "en": "pancake. Let's buy one."
-    },
-    "segments": [
+      },
       {
         "token": "来",
         "startTime": 405600,
         "endTime": 405760,
         "pinyin": "lái"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "我们 来 买 一个 买 一个 饼 吧",
+    "translations": {
+      "en": "Let's buy one, buy one pancake."
+    },
+    "segments": [
       {
         "token": "我",
         "startTime": 405760,
@@ -4953,23 +4983,15 @@
       {
         "token": "一",
         "startTime": 406140,
-        "endTime": 406250,
+        "endTime": 407740,
         "pinyin": "yí"
       },
       {
         "token": "个",
-        "startTime": 406250,
-        "endTime": 406360,
+        "startTime": 407740,
+        "endTime": 409340,
         "pinyin": "gè"
-      }
-    ]
-  },
-  {
-    "sentence_text": "买 一个 饼 吧 甜 的",
-    "translations": {
-      "en": "Buy a pancake. Sweet. This"
-    },
-    "segments": [
+      },
       {
         "token": "买",
         "startTime": 409340,
@@ -4999,39 +5021,21 @@
         "startTime": 410840,
         "endTime": 411320,
         "pinyin": "ba"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "甜 的 这个 是 甜 的 吧",
+    "translations": {
+      "en": "This is sweet, right?"
+    },
+    "segments": [
       {
         "token": "甜",
         "startTime": 411320,
         "endTime": 412660,
         "pinyin": "tián"
       },
-      {
-        "token": "的",
-        "startTime": 412660,
-        "endTime": 412660,
-        "pinyin": "de"
-      },
-      {
-        "token": "这",
-        "startTime": 412660,
-        "endTime": 412790,
-        "pinyin": "zhè"
-      },
-      {
-        "token": "个",
-        "startTime": 412790,
-        "endTime": 412920,
-        "pinyin": "ge"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 是 甜 的 吧",
-    "translations": {
-      "en": "one is sweet, right?"
-    },
-    "segments": [
       {
         "token": "的",
         "startTime": 412660,
@@ -5071,15 +5075,15 @@
       {
         "token": "吧",
         "startTime": 414500,
-        "endTime": 414600,
+        "endTime": 415940,
         "pinyin": "ba"
       }
     ]
   },
   {
-    "sentence_text": "这个 是 饼 甜 的 几块",
+    "sentence_text": "这个 是 饼 甜 的 几块 块 ?",
     "translations": {
-      "en": "This is a pancake. Sweet. How"
+      "en": "This sweet pancake, how much?"
     },
     "segments": [
       {
@@ -5133,20 +5137,6 @@
       {
         "token": "块",
         "startTime": 420080,
-        "endTime": 420260,
-        "pinyin": "kuài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "块 ? 三块 ,",
-    "translations": {
-      "en": "much? Three kuai."
-    },
-    "segments": [
-      {
-        "token": "块",
-        "startTime": 420080,
         "endTime": 420560,
         "pinyin": "kuài"
       },
@@ -5155,7 +5145,15 @@
         "startTime": 420560,
         "endTime": 422080,
         "pinyin": "?"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "三块 , 饼 , 三块 ,",
+    "translations": {
+      "en": "Three yuan, pancake, three yuan."
+    },
+    "segments": [
       {
         "token": "三",
         "startTime": 422080,
@@ -5173,15 +5171,7 @@
         "startTime": 423160,
         "endTime": 425040,
         "pinyin": ","
-      }
-    ]
-  },
-  {
-    "sentence_text": "饼 ,",
-    "translations": {
-      "en": "Pancake,"
-    },
-    "segments": [
+      },
       {
         "token": "饼",
         "startTime": 425040,
@@ -5193,15 +5183,7 @@
         "startTime": 427800,
         "endTime": 429620,
         "pinyin": ","
-      }
-    ]
-  },
-  {
-    "sentence_text": "三块 ,",
-    "translations": {
-      "en": "three kuai."
-    },
-    "segments": [
+      },
       {
         "token": "三",
         "startTime": 429620,
@@ -5223,9 +5205,9 @@
     ]
   },
   {
-    "sentence_text": "现在 我 在",
+    "sentence_text": "现在 我 在 付款 , 三块 ,",
     "translations": {
-      "en": "Now I'm"
+      "en": "Now I'm paying, three yuan."
     },
     "segments": [
       {
@@ -5251,15 +5233,7 @@
         "startTime": 434660,
         "endTime": 436200,
         "pinyin": "zài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "付款 ,",
-    "translations": {
-      "en": "paying. Three"
-    },
-    "segments": [
+      },
       {
         "token": "付",
         "startTime": 436200,
@@ -5277,15 +5251,7 @@
         "startTime": 437240,
         "endTime": 437540,
         "pinyin": ","
-      }
-    ]
-  },
-  {
-    "sentence_text": "三块 ,",
-    "translations": {
-      "en": "kuai"
-    },
-    "segments": [
+      },
       {
         "token": "三",
         "startTime": 437540,
@@ -5307,9 +5273,9 @@
     ]
   },
   {
-    "sentence_text": "就是 三元 ,",
+    "sentence_text": "就是 三元 , 这个 是 饼 , 然后 我 喜欢 吃 甜 的 , 所以 我 买 了 一个 甜 的 饼 , 现在 我 在 吃 饼",
     "translations": {
-      "en": "means three yuan."
+      "en": "That's three yuan, this is a pancake, and I like sweet things, so I bought a sweet pancake. Now I'm eating the pancake."
     },
     "segments": [
       {
@@ -5341,15 +5307,7 @@
         "startTime": 440420,
         "endTime": 440880,
         "pinyin": ","
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 是 饼 ,",
-    "translations": {
-      "en": "This is a"
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 440880,
@@ -5379,15 +5337,7 @@
         "startTime": 442320,
         "endTime": 443140,
         "pinyin": ","
-      }
-    ]
-  },
-  {
-    "sentence_text": "然后 我 喜欢 吃 甜 的 ,",
-    "translations": {
-      "en": "pancake. I like sweet things,"
-    },
-    "segments": [
+      },
       {
         "token": "然",
         "startTime": 443140,
@@ -5439,17 +5389,9 @@
       {
         "token": ",",
         "startTime": 445460,
-        "endTime": 446080,
+        "endTime": 448640,
         "pinyin": ","
-      }
-    ]
-  },
-  {
-    "sentence_text": "所以 我 买 了",
-    "translations": {
-      "en": "so I bought"
-    },
-    "segments": [
+      },
       {
         "token": "所",
         "startTime": 448640,
@@ -5477,37 +5419,21 @@
       {
         "token": "了",
         "startTime": 450620,
-        "endTime": 451600,
+        "endTime": 453520,
         "pinyin": "le"
-      }
-    ]
-  },
-  {
-    "sentence_text": "一个",
-    "translations": {
-      "en": "a"
-    },
-    "segments": [
+      },
       {
         "token": "一",
         "startTime": 453520,
-        "endTime": 454180,
+        "endTime": 455670,
         "pinyin": "yí"
       },
       {
         "token": "个",
-        "startTime": 454180,
-        "endTime": 454840,
+        "startTime": 455670,
+        "endTime": 457820,
         "pinyin": "gè"
-      }
-    ]
-  },
-  {
-    "sentence_text": "甜 的 饼",
-    "translations": {
-      "en": "sweet pancake."
-    },
-    "segments": [
+      },
       {
         "token": "甜",
         "startTime": 457820,
@@ -5523,17 +5449,9 @@
       {
         "token": "饼",
         "startTime": 458340,
-        "endTime": 458740,
+        "endTime": 460680,
         "pinyin": "bǐng"
-      }
-    ]
-  },
-  {
-    "sentence_text": ", 现在 我 在",
-    "translations": {
-      "en": "Now I'm eating"
-    },
-    "segments": [
+      },
       {
         "token": ",",
         "startTime": 460680,
@@ -5561,17 +5479,9 @@
       {
         "token": "在",
         "startTime": 461520,
-        "endTime": 461860,
+        "endTime": 463800,
         "pinyin": "zài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "吃 饼 吃",
-    "translations": {
-      "en": "the pancake."
-    },
-    "segments": [
+      },
       {
         "token": "吃",
         "startTime": 463800,
@@ -5583,21 +5493,21 @@
         "startTime": 464200,
         "endTime": 464440,
         "pinyin": "bǐng"
-      },
-      {
-        "token": "吃",
-        "startTime": 464440,
-        "endTime": 465100,
-        "pinyin": "chī"
       }
     ]
   },
   {
-    "sentence_text": "饼 不是",
+    "sentence_text": "吃 饼 不是 很 好吃 它 不是 好不好 吃 好 硬 啊 好 硬 啊 我们 又学 了 一个 词好 硬 啊",
     "translations": {
-      "en": "It's not"
+      "en": "Eating the pancake is not very tasty—it's not about being good or bad, it's really hard, really hard. We learned another word: really hard."
     },
     "segments": [
+      {
+        "token": "吃",
+        "startTime": 464440,
+        "endTime": 467680,
+        "pinyin": "chī"
+      },
       {
         "token": "饼",
         "startTime": 467680,
@@ -5607,37 +5517,21 @@
       {
         "token": "不",
         "startTime": 467880,
-        "endTime": 468380,
+        "endTime": 469200,
         "pinyin": "bú"
       },
       {
         "token": "是",
-        "startTime": 468380,
-        "endTime": 468880,
+        "startTime": 469200,
+        "endTime": 470520,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "很",
-    "translations": {
-      "en": "very"
-    },
-    "segments": [
+      },
       {
         "token": "很",
         "startTime": 470520,
-        "endTime": 470680,
+        "endTime": 473440,
         "pinyin": "hěn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "好吃 它 不是",
-    "translations": {
-      "en": "tasty. It's not"
-    },
-    "segments": [
+      },
       {
         "token": "好",
         "startTime": 473440,
@@ -5659,23 +5553,15 @@
       {
         "token": "不",
         "startTime": 473860,
-        "endTime": 473990,
+        "endTime": 476780,
         "pinyin": "bú"
       },
       {
         "token": "是",
-        "startTime": 473990,
-        "endTime": 474120,
+        "startTime": 476780,
+        "endTime": 479700,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "好不好 吃 好 硬 啊",
-    "translations": {
-      "en": "good. It's so hard."
-    },
-    "segments": [
+      },
       {
         "token": "好",
         "startTime": 479700,
@@ -5715,17 +5601,9 @@
       {
         "token": "啊",
         "startTime": 481360,
-        "endTime": 481560,
+        "endTime": 482200,
         "pinyin": "a"
-      }
-    ]
-  },
-  {
-    "sentence_text": "好 硬 啊 我们 又学 了 一个 词好",
-    "translations": {
-      "en": "We learned a new word: so hard."
-    },
-    "segments": [
+      },
       {
         "token": "好",
         "startTime": 482200,
@@ -5797,15 +5675,7 @@
         "startTime": 485350,
         "endTime": 486200,
         "pinyin": "hǎo"
-      }
-    ]
-  },
-  {
-    "sentence_text": "硬 啊",
-    "translations": {
-      "en": "This pancake"
-    },
-    "segments": [
+      },
       {
         "token": "硬",
         "startTime": 486200,
@@ -5815,15 +5685,15 @@
       {
         "token": "啊",
         "startTime": 486520,
-        "endTime": 486760,
+        "endTime": 489780,
         "pinyin": "a"
       }
     ]
   },
   {
-    "sentence_text": "这个 饼 太 硬 了 太 硬 了",
+    "sentence_text": "这个 饼 太 硬 了 太 硬 了 就是 它 不软 不是 很 松软 这个 饼 太 硬 了",
     "translations": {
-      "en": "is too hard. Too hard"
+      "en": "This pancake is too hard, too hard. It's not soft, not fluffy at all. This pancake is too hard."
     },
     "segments": [
       {
@@ -5879,15 +5749,7 @@
         "startTime": 492720,
         "endTime": 492960,
         "pinyin": "le"
-      }
-    ]
-  },
-  {
-    "sentence_text": "就是 它 不软 不是",
-    "translations": {
-      "en": "means it's not soft."
-    },
-    "segments": [
+      },
       {
         "token": "就",
         "startTime": 492960,
@@ -5929,15 +5791,7 @@
         "startTime": 496760,
         "endTime": 498340,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "很 松软",
-    "translations": {
-      "en": "This pancake"
-    },
-    "segments": [
+      },
       {
         "token": "很",
         "startTime": 498340,
@@ -5947,23 +5801,15 @@
       {
         "token": "松",
         "startTime": 498700,
-        "endTime": 499320,
+        "endTime": 500090,
         "pinyin": "sōng"
       },
       {
         "token": "软",
-        "startTime": 499320,
-        "endTime": 499940,
+        "startTime": 500090,
+        "endTime": 501480,
         "pinyin": "ruǎn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 饼 太 硬 了",
-    "translations": {
-      "en": "is too hard, so"
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 501480,
@@ -5997,15 +5843,15 @@
       {
         "token": "了",
         "startTime": 502440,
-        "endTime": 502680,
+        "endTime": 503460,
         "pinyin": "le"
       }
     ]
   },
   {
-    "sentence_text": "所以 口感 不是 很",
+    "sentence_text": "所以 口感 不是 很 好 我们 喜欢 吃 稍 微软 一点 的 口感 会 更好 一点",
     "translations": {
-      "en": "the texture isn't very"
+      "en": "So the texture isn't great. We prefer it a bit softer; the taste would be better."
     },
     "segments": [
       {
@@ -6047,17 +5893,9 @@
       {
         "token": "很",
         "startTime": 504720,
-        "endTime": 505080,
+        "endTime": 506100,
         "pinyin": "hěn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "好 我们 喜欢 吃 稍 微软 一点",
-    "translations": {
-      "en": "good. We prefer a slightly softer texture—it tastes"
-    },
-    "segments": [
+      },
       {
         "token": "好",
         "startTime": 506100,
@@ -6123,15 +5961,7 @@
         "startTime": 509470,
         "endTime": 510420,
         "pinyin": "diǎn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "的 口感 会 更好",
-    "translations": {
-      "en": "better. This pancake, I"
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 510420,
@@ -6159,23 +5989,15 @@
       {
         "token": "更",
         "startTime": 511880,
-        "endTime": 512050,
+        "endTime": 512640,
         "pinyin": "gèng"
       },
       {
         "token": "好",
-        "startTime": 512050,
-        "endTime": 512220,
+        "startTime": 512640,
+        "endTime": 513400,
         "pinyin": "hǎo"
-      }
-    ]
-  },
-  {
-    "sentence_text": "一点 这个 饼 我 记得 小时候",
-    "translations": {
-      "en": "remember when I was a kid it only"
-    },
-    "segments": [
+      },
       {
         "token": "一",
         "startTime": 513400,
@@ -6187,7 +6009,15 @@
         "startTime": 513510,
         "endTime": 513620,
         "pinyin": "diǎn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 饼 我 记得 小时候 只卖 五角钱 现在 它 卖 三块 钱",
+    "translations": {
+      "en": "I remember this pancake only cost five jiao when I was a kid, but now it costs three yuan."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 513620,
@@ -6241,35 +6071,19 @@
         "startTime": 517287,
         "endTime": 518100,
         "pinyin": "hòu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "只卖",
-    "translations": {
-      "en": "cost"
-    },
-    "segments": [
+      },
       {
         "token": "只",
         "startTime": 518100,
-        "endTime": 518350,
+        "endTime": 519160,
         "pinyin": "zhǐ"
       },
       {
         "token": "卖",
-        "startTime": 518350,
-        "endTime": 518600,
+        "startTime": 519160,
+        "endTime": 520220,
         "pinyin": "mài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "五角钱 现在",
-    "translations": {
-      "en": "five jiao. Now it"
-    },
-    "segments": [
+      },
       {
         "token": "五",
         "startTime": 520220,
@@ -6299,15 +6113,7 @@
         "startTime": 523660,
         "endTime": 524360,
         "pinyin": "zài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "它 卖",
-    "translations": {
-      "en": "costs"
-    },
-    "segments": [
+      },
       {
         "token": "它",
         "startTime": 524360,
@@ -6317,17 +6123,9 @@
       {
         "token": "卖",
         "startTime": 524760,
-        "endTime": 525140,
+        "endTime": 526260,
         "pinyin": "mài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "三块 钱",
-    "translations": {
-      "en": "three kuai."
-    },
-    "segments": [
+      },
       {
         "token": "三",
         "startTime": 526260,
@@ -6343,15 +6141,15 @@
       {
         "token": "钱",
         "startTime": 526740,
-        "endTime": 527160,
+        "endTime": 529040,
         "pinyin": "qián"
       }
     ]
   },
   {
-    "sentence_text": "三块 钱 就是 三元",
+    "sentence_text": "三块 钱 就是 三元 我们 经常 说 这个 人民币 元 也 会 用 快 来 表达",
     "translations": {
-      "en": "Three kuai means three yuan."
+      "en": "Three yuan is three kuai. We often use 'yuan' for RMB, but we can also say 'kuai' to express it."
     },
     "segments": [
       {
@@ -6395,35 +6193,19 @@
         "startTime": 532470,
         "endTime": 532980,
         "pinyin": "yuán"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我们",
-    "translations": {
-      "en": "We"
-    },
-    "segments": [
+      },
       {
         "token": "我",
         "startTime": 532980,
-        "endTime": 533320,
+        "endTime": 533970,
         "pinyin": "wǒ"
       },
       {
         "token": "们",
-        "startTime": 533320,
-        "endTime": 533660,
+        "startTime": 533970,
+        "endTime": 534960,
         "pinyin": "men"
-      }
-    ]
-  },
-  {
-    "sentence_text": "经常 说 这个 人民币 元 也 会 用",
-    "translations": {
-      "en": "often use 'kuai' for yuan in"
-    },
-    "segments": [
+      },
       {
         "token": "经",
         "startTime": 534960,
@@ -6495,15 +6277,7 @@
         "startTime": 538840,
         "endTime": 539020,
         "pinyin": "yòng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "快 来 表达 在 我们 这个 日常 的",
-    "translations": {
-      "en": "everyday speech. You can also say"
-    },
-    "segments": [
+      },
       {
         "token": "快",
         "startTime": 539020,
@@ -6527,7 +6301,15 @@
         "startTime": 539840,
         "endTime": 540120,
         "pinyin": "dá"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 我们 这个 日常 的 口语 还有 这个 也 可以 说三快",
+    "translations": {
+      "en": "In our everyday spoken language, you can also say 'three kuai'."
+    },
+    "segments": [
       {
         "token": "在",
         "startTime": 540120,
@@ -6575,15 +6357,7 @@
         "startTime": 542320,
         "endTime": 542960,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "口语 还有 这个",
-    "translations": {
-      "en": "'three kuai.' What"
-    },
-    "segments": [
+      },
       {
         "token": "口",
         "startTime": 542960,
@@ -6611,23 +6385,15 @@
       {
         "token": "这",
         "startTime": 545260,
-        "endTime": 545460,
+        "endTime": 545920,
         "pinyin": "zhè"
       },
       {
         "token": "个",
-        "startTime": 545460,
-        "endTime": 545660,
+        "startTime": 545920,
+        "endTime": 546580,
         "pinyin": "ge"
-      }
-    ]
-  },
-  {
-    "sentence_text": "也 可以 说三快",
-    "translations": {
-      "en": "other topics would"
-    },
-    "segments": [
+      },
       {
         "token": "也",
         "startTime": 546580,
@@ -6649,27 +6415,27 @@
       {
         "token": "说",
         "startTime": 546880,
-        "endTime": 547540,
+        "endTime": 548300,
         "pinyin": "shuō"
       },
       {
         "token": "三",
-        "startTime": 547540,
-        "endTime": 548200,
+        "startTime": 548300,
+        "endTime": 549720,
         "pinyin": "sān"
       },
       {
         "token": "快",
-        "startTime": 548200,
-        "endTime": 548860,
+        "startTime": 549720,
+        "endTime": 551140,
         "pinyin": "kuài"
       }
     ]
   },
   {
-    "sentence_text": "还有 什么 想 学 的 主题 可以 留在 我们",
+    "sentence_text": "还有 什么 想学 的 主题 可以 留在 我们 的 评论 区",
     "translations": {
-      "en": "you like to learn? Leave them in the"
+      "en": "If there are any other topics you want to learn, leave them in our comments section."
     },
     "segments": [
       {
@@ -6761,15 +6527,7 @@
         "startTime": 553470,
         "endTime": 553540,
         "pinyin": "men"
-      }
-    ]
-  },
-  {
-    "sentence_text": "的 评论 区 欢迎 你 加入 我们 简单",
-    "translations": {
-      "en": "comments. Welcome to join our simple,"
-    },
-    "segments": [
+      },
       {
         "token": "的",
         "startTime": 553540,
@@ -6793,7 +6551,15 @@
         "startTime": 554000,
         "endTime": 554080,
         "pinyin": "qū"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "欢迎 你 加入 我们 简单 轻松 快乐 的 中文 学习 之旅",
+    "translations": {
+      "en": "Welcome to join our simple, relaxed, and joyful Chinese learning journey."
+    },
+    "segments": [
       {
         "token": "欢",
         "startTime": 554080,
@@ -6847,15 +6613,7 @@
         "startTime": 556530,
         "endTime": 556740,
         "pinyin": "dān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "轻松 快乐 的 中文 学习 之 旅优",
-    "translations": {
-      "en": "easy, and joyful Chinese learning journey."
-    },
-    "segments": [
+      },
       {
         "token": "轻",
         "startTime": 556740,
@@ -6921,21 +6679,21 @@
         "startTime": 558800,
         "endTime": 560570,
         "pinyin": "lǚ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "优优 独播 剧场 — Yo Yo Television Series Exc lusive",
+    "translations": {
+      "en": "Youyou Exclusive Theater — Yo Yo Television Series Exclusive"
+    },
+    "segments": [
       {
         "token": "优",
         "startTime": 560570,
         "endTime": 562340,
         "pinyin": "yōu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "优独播 剧场 — Yo Yo Television Series Exc",
-    "translations": {
-      "en": "Yo Exclusive Theater — Yo Yo Television Series Exc"
-    },
-    "segments": [
+      },
       {
         "token": "优",
         "startTime": 562340,
@@ -7109,17 +6867,42 @@
         "startTime": 562553,
         "endTime": 562560,
         "pinyin": "c"
-      }
-    ]
-  },
-  {
-    "sentence_text": "lusive",
-    "translations": {},
-    "segments": [
+      },
       {
-        "token": "lusive",
+        "token": "l",
         "startTime": 562560,
-        "endTime": 562580
+        "endTime": 562563,
+        "pinyin": "l"
+      },
+      {
+        "token": "u",
+        "startTime": 562563,
+        "endTime": 562567,
+        "pinyin": "u"
+      },
+      {
+        "token": "s",
+        "startTime": 562567,
+        "endTime": 562570,
+        "pinyin": "s"
+      },
+      {
+        "token": "i",
+        "startTime": 562570,
+        "endTime": 562573,
+        "pinyin": "i"
+      },
+      {
+        "token": "v",
+        "startTime": 562573,
+        "endTime": 562577,
+        "pinyin": "v"
+      },
+      {
+        "token": "e",
+        "startTime": 562577,
+        "endTime": 562580,
+        "pinyin": "e"
       }
     ]
   }
