@@ -1610,38 +1610,6 @@
     ]
   },
   {
-    "sentence_text": "真的 很小",
-    "translations": {
-      "en": "Really tiny"
-    },
-    "segments": [
-      {
-        "token": "真",
-        "startTime": 60224,
-        "endTime": 60516,
-        "pinyin": "zhēn"
-      },
-      {
-        "token": "的",
-        "startTime": 60516,
-        "endTime": 60809,
-        "pinyin": "de"
-      },
-      {
-        "token": "很",
-        "startTime": 60809,
-        "endTime": 61101,
-        "pinyin": "hěn"
-      },
-      {
-        "token": "小",
-        "startTime": 61101,
-        "endTime": 64816,
-        "pinyin": "xiǎo"
-      }
-    ]
-  },
-  {
     "sentence_text": "你 知道 吗",
     "translations": {
       "en": "You know what?"
