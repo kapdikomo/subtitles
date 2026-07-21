@@ -1,153 +1,457 @@
 [
   {
-    "sentence_text": "请",
-    "translations": {
-      "en": "Please"
-    },
+    "sentence_text": "嗨朋友们,欢迎回到我的",
+    "translations": {},
     "segments": [
       {
-        "token": "请",
-        "startTime": 7540,
-        "endTime": 16079,
-        "pinyin": "qǐng"
+        "token": "嗨",
+        "startTime": 7513,
+        "endTime": 7713,
+        "pinyin": "hāi"
+      },
+      {
+        "token": "朋",
+        "startTime": 7713,
+        "endTime": 7913,
+        "pinyin": "péng"
+      },
+      {
+        "token": "友",
+        "startTime": 7913,
+        "endTime": 8113,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "们",
+        "startTime": 8113,
+        "endTime": 8313,
+        "pinyin": "men"
+      },
+      {
+        "token": ",",
+        "startTime": 8313,
+        "endTime": 8513,
+        "pinyin": ","
+      },
+      {
+        "token": "欢",
+        "startTime": 8513,
+        "endTime": 8713,
+        "pinyin": "huān"
+      },
+      {
+        "token": "迎",
+        "startTime": 8713,
+        "endTime": 8913,
+        "pinyin": "yíng"
+      },
+      {
+        "token": "回",
+        "startTime": 8913,
+        "endTime": 9113,
+        "pinyin": "huí"
+      },
+      {
+        "token": "到",
+        "startTime": 9113,
+        "endTime": 9313,
+        "pinyin": "dào"
+      },
+      {
+        "token": "我",
+        "startTime": 9313,
+        "endTime": 9513,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 9513,
+        "endTime": 9713,
+        "pinyin": "de"
       }
     ]
   },
   {
-    "sentence_text": "不吝",
-    "translations": {
-      "en": "don't"
-    },
+    "sentence_text": "频道今天我将继续用可理解",
+    "translations": {},
     "segments": [
       {
-        "token": "不",
-        "startTime": 16079,
-        "endTime": 21760,
-        "pinyin": "bù"
+        "token": "频",
+        "startTime": 10413,
+        "endTime": 10655,
+        "pinyin": "pín"
       },
       {
-        "token": "吝",
-        "startTime": 21760,
-        "endTime": 27440,
-        "pinyin": "lìn"
+        "token": "道",
+        "startTime": 10655,
+        "endTime": 10896,
+        "pinyin": "dào"
+      },
+      {
+        "token": "今",
+        "startTime": 10896,
+        "endTime": 11138,
+        "pinyin": "jīn"
+      },
+      {
+        "token": "天",
+        "startTime": 11138,
+        "endTime": 11380,
+        "pinyin": "tiān"
+      },
+      {
+        "token": "我",
+        "startTime": 11380,
+        "endTime": 11621,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "将",
+        "startTime": 11621,
+        "endTime": 11863,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "继",
+        "startTime": 11863,
+        "endTime": 12105,
+        "pinyin": "jì"
+      },
+      {
+        "token": "续",
+        "startTime": 12105,
+        "endTime": 12346,
+        "pinyin": "xù"
+      },
+      {
+        "token": "用",
+        "startTime": 12346,
+        "endTime": 12588,
+        "pinyin": "yòng"
+      },
+      {
+        "token": "可",
+        "startTime": 12588,
+        "endTime": 12830,
+        "pinyin": "kě"
+      },
+      {
+        "token": "理",
+        "startTime": 12830,
+        "endTime": 13071,
+        "pinyin": "lǐ"
+      },
+      {
+        "token": "解",
+        "startTime": 13071,
+        "endTime": 13313,
+        "pinyin": "jiě"
       }
     ]
   },
   {
-    "sentence_text": "点赞 订阅 转发 打赏 支持 明镜 与 点点",
-    "translations": {
-      "en": "hesitate to like, subscribe, share, and tip to support Mingjing"
-    },
+    "sentence_text": "性输入的方式教大家中文你",
+    "translations": {},
     "segments": [
       {
-        "token": "点",
-        "startTime": 27440,
-        "endTime": 27550,
-        "pinyin": "diǎn"
+        "token": "性",
+        "startTime": 13313,
+        "endTime": 13595,
+        "pinyin": "xìng"
       },
       {
-        "token": "赞",
-        "startTime": 27550,
-        "endTime": 27660,
-        "pinyin": "zàn"
+        "token": "输",
+        "startTime": 13595,
+        "endTime": 13876,
+        "pinyin": "shū"
       },
       {
-        "token": "订",
-        "startTime": 27660,
-        "endTime": 27690,
-        "pinyin": "dìng"
+        "token": "入",
+        "startTime": 13876,
+        "endTime": 14158,
+        "pinyin": "rù"
       },
       {
-        "token": "阅",
-        "startTime": 27690,
-        "endTime": 27720,
-        "pinyin": "yuè"
+        "token": "的",
+        "startTime": 14158,
+        "endTime": 14440,
+        "pinyin": "de"
       },
       {
-        "token": "转",
-        "startTime": 27720,
-        "endTime": 27750,
-        "pinyin": "zhuǎn"
+        "token": "方",
+        "startTime": 14440,
+        "endTime": 14721,
+        "pinyin": "fāng"
       },
       {
-        "token": "发",
-        "startTime": 27750,
-        "endTime": 27780,
-        "pinyin": "fā"
+        "token": "式",
+        "startTime": 14721,
+        "endTime": 15003,
+        "pinyin": "shì"
       },
       {
-        "token": "打",
-        "startTime": 27780,
-        "endTime": 27800,
-        "pinyin": "dǎ"
+        "token": "教",
+        "startTime": 15003,
+        "endTime": 15285,
+        "pinyin": "jiào"
       },
       {
-        "token": "赏",
-        "startTime": 27800,
+        "token": "大",
+        "startTime": 15285,
+        "endTime": 15566,
+        "pinyin": "dà"
+      },
+      {
+        "token": "家",
+        "startTime": 15566,
+        "endTime": 15848,
+        "pinyin": "jiā"
+      },
+      {
+        "token": "中",
+        "startTime": 15848,
+        "endTime": 16130,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "文",
+        "startTime": 16130,
+        "endTime": 16411,
+        "pinyin": "wén"
+      },
+      {
+        "token": "你",
+        "startTime": 16411,
+        "endTime": 16693,
+        "pinyin": "nǐ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "只需要跟着我的",
+    "translations": {},
+    "segments": [
+      {
+        "token": "只",
+        "startTime": 16693,
+        "endTime": 17022,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "需",
+        "startTime": 17022,
+        "endTime": 17350,
+        "pinyin": "xū"
+      },
+      {
+        "token": "要",
+        "startTime": 17350,
+        "endTime": 17679,
+        "pinyin": "yào"
+      },
+      {
+        "token": "跟",
+        "startTime": 17679,
+        "endTime": 18007,
+        "pinyin": "gēn"
+      },
+      {
+        "token": "着",
+        "startTime": 18007,
+        "endTime": 18336,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "我",
+        "startTime": 18336,
+        "endTime": 18664,
+        "pinyin": "wǒ"
+      },
+      {
+        "token": "的",
+        "startTime": 18664,
+        "endTime": 18993,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "视频多看多听然后跟着我",
+    "translations": {},
+    "segments": [
+      {
+        "token": "视",
+        "startTime": 19733,
+        "endTime": 20053,
+        "pinyin": "shì"
+      },
+      {
+        "token": "频",
+        "startTime": 20053,
+        "endTime": 20373,
+        "pinyin": "pín"
+      },
+      {
+        "token": "多",
+        "startTime": 20373,
+        "endTime": 20693,
+        "pinyin": "duō"
+      },
+      {
+        "token": "看",
+        "startTime": 20693,
+        "endTime": 21013,
+        "pinyin": "kàn"
+      },
+      {
+        "token": "多",
+        "startTime": 21013,
+        "endTime": 21333,
+        "pinyin": "duō"
+      },
+      {
+        "token": "听",
+        "startTime": 21333,
+        "endTime": 21653,
+        "pinyin": "tīng"
+      },
+      {
+        "token": "然",
+        "startTime": 21653,
+        "endTime": 21973,
+        "pinyin": "rán"
+      },
+      {
+        "token": "后",
+        "startTime": 21973,
+        "endTime": 22293,
+        "pinyin": "hòu"
+      },
+      {
+        "token": "跟",
+        "startTime": 22293,
+        "endTime": 22613,
+        "pinyin": "gēn"
+      },
+      {
+        "token": "着",
+        "startTime": 22613,
+        "endTime": 22933,
+        "pinyin": "zhe"
+      },
+      {
+        "token": "我",
+        "startTime": 22933,
+        "endTime": 23253,
+        "pinyin": "wǒ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "多次的重复你就会学会",
+    "translations": {},
+    "segments": [
+      {
+        "token": "多",
+        "startTime": 23253,
+        "endTime": 23665,
+        "pinyin": "duō"
+      },
+      {
+        "token": "次",
+        "startTime": 23665,
+        "endTime": 24077,
+        "pinyin": "cì"
+      },
+      {
+        "token": "的",
+        "startTime": 24077,
+        "endTime": 24489,
+        "pinyin": "de"
+      },
+      {
+        "token": "重",
+        "startTime": 24489,
+        "endTime": 24901,
+        "pinyin": "chóng"
+      },
+      {
+        "token": "复",
+        "startTime": 24901,
+        "endTime": 25313,
+        "pinyin": "fù"
+      },
+      {
+        "token": "你",
+        "startTime": 25313,
+        "endTime": 25725,
+        "pinyin": "nǐ"
+      },
+      {
+        "token": "就",
+        "startTime": 25725,
+        "endTime": 26137,
+        "pinyin": "jiù"
+      },
+      {
+        "token": "会",
+        "startTime": 26137,
+        "endTime": 26549,
+        "pinyin": "huì"
+      },
+      {
+        "token": "学",
+        "startTime": 26549,
+        "endTime": 26961,
+        "pinyin": "xué"
+      },
+      {
+        "token": "会",
+        "startTime": 26961,
+        "endTime": 27373,
+        "pinyin": "huì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些简单易学",
+    "translations": {},
+    "segments": [
+      {
+        "token": "这",
+        "startTime": 27373,
+        "endTime": 27596,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 27596,
         "endTime": 27820,
-        "pinyin": "shǎng"
+        "pinyin": "xiē"
       },
       {
-        "token": "支",
+        "token": "简",
         "startTime": 27820,
-        "endTime": 27830,
-        "pinyin": "zhī"
+        "endTime": 28043,
+        "pinyin": "jiǎn"
       },
       {
-        "token": "持",
-        "startTime": 27830,
-        "endTime": 27840,
-        "pinyin": "chí"
+        "token": "单",
+        "startTime": 28043,
+        "endTime": 28266,
+        "pinyin": "dān"
       },
       {
-        "token": "明",
-        "startTime": 27840,
-        "endTime": 27860,
-        "pinyin": "míng"
+        "token": "易",
+        "startTime": 28266,
+        "endTime": 28490,
+        "pinyin": "yì"
       },
       {
-        "token": "镜",
-        "startTime": 27860,
-        "endTime": 27880,
-        "pinyin": "jìng"
-      },
-      {
-        "token": "与",
-        "startTime": 27880,
-        "endTime": 27900,
-        "pinyin": "yǔ"
-      },
-      {
-        "token": "点",
-        "startTime": 27900,
-        "endTime": 27920,
-        "pinyin": "diǎn"
-      },
-      {
-        "token": "点",
-        "startTime": 27920,
-        "endTime": 27940,
-        "pinyin": "diǎn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "栏目",
-    "translations": {
-      "en": "and"
-    },
-    "segments": [
-      {
-        "token": "栏",
-        "startTime": 27940,
-        "endTime": 27960,
-        "pinyin": "lán"
-      },
-      {
-        "token": "目",
-        "startTime": 27960,
-        "endTime": 27980,
-        "pinyin": "mù"
+        "token": "学",
+        "startTime": 28490,
+        "endTime": 28713,
+        "pinyin": "xué"
       }
     ]
   },
@@ -8534,12 +8838,6 @@
         "startTime": 649120,
         "endTime": 649180,
         "pinyin": "cháng"
-      },
-      {
-        "token": "热",
-        "startTime": 649180,
-        "endTime": 649580,
-        "pinyin": "rè"
       }
     ]
   },
@@ -13662,18 +13960,6 @@
         "startTime": 988200,
         "endTime": 988370,
         "pinyin": "fú"
-      },
-      {
-        "token": "或",
-        "startTime": 988370,
-        "endTime": 988490,
-        "pinyin": "huò"
-      },
-      {
-        "token": "者",
-        "startTime": 988490,
-        "endTime": 988610,
-        "pinyin": "zhě"
       }
     ]
   },
