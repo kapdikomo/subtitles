@@ -2,7 +2,7 @@
   {
     "sentence_text": "我们 的 故事 是 关于 一个 名叫 红魔 的 女孩",
     "translations": {
-      "en": "Our story is about a girl named Red Membrane."
+      "en": "Our story is about a girl named Red Devil."
     },
     "segments": [
       {
@@ -94,15 +94,7 @@
         "startTime": 9480,
         "endTime": 9660,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "红魔 很 敏感 以至于 总是 以泪洗面",
-    "translations": {
-      "en": "Red Membrane is so sensitive that she's always in tears."
-    },
-    "segments": [
+      },
       {
         "token": "女",
         "startTime": 9660,
@@ -114,7 +106,15 @@
         "startTime": 9660,
         "endTime": 9660,
         "pinyin": "hái"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "红魔 很 敏感 以至于 总是 以泪洗面",
+    "translations": {
+      "en": "Red Devil is so sensitive that she's always in tears."
+    },
+    "segments": [
       {
         "token": "红",
         "startTime": 9660,
@@ -202,9 +202,9 @@
     ]
   },
   {
-    "sentence_text": "她 难过 的 时候 会 哭 她 开心 的 时候 也 会 哭",
+    "sentence_text": "她 难过 的 时候 会 哭",
     "translations": {
-      "en": "She cries when she's sad, and she cries when she's happy."
+      "en": "She cries when she's sad."
     },
     "segments": [
       {
@@ -254,7 +254,15 @@
         "startTime": 18380,
         "endTime": 20340,
         "pinyin": "kū"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "她 开心 的 时候 也 会 哭",
+    "translations": {
+      "en": "She also cries when she's happy."
+    },
+    "segments": [
       {
         "token": "她",
         "startTime": 20340,
@@ -314,7 +322,7 @@
   {
     "sentence_text": "甚至 被 惹恼 了 还是 会 哭",
     "translations": {
-      "en": "Even when she's annoyed, she still cries."
+      "en": "She even cries when she's annoyed."
     },
     "segments": [
       {
@@ -382,7 +390,7 @@
   {
     "sentence_text": "它 特殊 的 泪线 可以 分泌 新 的 泪水",
     "translations": {
-      "en": "Her special tear ducts can secrete fresh tears."
+      "en": "Her special tear ducts can secrete new tears."
     },
     "segments": [
       {
@@ -474,7 +482,7 @@
   {
     "sentence_text": "还有 特殊 的 管道 叫做 泪 道 用来 排 走 眼泪",
     "translations": {
-      "en": "She also has special channels called tear ducts to drain the tears."
+      "en": "And there are special pipes called tear ducts to drain the tears."
     },
     "segments": [
       {
@@ -582,9 +590,9 @@
     ]
   },
   {
-    "sentence_text": "它 哭 得 很 厉害 每天 会 流掉 10 盎司 的 泪水",
+    "sentence_text": "它 哭 得 很 厉害",
     "translations": {
-      "en": "She cries so much that she loses 10 ounces of tears every day."
+      "en": "She cries a lot."
     },
     "segments": [
       {
@@ -622,7 +630,15 @@
         "startTime": 38080,
         "endTime": 38500,
         "pinyin": "hài"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "每天 会 流掉 10 盎司 的 泪水",
+    "translations": {
+      "en": "She loses 10 ounces of tears every day."
+    },
+    "segments": [
       {
         "token": "每",
         "startTime": 38500,
@@ -700,7 +716,7 @@
   {
     "sentence_text": "一年 30 加仑",
     "translations": {
-      "en": "That's 30 gallons a year."
+      "en": "30 gallons a year."
     },
     "segments": [
       {
@@ -742,9 +758,9 @@
     ]
   },
   {
-    "sentence_text": "事实上 如果 你 仔细观察 你 会 发现 它 无时不刻 都 流 点 眼泪",
+    "sentence_text": "事实上 如果 你 仔细观察",
     "translations": {
-      "en": "In fact, if you look closely, you'll see she's always shedding a few tears."
+      "en": "In fact, if you look closely,"
     },
     "segments": [
       {
@@ -806,7 +822,15 @@
         "startTime": 45940,
         "endTime": 46260,
         "pinyin": "chá"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 会 发现 它 无时不刻 都 流点 眼泪",
+    "translations": {
+      "en": "you'll find she's always shedding a few tears."
+    },
+    "segments": [
       {
         "token": "你",
         "startTime": 46260,
@@ -896,7 +920,7 @@
   {
     "sentence_text": "红膜 不断 产生 一点 基底 眼泪",
     "translations": {
-      "en": "Red Membrane constantly produces a bit of basal tears."
+      "en": "Red Devil constantly produces a little bit of basal tears,"
     },
     "segments": [
       {
@@ -974,9 +998,9 @@
     ]
   },
   {
-    "sentence_text": "形成 薄薄的 三层 外膜 以 防止 它 接触 灰尘 、 碎屑",
+    "sentence_text": "形成 薄薄的 三层 外膜",
     "translations": {
-      "en": "They form a thin, three-layer outer film to protect her from dust and debris."
+      "en": "forming a thin three-layer outer film,"
     },
     "segments": [
       {
@@ -1032,7 +1056,15 @@
         "startTime": 54690,
         "endTime": 55360,
         "pinyin": "mó"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "以 防止 它 接触 灰尘 、 碎屑",
+    "translations": {
+      "en": "to prevent contact with dust and debris."
+    },
+    "segments": [
       {
         "token": "以",
         "startTime": 55360,
@@ -1102,9 +1134,9 @@
     ]
   },
   {
-    "sentence_text": "紧 挨着 红膜 外面 的 是 粘液 层 给 它 固定",
+    "sentence_text": "紧 挨着 红膜 外面 的 是 粘液 层",
     "translations": {
-      "en": "Right next to the outer film is the mucus layer, which holds it in place."
+      "en": "Right next to the outer layer of Red Devil is the mucus layer,"
     },
     "segments": [
       {
@@ -1178,7 +1210,15 @@
         "startTime": 60940,
         "endTime": 61060,
         "pinyin": "céng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "给 它 固定 整个 组织",
+    "translations": {
+      "en": "which holds the whole structure together."
+    },
+    "segments": [
       {
         "token": "给",
         "startTime": 61060,
@@ -1202,15 +1242,7 @@
         "startTime": 61700,
         "endTime": 62000,
         "pinyin": "dìng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "整个 组织 在 它 上面 的 是 眼 防水层",
-    "translations": {
-      "en": "Above that whole structure is the watery layer."
-    },
-    "segments": [
+      },
       {
         "token": "整",
         "startTime": 62000,
@@ -1234,7 +1266,15 @@
         "startTime": 64240,
         "endTime": 64400,
         "pinyin": "zhī"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 它 上面 的 是 眼 防水层",
+    "translations": {
+      "en": "Above it is the watery layer of the eye,"
+    },
+    "segments": [
       {
         "token": "在",
         "startTime": 64400,
@@ -1298,9 +1338,9 @@
     ]
   },
   {
-    "sentence_text": "用来 保持 红膜 湿润 排斥 侵入 性 细菌",
+    "sentence_text": "用来 保持 红膜 湿润",
     "translations": {
-      "en": "It keeps Red Membrane moist and repels invading bacteria."
+      "en": "which keeps Red Devil moist,"
     },
     "segments": [
       {
@@ -1350,7 +1390,15 @@
         "startTime": 68430,
         "endTime": 68600,
         "pinyin": "rùn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "排斥 侵入 性 细菌",
+    "translations": {
+      "en": "repelling invasive bacteria."
+    },
+    "segments": [
       {
         "token": "排",
         "startTime": 68600,
@@ -1398,7 +1446,7 @@
   {
     "sentence_text": "并 保护 它 的 皮肤 也 叫 角膜",
     "translations": {
-      "en": "And protects her skin, also called the cornea."
+      "en": "And it protects the skin, also called the cornea."
     },
     "segments": [
       {
@@ -1472,7 +1520,7 @@
   {
     "sentence_text": "保护 它 免受 侵害",
     "translations": {
-      "en": "Shielding her from harm."
+      "en": "Protecting it from harm."
     },
     "segments": [
       {
@@ -1520,9 +1568,9 @@
     ]
   },
   {
-    "sentence_text": "并且 最后 还有 支质层 一层 保持 表面 平滑 的 油性 外膜",
+    "sentence_text": "并且 最后 还有 支质层",
     "translations": {
-      "en": "Finally, there's the lipid layer, an oily outer film that keeps the surface smooth."
+      "en": "And finally there is the lipid layer."
     },
     "segments": [
       {
@@ -1578,7 +1626,15 @@
         "startTime": 76740,
         "endTime": 76920,
         "pinyin": "céng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "一层 保持 表面 平滑 的 油性 外膜",
+    "translations": {
+      "en": "An oily outer film that keeps the surface smooth."
+    },
+    "segments": [
       {
         "token": "一",
         "startTime": 76920,
@@ -1660,9 +1716,9 @@
     ]
   },
   {
-    "sentence_text": "方便 红膜 透视 也 防止 其他 层 的 蒸发",
+    "sentence_text": "方便 红膜 透视",
     "translations": {
-      "en": "It helps Red Membrane see clearly and prevents the other layers from evaporating."
+      "en": "Allowing the iris to see through."
     },
     "segments": [
       {
@@ -1700,7 +1756,15 @@
         "startTime": 81350,
         "endTime": 81480,
         "pinyin": "shì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "也 防止 其他 层 的 蒸发",
+    "translations": {
+      "en": "Also preventing evaporation from other layers."
+    },
+    "segments": [
       {
         "token": "也",
         "startTime": 81480,
@@ -1760,7 +1824,7 @@
   {
     "sentence_text": "通常 情况 下红膜 整天 没有 注意 过 基地 眼泪",
     "translations": {
-      "en": "Normally, Red Membrane never notices her basal tears throughout the day."
+      "en": "Normally, the iris never pays attention to the basal tears all day."
     },
     "segments": [
       {
@@ -1876,7 +1940,7 @@
   {
     "sentence_text": "在 默默 的 工作",
     "translations": {
-      "en": "They work silently."
+      "en": "Working silently."
     },
     "segments": [
       {
@@ -1920,7 +1984,7 @@
   {
     "sentence_text": "某种程度 上 说 这 是 他们 的 存在 价值",
     "translations": {
-      "en": "To some extent, this is their reason for existence."
+      "en": "In a way, that is their reason for being."
     },
     "segments": [
       {
@@ -2018,7 +2082,7 @@
   {
     "sentence_text": "直到 有 一天 他 遇到 了 一个 叫做 洋葱 的 女孩",
     "translations": {
-      "en": "Until one day, he met a girl named Onion."
+      "en": "Until one day, it met a girl named Onion."
     },
     "segments": [
       {
@@ -2134,7 +2198,7 @@
   {
     "sentence_text": "红膜 被 受 打击",
     "translations": {
-      "en": "Red Membrane was devastated."
+      "en": "The iris was devastated."
     },
     "segments": [
       {
@@ -2176,9 +2240,9 @@
     ]
   },
   {
-    "sentence_text": "洋葱 在 她 明亮 的 紫色 外套 的 红 脱 下 看起来 很 华丽",
+    "sentence_text": "洋葱 在 她 明亮 的 紫色 外套 的 红 脱下 看起来 很 华丽",
     "translations": {
-      "en": "Onion looked gorgeous in her bright purple coat, even after taking it off."
+      "en": "Onion looked gorgeous in her bright purple coat, stripped down."
     },
     "segments": [
       {
@@ -2368,7 +2432,7 @@
   {
     "sentence_text": "于是 红膜 邀请 洋葱 来 家里 吃 晚餐",
     "translations": {
-      "en": "So Red Membrane invited Onion over for dinner."
+      "en": "So the iris invited Onion over for dinner."
     },
     "segments": [
       {
@@ -2458,9 +2522,9 @@
     ]
   },
   {
-    "sentence_text": "当 洋葱 进屋 并且 脱 下 外套 可怕 的 事情 发生 了",
+    "sentence_text": "当 洋葱 进屋 并且 脱 下 外套",
     "translations": {
-      "en": "When Onion entered the house and took off her coat, something terrible happened."
+      "en": "When Onion came in and took off her coat,"
     },
     "segments": [
       {
@@ -2528,7 +2592,15 @@
         "startTime": 107570,
         "endTime": 107880,
         "pinyin": "tào"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "可怕 的 事情 发生 了",
+    "translations": {
+      "en": "Something terrible happened."
+    },
+    "segments": [
       {
         "token": "可",
         "startTime": 107880,
@@ -2580,9 +2652,9 @@
     ]
   },
   {
-    "sentence_text": "你 看 当 洋葱 脱 下 外套 一个 化学反应 发生 了",
+    "sentence_text": "你 看 当 洋葱 脱 下 外套",
     "translations": {
-      "en": "You see, when Onion took off her coat, a chemical reaction occurred."
+      "en": "You see, when Onion takes off her coat,"
     },
     "segments": [
       {
@@ -2638,7 +2710,15 @@
         "startTime": 112230,
         "endTime": 112360,
         "pinyin": "tào"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "一个 化学反应 发生 了",
+    "translations": {
+      "en": "A chemical reaction occurs."
+    },
+    "segments": [
       {
         "token": "一",
         "startTime": 112360,
@@ -2698,7 +2778,7 @@
   {
     "sentence_text": "把 让 它 闻 起来 有 浓烈 味道 的 亚风 转化成 次 黄酸",
     "translations": {
-      "en": "It converted the compound that gave it a strong smell into sulfenic acid."
+      "en": "Converting the sulfenic acid that gives it its strong smell into thiosulfinate."
     },
     "segments": [
       {
@@ -2826,7 +2906,7 @@
   {
     "sentence_text": "近日 变成 一个 有 剧场 S 氧化物",
     "translations": {
-      "en": "Which then turned into a volatile sulfur oxide."
+      "en": "Which then becomes a tear-inducing oxide."
     },
     "segments": [
       {
@@ -2912,7 +2992,7 @@
   {
     "sentence_text": "这种 气体 刺激 着 红膜 来势汹汹",
     "translations": {
-      "en": "This gas irritated Red Membrane fiercely."
+      "en": "This gas fiercely irritates the iris."
     },
     "segments": [
       {
@@ -2996,9 +3076,9 @@
     ]
   },
   {
-    "sentence_text": "它 无力 阻止 于是 它 开始 控制 不住 地 大哭",
+    "sentence_text": "它 无力 阻止",
     "translations": {
-      "en": "It couldn't stop it, so it began to cry uncontrollably."
+      "en": "It cannot stop it."
     },
     "segments": [
       {
@@ -3030,7 +3110,15 @@
         "startTime": 128570,
         "endTime": 128960,
         "pinyin": "zhǐ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "于是 它 开始 控制 不住 地 大哭",
+    "translations": {
+      "en": "So it starts crying uncontrollably."
+    },
+    "segments": [
       {
         "token": "于",
         "startTime": 128960,
@@ -3108,7 +3196,7 @@
   {
     "sentence_text": "这种 反应 性 的 眼泪 与 红膜 经常 流 的 基底 眼泪 不同",
     "translations": {
-      "en": "These reactive tears are different from the basal tears Red Membrane usually sheds."
+      "en": "These reactive tears are different from the basal tears the iris often sheds."
     },
     "segments": [
       {
@@ -3350,9 +3438,9 @@
     ]
   },
   {
-    "sentence_text": "它们 的 流量 更大 并且 水层 中 包含 大量 抗体",
+    "sentence_text": "它们 的 流量 更大",
     "translations": {
-      "en": "They flow more heavily and contain many antibodies in the water layer."
+      "en": "They flow more heavily."
     },
     "segments": [
       {
@@ -3396,7 +3484,15 @@
         "startTime": 140670,
         "endTime": 141720,
         "pinyin": "dà"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "并且 水层 中 包含 大量 抗体",
+    "translations": {
+      "en": "And the water layer contains many antibodies."
+    },
+    "segments": [
       {
         "token": "并",
         "startTime": 141720,
@@ -3468,7 +3564,7 @@
   {
     "sentence_text": "也 为了 阻止 可能 进入 眼睛 的 微生物",
     "translations": {
-      "en": "Also to prevent microbes that might enter the eyes."
+      "en": "Also to stop microbes that might enter the eyes."
     },
     "segments": [
       {
@@ -3566,7 +3662,7 @@
   {
     "sentence_text": "红膜 和 洋葱 都 震惊 了",
     "translations": {
-      "en": "Both Red Membrane and Onion were shocked."
+      "en": "The iris and the onion are both shocked."
     },
     "segments": [
       {
@@ -3628,7 +3724,7 @@
   {
     "sentence_text": "他们 知道 将 无法 继续 做好 朋友 了",
     "translations": {
-      "en": "They knew they could no longer be good friends."
+      "en": "They know they can no longer be good friends."
     },
     "segments": [
       {
@@ -3720,7 +3816,7 @@
   {
     "sentence_text": "在 每次 洋葱 脱 下 外套 的 时候",
     "translations": {
-      "en": "Every time Onion took off her coat,"
+      "en": "Every time the onion takes off its coat,"
     },
     "segments": [
       {
@@ -3800,7 +3896,7 @@
   {
     "sentence_text": "红膜会 受到 伤害 和 哭泣",
     "translations": {
-      "en": "Red Membrane would be hurt and cry."
+      "en": "the iris gets hurt and cries."
     },
     "segments": [
       {
@@ -3868,7 +3964,7 @@
   {
     "sentence_text": "于是 他们 决定 绝交",
     "translations": {
-      "en": "So they decided to break off the friendship."
+      "en": "So they decide to break up."
     },
     "segments": [
       {
@@ -3924,7 +4020,7 @@
   {
     "sentence_text": "当 洋葱 走出 房门 时",
     "translations": {
-      "en": "When Onion walked out the door,"
+      "en": "When the onion walks out the door,"
     },
     "segments": [
       {
@@ -3972,29 +4068,29 @@
       {
         "token": "时",
         "startTime": 161120,
-        "endTime": 161176,
-        "pinyin": "shí"
-      },
-      {
-        "token": "红",
-        "startTime": 161176,
-        "endTime": 161231,
-        "pinyin": "hóng"
-      },
-      {
-        "token": "膜",
-        "startTime": 161231,
         "endTime": 161287,
-        "pinyin": "mó"
+        "pinyin": "shí"
       }
     ]
   },
   {
     "sentence_text": "红膜 停止 了 哭泣",
     "translations": {
-      "en": "Red Membrane stopped crying."
+      "en": "the iris stops crying."
     },
     "segments": [
+      {
+        "token": "红",
+        "startTime": 161287,
+        "endTime": 161453,
+        "pinyin": "hóng"
+      },
+      {
+        "token": "膜",
+        "startTime": 161453,
+        "endTime": 161620,
+        "pinyin": "mó"
+      },
       {
         "token": "停",
         "startTime": 161620,
@@ -4030,7 +4126,7 @@
   {
     "sentence_text": "紧接着 他 又 开始 哭",
     "translations": {
-      "en": "Then he started crying again,"
+      "en": "Then it starts crying again."
     },
     "segments": [
       {
@@ -4086,7 +4182,7 @@
   {
     "sentence_text": "但是 这次 他 并 不是 反射性 流泪",
     "translations": {
-      "en": "but this time it wasn't reflexive tears."
+      "en": "But this time it's not reflex tears."
     },
     "segments": [
       {
@@ -4172,7 +4268,7 @@
   {
     "sentence_text": "而是 动静 落泪",
     "translations": {
-      "en": "Instead, he was crying emotional tears."
+      "en": "It's emotional tears."
     },
     "segments": [
       {
@@ -4216,7 +4312,7 @@
   {
     "sentence_text": "当 一个 人太 难过 或是 太 开心 的 时候",
     "translations": {
-      "en": "When a person is too sad or too happy,"
+      "en": "When someone is too sad or too happy,"
     },
     "segments": [
       {
@@ -4402,7 +4498,7 @@
   {
     "sentence_text": "因此 留下 动情 的 泪水 可以 稳定情绪",
     "translations": {
-      "en": "Therefore, shedding emotional tears can stabilize emotions."
+      "en": "So shedding emotional tears can stabilize your mood."
     },
     "segments": [
       {
@@ -4500,7 +4596,7 @@
   {
     "sentence_text": "尽快 地 和 其他 物理 反应 一起 作用",
     "translations": {
-      "en": "Working together with other physical reactions as quickly as possible,"
+      "en": "They quickly interact with other physical reactions."
     },
     "segments": [
       {
@@ -4592,7 +4688,7 @@
   {
     "sentence_text": "比如 加快 心率 和 减缓 呼吸",
     "translations": {
-      "en": "such as speeding up the heart rate and slowing down breathing."
+      "en": "Like speeding up your heart rate and slowing your breathing."
     },
     "segments": [
       {
@@ -4666,7 +4762,7 @@
   {
     "sentence_text": "但是 科学家 们 仍 无法 确定 眼泪 为什么 或 如何 起到 效用 的",
     "translations": {
-      "en": "But scientists still can't determine why or how tears work."
+      "en": "But scientists still can't determine exactly why or how tears work."
     },
     "segments": [
       {
@@ -4944,9 +5040,9 @@
     ]
   },
   {
-    "sentence_text": "但是 某些 研究 也 发现 动情 流下 的 泪水 中",
+    "sentence_text": "但是 某些 研究 也 发现 动情 流下 的 泪水 中 包含 较 高浓度 的 硬积 激素",
     "translations": {
-      "en": "However, some studies have also found that emotional tears"
+      "en": "However, some studies have found that emotional tears contain higher levels of stress hormones."
     },
     "segments": [
       {
@@ -5050,15 +5146,7 @@
         "startTime": 199120,
         "endTime": 199320,
         "pinyin": "zhōng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "包含 较 高浓度 的 硬积 激素",
-    "translations": {
-      "en": "contain higher concentrations of stress hormones,"
-    },
-    "segments": [
+      },
       {
         "token": "包",
         "startTime": 199320,
@@ -5130,7 +5218,7 @@
   {
     "sentence_text": "比如 醋 身上 腺 皮质激素 和 脑肥态",
     "translations": {
-      "en": "such as adrenocorticotropic hormone and endorphins,"
+      "en": "Such as adrenocorticotropic hormone and endorphins."
     },
     "segments": [
       {
@@ -5222,7 +5310,7 @@
   {
     "sentence_text": "一种 内肥态 可以 自然 止痛",
     "translations": {
-      "en": "a type of endorphin that can naturally relieve pain."
+      "en": "An endorphin that can naturally relieve pain."
     },
     "segments": [
       {
@@ -5296,7 +5384,7 @@
   {
     "sentence_text": "在 这种 情况 下 情感 泪水 也 可以 让 红膜 冷静下来",
     "translations": {
-      "en": "In this case, emotional tears can also calm Red Membrane down"
+      "en": "In this case, emotional tears can also calm the iris."
     },
     "segments": [
       {
@@ -5424,7 +5512,7 @@
   {
     "sentence_text": "以及 向 别人 传递 它 的 情绪",
     "translations": {
-      "en": "and convey its emotions to others."
+      "en": "And convey its emotions to others."
     },
     "segments": [
       {
@@ -5498,7 +5586,7 @@
   {
     "sentence_text": "很 抱歉 红膜 你 不能 和 洋葱 做 朋友 了",
     "translations": {
-      "en": "Sorry, Red Film, you can't be friends with Onion anymore."
+      "en": "Sorry, iris, you can't be friends with onions anymore."
     },
     "segments": [
       {
@@ -5596,7 +5684,7 @@
   {
     "sentence_text": "但是 别 担心 只要 你 拥有 这 三种 泪水",
     "translations": {
-      "en": "But don't worry, as long as you have these three kinds of tears,"
+      "en": "But don't worry, as long as you have these three types of tears."
     },
     "segments": [
       {
@@ -5694,7 +5782,7 @@
   {
     "sentence_text": "来 保持 你 的 健康 均衡",
     "translations": {
-      "en": "to keep your health balanced,"
+      "en": "To keep your health balanced."
     },
     "segments": [
       {
@@ -5756,7 +5844,7 @@
   {
     "sentence_text": "一切 都 会 好 起来 你 会 看到 的",
     "translations": {
-      "en": "everything will be fine, you'll see."
+      "en": "Everything will be fine, you'll see."
     },
     "segments": [
       {
@@ -5898,7 +5986,7 @@
   {
     "sentence_text": "观看 这些 视频 可以 挑战 您 认为 自己 知道 的 事情",
     "translations": {
-      "en": "Watching these videos can challenge what you think you know,"
+      "en": "Watching these videos can challenge what you think you know."
     },
     "segments": [
       {
@@ -6024,9 +6112,9 @@
     ]
   },
   {
-    "sentence_text": "不 知道 的 事情",
+    "sentence_text": "不 知道 的 事情 订阅 并 保持 好奇心",
     "translations": {
-      "en": "and what you don't know."
+      "en": "Subscribe to things you don't know and stay curious."
     },
     "segments": [
       {
@@ -6064,15 +6152,7 @@
         "startTime": 230070,
         "endTime": 230340,
         "pinyin": "qíng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "订阅 并 保持 好奇心",
-    "translations": {
-      "en": "Subscribe and stay curious."
-    },
-    "segments": [
+      },
       {
         "token": "订",
         "startTime": 230340,
