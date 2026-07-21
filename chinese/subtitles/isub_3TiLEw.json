@@ -2,7 +2,7 @@
   {
     "sentence_text": "欢迎 订阅 我 的 频道",
     "translations": {
-      "en": "Welcome to subscribe to my channel."
+      "en": "Welcome to my channel."
     },
     "segments": [
       {
@@ -58,7 +58,7 @@
   {
     "sentence_text": "想要 听 你 来 多 说 几句",
     "translations": {
-      "en": "I want to hear you say more."
+      "en": "I want to hear more from you."
     },
     "segments": [
       {
@@ -714,7 +714,7 @@
   {
     "sentence_text": "大家 看看 这个 是 什么",
     "translations": {
-      "en": "Everyone, look at what this is."
+      "en": "Everyone, look at this."
     },
     "segments": [
       {
@@ -776,7 +776,7 @@
   {
     "sentence_text": "路牌 上面 有 很多 的 地点 指引",
     "translations": {
-      "en": "The signpost has many location directions."
+      "en": "There are many location signs on the street sign."
     },
     "segments": [
       {
@@ -1104,14 +1104,8 @@
       {
         "token": "高",
         "startTime": 92100,
-        "endTime": 92530,
-        "pinyin": "gāo"
-      },
-      {
-        "token": "树",
-        "startTime": 92530,
         "endTime": 92960,
-        "pinyin": "shù"
+        "pinyin": "gāo"
       }
     ]
   },
@@ -1121,6 +1115,12 @@
       "en": "The trees are tall."
     },
     "segments": [
+      {
+        "token": "树",
+        "startTime": 92960,
+        "endTime": 93820,
+        "pinyin": "shù"
+      },
       {
         "token": "很",
         "startTime": 93820,
@@ -1396,7 +1396,7 @@
   {
     "sentence_text": "对 这个 树 都 需要 生长 很多年 才能 长到 这么 高",
     "translations": {
-      "en": "Yes, these trees need to grow for many years to reach this height."
+      "en": "Yes, these trees need many years to grow this tall."
     },
     "segments": [
       {
@@ -1634,9 +1634,9 @@
     ]
   },
   {
-    "sentence_text": "没有 你 嫌弃 我",
+    "sentence_text": "没有",
     "translations": {
-      "en": "No, you look down on me."
+      "en": "No."
     },
     "segments": [
       {
@@ -1650,7 +1650,15 @@
         "startTime": 128840,
         "endTime": 129160,
         "pinyin": "yǒu"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "你 嫌弃 我",
+    "translations": {
+      "en": "You look down on me."
+    },
+    "segments": [
       {
         "token": "你",
         "startTime": 129160,
@@ -1668,6 +1676,12 @@
         "startTime": 129560,
         "endTime": 129740,
         "pinyin": "qì"
+      },
+      {
+        "token": "我",
+        "startTime": 129740,
+        "endTime": 129740,
+        "pinyin": "wǒ"
       }
     ]
   },
@@ -1677,12 +1691,6 @@
       "en": "You do, don't you?"
     },
     "segments": [
-      {
-        "token": "我",
-        "startTime": 129740,
-        "endTime": 129740,
-        "pinyin": "wǒ"
-      },
       {
         "token": "你",
         "startTime": 129740,
@@ -1700,15 +1708,7 @@
         "startTime": 130910,
         "endTime": 131540,
         "pinyin": "qì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "大家 猜猜 他 有 多 高",
-    "translations": {
-      "en": "Everyone, guess how tall he is."
-    },
-    "segments": [
+      },
       {
         "token": "是",
         "startTime": 131540,
@@ -1726,7 +1726,15 @@
         "startTime": 131540,
         "endTime": 131540,
         "pinyin": "shì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "大家 猜猜 他 有 多 高",
+    "translations": {
+      "en": "Everyone, guess how tall he is."
+    },
+    "segments": [
       {
         "token": "大",
         "startTime": 131540,
@@ -2116,7 +2124,7 @@
   {
     "sentence_text": "厌恶 或者说 是 不 喜欢",
     "translations": {
-      "en": "Disgust or not liking."
+      "en": "Disgust or dislike."
     },
     "segments": [
       {
@@ -2178,7 +2186,7 @@
   {
     "sentence_text": "对 就是 不 喜欢",
     "translations": {
-      "en": "Yes, just not liking."
+      "en": "Yes, it means dislike."
     },
     "segments": [
       {
@@ -2284,7 +2292,7 @@
   {
     "sentence_text": "好像 上面 有 一个 是不是 吹 笛子",
     "translations": {
-      "en": "It seems like someone up there is playing a flute?"
+      "en": "Is someone up there playing a flute?"
     },
     "segments": [
       {
@@ -2426,7 +2434,7 @@
   {
     "sentence_text": "好像 是 在 吹 笛子",
     "translations": {
-      "en": "It sounds like he's playing a flute."
+      "en": "It sounds like someone is playing a flute."
     },
     "segments": [
       {
@@ -2476,7 +2484,7 @@
   {
     "sentence_text": "是 我们 中国 的 一个 传统 的 古 乐器",
     "translations": {
-      "en": "It is a traditional ancient musical instrument of China."
+      "en": "It's a traditional ancient musical instrument from China."
     },
     "segments": [
       {
@@ -2888,46 +2896,158 @@
       {
         "token": "一",
         "startTime": 196420,
-        "endTime": 208960,
+        "endTime": 200960,
         "pinyin": "yī"
       },
       {
         "token": "类",
-        "startTime": 208960,
-        "endTime": 221500,
+        "startTime": 200960,
+        "endTime": 205500,
         "pinyin": "lèi"
       },
       {
         "token": "古",
-        "startTime": 221500,
-        "endTime": 222087,
+        "startTime": 205500,
+        "endTime": 206640,
         "pinyin": "gǔ"
       },
       {
         "token": "建",
-        "startTime": 222087,
-        "endTime": 222673,
+        "startTime": 206640,
+        "endTime": 207780,
         "pinyin": "jiàn"
       },
       {
         "token": "筑",
-        "startTime": 222673,
-        "endTime": 223260,
+        "startTime": 207780,
+        "endTime": 208920,
         "pinyin": "zhù"
       }
     ]
   },
   {
-    "sentence_text": "起 底子 话 听 吗",
+    "sentence_text": "大骗子",
     "translations": {
-      "en": "Do you want to hear the basics?"
+      "en": "Big liar."
     },
     "segments": [
       {
-        "token": "起",
-        "startTime": 223260,
+        "token": "大",
+        "startTime": 208920,
+        "endTime": 209913,
+        "pinyin": "dà"
+      },
+      {
+        "token": "骗",
+        "startTime": 209913,
+        "endTime": 210907,
+        "pinyin": "piàn"
+      },
+      {
+        "token": "子",
+        "startTime": 210907,
+        "endTime": 211900,
+        "pinyin": "zi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "好 嘞 好 嘞 好 嘞 好 嘞 好 嘞 好 嘞",
+    "translations": {
+      "en": "Alright, alright, alright, alright, alright, alright."
+    },
+    "segments": [
+      {
+        "token": "好",
+        "startTime": 211900,
+        "endTime": 212480,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "嘞",
+        "startTime": 212480,
+        "endTime": 213860,
+        "pinyin": "lei"
+      },
+      {
+        "token": "好",
+        "startTime": 213860,
+        "endTime": 213860,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "嘞",
+        "startTime": 213860,
+        "endTime": 214100,
+        "pinyin": "lei"
+      },
+      {
+        "token": "好",
+        "startTime": 214100,
+        "endTime": 217780,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "嘞",
+        "startTime": 217780,
+        "endTime": 217800,
+        "pinyin": "lei"
+      },
+      {
+        "token": "好",
+        "startTime": 217800,
+        "endTime": 217800,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "嘞",
+        "startTime": 217800,
+        "endTime": 217800,
+        "pinyin": "lei"
+      },
+      {
+        "token": "好",
+        "startTime": 217800,
+        "endTime": 221280,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "嘞",
+        "startTime": 221280,
+        "endTime": 221660,
+        "pinyin": "lei"
+      },
+      {
+        "token": "好",
+        "startTime": 221660,
+        "endTime": 221800,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "嘞",
+        "startTime": 221800,
+        "endTime": 221960,
+        "pinyin": "lei"
+      }
+    ]
+  },
+  {
+    "sentence_text": "鸡鸡 底子 话 听 吗",
+    "translations": {
+      "en": "Do you understand the local dialect?"
+    },
+    "segments": [
+      {
+        "token": "鸡",
+        "startTime": 221960,
+        "endTime": 222700,
+        "pinyin": "jī"
+      },
+      {
+        "token": "鸡",
+        "startTime": 222700,
         "endTime": 223440,
-        "pinyin": "qǐ"
+        "pinyin": "jī"
       },
       {
         "token": "底",
@@ -3026,7 +3146,7 @@
   {
     "sentence_text": "我们 这 是 在 爬山",
     "translations": {
-      "en": "We are hiking now."
+      "en": "We are climbing a mountain."
     },
     "segments": [
       {
@@ -3076,7 +3196,7 @@
   {
     "sentence_text": "爬山 但 这个 山 也 不是 很 高",
     "translations": {
-      "en": "Hiking, but this mountain is not very high."
+      "en": "Climbing a mountain, but this mountain isn't very high."
     },
     "segments": [
       {
@@ -3218,7 +3338,7 @@
   {
     "sentence_text": "你 喜欢 爬山 吗",
     "translations": {
-      "en": "Do you like hiking?"
+      "en": "Do you like mountain climbing?"
     },
     "segments": [
       {
@@ -3342,7 +3462,7 @@
   {
     "sentence_text": "对 我 觉得 爬山 对于 生活 在 城市 里 的 人 来说",
     "translations": {
-      "en": "Yes, I think hiking for people living in cities"
+      "en": "Yes, I think mountain climbing for people living in the city."
     },
     "segments": [
       {
@@ -3458,7 +3578,7 @@
   {
     "sentence_text": "应该 是 一种 比较 便捷 比较 高效 的 一种 休闲 的 健身 方式",
     "translations": {
-      "en": "should be a relatively convenient and efficient way of leisure fitness."
+      "en": "Should be a relatively convenient and efficient way of leisure fitness."
     },
     "segments": [
       {
@@ -3604,7 +3724,7 @@
   {
     "sentence_text": "应该 说 是 比较 的 休闲",
     "translations": {
-      "en": "It should be said to be quite leisurely."
+      "en": "It should be said to be relatively leisurely."
     },
     "segments": [
       {
@@ -3734,7 +3854,7 @@
   {
     "sentence_text": "还是 一种 比较 轻松 的 运动 方式",
     "translations": {
-      "en": "It's still a relatively relaxed form of exercise."
+      "en": "It's still a relatively relaxing way to exercise."
     },
     "segments": [
       {
@@ -3876,7 +3996,7 @@
   {
     "sentence_text": "我们 还 可以 看到 边上 有 很多 的 植物",
     "translations": {
-      "en": "we can also see many plants along the way."
+      "en": "we can also see many plants on the sides."
     },
     "segments": [
       {
@@ -4196,7 +4316,7 @@
   {
     "sentence_text": "你 看 这棵 大树 很 高",
     "translations": {
-      "en": "Look at this big tree, it's very tall."
+      "en": "Look, this big tree is very tall."
     },
     "segments": [
       {
@@ -4416,9 +4536,9 @@
     ]
   },
   {
-    "sentence_text": "52 年 了 它 有 52 岁 了",
+    "sentence_text": "52 年 了",
     "translations": {
-      "en": "52 years old, it's 52 years old."
+      "en": "52 years old."
     },
     "segments": [
       {
@@ -4444,7 +4564,15 @@
         "startTime": 323705,
         "endTime": 324765,
         "pinyin": "le"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 有 52 岁 了",
+    "translations": {
+      "en": "It's 52 years old."
+    },
+    "segments": [
       {
         "token": "它",
         "startTime": 324765,
@@ -4486,7 +4614,7 @@
   {
     "sentence_text": "这个 阳光 打 在 我 的 脸上",
     "translations": {
-      "en": "The sunlight is hitting my face."
+      "en": "The sunlight hits my face."
     },
     "segments": [
       {
@@ -4598,7 +4726,7 @@
   {
     "sentence_text": "平时 上班 都 在 空调 房里",
     "translations": {
-      "en": "Usually at work, I'm in an air-conditioned room."
+      "en": "Usually I work in an air-conditioned room."
     },
     "segments": [
       {
@@ -4666,7 +4794,7 @@
   {
     "sentence_text": "每天 吹 着 空调",
     "translations": {
-      "en": "Blowing the AC every day."
+      "en": "Blowing the AC every day,"
     },
     "segments": [
       {
@@ -4710,7 +4838,7 @@
   {
     "sentence_text": "很难 被 太阳 这样 晒 一下",
     "translations": {
-      "en": "It's rare to get a bit of sun like this."
+      "en": "it's rare to get a bit of sun like this."
     },
     "segments": [
       {
@@ -4776,9 +4904,9 @@
     ]
   },
   {
-    "sentence_text": "真的 很 享受 很 喜欢 这种 感觉",
+    "sentence_text": "真的 很 享受",
     "translations": {
-      "en": "I really enjoy and love this feeling."
+      "en": "Really enjoying it."
     },
     "segments": [
       {
@@ -4810,7 +4938,15 @@
         "startTime": 349105,
         "endTime": 349605,
         "pinyin": "shòu"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "很 喜欢 这种 感觉",
+    "translations": {
+      "en": "Really love this feeling."
+    },
+    "segments": [
       {
         "token": "很",
         "startTime": 349605,
@@ -4858,7 +4994,7 @@
   {
     "sentence_text": "前面 好像 到 了 游乐场",
     "translations": {
-      "en": "It looks like we've reached an amusement park ahead."
+      "en": "Looks like we're reaching an amusement park ahead."
     },
     "segments": [
       {
@@ -4920,7 +5056,7 @@
   {
     "sentence_text": "应该 是 你 喜欢 的 环节 了",
     "translations": {
-      "en": "This should be the part you like."
+      "en": "This should be your favorite part."
     },
     "segments": [
       {
@@ -4986,9 +5122,9 @@
     ]
   },
   {
-    "sentence_text": "喜欢 吧 这个 我 喜欢",
+    "sentence_text": "喜欢 吧",
     "translations": {
-      "en": "You like it, right? I like this."
+      "en": "You like it, huh?"
     },
     "segments": [
       {
@@ -5008,7 +5144,15 @@
         "startTime": 361005,
         "endTime": 361225,
         "pinyin": "ba"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 我 喜欢",
+    "translations": {
+      "en": "I like this one."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 361225,
@@ -5044,7 +5188,7 @@
   {
     "sentence_text": "哇 这 是 跳楼 机",
     "translations": {
-      "en": "Wow, that's a drop tower."
+      "en": "Wow, this is a drop tower."
     },
     "segments": [
       {
@@ -5174,7 +5318,7 @@
   {
     "sentence_text": "你 想 玩 哪",
     "translations": {
-      "en": "Which one do you want to ride?"
+      "en": "Which one do you want to try?"
     },
     "segments": [
       {
@@ -5284,9 +5428,9 @@
     ]
   },
   {
-    "sentence_text": "但是 这个 水会 有 一点 脏",
+    "sentence_text": "但是 这个 水会 有 一点 脏 感觉 我 也 觉得 我 也 觉得 不 知道 往 哪 走 我们 就 看看 那个 路牌 吧",
     "translations": {
-      "en": "But this water might be a bit dirty."
+      "en": "But the water might be a bit dirty. I feel that way too. I don't know where to go. Let's just check that sign."
     },
     "segments": [
       {
@@ -5348,15 +5492,7 @@
         "startTime": 382685,
         "endTime": 383085,
         "pinyin": "zàng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "感觉 我 也 觉得 我 也 觉得",
-    "translations": {
-      "en": "I feel the same, I feel the same."
-    },
-    "segments": [
+      },
       {
         "token": "感",
         "startTime": 383085,
@@ -5416,15 +5552,7 @@
         "startTime": 389465,
         "endTime": 389965,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "不 知道 往 哪 走 我们 就 看看 那个 路牌 吧",
-    "translations": {
-      "en": "Not sure where to go, let's look at that sign."
-    },
-    "segments": [
+      },
       {
         "token": "不",
         "startTime": 389965,
@@ -5524,9 +5652,9 @@
     ]
   },
   {
-    "sentence_text": "看看 那个 路牌 可以 往 左 走",
+    "sentence_text": "看看 那个 路牌 可以 往 左 走 左边 还有 很多 呢 恐龙 大 世界",
     "translations": {
-      "en": "Look at that sign, we can go left."
+      "en": "Check that sign. We can go left. There's a lot more over there, like the Dinosaur World."
     },
     "segments": [
       {
@@ -5594,15 +5722,7 @@
         "startTime": 396045,
         "endTime": 397225,
         "pinyin": "zǒu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "左边 还有 很多 呢 恐龙 大 世界",
-    "translations": {
-      "en": "There's a lot more to the left, like Dinosaur World."
-    },
-    "segments": [
+      },
       {
         "token": "左",
         "startTime": 397225,
@@ -5678,9 +5798,9 @@
     ]
   },
   {
-    "sentence_text": "发现 很 开阔 的 一片 草坪",
+    "sentence_text": "发现 很 开阔 的 一片 草坪 这里 好像 有个 停机坪",
     "translations": {
-      "en": "Found a very open lawn."
+      "en": "Found a wide open lawn. Looks like there's a helipad here."
     },
     "segments": [
       {
@@ -5742,15 +5862,7 @@
         "startTime": 420485,
         "endTime": 421665,
         "pinyin": "píng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这里 好像 有个 停机坪",
-    "translations": {
-      "en": "Looks like there's a helipad here."
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 421665,
@@ -5808,9 +5920,9 @@
     ]
   },
   {
-    "sentence_text": "有个 停 飞机 的 地方",
+    "sentence_text": "有个 停 飞机 的 地方 你 看 那里 这个 是不是 可 停 飞机 啊",
     "translations": {
-      "en": "There's a place for planes to park."
+      "en": "There's a place for planes to land. Look over there, is that for planes?"
     },
     "segments": [
       {
@@ -5860,15 +5972,7 @@
         "startTime": 425685,
         "endTime": 426145,
         "pinyin": "fāng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "你 看 那里 这个 是不是 可 停 飞机 啊",
-    "translations": {
-      "en": "Look over there, is that where planes can park?"
-    },
-    "segments": [
+      },
       {
         "token": "你",
         "startTime": 426145,
@@ -5956,9 +6060,9 @@
     ]
   },
   {
-    "sentence_text": "那里 有 一个 那个 飞机 坪",
+    "sentence_text": "那里 有 一个 那个 飞机 坪 然后 我们 看到 这个 草坪 上",
     "translations": {
-      "en": "There's an airstrip over there."
+      "en": "There's an airplane pad over there, and then we see on this lawn..."
     },
     "segments": [
       {
@@ -6020,15 +6124,7 @@
         "startTime": 432765,
         "endTime": 435185,
         "pinyin": "píng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "然后 我们 看到 这个 草坪 上",
-    "translations": {
-      "en": "Then we saw on this lawn,"
-    },
-    "segments": [
+      },
       {
         "token": "然",
         "startTime": 435185,
@@ -6088,21 +6184,21 @@
         "startTime": 436225,
         "endTime": 436425,
         "pinyin": "píng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "那边 还有 人 在 露营",
-    "translations": {
-      "en": "There are people camping over there."
-    },
-    "segments": [
+      },
       {
         "token": "上",
         "startTime": 436425,
         "endTime": 436425,
         "pinyin": "shàng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "那边 还有 人 在 露营 露营 还 记得 吗",
+    "translations": {
+      "en": "There are people camping over there. Remember camping?"
+    },
+    "segments": [
       {
         "token": "那",
         "startTime": 436425,
@@ -6150,15 +6246,7 @@
         "startTime": 439245,
         "endTime": 440505,
         "pinyin": "yíng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "露营 还 记得 吗",
-    "translations": {
-      "en": "Remember camping?"
-    },
-    "segments": [
+      },
       {
         "token": "露",
         "startTime": 440505,
@@ -6424,9 +6512,9 @@
     ]
   },
   {
-    "sentence_text": "那个 足球 有点 太大 了",
+    "sentence_text": "那个 足球 有点 太大 了 可以 了解 一下",
     "translations": {
-      "en": "That soccer ball is a bit too big."
+      "en": "That soccer ball is a bit too big. You can check it out."
     },
     "segments": [
       {
@@ -6482,15 +6570,7 @@
         "startTime": 455110,
         "endTime": 459430,
         "pinyin": "le"
-      }
-    ]
-  },
-  {
-    "sentence_text": "可以 了解 一下 这 就是 在 中国 城市 里 的 周末 生活",
-    "translations": {
-      "en": "This gives you an idea of weekend life in Chinese cities."
-    },
-    "segments": [
+      },
       {
         "token": "可",
         "startTime": 459430,
@@ -6526,7 +6606,15 @@
         "startTime": 460240,
         "endTime": 460530,
         "pinyin": "xià"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 就是 在 中国 城市 里 的 周末 生活",
+    "translations": {
+      "en": "This is weekend life in a Chinese city."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 460530,
@@ -6614,9 +6702,9 @@
     ]
   },
   {
-    "sentence_text": "大家 就是 这样 度过 的",
+    "sentence_text": "大家 就是 这样 度过 的 你 喜欢 这样 的 生活 吗",
     "translations": {
-      "en": "This is how people spend their time."
+      "en": "This is how people spend it. Do you like this kind of life?"
     },
     "segments": [
       {
@@ -6672,15 +6760,7 @@
         "startTime": 466470,
         "endTime": 467630,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "你 喜欢 这样 的 生活 吗",
-    "translations": {
-      "en": "Do you like this kind of life?"
-    },
-    "segments": [
+      },
       {
         "token": "你",
         "startTime": 467630,
@@ -6738,9 +6818,9 @@
     ]
   },
   {
-    "sentence_text": "留在 评论 区 哇 这 什么 小鸡",
+    "sentence_text": "留在 评论 区 哇 这 什么 小鸡 应该 是 小鸡 和 小鸭",
     "translations": {
-      "en": "Leave a comment. Wow, what's this little chick?"
+      "en": "Leave a comment. Wow, what are these? Little chicks and ducklings, I think."
     },
     "segments": [
       {
@@ -6808,15 +6888,7 @@
         "startTime": 482480,
         "endTime": 484770,
         "pinyin": "jī"
-      }
-    ]
-  },
-  {
-    "sentence_text": "应该 是 小鸡 和 小鸭",
-    "translations": {
-      "en": "It should be chicks and ducklings."
-    },
-    "segments": [
+      },
       {
         "token": "应",
         "startTime": 484770,
@@ -6868,9 +6940,9 @@
     ]
   },
   {
-    "sentence_text": "是 这边 的 娱乐 方式",
+    "sentence_text": "是 这边 的 娱乐 方式 虽然 我 觉得 他们 真的 很 可怜",
     "translations": {
-      "en": "This is the entertainment here."
+      "en": "This is the entertainment here, though I really feel sorry for them."
     },
     "segments": [
       {
@@ -6920,15 +6992,7 @@
         "startTime": 490410,
         "endTime": 491010,
         "pinyin": "shì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "虽然 我 觉得 他们 真的 很 可怜",
-    "translations": {
-      "en": "Although I think they're really pitiful."
-    },
-    "segments": [
+      },
       {
         "token": "虽",
         "startTime": 491010,
@@ -7006,7 +7070,7 @@
   {
     "sentence_text": "这么 小 就要 被 放在 外面 来 作为 人类 的 游玩 玩具",
     "translations": {
-      "en": "Being put outside as toys for humans at such a young age."
+      "en": "Being put out here as toys for humans at such a young age."
     },
     "segments": [
       {
@@ -7132,9 +7196,9 @@
     ]
   },
   {
-    "sentence_text": "但是 他们 真的 很 可爱",
+    "sentence_text": "但是 他们 真的 很 可爱 他们 是 可以 买 吗",
     "translations": {
-      "en": "But they are really cute."
+      "en": "But they're really cute. Can we buy them?"
     },
     "segments": [
       {
@@ -7190,15 +7254,7 @@
         "startTime": 505840,
         "endTime": 507410,
         "pinyin": "ài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "他们 是 可以 买 吗",
-    "translations": {
-      "en": "Can they be bought?"
-    },
-    "segments": [
+      },
       {
         "token": "他",
         "startTime": 507410,
@@ -7244,9 +7300,9 @@
     ]
   },
   {
-    "sentence_text": "这个 是 多少 钱 一个 是 吧",
+    "sentence_text": "这个 是 多少 钱 一个 是 吧 多少 钱 一个 应该 是 多少 钱 一次",
     "translations": {
-      "en": "How much is this one?"
+      "en": "How much is this? How much for one? How much each?"
     },
     "segments": [
       {
@@ -7308,15 +7364,7 @@
         "startTime": 512250,
         "endTime": 512950,
         "pinyin": "ba"
-      }
-    ]
-  },
-  {
-    "sentence_text": "多少 钱 一个 应该 是 多少 钱 一次",
-    "translations": {
-      "en": "How much per time?"
-    },
-    "segments": [
+      },
       {
         "token": "多",
         "startTime": 512950,
@@ -7400,7 +7448,7 @@
   {
     "sentence_text": "你 看好 可怜 小朋友 在 钓 那个 鸭子 吗",
     "translations": {
-      "en": "Look, poor kid fishing for the duck?"
+      "en": "Look, poor kid. Is he fishing for the duck?"
     },
     "segments": [
       {
@@ -7496,9 +7544,9 @@
     ]
   },
   {
-    "sentence_text": "对 , 它 拿 那种 像 钩子 一样 的 东西",
+    "sentence_text": "对 , 它 拿 那种 像 钩子 一样 的 东西 我 看到 了 ,",
     "translations": {
-      "en": "Yes, it's using something like a hook."
+      "en": "Yeah, I saw it has a hook-like thing."
     },
     "segments": [
       {
@@ -7584,15 +7632,7 @@
         "startTime": 531970,
         "endTime": 532170,
         "pinyin": "xī"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我 看到 了 , 它 是 在 鸭子 的 脚 上 有 一个 金属环",
-    "translations": {
-      "en": "I see, there's a metal ring on the duck's foot."
-    },
-    "segments": [
+      },
       {
         "token": "我",
         "startTime": 532170,
@@ -7622,7 +7662,15 @@
         "startTime": 532990,
         "endTime": 533190,
         "pinyin": ","
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 是 在 鸭子 的 脚 上 有 一个 金属环",
+    "translations": {
+      "en": "There's a metal ring on the duck's foot."
+    },
+    "segments": [
       {
         "token": "它",
         "startTime": 533190,
@@ -7712,7 +7760,7 @@
   {
     "sentence_text": "然后 它 可以 用 它 的 挂钩 就 可以 把 这 只 小鸭 套起来",
     "translations": {
-      "en": "Then it can use its hook to loop around the duckling."
+      "en": "Then it can use its hook to loop the duck up."
     },
     "segments": [
       {
@@ -7968,7 +8016,7 @@
   {
     "sentence_text": "它 叫做 鸭子 鸭子 小鸭子 小小的 鸭子 鸭子",
     "translations": {
-      "en": "It's called duck, duck, little duck, tiny duck, duck."
+      "en": "It's called a duck. Duck, little duck, tiny duck, duck."
     },
     "segments": [
       {
@@ -8064,34 +8112,34 @@
       {
         "token": "鸭",
         "startTime": 557990,
-        "endTime": 558010,
+        "endTime": 558020,
         "pinyin": "yā"
       },
       {
         "token": "子",
-        "startTime": 558010,
-        "endTime": 558030,
+        "startTime": 558020,
+        "endTime": 558050,
         "pinyin": "zi"
       }
     ]
   },
   {
-    "sentence_text": "这个 游乐 项目 啊 我们 看 这个 价格",
+    "sentence_text": "这个 游乐 项目 啊 我们 看 这个 价格 玩 一项 20 元",
     "translations": {
-      "en": "For this amusement ride, let's look at the price."
+      "en": "This amusement ride—let's check the price: one ride is 20 yuan."
     },
     "segments": [
       {
         "token": "这",
-        "startTime": 558030,
-        "endTime": 559570,
+        "startTime": 558050,
+        "endTime": 559580,
         "pinyin": "zhè"
       },
       {
         "token": "个",
-        "startTime": 559570,
+        "startTime": 559580,
         "endTime": 561110,
-        "pinyin": "ge"
+        "pinyin": "gè"
       },
       {
         "token": "游",
@@ -8151,7 +8199,7 @@
         "token": "个",
         "startTime": 563360,
         "endTime": 563450,
-        "pinyin": "ge"
+        "pinyin": "gè"
       },
       {
         "token": "价",
@@ -8164,15 +8212,7 @@
         "startTime": 564050,
         "endTime": 564650,
         "pinyin": "gé"
-      }
-    ]
-  },
-  {
-    "sentence_text": "玩 一项 20 元 玩 三个 项目 50 元",
-    "translations": {
-      "en": "One ride 20 yuan, three rides 50 yuan."
-    },
-    "segments": [
+      },
       {
         "token": "玩",
         "startTime": 564650,
@@ -8208,7 +8248,15 @@
         "startTime": 565610,
         "endTime": 566550,
         "pinyin": "yuán"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "玩 三个 项目 50 元 玩 四个 项目 60 元",
+    "translations": {
+      "en": "Three rides for 50 yuan, four rides for 60 yuan."
+    },
+    "segments": [
       {
         "token": "玩",
         "startTime": 566550,
@@ -8250,15 +8298,7 @@
         "startTime": 567730,
         "endTime": 567970,
         "pinyin": "0"
-      }
-    ]
-  },
-  {
-    "sentence_text": "玩 四个 项目 60 元 玩 八个 项目 100 元",
-    "translations": {
-      "en": "Four rides 60 yuan, eight rides 100 yuan."
-    },
-    "segments": [
+      },
       {
         "token": "元",
         "startTime": 567970,
@@ -8312,7 +8352,15 @@
         "startTime": 570250,
         "endTime": 571350,
         "pinyin": "yuán"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "玩 八个 项目 100 元 还是 什么 项目 好 钱 先",
+    "translations": {
+      "en": "Eight rides for 100 yuan. Or what's the best deal? Let's think about the money first."
+    },
+    "segments": [
       {
         "token": "玩",
         "startTime": 571350,
@@ -8364,26 +8412,18 @@
       {
         "token": "元",
         "startTime": 573370,
-        "endTime": 576350,
+        "endTime": 576370,
         "pinyin": "yuán"
-      }
-    ]
-  },
-  {
-    "sentence_text": "还是 什么 项目 号 圈鲜",
-    "translations": {
-      "en": "Or what game? Ring toss?"
-    },
-    "segments": [
+      },
       {
         "token": "还",
-        "startTime": 576350,
-        "endTime": 576830,
+        "startTime": 576370,
+        "endTime": 576840,
         "pinyin": "hái"
       },
       {
         "token": "是",
-        "startTime": 576830,
+        "startTime": 576840,
         "endTime": 577310,
         "pinyin": "shì"
       },
@@ -8402,50 +8442,50 @@
       {
         "token": "项",
         "startTime": 577530,
-        "endTime": 577750,
+        "endTime": 577740,
         "pinyin": "xiàng"
       },
       {
         "token": "目",
-        "startTime": 577750,
-        "endTime": 577970,
+        "startTime": 577740,
+        "endTime": 577950,
         "pinyin": "mù"
       },
       {
-        "token": "号",
-        "startTime": 577970,
+        "token": "好",
+        "startTime": 577950,
         "endTime": 578230,
-        "pinyin": "hào"
+        "pinyin": "hǎo"
       },
       {
-        "token": "圈",
+        "token": "钱",
         "startTime": 578230,
-        "endTime": 579510,
-        "pinyin": "quān"
+        "endTime": 578350,
+        "pinyin": "qián"
       },
       {
-        "token": "鲜",
-        "startTime": 579510,
-        "endTime": 580790,
+        "token": "先",
+        "startTime": 578350,
+        "endTime": 578590,
         "pinyin": "xiān"
       }
     ]
   },
   {
-    "sentence_text": "这是 套圈 游戏",
+    "sentence_text": "这是 套圈 游戏 这个 游戏 好像 很 有意思",
     "translations": {
-      "en": "This is a ring toss game."
+      "en": "This is a ring toss game. It looks really fun."
     },
     "segments": [
       {
         "token": "这",
-        "startTime": 580790,
-        "endTime": 590510,
+        "startTime": 578590,
+        "endTime": 590470,
         "pinyin": "zhè"
       },
       {
         "token": "是",
-        "startTime": 590510,
+        "startTime": 590470,
         "endTime": 597170,
         "pinyin": "shì"
       },
@@ -8472,15 +8512,7 @@
         "startTime": 598730,
         "endTime": 599570,
         "pinyin": "xì"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 游戏 好像 很 有意思",
-    "translations": {
-      "en": "This game seems quite fun."
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 599570,
@@ -8544,20 +8576,20 @@
     ]
   },
   {
-    "sentence_text": "你 想 不想 玩",
+    "sentence_text": "你 想 不想 玩 我 不想 玩 套圈 游戏",
     "translations": {
-      "en": "Do you want to play?"
+      "en": "Do you want to play? I don't want to play ring toss."
     },
     "segments": [
       {
         "token": "你",
         "startTime": 601350,
-        "endTime": 601470,
+        "endTime": 601450,
         "pinyin": "nǐ"
       },
       {
         "token": "想",
-        "startTime": 601470,
+        "startTime": 601450,
         "endTime": 603030,
         "pinyin": "xiǎng"
       },
@@ -8578,15 +8610,7 @@
         "startTime": 603530,
         "endTime": 604030,
         "pinyin": "wán"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我 不想 玩 套圈 游戏",
-    "translations": {
-      "en": "I don't want to play the ring toss game."
-    },
-    "segments": [
+      },
       {
         "token": "我",
         "startTime": 604030,
@@ -8726,7 +8750,7 @@
   {
     "sentence_text": "我 可以 把 这个 叫 公园 游戏 吗",
     "translations": {
-      "en": "Can I call it a park game?"
+      "en": "Can I call this a park game?"
     },
     "segments": [
       {
@@ -8806,7 +8830,7 @@
   {
     "sentence_text": "它 在 公园 里 经常 会 出现 这样 的 游戏 摊",
     "translations": {
-      "en": "It often has game stalls like this in parks."
+      "en": "These game stalls often appear in parks."
     },
     "segments": [
       {
@@ -8908,9 +8932,9 @@
     ]
   },
   {
-    "sentence_text": "小朋友 们 可能 一次 买 十个 圈",
+    "sentence_text": "小朋友 们 可能 一次 买 十个 圈 十个 圈 多少 钱",
     "translations": {
-      "en": "Kids might buy ten rings at a time."
+      "en": "Kids might buy ten rings at once. How much for ten rings?"
     },
     "segments": [
       {
@@ -8984,15 +9008,7 @@
         "startTime": 627590,
         "endTime": 628950,
         "pinyin": "quān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "十个 圈 多少 钱 二十元",
-    "translations": {
-      "en": "How much for ten rings? Twenty yuan."
-    },
-    "segments": [
+      },
       {
         "token": "十",
         "startTime": 628950,
@@ -9028,7 +9044,15 @@
         "startTime": 630010,
         "endTime": 630170,
         "pinyin": "qián"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "二十元 二十元 十五个 圈 如果 它 的 圈 就 可以 把 这个 玩具 带走",
+    "translations": {
+      "en": "Twenty yuan for fifteen rings. If the ring lands, you can take the toy."
+    },
+    "segments": [
       {
         "token": "二",
         "startTime": 630170,
@@ -9046,15 +9070,7 @@
         "startTime": 631077,
         "endTime": 631530,
         "pinyin": "yuán"
-      }
-    ]
-  },
-  {
-    "sentence_text": "二十元 十五个 圈",
-    "translations": {
-      "en": "Twenty yuan for fifteen rings."
-    },
-    "segments": [
+      },
       {
         "token": "二",
         "startTime": 631530,
@@ -9096,15 +9112,7 @@
         "startTime": 632890,
         "endTime": 633070,
         "pinyin": "quān"
-      }
-    ]
-  },
-  {
-    "sentence_text": "如果 它 的 圈 就 可以 把 这个 玩具 带走",
-    "translations": {
-      "en": "If the ring lands, you can take the toy."
-    },
-    "segments": [
+      },
       {
         "token": "如",
         "startTime": 633070,
@@ -9200,7 +9208,7 @@
   {
     "sentence_text": "有没有 人想 玩来 中国 我 带 你 玩",
     "translations": {
-      "en": "Anyone want to play? Come to China, I'll take you."
+      "en": "Anyone want to play? Come to China and I'll take you."
     },
     "segments": [
       {
@@ -9284,9 +9292,9 @@
     ]
   },
   {
-    "sentence_text": "我 好 想 玩 这个",
+    "sentence_text": "我 好 想 玩 这个 这个 看着 确实 挺 有意思 的 卡丁车",
     "translations": {
-      "en": "I really want to play this."
+      "en": "I really want to play this. This go-kart looks really fun."
     },
     "segments": [
       {
@@ -9312,15 +9320,7 @@
         "startTime": 650770,
         "endTime": 650890,
         "pinyin": "wán"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 看着 确实 挺 有意思 的 卡丁车",
-    "translations": {
-      "en": "This go-kart looks really fun."
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 650890,
@@ -9422,7 +9422,7 @@
   {
     "sentence_text": "但是 都 是 小朋友 你 应该 坐 不 进去",
     "translations": {
-      "en": "But it's all kids, you probably can't fit."
+      "en": "But they're all kids, so you probably can't fit in."
     },
     "segments": [
       {
@@ -9512,9 +9512,9 @@
     ]
   },
   {
-    "sentence_text": "我 想 试一下 小时候 没玩够",
+    "sentence_text": "我 想 试一下 小时候 没玩够 现在 长大 了 也 想 玩",
     "translations": {
-      "en": "I want to try it, I didn't get enough as a kid."
+      "en": "I want to try it—I didn't get to play enough as a kid, and now that I'm grown up, I still want to play."
     },
     "segments": [
       {
@@ -9582,15 +9582,7 @@
         "startTime": 670342,
         "endTime": 670535,
         "pinyin": "gòu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "现在 长大 了 也 想 玩",
-    "translations": {
-      "en": "Now that I'm grown up, I still want to play."
-    },
-    "segments": [
+      },
       {
         "token": "现",
         "startTime": 670535,
@@ -9642,9 +9634,9 @@
     ]
   },
   {
-    "sentence_text": "好 快乐 啊 看 他们 好 快乐 的 感觉",
+    "sentence_text": "好 快乐 啊 看 他们 好 快乐 的 感觉 对 吧",
     "translations": {
-      "en": "So happy, watching them look so happy."
+      "en": "So happy—look how happy they are, right?"
     },
     "segments": [
       {
@@ -9724,15 +9716,7 @@
         "startTime": 679895,
         "endTime": 680075,
         "pinyin": "jué"
-      }
-    ]
-  },
-  {
-    "sentence_text": "对 吧 好 快乐 的 周末好 快乐 的 童年",
-    "translations": {
-      "en": "Right? Such a happy weekend, such a happy childhood."
-    },
-    "segments": [
+      },
       {
         "token": "对",
         "startTime": 680075,
@@ -9744,7 +9728,15 @@
         "startTime": 680175,
         "endTime": 680335,
         "pinyin": "ba"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "好 快乐 的 周末好 快乐 的 童年",
+    "translations": {
+      "en": "Such a happy weekend, such a happy childhood."
+    },
+    "segments": [
       {
         "token": "好",
         "startTime": 680335,
@@ -9804,15 +9796,7 @@
         "startTime": 683815,
         "endTime": 684015,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 车叫 什么 这个 游戏 叫 什么",
-    "translations": {
-      "en": "What's this car called? What's this game called?"
-    },
-    "segments": [
+      },
       {
         "token": "童",
         "startTime": 684015,
@@ -9824,7 +9808,15 @@
         "startTime": 684015,
         "endTime": 684015,
         "pinyin": "nián"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这个 车叫 什么 这个 游戏 叫 什么 这个 叫 卡丁车",
+    "translations": {
+      "en": "What's this car called? What's this game called? It's called go-kart."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 684015,
@@ -9902,15 +9894,7 @@
         "startTime": 687365,
         "endTime": 688135,
         "pinyin": "me"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这个 叫 卡丁车 卡丁车",
-    "translations": {
-      "en": "It's called a go-kart. Go-kart."
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 688135,
@@ -9946,7 +9930,15 @@
         "startTime": 690082,
         "endTime": 690235,
         "pinyin": "chē"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "卡丁车 你们 想 不想 玩 这些 游戏",
+    "translations": {
+      "en": "Go-karts—do you guys want to play these games?"
+    },
+    "segments": [
       {
         "token": "卡",
         "startTime": 690235,
@@ -9964,15 +9956,7 @@
         "startTime": 690542,
         "endTime": 690695,
         "pinyin": "chē"
-      }
-    ]
-  },
-  {
-    "sentence_text": "你们 想 不想 玩 这些 游戏",
-    "translations": {
-      "en": "Do you guys want to play these games?"
-    },
-    "segments": [
+      },
       {
         "token": "你",
         "startTime": 690695,
@@ -10036,9 +10020,9 @@
     ]
   },
   {
-    "sentence_text": "想 玩 的话 赶快 来 中国 找 我",
+    "sentence_text": "想 玩 的话 赶快 来 中国 找 我 我 带 你们 玩",
     "translations": {
-      "en": "If you want to play, come to China and find me soon."
+      "en": "If you want to play, come find me in China soon, and I'll take you."
     },
     "segments": [
       {
@@ -10106,15 +10090,7 @@
         "startTime": 702055,
         "endTime": 702195,
         "pinyin": "wǒ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我带 你们 玩 他 想 看 我 跟 他 照个 相",
-    "translations": {
-      "en": "I'll take you guys around. He wants me to take a photo with him."
-    },
-    "segments": [
+      },
       {
         "token": "我",
         "startTime": 702195,
@@ -10144,7 +10120,15 @@
         "startTime": 702675,
         "endTime": 711235,
         "pinyin": "wán"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "他 想 看 我 跟 他 照个 相看 你 头上 这个",
+    "translations": {
+      "en": "He wants me to take a photo with him—look at what's on your head."
+    },
+    "segments": [
       {
         "token": "他",
         "startTime": 711235,
@@ -10196,23 +10180,15 @@
       {
         "token": "相",
         "startTime": 717935,
-        "endTime": 718025,
+        "endTime": 718115,
         "pinyin": "xiāng"
       },
       {
         "token": "看",
-        "startTime": 718025,
-        "endTime": 718115,
+        "startTime": 718115,
+        "endTime": 718295,
         "pinyin": "kàn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "看 你 头上 这个 是 一个",
-    "translations": {
-      "en": "Look at this thing on your head."
-    },
-    "segments": [
+      },
       {
         "token": "你",
         "startTime": 718295,
@@ -10242,7 +10218,15 @@
         "startTime": 719105,
         "endTime": 719235,
         "pinyin": "ge"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "是 一个 这 可是 一个 很 古老 的 生物",
+    "translations": {
+      "en": "This is a very ancient creature."
+    },
+    "segments": [
       {
         "token": "是",
         "startTime": 719235,
@@ -10260,15 +10244,7 @@
         "startTime": 719645,
         "endTime": 719875,
         "pinyin": "gè"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这 可是 一个 很 古老 的 生物",
-    "translations": {
-      "en": "This is actually a very ancient creature."
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 719875,
@@ -10340,7 +10316,7 @@
   {
     "sentence_text": "这是 恐龙 这是 霸王龙 吗",
     "translations": {
-      "en": "Is this a dinosaur? Is this a T-Rex?"
+      "en": "Is this a dinosaur? Is it a T-Rex?"
     },
     "segments": [
       {
@@ -10494,7 +10470,7 @@
   {
     "sentence_text": "而且 它 的 这个 树 的 枝干 是 这种 放射状 的",
     "translations": {
-      "en": "And its branches are arranged in a radial pattern."
+      "en": "And its branches spread out like this."
     },
     "segments": [
       {
@@ -10604,7 +10580,7 @@
   {
     "sentence_text": "非常 多 的 这个 枝干 很漂亮 的 一棵树",
     "translations": {
-      "en": "It has so many branches—a very beautiful tree."
+      "en": "So many branches—it's a very beautiful tree."
     },
     "segments": [
       {
@@ -10702,7 +10678,7 @@
   {
     "sentence_text": "它 的 枝干 有 很多 条",
     "translations": {
-      "en": "Its branches are numerous."
+      "en": "It has many branches."
     },
     "segments": [
       {
@@ -10750,23 +10726,23 @@
       {
         "token": "条",
         "startTime": 753995,
-        "endTime": 754335,
-        "pinyin": "tiáo"
-      },
-      {
-        "token": "好",
-        "startTime": 754335,
         "endTime": 754675,
-        "pinyin": "hǎo"
+        "pinyin": "tiáo"
       }
     ]
   },
   {
     "sentence_text": "好大 的 一棵树 啊",
     "translations": {
-      "en": "What a huge tree!"
+      "en": "What a big tree!"
     },
     "segments": [
+      {
+        "token": "好",
+        "startTime": 754675,
+        "endTime": 755355,
+        "pinyin": "hǎo"
+      },
       {
         "token": "大",
         "startTime": 755355,
@@ -11258,7 +11234,7 @@
   {
     "sentence_text": "就是 待 在 这里 觉得 特别 的 舒服",
     "translations": {
-      "en": "It means staying here feels especially comfortable."
+      "en": "It means it feels especially comfortable here."
     },
     "segments": [
       {
@@ -11416,9 +11392,9 @@
     ]
   },
   {
-    "sentence_text": "也 会 觉得 很 安心",
+    "sentence_text": "也 会 觉得 很 安心 很 安心 很 放松 的 感觉",
     "translations": {
-      "en": "And you still feel at ease."
+      "en": "You feel very at ease, very relaxed."
     },
     "segments": [
       {
@@ -11462,15 +11438,7 @@
         "startTime": 788965,
         "endTime": 790175,
         "pinyin": "xīn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "很 安心 很 放松 的 感觉",
-    "translations": {
-      "en": "A very peaceful and relaxing feeling."
-    },
-    "segments": [
+      },
       {
         "token": "很",
         "startTime": 790175,
@@ -11530,7 +11498,7 @@
   {
     "sentence_text": "这 就是 我们 需要 的 一种 能量",
     "translations": {
-      "en": "This is the kind of energy we need."
+      "en": "That's the kind of energy we need."
     },
     "segments": [
       {
@@ -11610,7 +11578,7 @@
   {
     "sentence_text": "让 人 非常 的 舒服",
     "translations": {
-      "en": "It makes people feel very comfortable."
+      "en": "It's very soothing."
     },
     "segments": [
       {
@@ -11660,7 +11628,7 @@
   {
     "sentence_text": "就是 我们 在 这里 可以 抛 下 平时 工作 中 的 那些 烦恼",
     "translations": {
-      "en": "It's a place where we can leave behind the worries from work."
+      "en": "Here we can leave behind the worries from work."
     },
     "segments": [
       {
@@ -11856,7 +11824,7 @@
   {
     "sentence_text": "对 可以 舒缓 这个 压力 对 吧",
     "translations": {
-      "en": "Yes, it can relieve stress, right?"
+      "en": "It helps relieve stress, right?"
     },
     "segments": [
       {
@@ -11928,9 +11896,9 @@
     ]
   },
   {
-    "sentence_text": "放松 舒缓 放松 心情",
+    "sentence_text": "放松 舒缓 放松 心情 舒缓 压力",
     "translations": {
-      "en": "Relax, soothe, and unwind."
+      "en": "Relax, unwind, ease your mind, relieve stress."
     },
     "segments": [
       {
@@ -11980,15 +11948,7 @@
         "startTime": 819825,
         "endTime": 820875,
         "pinyin": "qíng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "舒缓 压力 舒缓",
-    "translations": {
-      "en": "Ease stress, relax."
-    },
-    "segments": [
+      },
       {
         "token": "舒",
         "startTime": 820875,
@@ -12012,7 +11972,15 @@
         "startTime": 821415,
         "endTime": 821535,
         "pinyin": "lì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "舒缓 我们 平时 工作 中 会 遇到 的 各种各样 的 压力",
+    "translations": {
+      "en": "Ease all kinds of pressure we face at work."
+    },
+    "segments": [
       {
         "token": "舒",
         "startTime": 821535,
@@ -12024,15 +11992,7 @@
         "startTime": 821875,
         "endTime": 822215,
         "pinyin": "huǎn"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我们 平时 工作 中 会 遇到 的 各种各样 的 压力",
-    "translations": {
-      "en": "We face all kinds of stress in our daily work."
-    },
-    "segments": [
+      },
       {
         "token": "我",
         "startTime": 822215,
@@ -12194,9 +12154,9 @@
     ]
   },
   {
-    "sentence_text": "大家 可能 在生活中 还有 学习 中",
+    "sentence_text": "大家 可能 在生活中 还有 学习 中 都 会 存在 各种各样",
     "translations": {
-      "en": "Everyone might also have it in life and study."
+      "en": "Everyone faces all kinds of pressures in life and study too."
     },
     "segments": [
       {
@@ -12276,15 +12236,7 @@
         "startTime": 835115,
         "endTime": 835255,
         "pinyin": "zhōng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "都 会 存在 各种各样",
-    "translations": {
-      "en": "All sorts of stress exist."
-    },
-    "segments": [
+      },
       {
         "token": "都",
         "startTime": 835255,
@@ -12338,7 +12290,7 @@
   {
     "sentence_text": "一定 要 找到 这个 平衡",
     "translations": {
-      "en": "You must find this balance."
+      "en": "You must find that balance."
     },
     "segments": [
       {
@@ -12398,9 +12350,9 @@
     ]
   },
   {
-    "sentence_text": "在 有空 的 时候",
+    "sentence_text": "在 有空 的 时候 让 自己 的 休息时间 多一些 放松 的 机会",
     "translations": {
-      "en": "When you have free time."
+      "en": "When you have time, give yourself more chances to rest and relax."
     },
     "segments": [
       {
@@ -12438,15 +12390,7 @@
         "startTime": 843528,
         "endTime": 843935,
         "pinyin": "hòu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "让 自己 的 休息时间 多一些 放松 的 机会",
-    "translations": {
-      "en": "Give yourself more chances to relax during your rest time."
-    },
-    "segments": [
+      },
       {
         "token": "让",
         "startTime": 843935,
@@ -12548,7 +12492,7 @@
   {
     "sentence_text": "比如说 走进 这样 的 有 更 多 树木 的 大自然 里",
     "translations": {
-      "en": "For example, step into nature with more trees like this."
+      "en": "For example, step into nature with more trees."
     },
     "segments": [
       {
@@ -12652,21 +12596,21 @@
         "startTime": 853715,
         "endTime": 854255,
         "pinyin": "rán"
-      }
-    ]
-  },
-  {
-    "sentence_text": "走进 这样 的 公园 里 去 放松",
-    "translations": {
-      "en": "Walk into such parks to unwind."
-    },
-    "segments": [
+      },
       {
         "token": "里",
         "startTime": 854255,
         "endTime": 854255,
         "pinyin": "lǐ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "走进 这样 的 公园 里 去 放松 你们 的 心情",
+    "translations": {
+      "en": "Walk into a park like this to relax your mind."
+    },
+    "segments": [
       {
         "token": "走",
         "startTime": 854255,
@@ -12732,15 +12676,7 @@
         "startTime": 857185,
         "endTime": 857675,
         "pinyin": "sōng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "你们 的 心情",
-    "translations": {
-      "en": "Your mood."
-    },
-    "segments": [
+      },
       {
         "token": "你",
         "startTime": 857675,
@@ -12776,7 +12712,7 @@
   {
     "sentence_text": "让 你们 获得 更 充足 的 能量",
     "translations": {
-      "en": "Let you gain more abundant energy."
+      "en": "Recharge with more energy."
     },
     "segments": [
       {
@@ -12850,7 +12786,7 @@
   {
     "sentence_text": "好 这期 周末 的 公园 之旅 就 到 这里 了",
     "translations": {
-      "en": "Alright, this weekend's park trip ends here."
+      "en": "That's all for this weekend's park trip."
     },
     "segments": [
       {
@@ -12946,7 +12882,7 @@
     ]
   },
   {
-    "sentence_text": "大家 喜欢 的话 记得 给 我们 点上 关注",
+    "sentence_text": "大家 喜欢 的话 记得 给 我们 点上 关注 我们",
     "translations": {
       "en": "If you like it, remember to follow us."
     },
@@ -13040,15 +12976,7 @@
         "startTime": 878465,
         "endTime": 879175,
         "pinyin": "zhù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "我们",
-    "translations": {
-      "en": "We"
-    },
-    "segments": [
+      },
       {
         "token": "我",
         "startTime": 879175,
