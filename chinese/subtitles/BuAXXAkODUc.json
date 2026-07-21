@@ -1,0 +1,1744 @@
+[
+  {
+    "sentence_text": "今天 是 西藏 流亡 精神领袖 达赖喇嘛 九 十一岁 的 生日",
+    "translations": {
+      "en": "Today is the 91st birthday of the Dalai Lama, the exiled spiritual leader of Tibet."
+    },
+    "segments": [
+      {
+        "token": "今",
+        "startTime": 440,
+        "endTime": 540,
+        "pinyin": "jīn"
+      },
+      {
+        "token": "天",
+        "startTime": 540,
+        "endTime": 640,
+        "pinyin": "tiān"
+      },
+      {
+        "token": "是",
+        "startTime": 640,
+        "endTime": 860,
+        "pinyin": "shì"
+      },
+      {
+        "token": "西",
+        "startTime": 860,
+        "endTime": 1120,
+        "pinyin": "xī"
+      },
+      {
+        "token": "藏",
+        "startTime": 1120,
+        "endTime": 1380,
+        "pinyin": "zàng"
+      },
+      {
+        "token": "流",
+        "startTime": 1380,
+        "endTime": 1580,
+        "pinyin": "liú"
+      },
+      {
+        "token": "亡",
+        "startTime": 1580,
+        "endTime": 1780,
+        "pinyin": "wáng"
+      },
+      {
+        "token": "精",
+        "startTime": 1780,
+        "endTime": 1985,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "神",
+        "startTime": 1985,
+        "endTime": 2190,
+        "pinyin": "shén"
+      },
+      {
+        "token": "领",
+        "startTime": 2190,
+        "endTime": 2395,
+        "pinyin": "lǐng"
+      },
+      {
+        "token": "袖",
+        "startTime": 2395,
+        "endTime": 2600,
+        "pinyin": "xiù"
+      },
+      {
+        "token": "达",
+        "startTime": 2600,
+        "endTime": 2800,
+        "pinyin": "dá"
+      },
+      {
+        "token": "赖",
+        "startTime": 2800,
+        "endTime": 3000,
+        "pinyin": "lài"
+      },
+      {
+        "token": "喇",
+        "startTime": 3000,
+        "endTime": 3200,
+        "pinyin": "lǎ"
+      },
+      {
+        "token": "嘛",
+        "startTime": 3200,
+        "endTime": 3400,
+        "pinyin": "ma"
+      },
+      {
+        "token": "九",
+        "startTime": 3400,
+        "endTime": 3660,
+        "pinyin": "jiǔ"
+      },
+      {
+        "token": "十",
+        "startTime": 3660,
+        "endTime": 3780,
+        "pinyin": "shí"
+      },
+      {
+        "token": "一",
+        "startTime": 3780,
+        "endTime": 3899,
+        "pinyin": "yī"
+      },
+      {
+        "token": "岁",
+        "startTime": 3899,
+        "endTime": 4019,
+        "pinyin": "suì"
+      },
+      {
+        "token": "的",
+        "startTime": 4019,
+        "endTime": 4200,
+        "pinyin": "de"
+      },
+      {
+        "token": "生",
+        "startTime": 4200,
+        "endTime": 4550,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "日",
+        "startTime": 4550,
+        "endTime": 4900,
+        "pinyin": "rì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他 亲自 出席 了 在 印度 列城 的 祈祷 和 庆祝 活动 现场",
+    "translations": {
+      "en": "He personally attended prayer and celebration events in Leh, India."
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 4900,
+        "endTime": 5040,
+        "pinyin": "tā"
+      },
+      {
+        "token": "亲",
+        "startTime": 5040,
+        "endTime": 5210,
+        "pinyin": "qīn"
+      },
+      {
+        "token": "自",
+        "startTime": 5210,
+        "endTime": 5380,
+        "pinyin": "zì"
+      },
+      {
+        "token": "出",
+        "startTime": 5380,
+        "endTime": 5570,
+        "pinyin": "chū"
+      },
+      {
+        "token": "席",
+        "startTime": 5570,
+        "endTime": 5760,
+        "pinyin": "xí"
+      },
+      {
+        "token": "了",
+        "startTime": 5760,
+        "endTime": 5920,
+        "pinyin": "le"
+      },
+      {
+        "token": "在",
+        "startTime": 5920,
+        "endTime": 6060,
+        "pinyin": "zài"
+      },
+      {
+        "token": "印",
+        "startTime": 6060,
+        "endTime": 6230,
+        "pinyin": "yìn"
+      },
+      {
+        "token": "度",
+        "startTime": 6230,
+        "endTime": 6400,
+        "pinyin": "dù"
+      },
+      {
+        "token": "列",
+        "startTime": 6400,
+        "endTime": 6600,
+        "pinyin": "liè"
+      },
+      {
+        "token": "城",
+        "startTime": 6600,
+        "endTime": 6800,
+        "pinyin": "chéng"
+      },
+      {
+        "token": "的",
+        "startTime": 6800,
+        "endTime": 6940,
+        "pinyin": "de"
+      },
+      {
+        "token": "祈",
+        "startTime": 6940,
+        "endTime": 7130,
+        "pinyin": "qí"
+      },
+      {
+        "token": "祷",
+        "startTime": 7130,
+        "endTime": 7320,
+        "pinyin": "dǎo"
+      },
+      {
+        "token": "和",
+        "startTime": 7320,
+        "endTime": 7580,
+        "pinyin": "hé"
+      },
+      {
+        "token": "庆",
+        "startTime": 7580,
+        "endTime": 7740,
+        "pinyin": "qìng"
+      },
+      {
+        "token": "祝",
+        "startTime": 7740,
+        "endTime": 7900,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "活",
+        "startTime": 7900,
+        "endTime": 8300,
+        "pinyin": "huó"
+      },
+      {
+        "token": "动",
+        "startTime": 8300,
+        "endTime": 8700,
+        "pinyin": "dòng"
+      },
+      {
+        "token": "现",
+        "startTime": 8700,
+        "endTime": 8880,
+        "pinyin": "xiàn"
+      },
+      {
+        "token": "场",
+        "startTime": 8880,
+        "endTime": 9060,
+        "pinyin": "chǎng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "有 上 千名 来自 各地 的 流亡 藏人 和 信徒 为 他 庆生",
+    "translations": {
+      "en": "Thousands of exiled Tibetans and followers from various places celebrated his birthday."
+    },
+    "segments": [
+      {
+        "token": "有",
+        "startTime": 9060,
+        "endTime": 9240,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "上",
+        "startTime": 9240,
+        "endTime": 9500,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "千",
+        "startTime": 9500,
+        "endTime": 9730,
+        "pinyin": "qiān"
+      },
+      {
+        "token": "名",
+        "startTime": 9730,
+        "endTime": 9960,
+        "pinyin": "míng"
+      },
+      {
+        "token": "来",
+        "startTime": 9960,
+        "endTime": 10160,
+        "pinyin": "lái"
+      },
+      {
+        "token": "自",
+        "startTime": 10160,
+        "endTime": 10360,
+        "pinyin": "zì"
+      },
+      {
+        "token": "各",
+        "startTime": 10360,
+        "endTime": 10530,
+        "pinyin": "gè"
+      },
+      {
+        "token": "地",
+        "startTime": 10530,
+        "endTime": 10700,
+        "pinyin": "dì"
+      },
+      {
+        "token": "的",
+        "startTime": 10700,
+        "endTime": 10860,
+        "pinyin": "de"
+      },
+      {
+        "token": "流",
+        "startTime": 10860,
+        "endTime": 11050,
+        "pinyin": "liú"
+      },
+      {
+        "token": "亡",
+        "startTime": 11050,
+        "endTime": 11240,
+        "pinyin": "wáng"
+      },
+      {
+        "token": "藏",
+        "startTime": 11240,
+        "endTime": 11450,
+        "pinyin": "zàng"
+      },
+      {
+        "token": "人",
+        "startTime": 11450,
+        "endTime": 11660,
+        "pinyin": "rén"
+      },
+      {
+        "token": "和",
+        "startTime": 11660,
+        "endTime": 11860,
+        "pinyin": "hé"
+      },
+      {
+        "token": "信",
+        "startTime": 11860,
+        "endTime": 12110,
+        "pinyin": "xìn"
+      },
+      {
+        "token": "徒",
+        "startTime": 12110,
+        "endTime": 12360,
+        "pinyin": "tú"
+      },
+      {
+        "token": "为",
+        "startTime": 12360,
+        "endTime": 12620,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "他",
+        "startTime": 12620,
+        "endTime": 12820,
+        "pinyin": "tā"
+      },
+      {
+        "token": "庆",
+        "startTime": 12820,
+        "endTime": 14260,
+        "pinyin": "qìng"
+      },
+      {
+        "token": "生",
+        "startTime": 14260,
+        "endTime": 15700,
+        "pinyin": "shēng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "达赖喇嘛 坐在 搭建 的 高 台上 接受 众人 的 祝福",
+    "translations": {
+      "en": "The Dalai Lama sat on a raised platform, receiving blessings from the crowd."
+    },
+    "segments": [
+      {
+        "token": "达",
+        "startTime": 15700,
+        "endTime": 15840,
+        "pinyin": "dá"
+      },
+      {
+        "token": "赖",
+        "startTime": 15840,
+        "endTime": 15980,
+        "pinyin": "lài"
+      },
+      {
+        "token": "喇",
+        "startTime": 15980,
+        "endTime": 16120,
+        "pinyin": "lǎ"
+      },
+      {
+        "token": "嘛",
+        "startTime": 16120,
+        "endTime": 16260,
+        "pinyin": "ma"
+      },
+      {
+        "token": "坐",
+        "startTime": 16260,
+        "endTime": 16440,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "在",
+        "startTime": 16440,
+        "endTime": 16620,
+        "pinyin": "zài"
+      },
+      {
+        "token": "搭",
+        "startTime": 16620,
+        "endTime": 16770,
+        "pinyin": "dā"
+      },
+      {
+        "token": "建",
+        "startTime": 16770,
+        "endTime": 16920,
+        "pinyin": "jiàn"
+      },
+      {
+        "token": "的",
+        "startTime": 16920,
+        "endTime": 17040,
+        "pinyin": "de"
+      },
+      {
+        "token": "高",
+        "startTime": 17040,
+        "endTime": 17240,
+        "pinyin": "gāo"
+      },
+      {
+        "token": "台",
+        "startTime": 17240,
+        "endTime": 17360,
+        "pinyin": "tái"
+      },
+      {
+        "token": "上",
+        "startTime": 17360,
+        "endTime": 17480,
+        "pinyin": "shàng"
+      },
+      {
+        "token": "接",
+        "startTime": 17480,
+        "endTime": 17770,
+        "pinyin": "jiē"
+      },
+      {
+        "token": "受",
+        "startTime": 17770,
+        "endTime": 18060,
+        "pinyin": "shòu"
+      },
+      {
+        "token": "众",
+        "startTime": 18060,
+        "endTime": 18220,
+        "pinyin": "zhòng"
+      },
+      {
+        "token": "人",
+        "startTime": 18220,
+        "endTime": 18380,
+        "pinyin": "rén"
+      },
+      {
+        "token": "的",
+        "startTime": 18380,
+        "endTime": 18520,
+        "pinyin": "de"
+      },
+      {
+        "token": "祝",
+        "startTime": 18520,
+        "endTime": 18790,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "福",
+        "startTime": 18790,
+        "endTime": 19060,
+        "pinyin": "fú"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他 表示 根据 自己 的 梦境",
+    "translations": {
+      "en": "He said that based on his dreams,"
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 19060,
+        "endTime": 19480,
+        "pinyin": "tā"
+      },
+      {
+        "token": "表",
+        "startTime": 19480,
+        "endTime": 19630,
+        "pinyin": "biǎo"
+      },
+      {
+        "token": "示",
+        "startTime": 19630,
+        "endTime": 19780,
+        "pinyin": "shì"
+      },
+      {
+        "token": "根",
+        "startTime": 19780,
+        "endTime": 20020,
+        "pinyin": "gēn"
+      },
+      {
+        "token": "据",
+        "startTime": 20020,
+        "endTime": 20260,
+        "pinyin": "jù"
+      },
+      {
+        "token": "自",
+        "startTime": 20260,
+        "endTime": 20370,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 20370,
+        "endTime": 20480,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 20480,
+        "endTime": 20660,
+        "pinyin": "de"
+      },
+      {
+        "token": "梦",
+        "startTime": 20660,
+        "endTime": 20660,
+        "pinyin": "mèng"
+      },
+      {
+        "token": "境",
+        "startTime": 20660,
+        "endTime": 20660,
+        "pinyin": "jìng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "他 有 预感 可以 活 到 一百三十 岁 左右",
+    "translations": {
+      "en": "he has a premonition that he can live to around 130 years old."
+    },
+    "segments": [
+      {
+        "token": "他",
+        "startTime": 20660,
+        "endTime": 21420,
+        "pinyin": "tā"
+      },
+      {
+        "token": "有",
+        "startTime": 21420,
+        "endTime": 21600,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "预",
+        "startTime": 21600,
+        "endTime": 21770,
+        "pinyin": "yù"
+      },
+      {
+        "token": "感",
+        "startTime": 21770,
+        "endTime": 21940,
+        "pinyin": "gǎn"
+      },
+      {
+        "token": "可",
+        "startTime": 21940,
+        "endTime": 22160,
+        "pinyin": "kě"
+      },
+      {
+        "token": "以",
+        "startTime": 22160,
+        "endTime": 22380,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "活",
+        "startTime": 22380,
+        "endTime": 22640,
+        "pinyin": "huó"
+      },
+      {
+        "token": "到",
+        "startTime": 22640,
+        "endTime": 22880,
+        "pinyin": "dào"
+      },
+      {
+        "token": "一",
+        "startTime": 22880,
+        "endTime": 23165,
+        "pinyin": "yì"
+      },
+      {
+        "token": "百",
+        "startTime": 23165,
+        "endTime": 23450,
+        "pinyin": "bǎi"
+      },
+      {
+        "token": "三",
+        "startTime": 23450,
+        "endTime": 23735,
+        "pinyin": "sān"
+      },
+      {
+        "token": "十",
+        "startTime": 23735,
+        "endTime": 24020,
+        "pinyin": "shí"
+      },
+      {
+        "token": "岁",
+        "startTime": 24020,
+        "endTime": 24160,
+        "pinyin": "suì"
+      },
+      {
+        "token": "左",
+        "startTime": 24160,
+        "endTime": 24590,
+        "pinyin": "zuǒ"
+      },
+      {
+        "token": "右",
+        "startTime": 24590,
+        "endTime": 25020,
+        "pinyin": "yòu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "达赖 说 他 回复 自己 的 一生",
+    "translations": {
+      "en": "The Dalai said that reflecting on his life,"
+    },
+    "segments": [
+      {
+        "token": "达",
+        "startTime": 25020,
+        "endTime": 25150,
+        "pinyin": "dá"
+      },
+      {
+        "token": "赖",
+        "startTime": 25150,
+        "endTime": 25280,
+        "pinyin": "lài"
+      },
+      {
+        "token": "说",
+        "startTime": 25280,
+        "endTime": 25480,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "他",
+        "startTime": 25480,
+        "endTime": 25640,
+        "pinyin": "tā"
+      },
+      {
+        "token": "回",
+        "startTime": 25640,
+        "endTime": 25860,
+        "pinyin": "huí"
+      },
+      {
+        "token": "复",
+        "startTime": 25860,
+        "endTime": 26080,
+        "pinyin": "fù"
+      },
+      {
+        "token": "自",
+        "startTime": 26080,
+        "endTime": 26220,
+        "pinyin": "zì"
+      },
+      {
+        "token": "己",
+        "startTime": 26220,
+        "endTime": 26360,
+        "pinyin": "jǐ"
+      },
+      {
+        "token": "的",
+        "startTime": 26360,
+        "endTime": 26580,
+        "pinyin": "de"
+      },
+      {
+        "token": "一",
+        "startTime": 26580,
+        "endTime": 26760,
+        "pinyin": "yī"
+      },
+      {
+        "token": "生",
+        "startTime": 26760,
+        "endTime": 26940,
+        "pinyin": "shēng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "帮助 他人 的 利 他 思想 一直 贯穿 在 他 的 修行 当中",
+    "translations": {
+      "en": "the altruistic thought of helping others has always been central to his practice."
+    },
+    "segments": [
+      {
+        "token": "帮",
+        "startTime": 26940,
+        "endTime": 27280,
+        "pinyin": "bāng"
+      },
+      {
+        "token": "助",
+        "startTime": 27280,
+        "endTime": 27620,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "他",
+        "startTime": 27620,
+        "endTime": 27830,
+        "pinyin": "tā"
+      },
+      {
+        "token": "人",
+        "startTime": 27830,
+        "endTime": 28040,
+        "pinyin": "rén"
+      },
+      {
+        "token": "的",
+        "startTime": 28040,
+        "endTime": 28220,
+        "pinyin": "de"
+      },
+      {
+        "token": "利",
+        "startTime": 28220,
+        "endTime": 28360,
+        "pinyin": "lì"
+      },
+      {
+        "token": "他",
+        "startTime": 28360,
+        "endTime": 28500,
+        "pinyin": "tā"
+      },
+      {
+        "token": "思",
+        "startTime": 28500,
+        "endTime": 28880,
+        "pinyin": "sī"
+      },
+      {
+        "token": "想",
+        "startTime": 28880,
+        "endTime": 29260,
+        "pinyin": "xiǎng"
+      },
+      {
+        "token": "一",
+        "startTime": 29260,
+        "endTime": 29370,
+        "pinyin": "yì"
+      },
+      {
+        "token": "直",
+        "startTime": 29370,
+        "endTime": 29480,
+        "pinyin": "zhí"
+      },
+      {
+        "token": "贯",
+        "startTime": 29480,
+        "endTime": 29750,
+        "pinyin": "guàn"
+      },
+      {
+        "token": "穿",
+        "startTime": 29750,
+        "endTime": 30020,
+        "pinyin": "chuān"
+      },
+      {
+        "token": "在",
+        "startTime": 30020,
+        "endTime": 30280,
+        "pinyin": "zài"
+      },
+      {
+        "token": "他",
+        "startTime": 30280,
+        "endTime": 30660,
+        "pinyin": "tā"
+      },
+      {
+        "token": "的",
+        "startTime": 30660,
+        "endTime": 30960,
+        "pinyin": "de"
+      },
+      {
+        "token": "修",
+        "startTime": 30960,
+        "endTime": 31150,
+        "pinyin": "xiū"
+      },
+      {
+        "token": "行",
+        "startTime": 31150,
+        "endTime": 31340,
+        "pinyin": "xíng"
+      },
+      {
+        "token": "当",
+        "startTime": 31340,
+        "endTime": 31790,
+        "pinyin": "dāng"
+      },
+      {
+        "token": "中",
+        "startTime": 31790,
+        "endTime": 32240,
+        "pinyin": "zhōng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "希望 能够 透过 佛法 来 帮助 全世界 的 人",
+    "translations": {
+      "en": "He hopes to help people worldwide through Buddhism,"
+    },
+    "segments": [
+      {
+        "token": "希",
+        "startTime": 32240,
+        "endTime": 32390,
+        "pinyin": "xī"
+      },
+      {
+        "token": "望",
+        "startTime": 32390,
+        "endTime": 32540,
+        "pinyin": "wàng"
+      },
+      {
+        "token": "能",
+        "startTime": 32540,
+        "endTime": 32720,
+        "pinyin": "néng"
+      },
+      {
+        "token": "够",
+        "startTime": 32720,
+        "endTime": 32900,
+        "pinyin": "gòu"
+      },
+      {
+        "token": "透",
+        "startTime": 32900,
+        "endTime": 32950,
+        "pinyin": "tòu"
+      },
+      {
+        "token": "过",
+        "startTime": 32950,
+        "endTime": 33000,
+        "pinyin": "guò"
+      },
+      {
+        "token": "佛",
+        "startTime": 33000,
+        "endTime": 33450,
+        "pinyin": "fó"
+      },
+      {
+        "token": "法",
+        "startTime": 33450,
+        "endTime": 33900,
+        "pinyin": "fǎ"
+      },
+      {
+        "token": "来",
+        "startTime": 33900,
+        "endTime": 34040,
+        "pinyin": "lái"
+      },
+      {
+        "token": "帮",
+        "startTime": 34040,
+        "endTime": 34310,
+        "pinyin": "bāng"
+      },
+      {
+        "token": "助",
+        "startTime": 34310,
+        "endTime": 34580,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "全",
+        "startTime": 34580,
+        "endTime": 34840,
+        "pinyin": "quán"
+      },
+      {
+        "token": "世",
+        "startTime": 34840,
+        "endTime": 35100,
+        "pinyin": "shì"
+      },
+      {
+        "token": "界",
+        "startTime": 35100,
+        "endTime": 35360,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "的",
+        "startTime": 35360,
+        "endTime": 35720,
+        "pinyin": "de"
+      },
+      {
+        "token": "人",
+        "startTime": 35720,
+        "endTime": 35900,
+        "pinyin": "rén"
+      }
+    ]
+  },
+  {
+    "sentence_text": "或者 积极 美好 的 生活",
+    "translations": {
+      "en": "or to live a positive and beautiful life."
+    },
+    "segments": [
+      {
+        "token": "或",
+        "startTime": 35900,
+        "endTime": 36160,
+        "pinyin": "huò"
+      },
+      {
+        "token": "者",
+        "startTime": 36160,
+        "endTime": 36420,
+        "pinyin": "zhě"
+      },
+      {
+        "token": "积",
+        "startTime": 36420,
+        "endTime": 36990,
+        "pinyin": "jī"
+      },
+      {
+        "token": "极",
+        "startTime": 36990,
+        "endTime": 37560,
+        "pinyin": "jí"
+      },
+      {
+        "token": "美",
+        "startTime": 37560,
+        "endTime": 37670,
+        "pinyin": "měi"
+      },
+      {
+        "token": "好",
+        "startTime": 37670,
+        "endTime": 37780,
+        "pinyin": "hǎo"
+      },
+      {
+        "token": "的",
+        "startTime": 37780,
+        "endTime": 37880,
+        "pinyin": "de"
+      },
+      {
+        "token": "生",
+        "startTime": 37880,
+        "endTime": 38020,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "活",
+        "startTime": 38020,
+        "endTime": 38160,
+        "pinyin": "huó"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而 达赖 过去 也 曾经 表示",
+    "translations": {
+      "en": "The Dalai has also previously stated"
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 38160,
+        "endTime": 38340,
+        "pinyin": "ér"
+      },
+      {
+        "token": "达",
+        "startTime": 38340,
+        "endTime": 38510,
+        "pinyin": "dá"
+      },
+      {
+        "token": "赖",
+        "startTime": 38510,
+        "endTime": 38680,
+        "pinyin": "lài"
+      },
+      {
+        "token": "过",
+        "startTime": 38680,
+        "endTime": 38900,
+        "pinyin": "guò"
+      },
+      {
+        "token": "去",
+        "startTime": 38900,
+        "endTime": 39120,
+        "pinyin": "qù"
+      },
+      {
+        "token": "也",
+        "startTime": 39120,
+        "endTime": 39400,
+        "pinyin": "yě"
+      },
+      {
+        "token": "曾",
+        "startTime": 39400,
+        "endTime": 39560,
+        "pinyin": "céng"
+      },
+      {
+        "token": "经",
+        "startTime": 39560,
+        "endTime": 39720,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "表",
+        "startTime": 39720,
+        "endTime": 39940,
+        "pinyin": "biǎo"
+      },
+      {
+        "token": "示",
+        "startTime": 39940,
+        "endTime": 40160,
+        "pinyin": "shì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "未来 将会 转世 投胎 在 中国 以外 的 自由 世界",
+    "translations": {
+      "en": "that he will reincarnate in a free world outside of China in the future,"
+    },
+    "segments": [
+      {
+        "token": "未",
+        "startTime": 40160,
+        "endTime": 40340,
+        "pinyin": "wèi"
+      },
+      {
+        "token": "来",
+        "startTime": 40340,
+        "endTime": 40520,
+        "pinyin": "lái"
+      },
+      {
+        "token": "将",
+        "startTime": 40520,
+        "endTime": 40850,
+        "pinyin": "jiāng"
+      },
+      {
+        "token": "会",
+        "startTime": 40850,
+        "endTime": 41180,
+        "pinyin": "huì"
+      },
+      {
+        "token": "转",
+        "startTime": 41180,
+        "endTime": 41460,
+        "pinyin": "zhuǎn"
+      },
+      {
+        "token": "世",
+        "startTime": 41460,
+        "endTime": 41740,
+        "pinyin": "shì"
+      },
+      {
+        "token": "投",
+        "startTime": 41740,
+        "endTime": 41990,
+        "pinyin": "tóu"
+      },
+      {
+        "token": "胎",
+        "startTime": 41990,
+        "endTime": 42240,
+        "pinyin": "tāi"
+      },
+      {
+        "token": "在",
+        "startTime": 42240,
+        "endTime": 42440,
+        "pinyin": "zài"
+      },
+      {
+        "token": "中",
+        "startTime": 42440,
+        "endTime": 42570,
+        "pinyin": "zhōng"
+      },
+      {
+        "token": "国",
+        "startTime": 42570,
+        "endTime": 42700,
+        "pinyin": "guó"
+      },
+      {
+        "token": "以",
+        "startTime": 42700,
+        "endTime": 43140,
+        "pinyin": "yǐ"
+      },
+      {
+        "token": "外",
+        "startTime": 43140,
+        "endTime": 43580,
+        "pinyin": "wài"
+      },
+      {
+        "token": "的",
+        "startTime": 43580,
+        "endTime": 43820,
+        "pinyin": "de"
+      },
+      {
+        "token": "自",
+        "startTime": 43820,
+        "endTime": 44040,
+        "pinyin": "zì"
+      },
+      {
+        "token": "由",
+        "startTime": 44040,
+        "endTime": 44260,
+        "pinyin": "yóu"
+      },
+      {
+        "token": "世",
+        "startTime": 44260,
+        "endTime": 44410,
+        "pinyin": "shì"
+      },
+      {
+        "token": "界",
+        "startTime": 44410,
+        "endTime": 44560,
+        "pinyin": "jiè"
+      }
+    ]
+  },
+  {
+    "sentence_text": "并且 指定 了 基金会 作为 唯一 有权 认定 转世 灵同 的 单位",
+    "translations": {
+      "en": "and designated a foundation as the sole authority to identify the reincarnation."
+    },
+    "segments": [
+      {
+        "token": "并",
+        "startTime": 44560,
+        "endTime": 44710,
+        "pinyin": "bìng"
+      },
+      {
+        "token": "且",
+        "startTime": 44710,
+        "endTime": 44860,
+        "pinyin": "qiě"
+      },
+      {
+        "token": "指",
+        "startTime": 44860,
+        "endTime": 45210,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "定",
+        "startTime": 45210,
+        "endTime": 45560,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "了",
+        "startTime": 45560,
+        "endTime": 45700,
+        "pinyin": "le"
+      },
+      {
+        "token": "基",
+        "startTime": 45700,
+        "endTime": 45900,
+        "pinyin": "jī"
+      },
+      {
+        "token": "金",
+        "startTime": 45900,
+        "endTime": 46100,
+        "pinyin": "jīn"
+      },
+      {
+        "token": "会",
+        "startTime": 46100,
+        "endTime": 46300,
+        "pinyin": "huì"
+      },
+      {
+        "token": "作",
+        "startTime": 46300,
+        "endTime": 46500,
+        "pinyin": "zuò"
+      },
+      {
+        "token": "为",
+        "startTime": 46500,
+        "endTime": 46700,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "唯",
+        "startTime": 46700,
+        "endTime": 47000,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "一",
+        "startTime": 47000,
+        "endTime": 47300,
+        "pinyin": "yī"
+      },
+      {
+        "token": "有",
+        "startTime": 47300,
+        "endTime": 47540,
+        "pinyin": "yǒu"
+      },
+      {
+        "token": "权",
+        "startTime": 47540,
+        "endTime": 47780,
+        "pinyin": "quán"
+      },
+      {
+        "token": "认",
+        "startTime": 47780,
+        "endTime": 47950,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "定",
+        "startTime": 47950,
+        "endTime": 48120,
+        "pinyin": "dìng"
+      },
+      {
+        "token": "转",
+        "startTime": 48120,
+        "endTime": 48530,
+        "pinyin": "zhuǎn"
+      },
+      {
+        "token": "世",
+        "startTime": 48530,
+        "endTime": 48940,
+        "pinyin": "shì"
+      },
+      {
+        "token": "灵",
+        "startTime": 48940,
+        "endTime": 49080,
+        "pinyin": "líng"
+      },
+      {
+        "token": "同",
+        "startTime": 49080,
+        "endTime": 49220,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "的",
+        "startTime": 49220,
+        "endTime": 49420,
+        "pinyin": "de"
+      },
+      {
+        "token": "单",
+        "startTime": 49420,
+        "endTime": 49640,
+        "pinyin": "dān"
+      },
+      {
+        "token": "位",
+        "startTime": 49640,
+        "endTime": 49860,
+        "pinyin": "wèi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "外界 认为 他 这些 说法 的 目的 在于 防止 北京 的 政治 干预",
+    "translations": {
+      "en": "Observers believe his statements aim to prevent political interference from Beijing."
+    },
+    "segments": [
+      {
+        "token": "外",
+        "startTime": 49860,
+        "endTime": 50000,
+        "pinyin": "wài"
+      },
+      {
+        "token": "界",
+        "startTime": 50000,
+        "endTime": 50140,
+        "pinyin": "jiè"
+      },
+      {
+        "token": "认",
+        "startTime": 50140,
+        "endTime": 50280,
+        "pinyin": "rèn"
+      },
+      {
+        "token": "为",
+        "startTime": 50280,
+        "endTime": 50420,
+        "pinyin": "wéi"
+      },
+      {
+        "token": "他",
+        "startTime": 50420,
+        "endTime": 50580,
+        "pinyin": "tā"
+      },
+      {
+        "token": "这",
+        "startTime": 50580,
+        "endTime": 50580,
+        "pinyin": "zhè"
+      },
+      {
+        "token": "些",
+        "startTime": 50580,
+        "endTime": 50580,
+        "pinyin": "xiē"
+      },
+      {
+        "token": "说",
+        "startTime": 50580,
+        "endTime": 50960,
+        "pinyin": "shuō"
+      },
+      {
+        "token": "法",
+        "startTime": 50960,
+        "endTime": 51340,
+        "pinyin": "fǎ"
+      },
+      {
+        "token": "的",
+        "startTime": 51340,
+        "endTime": 51600,
+        "pinyin": "de"
+      },
+      {
+        "token": "目",
+        "startTime": 51600,
+        "endTime": 51820,
+        "pinyin": "mù"
+      },
+      {
+        "token": "的",
+        "startTime": 51820,
+        "endTime": 52040,
+        "pinyin": "dì"
+      },
+      {
+        "token": "在",
+        "startTime": 52040,
+        "endTime": 52200,
+        "pinyin": "zài"
+      },
+      {
+        "token": "于",
+        "startTime": 52200,
+        "endTime": 52360,
+        "pinyin": "yú"
+      },
+      {
+        "token": "防",
+        "startTime": 52360,
+        "endTime": 52620,
+        "pinyin": "fáng"
+      },
+      {
+        "token": "止",
+        "startTime": 52620,
+        "endTime": 52880,
+        "pinyin": "zhǐ"
+      },
+      {
+        "token": "北",
+        "startTime": 52880,
+        "endTime": 53420,
+        "pinyin": "běi"
+      },
+      {
+        "token": "京",
+        "startTime": 53420,
+        "endTime": 53960,
+        "pinyin": "jīng"
+      },
+      {
+        "token": "的",
+        "startTime": 53960,
+        "endTime": 54120,
+        "pinyin": "de"
+      },
+      {
+        "token": "政",
+        "startTime": 54120,
+        "endTime": 54240,
+        "pinyin": "zhèng"
+      },
+      {
+        "token": "治",
+        "startTime": 54240,
+        "endTime": 54360,
+        "pinyin": "zhì"
+      },
+      {
+        "token": "干",
+        "startTime": 54360,
+        "endTime": 54520,
+        "pinyin": "gān"
+      },
+      {
+        "token": "预",
+        "startTime": 54520,
+        "endTime": 54680,
+        "pinyin": "yù"
+      }
+    ]
+  },
+  {
+    "sentence_text": "而赖 清德 总统 今天 也 在 社群 平台 发文 祝贺 达赖 生日",
+    "translations": {
+      "en": "President Lai Ching-te also posted on social media today to congratulate the Dalai on his birthday,"
+    },
+    "segments": [
+      {
+        "token": "而",
+        "startTime": 54680,
+        "endTime": 54940,
+        "pinyin": "ér"
+      },
+      {
+        "token": "赖",
+        "startTime": 54940,
+        "endTime": 55200,
+        "pinyin": "lài"
+      },
+      {
+        "token": "清",
+        "startTime": 55200,
+        "endTime": 55380,
+        "pinyin": "qīng"
+      },
+      {
+        "token": "德",
+        "startTime": 55380,
+        "endTime": 55560,
+        "pinyin": "dé"
+      },
+      {
+        "token": "总",
+        "startTime": 55560,
+        "endTime": 55730,
+        "pinyin": "zǒng"
+      },
+      {
+        "token": "统",
+        "startTime": 55730,
+        "endTime": 55900,
+        "pinyin": "tǒng"
+      },
+      {
+        "token": "今",
+        "startTime": 55900,
+        "endTime": 56070,
+        "pinyin": "jīn"
+      },
+      {
+        "token": "天",
+        "startTime": 56070,
+        "endTime": 56240,
+        "pinyin": "tiān"
+      },
+      {
+        "token": "也",
+        "startTime": 56240,
+        "endTime": 56480,
+        "pinyin": "yě"
+      },
+      {
+        "token": "在",
+        "startTime": 56480,
+        "endTime": 56820,
+        "pinyin": "zài"
+      },
+      {
+        "token": "社",
+        "startTime": 56820,
+        "endTime": 57050,
+        "pinyin": "shè"
+      },
+      {
+        "token": "群",
+        "startTime": 57050,
+        "endTime": 57280,
+        "pinyin": "qún"
+      },
+      {
+        "token": "平",
+        "startTime": 57280,
+        "endTime": 57430,
+        "pinyin": "píng"
+      },
+      {
+        "token": "台",
+        "startTime": 57430,
+        "endTime": 57580,
+        "pinyin": "tái"
+      },
+      {
+        "token": "发",
+        "startTime": 57580,
+        "endTime": 57990,
+        "pinyin": "fā"
+      },
+      {
+        "token": "文",
+        "startTime": 57990,
+        "endTime": 58400,
+        "pinyin": "wén"
+      },
+      {
+        "token": "祝",
+        "startTime": 58400,
+        "endTime": 58560,
+        "pinyin": "zhù"
+      },
+      {
+        "token": "贺",
+        "startTime": 58560,
+        "endTime": 58720,
+        "pinyin": "hè"
+      },
+      {
+        "token": "达",
+        "startTime": 58720,
+        "endTime": 58920,
+        "pinyin": "dá"
+      },
+      {
+        "token": "赖",
+        "startTime": 58920,
+        "endTime": 59120,
+        "pinyin": "lài"
+      },
+      {
+        "token": "生",
+        "startTime": 59120,
+        "endTime": 59320,
+        "pinyin": "shēng"
+      },
+      {
+        "token": "日",
+        "startTime": 59320,
+        "endTime": 59520,
+        "pinyin": "rì"
+      }
+    ]
+  },
+  {
+    "sentence_text": "同時 強調 台灣 持續 對 藏",
+    "translations": {
+      "en": "while emphasizing that Taiwan continues to support Tibet."
+    },
+    "segments": [
+      {
+        "token": "同",
+        "startTime": 59520,
+        "endTime": 59830,
+        "pinyin": "tóng"
+      },
+      {
+        "token": "時",
+        "startTime": 59830,
+        "endTime": 60140,
+        "pinyin": "shí"
+      },
+      {
+        "token": "強",
+        "startTime": 60140,
+        "endTime": 60410,
+        "pinyin": "qiáng"
+      },
+      {
+        "token": "調",
+        "startTime": 60410,
+        "endTime": 60680,
+        "pinyin": "diào"
+      },
+      {
+        "token": "台",
+        "startTime": 60680,
+        "endTime": 60960,
+        "pinyin": "tái"
+      },
+      {
+        "token": "灣",
+        "startTime": 60960,
+        "endTime": 61240,
+        "pinyin": "wān"
+      },
+      {
+        "token": "持",
+        "startTime": 61240,
+        "endTime": 61550,
+        "pinyin": "chí"
+      },
+      {
+        "token": "續",
+        "startTime": 61550,
+        "endTime": 61860,
+        "pinyin": "xù"
+      },
+      {
+        "token": "對",
+        "startTime": 61860,
+        "endTime": 62040,
+        "pinyin": "duì"
+      },
+      {
+        "token": "藏",
+        "startTime": 62040,
+        "endTime": 62460,
+        "pinyin": "cáng"
+      }
+    ]
+  }
+]
