@@ -2,7 +2,7 @@
   {
     "sentence_text": "一位 伦敦 商人 把 他 最新 的 股票 信息 在 不到 一秒 的 时间 内 发送到 了 他 在 香港 的 同事",
     "translations": {
-      "en": "A London businessman sends his latest stock information to his colleague in Hong Kong in less than a second."
+      "en": "A London businessman sent his latest stock information to his colleague in Hong Kong in less than a second."
     },
     "segments": [
       {
@@ -220,7 +220,7 @@
   {
     "sentence_text": "美国纽约 的 客户 点下 鼠标 就 下 了 订单 购买 北京 制造 的 电子产品",
     "translations": {
-      "en": "A client in New York, USA, clicks a mouse to place an order for electronics made in Beijing."
+      "en": "A customer in New York, USA, clicked a mouse to place an order for electronics made in Beijing."
     },
     "segments": [
       {
@@ -390,7 +390,7 @@
   {
     "sentence_text": "几天 内 就 通过 货运 飞机 或是 海运 集装箱 把 货物 从 大洋 的 一端 运到 了 另一端",
     "translations": {
-      "en": "Within days, goods are transported from one side of the ocean to the other by cargo plane or shipping container."
+      "en": "Within days, the goods were transported from one end of the ocean to the other by cargo plane or shipping container."
     },
     "segments": [
       {
@@ -864,7 +864,7 @@
   {
     "sentence_text": "2000 年前 沿着 一条 5000 英里 长 的 道路 极 著名 的 丝绸之路 这一 活动 就 已经 开始",
     "translations": {
-      "en": "2,000 years ago, along a 5,000-mile road, the famous Silk Road began this activity."
+      "en": "This activity began 2,000 years ago along a famous 5,000-mile road: the Silk Road."
     },
     "segments": [
       {
@@ -1094,7 +1094,7 @@
   {
     "sentence_text": "丝绸之路 并 不 只是 一条 道路 而是 许多 交错 纵横 的 路线",
     "translations": {
-      "en": "The Silk Road was not just one road but many intersecting routes."
+      "en": "The Silk Road was not just one road, but many intersecting routes."
     },
     "segments": [
       {
@@ -1222,15 +1222,7 @@
         "startTime": 40300,
         "endTime": 40440,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这些 路线 是 在 几个 世纪 中 逐渐 出现 的",
-    "translations": {
-      "en": "These routes emerged gradually over centuries."
-    },
-    "segments": [
+      },
       {
         "token": "路",
         "startTime": 40440,
@@ -1242,7 +1234,15 @@
         "startTime": 40440,
         "endTime": 40440,
         "pinyin": "xiàn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这些 路线 是 在 几个 世纪 中 逐渐 出现 的",
+    "translations": {
+      "en": "These routes emerged gradually over centuries."
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 40440,
@@ -1484,15 +1484,7 @@
         "startTime": 47500,
         "endTime": 47700,
         "pinyin": "zài"
-      }
-    ]
-  },
-  {
-    "sentence_text": "最 原始 的 农业 文明 发源 于 偏远 的 肥沃 的 河谷 之中",
-    "translations": {
-      "en": "The earliest agricultural civilizations originated in remote, fertile river valleys."
-    },
-    "segments": [
+      },
       {
         "token": "一",
         "startTime": 47700,
@@ -1504,7 +1496,15 @@
         "startTime": 47700,
         "endTime": 47700,
         "pinyin": "qǐ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "最 原始 的 农业 文明 发源 于 偏远 的 肥沃 的 河谷 之中",
+    "translations": {
+      "en": "The earliest agricultural civilizations originated in remote, fertile river valleys."
+    },
+    "segments": [
       {
         "token": "最",
         "startTime": 47700,
@@ -1636,7 +1636,7 @@
   {
     "sentence_text": "周围 地势 的 不变 以及 对 未知 的 恐惧 阻碍 了 当地人 的 交往",
     "translations": {
-      "en": "The rugged terrain and fear of the unknown hindered local interactions."
+      "en": "The unchanging terrain and fear of the unknown hindered local interactions."
     },
     "segments": [
       {
@@ -1788,7 +1788,7 @@
   {
     "sentence_text": "当地人 在 这里 居住 过 一段时间 后",
     "translations": {
-      "en": "After living there for some time,"
+      "en": "After living in these areas for some time,"
     },
     "segments": [
       {
@@ -1880,7 +1880,7 @@
   {
     "sentence_text": "他们 发现 他们 在 干旱 的 沙漠 和 边界 周围 所住 着 的 不是 民间传说 里 的 魔鬼",
     "translations": {
-      "en": "the locals discovered that those living in the dry deserts and borders were not demons from folklore,"
+      "en": "the locals discovered that those living in the arid deserts and borders were not the demons of folklore,"
     },
     "segments": [
       {
@@ -2142,7 +2142,7 @@
   {
     "sentence_text": "从 蒙古 到 匈牙利 遍布 的 西塞亚人 早就 跟 希腊 、 埃及 、 印度 以及 中国 有所 接触",
     "translations": {
-      "en": "The Scythians, spanning from Mongolia to Hungary, had long been in contact with Greece, Egypt, India, and China."
+      "en": "The Scythians, stretching from Mongolia to Hungary, had long been in contact with Greece, Egypt, India, and China."
     },
     "segments": [
       {
@@ -2428,7 +2428,7 @@
   {
     "sentence_text": "但 即使 通过 突袭 和 战争 以及 贸易 和 保护",
     "translations": {
-      "en": "But even through raids, wars, trade, and protection,"
+      "en": "But through raids, wars, trade, and protection,"
     },
     "segments": [
       {
@@ -2538,7 +2538,7 @@
   {
     "sentence_text": "旅行 商人 以 换取 关税",
     "translations": {
-      "en": "traveling merchants exchanged tariffs,"
+      "en": "traveling merchants paid tariffs,"
     },
     "segments": [
       {
@@ -3080,7 +3080,7 @@
   {
     "sentence_text": "它 从 底格里斯河 一直 绵延 至 爱琴海 全长约 两千 英里",
     "translations": {
-      "en": "It stretched from the Tigris River to the Aegean Sea, about 2,000 miles long."
+      "en": "It stretched from the Tigris River to the Aegean Sea, about two thousand miles long."
     },
     "segments": [
       {
@@ -3220,7 +3220,7 @@
   {
     "sentence_text": "货物 和 信息 在 其中 祭典 通行 所 需 的 时间 仅 是 单个 旅客 所 需 时间 的 十分之一",
     "translations": {
-      "en": "Goods and information traveled along it in a fraction of the time it took a single traveler."
+      "en": "Goods and information traveled along it in one-tenth the time it took a single traveler."
     },
     "segments": [
       {
@@ -3760,17 +3760,9 @@
       {
         "token": "的",
         "startTime": 120630,
-        "endTime": 120801,
+        "endTime": 120850,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "希腊 埃及 波斯 以及 印度 这些 国家 的 文明 和 贸易 网络 向东 扩展 的 程度 达到 了 历史 之 最",
-    "translations": {
-      "en": "The civilizations and trade networks of Greece, Egypt, Persia, and India expanded eastward to an unprecedented extent."
-    },
-    "segments": [
+      },
       {
         "token": "城",
         "startTime": 120850,
@@ -3782,7 +3774,15 @@
         "startTime": 121030,
         "endTime": 121210,
         "pinyin": "chí"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "希腊 埃及 波斯 以及 印度 这些 国家 的 文明 和 贸易 网络 向东 扩展 的 程度 达到 了 历史 之 最",
+    "translations": {
+      "en": "The civilizations and trade networks of Greece, Egypt, Persia, and India extended eastward to an unprecedented degree."
+    },
+    "segments": [
       {
         "token": "希",
         "startTime": 121210,
@@ -4126,7 +4126,7 @@
   {
     "sentence_text": "直到 公元前 二 世纪 一位 名叫 张谦 的 大使 被 派 往前 去 跟 西方 的 游牧部落 谈判",
     "translations": {
-      "en": "Until the 2nd century BC, an envoy named Zhang Qian was sent to negotiate with Western nomadic tribes."
+      "en": "Until the 2nd century BC, an envoy named Zhang Qian was sent to negotiate with western nomadic tribes."
     },
     "segments": [
       {
@@ -4326,7 +4326,7 @@
   {
     "sentence_text": "这位 大使 回到 中国 之后 向 当时 的 汉朝 皇帝 讲述 了 许多 有关 其 边界 西部 地区 古老 的 文明",
     "translations": {
-      "en": "After returning to China, he told the Han emperor about the ancient civilizations, thriving trade, and exotic goods beyond the western borders."
+      "en": "After returning to China, he told the Han emperor about the ancient civilizations,"
     },
     "segments": [
       {
@@ -4556,7 +4556,7 @@
   {
     "sentence_text": "蓬勃 的 贸易 以及 奇异 的 货物 的 故事",
     "translations": {
-      "en": "Then many envoys and merchants were sent to Persia and India."
+      "en": "thriving trade, and exotic goods in the regions beyond his borders."
     },
     "segments": [
       {
@@ -4654,7 +4654,7 @@
   {
     "sentence_text": "接着 许多 大使 商人 相继 被 派 往 波斯 和 印度",
     "translations": {
-      "en": "They traded silk and jade for horses and cotton."
+      "en": "Then many envoys and merchants were sent to Persia and India."
     },
     "segments": [
       {
@@ -4770,7 +4770,7 @@
   {
     "sentence_text": "用 丝绸 和 玉石 换取 他们 的 马匹 和 棉花",
     "translations": {
-      "en": "Armies accompanied them to ensure their safety on the journey."
+      "en": "They traded silk and jade for horses and cotton."
     },
     "segments": [
       {
@@ -4874,7 +4874,7 @@
   {
     "sentence_text": "当时 随从 的 还有 军队 以 保证 他们 旅途 的 安全",
     "translations": {
-      "en": "The road between East and West gradually formed a trans-Eurasian network."
+      "en": "Armies accompanied them to ensure their safety on the journey."
     },
     "segments": [
       {
@@ -4996,7 +4996,7 @@
   {
     "sentence_text": "东方 和 西方 之间 的 道路 逐渐 形成 了 一个 跨 欧亚 的 网络",
     "translations": {
-      "en": "This network enabled cultural and commercial exchanges between Eurasia to reach a historical peak."
+      "en": "The road between East and West gradually formed a trans-Eurasian network."
     },
     "segments": [
       {
@@ -5142,7 +5142,7 @@
   {
     "sentence_text": "这一 网络 使得 欧亚 之间 的 文化 和 商业 交往 程度 达到 了 当时 的 历史 之 最",
     "translations": {
-      "en": "Chinese goods arrived in Rome, causing a massive outflow of gold."
+      "en": "This network enabled cultural and commercial exchanges across Eurasia to reach a historical peak."
     },
     "segments": [
       {
@@ -5330,7 +5330,7 @@
   {
     "sentence_text": "中国 的 货物 来到 了 罗马 造成 大量 的 黄金 外流",
     "translations": {
-      "en": "Thus, Rome banned the silk trade."
+      "en": "Chinese goods arrived in Rome, causing a massive outflow of gold."
     },
     "segments": [
       {
@@ -5452,7 +5452,7 @@
   {
     "sentence_text": "因此 罗马 禁止 了 丝绸 交易",
     "translations": {
-      "en": "Roman glassware was also very popular in China."
+      "en": "Therefore, Rome banned the silk trade."
     },
     "segments": [
       {
@@ -5526,7 +5526,7 @@
   {
     "sentence_text": "罗马 的 玻璃 器具 在 中国 也 十分 受欢迎",
     "translations": {
-      "en": "Central Asian expeditions witnessed the encounter of Chinese and Roman armies."
+      "en": "Roman glassware was also very popular in China."
     },
     "segments": [
       {
@@ -5630,7 +5630,7 @@
   {
     "sentence_text": "中亚 的 远征军 看到 了 中国 和 罗马 军队 的 相遇",
     "translations": {
-      "en": "The Central Asian expeditionary force witnessed the encounter between Chinese and Roman armies."
+      "en": "Central Asian expeditions witnessed the meeting of Chinese and Roman armies."
     },
     "segments": [
       {
@@ -5734,15 +5734,7 @@
         "startTime": 183440,
         "endTime": 183580,
         "pinyin": "de"
-      }
-    ]
-  },
-  {
-    "sentence_text": "甚至 可能 将 弩 技术 传到 西方",
-    "translations": {
-      "en": "Even the technology of crossbows may have been transmitted to the West."
-    },
-    "segments": [
+      },
       {
         "token": "相",
         "startTime": 183580,
@@ -5754,7 +5746,15 @@
         "startTime": 183580,
         "endTime": 183580,
         "pinyin": "yù"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "甚至 可能 将 弩 技术 传到 西方",
+    "translations": {
+      "en": "It even spread crossbow technology to the West."
+    },
+    "segments": [
       {
         "token": "甚",
         "startTime": 183580,
@@ -5832,7 +5832,7 @@
   {
     "sentence_text": "对于 异国 货物 的 需求 贸易 带来 的 利益 使得 这 条 丝绸之路 一直 保存 完好",
     "translations": {
-      "en": "The demand for foreign goods and the benefits of trade kept the Silk Road well-preserved."
+      "en": "The demand for foreign goods and the profits from trade kept the Silk Road well-preserved."
     },
     "segments": [
       {
@@ -6018,9 +6018,9 @@
     ]
   },
   {
-    "sentence_text": "尽管 罗马帝国 分崩离析",
+    "sentence_text": "尽管 罗马帝国 分崩离析 中国 的 朝代 胜衰兴 肺",
     "translations": {
-      "en": "Despite the collapse of the Roman Empire,"
+      "en": "Despite the fall of the Roman Empire and the rise and fall of Chinese dynasties,"
     },
     "segments": [
       {
@@ -6082,15 +6082,7 @@
         "startTime": 194510,
         "endTime": 194700,
         "pinyin": "xī"
-      }
-    ]
-  },
-  {
-    "sentence_text": "中国 的 朝代 胜衰兴 肺",
-    "translations": {
-      "en": "and the rise and fall of Chinese dynasties,"
-    },
-    "segments": [
+      },
       {
         "token": "中",
         "startTime": 194700,
@@ -6150,7 +6142,7 @@
   {
     "sentence_text": "即使 是 那些 以 抢劫 和 掠夺 臭名昭著 的 蒙古 囤积 商人 也 积极 地 保护 这些 贸易 通道",
     "translations": {
-      "en": "even the Mongol hordes, notorious for plunder and looting, actively protected these trade routes,"
+      "en": "Even the Mongol hordes, notorious for robbery and plunder, actively protected these trade routes,"
     },
     "segments": [
       {
@@ -6410,9 +6402,9 @@
     ]
   },
   {
-    "sentence_text": "随着 商品经济 的 发达",
+    "sentence_text": "随着 商品经济 的 发达 这 条 道路 同时 也 使得 文化 、 创新 技术 、 思想 和 语言 得以 流通",
     "translations": {
-      "en": "As the commodity economy developed,"
+      "en": "As the commodity economy developed, this road also facilitated the circulation of culture, innovative technology, ideas, and languages."
     },
     "segments": [
       {
@@ -6468,15 +6460,7 @@
         "startTime": 206290,
         "endTime": 206460,
         "pinyin": "dá"
-      }
-    ]
-  },
-  {
-    "sentence_text": "这 条 道路 同时 也 使得 文化 、 创新 技术 、 思想 和 语言 得以 流通",
-    "translations": {
-      "en": "this road also facilitated the circulation of culture, innovative technologies, ideas, and languages."
-    },
-    "segments": [
+      },
       {
         "token": "这",
         "startTime": 206460,
@@ -7034,9 +7018,9 @@
     ]
   },
   {
-    "sentence_text": "火药 从 中国 传到 中东",
+    "sentence_text": "火药 从 中国 传到 中东 塑造 了 土耳其 帝国 、 萨法维 帝国 以及 马拉塔 帝国 的 未来",
     "translations": {
-      "en": "Gunpowder spread from China to the Middle East,"
+      "en": "Gunpowder spread from China to the Middle East, shaping the future of the Ottoman, Safavid, and Maratha empires."
     },
     "segments": [
       {
@@ -7092,15 +7076,7 @@
         "startTime": 228970,
         "endTime": 229120,
         "pinyin": "dōng"
-      }
-    ]
-  },
-  {
-    "sentence_text": "塑造 了 土耳其 帝国 、 萨法维 帝国 以及 马拉塔 帝国 的 未来",
-    "translations": {
-      "en": "shaping the futures of the Ottoman, Safavid, and Maratha empires."
-    },
-    "segments": [
+      },
       {
         "token": "塑",
         "startTime": 229120,
@@ -7250,7 +7226,7 @@
   {
     "sentence_text": "某种程度 上 说 丝绸之路 成功 地 终结 了 自己",
     "translations": {
-      "en": "In a sense, the Silk Road succeeded in ending itself."
+      "en": "In a way, the Silk Road succeeded in ending itself."
     },
     "segments": [
       {
@@ -7364,9 +7340,9 @@
     ]
   },
   {
-    "sentence_text": "新 的 航海技术 像是 磁 罗盘 传往 欧洲",
+    "sentence_text": "新 的 航海技术 像是 磁 罗盘 传往 欧洲 使得 陆地 上 的 长城 公路 被 淘汰 了",
     "translations": {
-      "en": "New maritime technologies, like the magnetic compass, spread to Europe,"
+      "en": "New maritime technologies, like the magnetic compass, spread to Europe, rendering the overland routes obsolete."
     },
     "segments": [
       {
@@ -7458,15 +7434,7 @@
         "startTime": 242345,
         "endTime": 242470,
         "pinyin": "zhōu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "使得 陆地 上 的 长城 公路 被 淘汰 了",
-    "translations": {
-      "en": "rendering the overland routes obsolete."
-    },
-    "segments": [
+      },
       {
         "token": "使",
         "startTime": 242470,
@@ -7556,7 +7524,7 @@
   {
     "sentence_text": "与此同时 元朝 瓦解 后 中国 从 国际贸易 版图 消失",
     "translations": {
-      "en": "Meanwhile, after the collapse of the Yuan dynasty, China disappeared from the international trade map."
+      "en": "At the same time, after the collapse of the Yuan dynasty, China disappeared from the international trade map."
     },
     "segments": [
       {
@@ -7682,9 +7650,9 @@
     ]
   },
   {
-    "sentence_text": "即便 旧 的 道路 和 贸易 网络 没 能 长久",
+    "sentence_text": "即便 旧 的 道路 和 贸易 网络 没 能 长久 他们 也 永久 改变 了 世界",
     "translations": {
-      "en": "Even though the old routes and trade networks did not last,"
+      "en": "Even though the old roads and trade networks did not last, they permanently changed the world."
     },
     "segments": [
       {
@@ -7776,15 +7744,7 @@
         "startTime": 253330,
         "endTime": 253790,
         "pinyin": "jiǔ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "他们 也 永久 改变 了 世界",
-    "translations": {
-      "en": "they permanently changed the world."
-    },
-    "segments": [
+      },
       {
         "token": "他",
         "startTime": 253790,
@@ -7850,7 +7810,7 @@
   {
     "sentence_text": "没有 倒退 的 可能 了",
     "translations": {
-      "en": "There's no turning back now."
+      "en": "There was no turning back."
     },
     "segments": [
       {
@@ -7906,7 +7866,7 @@
   {
     "sentence_text": "欧洲人 寻找 新 的 海上 航道 想要 寻找 东亚 的 财富",
     "translations": {
-      "en": "Europeans sought new sea routes to reach East Asian wealth."
+      "en": "Europeans sought new sea routes to find the wealth of East Asia,"
     },
     "segments": [
       {
@@ -8034,7 +7994,7 @@
   {
     "sentence_text": "导致 了 其 在 非洲 和 美洲 的 探索 和 扩张",
     "translations": {
-      "en": "This led to their exploration and expansion in Africa and the Americas."
+      "en": "leading to their exploration and expansion in Africa and the Americas."
     },
     "segments": [
       {
@@ -8138,7 +8098,7 @@
   {
     "sentence_text": "今天 全球 各国 相互 T恤",
     "translations": {
-      "en": "Today, countries around the world are interconnected."
+      "en": "Today, countries around the world are interconnected,"
     },
     "segments": [
       {
@@ -8206,7 +8166,7 @@
   {
     "sentence_text": "日本 观众 观看 英国 电视节目",
     "translations": {
-      "en": "Japanese viewers watch British TV programs."
+      "en": "with Japanese audiences watching British TV shows."
     },
     "segments": [
       {
@@ -8286,7 +8246,7 @@
   {
     "sentence_text": "突尼斯人 使用 美国 的 软件 来 组织 革命",
     "translations": {
-      "en": "Tunisians use American software to organize a revolution."
+      "en": "Tunisians used American software to organize a revolution"
     },
     "segments": [
       {
@@ -8390,7 +8350,7 @@
   {
     "sentence_text": "全球化 对 文化 和 经济 的 影响 是 无可争议 的",
     "translations": {
-      "en": "Globalization's impact on culture and economy is undeniable."
+      "en": "The impact of globalization on culture and economy is undeniable"
     },
     "segments": [
       {
@@ -8506,7 +8466,7 @@
   {
     "sentence_text": "但 随之而来 的 好处 与 缺点 也 不是 新鲜事 了",
     "translations": {
-      "en": "But the resulting benefits and drawbacks are nothing new."
+      "en": "But the accompanying benefits and drawbacks are nothing new"
     },
     "segments": [
       {
@@ -8810,7 +8770,7 @@
   {
     "sentence_text": "跨 大陆 通信 电缆 和 通过 太空 传输 的 信号 得以 绕过",
     "translations": {
-      "en": "intercontinental communication cables, and signals transmitted through space."
+      "en": "transcontinental communication cables, and signals transmitted through space"
     },
     "segments": [
       {
@@ -8944,7 +8904,7 @@
   {
     "sentence_text": "不再 需要 商队 跋涉 数月 了",
     "translations": {
-      "en": "No longer do caravans need to trek for months."
+      "en": "No longer do caravans need to trek for months"
     },
     "segments": [
       {
@@ -9018,7 +8978,7 @@
   {
     "sentence_text": "但 如果 没有 开创性 的 文化 这 一切都是 不 可能 的",
     "translations": {
-      "en": "But none of this would be possible without a pioneering culture."
+      "en": "But none of this would be possible without a pioneering culture"
     },
     "segments": [
       {
@@ -9144,9 +9104,9 @@
     ]
   },
   {
-    "sentence_text": "这样 的 先进 文化 创造 了 丝绸之路",
+    "sentence_text": "这样 的 先进 文化 创造 了 丝绸之路 世界 上 第一个",
     "translations": {
-      "en": "Such an advanced culture created the Silk Road,"
+      "en": "Such an advanced culture created the Silk Road, the world's first"
     },
     "segments": [
       {
@@ -9232,15 +9192,7 @@
         "startTime": 302515,
         "endTime": 302730,
         "pinyin": "lù"
-      }
-    ]
-  },
-  {
-    "sentence_text": "世界 上 第一个",
-    "translations": {
-      "en": "the world's first"
-    },
-    "segments": [
+      },
       {
         "token": "世",
         "startTime": 302730,
