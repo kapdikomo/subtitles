@@ -2,7 +2,7 @@
   {
     "sentence_text": "为什么 有些 昆虫 可以 在 水面 上 爬行",
     "translations": {
-      "en": "Why can some insects walk on water?"
+      "en": "Why can some insects walk on the surface of water?"
     },
     "segments": [
       {
@@ -100,7 +100,7 @@
   {
     "sentence_text": "但是 当 你 试图 在 水上 行走 时 就 会 立即 沉入 水底",
     "translations": {
-      "en": "But when you try to walk on water, you immediately sink."
+      "en": "But when you try to walk on water, you immediately sink to the bottom."
     },
     "segments": [
       {
@@ -362,7 +362,7 @@
   {
     "sentence_text": "简单 地说 以上 所有 问题 的 答案 都 是 急性",
     "translations": {
-      "en": "Simply put, the answer to all these questions is polarity."
+      "en": "Simply put, the answer to all the above questions is polarity."
     },
     "segments": [
       {
@@ -470,9 +470,9 @@
     ]
   },
   {
-    "sentence_text": "水是 一种 简单 的 分子 由 一个 氧原子 和 两个 氢原子 组成",
+    "sentence_text": "水是 一种 简单 的 分子",
     "translations": {
-      "en": "Water is a simple molecule made of one oxygen atom and two hydrogen atoms."
+      "en": "Water is a simple molecule."
     },
     "segments": [
       {
@@ -528,7 +528,15 @@
         "startTime": 23800,
         "endTime": 24100,
         "pinyin": "zǐ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "由 一个 氧原子 和 两个 氢原子 组成",
+    "translations": {
+      "en": "It consists of one oxygen atom and two hydrogen atoms."
+    },
+    "segments": [
       {
         "token": "由",
         "startTime": 24100,
@@ -618,7 +626,7 @@
   {
     "sentence_text": "但水 仍然 是 生命 之源",
     "translations": {
-      "en": "Yet water is the source of life."
+      "en": "Yet water remains the source of life."
     },
     "segments": [
       {
@@ -680,7 +688,7 @@
   {
     "sentence_text": "事实上 一个 成年人 60% 的 体重 都 是 由 水 组成 的",
     "translations": {
-      "en": "In fact, about 60% of an adult's body weight is water."
+      "en": "In fact, 60% of an adult's body weight is made up of water."
     },
     "segments": [
       {
@@ -1124,7 +1132,7 @@
   {
     "sentence_text": "就是 而言 在 一个 水分子 中",
     "translations": {
-      "en": "For water, in a water molecule,"
+      "en": "For example, in a water molecule,"
     },
     "segments": [
       {
@@ -1198,7 +1206,7 @@
   {
     "sentence_text": "氧原子 和 两个 氢原子 之间 的 化学键 就 像 一个 高大 强壮 的 橄榄球 运动员",
     "translations": {
-      "en": "the chemical bonds between the oxygen atom and the two hydrogen atoms are like a tug-of-war between a big, strong football player"
+      "en": "The chemical bonds between the oxygen atom and the two hydrogen atoms are like a tug-of-war between a tall, strong football player"
     },
     "segments": [
       {
@@ -1386,7 +1394,7 @@
   {
     "sentence_text": "与 一个 可爱 的 婴儿 之间 进行 拔河",
     "translations": {
-      "en": "and a cute baby."
+      "en": "And a cute baby."
     },
     "segments": [
       {
@@ -1476,9 +1484,9 @@
     ]
   },
   {
-    "sentence_text": "氧原子 更大 一些 它 的 原子核 中 的 质子 比 氢原子 更 多",
+    "sentence_text": "氧原子 更大 一些",
     "translations": {
-      "en": "The oxygen atom is larger and has more protons in its nucleus than hydrogen atoms."
+      "en": "The oxygen atom is larger."
     },
     "segments": [
       {
@@ -1522,7 +1530,15 @@
         "startTime": 60500,
         "endTime": 60700,
         "pinyin": "xiē"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "它 的 原子核 中 的 质子 比 氢原子 更 多",
+    "translations": {
+      "en": "Its nucleus has more protons than the hydrogen atoms."
+    },
+    "segments": [
       {
         "token": "它",
         "startTime": 60700,
@@ -1722,7 +1738,7 @@
   {
     "sentence_text": "能够 经由 化学键 吸引 带 负电荷 的 电子",
     "translations": {
-      "en": "can attract negatively charged electrons through chemical bonds."
+      "en": "Can attract negatively charged electrons through chemical bonds."
     },
     "segments": [
       {
@@ -1966,7 +1982,7 @@
   {
     "sentence_text": "所以 氧原子 能够 比 氢原子 吸引 更 多 的 电子",
     "translations": {
-      "en": "the oxygen atom can attract more electrons than the hydrogen atoms."
+      "en": "So the oxygen atom can attract more electrons than the hydrogen atoms."
     },
     "segments": [
       {
@@ -2080,9 +2096,9 @@
     ]
   },
   {
-    "sentence_text": "因为 氢原子 体积 较 小 拥有 的 质子 更 少 吸引力 也 相对 较 小",
+    "sentence_text": "因为 氢原子 体积 较 小",
     "translations": {
-      "en": "Because hydrogen atoms are smaller, have fewer protons, and thus less attraction,"
+      "en": "Because the hydrogen atoms are smaller."
     },
     "segments": [
       {
@@ -2138,7 +2154,15 @@
         "startTime": 82760,
         "endTime": 82880,
         "pinyin": "xiǎo"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "拥有 的 质子 更 少",
+    "translations": {
+      "en": "Has fewer protons"
+    },
+    "segments": [
       {
         "token": "拥",
         "startTime": 82880,
@@ -2180,7 +2204,15 @@
         "startTime": 84120,
         "endTime": 84260,
         "pinyin": "shǎo"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "吸引力 也 相对 较 小",
+    "translations": {
+      "en": "So its attraction is weaker"
+    },
+    "segments": [
       {
         "token": "吸",
         "startTime": 84260,
@@ -2234,7 +2266,7 @@
   {
     "sentence_text": "它 在 这场 拔河比赛 中落 于 下风",
     "translations": {
-      "en": "they lose in this tug-of-war,"
+      "en": "It loses in this tug-of-war"
     },
     "segments": [
       {
@@ -2320,7 +2352,7 @@
   {
     "sentence_text": "相较 于 氧原子 吸引 的 电子 更 少",
     "translations": {
-      "en": "attracting fewer electrons than the oxygen atom."
+      "en": "Attracts fewer electrons than the oxygen atom"
     },
     "segments": [
       {
@@ -2404,9 +2436,9 @@
     ]
   },
   {
-    "sentence_text": "因此 水 当中 的 氧原子 带 负电 氢原子 带 正电",
+    "sentence_text": "因此 水 当中 的 氧原子 带 负电",
     "translations": {
-      "en": "Therefore, the oxygen atom in water carries a negative charge, while the hydrogen atoms carry a positive charge."
+      "en": "Thus the oxygen atom in water is negatively charged"
     },
     "segments": [
       {
@@ -2480,7 +2512,15 @@
         "startTime": 96610,
         "endTime": 96760,
         "pinyin": "diàn"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "氢原子 带 正电",
+    "translations": {
+      "en": "The hydrogen atoms are positively charged"
+    },
+    "segments": [
       {
         "token": "氢",
         "startTime": 96760,
@@ -2522,7 +2562,7 @@
   {
     "sentence_text": "一个 水分子 中 的 化学键 叫做 极性 供价键",
     "translations": {
-      "en": "The chemical bond within a water molecule is called a polar covalent bond."
+      "en": "The chemical bond in a water molecule is called a polar covalent bond"
     },
     "segments": [
       {
@@ -2632,7 +2672,7 @@
   {
     "sentence_text": "供价 代表 电子 有 两个 原子 共有",
     "translations": {
-      "en": "Covalent means that electrons are shared by two atoms."
+      "en": "Covalent means the electrons are shared by two atoms"
     },
     "segments": [
       {
@@ -2716,9 +2756,9 @@
     ]
   },
   {
-    "sentence_text": "但是 正如 我们 刚才 所学 到 的 极性 表示 电子 不是 均匀分布 的",
+    "sentence_text": "但是 正如 我们 刚才 所学 到 的",
     "translations": {
-      "en": "But as we just learned, polar indicates that the electrons are not evenly distributed."
+      "en": "But as we just learned"
     },
     "segments": [
       {
@@ -2792,7 +2832,15 @@
         "startTime": 107940,
         "endTime": 108040,
         "pinyin": "de"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "极性 表示 电子 不是 均匀分布 的",
+    "translations": {
+      "en": "Polar means the electrons are not evenly distributed"
+    },
+    "segments": [
       {
         "token": "极",
         "startTime": 108040,
@@ -2876,7 +2924,7 @@
   {
     "sentence_text": "在 水分子 中 氧原子 带 负电 而 氢原子 带 正电",
     "translations": {
-      "en": "In a water molecule, the oxygen atom is negatively charged, and the hydrogen atoms are positively charged."
+      "en": "In a water molecule, the oxygen atom is negatively charged and the hydrogen atoms are positively charged"
     },
     "segments": [
       {
@@ -2990,9 +3038,9 @@
     ]
   },
   {
-    "sentence_text": "易 电性 物质 相互 吸引 , 所以 不同 的 水分子 之中 的 氧原子 和 氢原子 相互 吸引",
+    "sentence_text": "易 电性 物质 相互 吸引 ,",
     "translations": {
-      "en": "Electrically charged substances attract each other, so oxygen and hydrogen atoms from different water molecules attract each other."
+      "en": "Oppositely charged substances attract each other"
     },
     "segments": [
       {
@@ -3054,7 +3102,15 @@
         "startTime": 117960,
         "endTime": 118140,
         "pinyin": ","
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "所以 不同 的 水分子 之中 的 氧原子 和 氢原子 相互 吸引",
+    "translations": {
+      "en": "So oxygen and hydrogen atoms from different water molecules attract each other"
+    },
+    "segments": [
       {
         "token": "所",
         "startTime": 118140,
@@ -3190,9 +3246,9 @@
     ]
   },
   {
-    "sentence_text": "水分子 之间 产生 了 一种 特殊 的 化学键 , 即",
+    "sentence_text": "水分子 之间 产生 了 一种 特殊 的 化学键 ,",
     "translations": {
-      "en": "This creates a special chemical bond between water molecules, known as"
+      "en": "A special chemical bond forms between water molecules"
     },
     "segments": [
       {
@@ -3296,21 +3352,21 @@
         "startTime": 128320,
         "endTime": 128520,
         "pinyin": ","
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "即 也 可以 在 水分子 和 另 一种 极性 物质 或者 离子 物质 之间 形成",
+    "translations": {
+      "en": "Which can also form between a water molecule and another polar substance or ionic substance"
+    },
+    "segments": [
       {
         "token": "即",
         "startTime": 128520,
         "endTime": 129220,
         "pinyin": "jí"
-      }
-    ]
-  },
-  {
-    "sentence_text": "也 可以 在 水分子 和 另 一种 极性 物质 或者 离子 物质 之间 形成",
-    "translations": {
-      "en": "It can also form between a water molecule and another polar substance or ionic substance."
-    },
-    "segments": [
+      },
       {
         "token": "也",
         "startTime": 129220,
@@ -3464,9 +3520,9 @@
     ]
   },
   {
-    "sentence_text": "水分子 能够 粗 聚在一起 , 这种 能力 叫做 凝聚力",
+    "sentence_text": "水分子 能够 粗 聚在一起 ,",
     "translations": {
-      "en": "Water's ability to stick together is called cohesion."
+      "en": "Water molecules can stick together"
     },
     "segments": [
       {
@@ -3534,7 +3590,15 @@
         "startTime": 136653,
         "endTime": 136800,
         "pinyin": ","
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这种 能力 叫做 凝聚力",
+    "translations": {
+      "en": "This ability is called cohesion"
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 136800,
@@ -3592,9 +3656,9 @@
     ]
   },
   {
-    "sentence_text": "水 也 能够 粘 在 别的 物质 上 这种 能力 叫做 粘腹粒",
+    "sentence_text": "水 也 能够 粘 在 别的 物质 上",
     "translations": {
-      "en": "Water can also stick to other substances; this ability is called adhesion."
+      "en": "Water can also stick to other substances"
     },
     "segments": [
       {
@@ -3662,7 +3726,15 @@
         "startTime": 139860,
         "endTime": 139960,
         "pinyin": "shàng"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这种 能力 叫做 粘腹粒",
+    "translations": {
+      "en": "This ability is called adhesion"
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 139960,
@@ -3722,7 +3794,7 @@
   {
     "sentence_text": "现在 我们 再 回想 一下 最初 的 问题",
     "translations": {
-      "en": "Now let's revisit the original question."
+      "en": "Now let's go back to the original question"
     },
     "segments": [
       {
@@ -3916,9 +3988,9 @@
     ]
   },
   {
-    "sentence_text": "轻贱 具有 表面张力 在 水面 上 产生 了 一层 薄膜",
+    "sentence_text": "轻贱 具有 表面张力",
     "translations": {
-      "en": "Hydrogen bonds create surface tension, forming a thin film on the water's surface."
+      "en": "Water has surface tension"
     },
     "segments": [
       {
@@ -3968,7 +4040,15 @@
         "startTime": 150885,
         "endTime": 151160,
         "pinyin": "lì"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "在 水面 上 产生 了 一层 薄膜",
+    "translations": {
+      "en": "creating a thin film on its surface"
+    },
+    "segments": [
       {
         "token": "在",
         "startTime": 151160,
@@ -4040,7 +4120,7 @@
   {
     "sentence_text": "它 的 弹性 足以 支撑 小型 昆虫 在 上面 爬行",
     "translations": {
-      "en": "Its elasticity is strong enough to support small insects walking on it."
+      "en": "elastic enough to support small insects walking on it"
     },
     "segments": [
       {
@@ -4148,9 +4228,9 @@
     ]
   },
   {
-    "sentence_text": "但 你 无法 在 水上 行走 这 是因为 轻贱 的 强度 不足以",
+    "sentence_text": "但 你 无法 在 水上 行走",
     "translations": {
-      "en": "But you cannot walk on water because the strength of hydrogen bonds is not sufficient."
+      "en": "But you can't walk on water"
     },
     "segments": [
       {
@@ -4206,7 +4286,15 @@
         "startTime": 159160,
         "endTime": 159240,
         "pinyin": "zǒu"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "这 是因为 轻贱 的 强度 不足以",
+    "translations": {
+      "en": "because the tension isn't strong enough"
+    },
+    "segments": [
       {
         "token": "这",
         "startTime": 159240,
@@ -4284,7 +4372,7 @@
   {
     "sentence_text": "为什么 冰 能够 漂浮 在 液态水 中 呢",
     "translations": {
-      "en": "Why can ice float on liquid water?"
+      "en": "Why does ice float on liquid water?"
     },
     "segments": [
       {
@@ -4374,9 +4462,9 @@
     ]
   },
   {
-    "sentence_text": "对于 大多数 物质 来说 物态 的 密度 总是 比 液态 的 密度 大",
+    "sentence_text": "对于 大多数 物质 来说",
     "translations": {
-      "en": "For most substances, the solid state is denser than the liquid state."
+      "en": "For most substances,"
     },
     "segments": [
       {
@@ -4432,7 +4520,15 @@
         "startTime": 167190,
         "endTime": 167580,
         "pinyin": "shuō"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "物态 的 密度 总是 比 液态 的 密度 大",
+    "translations": {
+      "en": "the solid density is always greater than the liquid density"
+    },
+    "segments": [
       {
         "token": "物",
         "startTime": 167580,
@@ -4522,7 +4618,7 @@
   {
     "sentence_text": "但是 水 却 不是 这样",
     "translations": {
-      "en": "But this is not the case for water."
+      "en": "But water is different."
     },
     "segments": [
       {
@@ -4576,9 +4672,9 @@
     ]
   },
   {
-    "sentence_text": "在 轻贱 的 作用 下冰中 的 水分子 之间 的 距离 比 液态水 更大",
+    "sentence_text": "在 轻贱 的 作用 下",
     "translations": {
-      "en": "Under the influence of hydrogen bonds, the distance between water molecules in ice is greater than in liquid water."
+      "en": "Under the effect of surface tension,"
     },
     "segments": [
       {
@@ -4622,7 +4718,15 @@
         "startTime": 173940,
         "endTime": 174233,
         "pinyin": "xià"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "冰中 的 水分子 之间 的 距离 比 液态水 更大",
+    "translations": {
+      "en": "water molecules in ice are farther apart than in liquid water"
+    },
+    "segments": [
       {
         "token": "冰",
         "startTime": 174233,
@@ -4728,9 +4832,9 @@
     ]
   },
   {
-    "sentence_text": "分子 之间 的 距离 越大 固体 的 密度 就 越 小",
+    "sentence_text": "分子 之间 的 距离 越大",
     "translations": {
-      "en": "The greater the distance between molecules, the lower the density of the solid."
+      "en": "The greater the distance between molecules,"
     },
     "segments": [
       {
@@ -4786,7 +4890,15 @@
         "startTime": 179660,
         "endTime": 179900,
         "pinyin": "dà"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "固体 的 密度 就 越 小",
+    "translations": {
+      "en": "the lower the density of the solid."
+    },
+    "segments": [
       {
         "token": "固",
         "startTime": 179900,
@@ -4838,9 +4950,9 @@
     ]
   },
   {
-    "sentence_text": "而冰 的 密度 比水 大约 小 9% 所以 能够 漂浮 在 水上",
+    "sentence_text": "而冰 的 密度 比水 大约 小 9%",
     "translations": {
-      "en": "Ice is about 9% less dense than water, so it floats on the surface."
+      "en": "Ice is about 9% less dense than water,"
     },
     "segments": [
       {
@@ -4914,7 +5026,15 @@
         "startTime": 184330,
         "endTime": 184360,
         "pinyin": "%"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "所以 能够 漂浮 在 水上",
+    "translations": {
+      "en": "so it can float on water."
+    },
+    "segments": [
       {
         "token": "所",
         "startTime": 184360,
@@ -4974,7 +5094,7 @@
   {
     "sentence_text": "这 就是 为什么 湖水 结冰 时 是从 水面 开始 往 下 结冰",
     "translations": {
-      "en": "That's why when a lake freezes, it starts from the top down."
+      "en": "That's why lakes freeze from the surface downward."
     },
     "segments": [
       {
@@ -5108,7 +5228,7 @@
   {
     "sentence_text": "也 正因如此 水生 生物 才 能够 度过 每个 寒冷 的 冬天",
     "translations": {
-      "en": "And that's how aquatic life survives each cold winter."
+      "en": "And that's how aquatic life survives every cold winter."
     },
     "segments": [
       {
@@ -5242,7 +5362,7 @@
   {
     "sentence_text": "水分子 的 极性 和 极性 带来 的 清贱 造就 了 水 独特 的 性质",
     "translations": {
-      "en": "The polarity of water molecules and the resulting properties give water its unique characteristics."
+      "en": "The polarity of water molecules and the resulting surface tension give water its unique properties."
     },
     "segments": [
       {
@@ -5540,7 +5660,7 @@
   {
     "sentence_text": "而 正是 水分子 的 极性 使得 水 与众不同",
     "translations": {
-      "en": "It is the polarity of water molecules that makes water so special."
+      "en": "It is the polarity of water molecules that makes water unique."
     },
     "segments": [
       {
@@ -5644,7 +5764,7 @@
   {
     "sentence_text": "更 多 内容 , 敬请 继续 关注 永保 探索 热情",
     "translations": {
-      "en": "For more, stay tuned and keep exploring with passion."
+      "en": "For more content, stay tuned and keep exploring."
     },
     "segments": [
       {
