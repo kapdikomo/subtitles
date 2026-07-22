@@ -2,7 +2,7 @@
   {
     "sentence_text": "ประทาน วิป รัฐบาล คุณ กร วี ปริศนา นันท กุ ณ ก็ ออกมา สื่",
     "translations": {
-      "en": "Government whip Karawin Preeyananathakun came out to"
+      "en": "The government whip, Ms. Kanokwan, came out to inform reporters that the whip will have a meeting."
     },
     "segments": [
       {
@@ -280,7 +280,7 @@
   {
     "sentence_text": "อ สาร กับ นัก ขาว ด้วย บอ กว่า เดี๋ยว วิป จะ มี การประชุม",
     "translations": {
-      "en": "inform reporters that the whip will have a meeting"
+      "en": "She said the whip will hold a weekly meeting regarding the amnesty bill."
     },
     "segments": [
       {
@@ -556,9 +556,9 @@
     ]
   },
   {
-    "sentence_text": "ประจำสัปดาห์",
+    "sentence_text": "ประจำสัปดาห์ มีเรื่อง ของ ร่างกฎหมาย นิร ธศ กรรม ซึ่",
     "translations": {
-      "en": "this week."
+      "en": "The Senate has already sent it back."
     },
     "segments": [
       {
@@ -632,15 +632,7 @@
         "startTime": 8203,
         "endTime": 8320,
         "pinyin": "์"
-      }
-    ]
-  },
-  {
-    "sentence_text": "มีเรื่อง ของ ร่างกฎหมาย นิร ธศ กรรม ซึ่ง ทาง วุธ เขา ส่",
-    "translations": {
-      "en": "There is the amnesty bill issue, which the Senate has"
-    },
-    "segments": [
+      },
       {
         "token": "ม",
         "startTime": 8320,
@@ -838,7 +830,15 @@
         "startTime": 10510,
         "endTime": 10765,
         "pinyin": "่"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ง ทาง วุธ เขา ส่ง กลับมา แล้ว นะ ครับ",
+    "translations": {
+      "en": "The meeting will discuss with coalition parties what to do with the amendments proposed by MPs."
+    },
+    "segments": [
       {
         "token": "ง",
         "startTime": 10765,
@@ -910,15 +910,7 @@
         "startTime": 11627,
         "endTime": 11673,
         "pinyin": "่"
-      }
-    ]
-  },
-  {
-    "sentence_text": "งก ลับ มา แล้ว นะ ครับ",
-    "translations": {
-      "en": "sent back."
-    },
-    "segments": [
+      },
       {
         "token": "ง",
         "startTime": 11673,
@@ -1026,7 +1018,7 @@
   {
     "sentence_text": "แล้ว ที่ประชุม จะ ได้ หารือ กับ พัก รวม รัฐบาล สิ่ง ที่",
     "translations": {
-      "en": "The meeting will discuss with coalition parties what"
+      "en": "They will discuss opinions on how to proceed."
     },
     "segments": [
       {
@@ -1260,1874 +1252,1770 @@
       {
         "token": "ส",
         "startTime": 15820,
-        "endTime": 15895,
+        "endTime": 15900,
         "pinyin": "s"
       },
       {
         "token": "ิ",
-        "startTime": 15895,
-        "endTime": 15970,
+        "startTime": 15900,
+        "endTime": 15980,
         "pinyin": "ิ"
       },
       {
         "token": "่",
-        "startTime": 15970,
-        "endTime": 16045,
+        "startTime": 15980,
+        "endTime": 16060,
         "pinyin": "่"
       },
       {
         "token": "ง",
-        "startTime": 16045,
-        "endTime": 16120,
+        "startTime": 16060,
+        "endTime": 16140,
         "pinyin": "ng"
       },
       {
         "token": "ท",
-        "startTime": 16120,
-        "endTime": 16173,
+        "startTime": 16140,
+        "endTime": 16193,
         "pinyin": "th"
       },
       {
         "token": "ี",
-        "startTime": 16173,
-        "endTime": 16227,
+        "startTime": 16193,
+        "endTime": 16247,
         "pinyin": "ี"
       },
       {
         "token": "่",
-        "startTime": 16227,
-        "endTime": 16280,
+        "startTime": 16247,
+        "endTime": 16300,
         "pinyin": "่"
       }
     ]
   },
   {
-    "sentence_text": "สอ เวอ แก้ไข มา ว่า เอา ยังไง ต่อ",
+    "sentence_text": "ส.ว. แก้ไข มา ว่า เอา ยังไง ต่อ มี ความเห็น กัน อย่างไร",
     "translations": {
-      "en": "the Senate's amendments are and how to proceed."
+      "en": "But as for the whip from the government side, looking at the issues amended by the Senate,"
     },
     "segments": [
       {
         "token": "ส",
-        "startTime": 16280,
-        "endTime": 16390,
+        "startTime": 16300,
+        "endTime": 16410,
         "pinyin": "s"
       },
       {
-        "token": "อ",
-        "startTime": 16390,
-        "endTime": 16500,
-        "pinyin": "อ"
-      },
-      {
-        "token": "เ",
-        "startTime": 16500,
-        "endTime": 16600,
-        "pinyin": "เ"
+        "token": ".",
+        "startTime": 16410,
+        "endTime": 16520,
+        "pinyin": "."
       },
       {
         "token": "ว",
-        "startTime": 16600,
-        "endTime": 16700,
+        "startTime": 16520,
+        "endTime": 16630,
         "pinyin": "w"
       },
       {
-        "token": "อ",
-        "startTime": 16700,
-        "endTime": 16800,
-        "pinyin": "อ"
+        "token": ".",
+        "startTime": 16630,
+        "endTime": 16740,
+        "pinyin": "."
       },
       {
         "token": "แ",
-        "startTime": 16800,
-        "endTime": 16912,
+        "startTime": 16740,
+        "endTime": 16852,
         "pinyin": "แ"
       },
       {
         "token": "ก",
-        "startTime": 16912,
-        "endTime": 17024,
+        "startTime": 16852,
+        "endTime": 16964,
         "pinyin": "k"
       },
       {
         "token": "้",
-        "startTime": 17024,
-        "endTime": 17136,
+        "startTime": 16964,
+        "endTime": 17076,
         "pinyin": "้"
       },
       {
         "token": "ไ",
-        "startTime": 17136,
-        "endTime": 17248,
+        "startTime": 17076,
+        "endTime": 17188,
         "pinyin": "ไ"
       },
       {
         "token": "ข",
-        "startTime": 17248,
-        "endTime": 17360,
+        "startTime": 17188,
+        "endTime": 17300,
         "pinyin": "kh"
       },
       {
         "token": "ม",
-        "startTime": 17360,
-        "endTime": 17400,
+        "startTime": 17300,
+        "endTime": 17330,
         "pinyin": "m"
       },
       {
         "token": "า",
-        "startTime": 17400,
-        "endTime": 17440,
+        "startTime": 17330,
+        "endTime": 17360,
         "pinyin": "า"
       },
       {
         "token": "ว",
-        "startTime": 17440,
-        "endTime": 17507,
+        "startTime": 17360,
+        "endTime": 17440,
         "pinyin": "w"
       },
       {
         "token": "่",
-        "startTime": 17507,
-        "endTime": 17573,
+        "startTime": 17440,
+        "endTime": 17520,
         "pinyin": "่"
       },
       {
         "token": "า",
-        "startTime": 17573,
-        "endTime": 17640,
+        "startTime": 17520,
+        "endTime": 17600,
         "pinyin": "า"
       },
       {
         "token": "เ",
-        "startTime": 17640,
-        "endTime": 17780,
+        "startTime": 17600,
+        "endTime": 17753,
         "pinyin": "เ"
       },
       {
         "token": "อ",
-        "startTime": 17780,
-        "endTime": 17920,
+        "startTime": 17753,
+        "endTime": 17907,
         "pinyin": "อ"
       },
       {
         "token": "า",
-        "startTime": 17920,
+        "startTime": 17907,
         "endTime": 18060,
         "pinyin": "า"
       },
       {
         "token": "ย",
         "startTime": 18060,
-        "endTime": 18136,
+        "endTime": 18108,
         "pinyin": "y"
       },
       {
         "token": "ั",
-        "startTime": 18136,
-        "endTime": 18212,
+        "startTime": 18108,
+        "endTime": 18156,
         "pinyin": "ั"
       },
       {
         "token": "ง",
-        "startTime": 18212,
-        "endTime": 18288,
+        "startTime": 18156,
+        "endTime": 18204,
         "pinyin": "ng"
       },
       {
         "token": "ไ",
-        "startTime": 18288,
-        "endTime": 18364,
+        "startTime": 18204,
+        "endTime": 18252,
         "pinyin": "ไ"
       },
       {
         "token": "ง",
-        "startTime": 18364,
-        "endTime": 18440,
+        "startTime": 18252,
+        "endTime": 18300,
         "pinyin": "ng"
       },
       {
         "token": "ต",
-        "startTime": 18440,
-        "endTime": 18513,
+        "startTime": 18300,
+        "endTime": 18360,
         "pinyin": "t"
       },
       {
         "token": "่",
-        "startTime": 18513,
-        "endTime": 18587,
+        "startTime": 18360,
+        "endTime": 18420,
         "pinyin": "่"
       },
       {
         "token": "อ",
-        "startTime": 18587,
-        "endTime": 18660,
+        "startTime": 18420,
+        "endTime": 18480,
         "pinyin": "อ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "มี ความเห็น กัน อย่างไร ・ สอ ・ ก ราวี ที่ ดู จาก ประเด็น ท",
-    "translations": {
-      "en": "What are the opinions? Looking at the issues"
-    },
-    "segments": [
+      },
       {
         "token": "ม",
-        "startTime": 18660,
-        "endTime": 18680,
+        "startTime": 18480,
+        "endTime": 18570,
         "pinyin": "m"
       },
       {
         "token": "ี",
-        "startTime": 18680,
-        "endTime": 18700,
+        "startTime": 18570,
+        "endTime": 18660,
         "pinyin": "ี"
       },
       {
         "token": "ค",
-        "startTime": 18700,
-        "endTime": 18868,
+        "startTime": 18660,
+        "endTime": 18815,
         "pinyin": "kh"
       },
       {
         "token": "ว",
-        "startTime": 18868,
-        "endTime": 19035,
+        "startTime": 18815,
+        "endTime": 18970,
         "pinyin": "w"
       },
       {
         "token": "า",
-        "startTime": 19035,
-        "endTime": 19203,
+        "startTime": 18970,
+        "endTime": 19125,
         "pinyin": "า"
       },
       {
         "token": "ม",
-        "startTime": 19203,
-        "endTime": 19370,
+        "startTime": 19125,
+        "endTime": 19280,
         "pinyin": "m"
       },
       {
         "token": "เ",
-        "startTime": 19370,
-        "endTime": 19537,
+        "startTime": 19280,
+        "endTime": 19435,
         "pinyin": "เ"
       },
       {
         "token": "ห",
-        "startTime": 19537,
-        "endTime": 19705,
+        "startTime": 19435,
+        "endTime": 19590,
         "pinyin": "ห"
       },
       {
         "token": "็",
-        "startTime": 19705,
-        "endTime": 19873,
+        "startTime": 19590,
+        "endTime": 19745,
         "pinyin": "็"
       },
       {
         "token": "น",
-        "startTime": 19873,
-        "endTime": 20040,
+        "startTime": 19745,
+        "endTime": 19900,
         "pinyin": "n"
       },
       {
         "token": "ก",
-        "startTime": 20040,
-        "endTime": 20080,
+        "startTime": 19900,
+        "endTime": 19953,
         "pinyin": "k"
       },
       {
         "token": "ั",
-        "startTime": 20080,
-        "endTime": 20120,
+        "startTime": 19953,
+        "endTime": 20007,
         "pinyin": "ั"
       },
       {
         "token": "น",
-        "startTime": 20120,
-        "endTime": 20160,
+        "startTime": 20007,
+        "endTime": 20060,
         "pinyin": "n"
       },
       {
         "token": "อ",
-        "startTime": 20160,
-        "endTime": 20234,
+        "startTime": 20060,
+        "endTime": 20157,
         "pinyin": "อ"
       },
       {
         "token": "ย",
-        "startTime": 20234,
-        "endTime": 20309,
+        "startTime": 20157,
+        "endTime": 20254,
         "pinyin": "y"
       },
       {
         "token": "่",
-        "startTime": 20309,
-        "endTime": 20383,
+        "startTime": 20254,
+        "endTime": 20351,
         "pinyin": "่"
       },
       {
         "token": "า",
-        "startTime": 20383,
-        "endTime": 20457,
+        "startTime": 20351,
+        "endTime": 20449,
         "pinyin": "า"
       },
       {
         "token": "ง",
-        "startTime": 20457,
-        "endTime": 20531,
+        "startTime": 20449,
+        "endTime": 20546,
         "pinyin": "ng"
       },
       {
         "token": "ไ",
-        "startTime": 20531,
-        "endTime": 20606,
+        "startTime": 20546,
+        "endTime": 20643,
         "pinyin": "ไ"
       },
       {
         "token": "ร",
-        "startTime": 20606,
-        "endTime": 20680,
-        "pinyin": "r"
-      },
-      {
-        "token": "・",
-        "startTime": 20680,
+        "startTime": 20643,
         "endTime": 20740,
-        "pinyin": "・"
-      },
-      {
-        "token": "ส",
-        "startTime": 20740,
-        "endTime": 20780,
-        "pinyin": "s"
-      },
-      {
-        "token": "อ",
-        "startTime": 20780,
-        "endTime": 20820,
-        "pinyin": "อ"
-      },
-      {
-        "token": "・",
-        "startTime": 20820,
-        "endTime": 20860,
-        "pinyin": "・"
-      },
-      {
-        "token": "ก",
-        "startTime": 20860,
-        "endTime": 20900,
-        "pinyin": "k"
-      },
-      {
-        "token": "ร",
-        "startTime": 20900,
-        "endTime": 20965,
         "pinyin": "r"
-      },
-      {
-        "token": "า",
-        "startTime": 20965,
-        "endTime": 21030,
-        "pinyin": "า"
-      },
-      {
-        "token": "ว",
-        "startTime": 21030,
-        "endTime": 21095,
-        "pinyin": "w"
-      },
-      {
-        "token": "ี",
-        "startTime": 21095,
-        "endTime": 21160,
-        "pinyin": "ี"
-      },
-      {
-        "token": "ท",
-        "startTime": 21160,
-        "endTime": 21247,
-        "pinyin": "th"
-      },
-      {
-        "token": "ี",
-        "startTime": 21247,
-        "endTime": 21333,
-        "pinyin": "ี"
-      },
-      {
-        "token": "่",
-        "startTime": 21333,
-        "endTime": 21420,
-        "pinyin": "่"
-      },
-      {
-        "token": "ด",
-        "startTime": 21420,
-        "endTime": 21470,
-        "pinyin": "d"
-      },
-      {
-        "token": "ู",
-        "startTime": 21470,
-        "endTime": 21520,
-        "pinyin": "ู"
-      },
-      {
-        "token": "จ",
-        "startTime": 21520,
-        "endTime": 21587,
-        "pinyin": "ch"
-      },
-      {
-        "token": "า",
-        "startTime": 21587,
-        "endTime": 21653,
-        "pinyin": "า"
-      },
-      {
-        "token": "ก",
-        "startTime": 21653,
-        "endTime": 21720,
-        "pinyin": "k"
-      },
-      {
-        "token": "ป",
-        "startTime": 21720,
-        "endTime": 21769,
-        "pinyin": "p"
-      },
-      {
-        "token": "ร",
-        "startTime": 21769,
-        "endTime": 21817,
-        "pinyin": "r"
-      },
-      {
-        "token": "ะ",
-        "startTime": 21817,
-        "endTime": 21866,
-        "pinyin": "ะ"
-      },
-      {
-        "token": "เ",
-        "startTime": 21866,
-        "endTime": 21914,
-        "pinyin": "เ"
-      },
-      {
-        "token": "ด",
-        "startTime": 21914,
-        "endTime": 21963,
-        "pinyin": "d"
-      },
-      {
-        "token": "็",
-        "startTime": 21963,
-        "endTime": 22011,
-        "pinyin": "็"
-      },
-      {
-        "token": "น",
-        "startTime": 22011,
-        "endTime": 22060,
-        "pinyin": "n"
-      },
-      {
-        "token": "ท",
-        "startTime": 22060,
-        "endTime": 22173,
-        "pinyin": "th"
       }
     ]
   },
   {
-    "sentence_text": "ี่ ถูก แก้ไข โดย สอ เวอ ยังอยู่ ใน แนวทาง ที่ ف ่าย การ เม",
+    "sentence_text": "แต่ ใน ตัว ส.ส. กร .",
     "translations": {
-      "en": "amended by the Senate, they are still within what the political"
+      "en": "they are still within acceptable political boundaries."
     },
     "segments": [
       {
+        "token": "แ",
+        "startTime": 20740,
+        "endTime": 20793,
+        "pinyin": "แ"
+      },
+      {
+        "token": "ต",
+        "startTime": 20793,
+        "endTime": 20847,
+        "pinyin": "t"
+      },
+      {
+        "token": "่",
+        "startTime": 20847,
+        "endTime": 20900,
+        "pinyin": "่"
+      },
+      {
+        "token": "ใ",
+        "startTime": 20900,
+        "endTime": 20980,
+        "pinyin": "ใ"
+      },
+      {
+        "token": "น",
+        "startTime": 20980,
+        "endTime": 21060,
+        "pinyin": "n"
+      },
+      {
+        "token": "ต",
+        "startTime": 21060,
+        "endTime": 21173,
+        "pinyin": "t"
+      },
+      {
+        "token": "ั",
+        "startTime": 21173,
+        "endTime": 21287,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ว",
+        "startTime": 21287,
+        "endTime": 21400,
+        "pinyin": "w"
+      },
+      {
+        "token": "ส",
+        "startTime": 21400,
+        "endTime": 21430,
+        "pinyin": "s"
+      },
+      {
+        "token": ".",
+        "startTime": 21430,
+        "endTime": 21460,
+        "pinyin": "."
+      },
+      {
+        "token": "ส",
+        "startTime": 21460,
+        "endTime": 21490,
+        "pinyin": "s"
+      },
+      {
+        "token": ".",
+        "startTime": 21490,
+        "endTime": 21520,
+        "pinyin": "."
+      },
+      {
+        "token": "ก",
+        "startTime": 21520,
+        "endTime": 21620,
+        "pinyin": "k"
+      },
+      {
+        "token": "ร",
+        "startTime": 21620,
+        "endTime": 21720,
+        "pinyin": "r"
+      },
+      {
+        "token": ".",
+        "startTime": 21720,
+        "endTime": 21880,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "วี ที่ ดู จาก ประเด็น ที่ ถูก แก้ไข โดย ส.ว.",
+    "translations": {
+      "en": "If there are any sticking points requiring a joint committee of both houses,"
+    },
+    "segments": [
+      {
+        "token": "ว",
+        "startTime": 21880,
+        "endTime": 21900,
+        "pinyin": "w"
+      },
+      {
         "token": "ี",
-        "startTime": 22173,
-        "endTime": 22287,
+        "startTime": 21900,
+        "endTime": 21920,
+        "pinyin": "ี"
+      },
+      {
+        "token": "ท",
+        "startTime": 21920,
+        "endTime": 21953,
+        "pinyin": "th"
+      },
+      {
+        "token": "ี",
+        "startTime": 21953,
+        "endTime": 21987,
         "pinyin": "ี"
       },
       {
         "token": "่",
-        "startTime": 22287,
-        "endTime": 22400,
+        "startTime": 21987,
+        "endTime": 22020,
+        "pinyin": "่"
+      },
+      {
+        "token": "ด",
+        "startTime": 22020,
+        "endTime": 22200,
+        "pinyin": "d"
+      },
+      {
+        "token": "ู",
+        "startTime": 22200,
+        "endTime": 22380,
+        "pinyin": "ู"
+      },
+      {
+        "token": "จ",
+        "startTime": 22380,
+        "endTime": 22413,
+        "pinyin": "ch"
+      },
+      {
+        "token": "า",
+        "startTime": 22413,
+        "endTime": 22447,
+        "pinyin": "า"
+      },
+      {
+        "token": "ก",
+        "startTime": 22447,
+        "endTime": 22480,
+        "pinyin": "k"
+      },
+      {
+        "token": "ป",
+        "startTime": 22480,
+        "endTime": 22551,
+        "pinyin": "p"
+      },
+      {
+        "token": "ร",
+        "startTime": 22551,
+        "endTime": 22623,
+        "pinyin": "r"
+      },
+      {
+        "token": "ะ",
+        "startTime": 22623,
+        "endTime": 22694,
+        "pinyin": "ะ"
+      },
+      {
+        "token": "เ",
+        "startTime": 22694,
+        "endTime": 22766,
+        "pinyin": "เ"
+      },
+      {
+        "token": "ด",
+        "startTime": 22766,
+        "endTime": 22837,
+        "pinyin": "d"
+      },
+      {
+        "token": "็",
+        "startTime": 22837,
+        "endTime": 22909,
+        "pinyin": "็"
+      },
+      {
+        "token": "น",
+        "startTime": 22909,
+        "endTime": 22980,
+        "pinyin": "n"
+      },
+      {
+        "token": "ท",
+        "startTime": 22980,
+        "endTime": 23120,
+        "pinyin": "th"
+      },
+      {
+        "token": "ี",
+        "startTime": 23120,
+        "endTime": 23260,
+        "pinyin": "ี"
+      },
+      {
+        "token": "่",
+        "startTime": 23260,
+        "endTime": 23400,
         "pinyin": "่"
       },
       {
         "token": "ถ",
-        "startTime": 22400,
-        "endTime": 22440,
+        "startTime": 23400,
+        "endTime": 23593,
         "pinyin": "th"
       },
       {
         "token": "ู",
-        "startTime": 22440,
-        "endTime": 22480,
+        "startTime": 23593,
+        "endTime": 23787,
         "pinyin": "ู"
       },
       {
         "token": "ก",
-        "startTime": 22480,
-        "endTime": 22520,
+        "startTime": 23787,
+        "endTime": 23980,
         "pinyin": "k"
       },
       {
         "token": "แ",
-        "startTime": 22520,
-        "endTime": 22616,
+        "startTime": 23980,
+        "endTime": 24016,
         "pinyin": "แ"
       },
       {
         "token": "ก",
-        "startTime": 22616,
-        "endTime": 22712,
+        "startTime": 24016,
+        "endTime": 24052,
         "pinyin": "k"
       },
       {
         "token": "้",
-        "startTime": 22712,
-        "endTime": 22808,
+        "startTime": 24052,
+        "endTime": 24088,
         "pinyin": "้"
       },
       {
         "token": "ไ",
-        "startTime": 22808,
-        "endTime": 22904,
+        "startTime": 24088,
+        "endTime": 24124,
         "pinyin": "ไ"
       },
       {
         "token": "ข",
-        "startTime": 22904,
-        "endTime": 23000,
+        "startTime": 24124,
+        "endTime": 24160,
         "pinyin": "kh"
       },
       {
         "token": "โ",
-        "startTime": 23000,
-        "endTime": 23180,
+        "startTime": 24160,
+        "endTime": 24233,
         "pinyin": "โ"
       },
       {
         "token": "ด",
-        "startTime": 23180,
-        "endTime": 23360,
+        "startTime": 24233,
+        "endTime": 24307,
         "pinyin": "d"
       },
       {
         "token": "ย",
-        "startTime": 23360,
-        "endTime": 23540,
+        "startTime": 24307,
+        "endTime": 24380,
         "pinyin": "y"
       },
       {
         "token": "ส",
-        "startTime": 23540,
-        "endTime": 23590,
+        "startTime": 24380,
+        "endTime": 24415,
         "pinyin": "s"
       },
       {
-        "token": "อ",
-        "startTime": 23590,
-        "endTime": 23640,
-        "pinyin": "อ"
-      },
-      {
-        "token": "เ",
-        "startTime": 23640,
-        "endTime": 23753,
-        "pinyin": "เ"
+        "token": ".",
+        "startTime": 24415,
+        "endTime": 24450,
+        "pinyin": "."
       },
       {
         "token": "ว",
-        "startTime": 23753,
-        "endTime": 23867,
+        "startTime": 24450,
+        "endTime": 24485,
         "pinyin": "w"
       },
       {
-        "token": "อ",
-        "startTime": 23867,
-        "endTime": 23980,
-        "pinyin": "อ"
-      },
+        "token": ".",
+        "startTime": 24485,
+        "endTime": 24520,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "ยังอยู่ ใน แนวทาง ที่ ฝ่าย การเมือง รับได้",
+    "translations": {
+      "en": "the government side has no objection and can arrange it."
+    },
+    "segments": [
       {
         "token": "ย",
-        "startTime": 23980,
-        "endTime": 24009,
+        "startTime": 24520,
+        "endTime": 24691,
         "pinyin": "y"
       },
       {
         "token": "ั",
-        "startTime": 24009,
-        "endTime": 24037,
+        "startTime": 24691,
+        "endTime": 24863,
         "pinyin": "ั"
       },
       {
         "token": "ง",
-        "startTime": 24037,
-        "endTime": 24066,
+        "startTime": 24863,
+        "endTime": 25034,
         "pinyin": "ng"
       },
       {
         "token": "อ",
-        "startTime": 24066,
-        "endTime": 24094,
+        "startTime": 25034,
+        "endTime": 25206,
         "pinyin": "อ"
       },
       {
         "token": "ย",
-        "startTime": 24094,
-        "endTime": 24123,
+        "startTime": 25206,
+        "endTime": 25377,
         "pinyin": "y"
       },
       {
         "token": "ู",
-        "startTime": 24123,
-        "endTime": 24151,
+        "startTime": 25377,
+        "endTime": 25549,
         "pinyin": "ู"
       },
       {
         "token": "่",
-        "startTime": 24151,
-        "endTime": 24180,
+        "startTime": 25549,
+        "endTime": 25720,
         "pinyin": "่"
       },
       {
         "token": "ใ",
-        "startTime": 24180,
-        "endTime": 24280,
+        "startTime": 25720,
+        "endTime": 25770,
         "pinyin": "ใ"
       },
       {
         "token": "น",
-        "startTime": 24280,
-        "endTime": 24380,
+        "startTime": 25770,
+        "endTime": 25820,
         "pinyin": "n"
       },
       {
         "token": "แ",
-        "startTime": 24380,
-        "endTime": 24483,
+        "startTime": 25820,
+        "endTime": 25893,
         "pinyin": "แ"
       },
       {
         "token": "น",
-        "startTime": 24483,
-        "endTime": 24587,
+        "startTime": 25893,
+        "endTime": 25967,
         "pinyin": "n"
       },
       {
         "token": "ว",
-        "startTime": 24587,
-        "endTime": 24690,
+        "startTime": 25967,
+        "endTime": 26040,
         "pinyin": "w"
       },
       {
         "token": "ท",
-        "startTime": 24690,
-        "endTime": 24793,
+        "startTime": 26040,
+        "endTime": 26113,
         "pinyin": "th"
       },
       {
         "token": "า",
-        "startTime": 24793,
-        "endTime": 24897,
+        "startTime": 26113,
+        "endTime": 26187,
         "pinyin": "า"
       },
       {
         "token": "ง",
-        "startTime": 24897,
-        "endTime": 25000,
+        "startTime": 26187,
+        "endTime": 26260,
         "pinyin": "ng"
       },
       {
         "token": "ท",
-        "startTime": 25000,
-        "endTime": 25053,
+        "startTime": 26260,
+        "endTime": 26387,
         "pinyin": "th"
       },
       {
         "token": "ี",
-        "startTime": 25053,
-        "endTime": 25107,
+        "startTime": 26387,
+        "endTime": 26513,
         "pinyin": "ี"
       },
       {
         "token": "่",
-        "startTime": 25107,
-        "endTime": 25160,
+        "startTime": 26513,
+        "endTime": 26640,
         "pinyin": "่"
       },
       {
-        "token": "ف",
-        "startTime": 25160,
-        "endTime": 25680,
-        "pinyin": "ف"
+        "token": "ฝ",
+        "startTime": 26640,
+        "endTime": 26715,
+        "pinyin": "f"
       },
       {
         "token": "่",
-        "startTime": 25680,
-        "endTime": 25727,
+        "startTime": 26715,
+        "endTime": 26790,
         "pinyin": "่"
       },
       {
         "token": "า",
-        "startTime": 25727,
-        "endTime": 25773,
+        "startTime": 26790,
+        "endTime": 26865,
         "pinyin": "า"
       },
       {
         "token": "ย",
-        "startTime": 25773,
-        "endTime": 25820,
+        "startTime": 26865,
+        "endTime": 26940,
         "pinyin": "y"
       },
       {
         "token": "ก",
-        "startTime": 25820,
-        "endTime": 25883,
+        "startTime": 26940,
+        "endTime": 27115,
         "pinyin": "k"
       },
       {
         "token": "า",
-        "startTime": 25883,
-        "endTime": 25945,
+        "startTime": 27115,
+        "endTime": 27290,
         "pinyin": "า"
       },
       {
         "token": "ร",
-        "startTime": 25945,
-        "endTime": 26008,
+        "startTime": 27290,
+        "endTime": 27465,
         "pinyin": "r"
       },
       {
         "token": "เ",
-        "startTime": 26008,
-        "endTime": 26070,
+        "startTime": 27465,
+        "endTime": 27640,
         "pinyin": "เ"
       },
       {
         "token": "ม",
-        "startTime": 26070,
-        "endTime": 26133,
+        "startTime": 27640,
+        "endTime": 27815,
         "pinyin": "m"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ือง รับได้",
-    "translations": {
-      "en": "side can accept."
-    },
-    "segments": [
+      },
       {
         "token": "ื",
-        "startTime": 26133,
-        "endTime": 26195,
+        "startTime": 27815,
+        "endTime": 27990,
         "pinyin": "ื"
       },
       {
         "token": "อ",
-        "startTime": 26195,
-        "endTime": 26258,
+        "startTime": 27990,
+        "endTime": 28165,
         "pinyin": "อ"
       },
       {
         "token": "ง",
-        "startTime": 26258,
-        "endTime": 26320,
+        "startTime": 28165,
+        "endTime": 28340,
         "pinyin": "ng"
       },
       {
         "token": "ร",
-        "startTime": 26320,
-        "endTime": 26557,
+        "startTime": 28340,
+        "endTime": 28387,
         "pinyin": "r"
       },
       {
         "token": "ั",
-        "startTime": 26557,
-        "endTime": 26793,
+        "startTime": 28387,
+        "endTime": 28433,
         "pinyin": "ั"
       },
       {
         "token": "บ",
-        "startTime": 26793,
-        "endTime": 27030,
+        "startTime": 28433,
+        "endTime": 28480,
         "pinyin": "b"
       },
       {
         "token": "ไ",
-        "startTime": 27030,
-        "endTime": 27267,
+        "startTime": 28480,
+        "endTime": 28527,
         "pinyin": "ไ"
       },
       {
         "token": "ด",
-        "startTime": 27267,
-        "endTime": 27503,
+        "startTime": 28527,
+        "endTime": 28573,
         "pinyin": "d"
       },
       {
         "token": "้",
-        "startTime": 27503,
-        "endTime": 27740,
+        "startTime": 28573,
+        "endTime": 28620,
         "pinyin": "้"
       }
     ]
   },
   {
-    "sentence_text": "ถ้า มี ประเด็น ไหน ติดใจ จำเป็นต้อง ตั้ง กัน วันที่ กา",
+    "sentence_text": "ถ้า มี ประเด็น ไหน ติดใจ จำเป็นต้อง ตั้ง กัน 2 ส .",
     "translations": {
-      "en": "If there are any sticking points, setting up a joint"
+      "en": "As for the opposition, their stance is clear: they do not accept it and will request a joint committee."
     },
     "segments": [
       {
         "token": "ถ",
-        "startTime": 27740,
-        "endTime": 27827,
+        "startTime": 28620,
+        "endTime": 28720,
         "pinyin": "th"
       },
       {
         "token": "้",
-        "startTime": 27827,
-        "endTime": 27913,
+        "startTime": 28720,
+        "endTime": 28820,
         "pinyin": "้"
       },
       {
         "token": "า",
-        "startTime": 27913,
-        "endTime": 28000,
+        "startTime": 28820,
+        "endTime": 28920,
         "pinyin": "า"
       },
       {
         "token": "ม",
-        "startTime": 28000,
-        "endTime": 28160,
+        "startTime": 28920,
+        "endTime": 28990,
         "pinyin": "m"
       },
       {
         "token": "ี",
-        "startTime": 28160,
-        "endTime": 28320,
+        "startTime": 28990,
+        "endTime": 29060,
         "pinyin": "ี"
       },
       {
         "token": "ป",
-        "startTime": 28320,
-        "endTime": 28360,
+        "startTime": 29060,
+        "endTime": 29137,
         "pinyin": "p"
       },
       {
         "token": "ร",
-        "startTime": 28360,
-        "endTime": 28400,
+        "startTime": 29137,
+        "endTime": 29214,
         "pinyin": "r"
       },
       {
         "token": "ะ",
-        "startTime": 28400,
-        "endTime": 28440,
+        "startTime": 29214,
+        "endTime": 29291,
         "pinyin": "ะ"
       },
       {
         "token": "เ",
-        "startTime": 28440,
-        "endTime": 28480,
+        "startTime": 29291,
+        "endTime": 29369,
         "pinyin": "เ"
       },
       {
         "token": "ด",
-        "startTime": 28480,
-        "endTime": 28520,
+        "startTime": 29369,
+        "endTime": 29446,
         "pinyin": "d"
       },
       {
         "token": "็",
-        "startTime": 28520,
-        "endTime": 28560,
+        "startTime": 29446,
+        "endTime": 29523,
         "pinyin": "็"
       },
       {
         "token": "น",
-        "startTime": 28560,
-        "endTime": 28600,
+        "startTime": 29523,
+        "endTime": 29600,
         "pinyin": "n"
       },
       {
         "token": "ไ",
-        "startTime": 28600,
-        "endTime": 28660,
+        "startTime": 29600,
+        "endTime": 29613,
         "pinyin": "ไ"
       },
       {
         "token": "ห",
-        "startTime": 28660,
-        "endTime": 28720,
+        "startTime": 29613,
+        "endTime": 29627,
         "pinyin": "ห"
       },
       {
         "token": "น",
-        "startTime": 28720,
-        "endTime": 28780,
+        "startTime": 29627,
+        "endTime": 29640,
         "pinyin": "n"
       },
       {
         "token": "ต",
-        "startTime": 28780,
-        "endTime": 28884,
+        "startTime": 29640,
+        "endTime": 29704,
         "pinyin": "t"
       },
       {
         "token": "ิ",
-        "startTime": 28884,
-        "endTime": 28988,
+        "startTime": 29704,
+        "endTime": 29768,
         "pinyin": "ิ"
       },
       {
         "token": "ด",
-        "startTime": 28988,
-        "endTime": 29092,
+        "startTime": 29768,
+        "endTime": 29832,
         "pinyin": "d"
       },
       {
         "token": "ใ",
-        "startTime": 29092,
-        "endTime": 29196,
+        "startTime": 29832,
+        "endTime": 29896,
         "pinyin": "ใ"
       },
       {
         "token": "จ",
-        "startTime": 29196,
-        "endTime": 29300,
+        "startTime": 29896,
+        "endTime": 29960,
         "pinyin": "ch"
       },
       {
         "token": "จ",
-        "startTime": 29300,
-        "endTime": 29346,
+        "startTime": 29960,
+        "endTime": 29988,
         "pinyin": "ch"
       },
       {
         "token": "ำ",
-        "startTime": 29346,
-        "endTime": 29392,
+        "startTime": 29988,
+        "endTime": 30016,
         "pinyin": "ำ"
       },
       {
         "token": "เ",
-        "startTime": 29392,
-        "endTime": 29438,
+        "startTime": 30016,
+        "endTime": 30044,
         "pinyin": "เ"
       },
       {
         "token": "ป",
-        "startTime": 29438,
-        "endTime": 29484,
+        "startTime": 30044,
+        "endTime": 30072,
         "pinyin": "p"
       },
       {
         "token": "็",
-        "startTime": 29484,
-        "endTime": 29530,
+        "startTime": 30072,
+        "endTime": 30100,
         "pinyin": "็"
       },
       {
         "token": "น",
-        "startTime": 29530,
-        "endTime": 29576,
+        "startTime": 30100,
+        "endTime": 30128,
         "pinyin": "n"
       },
       {
         "token": "ต",
-        "startTime": 29576,
-        "endTime": 29622,
+        "startTime": 30128,
+        "endTime": 30156,
         "pinyin": "t"
       },
       {
         "token": "้",
-        "startTime": 29622,
-        "endTime": 29668,
+        "startTime": 30156,
+        "endTime": 30184,
         "pinyin": "้"
       },
       {
         "token": "อ",
-        "startTime": 29668,
-        "endTime": 29714,
+        "startTime": 30184,
+        "endTime": 30212,
         "pinyin": "อ"
       },
       {
         "token": "ง",
-        "startTime": 29714,
-        "endTime": 29760,
+        "startTime": 30212,
+        "endTime": 30240,
         "pinyin": "ng"
       },
       {
         "token": "ต",
-        "startTime": 29760,
-        "endTime": 29805,
+        "startTime": 30240,
+        "endTime": 30315,
         "pinyin": "t"
       },
       {
         "token": "ั",
-        "startTime": 29805,
-        "endTime": 29850,
+        "startTime": 30315,
+        "endTime": 30390,
         "pinyin": "ั"
       },
       {
         "token": "้",
-        "startTime": 29850,
-        "endTime": 29895,
+        "startTime": 30390,
+        "endTime": 30465,
         "pinyin": "้"
       },
       {
         "token": "ง",
-        "startTime": 29895,
-        "endTime": 29940,
-        "pinyin": "ng"
-      },
-      {
-        "token": "ก",
-        "startTime": 29940,
-        "endTime": 29960,
-        "pinyin": "k"
-      },
-      {
-        "token": "ั",
-        "startTime": 29960,
-        "endTime": 29980,
-        "pinyin": "ั"
-      },
-      {
-        "token": "น",
-        "startTime": 29980,
-        "endTime": 30000,
-        "pinyin": "n"
-      },
-      {
-        "token": "ว",
-        "startTime": 30000,
-        "endTime": 30037,
-        "pinyin": "w"
-      },
-      {
-        "token": "ั",
-        "startTime": 30037,
-        "endTime": 30073,
-        "pinyin": "ั"
-      },
-      {
-        "token": "น",
-        "startTime": 30073,
-        "endTime": 30110,
-        "pinyin": "n"
-      },
-      {
-        "token": "ท",
-        "startTime": 30110,
-        "endTime": 30147,
-        "pinyin": "th"
-      },
-      {
-        "token": "ี",
-        "startTime": 30147,
-        "endTime": 30183,
-        "pinyin": "ี"
-      },
-      {
-        "token": "่",
-        "startTime": 30183,
-        "endTime": 30220,
-        "pinyin": "่"
-      },
-      {
-        "token": "ก",
-        "startTime": 30220,
-        "endTime": 30307,
-        "pinyin": "k"
-      },
-      {
-        "token": "า",
-        "startTime": 30307,
-        "endTime": 30393,
-        "pinyin": "า"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ร ร่วม ของ 2 สภา ก็ ไม่ ขัด ของ จัด ได้",
-    "translations": {
-      "en": "committee of both houses is not opposed."
-    },
-    "segments": [
-      {
-        "token": "ร",
-        "startTime": 30393,
-        "endTime": 30480,
-        "pinyin": "r"
-      },
-      {
-        "token": "ร",
-        "startTime": 30480,
+        "startTime": 30465,
         "endTime": 30540,
-        "pinyin": "r"
-      },
-      {
-        "token": "่",
-        "startTime": 30540,
-        "endTime": 30600,
-        "pinyin": "่"
-      },
-      {
-        "token": "ว",
-        "startTime": 30600,
-        "endTime": 30660,
-        "pinyin": "w"
-      },
-      {
-        "token": "ม",
-        "startTime": 30660,
-        "endTime": 30720,
-        "pinyin": "m"
-      },
-      {
-        "token": "ข",
-        "startTime": 30720,
-        "endTime": 30747,
-        "pinyin": "kh"
-      },
-      {
-        "token": "อ",
-        "startTime": 30747,
-        "endTime": 30773,
-        "pinyin": "อ"
-      },
-      {
-        "token": "ง",
-        "startTime": 30773,
-        "endTime": 30800,
         "pinyin": "ng"
+      },
+      {
+        "token": "ก",
+        "startTime": 30540,
+        "endTime": 30620,
+        "pinyin": "k"
+      },
+      {
+        "token": "ั",
+        "startTime": 30620,
+        "endTime": 30700,
+        "pinyin": "ั"
+      },
+      {
+        "token": "น",
+        "startTime": 30700,
+        "endTime": 30780,
+        "pinyin": "n"
       },
       {
         "token": "2",
-        "startTime": 30800,
-        "endTime": 31100,
+        "startTime": 30780,
+        "endTime": 31080,
         "pinyin": "2"
       },
       {
         "token": "ส",
-        "startTime": 31100,
-        "endTime": 31147,
+        "startTime": 31080,
+        "endTime": 31120,
         "pinyin": "s"
       },
       {
+        "token": ".",
+        "startTime": 31120,
+        "endTime": 31240,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "ภา ก็ ไม่ ขัดข้อง จัด ได้",
+    "translations": {
+      "en": "I guess it's probably about Article 112."
+    },
+    "segments": [
+      {
         "token": "ภ",
-        "startTime": 31147,
-        "endTime": 31193,
+        "startTime": 31240,
+        "endTime": 31320,
         "pinyin": "ph"
       },
       {
         "token": "า",
-        "startTime": 31193,
-        "endTime": 31240,
+        "startTime": 31320,
+        "endTime": 31400,
         "pinyin": "า"
       },
       {
         "token": "ก",
-        "startTime": 31240,
-        "endTime": 31370,
+        "startTime": 31400,
+        "endTime": 31580,
         "pinyin": "k"
       },
       {
         "token": "็",
-        "startTime": 31370,
-        "endTime": 31500,
+        "startTime": 31580,
+        "endTime": 31760,
         "pinyin": "็"
       },
       {
         "token": "ไ",
-        "startTime": 31500,
-        "endTime": 31593,
+        "startTime": 31760,
+        "endTime": 31813,
         "pinyin": "ไ"
       },
       {
         "token": "ม",
-        "startTime": 31593,
-        "endTime": 31687,
+        "startTime": 31813,
+        "endTime": 31867,
         "pinyin": "m"
       },
       {
         "token": "่",
-        "startTime": 31687,
-        "endTime": 31780,
+        "startTime": 31867,
+        "endTime": 31920,
         "pinyin": "่"
       },
       {
         "token": "ข",
-        "startTime": 31780,
-        "endTime": 31833,
+        "startTime": 31920,
+        "endTime": 31994,
         "pinyin": "kh"
       },
       {
         "token": "ั",
-        "startTime": 31833,
-        "endTime": 31887,
+        "startTime": 31994,
+        "endTime": 32068,
         "pinyin": "ั"
       },
       {
         "token": "ด",
-        "startTime": 31887,
-        "endTime": 31940,
+        "startTime": 32068,
+        "endTime": 32142,
         "pinyin": "d"
       },
       {
         "token": "ข",
-        "startTime": 31940,
-        "endTime": 32013,
+        "startTime": 32142,
+        "endTime": 32217,
         "pinyin": "kh"
       },
       {
+        "token": "้",
+        "startTime": 32217,
+        "endTime": 32291,
+        "pinyin": "้"
+      },
+      {
         "token": "อ",
-        "startTime": 32013,
-        "endTime": 32086,
+        "startTime": 32291,
+        "endTime": 32365,
         "pinyin": "อ"
       },
       {
         "token": "ง",
-        "startTime": 32086,
-        "endTime": 32159,
+        "startTime": 32365,
+        "endTime": 32439,
         "pinyin": "ng"
       },
       {
         "token": "จ",
-        "startTime": 32159,
-        "endTime": 32266,
+        "startTime": 32439,
+        "endTime": 32519,
         "pinyin": "ch"
       },
       {
         "token": "ั",
-        "startTime": 32266,
-        "endTime": 32372,
+        "startTime": 32519,
+        "endTime": 32600,
         "pinyin": "ั"
       },
       {
         "token": "ด",
-        "startTime": 32372,
-        "endTime": 32479,
+        "startTime": 32600,
+        "endTime": 32680,
         "pinyin": "d"
       },
       {
         "token": "ไ",
-        "startTime": 32479,
-        "endTime": 32653,
+        "startTime": 32680,
+        "endTime": 32840,
         "pinyin": "ไ"
       },
       {
         "token": "ด",
-        "startTime": 32653,
-        "endTime": 32828,
+        "startTime": 32840,
+        "endTime": 33000,
         "pinyin": "d"
       },
       {
         "token": "้",
-        "startTime": 32828,
-        "endTime": 33002,
+        "startTime": 33000,
+        "endTime": 33160,
         "pinyin": "้"
       }
     ]
   },
   {
-    "sentence_text": "ส่วน ทา ธี ของ ฝ่าย ค้า ใน ชัดเจน ไม่ รับ และ ขอ ไป ตั้ง กั",
+    "sentence_text": "ส่วน ทา ธี ของ ฝ่าย ค้า ชัดเจน ไม่ รับ และ ขอ ไป ตั้ง กัน ม",
     "translations": {
-      "en": "As for the opposition's stance, it is clear: they do not accept and will ask to set up"
+      "en": "And if a joint committee is formed, it must go to the House in the next session."
     },
     "segments": [
       {
         "token": "ส",
-        "startTime": 33002,
-        "endTime": 33177,
+        "startTime": 33160,
+        "endTime": 33320,
         "pinyin": "s"
       },
       {
         "token": "่",
-        "startTime": 33177,
-        "endTime": 33351,
+        "startTime": 33320,
+        "endTime": 33480,
         "pinyin": "่"
       },
       {
         "token": "ว",
-        "startTime": 33351,
-        "endTime": 33526,
+        "startTime": 33480,
+        "endTime": 33640,
         "pinyin": "w"
       },
       {
         "token": "น",
-        "startTime": 33526,
-        "endTime": 33700,
+        "startTime": 33640,
+        "endTime": 33800,
         "pinyin": "n"
       },
       {
         "token": "ท",
-        "startTime": 33700,
-        "endTime": 33750,
-        "pinyin": "th"
-      },
-      {
-        "token": "า",
-        "startTime": 33750,
-        "endTime": 33800,
-        "pinyin": "า"
-      },
-      {
-        "token": "ธ",
         "startTime": 33800,
         "endTime": 33860,
         "pinyin": "th"
       },
       {
-        "token": "ี",
+        "token": "า",
         "startTime": 33860,
         "endTime": 33920,
-        "pinyin": "ี"
+        "pinyin": "า"
       },
       {
-        "token": "ข",
+        "token": "ธ",
         "startTime": 33920,
-        "endTime": 33993,
-        "pinyin": "kh"
-      },
-      {
-        "token": "อ",
-        "startTime": 33993,
-        "endTime": 34067,
-        "pinyin": "อ"
-      },
-      {
-        "token": "ง",
-        "startTime": 34067,
-        "endTime": 34140,
-        "pinyin": "ng"
-      },
-      {
-        "token": "ฝ",
-        "startTime": 34140,
-        "endTime": 34175,
-        "pinyin": "f"
-      },
-      {
-        "token": "่",
-        "startTime": 34175,
-        "endTime": 34210,
-        "pinyin": "่"
-      },
-      {
-        "token": "า",
-        "startTime": 34210,
-        "endTime": 34245,
-        "pinyin": "า"
-      },
-      {
-        "token": "ย",
-        "startTime": 34245,
-        "endTime": 34280,
-        "pinyin": "y"
-      },
-      {
-        "token": "ค",
-        "startTime": 34280,
-        "endTime": 34347,
-        "pinyin": "kh"
-      },
-      {
-        "token": "้",
-        "startTime": 34347,
-        "endTime": 34413,
-        "pinyin": "้"
-      },
-      {
-        "token": "า",
-        "startTime": 34413,
-        "endTime": 34480,
-        "pinyin": "า"
-      },
-      {
-        "token": "ใ",
-        "startTime": 34480,
-        "endTime": 34540,
-        "pinyin": "ใ"
-      },
-      {
-        "token": "น",
-        "startTime": 34540,
-        "endTime": 34600,
-        "pinyin": "n"
-      },
-      {
-        "token": "ช",
-        "startTime": 34600,
-        "endTime": 34753,
-        "pinyin": "ch"
-      },
-      {
-        "token": "ั",
-        "startTime": 34753,
-        "endTime": 34907,
-        "pinyin": "ั"
-      },
-      {
-        "token": "ด",
-        "startTime": 34907,
-        "endTime": 35060,
-        "pinyin": "d"
-      },
-      {
-        "token": "เ",
-        "startTime": 35060,
-        "endTime": 35213,
-        "pinyin": "เ"
-      },
-      {
-        "token": "จ",
-        "startTime": 35213,
-        "endTime": 35367,
-        "pinyin": "ch"
-      },
-      {
-        "token": "น",
-        "startTime": 35367,
-        "endTime": 35520,
-        "pinyin": "n"
-      },
-      {
-        "token": "ไ",
-        "startTime": 35520,
-        "endTime": 35573,
-        "pinyin": "ไ"
-      },
-      {
-        "token": "ม",
-        "startTime": 35573,
-        "endTime": 35627,
-        "pinyin": "m"
-      },
-      {
-        "token": "่",
-        "startTime": 35627,
-        "endTime": 35680,
-        "pinyin": "่"
-      },
-      {
-        "token": "ร",
-        "startTime": 35680,
-        "endTime": 35773,
-        "pinyin": "r"
-      },
-      {
-        "token": "ั",
-        "startTime": 35773,
-        "endTime": 35867,
-        "pinyin": "ั"
-      },
-      {
-        "token": "บ",
-        "startTime": 35867,
-        "endTime": 35960,
-        "pinyin": "b"
-      },
-      {
-        "token": "แ",
-        "startTime": 35960,
-        "endTime": 36020,
-        "pinyin": "แ"
-      },
-      {
-        "token": "ล",
-        "startTime": 36020,
-        "endTime": 36080,
-        "pinyin": "l"
-      },
-      {
-        "token": "ะ",
-        "startTime": 36080,
-        "endTime": 36140,
-        "pinyin": "ะ"
-      },
-      {
-        "token": "ข",
-        "startTime": 36140,
-        "endTime": 36200,
-        "pinyin": "kh"
-      },
-      {
-        "token": "อ",
-        "startTime": 36200,
-        "endTime": 36260,
-        "pinyin": "อ"
-      },
-      {
-        "token": "ไ",
-        "startTime": 36260,
-        "endTime": 36350,
-        "pinyin": "ไ"
-      },
-      {
-        "token": "ป",
-        "startTime": 36350,
-        "endTime": 36440,
-        "pinyin": "p"
-      },
-      {
-        "token": "ต",
-        "startTime": 36440,
-        "endTime": 36480,
-        "pinyin": "t"
-      },
-      {
-        "token": "ั",
-        "startTime": 36480,
-        "endTime": 36520,
-        "pinyin": "ั"
-      },
-      {
-        "token": "้",
-        "startTime": 36520,
-        "endTime": 36560,
-        "pinyin": "้"
-      },
-      {
-        "token": "ง",
-        "startTime": 36560,
-        "endTime": 36600,
-        "pinyin": "ng"
-      },
-      {
-        "token": "ก",
-        "startTime": 36600,
-        "endTime": 36653,
-        "pinyin": "k"
-      },
-      {
-        "token": "ั",
-        "startTime": 36653,
-        "endTime": 36707,
-        "pinyin": "ั"
-      }
-    ]
-  },
-  {
-    "sentence_text": "น มา ที การ ร่วม ครับผม",
-    "translations": {
-      "en": "a joint committee."
-    },
-    "segments": [
-      {
-        "token": "น",
-        "startTime": 36707,
-        "endTime": 36760,
-        "pinyin": "n"
-      },
-      {
-        "token": "ม",
-        "startTime": 36760,
-        "endTime": 36790,
-        "pinyin": "m"
-      },
-      {
-        "token": "า",
-        "startTime": 36790,
-        "endTime": 36820,
-        "pinyin": "า"
-      },
-      {
-        "token": "ท",
-        "startTime": 36820,
-        "endTime": 36840,
+        "endTime": 34030,
         "pinyin": "th"
       },
       {
         "token": "ี",
-        "startTime": 36840,
-        "endTime": 36860,
+        "startTime": 34030,
+        "endTime": 34140,
         "pinyin": "ี"
       },
       {
-        "token": "ก",
-        "startTime": 36860,
-        "endTime": 36913,
-        "pinyin": "k"
-      },
-      {
-        "token": "า",
-        "startTime": 36913,
-        "endTime": 36967,
-        "pinyin": "า"
-      },
-      {
-        "token": "ร",
-        "startTime": 36967,
-        "endTime": 37020,
-        "pinyin": "r"
-      },
-      {
-        "token": "ร",
-        "startTime": 37020,
-        "endTime": 37085,
-        "pinyin": "r"
-      },
-      {
-        "token": "่",
-        "startTime": 37085,
-        "endTime": 37150,
-        "pinyin": "่"
-      },
-      {
-        "token": "ว",
-        "startTime": 37150,
-        "endTime": 37215,
-        "pinyin": "w"
-      },
-      {
-        "token": "ม",
-        "startTime": 37215,
-        "endTime": 37280,
-        "pinyin": "m"
-      },
-      {
-        "token": "ค",
-        "startTime": 37280,
-        "endTime": 37440,
+        "token": "ข",
+        "startTime": 34140,
+        "endTime": 34193,
         "pinyin": "kh"
       },
       {
+        "token": "อ",
+        "startTime": 34193,
+        "endTime": 34247,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ง",
+        "startTime": 34247,
+        "endTime": 34300,
+        "pinyin": "ng"
+      },
+      {
+        "token": "ฝ",
+        "startTime": 34300,
+        "endTime": 34380,
+        "pinyin": "f"
+      },
+      {
+        "token": "่",
+        "startTime": 34380,
+        "endTime": 34460,
+        "pinyin": "่"
+      },
+      {
+        "token": "า",
+        "startTime": 34460,
+        "endTime": 34540,
+        "pinyin": "า"
+      },
+      {
+        "token": "ย",
+        "startTime": 34540,
+        "endTime": 34620,
+        "pinyin": "y"
+      },
+      {
+        "token": "ค",
+        "startTime": 34620,
+        "endTime": 34700,
+        "pinyin": "kh"
+      },
+      {
+        "token": "้",
+        "startTime": 34700,
+        "endTime": 34780,
+        "pinyin": "้"
+      },
+      {
+        "token": "า",
+        "startTime": 34780,
+        "endTime": 34860,
+        "pinyin": "า"
+      },
+      {
+        "token": "ช",
+        "startTime": 34860,
+        "endTime": 35040,
+        "pinyin": "ch"
+      },
+      {
+        "token": "ั",
+        "startTime": 35040,
+        "endTime": 35220,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ด",
+        "startTime": 35220,
+        "endTime": 35400,
+        "pinyin": "d"
+      },
+      {
+        "token": "เ",
+        "startTime": 35400,
+        "endTime": 35580,
+        "pinyin": "เ"
+      },
+      {
+        "token": "จ",
+        "startTime": 35580,
+        "endTime": 35760,
+        "pinyin": "ch"
+      },
+      {
+        "token": "น",
+        "startTime": 35760,
+        "endTime": 35940,
+        "pinyin": "n"
+      },
+      {
+        "token": "ไ",
+        "startTime": 35940,
+        "endTime": 36000,
+        "pinyin": "ไ"
+      },
+      {
+        "token": "ม",
+        "startTime": 36000,
+        "endTime": 36060,
+        "pinyin": "m"
+      },
+      {
+        "token": "่",
+        "startTime": 36060,
+        "endTime": 36120,
+        "pinyin": "่"
+      },
+      {
         "token": "ร",
-        "startTime": 37440,
-        "endTime": 37600,
+        "startTime": 36120,
+        "endTime": 36167,
         "pinyin": "r"
       },
       {
         "token": "ั",
-        "startTime": 37600,
-        "endTime": 37760,
+        "startTime": 36167,
+        "endTime": 36213,
         "pinyin": "ั"
       },
       {
         "token": "บ",
-        "startTime": 37760,
-        "endTime": 37920,
+        "startTime": 36213,
+        "endTime": 36260,
         "pinyin": "b"
       },
       {
-        "token": "ผ",
-        "startTime": 37920,
-        "endTime": 38080,
-        "pinyin": "ph"
+        "token": "แ",
+        "startTime": 36260,
+        "endTime": 36360,
+        "pinyin": "แ"
+      },
+      {
+        "token": "ล",
+        "startTime": 36360,
+        "endTime": 36460,
+        "pinyin": "l"
+      },
+      {
+        "token": "ะ",
+        "startTime": 36460,
+        "endTime": 36560,
+        "pinyin": "ะ"
+      },
+      {
+        "token": "ข",
+        "startTime": 36560,
+        "endTime": 36570,
+        "pinyin": "kh"
+      },
+      {
+        "token": "อ",
+        "startTime": 36570,
+        "endTime": 36580,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ไ",
+        "startTime": 36580,
+        "endTime": 36650,
+        "pinyin": "ไ"
+      },
+      {
+        "token": "ป",
+        "startTime": 36650,
+        "endTime": 36720,
+        "pinyin": "p"
+      },
+      {
+        "token": "ต",
+        "startTime": 36720,
+        "endTime": 36745,
+        "pinyin": "t"
+      },
+      {
+        "token": "ั",
+        "startTime": 36745,
+        "endTime": 36770,
+        "pinyin": "ั"
+      },
+      {
+        "token": "้",
+        "startTime": 36770,
+        "endTime": 36795,
+        "pinyin": "้"
+      },
+      {
+        "token": "ง",
+        "startTime": 36795,
+        "endTime": 36820,
+        "pinyin": "ng"
+      },
+      {
+        "token": "ก",
+        "startTime": 36820,
+        "endTime": 36860,
+        "pinyin": "k"
+      },
+      {
+        "token": "ั",
+        "startTime": 36860,
+        "endTime": 36900,
+        "pinyin": "ั"
+      },
+      {
+        "token": "น",
+        "startTime": 36900,
+        "endTime": 36940,
+        "pinyin": "n"
       },
       {
         "token": "ม",
-        "startTime": 38080,
-        "endTime": 38240,
+        "startTime": 36940,
+        "endTime": 36980,
         "pinyin": "m"
       }
     ]
   },
   {
-    "sentence_text": "ก็ เดา ว ว่า น่าจะเป็น เงื่อนไข มาตรา 112 นี่แหละ",
+    "sentence_text": "า ที การ ร่วม ครับผม ก็ เดา ว่า น่าจะเป็น เงื่อนไข 112 น",
     "translations": {
-      "en": "I guess it's probably about Section 112 conditions."
+      "en": "That might delay things by another 2-3 months for sure."
     },
     "segments": [
       {
+        "token": "า",
+        "startTime": 36980,
+        "endTime": 37020,
+        "pinyin": "า"
+      },
+      {
+        "token": "ท",
+        "startTime": 37020,
+        "endTime": 37130,
+        "pinyin": "th"
+      },
+      {
+        "token": "ี",
+        "startTime": 37130,
+        "endTime": 37240,
+        "pinyin": "ี"
+      },
+      {
         "token": "ก",
-        "startTime": 38240,
-        "endTime": 38330,
+        "startTime": 37240,
+        "endTime": 37300,
+        "pinyin": "k"
+      },
+      {
+        "token": "า",
+        "startTime": 37300,
+        "endTime": 37360,
+        "pinyin": "า"
+      },
+      {
+        "token": "ร",
+        "startTime": 37360,
+        "endTime": 37420,
+        "pinyin": "r"
+      },
+      {
+        "token": "ร",
+        "startTime": 37420,
+        "endTime": 37620,
+        "pinyin": "r"
+      },
+      {
+        "token": "่",
+        "startTime": 37620,
+        "endTime": 37820,
+        "pinyin": "่"
+      },
+      {
+        "token": "ว",
+        "startTime": 37820,
+        "endTime": 38020,
+        "pinyin": "w"
+      },
+      {
+        "token": "ม",
+        "startTime": 38020,
+        "endTime": 38220,
+        "pinyin": "m"
+      },
+      {
+        "token": "ค",
+        "startTime": 38220,
+        "endTime": 38303,
+        "pinyin": "kh"
+      },
+      {
+        "token": "ร",
+        "startTime": 38303,
+        "endTime": 38387,
+        "pinyin": "r"
+      },
+      {
+        "token": "ั",
+        "startTime": 38387,
+        "endTime": 38470,
+        "pinyin": "ั"
+      },
+      {
+        "token": "บ",
+        "startTime": 38470,
+        "endTime": 38553,
+        "pinyin": "b"
+      },
+      {
+        "token": "ผ",
+        "startTime": 38553,
+        "endTime": 38637,
+        "pinyin": "ph"
+      },
+      {
+        "token": "ม",
+        "startTime": 38637,
+        "endTime": 38720,
+        "pinyin": "m"
+      },
+      {
+        "token": "ก",
+        "startTime": 38720,
+        "endTime": 38800,
         "pinyin": "k"
       },
       {
         "token": "็",
-        "startTime": 38330,
-        "endTime": 38420,
+        "startTime": 38800,
+        "endTime": 38880,
         "pinyin": "็"
       },
       {
         "token": "เ",
-        "startTime": 38420,
-        "endTime": 38480,
+        "startTime": 38880,
+        "endTime": 38933,
         "pinyin": "เ"
       },
       {
         "token": "ด",
-        "startTime": 38480,
-        "endTime": 38540,
+        "startTime": 38933,
+        "endTime": 38987,
         "pinyin": "d"
       },
       {
         "token": "า",
-        "startTime": 38540,
-        "endTime": 38600,
+        "startTime": 38987,
+        "endTime": 39040,
         "pinyin": "า"
       },
       {
         "token": "ว",
-        "startTime": 38600,
-        "endTime": 38700,
-        "pinyin": "w"
-      },
-      {
-        "token": "ว",
-        "startTime": 38700,
-        "endTime": 38760,
+        "startTime": 39040,
+        "endTime": 39087,
         "pinyin": "w"
       },
       {
         "token": "่",
-        "startTime": 38760,
-        "endTime": 38820,
+        "startTime": 39087,
+        "endTime": 39133,
         "pinyin": "่"
       },
       {
         "token": "า",
-        "startTime": 38820,
-        "endTime": 38880,
+        "startTime": 39133,
+        "endTime": 39180,
         "pinyin": "า"
       },
       {
         "token": "น",
-        "startTime": 38880,
-        "endTime": 38920,
+        "startTime": 39180,
+        "endTime": 39216,
         "pinyin": "n"
       },
       {
         "token": "่",
-        "startTime": 38920,
-        "endTime": 38960,
+        "startTime": 39216,
+        "endTime": 39251,
         "pinyin": "่"
       },
       {
         "token": "า",
-        "startTime": 38960,
-        "endTime": 39000,
+        "startTime": 39251,
+        "endTime": 39287,
         "pinyin": "า"
       },
       {
         "token": "จ",
-        "startTime": 39000,
-        "endTime": 39040,
+        "startTime": 39287,
+        "endTime": 39322,
         "pinyin": "ch"
       },
       {
         "token": "ะ",
-        "startTime": 39040,
-        "endTime": 39080,
+        "startTime": 39322,
+        "endTime": 39358,
         "pinyin": "ะ"
       },
       {
         "token": "เ",
-        "startTime": 39080,
-        "endTime": 39120,
+        "startTime": 39358,
+        "endTime": 39393,
         "pinyin": "เ"
       },
       {
         "token": "ป",
-        "startTime": 39120,
-        "endTime": 39160,
+        "startTime": 39393,
+        "endTime": 39429,
         "pinyin": "p"
       },
       {
         "token": "็",
-        "startTime": 39160,
-        "endTime": 39200,
+        "startTime": 39429,
+        "endTime": 39464,
         "pinyin": "็"
       },
       {
         "token": "น",
-        "startTime": 39200,
-        "endTime": 39240,
+        "startTime": 39464,
+        "endTime": 39500,
         "pinyin": "n"
       },
       {
         "token": "เ",
-        "startTime": 39240,
-        "endTime": 39300,
+        "startTime": 39500,
+        "endTime": 39558,
         "pinyin": "เ"
       },
       {
         "token": "ง",
-        "startTime": 39300,
-        "endTime": 39360,
+        "startTime": 39558,
+        "endTime": 39615,
         "pinyin": "ng"
       },
       {
         "token": "ื",
-        "startTime": 39360,
-        "endTime": 39420,
+        "startTime": 39615,
+        "endTime": 39673,
         "pinyin": "ื"
       },
       {
         "token": "่",
-        "startTime": 39420,
-        "endTime": 39480,
+        "startTime": 39673,
+        "endTime": 39730,
         "pinyin": "่"
       },
       {
         "token": "อ",
-        "startTime": 39480,
-        "endTime": 39540,
+        "startTime": 39730,
+        "endTime": 39788,
         "pinyin": "อ"
       },
       {
         "token": "น",
-        "startTime": 39540,
-        "endTime": 39600,
+        "startTime": 39788,
+        "endTime": 39845,
         "pinyin": "n"
       },
       {
         "token": "ไ",
-        "startTime": 39600,
-        "endTime": 39660,
+        "startTime": 39845,
+        "endTime": 39903,
         "pinyin": "ไ"
       },
       {
         "token": "ข",
-        "startTime": 39660,
-        "endTime": 39720,
-        "pinyin": "kh"
-      },
-      {
-        "token": "ม",
-        "startTime": 39720,
-        "endTime": 39768,
-        "pinyin": "m"
-      },
-      {
-        "token": "า",
-        "startTime": 39768,
-        "endTime": 39816,
-        "pinyin": "า"
-      },
-      {
-        "token": "ต",
-        "startTime": 39816,
-        "endTime": 39864,
-        "pinyin": "t"
-      },
-      {
-        "token": "ร",
-        "startTime": 39864,
-        "endTime": 39912,
-        "pinyin": "r"
-      },
-      {
-        "token": "า",
-        "startTime": 39912,
+        "startTime": 39903,
         "endTime": 39960,
-        "pinyin": "า"
+        "pinyin": "kh"
       },
       {
         "token": "1",
@@ -3152,7 +3040,15 @@
         "startTime": 40560,
         "endTime": 40666,
         "pinyin": "n"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ี่ แหละ",
+    "translations": {
+      "en": "Even if delayed, the process is still moving forward."
+    },
+    "segments": [
       {
         "token": "ี",
         "startTime": 40666,
@@ -3192,9 +3088,9 @@
     ]
   },
   {
-    "sentence_text": "และ ถ้า ตั้ง กัน มา ที การ ร่วม ก็ ต้อง เข้า สภา ใน สมัย ปร",
+    "sentence_text": "และ ถ้า ตั้ง กัน มา ที การ ร่วม ก็ ต้อง เข้า ส พา ใน สมัย ปร",
     "translations": {
-      "en": "And if a joint committee is set up, it must enter the House in the next"
+      "en": "As for Mr. Suthin Klangsaeng, a party-list MP from Pheu Thai,"
     },
     "segments": [
       {
@@ -3260,30 +3156,30 @@
       {
         "token": "ก",
         "startTime": 41740,
-        "endTime": 41780,
+        "endTime": 41787,
         "pinyin": "k"
       },
       {
         "token": "ั",
-        "startTime": 41780,
-        "endTime": 41820,
+        "startTime": 41787,
+        "endTime": 41833,
         "pinyin": "ั"
       },
       {
         "token": "น",
-        "startTime": 41820,
-        "endTime": 41860,
+        "startTime": 41833,
+        "endTime": 41880,
         "pinyin": "n"
       },
       {
         "token": "ม",
-        "startTime": 41860,
-        "endTime": 41890,
+        "startTime": 41880,
+        "endTime": 41900,
         "pinyin": "m"
       },
       {
         "token": "า",
-        "startTime": 41890,
+        "startTime": 41900,
         "endTime": 41920,
         "pinyin": "า"
       },
@@ -3344,36 +3240,36 @@
       {
         "token": "ก",
         "startTime": 42440,
-        "endTime": 42510,
+        "endTime": 42520,
         "pinyin": "k"
       },
       {
         "token": "็",
-        "startTime": 42510,
-        "endTime": 42580,
+        "startTime": 42520,
+        "endTime": 42600,
         "pinyin": "็"
       },
       {
         "token": "ต",
-        "startTime": 42580,
-        "endTime": 42620,
+        "startTime": 42600,
+        "endTime": 42635,
         "pinyin": "t"
       },
       {
         "token": "้",
-        "startTime": 42620,
-        "endTime": 42660,
+        "startTime": 42635,
+        "endTime": 42670,
         "pinyin": "้"
       },
       {
         "token": "อ",
-        "startTime": 42660,
-        "endTime": 42700,
+        "startTime": 42670,
+        "endTime": 42705,
         "pinyin": "อ"
       },
       {
         "token": "ง",
-        "startTime": 42700,
+        "startTime": 42705,
         "endTime": 42740,
         "pinyin": "ng"
       },
@@ -3404,30 +3300,30 @@
       {
         "token": "ส",
         "startTime": 42840,
-        "endTime": 42933,
+        "endTime": 42940,
         "pinyin": "s"
       },
       {
-        "token": "ภ",
-        "startTime": 42933,
-        "endTime": 43027,
+        "token": "พ",
+        "startTime": 42940,
+        "endTime": 43040,
         "pinyin": "ph"
       },
       {
         "token": "า",
-        "startTime": 43027,
-        "endTime": 43120,
+        "startTime": 43040,
+        "endTime": 43140,
         "pinyin": "า"
       },
       {
         "token": "ใ",
-        "startTime": 43120,
-        "endTime": 43220,
+        "startTime": 43140,
+        "endTime": 43230,
         "pinyin": "ใ"
       },
       {
         "token": "น",
-        "startTime": 43220,
+        "startTime": 43230,
         "endTime": 43320,
         "pinyin": "n"
       },
@@ -3470,9 +3366,9 @@
     ]
   },
   {
-    "sentence_text": "ะ ชุม หน้า ก็ อาจจะ ต้อง ช้า ไป อีกหน่อย สัก 2 - 3 เดือน แน",
+    "sentence_text": "ะ ชุม หน้า ก็ อาจจะ ต้อง ช้า ไป อีกหน่อย ซัก 2 - 3 เดือน แน",
     "translations": {
-      "en": "session, which might be delayed by about 2-3 months for"
+      "en": "The meeting might have to be delayed for another 2-3 months."
     },
     "segments": [
       {
@@ -3502,36 +3398,36 @@
       {
         "token": "ห",
         "startTime": 43860,
-        "endTime": 43875,
+        "endTime": 43915,
         "pinyin": "ห"
       },
       {
         "token": "น",
-        "startTime": 43875,
-        "endTime": 43890,
+        "startTime": 43915,
+        "endTime": 43970,
         "pinyin": "n"
       },
       {
         "token": "้",
-        "startTime": 43890,
-        "endTime": 43905,
+        "startTime": 43970,
+        "endTime": 44025,
         "pinyin": "้"
       },
       {
         "token": "า",
-        "startTime": 43905,
-        "endTime": 43920,
+        "startTime": 44025,
+        "endTime": 44080,
         "pinyin": "า"
       },
       {
         "token": "ก",
-        "startTime": 43920,
-        "endTime": 44090,
+        "startTime": 44080,
+        "endTime": 44170,
         "pinyin": "k"
       },
       {
         "token": "็",
-        "startTime": 44090,
+        "startTime": 44170,
         "endTime": 44260,
         "pinyin": "็"
       },
@@ -3668,38 +3564,38 @@
         "pinyin": "y"
       },
       {
-        "token": "ส",
+        "token": "ซ",
         "startTime": 45900,
-        "endTime": 45933,
+        "endTime": 45920,
         "pinyin": "s"
       },
       {
         "token": "ั",
-        "startTime": 45933,
-        "endTime": 45967,
+        "startTime": 45920,
+        "endTime": 45940,
         "pinyin": "ั"
       },
       {
         "token": "ก",
-        "startTime": 45967,
-        "endTime": 46000,
+        "startTime": 45940,
+        "endTime": 45960,
         "pinyin": "k"
       },
       {
         "token": "2",
-        "startTime": 46000,
+        "startTime": 45960,
         "endTime": 46140,
         "pinyin": "2"
       },
       {
         "token": "-",
         "startTime": 46140,
-        "endTime": 46160,
+        "endTime": 46220,
         "pinyin": "-"
       },
       {
         "token": "3",
-        "startTime": 46160,
+        "startTime": 46220,
         "endTime": 46260,
         "pinyin": "3"
       },
@@ -3750,7 +3646,7 @@
   {
     "sentence_text": "่ นอน",
     "translations": {
-      "en": "sure."
+      "en": "sleep"
     },
     "segments": [
       {
@@ -3780,9 +3676,9 @@
     ]
   },
   {
-    "sentence_text": "ถึงแม้ ลา ช้า ออก ไป แต่ การพิจารณา ก็ ยัง เดินหน้า อ ยู",
+    "sentence_text": "ถึงแม้ ล่าช้า ออก ไป แต่ การพิจารณา ก็ ยัง เดินหน้า อย",
     "translations": {
-      "en": "Even if it's delayed, the consideration is still moving forward."
+      "en": "Although delayed, the deliberation continues."
     },
     "segments": [
       {
@@ -3824,30 +3720,36 @@
       {
         "token": "ล",
         "startTime": 48800,
-        "endTime": 48880,
+        "endTime": 48863,
         "pinyin": "l"
       },
       {
+        "token": "่",
+        "startTime": 48863,
+        "endTime": 48927,
+        "pinyin": "่"
+      },
+      {
         "token": "า",
-        "startTime": 48880,
-        "endTime": 48960,
+        "startTime": 48927,
+        "endTime": 48990,
         "pinyin": "า"
       },
       {
         "token": "ช",
-        "startTime": 48960,
-        "endTime": 49033,
+        "startTime": 48990,
+        "endTime": 49053,
         "pinyin": "ch"
       },
       {
         "token": "้",
-        "startTime": 49033,
-        "endTime": 49107,
+        "startTime": 49053,
+        "endTime": 49117,
         "pinyin": "้"
       },
       {
         "token": "า",
-        "startTime": 49107,
+        "startTime": 49117,
         "endTime": 49180,
         "pinyin": "า"
       },
@@ -4040,2850 +3942,3354 @@
       {
         "token": "อ",
         "startTime": 51560,
-        "endTime": 52650,
+        "endTime": 51780,
         "pinyin": "อ"
       },
       {
         "token": "ย",
-        "startTime": 52650,
-        "endTime": 53740,
+        "startTime": 51780,
+        "endTime": 52000,
         "pinyin": "y"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ู่",
+    "translations": {
+      "en": "Come"
+    },
+    "segments": [
       {
         "token": "ู",
-        "startTime": 53740,
-        "endTime": 54830,
+        "startTime": 52000,
+        "endTime": 52220,
         "pinyin": "ู"
-      }
-    ]
-  },
-  {
-    "sentence_text": "่",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "่",
-        "startTime": 54830,
-        "endTime": 55920,
+        "startTime": 52220,
+        "endTime": 52440,
         "pinyin": "่"
       }
     ]
   },
   {
-    "sentence_text": "ก็ ให้ สัม BalkR 幻uang ถ้า ตา ที่ พิจารณา กัน ยังไง แล้ว",
+    "sentence_text": "ทาง เอา ของ คุณ สุ ทิน ค รัง แสง สอ ๆ บัญชีรายชื่อ ผัก เพ ื",
     "translations": {
-      "en": "If the committee considers it carefully,"
+      "en": "Mr. Sutin's side has a simple vegetable list."
     },
     "segments": [
       {
-        "token": "ก",
-        "startTime": 55920,
-        "endTime": 55950,
-        "pinyin": "ก"
-      },
-      {
-        "token": "็",
-        "startTime": 55950,
-        "endTime": 55980,
-        "pinyin": "็"
-      },
-      {
-        "token": "ใ",
-        "startTime": 55980,
-        "endTime": 56053,
-        "pinyin": "ใ"
-      },
-      {
-        "token": "ห",
-        "startTime": 56053,
-        "endTime": 56127,
-        "pinyin": "ห"
-      },
-      {
-        "token": "้",
-        "startTime": 56127,
-        "endTime": 56200,
-        "pinyin": "้"
-      },
-      {
-        "token": "ส",
-        "startTime": 56200,
-        "endTime": 56280,
-        "pinyin": "ส"
-      },
-      {
-        "token": "ั",
-        "startTime": 56280,
-        "endTime": 56360,
-        "pinyin": "ั"
-      },
-      {
-        "token": "ม",
-        "startTime": 56360,
-        "endTime": 56440,
-        "pinyin": "ม"
-      },
-      {
-        "token": "B",
-        "startTime": 56440,
-        "endTime": 56580,
-        "pinyin": "B"
-      },
-      {
-        "token": "a",
-        "startTime": 56580,
-        "endTime": 56667,
-        "pinyin": "a"
-      },
-      {
-        "token": "l",
-        "startTime": 56667,
-        "endTime": 56753,
-        "pinyin": "l"
-      },
-      {
-        "token": "k",
-        "startTime": 56753,
-        "endTime": 56840,
-        "pinyin": "k"
-      },
-      {
-        "token": "R",
-        "startTime": 56840,
-        "endTime": 56860,
-        "pinyin": "R"
-      },
-      {
-        "token": "幻",
-        "startTime": 56860,
-        "endTime": 56880,
-        "pinyin": "huàn"
-      },
-      {
-        "token": "u",
-        "startTime": 56880,
-        "endTime": 56900,
-        "pinyin": "u"
-      },
-      {
-        "token": "a",
-        "startTime": 56900,
-        "endTime": 57100,
-        "pinyin": "a"
-      },
-      {
-        "token": "n",
-        "startTime": 57100,
-        "endTime": 57300,
-        "pinyin": "n"
-      },
-      {
-        "token": "g",
-        "startTime": 57300,
-        "endTime": 57500,
-        "pinyin": "g"
-      },
-      {
-        "token": "ถ",
-        "startTime": 57500,
-        "endTime": 57573,
-        "pinyin": "ถ"
-      },
-      {
-        "token": "้",
-        "startTime": 57573,
-        "endTime": 57647,
-        "pinyin": "้"
-      },
-      {
-        "token": "า",
-        "startTime": 57647,
-        "endTime": 57720,
-        "pinyin": "า"
-      },
-      {
-        "token": "ต",
-        "startTime": 57720,
-        "endTime": 58570,
-        "pinyin": "ต"
-      },
-      {
-        "token": "า",
-        "startTime": 58570,
-        "endTime": 59420,
-        "pinyin": "า"
-      },
-      {
         "token": "ท",
-        "startTime": 59420,
-        "endTime": 59433,
-        "pinyin": "ท"
-      },
-      {
-        "token": "ี",
-        "startTime": 59433,
-        "endTime": 59447,
-        "pinyin": "ี"
-      },
-      {
-        "token": "่",
-        "startTime": 59447,
-        "endTime": 59460,
-        "pinyin": "่"
-      },
-      {
-        "token": "พ",
-        "startTime": 59460,
-        "endTime": 59540,
-        "pinyin": "พ"
-      },
-      {
-        "token": "ิ",
-        "startTime": 59540,
-        "endTime": 59620,
-        "pinyin": "ิ"
-      },
-      {
-        "token": "จ",
-        "startTime": 59620,
-        "endTime": 59700,
-        "pinyin": "จ"
-      },
-      {
-        "token": "า",
-        "startTime": 59700,
-        "endTime": 59780,
-        "pinyin": "า"
-      },
-      {
-        "token": "ร",
-        "startTime": 59780,
-        "endTime": 59860,
-        "pinyin": "ร"
-      },
-      {
-        "token": "ณ",
-        "startTime": 59860,
-        "endTime": 59940,
-        "pinyin": "ณ"
-      },
-      {
-        "token": "า",
-        "startTime": 59940,
-        "endTime": 60020,
-        "pinyin": "า"
-      },
-      {
-        "token": "ก",
-        "startTime": 60020,
-        "endTime": 60087,
-        "pinyin": "ก"
-      },
-      {
-        "token": "ั",
-        "startTime": 60087,
-        "endTime": 60153,
-        "pinyin": "ั"
-      },
-      {
-        "token": "น",
-        "startTime": 60153,
-        "endTime": 60220,
-        "pinyin": "น"
-      },
-      {
-        "token": "ย",
-        "startTime": 60220,
-        "endTime": 60368,
-        "pinyin": "ย"
-      },
-      {
-        "token": "ั",
-        "startTime": 60368,
-        "endTime": 60516,
-        "pinyin": "ั"
-      },
-      {
-        "token": "ง",
-        "startTime": 60516,
-        "endTime": 60664,
-        "pinyin": "ง"
-      },
-      {
-        "token": "ไ",
-        "startTime": 60664,
-        "endTime": 60812,
-        "pinyin": "ไ"
-      },
-      {
-        "token": "ง",
-        "startTime": 60812,
-        "endTime": 60960,
-        "pinyin": "ง"
-      },
-      {
-        "token": "แ",
-        "startTime": 60960,
-        "endTime": 61000,
-        "pinyin": "แ"
-      },
-      {
-        "token": "ล",
-        "startTime": 61000,
-        "endTime": 61040,
-        "pinyin": "ล"
-      },
-      {
-        "token": "้",
-        "startTime": 61040,
-        "endTime": 61080,
-        "pinyin": "้"
-      },
-      {
-        "token": "ว",
-        "startTime": 61080,
-        "endTime": 61120,
-        "pinyin": "ว"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ว่า ตัวแทน แต่ ลาพัก ก็ มี ความคิดเห็น ที่ แตก ต่างกัน",
-    "translations": {
-      "en": "that representatives on leave have differing opinions,"
-    },
-    "segments": [
-      {
-        "token": "ว",
-        "startTime": 61120,
-        "endTime": 61160,
-        "pinyin": "w"
-      },
-      {
-        "token": "่",
-        "startTime": 61160,
-        "endTime": 61200,
-        "pinyin": "่"
-      },
-      {
-        "token": "า",
-        "startTime": 61200,
-        "endTime": 61240,
-        "pinyin": "า"
-      },
-      {
-        "token": "ต",
-        "startTime": 61240,
-        "endTime": 61303,
-        "pinyin": "t"
-      },
-      {
-        "token": "ั",
-        "startTime": 61303,
-        "endTime": 61367,
-        "pinyin": "ั"
-      },
-      {
-        "token": "ว",
-        "startTime": 61367,
-        "endTime": 61430,
-        "pinyin": "w"
-      },
-      {
-        "token": "แ",
-        "startTime": 61430,
-        "endTime": 61493,
-        "pinyin": "แ"
-      },
-      {
-        "token": "ท",
-        "startTime": 61493,
-        "endTime": 61557,
+        "startTime": 52440,
+        "endTime": 52507,
         "pinyin": "th"
       },
       {
-        "token": "น",
-        "startTime": 61557,
-        "endTime": 61620,
-        "pinyin": "n"
-      },
-      {
-        "token": "แ",
-        "startTime": 61620,
-        "endTime": 61687,
-        "pinyin": "แ"
-      },
-      {
-        "token": "ต",
-        "startTime": 61687,
-        "endTime": 61753,
-        "pinyin": "t"
-      },
-      {
-        "token": "่",
-        "startTime": 61753,
-        "endTime": 61820,
-        "pinyin": "่"
-      },
-      {
-        "token": "ล",
-        "startTime": 61820,
-        "endTime": 61896,
-        "pinyin": "l"
-      },
-      {
         "token": "า",
-        "startTime": 61896,
-        "endTime": 61972,
+        "startTime": 52507,
+        "endTime": 52573,
         "pinyin": "า"
       },
       {
-        "token": "พ",
-        "startTime": 61972,
-        "endTime": 62048,
-        "pinyin": "ph"
-      },
-      {
-        "token": "ั",
-        "startTime": 62048,
-        "endTime": 62124,
-        "pinyin": "ั"
-      },
-      {
-        "token": "ก",
-        "startTime": 62124,
-        "endTime": 62200,
-        "pinyin": "k"
-      },
-      {
-        "token": "ก",
-        "startTime": 62200,
-        "endTime": 62260,
-        "pinyin": "k"
-      },
-      {
-        "token": "็",
-        "startTime": 62260,
-        "endTime": 62320,
-        "pinyin": "็"
-      },
-      {
-        "token": "ม",
-        "startTime": 62320,
-        "endTime": 62430,
-        "pinyin": "m"
-      },
-      {
-        "token": "ี",
-        "startTime": 62430,
-        "endTime": 62540,
-        "pinyin": "ี"
-      },
-      {
-        "token": "ค",
-        "startTime": 62540,
-        "endTime": 62604,
-        "pinyin": "kh"
-      },
-      {
-        "token": "ว",
-        "startTime": 62604,
-        "endTime": 62667,
-        "pinyin": "w"
-      },
-      {
-        "token": "า",
-        "startTime": 62667,
-        "endTime": 62731,
-        "pinyin": "า"
-      },
-      {
-        "token": "ม",
-        "startTime": 62731,
-        "endTime": 62795,
-        "pinyin": "m"
-      },
-      {
-        "token": "ค",
-        "startTime": 62795,
-        "endTime": 62858,
-        "pinyin": "kh"
-      },
-      {
-        "token": "ิ",
-        "startTime": 62858,
-        "endTime": 62922,
-        "pinyin": "ิ"
-      },
-      {
-        "token": "ด",
-        "startTime": 62922,
-        "endTime": 62985,
-        "pinyin": "d"
+        "token": "ง",
+        "startTime": 52573,
+        "endTime": 52640,
+        "pinyin": "ng"
       },
       {
         "token": "เ",
-        "startTime": 62985,
-        "endTime": 63049,
+        "startTime": 52640,
+        "endTime": 52707,
         "pinyin": "เ"
       },
       {
-        "token": "ห",
-        "startTime": 63049,
-        "endTime": 63113,
-        "pinyin": "ห"
-      },
-      {
-        "token": "็",
-        "startTime": 63113,
-        "endTime": 63176,
-        "pinyin": "็"
-      },
-      {
-        "token": "น",
-        "startTime": 63176,
-        "endTime": 63240,
-        "pinyin": "n"
-      },
-      {
-        "token": "ท",
-        "startTime": 63240,
-        "endTime": 63327,
-        "pinyin": "th"
-      },
-      {
-        "token": "ี",
-        "startTime": 63327,
-        "endTime": 63413,
-        "pinyin": "ี"
-      },
-      {
-        "token": "่",
-        "startTime": 63413,
-        "endTime": 63500,
-        "pinyin": "่"
-      },
-      {
-        "token": "แ",
-        "startTime": 63500,
-        "endTime": 63580,
-        "pinyin": "แ"
-      },
-      {
-        "token": "ต",
-        "startTime": 63580,
-        "endTime": 63660,
-        "pinyin": "t"
-      },
-      {
-        "token": "ก",
-        "startTime": 63660,
-        "endTime": 63740,
-        "pinyin": "k"
-      },
-      {
-        "token": "ต",
-        "startTime": 63740,
-        "endTime": 63837,
-        "pinyin": "t"
-      },
-      {
-        "token": "่",
-        "startTime": 63837,
-        "endTime": 63934,
-        "pinyin": "่"
+        "token": "อ",
+        "startTime": 52707,
+        "endTime": 52773,
+        "pinyin": "อ"
       },
       {
         "token": "า",
-        "startTime": 63934,
-        "endTime": 64031,
+        "startTime": 52773,
+        "endTime": 52840,
         "pinyin": "า"
       },
       {
-        "token": "ง",
-        "startTime": 64031,
-        "endTime": 64129,
-        "pinyin": "ng"
-      },
-      {
-        "token": "ก",
-        "startTime": 64129,
-        "endTime": 64226,
-        "pinyin": "k"
-      },
-      {
-        "token": "ั",
-        "startTime": 64226,
-        "endTime": 64323,
-        "pinyin": "ั"
-      },
-      {
-        "token": "น",
-        "startTime": 64323,
-        "endTime": 64420,
-        "pinyin": "n"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ก็ ต้อง ให้ สมาชิก มา ทำการ พูดคุย กัน",
-    "translations": {
-      "en": "then members must come and discuss it."
-    },
-    "segments": [
-      {
-        "token": "ก",
-        "startTime": 64420,
-        "endTime": 64430,
-        "pinyin": "k"
-      },
-      {
-        "token": "็",
-        "startTime": 64430,
-        "endTime": 64440,
-        "pinyin": "็"
-      },
-      {
-        "token": "ต",
-        "startTime": 64440,
-        "endTime": 64545,
-        "pinyin": "t"
-      },
-      {
-        "token": "้",
-        "startTime": 64545,
-        "endTime": 64650,
-        "pinyin": "้"
+        "token": "ข",
+        "startTime": 52840,
+        "endTime": 52953,
+        "pinyin": "kh"
       },
       {
         "token": "อ",
-        "startTime": 64650,
-        "endTime": 64755,
+        "startTime": 52953,
+        "endTime": 53067,
         "pinyin": "อ"
       },
       {
         "token": "ง",
-        "startTime": 64755,
-        "endTime": 64860,
+        "startTime": 53067,
+        "endTime": 53180,
         "pinyin": "ng"
       },
       {
-        "token": "ใ",
-        "startTime": 64860,
-        "endTime": 64940,
-        "pinyin": "ใ"
-      },
-      {
-        "token": "ห",
-        "startTime": 64940,
-        "endTime": 65019,
-        "pinyin": "ห"
-      },
-      {
-        "token": "้",
-        "startTime": 65019,
-        "endTime": 65099,
-        "pinyin": "้"
-      },
-      {
-        "token": "ส",
-        "startTime": 65099,
-        "endTime": 65226,
-        "pinyin": "s"
-      },
-      {
-        "token": "ม",
-        "startTime": 65226,
-        "endTime": 65353,
-        "pinyin": "m"
-      },
-      {
-        "token": "า",
-        "startTime": 65353,
-        "endTime": 65480,
-        "pinyin": "า"
-      },
-      {
-        "token": "ช",
-        "startTime": 65480,
-        "endTime": 65606,
-        "pinyin": "ch"
-      },
-      {
-        "token": "ิ",
-        "startTime": 65606,
-        "endTime": 65733,
-        "pinyin": "ิ"
-      },
-      {
-        "token": "ก",
-        "startTime": 65733,
-        "endTime": 65860,
-        "pinyin": "k"
-      },
-      {
-        "token": "ม",
-        "startTime": 65860,
-        "endTime": 65940,
-        "pinyin": "m"
-      },
-      {
-        "token": "า",
-        "startTime": 65940,
-        "endTime": 66020,
-        "pinyin": "า"
-      },
-      {
-        "token": "ท",
-        "startTime": 66020,
-        "endTime": 66144,
-        "pinyin": "th"
-      },
-      {
-        "token": "ำ",
-        "startTime": 66144,
-        "endTime": 66268,
-        "pinyin": "ำ"
-      },
-      {
-        "token": "ก",
-        "startTime": 66268,
-        "endTime": 66392,
-        "pinyin": "k"
-      },
-      {
-        "token": "า",
-        "startTime": 66392,
-        "endTime": 66516,
-        "pinyin": "า"
-      },
-      {
-        "token": "ร",
-        "startTime": 66516,
-        "endTime": 66640,
-        "pinyin": "r"
-      },
-      {
-        "token": "พ",
-        "startTime": 66640,
-        "endTime": 66853,
-        "pinyin": "ph"
-      },
-      {
-        "token": "ู",
-        "startTime": 66853,
-        "endTime": 67067,
-        "pinyin": "ู"
-      },
-      {
-        "token": "ด",
-        "startTime": 67067,
-        "endTime": 67280,
-        "pinyin": "d"
-      },
-      {
         "token": "ค",
-        "startTime": 67280,
-        "endTime": 67493,
+        "startTime": 53180,
+        "endTime": 53213,
         "pinyin": "kh"
       },
       {
         "token": "ุ",
-        "startTime": 67493,
-        "endTime": 67707,
+        "startTime": 53213,
+        "endTime": 53247,
         "pinyin": "ุ"
       },
       {
-        "token": "ย",
-        "startTime": 67707,
-        "endTime": 67920,
-        "pinyin": "y"
+        "token": "ณ",
+        "startTime": 53247,
+        "endTime": 53280,
+        "pinyin": "n"
       },
       {
-        "token": "ก",
-        "startTime": 67920,
-        "endTime": 68040,
-        "pinyin": "k"
+        "token": "ส",
+        "startTime": 53280,
+        "endTime": 53330,
+        "pinyin": "s"
       },
       {
-        "token": "ั",
-        "startTime": 68040,
-        "endTime": 68160,
-        "pinyin": "ั"
+        "token": "ุ",
+        "startTime": 53330,
+        "endTime": 53380,
+        "pinyin": "ุ"
+      },
+      {
+        "token": "ท",
+        "startTime": 53380,
+        "endTime": 53460,
+        "pinyin": "th"
+      },
+      {
+        "token": "ิ",
+        "startTime": 53460,
+        "endTime": 53540,
+        "pinyin": "ิ"
       },
       {
         "token": "น",
-        "startTime": 68160,
-        "endTime": 68280,
+        "startTime": 53540,
+        "endTime": 53620,
         "pinyin": "n"
+      },
+      {
+        "token": "ค",
+        "startTime": 53620,
+        "endTime": 53640,
+        "pinyin": "kh"
+      },
+      {
+        "token": "ร",
+        "startTime": 53640,
+        "endTime": 53780,
+        "pinyin": "r"
+      },
+      {
+        "token": "ั",
+        "startTime": 53780,
+        "endTime": 53920,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ง",
+        "startTime": 53920,
+        "endTime": 54060,
+        "pinyin": "ng"
+      },
+      {
+        "token": "แ",
+        "startTime": 54060,
+        "endTime": 54160,
+        "pinyin": "แ"
+      },
+      {
+        "token": "ส",
+        "startTime": 54160,
+        "endTime": 54260,
+        "pinyin": "s"
+      },
+      {
+        "token": "ง",
+        "startTime": 54260,
+        "endTime": 54360,
+        "pinyin": "ng"
+      },
+      {
+        "token": "ส",
+        "startTime": 54360,
+        "endTime": 54390,
+        "pinyin": "s"
+      },
+      {
+        "token": "อ",
+        "startTime": 54390,
+        "endTime": 54420,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ๆ",
+        "startTime": 54420,
+        "endTime": 54440,
+        "pinyin": "ๆ"
+      },
+      {
+        "token": "บ",
+        "startTime": 54440,
+        "endTime": 54500,
+        "pinyin": "b"
+      },
+      {
+        "token": "ั",
+        "startTime": 54500,
+        "endTime": 54560,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ญ",
+        "startTime": 54560,
+        "endTime": 54620,
+        "pinyin": "y"
+      },
+      {
+        "token": "ช",
+        "startTime": 54620,
+        "endTime": 54680,
+        "pinyin": "ch"
+      },
+      {
+        "token": "ี",
+        "startTime": 54680,
+        "endTime": 54740,
+        "pinyin": "ี"
+      },
+      {
+        "token": "ร",
+        "startTime": 54740,
+        "endTime": 54800,
+        "pinyin": "r"
+      },
+      {
+        "token": "า",
+        "startTime": 54800,
+        "endTime": 54860,
+        "pinyin": "า"
+      },
+      {
+        "token": "ย",
+        "startTime": 54860,
+        "endTime": 54920,
+        "pinyin": "y"
+      },
+      {
+        "token": "ช",
+        "startTime": 54920,
+        "endTime": 54980,
+        "pinyin": "ch"
+      },
+      {
+        "token": "ื",
+        "startTime": 54980,
+        "endTime": 55040,
+        "pinyin": "ื"
+      },
+      {
+        "token": "่",
+        "startTime": 55040,
+        "endTime": 55100,
+        "pinyin": "่"
+      },
+      {
+        "token": "อ",
+        "startTime": 55100,
+        "endTime": 55160,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ผ",
+        "startTime": 55160,
+        "endTime": 55233,
+        "pinyin": "ph"
+      },
+      {
+        "token": "ั",
+        "startTime": 55233,
+        "endTime": 55307,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ก",
+        "startTime": 55307,
+        "endTime": 55380,
+        "pinyin": "k"
+      },
+      {
+        "token": "เ",
+        "startTime": 55380,
+        "endTime": 55484,
+        "pinyin": "เ"
+      },
+      {
+        "token": "พ",
+        "startTime": 55484,
+        "endTime": 55588,
+        "pinyin": "ph"
+      },
+      {
+        "token": "ื",
+        "startTime": 55588,
+        "endTime": 55692,
+        "pinyin": "ื"
       }
     ]
   },
   {
-    "sentence_text": "ซึ่ง ตัว ของ คุณ สุ ทิ้น มองว่า เรื่อง นี้",
+    "sentence_text": "่อ ไทย ก็ ให้ สัม ภา สี บอ กว่า เรื่อง นี้ ก็ ต้อง ไป ฟัง วิ",
     "translations": {
-      "en": "As for Mr. Sutin, he sees this matter"
+      "en": "Thailand also gave an interview saying that this matter must be heard from the"
+    },
+    "segments": [
+      {
+        "token": "่",
+        "startTime": 55692,
+        "endTime": 55796,
+        "pinyin": "่"
+      },
+      {
+        "token": "อ",
+        "startTime": 55796,
+        "endTime": 55900,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ไ",
+        "startTime": 55900,
+        "endTime": 55927,
+        "pinyin": "ไ"
+      },
+      {
+        "token": "ท",
+        "startTime": 55927,
+        "endTime": 55953,
+        "pinyin": "th"
+      },
+      {
+        "token": "ย",
+        "startTime": 55953,
+        "endTime": 55980,
+        "pinyin": "y"
+      },
+      {
+        "token": "ก",
+        "startTime": 55980,
+        "endTime": 56070,
+        "pinyin": "k"
+      },
+      {
+        "token": "็",
+        "startTime": 56070,
+        "endTime": 56160,
+        "pinyin": "็"
+      },
+      {
+        "token": "ใ",
+        "startTime": 56160,
+        "endTime": 56213,
+        "pinyin": "ใ"
+      },
+      {
+        "token": "ห",
+        "startTime": 56213,
+        "endTime": 56267,
+        "pinyin": "ห"
+      },
+      {
+        "token": "้",
+        "startTime": 56267,
+        "endTime": 56320,
+        "pinyin": "้"
+      },
+      {
+        "token": "ส",
+        "startTime": 56320,
+        "endTime": 56387,
+        "pinyin": "s"
+      },
+      {
+        "token": "ั",
+        "startTime": 56387,
+        "endTime": 56453,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ม",
+        "startTime": 56453,
+        "endTime": 56520,
+        "pinyin": "m"
+      },
+      {
+        "token": "ภ",
+        "startTime": 56520,
+        "endTime": 56550,
+        "pinyin": "ph"
+      },
+      {
+        "token": "า",
+        "startTime": 56550,
+        "endTime": 56580,
+        "pinyin": "า"
+      },
+      {
+        "token": "ส",
+        "startTime": 56580,
+        "endTime": 56690,
+        "pinyin": "s"
+      },
+      {
+        "token": "ี",
+        "startTime": 56690,
+        "endTime": 56800,
+        "pinyin": "ี"
+      },
+      {
+        "token": "บ",
+        "startTime": 56800,
+        "endTime": 57040,
+        "pinyin": "b"
+      },
+      {
+        "token": "อ",
+        "startTime": 57040,
+        "endTime": 57280,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ก",
+        "startTime": 57280,
+        "endTime": 57300,
+        "pinyin": "k"
+      },
+      {
+        "token": "ว",
+        "startTime": 57300,
+        "endTime": 57320,
+        "pinyin": "w"
+      },
+      {
+        "token": "่",
+        "startTime": 57320,
+        "endTime": 57340,
+        "pinyin": "่"
+      },
+      {
+        "token": "า",
+        "startTime": 57340,
+        "endTime": 57360,
+        "pinyin": "า"
+      },
+      {
+        "token": "เ",
+        "startTime": 57360,
+        "endTime": 57430,
+        "pinyin": "เ"
+      },
+      {
+        "token": "ร",
+        "startTime": 57430,
+        "endTime": 57500,
+        "pinyin": "r"
+      },
+      {
+        "token": "ื",
+        "startTime": 57500,
+        "endTime": 57570,
+        "pinyin": "ื"
+      },
+      {
+        "token": "่",
+        "startTime": 57570,
+        "endTime": 57640,
+        "pinyin": "่"
+      },
+      {
+        "token": "อ",
+        "startTime": 57640,
+        "endTime": 57710,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ง",
+        "startTime": 57710,
+        "endTime": 57780,
+        "pinyin": "ng"
+      },
+      {
+        "token": "น",
+        "startTime": 57780,
+        "endTime": 57793,
+        "pinyin": "n"
+      },
+      {
+        "token": "ี",
+        "startTime": 57793,
+        "endTime": 57807,
+        "pinyin": "ี"
+      },
+      {
+        "token": "้",
+        "startTime": 57807,
+        "endTime": 57820,
+        "pinyin": "้"
+      },
+      {
+        "token": "ก",
+        "startTime": 57820,
+        "endTime": 57880,
+        "pinyin": "k"
+      },
+      {
+        "token": "็",
+        "startTime": 57880,
+        "endTime": 57940,
+        "pinyin": "็"
+      },
+      {
+        "token": "ต",
+        "startTime": 57940,
+        "endTime": 58025,
+        "pinyin": "t"
+      },
+      {
+        "token": "้",
+        "startTime": 58025,
+        "endTime": 58110,
+        "pinyin": "้"
+      },
+      {
+        "token": "อ",
+        "startTime": 58110,
+        "endTime": 58195,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ง",
+        "startTime": 58195,
+        "endTime": 58280,
+        "pinyin": "ng"
+      },
+      {
+        "token": "ไ",
+        "startTime": 58280,
+        "endTime": 58300,
+        "pinyin": "ไ"
+      },
+      {
+        "token": "ป",
+        "startTime": 58300,
+        "endTime": 58320,
+        "pinyin": "p"
+      },
+      {
+        "token": "ฟ",
+        "startTime": 58320,
+        "endTime": 58413,
+        "pinyin": "f"
+      },
+      {
+        "token": "ั",
+        "startTime": 58413,
+        "endTime": 58507,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ง",
+        "startTime": 58507,
+        "endTime": 58600,
+        "pinyin": "ng"
+      },
+      {
+        "token": "ว",
+        "startTime": 58600,
+        "endTime": 58600,
+        "pinyin": "w"
+      },
+      {
+        "token": "ิ",
+        "startTime": 58600,
+        "endTime": 58600,
+        "pinyin": "ิ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "ฟรัทย์ ว่า เขา จะ พิจารณา กัน ยังไง",
+    "translations": {
+      "en": "government as to how they will consider it."
+    },
+    "segments": [
+      {
+        "token": "ฟ",
+        "startTime": 58600,
+        "endTime": 58713,
+        "pinyin": "f"
+      },
+      {
+        "token": "ร",
+        "startTime": 58713,
+        "endTime": 58827,
+        "pinyin": "r"
+      },
+      {
+        "token": "ั",
+        "startTime": 58827,
+        "endTime": 58940,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ท",
+        "startTime": 58940,
+        "endTime": 59053,
+        "pinyin": "th"
+      },
+      {
+        "token": "ย",
+        "startTime": 59053,
+        "endTime": 59167,
+        "pinyin": "y"
+      },
+      {
+        "token": "์",
+        "startTime": 59167,
+        "endTime": 59280,
+        "pinyin": "์"
+      },
+      {
+        "token": "ว",
+        "startTime": 59280,
+        "endTime": 59360,
+        "pinyin": "w"
+      },
+      {
+        "token": "่",
+        "startTime": 59360,
+        "endTime": 59440,
+        "pinyin": "่"
+      },
+      {
+        "token": "า",
+        "startTime": 59440,
+        "endTime": 59520,
+        "pinyin": "า"
+      },
+      {
+        "token": "เ",
+        "startTime": 59520,
+        "endTime": 59593,
+        "pinyin": "เ"
+      },
+      {
+        "token": "ข",
+        "startTime": 59593,
+        "endTime": 59667,
+        "pinyin": "kh"
+      },
+      {
+        "token": "า",
+        "startTime": 59667,
+        "endTime": 59740,
+        "pinyin": "า"
+      },
+      {
+        "token": "จ",
+        "startTime": 59740,
+        "endTime": 59880,
+        "pinyin": "ch"
+      },
+      {
+        "token": "ะ",
+        "startTime": 59880,
+        "endTime": 60020,
+        "pinyin": "ะ"
+      },
+      {
+        "token": "พ",
+        "startTime": 60020,
+        "endTime": 60034,
+        "pinyin": "ph"
+      },
+      {
+        "token": "ิ",
+        "startTime": 60034,
+        "endTime": 60049,
+        "pinyin": "ิ"
+      },
+      {
+        "token": "จ",
+        "startTime": 60049,
+        "endTime": 60063,
+        "pinyin": "ch"
+      },
+      {
+        "token": "า",
+        "startTime": 60063,
+        "endTime": 60077,
+        "pinyin": "า"
+      },
+      {
+        "token": "ร",
+        "startTime": 60077,
+        "endTime": 60091,
+        "pinyin": "r"
+      },
+      {
+        "token": "ณ",
+        "startTime": 60091,
+        "endTime": 60106,
+        "pinyin": "n"
+      },
+      {
+        "token": "า",
+        "startTime": 60106,
+        "endTime": 60120,
+        "pinyin": "า"
+      },
+      {
+        "token": "ก",
+        "startTime": 60120,
+        "endTime": 60407,
+        "pinyin": "k"
+      },
+      {
+        "token": "ั",
+        "startTime": 60407,
+        "endTime": 60693,
+        "pinyin": "ั"
+      },
+      {
+        "token": "น",
+        "startTime": 60693,
+        "endTime": 60980,
+        "pinyin": "n"
+      },
+      {
+        "token": "ย",
+        "startTime": 60980,
+        "endTime": 61008,
+        "pinyin": "y"
+      },
+      {
+        "token": "ั",
+        "startTime": 61008,
+        "endTime": 61036,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ง",
+        "startTime": 61036,
+        "endTime": 61064,
+        "pinyin": "ng"
+      },
+      {
+        "token": "ไ",
+        "startTime": 61064,
+        "endTime": 61092,
+        "pinyin": "ไ"
+      },
+      {
+        "token": "ง",
+        "startTime": 61092,
+        "endTime": 61120,
+        "pinyin": "ng"
+      }
+    ]
+  },
+  {
+    "sentence_text": "เพราะว่า ตัวแทน แต่ละ ผัก ก็ มี ความคิดเห็น ที่ แตก ต่",
+    "translations": {
+      "en": "Because each representative has different opinions,"
+    },
+    "segments": [
+      {
+        "token": "เ",
+        "startTime": 61120,
+        "endTime": 61183,
+        "pinyin": "เ"
+      },
+      {
+        "token": "พ",
+        "startTime": 61183,
+        "endTime": 61245,
+        "pinyin": "ph"
+      },
+      {
+        "token": "ร",
+        "startTime": 61245,
+        "endTime": 61308,
+        "pinyin": "r"
+      },
+      {
+        "token": "า",
+        "startTime": 61308,
+        "endTime": 61370,
+        "pinyin": "า"
+      },
+      {
+        "token": "ะ",
+        "startTime": 61370,
+        "endTime": 61433,
+        "pinyin": "ะ"
+      },
+      {
+        "token": "ว",
+        "startTime": 61433,
+        "endTime": 61495,
+        "pinyin": "w"
+      },
+      {
+        "token": "่",
+        "startTime": 61495,
+        "endTime": 61558,
+        "pinyin": "่"
+      },
+      {
+        "token": "า",
+        "startTime": 61558,
+        "endTime": 61620,
+        "pinyin": "า"
+      },
+      {
+        "token": "ต",
+        "startTime": 61620,
+        "endTime": 61687,
+        "pinyin": "t"
+      },
+      {
+        "token": "ั",
+        "startTime": 61687,
+        "endTime": 61753,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ว",
+        "startTime": 61753,
+        "endTime": 61820,
+        "pinyin": "w"
+      },
+      {
+        "token": "แ",
+        "startTime": 61820,
+        "endTime": 61887,
+        "pinyin": "แ"
+      },
+      {
+        "token": "ท",
+        "startTime": 61887,
+        "endTime": 61953,
+        "pinyin": "th"
+      },
+      {
+        "token": "น",
+        "startTime": 61953,
+        "endTime": 62020,
+        "pinyin": "n"
+      },
+      {
+        "token": "แ",
+        "startTime": 62020,
+        "endTime": 62116,
+        "pinyin": "แ"
+      },
+      {
+        "token": "ต",
+        "startTime": 62116,
+        "endTime": 62212,
+        "pinyin": "t"
+      },
+      {
+        "token": "่",
+        "startTime": 62212,
+        "endTime": 62308,
+        "pinyin": "่"
+      },
+      {
+        "token": "ล",
+        "startTime": 62308,
+        "endTime": 62404,
+        "pinyin": "l"
+      },
+      {
+        "token": "ะ",
+        "startTime": 62404,
+        "endTime": 62500,
+        "pinyin": "ะ"
+      },
+      {
+        "token": "ผ",
+        "startTime": 62500,
+        "endTime": 62540,
+        "pinyin": "ph"
+      },
+      {
+        "token": "ั",
+        "startTime": 62540,
+        "endTime": 62580,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ก",
+        "startTime": 62580,
+        "endTime": 62620,
+        "pinyin": "k"
+      },
+      {
+        "token": "ก",
+        "startTime": 62620,
+        "endTime": 62720,
+        "pinyin": "k"
+      },
+      {
+        "token": "็",
+        "startTime": 62720,
+        "endTime": 62820,
+        "pinyin": "็"
+      },
+      {
+        "token": "ม",
+        "startTime": 62820,
+        "endTime": 62910,
+        "pinyin": "m"
+      },
+      {
+        "token": "ี",
+        "startTime": 62910,
+        "endTime": 63000,
+        "pinyin": "ี"
+      },
+      {
+        "token": "ค",
+        "startTime": 63000,
+        "endTime": 63067,
+        "pinyin": "kh"
+      },
+      {
+        "token": "ว",
+        "startTime": 63067,
+        "endTime": 63135,
+        "pinyin": "w"
+      },
+      {
+        "token": "า",
+        "startTime": 63135,
+        "endTime": 63202,
+        "pinyin": "า"
+      },
+      {
+        "token": "ม",
+        "startTime": 63202,
+        "endTime": 63269,
+        "pinyin": "m"
+      },
+      {
+        "token": "ค",
+        "startTime": 63269,
+        "endTime": 63336,
+        "pinyin": "kh"
+      },
+      {
+        "token": "ิ",
+        "startTime": 63336,
+        "endTime": 63404,
+        "pinyin": "ิ"
+      },
+      {
+        "token": "ด",
+        "startTime": 63404,
+        "endTime": 63471,
+        "pinyin": "d"
+      },
+      {
+        "token": "เ",
+        "startTime": 63471,
+        "endTime": 63538,
+        "pinyin": "เ"
+      },
+      {
+        "token": "ห",
+        "startTime": 63538,
+        "endTime": 63605,
+        "pinyin": "ห"
+      },
+      {
+        "token": "็",
+        "startTime": 63605,
+        "endTime": 63673,
+        "pinyin": "็"
+      },
+      {
+        "token": "น",
+        "startTime": 63673,
+        "endTime": 63740,
+        "pinyin": "n"
+      },
+      {
+        "token": "ท",
+        "startTime": 63740,
+        "endTime": 63773,
+        "pinyin": "th"
+      },
+      {
+        "token": "ี",
+        "startTime": 63773,
+        "endTime": 63807,
+        "pinyin": "ี"
+      },
+      {
+        "token": "่",
+        "startTime": 63807,
+        "endTime": 63840,
+        "pinyin": "่"
+      },
+      {
+        "token": "แ",
+        "startTime": 63840,
+        "endTime": 64013,
+        "pinyin": "แ"
+      },
+      {
+        "token": "ต",
+        "startTime": 64013,
+        "endTime": 64187,
+        "pinyin": "t"
+      },
+      {
+        "token": "ก",
+        "startTime": 64187,
+        "endTime": 64360,
+        "pinyin": "k"
+      },
+      {
+        "token": "ต",
+        "startTime": 64360,
+        "endTime": 64431,
+        "pinyin": "t"
+      },
+      {
+        "token": "่",
+        "startTime": 64431,
+        "endTime": 64503,
+        "pinyin": "่"
+      }
+    ]
+  },
+  {
+    "sentence_text": "าง กัน ก็ ต้อง к",
+    "translations": {
+      "en": "so they must"
+    },
+    "segments": [
+      {
+        "token": "า",
+        "startTime": 64503,
+        "endTime": 64574,
+        "pinyin": "า"
+      },
+      {
+        "token": "ง",
+        "startTime": 64574,
+        "endTime": 64646,
+        "pinyin": "ng"
+      },
+      {
+        "token": "ก",
+        "startTime": 64646,
+        "endTime": 64717,
+        "pinyin": "k"
+      },
+      {
+        "token": "ั",
+        "startTime": 64717,
+        "endTime": 64789,
+        "pinyin": "ั"
+      },
+      {
+        "token": "น",
+        "startTime": 64789,
+        "endTime": 64860,
+        "pinyin": "n"
+      },
+      {
+        "token": "ก",
+        "startTime": 64860,
+        "endTime": 64920,
+        "pinyin": "k"
+      },
+      {
+        "token": "็",
+        "startTime": 64920,
+        "endTime": 64980,
+        "pinyin": "็"
+      },
+      {
+        "token": "ต",
+        "startTime": 64980,
+        "endTime": 65055,
+        "pinyin": "t"
+      },
+      {
+        "token": "้",
+        "startTime": 65055,
+        "endTime": 65130,
+        "pinyin": "้"
+      },
+      {
+        "token": "อ",
+        "startTime": 65130,
+        "endTime": 65205,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ง",
+        "startTime": 65205,
+        "endTime": 65280,
+        "pinyin": "ng"
+      },
+      {
+        "token": "к",
+        "startTime": 65280,
+        "endTime": 65600,
+        "pinyin": "к"
+      }
+    ]
+  },
+  {
+    "sentence_text": "มา ทำการ พูดคุย กัน นะคะ",
+    "translations": {
+      "en": "come to discuss it."
+    },
+    "segments": [
+      {
+        "token": "ม",
+        "startTime": 65600,
+        "endTime": 65640,
+        "pinyin": "m"
+      },
+      {
+        "token": "า",
+        "startTime": 65640,
+        "endTime": 65680,
+        "pinyin": "า"
+      },
+      {
+        "token": "ท",
+        "startTime": 65680,
+        "endTime": 65752,
+        "pinyin": "th"
+      },
+      {
+        "token": "ำ",
+        "startTime": 65752,
+        "endTime": 65824,
+        "pinyin": "ำ"
+      },
+      {
+        "token": "ก",
+        "startTime": 65824,
+        "endTime": 65896,
+        "pinyin": "k"
+      },
+      {
+        "token": "า",
+        "startTime": 65896,
+        "endTime": 65968,
+        "pinyin": "า"
+      },
+      {
+        "token": "ร",
+        "startTime": 65968,
+        "endTime": 66040,
+        "pinyin": "r"
+      },
+      {
+        "token": "พ",
+        "startTime": 66040,
+        "endTime": 66153,
+        "pinyin": "ph"
+      },
+      {
+        "token": "ู",
+        "startTime": 66153,
+        "endTime": 66267,
+        "pinyin": "ู"
+      },
+      {
+        "token": "ด",
+        "startTime": 66267,
+        "endTime": 66380,
+        "pinyin": "d"
+      },
+      {
+        "token": "ค",
+        "startTime": 66380,
+        "endTime": 66493,
+        "pinyin": "kh"
+      },
+      {
+        "token": "ุ",
+        "startTime": 66493,
+        "endTime": 66607,
+        "pinyin": "ุ"
+      },
+      {
+        "token": "ย",
+        "startTime": 66607,
+        "endTime": 66720,
+        "pinyin": "y"
+      },
+      {
+        "token": "ก",
+        "startTime": 66720,
+        "endTime": 66847,
+        "pinyin": "k"
+      },
+      {
+        "token": "ั",
+        "startTime": 66847,
+        "endTime": 66973,
+        "pinyin": "ั"
+      },
+      {
+        "token": "น",
+        "startTime": 66973,
+        "endTime": 67100,
+        "pinyin": "n"
+      },
+      {
+        "token": "น",
+        "startTime": 67100,
+        "endTime": 67150,
+        "pinyin": "n"
+      },
+      {
+        "token": "ะ",
+        "startTime": 67150,
+        "endTime": 67200,
+        "pinyin": "ะ"
+      },
+      {
+        "token": "ค",
+        "startTime": 67200,
+        "endTime": 67250,
+        "pinyin": "kh"
+      },
+      {
+        "token": "ะ",
+        "startTime": 67250,
+        "endTime": 67300,
+        "pinyin": "ะ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "ซึ่ง ตัว ของ คุณ สุ ทิน มองว่า เรื่อง นี้ สุดท้าย ก็ น่า",
+    "translations": {
+      "en": "As for Mr. Sutin, he believes that this matter will ultimately"
     },
     "segments": [
       {
         "token": "ซ",
-        "startTime": 68280,
-        "endTime": 68365,
+        "startTime": 67300,
+        "endTime": 67475,
         "pinyin": "s"
       },
       {
         "token": "ึ",
-        "startTime": 68365,
-        "endTime": 68450,
+        "startTime": 67475,
+        "endTime": 67650,
         "pinyin": "ึ"
       },
       {
         "token": "่",
-        "startTime": 68450,
-        "endTime": 68535,
+        "startTime": 67650,
+        "endTime": 67825,
         "pinyin": "่"
       },
       {
         "token": "ง",
-        "startTime": 68535,
+        "startTime": 67825,
+        "endTime": 68000,
+        "pinyin": "ng"
+      },
+      {
+        "token": "ต",
+        "startTime": 68000,
+        "endTime": 68107,
+        "pinyin": "t"
+      },
+      {
+        "token": "ั",
+        "startTime": 68107,
+        "endTime": 68213,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ว",
+        "startTime": 68213,
+        "endTime": 68320,
+        "pinyin": "w"
+      },
+      {
+        "token": "ข",
+        "startTime": 68320,
+        "endTime": 68420,
+        "pinyin": "kh"
+      },
+      {
+        "token": "อ",
+        "startTime": 68420,
+        "endTime": 68520,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ง",
+        "startTime": 68520,
         "endTime": 68620,
         "pinyin": "ng"
       },
       {
-        "token": "ต",
-        "startTime": 68620,
-        "endTime": 68673,
-        "pinyin": "t"
-      },
-      {
-        "token": "ั",
-        "startTime": 68673,
-        "endTime": 68727,
-        "pinyin": "ั"
-      },
-      {
-        "token": "ว",
-        "startTime": 68727,
-        "endTime": 68780,
-        "pinyin": "w"
-      },
-      {
-        "token": "ข",
-        "startTime": 68780,
-        "endTime": 68833,
-        "pinyin": "kh"
-      },
-      {
-        "token": "อ",
-        "startTime": 68833,
-        "endTime": 68887,
-        "pinyin": "อ"
-      },
-      {
-        "token": "ง",
-        "startTime": 68887,
-        "endTime": 68940,
-        "pinyin": "ng"
-      },
-      {
         "token": "ค",
-        "startTime": 68940,
-        "endTime": 68980,
+        "startTime": 68620,
+        "endTime": 68667,
         "pinyin": "kh"
       },
       {
         "token": "ุ",
-        "startTime": 68980,
-        "endTime": 69020,
+        "startTime": 68667,
+        "endTime": 68713,
         "pinyin": "ุ"
       },
       {
         "token": "ณ",
-        "startTime": 69020,
-        "endTime": 69060,
+        "startTime": 68713,
+        "endTime": 68760,
         "pinyin": "n"
       },
       {
         "token": "ส",
-        "startTime": 69060,
-        "endTime": 69130,
+        "startTime": 68760,
+        "endTime": 68850,
         "pinyin": "s"
       },
       {
         "token": "ุ",
-        "startTime": 69130,
-        "endTime": 69200,
+        "startTime": 68850,
+        "endTime": 68940,
         "pinyin": "ุ"
       },
       {
         "token": "ท",
-        "startTime": 69200,
-        "endTime": 69255,
+        "startTime": 68940,
+        "endTime": 68973,
         "pinyin": "th"
       },
       {
         "token": "ิ",
-        "startTime": 69255,
-        "endTime": 69310,
+        "startTime": 68973,
+        "endTime": 69007,
         "pinyin": "ิ"
       },
       {
-        "token": "้",
-        "startTime": 69310,
-        "endTime": 69365,
-        "pinyin": "้"
-      },
-      {
         "token": "น",
-        "startTime": 69365,
-        "endTime": 69420,
+        "startTime": 69007,
+        "endTime": 69040,
         "pinyin": "n"
       },
       {
         "token": "ม",
-        "startTime": 69420,
-        "endTime": 69463,
+        "startTime": 69040,
+        "endTime": 69103,
         "pinyin": "m"
       },
       {
         "token": "อ",
-        "startTime": 69463,
-        "endTime": 69507,
+        "startTime": 69103,
+        "endTime": 69167,
         "pinyin": "อ"
       },
       {
         "token": "ง",
-        "startTime": 69507,
-        "endTime": 69550,
+        "startTime": 69167,
+        "endTime": 69230,
         "pinyin": "ng"
       },
       {
         "token": "ว",
-        "startTime": 69550,
-        "endTime": 69593,
+        "startTime": 69230,
+        "endTime": 69293,
         "pinyin": "w"
       },
       {
         "token": "่",
-        "startTime": 69593,
-        "endTime": 69637,
+        "startTime": 69293,
+        "endTime": 69357,
         "pinyin": "่"
       },
       {
         "token": "า",
-        "startTime": 69637,
-        "endTime": 69680,
+        "startTime": 69357,
+        "endTime": 69420,
         "pinyin": "า"
       },
       {
         "token": "เ",
-        "startTime": 69680,
-        "endTime": 69770,
+        "startTime": 69420,
+        "endTime": 69433,
         "pinyin": "เ"
       },
       {
         "token": "ร",
-        "startTime": 69770,
-        "endTime": 69860,
+        "startTime": 69433,
+        "endTime": 69447,
         "pinyin": "r"
       },
       {
         "token": "ื",
-        "startTime": 69860,
-        "endTime": 69950,
+        "startTime": 69447,
+        "endTime": 69460,
         "pinyin": "ื"
       },
       {
         "token": "่",
-        "startTime": 69950,
-        "endTime": 70040,
+        "startTime": 69460,
+        "endTime": 69473,
         "pinyin": "่"
       },
       {
         "token": "อ",
-        "startTime": 70040,
-        "endTime": 70130,
+        "startTime": 69473,
+        "endTime": 69487,
         "pinyin": "อ"
       },
       {
         "token": "ง",
-        "startTime": 70130,
-        "endTime": 70220,
+        "startTime": 69487,
+        "endTime": 69500,
         "pinyin": "ng"
       },
       {
         "token": "น",
-        "startTime": 70220,
-        "endTime": 70307,
+        "startTime": 69500,
+        "endTime": 69600,
         "pinyin": "n"
       },
       {
         "token": "ี",
-        "startTime": 70307,
-        "endTime": 70393,
+        "startTime": 69600,
+        "endTime": 69700,
         "pinyin": "ี"
       },
       {
         "token": "้",
-        "startTime": 70393,
-        "endTime": 70480,
+        "startTime": 69700,
+        "endTime": 69800,
         "pinyin": "้"
-      }
-    ]
-  },
-  {
-    "sentence_text": "สุดท้าย ก็ น่าจะ ได้ หมด คอ สรุป",
-    "translations": {
-      "en": "as ultimately likely to reach a conclusion."
-    },
-    "segments": [
+      },
       {
         "token": "ส",
-        "startTime": 70480,
-        "endTime": 70531,
+        "startTime": 69800,
+        "endTime": 69860,
         "pinyin": "s"
       },
       {
         "token": "ุ",
-        "startTime": 70531,
-        "endTime": 70583,
+        "startTime": 69860,
+        "endTime": 69920,
         "pinyin": "ุ"
       },
       {
         "token": "ด",
-        "startTime": 70583,
-        "endTime": 70634,
+        "startTime": 69920,
+        "endTime": 69980,
         "pinyin": "d"
       },
       {
         "token": "ท",
-        "startTime": 70634,
-        "endTime": 70686,
+        "startTime": 69980,
+        "endTime": 70040,
         "pinyin": "th"
       },
       {
         "token": "้",
-        "startTime": 70686,
-        "endTime": 70737,
+        "startTime": 70040,
+        "endTime": 70100,
         "pinyin": "้"
       },
       {
         "token": "า",
-        "startTime": 70737,
-        "endTime": 70789,
+        "startTime": 70100,
+        "endTime": 70160,
         "pinyin": "า"
       },
       {
         "token": "ย",
-        "startTime": 70789,
-        "endTime": 70840,
+        "startTime": 70160,
+        "endTime": 70220,
         "pinyin": "y"
       },
       {
         "token": "ก",
-        "startTime": 70840,
-        "endTime": 70900,
+        "startTime": 70220,
+        "endTime": 70310,
         "pinyin": "k"
       },
       {
         "token": "็",
-        "startTime": 70900,
-        "endTime": 70960,
+        "startTime": 70310,
+        "endTime": 70400,
         "pinyin": "็"
       },
       {
         "token": "น",
-        "startTime": 70960,
-        "endTime": 71024,
+        "startTime": 70400,
+        "endTime": 70452,
         "pinyin": "n"
       },
       {
         "token": "่",
-        "startTime": 71024,
-        "endTime": 71088,
+        "startTime": 70452,
+        "endTime": 70504,
         "pinyin": "่"
       },
       {
         "token": "า",
-        "startTime": 71088,
-        "endTime": 71152,
+        "startTime": 70504,
+        "endTime": 70556,
         "pinyin": "า"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "จะ ได้ ข้อสรุป",
+    "translations": {
+      "en": "reach a conclusion."
+    },
+    "segments": [
       {
         "token": "จ",
-        "startTime": 71152,
-        "endTime": 71216,
+        "startTime": 70556,
+        "endTime": 70608,
         "pinyin": "ch"
       },
       {
         "token": "ะ",
-        "startTime": 71216,
-        "endTime": 71280,
+        "startTime": 70608,
+        "endTime": 70660,
         "pinyin": "ะ"
       },
       {
         "token": "ไ",
-        "startTime": 71280,
-        "endTime": 71340,
+        "startTime": 70660,
+        "endTime": 70713,
         "pinyin": "ไ"
       },
       {
         "token": "ด",
-        "startTime": 71340,
-        "endTime": 71400,
+        "startTime": 70713,
+        "endTime": 70767,
         "pinyin": "d"
       },
       {
         "token": "้",
-        "startTime": 71400,
-        "endTime": 71460,
+        "startTime": 70767,
+        "endTime": 70820,
         "pinyin": "้"
       },
       {
-        "token": "ห",
-        "startTime": 71460,
-        "endTime": 71633,
-        "pinyin": "ห"
-      },
-      {
-        "token": "ม",
-        "startTime": 71633,
-        "endTime": 71807,
-        "pinyin": "m"
-      },
-      {
-        "token": "ด",
-        "startTime": 71807,
-        "endTime": 71980,
-        "pinyin": "d"
-      },
-      {
-        "token": "ค",
-        "startTime": 71980,
-        "endTime": 72010,
+        "token": "ข",
+        "startTime": 70820,
+        "endTime": 70897,
         "pinyin": "kh"
       },
       {
+        "token": "้",
+        "startTime": 70897,
+        "endTime": 70974,
+        "pinyin": "้"
+      },
+      {
         "token": "อ",
-        "startTime": 72010,
-        "endTime": 72040,
+        "startTime": 70974,
+        "endTime": 71051,
         "pinyin": "อ"
       },
       {
         "token": "ส",
-        "startTime": 72040,
-        "endTime": 72140,
+        "startTime": 71051,
+        "endTime": 71129,
         "pinyin": "s"
       },
       {
         "token": "ร",
-        "startTime": 72140,
-        "endTime": 72240,
+        "startTime": 71129,
+        "endTime": 71206,
         "pinyin": "r"
       },
       {
         "token": "ุ",
-        "startTime": 72240,
-        "endTime": 72340,
+        "startTime": 71206,
+        "endTime": 71283,
         "pinyin": "ุ"
       },
       {
         "token": "ป",
-        "startTime": 72340,
-        "endTime": 72440,
+        "startTime": 71283,
+        "endTime": 71360,
         "pinyin": "p"
       }
     ]
   },
   {
-    "sentence_text": "และ แล้วก็ สามารถ ผลักดัน กฎหมาย ชบับ นี้ ออกมา ได้ สำ",
+    "sentence_text": "และ เรา ก็ สามารถ ผลักดัน กฎหมาย ฉบับ นี้ ออกมา ได้",
     "translations": {
-      "en": "And then they were able to push this bill through successfully."
+      "en": "And we can push this law through."
     },
     "segments": [
       {
         "token": "แ",
-        "startTime": 72440,
-        "endTime": 72513,
+        "startTime": 71360,
+        "endTime": 71440,
         "pinyin": "แ"
       },
       {
         "token": "ล",
-        "startTime": 72513,
-        "endTime": 72587,
+        "startTime": 71440,
+        "endTime": 71520,
         "pinyin": "l"
       },
       {
         "token": "ะ",
-        "startTime": 72587,
-        "endTime": 72660,
+        "startTime": 71520,
+        "endTime": 71600,
         "pinyin": "ะ"
       },
       {
-        "token": "แ",
-        "startTime": 72660,
-        "endTime": 72727,
-        "pinyin": "แ"
+        "token": "เ",
+        "startTime": 71600,
+        "endTime": 71740,
+        "pinyin": "เ"
       },
       {
-        "token": "ล",
-        "startTime": 72727,
-        "endTime": 72793,
-        "pinyin": "l"
+        "token": "ร",
+        "startTime": 71740,
+        "endTime": 71880,
+        "pinyin": "r"
       },
       {
-        "token": "้",
-        "startTime": 72793,
-        "endTime": 72860,
-        "pinyin": "้"
-      },
-      {
-        "token": "ว",
-        "startTime": 72860,
-        "endTime": 72927,
-        "pinyin": "w"
+        "token": "า",
+        "startTime": 71880,
+        "endTime": 72020,
+        "pinyin": "า"
       },
       {
         "token": "ก",
-        "startTime": 72927,
-        "endTime": 72993,
+        "startTime": 72020,
+        "endTime": 72150,
         "pinyin": "k"
       },
       {
         "token": "็",
-        "startTime": 72993,
-        "endTime": 73060,
+        "startTime": 72150,
+        "endTime": 72280,
         "pinyin": "็"
       },
       {
         "token": "ส",
-        "startTime": 73060,
-        "endTime": 73137,
+        "startTime": 72280,
+        "endTime": 72343,
         "pinyin": "s"
       },
       {
         "token": "า",
-        "startTime": 73137,
-        "endTime": 73213,
+        "startTime": 72343,
+        "endTime": 72407,
         "pinyin": "า"
       },
       {
         "token": "ม",
-        "startTime": 73213,
-        "endTime": 73290,
+        "startTime": 72407,
+        "endTime": 72470,
         "pinyin": "m"
       },
       {
         "token": "า",
-        "startTime": 73290,
-        "endTime": 73367,
+        "startTime": 72470,
+        "endTime": 72533,
         "pinyin": "า"
       },
       {
         "token": "ร",
-        "startTime": 73367,
-        "endTime": 73443,
+        "startTime": 72533,
+        "endTime": 72597,
         "pinyin": "r"
       },
       {
         "token": "ถ",
-        "startTime": 73443,
-        "endTime": 73520,
+        "startTime": 72597,
+        "endTime": 72660,
         "pinyin": "th"
       },
       {
         "token": "ผ",
-        "startTime": 73520,
-        "endTime": 73591,
+        "startTime": 72660,
+        "endTime": 72740,
         "pinyin": "ph"
       },
       {
         "token": "ล",
-        "startTime": 73591,
-        "endTime": 73663,
+        "startTime": 72740,
+        "endTime": 72820,
         "pinyin": "l"
       },
       {
         "token": "ั",
-        "startTime": 73663,
-        "endTime": 73734,
+        "startTime": 72820,
+        "endTime": 72900,
         "pinyin": "ั"
       },
       {
         "token": "ก",
-        "startTime": 73734,
-        "endTime": 73806,
+        "startTime": 72900,
+        "endTime": 72980,
         "pinyin": "k"
       },
       {
         "token": "ด",
-        "startTime": 73806,
-        "endTime": 73877,
+        "startTime": 72980,
+        "endTime": 73060,
         "pinyin": "d"
       },
       {
         "token": "ั",
-        "startTime": 73877,
-        "endTime": 73949,
+        "startTime": 73060,
+        "endTime": 73140,
         "pinyin": "ั"
       },
       {
         "token": "น",
-        "startTime": 73949,
-        "endTime": 74020,
+        "startTime": 73140,
+        "endTime": 73220,
         "pinyin": "n"
       },
       {
         "token": "ก",
-        "startTime": 74020,
-        "endTime": 74107,
+        "startTime": 73220,
+        "endTime": 73297,
         "pinyin": "k"
       },
       {
         "token": "ฎ",
-        "startTime": 74107,
-        "endTime": 74193,
+        "startTime": 73297,
+        "endTime": 73373,
         "pinyin": "d"
       },
       {
         "token": "ห",
-        "startTime": 74193,
-        "endTime": 74280,
+        "startTime": 73373,
+        "endTime": 73450,
         "pinyin": "ห"
       },
       {
         "token": "ม",
-        "startTime": 74280,
-        "endTime": 74367,
+        "startTime": 73450,
+        "endTime": 73527,
         "pinyin": "m"
       },
       {
         "token": "า",
-        "startTime": 74367,
-        "endTime": 74453,
+        "startTime": 73527,
+        "endTime": 73603,
         "pinyin": "า"
       },
       {
         "token": "ย",
-        "startTime": 74453,
-        "endTime": 74540,
+        "startTime": 73603,
+        "endTime": 73680,
         "pinyin": "y"
       },
       {
-        "token": "ช",
-        "startTime": 74540,
-        "endTime": 74610,
+        "token": "ฉ",
+        "startTime": 73680,
+        "endTime": 73755,
         "pinyin": "ch"
       },
       {
         "token": "บ",
-        "startTime": 74610,
-        "endTime": 74680,
+        "startTime": 73755,
+        "endTime": 73830,
         "pinyin": "b"
       },
       {
         "token": "ั",
-        "startTime": 74680,
-        "endTime": 74750,
+        "startTime": 73830,
+        "endTime": 73905,
         "pinyin": "ั"
       },
       {
         "token": "บ",
-        "startTime": 74750,
-        "endTime": 74820,
+        "startTime": 73905,
+        "endTime": 73980,
         "pinyin": "b"
       },
       {
         "token": "น",
-        "startTime": 74820,
-        "endTime": 74980,
+        "startTime": 73980,
+        "endTime": 74053,
         "pinyin": "n"
       },
       {
         "token": "ี",
-        "startTime": 74980,
-        "endTime": 75140,
+        "startTime": 74053,
+        "endTime": 74127,
         "pinyin": "ี"
       },
       {
         "token": "้",
-        "startTime": 75140,
-        "endTime": 75300,
+        "startTime": 74127,
+        "endTime": 74200,
         "pinyin": "้"
       },
       {
         "token": "อ",
-        "startTime": 75300,
-        "endTime": 75312,
+        "startTime": 74200,
+        "endTime": 74264,
         "pinyin": "อ"
       },
       {
         "token": "อ",
-        "startTime": 75312,
-        "endTime": 75324,
+        "startTime": 74264,
+        "endTime": 74328,
         "pinyin": "อ"
       },
       {
         "token": "ก",
-        "startTime": 75324,
-        "endTime": 75336,
+        "startTime": 74328,
+        "endTime": 74392,
         "pinyin": "k"
       },
       {
         "token": "ม",
-        "startTime": 75336,
-        "endTime": 75348,
+        "startTime": 74392,
+        "endTime": 74456,
         "pinyin": "m"
       },
       {
         "token": "า",
-        "startTime": 75348,
-        "endTime": 75360,
+        "startTime": 74456,
+        "endTime": 74520,
         "pinyin": "า"
       },
       {
         "token": "ไ",
-        "startTime": 75360,
-        "endTime": 75427,
+        "startTime": 74520,
+        "endTime": 74593,
         "pinyin": "ไ"
       },
       {
         "token": "ด",
-        "startTime": 75427,
-        "endTime": 75493,
+        "startTime": 74593,
+        "endTime": 74667,
         "pinyin": "d"
       },
       {
         "token": "้",
-        "startTime": 75493,
-        "endTime": 75560,
+        "startTime": 74667,
+        "endTime": 74740,
         "pinyin": "้"
-      },
-      {
-        "token": "ส",
-        "startTime": 75560,
-        "endTime": 75657,
-        "pinyin": "s"
-      },
-      {
-        "token": "ำ",
-        "startTime": 75657,
-        "endTime": 75753,
-        "pinyin": "ำ"
       }
     ]
   },
   {
-    "sentence_text": "เร็จ",
-    "translations": {},
+    "sentence_text": "สัง เร็จ นึง จา กว่า คน ที่ ได้รับ ประ โย ติ มี ทั้ง กลุ่ม",
+    "translations": {
+      "en": "Notice that those who benefit include groups"
+    },
     "segments": [
       {
+        "token": "ส",
+        "startTime": 74740,
+        "endTime": 74767,
+        "pinyin": "s"
+      },
+      {
+        "token": "ั",
+        "startTime": 74767,
+        "endTime": 74793,
+        "pinyin": "ั"
+      },
+      {
+        "token": "ง",
+        "startTime": 74793,
+        "endTime": 74820,
+        "pinyin": "ng"
+      },
+      {
         "token": "เ",
-        "startTime": 75753,
-        "endTime": 75850,
+        "startTime": 74820,
+        "endTime": 74950,
         "pinyin": "เ"
       },
       {
         "token": "ร",
-        "startTime": 75850,
-        "endTime": 75947,
+        "startTime": 74950,
+        "endTime": 75080,
         "pinyin": "r"
       },
       {
         "token": "็",
-        "startTime": 75947,
-        "endTime": 76043,
+        "startTime": 75080,
+        "endTime": 75210,
         "pinyin": "็"
       },
       {
         "token": "จ",
-        "startTime": 76043,
-        "endTime": 76140,
+        "startTime": 75210,
+        "endTime": 75340,
         "pinyin": "ch"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เนื่องจากว่า คน ที่ ได้รับ ระ โยชน์",
-    "translations": {
-      "en": "Because those who benefit"
-    },
-    "segments": [
-      {
-        "token": "เ",
-        "startTime": 76140,
-        "endTime": 76212,
-        "pinyin": "เ"
       },
       {
         "token": "น",
-        "startTime": 76212,
-        "endTime": 76283,
+        "startTime": 75340,
+        "endTime": 75413,
         "pinyin": "n"
       },
       {
-        "token": "ื",
-        "startTime": 76283,
-        "endTime": 76355,
-        "pinyin": "ื"
-      },
-      {
-        "token": "่",
-        "startTime": 76355,
-        "endTime": 76427,
-        "pinyin": "่"
-      },
-      {
-        "token": "อ",
-        "startTime": 76427,
-        "endTime": 76498,
-        "pinyin": "อ"
+        "token": "ึ",
+        "startTime": 75413,
+        "endTime": 75487,
+        "pinyin": "ึ"
       },
       {
         "token": "ง",
-        "startTime": 76498,
-        "endTime": 76570,
+        "startTime": 75487,
+        "endTime": 75560,
         "pinyin": "ng"
       },
       {
         "token": "จ",
-        "startTime": 76570,
-        "endTime": 76642,
+        "startTime": 75560,
+        "endTime": 75640,
         "pinyin": "ch"
       },
       {
         "token": "า",
-        "startTime": 76642,
-        "endTime": 76713,
+        "startTime": 75640,
+        "endTime": 75720,
         "pinyin": "า"
       },
       {
         "token": "ก",
-        "startTime": 76713,
-        "endTime": 76785,
+        "startTime": 75720,
+        "endTime": 75825,
         "pinyin": "k"
       },
       {
         "token": "ว",
-        "startTime": 76785,
-        "endTime": 76857,
+        "startTime": 75825,
+        "endTime": 75930,
         "pinyin": "w"
       },
       {
         "token": "่",
-        "startTime": 76857,
-        "endTime": 76928,
+        "startTime": 75930,
+        "endTime": 76035,
         "pinyin": "่"
       },
       {
         "token": "า",
-        "startTime": 76928,
-        "endTime": 77000,
+        "startTime": 76035,
+        "endTime": 76140,
         "pinyin": "า"
       },
       {
         "token": "ค",
-        "startTime": 77000,
-        "endTime": 77070,
+        "startTime": 76140,
+        "endTime": 76190,
         "pinyin": "kh"
       },
       {
         "token": "น",
-        "startTime": 77070,
-        "endTime": 77140,
+        "startTime": 76190,
+        "endTime": 76240,
         "pinyin": "n"
       },
       {
         "token": "ท",
-        "startTime": 77140,
-        "endTime": 77213,
+        "startTime": 76240,
+        "endTime": 76300,
         "pinyin": "th"
       },
       {
         "token": "ี",
-        "startTime": 77213,
-        "endTime": 77287,
+        "startTime": 76300,
+        "endTime": 76360,
         "pinyin": "ี"
       },
       {
         "token": "่",
-        "startTime": 77287,
-        "endTime": 77360,
+        "startTime": 76360,
+        "endTime": 76420,
         "pinyin": "่"
       },
       {
         "token": "ไ",
-        "startTime": 77360,
-        "endTime": 77430,
+        "startTime": 76420,
+        "endTime": 76503,
         "pinyin": "ไ"
       },
       {
         "token": "ด",
-        "startTime": 77430,
-        "endTime": 77500,
+        "startTime": 76503,
+        "endTime": 76587,
         "pinyin": "d"
       },
       {
         "token": "้",
-        "startTime": 77500,
-        "endTime": 77570,
+        "startTime": 76587,
+        "endTime": 76670,
         "pinyin": "้"
       },
       {
         "token": "ร",
-        "startTime": 77570,
-        "endTime": 77640,
+        "startTime": 76670,
+        "endTime": 76753,
         "pinyin": "r"
       },
       {
         "token": "ั",
-        "startTime": 77640,
-        "endTime": 77710,
+        "startTime": 76753,
+        "endTime": 76837,
         "pinyin": "ั"
       },
       {
         "token": "บ",
-        "startTime": 77710,
-        "endTime": 77780,
+        "startTime": 76837,
+        "endTime": 76920,
         "pinyin": "b"
       },
       {
+        "token": "ป",
+        "startTime": 76920,
+        "endTime": 76987,
+        "pinyin": "p"
+      },
+      {
         "token": "ร",
-        "startTime": 77780,
-        "endTime": 77800,
+        "startTime": 76987,
+        "endTime": 77053,
         "pinyin": "r"
       },
       {
         "token": "ะ",
-        "startTime": 77800,
-        "endTime": 77820,
+        "startTime": 77053,
+        "endTime": 77120,
         "pinyin": "ะ"
       },
       {
         "token": "โ",
-        "startTime": 77820,
-        "endTime": 77892,
+        "startTime": 77120,
+        "endTime": 77220,
         "pinyin": "โ"
       },
       {
         "token": "ย",
-        "startTime": 77892,
-        "endTime": 77964,
+        "startTime": 77220,
+        "endTime": 77320,
         "pinyin": "y"
       },
       {
-        "token": "ช",
-        "startTime": 77964,
-        "endTime": 78036,
-        "pinyin": "ch"
+        "token": "ต",
+        "startTime": 77320,
+        "endTime": 77400,
+        "pinyin": "t"
       },
       {
-        "token": "น",
-        "startTime": 78036,
-        "endTime": 78108,
-        "pinyin": "n"
+        "token": "ิ",
+        "startTime": 77400,
+        "endTime": 77480,
+        "pinyin": "ิ"
       },
-      {
-        "token": "์",
-        "startTime": 78108,
-        "endTime": 78180,
-        "pinyin": "์"
-      }
-    ]
-  },
-  {
-    "sentence_text": "มี ทั้ง กลุ่ม ที่ ผิดพลาด หล่ม ผิด",
-    "translations": {
-      "en": "include both those who made mistakes and those who erred."
-    },
-    "segments": [
       {
         "token": "ม",
-        "startTime": 78180,
-        "endTime": 78200,
+        "startTime": 77480,
+        "endTime": 77520,
         "pinyin": "m"
       },
       {
         "token": "ี",
-        "startTime": 78200,
-        "endTime": 78220,
+        "startTime": 77520,
+        "endTime": 77560,
         "pinyin": "ี"
       },
       {
         "token": "ท",
-        "startTime": 78220,
-        "endTime": 78330,
+        "startTime": 77560,
+        "endTime": 77620,
         "pinyin": "th"
       },
       {
         "token": "ั",
-        "startTime": 78330,
-        "endTime": 78440,
+        "startTime": 77620,
+        "endTime": 77680,
         "pinyin": "ั"
       },
       {
         "token": "้",
-        "startTime": 78440,
-        "endTime": 78550,
+        "startTime": 77680,
+        "endTime": 77740,
         "pinyin": "้"
       },
       {
         "token": "ง",
-        "startTime": 78550,
-        "endTime": 78660,
+        "startTime": 77740,
+        "endTime": 77800,
         "pinyin": "ng"
       },
       {
         "token": "ก",
-        "startTime": 78660,
-        "endTime": 78776,
+        "startTime": 77800,
+        "endTime": 77852,
         "pinyin": "k"
       },
       {
         "token": "ล",
-        "startTime": 78776,
-        "endTime": 78892,
+        "startTime": 77852,
+        "endTime": 77904,
         "pinyin": "l"
       },
       {
         "token": "ุ",
-        "startTime": 78892,
-        "endTime": 79008,
+        "startTime": 77904,
+        "endTime": 77956,
         "pinyin": "ุ"
       },
       {
         "token": "่",
-        "startTime": 79008,
-        "endTime": 79124,
+        "startTime": 77956,
+        "endTime": 78008,
         "pinyin": "่"
       },
       {
         "token": "ม",
-        "startTime": 79124,
-        "endTime": 79240,
+        "startTime": 78008,
+        "endTime": 78060,
         "pinyin": "m"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ที่ ผิด พ ล้า ด หลงผิด",
+    "translations": {
+      "en": "who have made mistakes or been misled."
+    },
+    "segments": [
       {
         "token": "ท",
-        "startTime": 79240,
-        "endTime": 79427,
+        "startTime": 78060,
+        "endTime": 78113,
         "pinyin": "th"
       },
       {
         "token": "ี",
-        "startTime": 79427,
-        "endTime": 79613,
+        "startTime": 78113,
+        "endTime": 78167,
         "pinyin": "ี"
       },
       {
         "token": "่",
-        "startTime": 79613,
-        "endTime": 79800,
+        "startTime": 78167,
+        "endTime": 78220,
         "pinyin": "่"
       },
       {
         "token": "ผ",
-        "startTime": 79800,
-        "endTime": 79849,
+        "startTime": 78220,
+        "endTime": 78347,
         "pinyin": "ph"
       },
       {
         "token": "ิ",
-        "startTime": 79849,
-        "endTime": 79897,
+        "startTime": 78347,
+        "endTime": 78473,
         "pinyin": "ิ"
       },
       {
         "token": "ด",
-        "startTime": 79897,
-        "endTime": 79946,
+        "startTime": 78473,
+        "endTime": 78600,
         "pinyin": "d"
       },
       {
         "token": "พ",
-        "startTime": 79946,
-        "endTime": 79994,
+        "startTime": 78600,
+        "endTime": 78660,
         "pinyin": "ph"
       },
       {
         "token": "ล",
-        "startTime": 79994,
-        "endTime": 80043,
+        "startTime": 78660,
+        "endTime": 78767,
         "pinyin": "l"
       },
       {
+        "token": "้",
+        "startTime": 78767,
+        "endTime": 78873,
+        "pinyin": "้"
+      },
+      {
         "token": "า",
-        "startTime": 80043,
-        "endTime": 80091,
+        "startTime": 78873,
+        "endTime": 78980,
         "pinyin": "า"
       },
       {
         "token": "ด",
-        "startTime": 80091,
-        "endTime": 80140,
+        "startTime": 78980,
+        "endTime": 79000,
         "pinyin": "d"
       },
       {
         "token": "ห",
-        "startTime": 80140,
-        "endTime": 80210,
+        "startTime": 79000,
+        "endTime": 79150,
         "pinyin": "ห"
       },
       {
         "token": "ล",
-        "startTime": 80210,
-        "endTime": 80280,
+        "startTime": 79150,
+        "endTime": 79300,
         "pinyin": "l"
       },
       {
-        "token": "่",
-        "startTime": 80280,
-        "endTime": 80350,
-        "pinyin": "่"
-      },
-      {
-        "token": "ม",
-        "startTime": 80350,
-        "endTime": 80420,
-        "pinyin": "m"
+        "token": "ง",
+        "startTime": 79300,
+        "endTime": 79450,
+        "pinyin": "ng"
       },
       {
         "token": "ผ",
-        "startTime": 80420,
-        "endTime": 80467,
+        "startTime": 79450,
+        "endTime": 79600,
         "pinyin": "ph"
       },
       {
         "token": "ิ",
-        "startTime": 80467,
-        "endTime": 80513,
+        "startTime": 79600,
+        "endTime": 79750,
         "pinyin": "ิ"
       },
       {
         "token": "ด",
-        "startTime": 80513,
-        "endTime": 80560,
+        "startTime": 79750,
+        "endTime": 79900,
         "pinyin": "d"
       }
     ]
   },
   {
-    "sentence_text": "เพราะ กฎหมาย นี้ ออกมา แล้ว",
+    "sentence_text": "พ่อ กฎหมาย นี้ ออกมา แล้วก็ จะ เป็นการ เปิดโอกาส ให้ ค",
     "translations": {
-      "en": "Once this law is enacted,"
+      "en": "When this law is enacted, it will open opportunities for"
     },
     "segments": [
       {
-        "token": "เ",
-        "startTime": 80560,
-        "endTime": 80644,
-        "pinyin": "เ"
-      },
-      {
         "token": "พ",
-        "startTime": 80644,
-        "endTime": 80728,
+        "startTime": 79900,
+        "endTime": 79980,
         "pinyin": "ph"
       },
       {
-        "token": "ร",
-        "startTime": 80728,
-        "endTime": 80812,
-        "pinyin": "r"
+        "token": "่",
+        "startTime": 79980,
+        "endTime": 80060,
+        "pinyin": "่"
       },
       {
-        "token": "า",
-        "startTime": 80812,
-        "endTime": 80896,
-        "pinyin": "า"
-      },
-      {
-        "token": "ะ",
-        "startTime": 80896,
-        "endTime": 80980,
-        "pinyin": "ะ"
+        "token": "อ",
+        "startTime": 80060,
+        "endTime": 80140,
+        "pinyin": "อ"
       },
       {
         "token": "ก",
-        "startTime": 80980,
-        "endTime": 81037,
+        "startTime": 80140,
+        "endTime": 80207,
         "pinyin": "k"
       },
       {
         "token": "ฎ",
-        "startTime": 81037,
-        "endTime": 81093,
+        "startTime": 80207,
+        "endTime": 80273,
         "pinyin": "d"
       },
       {
         "token": "ห",
-        "startTime": 81093,
-        "endTime": 81150,
+        "startTime": 80273,
+        "endTime": 80340,
         "pinyin": "ห"
       },
       {
         "token": "ม",
-        "startTime": 81150,
-        "endTime": 81207,
+        "startTime": 80340,
+        "endTime": 80407,
         "pinyin": "m"
       },
       {
         "token": "า",
-        "startTime": 81207,
-        "endTime": 81263,
+        "startTime": 80407,
+        "endTime": 80473,
         "pinyin": "า"
       },
       {
         "token": "ย",
-        "startTime": 81263,
-        "endTime": 81320,
+        "startTime": 80473,
+        "endTime": 80540,
         "pinyin": "y"
       },
       {
         "token": "น",
-        "startTime": 81320,
-        "endTime": 81387,
+        "startTime": 80540,
+        "endTime": 80613,
         "pinyin": "n"
       },
       {
         "token": "ี",
-        "startTime": 81387,
-        "endTime": 81453,
+        "startTime": 80613,
+        "endTime": 80687,
         "pinyin": "ี"
       },
       {
         "token": "้",
-        "startTime": 81453,
-        "endTime": 81520,
+        "startTime": 80687,
+        "endTime": 80760,
         "pinyin": "้"
       },
       {
         "token": "อ",
-        "startTime": 81520,
-        "endTime": 81584,
+        "startTime": 80760,
+        "endTime": 80808,
         "pinyin": "อ"
       },
       {
         "token": "อ",
-        "startTime": 81584,
-        "endTime": 81648,
+        "startTime": 80808,
+        "endTime": 80856,
         "pinyin": "อ"
       },
       {
         "token": "ก",
-        "startTime": 81648,
-        "endTime": 81712,
+        "startTime": 80856,
+        "endTime": 80904,
         "pinyin": "k"
       },
       {
         "token": "ม",
-        "startTime": 81712,
-        "endTime": 81776,
+        "startTime": 80904,
+        "endTime": 80952,
         "pinyin": "m"
       },
       {
         "token": "า",
-        "startTime": 81776,
-        "endTime": 81840,
+        "startTime": 80952,
+        "endTime": 81000,
         "pinyin": "า"
       },
       {
         "token": "แ",
-        "startTime": 81840,
-        "endTime": 81903,
+        "startTime": 81000,
+        "endTime": 81057,
         "pinyin": "แ"
       },
       {
         "token": "ล",
-        "startTime": 81903,
-        "endTime": 81967,
+        "startTime": 81057,
+        "endTime": 81113,
         "pinyin": "l"
       },
       {
         "token": "้",
-        "startTime": 81967,
-        "endTime": 82030,
+        "startTime": 81113,
+        "endTime": 81170,
         "pinyin": "้"
       },
       {
         "token": "ว",
-        "startTime": 82030,
-        "endTime": 82093,
+        "startTime": 81170,
+        "endTime": 81227,
         "pinyin": "w"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ก็ จะ เป็นการ เปิดโอกาส ให้ คน เหล่านี้",
-    "translations": {
-      "en": "it will open opportunities for these people"
-    },
-    "segments": [
+      },
       {
         "token": "ก",
-        "startTime": 82093,
-        "endTime": 82157,
+        "startTime": 81227,
+        "endTime": 81283,
         "pinyin": "k"
       },
       {
         "token": "็",
-        "startTime": 82157,
-        "endTime": 82220,
+        "startTime": 81283,
+        "endTime": 81340,
         "pinyin": "็"
       },
       {
         "token": "จ",
-        "startTime": 82220,
-        "endTime": 82490,
+        "startTime": 81340,
+        "endTime": 81430,
         "pinyin": "ch"
       },
       {
         "token": "ะ",
-        "startTime": 82490,
-        "endTime": 82760,
+        "startTime": 81430,
+        "endTime": 81520,
         "pinyin": "ะ"
       },
       {
         "token": "เ",
-        "startTime": 82760,
-        "endTime": 82820,
+        "startTime": 81520,
+        "endTime": 81603,
         "pinyin": "เ"
       },
       {
         "token": "ป",
-        "startTime": 82820,
-        "endTime": 82880,
+        "startTime": 81603,
+        "endTime": 81686,
         "pinyin": "p"
       },
       {
         "token": "็",
-        "startTime": 82880,
-        "endTime": 82940,
+        "startTime": 81686,
+        "endTime": 81769,
         "pinyin": "็"
       },
       {
         "token": "น",
-        "startTime": 82940,
-        "endTime": 83000,
+        "startTime": 81769,
+        "endTime": 81851,
         "pinyin": "n"
       },
       {
         "token": "ก",
-        "startTime": 83000,
-        "endTime": 83060,
+        "startTime": 81851,
+        "endTime": 81934,
         "pinyin": "k"
       },
       {
         "token": "า",
-        "startTime": 83060,
-        "endTime": 83120,
+        "startTime": 81934,
+        "endTime": 82017,
         "pinyin": "า"
       },
       {
         "token": "ร",
-        "startTime": 83120,
-        "endTime": 83180,
+        "startTime": 82017,
+        "endTime": 82100,
         "pinyin": "r"
       },
       {
         "token": "เ",
-        "startTime": 83180,
-        "endTime": 83251,
+        "startTime": 82100,
+        "endTime": 82200,
         "pinyin": "เ"
       },
       {
         "token": "ป",
-        "startTime": 83251,
-        "endTime": 83322,
+        "startTime": 82200,
+        "endTime": 82300,
         "pinyin": "p"
       },
       {
         "token": "ิ",
-        "startTime": 83322,
-        "endTime": 83393,
+        "startTime": 82300,
+        "endTime": 82400,
         "pinyin": "ิ"
       },
       {
         "token": "ด",
-        "startTime": 83393,
-        "endTime": 83464,
+        "startTime": 82400,
+        "endTime": 82500,
         "pinyin": "d"
       },
       {
         "token": "โ",
-        "startTime": 83464,
-        "endTime": 83536,
+        "startTime": 82500,
+        "endTime": 82600,
         "pinyin": "โ"
       },
       {
         "token": "อ",
-        "startTime": 83536,
-        "endTime": 83607,
+        "startTime": 82600,
+        "endTime": 82700,
         "pinyin": "อ"
       },
       {
         "token": "ก",
-        "startTime": 83607,
-        "endTime": 83678,
+        "startTime": 82700,
+        "endTime": 82800,
         "pinyin": "k"
       },
       {
         "token": "า",
-        "startTime": 83678,
-        "endTime": 83749,
+        "startTime": 82800,
+        "endTime": 82900,
         "pinyin": "า"
       },
       {
         "token": "ส",
-        "startTime": 83749,
-        "endTime": 83820,
+        "startTime": 82900,
+        "endTime": 83000,
         "pinyin": "s"
       },
       {
         "token": "ใ",
-        "startTime": 83820,
-        "endTime": 83873,
+        "startTime": 83000,
+        "endTime": 83053,
         "pinyin": "ใ"
       },
       {
         "token": "ห",
-        "startTime": 83873,
-        "endTime": 83927,
+        "startTime": 83053,
+        "endTime": 83107,
         "pinyin": "ห"
       },
       {
         "token": "้",
-        "startTime": 83927,
-        "endTime": 83980,
+        "startTime": 83107,
+        "endTime": 83160,
         "pinyin": "้"
       },
       {
         "token": "ค",
-        "startTime": 83980,
-        "endTime": 84060,
+        "startTime": 83160,
+        "endTime": 83190,
         "pinyin": "kh"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "น เหล่านี้",
+    "translations": {
+      "en": "these people"
+    },
+    "segments": [
       {
         "token": "น",
-        "startTime": 84060,
-        "endTime": 84140,
+        "startTime": 83190,
+        "endTime": 83220,
         "pinyin": "n"
       },
       {
         "token": "เ",
-        "startTime": 84140,
-        "endTime": 84245,
+        "startTime": 83220,
+        "endTime": 83298,
         "pinyin": "เ"
       },
       {
         "token": "ห",
-        "startTime": 84245,
-        "endTime": 84350,
+        "startTime": 83298,
+        "endTime": 83375,
         "pinyin": "ห"
       },
       {
         "token": "ล",
-        "startTime": 84350,
-        "endTime": 84455,
+        "startTime": 83375,
+        "endTime": 83453,
         "pinyin": "l"
       },
       {
         "token": "่",
-        "startTime": 84455,
-        "endTime": 84560,
+        "startTime": 83453,
+        "endTime": 83530,
         "pinyin": "่"
       },
       {
         "token": "า",
-        "startTime": 84560,
-        "endTime": 84665,
+        "startTime": 83530,
+        "endTime": 83608,
         "pinyin": "า"
       },
       {
         "token": "น",
-        "startTime": 84665,
-        "endTime": 84770,
+        "startTime": 83608,
+        "endTime": 83685,
         "pinyin": "n"
       },
       {
         "token": "ี",
-        "startTime": 84770,
-        "endTime": 84875,
+        "startTime": 83685,
+        "endTime": 83763,
         "pinyin": "ี"
       },
       {
         "token": "้",
-        "startTime": 84875,
-        "endTime": 84980,
+        "startTime": 83763,
+        "endTime": 83840,
         "pinyin": "้"
       }
     ]
   },
   {
-    "sentence_text": "ได้ กลับมา ใช้ชีวิต",
+    "sentence_text": "ได้ กลับมา ใช้ชีวิต สร้าง ความ ป ลอง ดอง",
     "translations": {
-      "en": "to return to their lives,"
+      "en": "to return to their lives, create harmony,"
     },
     "segments": [
       {
         "token": "ไ",
-        "startTime": 84980,
-        "endTime": 85007,
+        "startTime": 83840,
+        "endTime": 83880,
         "pinyin": "ไ"
       },
       {
         "token": "ด",
-        "startTime": 85007,
-        "endTime": 85033,
+        "startTime": 83880,
+        "endTime": 83920,
         "pinyin": "d"
       },
       {
         "token": "้",
-        "startTime": 85033,
-        "endTime": 85060,
+        "startTime": 83920,
+        "endTime": 83960,
         "pinyin": "้"
       },
       {
         "token": "ก",
-        "startTime": 85060,
-        "endTime": 85130,
+        "startTime": 83960,
+        "endTime": 84067,
         "pinyin": "k"
       },
       {
         "token": "ล",
-        "startTime": 85130,
-        "endTime": 85200,
+        "startTime": 84067,
+        "endTime": 84173,
         "pinyin": "l"
       },
       {
         "token": "ั",
-        "startTime": 85200,
-        "endTime": 85270,
+        "startTime": 84173,
+        "endTime": 84280,
         "pinyin": "ั"
       },
       {
         "token": "บ",
-        "startTime": 85270,
-        "endTime": 85340,
+        "startTime": 84280,
+        "endTime": 84387,
         "pinyin": "b"
       },
       {
         "token": "ม",
-        "startTime": 85340,
-        "endTime": 85410,
+        "startTime": 84387,
+        "endTime": 84493,
         "pinyin": "m"
       },
       {
         "token": "า",
-        "startTime": 85410,
-        "endTime": 85480,
+        "startTime": 84493,
+        "endTime": 84600,
         "pinyin": "า"
       },
       {
         "token": "ใ",
-        "startTime": 85480,
-        "endTime": 85553,
+        "startTime": 84600,
+        "endTime": 84678,
         "pinyin": "ใ"
       },
       {
         "token": "ช",
-        "startTime": 85553,
-        "endTime": 85625,
+        "startTime": 84678,
+        "endTime": 84755,
         "pinyin": "ch"
       },
       {
         "token": "้",
-        "startTime": 85625,
-        "endTime": 85698,
+        "startTime": 84755,
+        "endTime": 84833,
         "pinyin": "้"
       },
       {
         "token": "ช",
-        "startTime": 85698,
-        "endTime": 85770,
+        "startTime": 84833,
+        "endTime": 84910,
         "pinyin": "ch"
       },
       {
         "token": "ี",
-        "startTime": 85770,
-        "endTime": 85843,
+        "startTime": 84910,
+        "endTime": 84988,
         "pinyin": "ี"
       },
       {
         "token": "ว",
-        "startTime": 85843,
-        "endTime": 85915,
+        "startTime": 84988,
+        "endTime": 85065,
         "pinyin": "w"
       },
       {
         "token": "ิ",
-        "startTime": 85915,
-        "endTime": 85988,
+        "startTime": 85065,
+        "endTime": 85143,
         "pinyin": "ิ"
       },
       {
         "token": "ต",
-        "startTime": 85988,
-        "endTime": 86060,
+        "startTime": 85143,
+        "endTime": 85220,
         "pinyin": "t"
-      }
-    ]
-  },
-  {
-    "sentence_text": "สร้าง ความ ป ลอง ดอง",
-    "translations": {
-      "en": "creating harmony,"
-    },
-    "segments": [
+      },
       {
         "token": "ส",
-        "startTime": 86060,
-        "endTime": 86116,
+        "startTime": 85220,
+        "endTime": 85276,
         "pinyin": "s"
       },
       {
         "token": "ร",
-        "startTime": 86116,
-        "endTime": 86172,
+        "startTime": 85276,
+        "endTime": 85332,
         "pinyin": "r"
       },
       {
         "token": "้",
-        "startTime": 86172,
-        "endTime": 86228,
+        "startTime": 85332,
+        "endTime": 85388,
         "pinyin": "้"
       },
       {
         "token": "า",
-        "startTime": 86228,
-        "endTime": 86284,
+        "startTime": 85388,
+        "endTime": 85444,
         "pinyin": "า"
       },
       {
         "token": "ง",
-        "startTime": 86284,
-        "endTime": 86340,
+        "startTime": 85444,
+        "endTime": 85500,
         "pinyin": "ng"
       },
       {
         "token": "ค",
-        "startTime": 86340,
-        "endTime": 86410,
+        "startTime": 85500,
+        "endTime": 85615,
         "pinyin": "kh"
       },
       {
         "token": "ว",
-        "startTime": 86410,
-        "endTime": 86480,
+        "startTime": 85615,
+        "endTime": 85730,
         "pinyin": "w"
       },
       {
         "token": "า",
-        "startTime": 86480,
-        "endTime": 86550,
+        "startTime": 85730,
+        "endTime": 85845,
         "pinyin": "า"
       },
       {
         "token": "ม",
-        "startTime": 86550,
-        "endTime": 86620,
+        "startTime": 85845,
+        "endTime": 85960,
         "pinyin": "m"
       },
       {
         "token": "ป",
-        "startTime": 86620,
-        "endTime": 86700,
+        "startTime": 85960,
+        "endTime": 85980,
         "pinyin": "p"
       },
       {
         "token": "ล",
-        "startTime": 86700,
-        "endTime": 86767,
+        "startTime": 85980,
+        "endTime": 86013,
         "pinyin": "l"
       },
       {
         "token": "อ",
-        "startTime": 86767,
-        "endTime": 86833,
+        "startTime": 86013,
+        "endTime": 86047,
         "pinyin": "อ"
       },
       {
         "token": "ง",
-        "startTime": 86833,
-        "endTime": 86900,
+        "startTime": 86047,
+        "endTime": 86080,
         "pinyin": "ng"
       },
       {
         "token": "ด",
-        "startTime": 86900,
-        "endTime": 87060,
+        "startTime": 86080,
+        "endTime": 86167,
         "pinyin": "d"
       },
       {
         "token": "อ",
-        "startTime": 87060,
-        "endTime": 87220,
+        "startTime": 86167,
+        "endTime": 86253,
         "pinyin": "อ"
       },
       {
         "token": "ง",
-        "startTime": 87220,
-        "endTime": 87380,
+        "startTime": 86253,
+        "endTime": 86340,
         "pinyin": "ng"
       }
     ]
   },
   {
-    "sentence_text": "สร้าง ความสามารถ คี ให้ เกิดขึ้น ภายใน ชาตย์",
+    "sentence_text": "สร้าง ความ สา มา คี ให้ เกิดขึ้น ภายใน ชาติ",
     "translations": {
-      "en": "and fostering capability within the nation,"
+      "en": "and build unity within the nation."
     },
     "segments": [
       {
         "token": "ส",
-        "startTime": 87380,
-        "endTime": 87460,
+        "startTime": 86340,
+        "endTime": 86412,
         "pinyin": "s"
       },
       {
         "token": "ร",
-        "startTime": 87460,
-        "endTime": 87540,
+        "startTime": 86412,
+        "endTime": 86484,
         "pinyin": "r"
       },
       {
         "token": "้",
-        "startTime": 87540,
-        "endTime": 87620,
+        "startTime": 86484,
+        "endTime": 86556,
         "pinyin": "้"
       },
       {
         "token": "า",
-        "startTime": 87620,
-        "endTime": 87700,
+        "startTime": 86556,
+        "endTime": 86628,
         "pinyin": "า"
       },
       {
         "token": "ง",
-        "startTime": 87700,
-        "endTime": 87780,
+        "startTime": 86628,
+        "endTime": 86700,
         "pinyin": "ng"
       },
       {
         "token": "ค",
-        "startTime": 87780,
-        "endTime": 87864,
+        "startTime": 86700,
+        "endTime": 86875,
         "pinyin": "kh"
       },
       {
         "token": "ว",
-        "startTime": 87864,
-        "endTime": 87948,
+        "startTime": 86875,
+        "endTime": 87050,
         "pinyin": "w"
       },
       {
         "token": "า",
-        "startTime": 87948,
-        "endTime": 88032,
+        "startTime": 87050,
+        "endTime": 87225,
         "pinyin": "า"
       },
       {
         "token": "ม",
-        "startTime": 88032,
-        "endTime": 88116,
+        "startTime": 87225,
+        "endTime": 87400,
         "pinyin": "m"
       },
       {
         "token": "ส",
-        "startTime": 88116,
-        "endTime": 88200,
+        "startTime": 87400,
+        "endTime": 87460,
         "pinyin": "s"
       },
       {
         "token": "า",
-        "startTime": 88200,
-        "endTime": 88284,
+        "startTime": 87460,
+        "endTime": 87520,
         "pinyin": "า"
       },
       {
         "token": "ม",
-        "startTime": 88284,
-        "endTime": 88368,
+        "startTime": 87520,
+        "endTime": 87570,
         "pinyin": "m"
       },
       {
         "token": "า",
-        "startTime": 88368,
-        "endTime": 88452,
+        "startTime": 87570,
+        "endTime": 87620,
         "pinyin": "า"
       },
       {
-        "token": "ร",
-        "startTime": 88452,
-        "endTime": 88536,
-        "pinyin": "r"
-      },
-      {
-        "token": "ถ",
-        "startTime": 88536,
-        "endTime": 88620,
-        "pinyin": "th"
-      },
-      {
         "token": "ค",
-        "startTime": 88620,
-        "endTime": 88650,
+        "startTime": 87620,
+        "endTime": 87740,
         "pinyin": "kh"
       },
       {
         "token": "ี",
-        "startTime": 88650,
-        "endTime": 88680,
+        "startTime": 87740,
+        "endTime": 87860,
         "pinyin": "ี"
       },
       {
         "token": "ใ",
-        "startTime": 88680,
-        "endTime": 88847,
+        "startTime": 87860,
+        "endTime": 87933,
         "pinyin": "ใ"
       },
       {
         "token": "ห",
-        "startTime": 88847,
-        "endTime": 89013,
+        "startTime": 87933,
+        "endTime": 88007,
         "pinyin": "ห"
       },
       {
         "token": "้",
-        "startTime": 89013,
-        "endTime": 89180,
+        "startTime": 88007,
+        "endTime": 88080,
         "pinyin": "้"
       },
       {
         "token": "เ",
-        "startTime": 89180,
-        "endTime": 89240,
+        "startTime": 88080,
+        "endTime": 88200,
         "pinyin": "เ"
       },
       {
         "token": "ก",
-        "startTime": 89240,
-        "endTime": 89300,
+        "startTime": 88200,
+        "endTime": 88320,
         "pinyin": "k"
       },
       {
         "token": "ิ",
-        "startTime": 89300,
-        "endTime": 89360,
+        "startTime": 88320,
+        "endTime": 88440,
         "pinyin": "ิ"
       },
       {
         "token": "ด",
-        "startTime": 89360,
-        "endTime": 89420,
+        "startTime": 88440,
+        "endTime": 88560,
         "pinyin": "d"
       },
       {
         "token": "ข",
-        "startTime": 89420,
-        "endTime": 89480,
+        "startTime": 88560,
+        "endTime": 88680,
         "pinyin": "kh"
       },
       {
         "token": "ึ",
-        "startTime": 89480,
-        "endTime": 89540,
+        "startTime": 88680,
+        "endTime": 88800,
         "pinyin": "ึ"
       },
       {
         "token": "้",
-        "startTime": 89540,
-        "endTime": 89600,
+        "startTime": 88800,
+        "endTime": 88920,
         "pinyin": "้"
       },
       {
         "token": "น",
-        "startTime": 89600,
-        "endTime": 89660,
+        "startTime": 88920,
+        "endTime": 89040,
         "pinyin": "n"
       },
       {
         "token": "ภ",
+        "startTime": 89040,
+        "endTime": 89084,
+        "pinyin": "ph"
+      },
+      {
+        "token": "า",
+        "startTime": 89084,
+        "endTime": 89128,
+        "pinyin": "า"
+      },
+      {
+        "token": "ย",
+        "startTime": 89128,
+        "endTime": 89172,
+        "pinyin": "y"
+      },
+      {
+        "token": "ใ",
+        "startTime": 89172,
+        "endTime": 89216,
+        "pinyin": "ใ"
+      },
+      {
+        "token": "น",
+        "startTime": 89216,
+        "endTime": 89260,
+        "pinyin": "n"
+      },
+      {
+        "token": "ช",
+        "startTime": 89260,
+        "endTime": 89345,
+        "pinyin": "ch"
+      },
+      {
+        "token": "า",
+        "startTime": 89345,
+        "endTime": 89430,
+        "pinyin": "า"
+      },
+      {
+        "token": "ต",
+        "startTime": 89430,
+        "endTime": 89515,
+        "pinyin": "t"
+      },
+      {
+        "token": "ิ",
+        "startTime": 89515,
+        "endTime": 89600,
+        "pinyin": "ิ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "เพราะ เขา ก็ จะ ได้ ใช้ สัก ย ภาพ ใน การพัฒนา ประเทศ ต่อ ไ ป อีกด้วย",
+    "translations": {
+      "en": "Because they will also be able to use their potential to further develop the country."
+    },
+    "segments": [
+      {
+        "token": "เ",
+        "startTime": 89600,
+        "endTime": 89660,
+        "pinyin": "เ"
+      },
+      {
+        "token": "พ",
         "startTime": 89660,
         "endTime": 89720,
         "pinyin": "ph"
       },
       {
-        "token": "า",
+        "token": "ร",
         "startTime": 89720,
         "endTime": 89780,
-        "pinyin": "า"
-      },
-      {
-        "token": "ย",
-        "startTime": 89780,
-        "endTime": 89840,
-        "pinyin": "y"
-      },
-      {
-        "token": "ใ",
-        "startTime": 89840,
-        "endTime": 89900,
-        "pinyin": "ใ"
-      },
-      {
-        "token": "น",
-        "startTime": 89900,
-        "endTime": 89960,
-        "pinyin": "n"
-      },
-      {
-        "token": "ช",
-        "startTime": 89960,
-        "endTime": 90056,
-        "pinyin": "ch"
-      },
-      {
-        "token": "า",
-        "startTime": 90056,
-        "endTime": 90152,
-        "pinyin": "า"
-      },
-      {
-        "token": "ต",
-        "startTime": 90152,
-        "endTime": 90248,
-        "pinyin": "t"
-      },
-      {
-        "token": "ย",
-        "startTime": 90248,
-        "endTime": 90344,
-        "pinyin": "y"
-      },
-      {
-        "token": "์",
-        "startTime": 90344,
-        "endTime": 90440,
-        "pinyin": "์"
-      }
-    ]
-  },
-  {
-    "sentence_text": "เพราะ เขา ก็ จะ ได้ ใช้ สัก ย ภาพ ใน การพัฒนา",
-    "translations": {
-      "en": "because they will be able to use their potential for development."
-    },
-    "segments": [
-      {
-        "token": "เ",
-        "startTime": 90440,
-        "endTime": 90544,
-        "pinyin": "เ"
-      },
-      {
-        "token": "พ",
-        "startTime": 90544,
-        "endTime": 90648,
-        "pinyin": "ph"
-      },
-      {
-        "token": "ร",
-        "startTime": 90648,
-        "endTime": 90752,
         "pinyin": "r"
       },
       {
         "token": "า",
-        "startTime": 90752,
-        "endTime": 90856,
+        "startTime": 89780,
+        "endTime": 89840,
         "pinyin": "า"
       },
       {
         "token": "ะ",
-        "startTime": 90856,
-        "endTime": 90960,
+        "startTime": 89840,
+        "endTime": 89900,
         "pinyin": "ะ"
       },
       {
         "token": "เ",
-        "startTime": 90960,
-        "endTime": 91107,
+        "startTime": 89900,
+        "endTime": 89973,
         "pinyin": "เ"
       },
       {
         "token": "ข",
-        "startTime": 91107,
-        "endTime": 91253,
+        "startTime": 89973,
+        "endTime": 90047,
         "pinyin": "kh"
       },
       {
         "token": "า",
-        "startTime": 91253,
-        "endTime": 91400,
+        "startTime": 90047,
+        "endTime": 90120,
         "pinyin": "า"
       },
       {
         "token": "ก",
-        "startTime": 91400,
-        "endTime": 91420,
+        "startTime": 90120,
+        "endTime": 90250,
         "pinyin": "k"
       },
       {
         "token": "็",
-        "startTime": 91420,
-        "endTime": 91440,
+        "startTime": 90250,
+        "endTime": 90380,
         "pinyin": "็"
       },
       {
         "token": "จ",
-        "startTime": 91440,
-        "endTime": 91550,
+        "startTime": 90380,
+        "endTime": 90420,
         "pinyin": "ch"
       },
       {
         "token": "ะ",
-        "startTime": 91550,
-        "endTime": 91660,
+        "startTime": 90420,
+        "endTime": 90460,
         "pinyin": "ะ"
       },
       {
         "token": "ไ",
-        "startTime": 91660,
-        "endTime": 91753,
+        "startTime": 90460,
+        "endTime": 90620,
         "pinyin": "ไ"
       },
       {
         "token": "ด",
-        "startTime": 91753,
-        "endTime": 91847,
+        "startTime": 90620,
+        "endTime": 90780,
         "pinyin": "d"
       },
       {
         "token": "้",
-        "startTime": 91847,
-        "endTime": 91940,
+        "startTime": 90780,
+        "endTime": 90940,
         "pinyin": "้"
       },
       {
         "token": "ใ",
-        "startTime": 91940,
-        "endTime": 92000,
+        "startTime": 90940,
+        "endTime": 91053,
         "pinyin": "ใ"
       },
       {
         "token": "ช",
-        "startTime": 92000,
-        "endTime": 92060,
+        "startTime": 91053,
+        "endTime": 91167,
         "pinyin": "ch"
       },
       {
         "token": "้",
-        "startTime": 92060,
-        "endTime": 92120,
+        "startTime": 91167,
+        "endTime": 91280,
         "pinyin": "้"
       },
       {
         "token": "ส",
-        "startTime": 92120,
-        "endTime": 92173,
+        "startTime": 91280,
+        "endTime": 91333,
         "pinyin": "s"
       },
       {
         "token": "ั",
-        "startTime": 92173,
-        "endTime": 92227,
+        "startTime": 91333,
+        "endTime": 91387,
         "pinyin": "ั"
       },
       {
         "token": "ก",
-        "startTime": 92227,
-        "endTime": 92280,
+        "startTime": 91387,
+        "endTime": 91440,
         "pinyin": "k"
       },
       {
         "token": "ย",
-        "startTime": 92280,
-        "endTime": 92380,
+        "startTime": 91440,
+        "endTime": 91640,
         "pinyin": "y"
       },
       {
         "token": "ภ",
-        "startTime": 92380,
-        "endTime": 92493,
+        "startTime": 91640,
+        "endTime": 91713,
         "pinyin": "ph"
       },
       {
         "token": "า",
-        "startTime": 92493,
-        "endTime": 92607,
+        "startTime": 91713,
+        "endTime": 91787,
         "pinyin": "า"
       },
       {
         "token": "พ",
-        "startTime": 92607,
-        "endTime": 92720,
+        "startTime": 91787,
+        "endTime": 91860,
         "pinyin": "ph"
       },
       {
         "token": "ใ",
-        "startTime": 92720,
-        "endTime": 92800,
+        "startTime": 91860,
+        "endTime": 91940,
         "pinyin": "ใ"
       },
       {
         "token": "น",
-        "startTime": 92800,
-        "endTime": 92880,
+        "startTime": 91940,
+        "endTime": 92020,
         "pinyin": "n"
       },
       {
         "token": "ก",
-        "startTime": 92880,
-        "endTime": 92943,
+        "startTime": 92020,
+        "endTime": 92073,
         "pinyin": "k"
       },
       {
         "token": "า",
-        "startTime": 92943,
-        "endTime": 93005,
+        "startTime": 92073,
+        "endTime": 92125,
         "pinyin": "า"
       },
       {
         "token": "ร",
-        "startTime": 93005,
-        "endTime": 93068,
+        "startTime": 92125,
+        "endTime": 92178,
         "pinyin": "r"
       },
       {
         "token": "พ",
-        "startTime": 93068,
-        "endTime": 93130,
+        "startTime": 92178,
+        "endTime": 92230,
         "pinyin": "ph"
       },
       {
         "token": "ั",
-        "startTime": 93130,
-        "endTime": 93193,
+        "startTime": 92230,
+        "endTime": 92283,
         "pinyin": "ั"
       },
       {
         "token": "ฒ",
-        "startTime": 93193,
-        "endTime": 93255,
+        "startTime": 92283,
+        "endTime": 92335,
         "pinyin": "th"
       },
       {
         "token": "น",
-        "startTime": 93255,
-        "endTime": 93318,
+        "startTime": 92335,
+        "endTime": 92388,
         "pinyin": "n"
       },
       {
         "token": "า",
-        "startTime": 93318,
-        "endTime": 93380,
+        "startTime": 92388,
+        "endTime": 92440,
         "pinyin": "า"
+      },
+      {
+        "token": "ป",
+        "startTime": 92440,
+        "endTime": 92533,
+        "pinyin": "p"
+      },
+      {
+        "token": "ร",
+        "startTime": 92533,
+        "endTime": 92627,
+        "pinyin": "r"
+      },
+      {
+        "token": "ะ",
+        "startTime": 92627,
+        "endTime": 92720,
+        "pinyin": "ะ"
+      },
+      {
+        "token": "เ",
+        "startTime": 92720,
+        "endTime": 92813,
+        "pinyin": "เ"
+      },
+      {
+        "token": "ท",
+        "startTime": 92813,
+        "endTime": 92907,
+        "pinyin": "th"
+      },
+      {
+        "token": "ศ",
+        "startTime": 92907,
+        "endTime": 93000,
+        "pinyin": "s"
+      },
+      {
+        "token": "ต",
+        "startTime": 93000,
+        "endTime": 93068,
+        "pinyin": "t"
+      },
+      {
+        "token": "่",
+        "startTime": 93068,
+        "endTime": 93136,
+        "pinyin": "่"
+      },
+      {
+        "token": "อ",
+        "startTime": 93136,
+        "endTime": 93204,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ไ",
+        "startTime": 93204,
+        "endTime": 93272,
+        "pinyin": "ไ"
+      },
+      {
+        "token": "ป",
+        "startTime": 93272,
+        "endTime": 93340,
+        "pinyin": "p"
+      },
+      {
+        "token": "อ",
+        "startTime": 93340,
+        "endTime": 93343,
+        "pinyin": "อ"
+      },
+      {
+        "token": "ี",
+        "startTime": 93343,
+        "endTime": 93346,
+        "pinyin": "ี"
+      },
+      {
+        "token": "ก",
+        "startTime": 93346,
+        "endTime": 93349,
+        "pinyin": "k"
+      },
+      {
+        "token": "ด",
+        "startTime": 93349,
+        "endTime": 93351,
+        "pinyin": "d"
+      },
+      {
+        "token": "้",
+        "startTime": 93351,
+        "endTime": 93354,
+        "pinyin": "้"
+      },
+      {
+        "token": "ว",
+        "startTime": 93354,
+        "endTime": 93357,
+        "pinyin": "w"
+      },
+      {
+        "token": "ย",
+        "startTime": 93357,
+        "endTime": 93360,
+        "pinyin": "y"
       }
     ]
   }
