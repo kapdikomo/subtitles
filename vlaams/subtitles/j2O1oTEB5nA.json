@@ -2,7 +2,7 @@
   {
     "sentence_text": "Twee liter vochtopname per dag is gezond.",
     "translations": {
-      "en": "प्रति दिन दुई लिटर तरल पदार्थ सेवन स्वस्थकर छ।"
+      "en": "दिनमा दुई लिटर तरल पदार्थ लिनु स्वास्थ्यकर हुन्छ।"
     },
     "segments": [
       {
@@ -45,7 +45,7 @@
   {
     "sentence_text": "Ik leg uit hoe je merkt dat je te weinig drinkt,",
     "translations": {
-      "en": "म बताउँछु कि तपाईंले कसरी थाहा पाउनुहुन्छ कि तपाईंले पर्याप्त पिउनुभएन,"
+      "en": "म बताउँछु कि तपाईंले कसरी थाहा पाउनुहुन्छ कि तपाईंले पर्याप्त पिउनुभएको छैन,"
     },
     "segments": [
       {
@@ -156,7 +156,7 @@
   {
     "sentence_text": "En dan geef ik nog enkele details uit de evolutieleer,",
     "translations": {
-      "en": "अनि म विकासवाद, चिकित्साशास्त्र र खेल शरीरविज्ञानबाट केही विवरण दिनेछु।"
+      "en": "अनि म विकासवाद, चिकित्साशास्त्र र खेलकुद शरीरक्रियाविज्ञानबाट केही विवरण दिनेछु।"
     },
     "segments": [
       {
@@ -213,9 +213,7 @@
   },
   {
     "sentence_text": "uit de geneeskunde en de sportfysiologie.",
-    "translations": {
-      "en": "दुई लिटर पानी पिउनु सबै स्वास्थ्य सल्लाहमा छ।"
-    },
+    "translations": {},
     "segments": [
       {
         "token": "uit",
@@ -252,7 +250,7 @@
   {
     "sentence_text": "Twee liter water drinken staat in alle gezondheidsadviezen.",
     "translations": {
-      "en": "हामीले यसलाई अलिकति स्पष्ट पार्नुपर्छ।"
+      "en": "दुई लिटर पानी पिउने सल्लाह सबै स्वास्थ्य सुझावमा हुन्छ।"
     },
     "segments": [
       {
@@ -300,7 +298,7 @@
   {
     "sentence_text": "We moeten het een beetje nuanceren.",
     "translations": {
-      "en": "पानी भन्नाले हामी कुल तरल पदार्थ सेवन बुझ्छौं।"
+      "en": "हामीले यसलाई अलिकति स्पष्ट पार्नुपर्छ।"
     },
     "segments": [
       {
@@ -338,7 +336,7 @@
   {
     "sentence_text": "Met water bedoelen we de totale vochtopname.",
     "translations": {
-      "en": "केवल पानी मात्र होइन, तर कफी, सुप, फलफूल र तरकारीमा भएको सबै, र आजकल प्लफ कुखुरामा पनि।"
+      "en": "पानी भन्नाले हामीले कुल तरल पदार्थको मात्रा बुझ्छौं।"
     },
     "segments": [
       {
@@ -381,7 +379,7 @@
   {
     "sentence_text": "Niet alleen water, maar ook koffie, soepje,",
     "translations": {
-      "en": "हामी प्रति दिन दुई लिटर तरल पदार्थ सेवनको बारेमा कुरा गर्नेछौं।"
+      "en": "केवल पानी मात्र होइन, तर कफी, सुप, फलफूल र तरकारीमा भएको सबै कुरा, र आजकल प्लफ कुखुरामा पनि।"
     },
     "segments": [
       {
@@ -423,9 +421,7 @@
   },
   {
     "sentence_text": "alles wat in fruitgroenten zit en tegenwoordig ook in de plofkippen.",
-    "translations": {
-      "en": "के हामी त्यसमा पुग्छौं?"
-    },
+    "translations": {},
     "segments": [
       {
         "token": "alles",
@@ -487,7 +483,7 @@
   {
     "sentence_text": "We gaan het hebben over twee liter vochtinname per dag.",
     "translations": {
-      "en": "म वरिपरि हेर्छु।"
+      "en": "हामी दिनमा दुई लिटर तरल पदार्थको सेवनको बारेमा कुरा गर्नेछौं।"
     },
     "segments": [
       {
@@ -545,7 +541,7 @@
   {
     "sentence_text": "Komen wij daaraan?",
     "translations": {
-      "en": "के तपाईंहरू त्यसमा पुग्नुहुन्छ?"
+      "en": "के हामी त्यो पुग्छौं?"
     },
     "segments": [
       {
@@ -568,7 +564,7 @@
   {
     "sentence_text": "Ik kijk even rond.",
     "translations": {
-      "en": "यो स्वस्थकर छ।"
+      "en": "म वरिपरि हेर्छु।"
     },
     "segments": [
       {
@@ -596,7 +592,7 @@
   {
     "sentence_text": "Komen jullie daaraan?",
     "translations": {
-      "en": "हामीले त्यो पहिले नै सुनेका छौं।"
+      "en": "के तपाईंहरू त्यो पुग्नुहुन्छ?"
     },
     "segments": [
       {
@@ -619,7 +615,7 @@
   {
     "sentence_text": "Het is gezond.",
     "translations": {
-      "en": "ठीक छ, विज्ञानले देखाएको छ कि यहाँ उपस्थित मध्ये एक तिहाइ, एक चौथाइ मानिस त्यसमा पुग्दैनन्।"
+      "en": "यो स्वास्थ्यकर छ।"
     },
     "segments": [
       {
@@ -642,7 +638,7 @@
   {
     "sentence_text": "Dat hebben we al gehoord.",
     "translations": {
-      "en": "उनीहरूले पर्याप्त पिउँदैनन्।"
+      "en": "हामीले त्यो सुनिसकेका छौं।"
     },
     "segments": [
       {
@@ -675,7 +671,7 @@
   {
     "sentence_text": "Wel, wetenschap heeft aangetoond dat één op drie,",
     "translations": {
-      "en": "यो कसरी हुन्छ?"
+      "en": "ठीक छ, विज्ञानले देखाएको छ कि यहाँ उपस्थित मध्ये एक तिहाइ, एक चौथाइ मानिस त्यो पुग्दैनन्।"
     },
     "segments": [
       {
@@ -722,9 +718,7 @@
   },
   {
     "sentence_text": "één op vier van de hieraanwezigen daar niet aan komt.",
-    "translations": {
-      "en": "यहाँ उपस्थित चार मध्ये एक जना त्यहाँ पुग्दैन।"
-    },
+    "translations": {},
     "segments": [
       {
         "token": "één",
@@ -781,7 +775,7 @@
   {
     "sentence_text": "Ze drinken te weinig.",
     "translations": {
-      "en": "उनीहरूले धेरै थोरै पिउँदै छन्।"
+      "en": "उनीहरूले धेरै कम पिउँछन्।"
     },
     "segments": [
       {
@@ -809,7 +803,7 @@
   {
     "sentence_text": "Hoe komt dat?",
     "translations": {
-      "en": "त्यो कसरी भयो?"
+      "en": "यो कसरी हुन्छ?"
     },
     "segments": [
       {
@@ -832,7 +826,7 @@
   {
     "sentence_text": "Ze hebben ook nooit dorst.",
     "translations": {
-      "en": "उनीहरूलाई कहिल्यै तिर्खा पनि लाग्दैन।"
+      "en": "तिनीहरूलाई कहिल्यै प्यास पनि लाग्दैन।"
     },
     "segments": [
       {
@@ -865,7 +859,7 @@
   {
     "sentence_text": "Daarover gaan we het even hebben.",
     "translations": {
-      "en": "हामी यसको बारेमा कुरा गर्नेछौं।"
+      "en": "हामी त्यसबारे केही कुरा गर्नेछौं।"
     },
     "segments": [
       {
@@ -903,7 +897,7 @@
   {
     "sentence_text": "Dorst is een zeer oud overlevingsinstinct. 340 miljoen jaar geleden,",
     "translations": {
-      "en": "तिर्खा एक धेरै पुरानो बाँच्ने प्रवृत्ति हो। ३४० मिलियन वर्ष पहिले,"
+      "en": "प्यास एक धेरै पुरानो बाँच्ने प्रवृत्ति हो। ३४ करोड वर्ष पहिले,"
     },
     "segments": [
       {
@@ -961,7 +955,7 @@
   {
     "sentence_text": "toen wij dan als amfibie uit de zee het land opkropen,",
     "translations": {
-      "en": "जब हामी उभयचरको रूपमा समुद्रबाट जमिनमा चढ्यौं,"
+      "en": "जब हामी उभयचरको रूपमा समुद्रबाट जमिनमा आयौं,"
     },
     "segments": [
       {
@@ -1067,7 +1061,7 @@
   {
     "sentence_text": "Wat wil dat zeggen, uitdroging?",
     "translations": {
-      "en": "सुक्खापनको अर्थ के हो?"
+      "en": "सुक्खापन भनेको के हो?"
     },
     "segments": [
       {
@@ -1100,7 +1094,7 @@
   {
     "sentence_text": "Ga even mee met mij naar de Dode Zee.",
     "translations": {
-      "en": "मसँग मृत सागरमा जाऊ।"
+      "en": "मसँगै मृत सागरमा जाऔं।"
     },
     "segments": [
       {
@@ -1264,7 +1258,7 @@
   {
     "sentence_text": "Stel nu dat daar een bacterie toch in die Dode Zee belandt.",
     "translations": {
-      "en": "अब कल्पना गर्नुहोस् कि त्यहाँ एउटा ब्याक्टेरिया त्यो मृत सागरमा पुग्छ।"
+      "en": "अब मानौं कि त्यहाँ एउटा जीवाणु त्यस मृत सागरमा पुग्छ।"
     },
     "segments": [
       {
@@ -1332,7 +1326,7 @@
   {
     "sentence_text": "In zijn celwand heeft hij een bepaalde concentratie.",
     "translations": {
-      "en": "यसको कोष पर्खालमा एक निश्चित सांद्रता हुन्छ।"
+      "en": "यसको कोशिका पर्खालमा एक निश्चित सांद्रता हुन्छ।"
     },
     "segments": [
       {
@@ -1380,7 +1374,7 @@
   {
     "sentence_text": "Daarbuiten is dus een hele hoge concentratie",
     "translations": {
-      "en": "बाहिर धेरै उच्च सांद्रता छ"
+      "en": "बाहिर धेरै उच्च सांद्रता हुन्छ"
     },
     "segments": [
       {
@@ -1423,7 +1417,7 @@
   {
     "sentence_text": "en die cel wordt onderworpen aan de osmotische krachten.",
     "translations": {
-      "en": "र त्यो कोष परासरणीय बलहरूको अधीनमा हुन्छ।"
+      "en": "र त्यो कोशिका परासरणीय बलको अधीनमा हुन्छ।"
     },
     "segments": [
       {
@@ -1504,7 +1498,7 @@
   {
     "sentence_text": "Je hebt een dun vlies, de celmembraan,",
     "translations": {
-      "en": "तपाईंसँग एउटा पातलो झिल्ली छ, कोष झिल्ली,"
+      "en": "तपाईंसँग एउटा पातलो झिल्ली हुन्छ, कोशिका झिल्ली,"
     },
     "segments": [
       {
@@ -1547,7 +1541,7 @@
   {
     "sentence_text": "aan de ene kant de gewone celinhoud met zijn opgeloste",
     "translations": {
-      "en": "एकातिर सामान्य कोष सामग्री यसको विघटित"
+      "en": "एकातिर सामान्य कोशिका सामग्री यसका विघटित"
     },
     "segments": [
       {
@@ -1605,7 +1599,7 @@
   {
     "sentence_text": "deeltjes en daarbuiten dus een hoog geconcentreerde dode zee.",
     "translations": {
-      "en": "कणहरू र बाहिर उच्च सांद्रित मृत सागर।"
+      "en": "कणहरूसहित र बाहिर उच्च सांद्रित मृत सागर।"
     },
     "segments": [
       {
@@ -1658,7 +1652,7 @@
   {
     "sentence_text": "De osmotische wetten dicteren dat de hooggeconcentreerde vloeistof water gaat aanzuigen.",
     "translations": {
-      "en": "परासरणीय नियमहरूले भन्छन् कि उच्च सांद्रित तरलले पानी तान्नेछ।"
+      "en": "परासरणीय नियमहरूले उच्च सांद्रित तरलले पानी सोस्ने आदेश दिन्छ।"
     },
     "segments": [
       {
@@ -1721,7 +1715,7 @@
   {
     "sentence_text": "Water gaat als het ware proberen de twee concentraties gelijk te schakelen.",
     "translations": {
-      "en": "पानीले दुई सांद्रतालाई बराबर गर्न प्रयास गर्नेछ।"
+      "en": "पानीले दुई सांद्रतालाई बराबर गर्ने प्रयास गर्छ।"
     },
     "segments": [
       {
@@ -1885,7 +1879,7 @@
   {
     "sentence_text": "Tweederde van het water zit in onze cellen, een dunne celwand,",
     "translations": {
-      "en": "दुई तिहाइ पानी हाम्रा कोशिकाहरूमा हुन्छ, पातलो कोशिका पर्खाल,"
+      "en": "दुई तिहाइ पानी हाम्रा कोशिकाहरूमा हुन्छ, पातलो कोशिका भित्ता,"
     },
     "segments": [
       {
@@ -2059,7 +2053,7 @@
   {
     "sentence_text": "De osmolariteit, de concentratie van opgelost deeltjes buiten de cel gaat stijgen.",
     "translations": {
-      "en": "ओस्मोलारिटी, कोशिका बाहिर घुलनशील कणहरूको सांद्रता बढ्न थाल्छ।"
+      "en": "अस्मोलारिटी, कोशिका बाहिर घुलेका कणहरूको सांद्रता बढ्न थाल्छ।"
     },
     "segments": [
       {
@@ -2261,7 +2255,7 @@
   {
     "sentence_text": "Welke cellen gaan daar dan een alarm voor geven?",
     "translations": {
-      "en": "त्यसो भए कुन कोशिकाहरूले यसको लागि अलार्म बजाउनेछन्?"
+      "en": "त्यसको लागि कुन कोशिकाहरूले अलार्म दिनेछन्?"
     },
     "segments": [
       {
@@ -2314,7 +2308,7 @@
   {
     "sentence_text": "Wel, diep in onze hersenen, in de hypothalamus, zitten er osmosensoren.",
     "translations": {
-      "en": "हाम्रो मस्तिष्कको गहिराइमा, हाइपोथ्यालामसमा, ओस्मोसेन्सरहरू हुन्छन्।"
+      "en": "हाम्रो मस्तिष्कको गहिराइमा, हाइपोथ्यालामसमा, अस्मोसेन्सरहरू हुन्छन्।"
     },
     "segments": [
       {
@@ -2377,7 +2371,7 @@
   {
     "sentence_text": "Dat zijn dus de waakhondjes van onze osmolariteit.",
     "translations": {
-      "en": "यिनीहरू हाम्रो ओस्मोलारिटीको पहरेदार हुन्।"
+      "en": "यी हाम्रो अस्मोलारिटीका पहरेदार कुकुरहरू हुन्।"
     },
     "segments": [
       {
@@ -2425,7 +2419,7 @@
   {
     "sentence_text": "1 tot 2 procent stijging van die osmolariteit is voldoende om die osmosensoren",
     "translations": {
-      "en": "त्यो ओस्मोलारिटीमा १ देखि २ प्रतिशतको वृद्धि ती ओस्मोसेन्सरहरूलाई"
+      "en": "त्यो अस्मोलारिटीमा १ देखि २ प्रतिशतको वृद्धि ती अस्मोसेन्सरहरूलाई"
     },
     "segments": [
       {
@@ -2680,7 +2674,7 @@
   {
     "sentence_text": "hoeveelheid afval in een geconcentreerdere urine uit te plassen.",
     "translations": {
-      "en": "फोहोरको मात्रा केन्द्रित पिसाबमा बाहिर निकाल्न भन्छ।"
+      "en": "फोहोरको मात्रा केन्द्रित पिसाबमा फाल्न भन्छ।"
     },
     "segments": [
       {
@@ -2761,7 +2755,7 @@
   {
     "sentence_text": "Automatisch gaan we minder plassen.",
     "translations": {
-      "en": "आफैंले कम पिसाब गर्न थाल्छौं।"
+      "en": "स्वतः हामी कम पिसाब गर्न थाल्छौं।"
     },
     "segments": [
       {
@@ -2794,7 +2788,7 @@
   {
     "sentence_text": "Stijgt onze osmolariteit nog een paar procentjes, dan gaat het groot alarm aan.",
     "translations": {
-      "en": "हाम्रो ओस्मोलारिटी अझ केही प्रतिशत बढ्यो भने, ठूलो अलार्म बज्छ।"
+      "en": "हाम्रो अस्मोलारिटी अझ केही प्रतिशत बढ्यो भने, ठूलो अलार्म बज्छ।"
     },
     "segments": [
       {
@@ -2945,7 +2939,7 @@
   {
     "sentence_text": "Zoek water, zoek vocht, wat dan ook, en drink het op.",
     "translations": {
-      "en": "पानी खोज, नमी खोज, जे भए पनि, र यसलाई पिऊ।"
+      "en": "पानी खोज, आर्द्रता खोज, जे भए पनि, र यसलाई पिऊ।"
     },
     "segments": [
       {
@@ -3008,7 +3002,7 @@
   {
     "sentence_text": "Dat is het dorstreflex.",
     "translations": {
-      "en": "त्यो तिर्खा प्रतिवर्त हो।"
+      "en": "यो तिर्खा प्रतिवर्त हो।"
     },
     "segments": [
       {
@@ -3137,7 +3131,7 @@
   {
     "sentence_text": "Stel nu dat je in je auto zit, naar de Côte d'Azur, monsterfiles,",
     "translations": {
-      "en": "अब मानौं तिमी आफ्नो गाडीमा बसेर कोट डी'अजुरतिर जाँदै छौ, भयानक ट्राफिक जाम,"
+      "en": "अब मानौं तपाईं आफ्नो गाडीमा हुनुहुन्छ, कोट डी'अजुरतिर, भयानक ट्राफिक जाम,"
     },
     "segments": [
       {
@@ -3210,7 +3204,7 @@
   {
     "sentence_text": "je kan hiervoor of achteruit, 31 graden, en je hebt geen water bij.",
     "translations": {
-      "en": "तिमी अगाडि वा पछाडि जान सक्दैनौ, ३१ डिग्री, र तिमीसँग पानी छैन।"
+      "en": "तपाईं अगाडि वा पछाडि जान सक्नुहुन्न, ३१ डिग्री, र तपाईंसँग पानी छैन।"
     },
     "segments": [
       {
@@ -3379,7 +3373,7 @@
   {
     "sentence_text": "Prikkelbaar, concentratiestoornissen, vermoeidheid en dergelijke meer.",
     "translations": {
-      "en": "चिडचिडापन, ध्यान केन्द्रित गर्न कठिनाई, थकान र यस्तै अन्य।"
+      "en": "चिडचिडापन, एकाग्रतामा कमी, थकान र यस्तै अन्य।"
     },
     "segments": [
       {
@@ -3417,7 +3411,7 @@
   {
     "sentence_text": "Dus luister naar je dorst.",
     "translations": {
-      "en": "त्यसैले आफ्नो तिर्खा सुन।"
+      "en": "त्यसैले आफ्नो तिर्खा सुन्नुहोस्।"
     },
     "segments": [
       {
@@ -3450,7 +3444,7 @@
   {
     "sentence_text": "En heb je gelegenheid, kijk ook naar de concentratiegraad van je urine.",
     "translations": {
-      "en": "र मौका पाए, आफ्नो पिसाबको सांद्रता स्तर पनि हेर।"
+      "en": "र अवसर भएमा, आफ्नो पिसाबको सांद्रता स्तर पनि हेर्नुहोस्।"
     },
     "segments": [
       {
@@ -3518,7 +3512,7 @@
   {
     "sentence_text": "Urine kan namelijk variëren van heel verdunde urine, dat betekent meer dan genoeg gedronken,",
     "translations": {
-      "en": "पिसाब धेरै पातलो देखि, जसको अर्थ पर्याप्त पानी पिइएको छ,"
+      "en": "पिसाब धेरै पातलो पिसाबदेखि फरक हुन सक्छ, यसको अर्थ पर्याप्त भन्दा बढी पानी पिइएको छ,"
     },
     "segments": [
       {
@@ -3596,7 +3590,7 @@
   {
     "sentence_text": "of heel geconcentreerde urine, dringend nood aan drank.",
     "translations": {
-      "en": "वा धेरै गाढा पिसाब, जसको अर्थ तुरुन्त पानी चाहिन्छ, सम्म फरक हुन सक्छ।"
+      "en": "वा धेरै गाढा पिसाब, तुरुन्तै पानीको आवश्यकता।"
     },
     "segments": [
       {
@@ -3760,7 +3754,7 @@
   {
     "sentence_text": "Eén daarvan is dat als we namelijk uitdrogen, gaat ons volume buiten de cel dalen,",
     "translations": {
-      "en": "ती मध्ये एक यो हो कि यदि हामी सुक्यौं भने, हाम्रो कोशिका बाहिरको मात्रा घट्छ,"
+      "en": "ती मध्ये एक यो हो कि यदि हामी सुक्यौं भने, हाम्रो कोशिका बाहिरको आयतन घट्छ,"
     },
     "segments": [
       {
@@ -3843,7 +3837,7 @@
   {
     "sentence_text": "gaan we dus een neiging hebben tot lager bloeddruk of flauwvallen.",
     "translations": {
-      "en": "जसले गर्दा हामीलाई कम रक्तचाप वा बेहोस हुने प्रवृत्ति हुन्छ।"
+      "en": "त्यसैले हामीलाई कम रक्तचाप वा बेहोस हुने प्रवृत्ति हुन्छ।"
     },
     "segments": [
       {
@@ -3959,7 +3953,7 @@
   {
     "sentence_text": "De bloedvaten gaan een klein beetje samenknijpen.",
     "translations": {
-      "en": "रक्तनलीहरू अलिकति संकुचित हुन्छन्।"
+      "en": "रक्तनलीहरू अलिकति साँघुरिन थाल्छन्।"
     },
     "segments": [
       {
@@ -4073,7 +4067,7 @@
   {
     "sentence_text": "Hypotalamus, de hypofyse.",
     "translations": {
-      "en": "हाइपोथ्यालामस, पिट्यूटरी ग्रन्थि।"
+      "en": "हाइपोथ्यालेमस, पिट्यूटरी ग्रन्थी।"
     },
     "segments": [
       {
@@ -4144,7 +4138,7 @@
   {
     "sentence_text": "Nog zo'n hormoon dat reist naar de bijnieren.",
     "translations": {
-      "en": "अर्को यस्तै हर्मोन जुन एड्रेनल ग्रन्थिहरूमा यात्रा गर्छ।"
+      "en": "अर्को यस्तै हर्मोन जुन एड्रेनल ग्रन्थीहरूमा यात्रा गर्छ।"
     },
     "segments": [
       {
@@ -4192,7 +4186,7 @@
   {
     "sentence_text": "En daar gaat cortisol, het stressresponshormoon, gestimuleerd worden.",
     "translations": {
-      "en": "र त्यहाँ कोर्टिसोल, तनाव प्रतिक्रिया हर्मोन, उत्तेजित हुन थाल्छ।"
+      "en": "र त्यहाँ कोर्टिसोल, तनाव प्रतिक्रिया हर्मोन, उत्तेजित हुन्छ।"
     },
     "segments": [
       {
@@ -4240,7 +4234,7 @@
   {
     "sentence_text": "Dat lijkt ook in de evolutie gezien heel handig.",
     "translations": {
-      "en": "यो विकासको दृष्टिले पनि धेरै उपयोगी देखिन्छ।"
+      "en": "यो विकासको दृष्टिकोणले पनि धेरै उपयोगी देखिन्छ।"
     },
     "segments": [
       {
@@ -4472,7 +4466,7 @@
   {
     "sentence_text": "klein beetje vet opstapelen.",
     "translations": {
-      "en": "अलिकति बोसो पनि जम्मा गर्नेछ।"
+      "en": "अलिकति बोसो जम्मा गर्नेछ।"
     },
     "segments": [
       {
@@ -4712,7 +4706,7 @@
   {
     "sentence_text": "Dus wij kunnen een beetje ons eigen water produceren.",
     "translations": {
-      "en": "त्यसैले हामी अलिकति आफ्नै पानी उत्पादन गर्न सक्छौं।"
+      "en": "त्यसैले हामी आफ्नै पानी अलिकति उत्पादन गर्न सक्छौं।"
     },
     "segments": [
       {
@@ -4808,7 +4802,7 @@
   {
     "sentence_text": "dan zal dat antidiuretische hormoon een klein beetje die bloeddruk verhogen.",
     "translations": {
-      "en": "त्यसो भए त्यो एन्टिडाइयुरेटिक हर्मोनले रक्तचाप अलिकति बढाउनेछ।"
+      "en": "त्यसपछि त्यो एन्टिडाइयुरेटिक हर्मोनले रक्तचाप अलिकति बढाउनेछ।"
     },
     "segments": [
       {
@@ -4871,7 +4865,7 @@
   {
     "sentence_text": "Dan zal het cortisolhormoon de lever aanzetten tot loslaten van suiker.",
     "translations": {
-      "en": "त्यसो भए कोर्टिसोल हर्मोनले कलेजोलाई चिनी छोड्न उत्प्रेरित गर्नेछ।"
+      "en": "त्यसपछि कोर्टिसोल हर्मोनले कलेजोलाई चिनी छोड्न उत्प्रेरित गर्नेछ।"
     },
     "segments": [
       {
@@ -4934,7 +4928,7 @@
   {
     "sentence_text": "Dan zal onze glycemiespiegel een beetje verhogen.",
     "translations": {
-      "en": "त्यसो भए हाम्रो रक्त शर्करा स्तर अलिकति बढ्नेछ।"
+      "en": "त्यसपछि हाम्रो रक्त शर्करा स्तर अलिकति बढ्नेछ।"
     },
     "segments": [
       {
@@ -4977,7 +4971,7 @@
   {
     "sentence_text": "En zullen we dus ook neigen naar opstapelen van vet.",
     "translations": {
-      "en": "र त्यसैले हामी बोसो जम्मा गर्ने प्रवृत्ति राख्छौं।"
+      "en": "र हामी पनि बोसो जम्मा गर्ने प्रवृत्ति राख्छौं।"
     },
     "segments": [
       {
@@ -5035,7 +5029,7 @@
   {
     "sentence_text": "Niet in een bult, maar rond onze navel.",
     "translations": {
-      "en": "एउटा डल्लोमा होइन, तर हाम्रो नाभिको वरिपरि।"
+      "en": "एउटा डल्लोमा होइन, तर हाम्रो नाभीको वरिपरि।"
     },
     "segments": [
       {
@@ -5252,7 +5246,7 @@
   {
     "sentence_text": "je het drinken van suikerhoudende frisdranken.",
     "translations": {
-      "en": "तपाईं चिनीयुक्त शीतल पेय पदार्थ पिउनबाट बच्नुहुन्छ।"
+      "en": "तपाईं चिनीयुक्त शीतल पेय पदार्थहरू पिउनबाट बच्नुहुन्छ।"
     },
     "segments": [
       {
@@ -5409,7 +5403,7 @@
   {
     "sentence_text": "Jarenlang stimuleren mensen tot voldoende drinken en dan kijken of je genetische",
     "translations": {
-      "en": "वर्षौंसम्म मानिसहरूलाई पर्याप्त पानी पिउन प्रोत्साहित गर्ने र त्यसपछि हेर्ने कि के तपाईं आनुवंशिक"
+      "en": "वर्षौंसम्म मानिसहरूलाई पर्याप्त पानी पिउन उत्साहित गर्नुहोस् र त्यसपछि हेर्नुहोस् कि तपाईं आनुवंशिक"
     },
     "segments": [
       {
@@ -5515,7 +5509,7 @@
   {
     "sentence_text": "Voorlopig geen bewijzen.",
     "translations": {
-      "en": "हालसम्म कुनै प्रमाण छैन।"
+      "en": "अहिलेसम्म कुनै प्रमाण छैन।"
     },
     "segments": [
       {
@@ -5538,7 +5532,7 @@
   {
     "sentence_text": "Op dit moment raden wij enkel aan om extra veel te drinken",
     "translations": {
-      "en": "यस समयमा, हामी केवल मृगौलाको ढुङ्गा वा बारम्बार मूत्राशय संक्रमण भएका मानिसहरूलाई"
+      "en": "यस समयमा, हामी मात्र मृगौलाको पत्थरी वा बारम्बार मूत्राशय संक्रमण भएका मानिसहरूलाई"
     },
     "segments": [
       {
@@ -5649,7 +5643,7 @@
   {
     "sentence_text": "En voor alle anderen, drink genoeg.",
     "translations": {
-      "en": "र अरू सबैका लागि, पर्याप्त पानी पिउनुहोस्।"
+      "en": "र अरू सबैको लागि, पर्याप्त पानी पिउनुहोस्।"
     },
     "segments": [
       {
@@ -5770,7 +5764,7 @@
   {
     "sentence_text": "de concentratiegraad van je urine.",
     "translations": {
-      "en": "आफ्नो पिसाबको एकाग्रता स्तर।"
+      "en": "तपाईंको पिसाबको एकाग्रता स्तर।"
     },
     "segments": [
       {
@@ -5938,7 +5932,7 @@
   {
     "sentence_text": "Wij moeten dan bepaalde situaties creëren.",
     "translations": {
-      "en": "हामीले त्यसो भए केही विशेष परिस्थितिहरू सिर्जना गर्नुपर्छ।"
+      "en": "हामीले त्यसपछि निश्चित परिस्थितिहरू सिर्जना गर्नुपर्छ।"
     },
     "segments": [
       {
@@ -5976,7 +5970,7 @@
   {
     "sentence_text": "Stel dat je heel weinig eet.",
     "translations": {
-      "en": "मानौं तपाईं धेरै थोरै खानुहुन्छ।"
+      "en": "मानौं तपाईं धेरै कम खानुहुन्छ।"
     },
     "segments": [
       {
@@ -6062,7 +6056,7 @@
   {
     "sentence_text": "Je gaat dan ook minder neiging hebben om te plassen.",
     "translations": {
-      "en": "त्यसो भए तपाईंलाई पिसाब गर्ने प्रवृत्ति पनि कम हुन्छ।"
+      "en": "त्यसपछि तपाईंलाई पिसाब गर्ने इच्छा पनि कम हुन्छ।"
     },
     "segments": [
       {
@@ -6168,7 +6162,7 @@
   {
     "sentence_text": "Maar dan heb ik het over vijf liter, tien liter per dag.",
     "translations": {
-      "en": "तर म त्यहाँ प्रति दिन पाँच लिटर, दस लिटरको कुरा गर्दैछु।"
+      "en": "तर म त्यो पाँच लिटर, दस लिटर प्रतिदिनको कुरा गर्दैछु।"
     },
     "segments": [
       {
@@ -6236,7 +6230,7 @@
   {
     "sentence_text": "De nier gaat dus al",
     "translations": {
-      "en": "त्यसैले मृगौला त्यो मात्रा"
+      "en": "त्यसैले मृगौलाले"
     },
     "segments": [
       {
@@ -6269,7 +6263,7 @@
   {
     "sentence_text": "die hoeveelheid niet kunnen uitplassen en per liter blijft er een halve liter achter.",
     "translations": {
-      "en": "पिसाब गरेर निकाल्न सक्दैन र प्रति लिटरमा आधा लिटर बाँकी रहन्छ।"
+      "en": "त्यो मात्रा पिसाब गर्न सक्दैन र प्रति लिटरमा आधा लिटर बाँकी रहन्छ।"
     },
     "segments": [
       {
@@ -6375,7 +6369,7 @@
   {
     "sentence_text": "De concentratie buiten de cel, de osmolariteit buiten de cel, daalt.",
     "translations": {
-      "en": "कोष बाहिरको एकाग्रता, कोष बाहिरको ओस्मोलारिटी, घट्छ।"
+      "en": "कोष बाहिरको सांद्रता, कोष बाहिरको ओस्मोलारिटी, घट्छ।"
     },
     "segments": [
       {
@@ -6491,7 +6485,7 @@
   {
     "sentence_text": "maar water gaat dus verhuizen van buiten naar binnen de cellen.",
     "translations": {
-      "en": "ती सबै कोषहरू फुल्न थाल्छन्।"
+      "en": "ती सबै कोषहरू सुन्निन थाल्छन्।"
     },
     "segments": [
       {
@@ -6620,7 +6614,7 @@
   {
     "sentence_text": "De hersenpan.",
     "translations": {
-      "en": "मस्तिष्क फुल्छ, तर खोपडीबाट बाहिर निस्कन सक्दैन।"
+      "en": "मस्तिष्क सुन्निन्छ, तर खोपडीबाट बाहिर निस्कन सक्दैन।"
     },
     "segments": [
       {
@@ -6638,7 +6632,7 @@
   {
     "sentence_text": "De hersenen gaan zwellen, maar kunnen niet door die hersenpan.",
     "translations": {
-      "en": "यसले धेरै पानी पिउने मानिसहरूमा देखिने विशिष्ट लक्षणहरू दिन्छ।"
+      "en": "यसले धेरै पानी पिउने मानिसहरूमा देखिने विशिष्ट लक्षणहरू निम्त्याउँछ।"
     },
     "segments": [
       {
@@ -6774,7 +6768,7 @@
   {
     "sentence_text": "Sufheid, moeilijke gang.",
     "translations": {
-      "en": "सुफहाइड, गाह्रो बाटो।"
+      "en": "सुफहाइड, कठिन बाटो।"
     },
     "segments": [
       {
@@ -6908,7 +6902,7 @@
   {
     "sentence_text": "kwijt te raken door extra veel te drinken en niet te eten.",
     "translations": {
-      "en": "अत्यधिक पानी पिएर र खाना नखाएर।"
+      "en": "अत्यधिक पिउने र नखाने गरेर।"
     },
     "segments": [
       {
@@ -7052,7 +7046,7 @@
   {
     "sentence_text": "Spoedopname, dringende zoutinfuus om dan het oedeem van de hersenen weer te kunnen verminderen.",
     "translations": {
-      "en": "आपतकालीन भर्ना, मस्तिष्कको सूजन कम गर्न तुरुन्तै नुनको सलाइन दिइयो।"
+      "en": "आपतकालीन भर्ना, मस्तिष्कको सुन्निन कम गर्न तुरुन्त नुनको इन्फ्युजन।"
     },
     "segments": [
       {
@@ -7130,7 +7124,7 @@
   {
     "sentence_text": "Vroeger zagen we het meer, nu een beetje minder, bij de duursporters, marathonlopers,",
     "translations": {
-      "en": "पहिले हामीले यो धेरै देख्थ्यौं, अब अलि कम, सहनशील खेलाडीहरू, म्याराथन धावकहरू,"
+      "en": "पहिले हामीले यो धेरै देख्थ्यौं, अब अलि कम, सहनशील खेलाडी, म्याराथन धावक,"
     },
     "segments": [
       {
@@ -7203,7 +7197,7 @@
   {
     "sentence_text": "triathleten die aangespoord worden om extra veel te drinken door hun sportcoaches,",
     "translations": {
-      "en": "ट्रायथलीटहरू जसलाई उनीहरूका प्रशिक्षकहरूले अत्यधिक पिउन प्रोत्साहित गर्छन्,"
+      "en": "ट्रायथलीटहरूमा जसलाई उनीहरूका प्रशिक्षकहरूले अत्यधिक पिउन प्रोत्साहित गर्छन्,"
     },
     "segments": [
       {
@@ -7271,7 +7265,7 @@
   {
     "sentence_text": "maar hun nieren hebben door de stress, door neiging tot lage bloeddruk,",
     "translations": {
-      "en": "तर उनीहरूको मृगौलाले तनाव र कम रक्तचापको प्रवृत्तिका कारण"
+      "en": "तर तनाव र कम रक्तचापको प्रवृत्तिका कारण उनीहरूको मृगौलाले धेरै पिसाब गर्न चाहँदैन।"
     },
     "segments": [
       {
@@ -7339,7 +7333,7 @@
   {
     "sentence_text": "geen zin om veel te plassen.",
     "translations": {
-      "en": "धेरै पिसाब गर्न चाहँदैन।"
+      "en": "त्यसैले उनीहरू बिस्तारै आफ्नो ओस्मोलारिटी पातलो बनाउँछन्।"
     },
     "segments": [
       {
@@ -7377,7 +7371,7 @@
   {
     "sentence_text": "Dus zij zullen geleidelijk aan hun osmolariteit verdunnen.",
     "translations": {
-      "en": "त्यसैले उनीहरू बिस्तारै आफ्नो ओस्मोलारिटी पातलो बनाउँछन्।"
+      "en": "मस्तिष्कको सुन्निन सुरु हुन्छ र त्यो विशिष्ट लडबड हिँडाइ, सुस्ती र नाटकीय आगमन।"
     },
     "segments": [
       {
@@ -7425,7 +7419,7 @@
   {
     "sentence_text": "Hersenodeem gaat ontstaan en die typische wankele gang, die sufheid en die dramatische aankomsten.",
     "translations": {
-      "en": "मस्तिष्कको सूजन हुन्छ र त्यो विशिष्ट लडखडाउने हिँडाइ, सुस्ती र नाटकीय आगमन।"
+      "en": "त्यसैले म ती व्यक्तिहरूका लागि खेल पेय, भर्खरै उल्लेख गरिएको, चिनी, पानी र नुन, संक्षेप गर्न सक्छु,"
     },
     "segments": [
       {
@@ -7503,7 +7497,7 @@
   {
     "sentence_text": "Dus ik kan samenvatten voor die personen sportdranken, daarnet al aangehaald, suiker, water en zouten,",
     "translations": {
-      "en": "त्यसैले म ती व्यक्तिहरूका लागि सारांश दिन सक्छु: खेल पेय, भर्खरै उल्लेख गरियो, चिनी, पानी र नुन,"
+      "en": "किनकि तपाईं पसिना बगाउनुहुन्छ र नुनसहित पानी गुमाउनुहुन्छ।"
     },
     "segments": [
       {
@@ -7586,7 +7580,7 @@
   {
     "sentence_text": "want je transpireert en verliest water met zouten.",
     "translations": {
-      "en": "किनभने तपाईं पसिना बगाउनुहुन्छ र पानी र नुन गुमाउनुहुन्छ।"
+      "en": "तपाईंको तिर्खा अनुसार पिउनुहोस्, आफूले महसुस गरेभन्दा बढी नपिउनुहोस्।"
     },
     "segments": [
       {
@@ -7634,7 +7628,7 @@
   {
     "sentence_text": "Drink volgens je dorst, drink niet meer dan je het zelf aanvoelt.",
     "translations": {
-      "en": "तपाईंको तिर्खा अनुसार पिउनुहोस्, आफैंले महसुस गरेभन्दा बढी नपिउनुहोस्।"
+      "en": "त्यसैले म संक्षेप गर्न सक्छु।"
     },
     "segments": [
       {
@@ -7702,7 +7696,7 @@
   {
     "sentence_text": "Dus ik kan samenvatten.",
     "translations": {
-      "en": "त्यसैले म सारांश दिन सक्छु।"
+      "en": "के दिनमा दुई लिटर पानी पिउनु, दुई लिटर तरल पदार्थ लिनु स्वस्थ हो?"
     },
     "segments": [
       {
@@ -7730,7 +7724,7 @@
   {
     "sentence_text": "Is twee liter water drinken, twee liter vochtopname per dag gezond?",
     "translations": {
-      "en": "के दिनमा दुई लिटर पानी पिउनु, दुई लिटर तरल पदार्थ लिनु स्वस्थ हो?"
+      "en": "हो, यो स्वस्थ छ।"
     },
     "segments": [
       {
@@ -7793,7 +7787,7 @@
   {
     "sentence_text": "Ja, het is gezond.",
     "translations": {
-      "en": "हो, यो स्वस्थ छ।"
+      "en": "तपाईंले तिर्खाको प्रतिबिम्ब बन्द गर्नुहुन्छ।"
     },
     "segments": [
       {
@@ -7821,7 +7815,7 @@
   {
     "sentence_text": "Je zet het dorstreflex uit.",
     "translations": {
-      "en": "तपाईंले तिर्खाको प्रतिवर्त बन्द गर्नुहुन्छ।"
+      "en": "तपाईंको रक्तचाप राम्रो हुन सक्छ, कम चिनी र कम बोसो जम्मा हुन सक्छ।"
     },
     "segments": [
       {
@@ -7854,7 +7848,7 @@
   {
     "sentence_text": "Je zou mogelijk betere bloeddruk hebben, minder suiker en minder vetopstapeling hebben.",
     "translations": {
-      "en": "तपाईंको रक्तचाप राम्रो हुन सक्छ, कम चिनी र कम बोसो जम्मा हुन सक्छ।"
+      "en": "तपाईंको रक्तचाप राम्रो हुन सक्छ, चिनी र बोसो जम्मा हुने कम हुन सक्छ।"
     },
     "segments": [
       {
@@ -7922,7 +7916,7 @@
   {
     "sentence_text": "Kan je te weinig drinken als je luistert naar je dorst?",
     "translations": {
-      "en": "तपाईंको तिर्खा सुनेर पर्याप्त पानी नपिउन सकिन्छ?"
+      "en": "तपाईंको तिर्खा सुनेर कम पानी पिउन सकिन्छ?"
     },
     "segments": [
       {
@@ -7985,7 +7979,7 @@
   {
     "sentence_text": "Als je kijkt naar de concentratie van je urine?",
     "translations": {
-      "en": "तपाईंको पिसाबको सांद्रता हेरेर?"
+      "en": "तपाईंको पिसाबको एकाग्रता हेर्दा?"
     },
     "segments": [
       {
