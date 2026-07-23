@@ -2,7 +2,7 @@
   {
     "sentence_text": "19 42 年 2 月 、 メキシコ で 農業 を 営む リオニシオ は 、",
     "translations": {
-      "en": "In February 1942, Dionisio, a farmer in Mexico,"
+      "en": "In February 1942, Dionisio, who farmed in Mexico,"
     },
     "segments": [
       {
@@ -93,7 +93,7 @@
         "token": "業",
         "startTime": 10727,
         "endTime": 10900,
-        "pinyin": "gou"
+        "pinyin": "gyou"
       },
       {
         "token": "を",
@@ -167,13 +167,13 @@
         "token": "所",
         "startTime": 12629,
         "endTime": 12799,
-        "pinyin": "Tokoro"
+        "pinyin": "tokoro"
       },
       {
         "token": "有",
         "startTime": 12799,
         "endTime": 12969,
-        "pinyin": "Yuu"
+        "pinyin": "yuu"
       },
       {
         "token": "す",
@@ -239,7 +239,7 @@
         "token": "方",
         "startTime": 14669,
         "endTime": 14839,
-        "pinyin": "hou"
+        "pinyin": "kata"
       },
       {
         "token": "か",
@@ -281,7 +281,7 @@
         "token": "聞",
         "startTime": 15578,
         "endTime": 15654,
-        "pinyin": "kiki"
+        "pinyin": "kiku"
       },
       {
         "token": "こ",
@@ -426,9 +426,9 @@
     ]
   },
   {
-    "sentence_text": "ガス や 岩石 が 噴出 し 、 煙 がたし 込める 地割れ から とどろい て です 。",
+    "sentence_text": "ガス や 岩石 が 噴出 し 、 煙 が たし 込める 地割れ から とどろい て です 。",
     "translations": {
-      "en": "It roared from a crack in the earth spewing gas and rock, filling the air with smoke."
+      "en": "It roared from a fissure spewing gas and rock, filling with smoke."
     },
     "segments": [
       {
@@ -616,7 +616,7 @@
   {
     "sentence_text": "この 地割れ は 後 に パリプティン 火山 と し て 知ら れる ようり ます 。",
     "translations": {
-      "en": "This crack later became known as Parícutin volcano."
+      "en": "This fissure later became known as the Parícutin volcano."
     },
     "segments": [
       {
@@ -798,7 +798,7 @@
   {
     "sentence_text": "その 後 9 年 かけ て 溶岩 と 火山 灰 200 平方 キロメートル を 覆い まし た",
     "translations": {
-      "en": "Over the next 9 years, lava and ash covered 200 square kilometers."
+      "en": "Over the next nine years, lava and ash covered 200 square kilometers."
     },
     "segments": [
       {
@@ -883,7 +883,7 @@
         "token": "灰",
         "startTime": 32439,
         "endTime": 32619,
-        "pinyin": "hai"
+        "pinyin": "bai"
       },
       {
         "token": "2",
@@ -907,13 +907,13 @@
         "token": "平",
         "startTime": 33200,
         "endTime": 33400,
-        "pinyin": "taira"
+        "pinyin": "daira"
       },
       {
         "token": "方",
         "startTime": 33400,
         "endTime": 33600,
-        "pinyin": "hou"
+        "pinyin": "kata"
       },
       {
         "token": "キ",
@@ -961,7 +961,7 @@
         "token": "覆",
         "startTime": 34340,
         "endTime": 34500,
-        "pinyin": "fuku"
+        "pinyin": "?"
       },
       {
         "token": "い",
@@ -1089,7 +1089,7 @@
         "token": "来",
         "startTime": 39140,
         "endTime": 39260,
-        "pinyin": "ki"
+        "pinyin": "rai"
       },
       {
         "token": "て",
@@ -1234,7 +1234,7 @@
   {
     "sentence_text": "どんな 火山 の 話 も マグマ で 始まり ます",
     "translations": {
-      "en": "Every volcano story begins with magma."
+      "en": "Any volcano story begins with magma."
     },
     "segments": [
       {
@@ -1313,7 +1313,7 @@
         "token": "始",
         "startTime": 45160,
         "endTime": 45280,
-        "pinyin": "Hajime"
+        "pinyin": "shi"
       },
       {
         "token": "ま",
@@ -1344,14 +1344,14 @@
   {
     "sentence_text": "多く の 場合 海水 が マントル に 浸透 し 層 の 有 点 を 下げる 場所 で 岩石 が 溶け マグマ が 作ら れ ます",
     "translations": {
-      "en": "Often, magma forms where seawater seeps into the mantle, lowering the melting point of rock."
+      "en": "Often, seawater seeps into the mantle, lowering the melting point of rock, creating magma."
     },
     "segments": [
       {
         "token": "多",
         "startTime": 47240,
         "endTime": 47370,
-        "pinyin": "sawa"
+        "pinyin": "ta"
       },
       {
         "token": "く",
@@ -1375,7 +1375,7 @@
         "token": "合",
         "startTime": 47770,
         "endTime": 47900,
-        "pinyin": "awase"
+        "pinyin": "gou"
       },
       {
         "token": "海",
@@ -1429,13 +1429,13 @@
         "token": "浸",
         "startTime": 49260,
         "endTime": 49440,
-        "pinyin": "?"
+        "pinyin": "shitomi"
       },
       {
         "token": "透",
         "startTime": 49440,
         "endTime": 49620,
-        "pinyin": "tou"
+        "pinyin": "Tooru"
       },
       {
         "token": "し",
@@ -1459,7 +1459,7 @@
         "token": "有",
         "startTime": 50460,
         "endTime": 50600,
-        "pinyin": "Yuu"
+        "pinyin": "yuu"
       },
       {
         "token": "点",
@@ -1477,7 +1477,7 @@
         "token": "下",
         "startTime": 50880,
         "endTime": 50987,
-        "pinyin": "shita"
+        "pinyin": "ka"
       },
       {
         "token": "げ",
@@ -1501,7 +1501,7 @@
         "token": "所",
         "startTime": 51310,
         "endTime": 51420,
-        "pinyin": "Tokoro"
+        "pinyin": "tokoro"
       },
       {
         "token": "で",
@@ -1596,9 +1596,9 @@
     ]
   },
   {
-    "sentence_text": "マグマ は 一般 的 に 地球 の 表面 下 に 残っ い ます が それ は 微妙 な バランス を 保つ 3 つ の 地質 学 的 要因 の お",
+    "sentence_text": "マグマ は 一般 的 に 地球 の 表面 下 に 残っ い ます が それ は 微妙 な バランス を 保つ 3 つ の 地質 学 的 要因 の",
     "translations": {
-      "en": "Magma usually stays beneath Earth's surface, thanks to a delicate balance of three geological factors:"
+      "en": "Magma usually stays beneath Earth's surface, thanks to three geological factors maintaining a delicate balance:"
     },
     "segments": [
       {
@@ -1641,7 +1641,7 @@
         "token": "的",
         "startTime": 57220,
         "endTime": 57400,
-        "pinyin": "mato"
+        "pinyin": "teki"
       },
       {
         "token": "に",
@@ -1659,7 +1659,7 @@
         "token": "球",
         "startTime": 57790,
         "endTime": 57980,
-        "pinyin": "tama"
+        "pinyin": "kyuu"
       },
       {
         "token": "の",
@@ -1683,7 +1683,7 @@
         "token": "下",
         "startTime": 58480,
         "endTime": 58560,
-        "pinyin": "shita"
+        "pinyin": "ka"
       },
       {
         "token": "に",
@@ -1749,7 +1749,7 @@
         "token": "微",
         "startTime": 60000,
         "endTime": 60290,
-        "pinyin": "kasuka"
+        "pinyin": "bi"
       },
       {
         "token": "妙",
@@ -1845,7 +1845,7 @@
         "token": "的",
         "startTime": 62740,
         "endTime": 63040,
-        "pinyin": "mato"
+        "pinyin": "teki"
       },
       {
         "token": "要",
@@ -1857,26 +1857,28 @@
         "token": "因",
         "startTime": 63200,
         "endTime": 63360,
-        "pinyin": "in"
+        "pinyin": "moto"
       },
       {
         "token": "の",
         "startTime": 63360,
         "endTime": 63540,
         "pinyin": "no"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "おかげ です",
+    "translations": {
+      "en": "that balance."
+    },
+    "segments": [
       {
         "token": "お",
         "startTime": 63540,
         "endTime": 63620,
         "pinyin": "o"
-      }
-    ]
-  },
-  {
-    "sentence_text": "かげ です",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "か",
         "startTime": 63620,
@@ -1937,7 +1939,7 @@
         "token": "静",
         "startTime": 65200,
         "endTime": 65600,
-        "pinyin": "Sei"
+        "pinyin": "sei"
       },
       {
         "token": "岩",
@@ -1968,7 +1970,7 @@
   {
     "sentence_text": "マグマ を 押し下げよう と する 地殻 の 重 さ の こと です",
     "translations": {
-      "en": "This is the weight of the crust pushing magma down."
+      "en": "The weight of the crust pushing magma down."
     },
     "segments": [
       {
@@ -1999,7 +2001,7 @@
         "token": "押",
         "startTime": 67920,
         "endTime": 68010,
-        "pinyin": "ou"
+        "pinyin": "oshi"
       },
       {
         "token": "し",
@@ -2011,7 +2013,7 @@
         "token": "下",
         "startTime": 68100,
         "endTime": 68190,
-        "pinyin": "shita"
+        "pinyin": "ka"
       },
       {
         "token": "げ",
@@ -2071,7 +2073,7 @@
         "token": "重",
         "startTime": 69300,
         "endTime": 69420,
-        "pinyin": "juu"
+        "pinyin": "e"
       },
       {
         "token": "さ",
@@ -2114,7 +2116,7 @@
   {
     "sentence_text": "これ に 対し 2 つ 目 の 要因 マグマ の 圧力 が 押し返し ます",
     "translations": {
-      "en": "Against this, a second factor—magma pressure—pushes back."
+      "en": "Against this, the second factor—magma pressure—pushes back."
     },
     "segments": [
       {
@@ -2181,7 +2183,7 @@
         "token": "因",
         "startTime": 73710,
         "endTime": 74120,
-        "pinyin": "in"
+        "pinyin": "moto"
       },
       {
         "token": "マ",
@@ -2229,7 +2231,7 @@
         "token": "押",
         "startTime": 75100,
         "endTime": 75270,
-        "pinyin": "ou"
+        "pinyin": "oshi"
       },
       {
         "token": "し",
@@ -2266,7 +2268,7 @@
   {
     "sentence_text": "この 2 つ の 圧力 の 逆行 に より 緊張 が 高まる の が 3 つ 目 の 要因 つまり 地 く の 岩石 強度 です 。",
     "translations": {
-      "en": "The tension from these opposing pressures is the third factor: the strength of the surrounding rock."
+      "en": "The tension from these opposing pressures is the third factor: the strength of the crustal rock."
     },
     "segments": [
       {
@@ -2327,7 +2329,7 @@
         "token": "行",
         "startTime": 78080,
         "endTime": 78220,
-        "pinyin": "Kou"
+        "pinyin": "gyou"
       },
       {
         "token": "に",
@@ -2351,13 +2353,13 @@
         "token": "緊",
         "startTime": 78620,
         "endTime": 78840,
-        "pinyin": "kin"
+        "pinyin": "?"
       },
       {
         "token": "張",
         "startTime": 78840,
         "endTime": 79060,
-        "pinyin": "Chou"
+        "pinyin": "hari"
       },
       {
         "token": "が",
@@ -2429,7 +2431,7 @@
         "token": "因",
         "startTime": 80770,
         "endTime": 80980,
-        "pinyin": "in"
+        "pinyin": "moto"
       },
       {
         "token": "つ",
@@ -2483,7 +2485,7 @@
         "token": "強",
         "startTime": 82655,
         "endTime": 82855,
-        "pinyin": "kyou"
+        "pinyin": "tsuyo"
       },
       {
         "token": "度",
@@ -2521,7 +2523,7 @@
         "token": "通",
         "startTime": 83915,
         "endTime": 84105,
-        "pinyin": "Tsuu"
+        "pinyin": "doori"
       },
       {
         "token": "常",
@@ -2563,7 +2565,7 @@
         "token": "下",
         "startTime": 84955,
         "endTime": 85055,
-        "pinyin": "shita"
+        "pinyin": "ka"
       },
       {
         "token": "に",
@@ -2575,7 +2577,7 @@
         "token": "留",
         "startTime": 85175,
         "endTime": 85355,
-        "pinyin": "tome"
+        "pinyin": "dome"
       },
       {
         "token": "め",
@@ -2635,7 +2637,7 @@
         "token": "強",
         "startTime": 86755,
         "endTime": 86885,
-        "pinyin": "kyou"
+        "pinyin": "tsuyo"
       },
       {
         "token": "度",
@@ -2653,7 +2655,7 @@
         "token": "重",
         "startTime": 87135,
         "endTime": 87295,
-        "pinyin": "juu"
+        "pinyin": "e"
       },
       {
         "token": "さ",
@@ -2689,7 +2691,7 @@
         "token": "有",
         "startTime": 88255,
         "endTime": 88335,
-        "pinyin": "Yuu"
+        "pinyin": "yuu"
       },
       {
         "token": "し",
@@ -2726,7 +2728,7 @@
   {
     "sentence_text": "しかし その 均衡 が 破ら れ た とき 、 爆発 的 な 結果 が もたらさ れる です 。",
     "translations": {
-      "en": "But when that balance breaks, the results can be explosive."
+      "en": "But when that balance breaks, explosive results follow."
     },
     "segments": [
       {
@@ -2763,7 +2765,7 @@
         "token": "均",
         "startTime": 90015,
         "endTime": 90175,
-        "pinyin": "Hitoshi"
+        "pinyin": "hitoshi"
       },
       {
         "token": "衡",
@@ -2823,7 +2825,7 @@
         "token": "爆",
         "startTime": 92015,
         "endTime": 92175,
-        "pinyin": "baku"
+        "pinyin": "?"
       },
       {
         "token": "発",
@@ -2835,7 +2837,7 @@
         "token": "的",
         "startTime": 92335,
         "endTime": 92495,
-        "pinyin": "mato"
+        "pinyin": "teki"
       },
       {
         "token": "な",
@@ -2853,7 +2855,7 @@
         "token": "果",
         "startTime": 92955,
         "endTime": 93155,
-        "pinyin": "ka"
+        "pinyin": "hate"
       },
       {
         "token": "が",
@@ -2920,7 +2922,7 @@
   {
     "sentence_text": "最も 一般 的 な 噴火 の 原因 の 一 つ に マグマ の 圧力 の 上昇 が 挙げ られ ます 。",
     "translations": {
-      "en": "One of the most common triggers is an increase in magma pressure."
+      "en": "One of the most common eruption triggers is a rise in magma pressure."
     },
     "segments": [
       {
@@ -2951,7 +2953,7 @@
         "token": "的",
         "startTime": 95675,
         "endTime": 95875,
-        "pinyin": "mato"
+        "pinyin": "teki"
       },
       {
         "token": "な",
@@ -2981,13 +2983,13 @@
         "token": "原",
         "startTime": 96415,
         "endTime": 96535,
-        "pinyin": "Hara"
+        "pinyin": "gen"
       },
       {
         "token": "因",
         "startTime": 96535,
         "endTime": 96655,
-        "pinyin": "in"
+        "pinyin": "moto"
       },
       {
         "token": "の",
@@ -3065,7 +3067,7 @@
         "token": "昇",
         "startTime": 98585,
         "endTime": 98775,
-        "pinyin": "Noboru"
+        "pinyin": "shou"
       },
       {
         "token": "が",
@@ -3118,9 +3120,9 @@
     ]
   },
   {
-    "sentence_text": "マグマ は 様々 な 元素 や 化合 物 を 含ん で おり 、 多く が 々 し た 岩石 に 溶け込ん い ます 。",
+    "sentence_text": "マグマ は 様々 な 元素 や 化合 物 を 含ん で おり 、",
     "translations": {
-      "en": "Magma contains various elements and compounds, many dissolved in the molten rock."
+      "en": "Magma contains various elements and compounds,"
     },
     "segments": [
       {
@@ -3151,7 +3153,7 @@
         "token": "様",
         "startTime": 101015,
         "endTime": 101435,
-        "pinyin": "you"
+        "pinyin": "sama"
       },
       {
         "token": "々",
@@ -3175,7 +3177,7 @@
         "token": "素",
         "startTime": 101835,
         "endTime": 101975,
-        "pinyin": "moto"
+        "pinyin": "so"
       },
       {
         "token": "や",
@@ -3187,13 +3189,13 @@
         "token": "化",
         "startTime": 102115,
         "endTime": 102255,
-        "pinyin": "bake"
+        "pinyin": "ka"
       },
       {
         "token": "合",
         "startTime": 102255,
         "endTime": 102395,
-        "pinyin": "awase"
+        "pinyin": "gou"
       },
       {
         "token": "物",
@@ -3242,12 +3244,20 @@
         "startTime": 103795,
         "endTime": 103955,
         "pinyin": ","
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "多く が 々 し た 岩石 に 溶け込ん い ます 。",
+    "translations": {
+      "en": "many dissolved into the surrounding rock."
+    },
+    "segments": [
       {
         "token": "多",
         "startTime": 103955,
         "endTime": 104115,
-        "pinyin": "sawa"
+        "pinyin": "ta"
       },
       {
         "token": "く",
@@ -3348,9 +3358,9 @@
     ]
   },
   {
-    "sentence_text": "しかし 水 や イオン の よう な 物質 の 濃度 が 高まる と もはや 了解 せ ず 代わり に 高圧 の 気泡 を 形作り ます",
+    "sentence_text": "しかし 水 や イオン の よう な 物質 の 濃度 が 高まる と",
     "translations": {
-      "en": "But when concentrations of substances like water or ions rise, they can no longer stay dissolved, instead forming high-pressure gas bubbles."
+      "en": "But when the concentration of substances like water and ions increases,"
     },
     "segments": [
       {
@@ -3447,7 +3457,7 @@
         "token": "濃",
         "startTime": 108975,
         "endTime": 109095,
-        "pinyin": "ko"
+        "pinyin": "nou"
       },
       {
         "token": "度",
@@ -3484,7 +3494,15 @@
         "startTime": 109735,
         "endTime": 110315,
         "pinyin": "to"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "もはや 了解 せ ず 代わり に 高圧 の 気泡 を 形作り ます",
+    "translations": {
+      "en": "it no longer dissolves, instead forming high-pressure bubbles."
+    },
+    "segments": [
       {
         "token": "も",
         "startTime": 110315,
@@ -3507,7 +3525,7 @@
         "token": "了",
         "startTime": 110735,
         "endTime": 110915,
-        "pinyin": "Ryou"
+        "pinyin": "owari"
       },
       {
         "token": "解",
@@ -3573,7 +3591,7 @@
         "token": "気",
         "startTime": 112855,
         "endTime": 112955,
-        "pinyin": "ki"
+        "pinyin": "ge"
       },
       {
         "token": "泡",
@@ -3620,9 +3638,9 @@
     ]
   },
   {
-    "sentence_text": "そして 地表 に 到達 する と 弾丸 が 発射 さ れる よう に 気泡 が 弾け ます",
+    "sentence_text": "そして 地表 に 到達 する と",
     "translations": {
-      "en": "When they reach the surface, the bubbles burst like bullets firing."
+      "en": "And when they reach the surface,"
     },
     "segments": [
       {
@@ -3671,7 +3689,7 @@
         "token": "達",
         "startTime": 118085,
         "endTime": 118235,
-        "pinyin": "Tooru"
+        "pinyin": "tachi"
       },
       {
         "token": "す",
@@ -3690,12 +3708,20 @@
         "startTime": 118575,
         "endTime": 118735,
         "pinyin": "to"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "弾丸 が 発射 さ れる よう に 気泡 が 弾け ます",
+    "translations": {
+      "en": "the bubbles burst like a bullet being fired."
+    },
+    "segments": [
       {
         "token": "弾",
         "startTime": 118735,
         "endTime": 119045,
-        "pinyin": "tama"
+        "pinyin": "dan"
       },
       {
         "token": "丸",
@@ -3719,7 +3745,7 @@
         "token": "射",
         "startTime": 119705,
         "endTime": 119835,
-        "pinyin": "i"
+        "pinyin": "sha"
       },
       {
         "token": "さ",
@@ -3761,7 +3787,7 @@
         "token": "気",
         "startTime": 120455,
         "endTime": 120665,
-        "pinyin": "ki"
+        "pinyin": "ge"
       },
       {
         "token": "泡",
@@ -3779,7 +3805,7 @@
         "token": "弾",
         "startTime": 121035,
         "endTime": 121185,
-        "pinyin": "tama"
+        "pinyin": "dan"
       },
       {
         "token": "け",
@@ -3802,9 +3828,9 @@
     ]
   },
   {
-    "sentence_text": "何百 万 も の 気泡 が 同時 に 爆発 する とき その エネルギー に より 灰 の 柱 と なっ て 清掃 圏 へ 送ら れ ます",
+    "sentence_text": "何百 万 も の 気泡 が 同時 に 爆発 する とき",
     "translations": {
-      "en": "When millions of bubbles explode simultaneously, their energy forms a column of ash that is sent into the cleaning zone."
+      "en": "When millions of bubbles explode simultaneously,"
     },
     "segments": [
       {
@@ -3823,7 +3849,7 @@
         "token": "万",
         "startTime": 122975,
         "endTime": 123115,
-        "pinyin": "man"
+        "pinyin": "yorozu"
       },
       {
         "token": "も",
@@ -3841,7 +3867,7 @@
         "token": "気",
         "startTime": 123515,
         "endTime": 123665,
-        "pinyin": "ki"
+        "pinyin": "ge"
       },
       {
         "token": "泡",
@@ -3865,7 +3891,7 @@
         "token": "時",
         "startTime": 124215,
         "endTime": 124335,
-        "pinyin": "ji"
+        "pinyin": "toki"
       },
       {
         "token": "に",
@@ -3877,7 +3903,7 @@
         "token": "爆",
         "startTime": 124415,
         "endTime": 124665,
-        "pinyin": "baku"
+        "pinyin": "?"
       },
       {
         "token": "発",
@@ -3908,7 +3934,15 @@
         "startTime": 125875,
         "endTime": 125975,
         "pinyin": "ki"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "その エネルギー に より 灰 の 柱 と なっ て",
+    "translations": {
+      "en": "that energy forms a column of ash,"
+    },
+    "segments": [
       {
         "token": "そ",
         "startTime": 125975,
@@ -3973,7 +4007,7 @@
         "token": "灰",
         "startTime": 127655,
         "endTime": 127895,
-        "pinyin": "hai"
+        "pinyin": "bai"
       },
       {
         "token": "の",
@@ -4010,7 +4044,15 @@
         "startTime": 128795,
         "endTime": 129015,
         "pinyin": "te"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "清掃 圏 へ 送ら れ ます",
+    "translations": {
+      "en": "which is sent into the cleaning zone."
+    },
+    "segments": [
       {
         "token": "清",
         "startTime": 129015,
@@ -4039,7 +4081,7 @@
         "token": "送",
         "startTime": 130115,
         "endTime": 130225,
-        "pinyin": "?"
+        "pinyin": "oku"
       },
       {
         "token": "ら",
@@ -4101,7 +4143,7 @@
         "token": "裂",
         "startTime": 131665,
         "endTime": 131955,
-        "pinyin": "retsu"
+        "pinyin": "kire"
       },
       {
         "token": "す",
@@ -4131,7 +4173,7 @@
         "token": "気",
         "startTime": 132675,
         "endTime": 132815,
-        "pinyin": "ki"
+        "pinyin": "ge"
       },
       {
         "token": "泡",
@@ -4167,7 +4209,7 @@
         "token": "ソ",
         "startTime": 133555,
         "endTime": 133688,
-        "pinyin": "So"
+        "pinyin": "so"
       },
       {
         "token": "ー",
@@ -4226,16 +4268,16 @@
     ]
   },
   {
-    "sentence_text": "気泡 が 含ま れる と マグマ の 密度 が 低く なり 地殻 を 通り 突き上げよう と する 浮力 が 増す の です",
+    "sentence_text": "気泡 が 含ま れる と マグマ の 密度 が 低く なり",
     "translations": {
-      "en": "When bubbles are present, the magma becomes less dense, increasing the buoyancy that pushes it up through the crust."
+      "en": "When bubbles are present, the magma's density decreases,"
     },
     "segments": [
       {
         "token": "気",
         "startTime": 135855,
         "endTime": 135955,
-        "pinyin": "ki"
+        "pinyin": "ge"
       },
       {
         "token": "泡",
@@ -4344,7 +4386,15 @@
         "startTime": 138385,
         "endTime": 138575,
         "pinyin": "ri"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "地殻 を 通り 突き上げよう と する 浮力 が 増す の です",
+    "translations": {
+      "en": "increasing buoyancy that pushes it up through the crust."
+    },
+    "segments": [
       {
         "token": "地",
         "startTime": 138575,
@@ -4367,7 +4417,7 @@
         "token": "通",
         "startTime": 139035,
         "endTime": 139175,
-        "pinyin": "Tsuu"
+        "pinyin": "doori"
       },
       {
         "token": "り",
@@ -4480,9 +4530,9 @@
     ]
   },
   {
-    "sentence_text": "メキシコ の パリプティン 火山 も こう し た 過程 を 経 て 噴火 し た と 多く の 地質 学 者 は 考え ます",
+    "sentence_text": "メキシコ の パリプティン 火山 も",
     "translations": {
-      "en": "Many geologists believe that Mexico's Parícutin volcano erupted through this process."
+      "en": "Mexico's Parícutin volcano"
     },
     "segments": [
       {
@@ -4568,7 +4618,15 @@
         "startTime": 144955,
         "endTime": 145615,
         "pinyin": "mo"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "こう し た 過程 を 経 て 噴火 し た と",
+    "translations": {
+      "en": "is thought by many geologists"
+    },
+    "segments": [
       {
         "token": "こ",
         "startTime": 145615,
@@ -4597,7 +4655,7 @@
         "token": "過",
         "startTime": 146195,
         "endTime": 146315,
-        "pinyin": "sugi"
+        "pinyin": "ka"
       },
       {
         "token": "程",
@@ -4615,7 +4673,7 @@
         "token": "経",
         "startTime": 146515,
         "endTime": 146615,
-        "pinyin": "kyou"
+        "pinyin": "he"
       },
       {
         "token": "て",
@@ -4652,12 +4710,20 @@
         "startTime": 147675,
         "endTime": 147795,
         "pinyin": "to"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "多く の 地質 学 者 は 考え ます",
+    "translations": {
+      "en": "to have erupted through this process."
+    },
+    "segments": [
       {
         "token": "多",
         "startTime": 147795,
         "endTime": 147915,
-        "pinyin": "sawa"
+        "pinyin": "ta"
       },
       {
         "token": "く",
@@ -4728,7 +4794,7 @@
     ]
   },
   {
-    "sentence_text": "こう し た 気泡 の 原因 2 つ の 自然 要因 が 知ら れい ます",
+    "sentence_text": "こう し た 気泡 の 原因 2 つ の 自然 要因 が 知ら れ い ます",
     "translations": {
       "en": "Two natural factors are known to cause these bubbles."
     },
@@ -4761,7 +4827,7 @@
         "token": "気",
         "startTime": 150555,
         "endTime": 150765,
-        "pinyin": "ki"
+        "pinyin": "ge"
       },
       {
         "token": "泡",
@@ -4779,13 +4845,13 @@
         "token": "原",
         "startTime": 151255,
         "endTime": 151325,
-        "pinyin": "Hara"
+        "pinyin": "gen"
       },
       {
         "token": "因",
         "startTime": 151325,
         "endTime": 151395,
-        "pinyin": "in"
+        "pinyin": "moto"
       },
       {
         "token": "2",
@@ -4815,7 +4881,7 @@
         "token": "然",
         "startTime": 152125,
         "endTime": 152255,
-        "pinyin": "sa"
+        "pinyin": "sou"
       },
       {
         "token": "要",
@@ -4827,7 +4893,7 @@
         "token": "因",
         "startTime": 152435,
         "endTime": 152615,
-        "pinyin": "in"
+        "pinyin": "moto"
       },
       {
         "token": "が",
@@ -4874,9 +4940,9 @@
     ]
   },
   {
-    "sentence_text": "まず 地下 深部 で 新た に 発生 し た マグマ が ガス を 含ん だ 成分 を 運び 混合 物 に 加わる 場合",
+    "sentence_text": "まず 地下 深部 で 新た に 発生 し た マグマ が",
     "translations": {
-      "en": "First, when newly generated magma deep underground carries gas-rich components into the mixture."
+      "en": "First, when newly formed magma deep underground"
     },
     "segments": [
       {
@@ -4901,7 +4967,7 @@
         "token": "下",
         "startTime": 154355,
         "endTime": 154555,
-        "pinyin": "shita"
+        "pinyin": "ka"
       },
       {
         "token": "深",
@@ -4986,7 +5052,15 @@
         "startTime": 156115,
         "endTime": 156715,
         "pinyin": "ga"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ガス を 含ん だ 成分 を 運び 混合 物 に 加わる 場合",
+    "translations": {
+      "en": "carries gas-rich components and adds to the mixture,"
+    },
+    "segments": [
       {
         "token": "ガ",
         "startTime": 156715,
@@ -5063,7 +5137,7 @@
         "token": "合",
         "startTime": 158665,
         "endTime": 158835,
-        "pinyin": "awase"
+        "pinyin": "gou"
       },
       {
         "token": "物",
@@ -5105,14 +5179,14 @@
         "token": "合",
         "startTime": 160325,
         "endTime": 160895,
-        "pinyin": "awase"
+        "pinyin": "gou"
       }
     ]
   },
   {
-    "sentence_text": "そして マグマ が 冷却 する とき に 気泡 が 作ら れる 場合 です",
+    "sentence_text": "そして マグマ が 冷却 する とき に",
     "translations": {
-      "en": "And second, when bubbles are created as magma cools."
+      "en": "and second, when magma cools,"
     },
     "segments": [
       {
@@ -5161,7 +5235,7 @@
         "token": "冷",
         "startTime": 161735,
         "endTime": 161925,
-        "pinyin": "rei"
+        "pinyin": "same"
       },
       {
         "token": "却",
@@ -5198,12 +5272,20 @@
         "startTime": 162575,
         "endTime": 162715,
         "pinyin": "ni"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "気泡 が 作ら れる 場合 です",
+    "translations": {
+      "en": "bubbles are formed."
+    },
+    "segments": [
       {
         "token": "気",
         "startTime": 162715,
         "endTime": 162865,
-        "pinyin": "ki"
+        "pinyin": "ge"
       },
       {
         "token": "泡",
@@ -5251,7 +5333,7 @@
         "token": "合",
         "startTime": 163853,
         "endTime": 163990,
-        "pinyin": "awase"
+        "pinyin": "gou"
       },
       {
         "token": "で",
@@ -5268,9 +5350,9 @@
     ]
   },
   {
-    "sentence_text": "溶融 状態 の とき マグマ に は ガス と 溶け た 鉱物 が 混ざり合っ い ます",
+    "sentence_text": "溶融 状態 の とき マグマ に は",
     "translations": {
-      "en": "In its molten state, magma contains a mix of gas and dissolved minerals."
+      "en": "In its molten state, magma"
     },
     "segments": [
       {
@@ -5283,7 +5365,7 @@
         "token": "融",
         "startTime": 165330,
         "endTime": 165470,
-        "pinyin": "Tooru"
+        "pinyin": "Yuu"
       },
       {
         "token": "状",
@@ -5344,7 +5426,15 @@
         "startTime": 167190,
         "endTime": 167630,
         "pinyin": "wa"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ガス と 溶け た 鉱物 が 混ざり合っ い ます",
+    "translations": {
+      "en": "contains a mix of gas and dissolved minerals."
+    },
+    "segments": [
       {
         "token": "ガ",
         "startTime": 167630,
@@ -5421,7 +5511,7 @@
         "token": "合",
         "startTime": 169182,
         "endTime": 169266,
-        "pinyin": "awase"
+        "pinyin": "gou"
       },
       {
         "token": "っ",
@@ -5450,9 +5540,9 @@
     ]
   },
   {
-    "sentence_text": "しかし マグマ が 固結 する に つれ 一部 の 鉱物 は 凝固 し 結晶 化 し ます",
+    "sentence_text": "しかし マグマ が 固結 する に つれ",
     "translations": {
-      "en": "But as magma solidifies, some minerals solidify and crystallize."
+      "en": "However, as magma solidifies,"
     },
     "segments": [
       {
@@ -5538,7 +5628,15 @@
         "startTime": 171790,
         "endTime": 171790,
         "pinyin": "re"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "一部 の 鉱物 は 凝固 し 結晶 化 し ます",
+    "translations": {
+      "en": "some minerals coagulate and crystallize."
+    },
+    "segments": [
       {
         "token": "一",
         "startTime": 171790,
@@ -5603,13 +5701,13 @@
         "token": "晶",
         "startTime": 174000,
         "endTime": 174210,
-        "pinyin": "Akira"
+        "pinyin": "shou"
       },
       {
         "token": "化",
         "startTime": 174210,
         "endTime": 174370,
-        "pinyin": "bake"
+        "pinyin": "ka"
       },
       {
         "token": "し",
@@ -5632,9 +5730,9 @@
     ]
   },
   {
-    "sentence_text": "この 過程 に 溶解 し て いる ガス は 含ま れ ず 爆発 性 の ある 気泡 を 作る 成分 の 濃度 が 高まる の です",
+    "sentence_text": "この 過程 に 溶解 し て いる ガス は 含ま れ ず",
     "translations": {
-      "en": "This process excludes the dissolved gas, increasing the concentration of components that create explosive bubbles."
+      "en": "Dissolved gases are not included in this process,"
     },
     "segments": [
       {
@@ -5653,7 +5751,7 @@
         "token": "過",
         "startTime": 176370,
         "endTime": 176480,
-        "pinyin": "sugi"
+        "pinyin": "ka"
       },
       {
         "token": "程",
@@ -5744,12 +5842,20 @@
         "startTime": 180310,
         "endTime": 180450,
         "pinyin": "zu"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "爆発 性 の ある 気泡 を 作る 成分 の 濃度 が 高まる の です",
+    "translations": {
+      "en": "increasing the concentration of components that form explosive bubbles."
+    },
+    "segments": [
       {
         "token": "爆",
         "startTime": 180450,
         "endTime": 180630,
-        "pinyin": "baku"
+        "pinyin": "?"
       },
       {
         "token": "発",
@@ -5785,7 +5891,7 @@
         "token": "気",
         "startTime": 181350,
         "endTime": 181490,
-        "pinyin": "ki"
+        "pinyin": "ge"
       },
       {
         "token": "泡",
@@ -5833,7 +5939,7 @@
         "token": "濃",
         "startTime": 182510,
         "endTime": 182690,
-        "pinyin": "ko"
+        "pinyin": "nou"
       },
       {
         "token": "度",
@@ -5895,7 +6001,7 @@
         "token": "全",
         "startTime": 186970,
         "endTime": 187080,
-        "pinyin": "Zen"
+        "pinyin": "zen"
       },
       {
         "token": "て",
@@ -6014,9 +6120,9 @@
     ]
   },
   {
-    "sentence_text": "上層 部 の 岩石 の 重 さ が 危険 な ほど 低く なり 噴火 が 起こる こと も あり 得 ます",
+    "sentence_text": "上層 部 の 岩石 の 重 さ が 危険 な ほど 低く なり",
     "translations": {
-      "en": "Eruptions can also occur when the weight of overlying rock becomes dangerously low."
+      "en": "When the weight of overlying rock becomes dangerously low,"
     },
     "segments": [
       {
@@ -6065,7 +6171,7 @@
         "token": "重",
         "startTime": 191270,
         "endTime": 191390,
-        "pinyin": "juu"
+        "pinyin": "e"
       },
       {
         "token": "さ",
@@ -6083,7 +6189,7 @@
         "token": "危",
         "startTime": 191650,
         "endTime": 191830,
-        "pinyin": "Ki"
+        "pinyin": "ayau"
       },
       {
         "token": "険",
@@ -6132,7 +6238,15 @@
         "startTime": 192650,
         "endTime": 192650,
         "pinyin": "ri"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "噴火 が 起こる こと も あり 得 ます",
+    "translations": {
+      "en": "an eruption can occur."
+    },
+    "segments": [
       {
         "token": "噴",
         "startTime": 192650,
@@ -6203,7 +6317,7 @@
         "token": "得",
         "startTime": 194250,
         "endTime": 194330,
-        "pinyin": "toku"
+        "pinyin": "e"
       },
       {
         "token": "ま",
@@ -6220,9 +6334,9 @@
     ]
   },
   {
-    "sentence_text": "地滑り に より マグマ だまり 上部 の 岩石 が 大量 に 取り除か れ 静 岩 圧 が 下がる こと で 一瞬 に し て 噴火 が 発",
+    "sentence_text": "地滑り に より マグマ だまり 上部 の 岩石 が 大量 に 取り除か れ",
     "translations": {
-      "en": "A landslide can remove a large amount of rock above the magma chamber, reducing lithostatic pressure and instantly triggering an eruption."
+      "en": "A landslide can remove a large amount of rock above the magma chamber,"
     },
     "segments": [
       {
@@ -6235,7 +6349,7 @@
         "token": "滑",
         "startTime": 195390,
         "endTime": 195530,
-        "pinyin": "name"
+        "pinyin": "nameraka"
       },
       {
         "token": "り",
@@ -6380,12 +6494,20 @@
         "startTime": 199370,
         "endTime": 199970,
         "pinyin": "re"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "静 岩 圧 が 下がる こと で 一瞬 に し て 噴火 が 発生 する こと も ある の です",
+    "translations": {
+      "en": "reducing lithostatic pressure and triggering an eruption instantly."
+    },
+    "segments": [
       {
         "token": "静",
         "startTime": 199970,
         "endTime": 200150,
-        "pinyin": "Sei"
+        "pinyin": "sei"
       },
       {
         "token": "岩",
@@ -6409,7 +6531,7 @@
         "token": "下",
         "startTime": 200610,
         "endTime": 200723,
-        "pinyin": "shita"
+        "pinyin": "ka"
       },
       {
         "token": "が",
@@ -6494,15 +6616,7 @@
         "startTime": 202970,
         "endTime": 203160,
         "pinyin": "hatsu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "生 する こと も ある の です",
-    "translations": {
-      "en": "This can happen in an instant."
-    },
-    "segments": [
+      },
       {
         "token": "生",
         "startTime": 203160,
@@ -6574,7 +6688,7 @@
   {
     "sentence_text": "この 過程 は 除 火 作用 と し 々 の 噴火 の 原因 に なっ い ます",
     "translations": {
-      "en": "This process, known as unloading, causes some eruptions."
+      "en": "This process, known as unloading, can cause some eruptions."
     },
     "segments": [
       {
@@ -6593,7 +6707,7 @@
         "token": "過",
         "startTime": 206790,
         "endTime": 206920,
-        "pinyin": "sugi"
+        "pinyin": "ka"
       },
       {
         "token": "程",
@@ -6677,13 +6791,13 @@
         "token": "原",
         "startTime": 209170,
         "endTime": 209300,
-        "pinyin": "Hara"
+        "pinyin": "gen"
       },
       {
         "token": "因",
         "startTime": 209300,
         "endTime": 209430,
-        "pinyin": "in"
+        "pinyin": "moto"
       },
       {
         "token": "に",
@@ -6726,7 +6840,7 @@
   {
     "sentence_text": "19 80 年 の セントヘレンズ 山 の 突然 の 噴火 も そう です",
     "translations": {
-      "en": "Such was the case with the sudden eruption of Mount St. Helens in 1980."
+      "en": "Such was the sudden eruption of Mount St. Helens in 1980."
     },
     "segments": [
       {
@@ -6787,7 +6901,7 @@
         "token": "ヘ",
         "startTime": 212601,
         "endTime": 212719,
-        "pinyin": "he"
+        "pinyin": "e"
       },
       {
         "token": "レ",
@@ -6829,7 +6943,7 @@
         "token": "然",
         "startTime": 213600,
         "endTime": 213810,
-        "pinyin": "sa"
+        "pinyin": "sou"
       },
       {
         "token": "の",
@@ -6939,7 +7053,7 @@
         "token": "侵",
         "startTime": 216950,
         "endTime": 217270,
-        "pinyin": "shin"
+        "pinyin": "?"
       },
       {
         "token": "食",
@@ -6975,7 +7089,7 @@
         "token": "誘",
         "startTime": 218430,
         "endTime": 218550,
-        "pinyin": "yuu"
+        "pinyin": "sasoi"
       },
       {
         "token": "拐",
@@ -6993,13 +7107,13 @@
         "token": "原",
         "startTime": 218870,
         "endTime": 219020,
-        "pinyin": "Hara"
+        "pinyin": "gen"
       },
       {
         "token": "因",
         "startTime": 219020,
         "endTime": 219170,
-        "pinyin": "in"
+        "pinyin": "moto"
       },
       {
         "token": "で",
@@ -7011,7 +7125,7 @@
         "token": "長",
         "startTime": 219170,
         "endTime": 219590,
-        "pinyin": "naga"
+        "pinyin": "chou"
       },
       {
         "token": "い",
@@ -7023,7 +7137,7 @@
         "token": "時",
         "startTime": 220010,
         "endTime": 220130,
-        "pinyin": "ji"
+        "pinyin": "toki"
       },
       {
         "token": "間",
@@ -7112,9 +7226,9 @@
     ]
   },
   {
-    "sentence_text": "事実 気候 変動 に よる 氷河 の 誘拐 で 火山 活動 が 増える か も しれ ない と 多く の 地質 学 者 が 危惧 し て いる の",
+    "sentence_text": "事実 気候 変動 に よる 氷河 の 誘拐 で 火山 活動 が 増える か も しれ ない と 多く の 地質 学 者 が 危惧 し て いる",
     "translations": {
-      "en": "In fact, many geologists fear that glacial retreat due to climate change may increase volcanic activity."
+      "en": "In fact, many geologists fear that glacial retreat from climate change may increase volcanic activity."
     },
     "segments": [
       {
@@ -7127,13 +7241,13 @@
         "token": "実",
         "startTime": 222140,
         "endTime": 222330,
-        "pinyin": "jitsu"
+        "pinyin": "ji"
       },
       {
         "token": "気",
         "startTime": 222330,
         "endTime": 222590,
-        "pinyin": "ki"
+        "pinyin": "ge"
       },
       {
         "token": "候",
@@ -7193,7 +7307,7 @@
         "token": "誘",
         "startTime": 224150,
         "endTime": 224300,
-        "pinyin": "yuu"
+        "pinyin": "sasoi"
       },
       {
         "token": "拐",
@@ -7301,7 +7415,7 @@
         "token": "多",
         "startTime": 226590,
         "endTime": 226940,
-        "pinyin": "sawa"
+        "pinyin": "ta"
       },
       {
         "token": "く",
@@ -7349,13 +7463,13 @@
         "token": "危",
         "startTime": 228250,
         "endTime": 228390,
-        "pinyin": "Ki"
+        "pinyin": "ayau"
       },
       {
         "token": "惧",
         "startTime": 228390,
         "endTime": 228530,
-        "pinyin": "gu"
+        "pinyin": "?"
       },
       {
         "token": "し",
@@ -7380,19 +7494,19 @@
         "startTime": 229410,
         "endTime": 229910,
         "pinyin": "ru"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "の です",
+    "translations": {},
+    "segments": [
       {
         "token": "の",
         "startTime": 229910,
         "endTime": 230150,
         "pinyin": "no"
-      }
-    ]
-  },
-  {
-    "sentence_text": "です",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "で",
         "startTime": 230150,
@@ -7410,7 +7524,7 @@
   {
     "sentence_text": "最後 に マグマ を 抑える の に 十分 な ほど 岩石 層 の 強度 が 失わ れ た 時 に も 噴火 は 起こり 得 ます",
     "translations": {
-      "en": "Eruptions can also occur when the rock layer loses enough strength to contain the magma."
+      "en": "Finally, eruptions can occur when the rock layer loses enough strength to contain the magma."
     },
     "segments": [
       {
@@ -7459,7 +7573,7 @@
         "token": "抑",
         "startTime": 231530,
         "endTime": 231763,
-        "pinyin": "somosomo"
+        "pinyin": "?"
       },
       {
         "token": "え",
@@ -7543,7 +7657,7 @@
         "token": "強",
         "startTime": 234350,
         "endTime": 234410,
-        "pinyin": "kyou"
+        "pinyin": "tsuyo"
       },
       {
         "token": "度",
@@ -7585,7 +7699,7 @@
         "token": "時",
         "startTime": 235410,
         "endTime": 235570,
-        "pinyin": "ji"
+        "pinyin": "toki"
       },
       {
         "token": "に",
@@ -7639,7 +7753,7 @@
         "token": "得",
         "startTime": 237230,
         "endTime": 237410,
-        "pinyin": "toku"
+        "pinyin": "e"
       },
       {
         "token": "ま",
@@ -7658,7 +7772,7 @@
   {
     "sentence_text": "マグマ から 放出 さ れる 酸性 ガス や 熱 と いう 過程 を 通し 岩盤 が 劣化 、",
     "translations": {
-      "en": "Through processes like acidic gases and heat released from magma, the bedrock deteriorates,"
+      "en": "Through processes like acidic gases and heat released from magma, bedrock deteriorates,"
     },
     "segments": [
       {
@@ -7695,7 +7809,7 @@
         "token": "放",
         "startTime": 238630,
         "endTime": 238750,
-        "pinyin": "hou"
+        "pinyin": "?"
       },
       {
         "token": "出",
@@ -7779,7 +7893,7 @@
         "token": "過",
         "startTime": 241270,
         "endTime": 241450,
-        "pinyin": "sugi"
+        "pinyin": "ka"
       },
       {
         "token": "程",
@@ -7797,7 +7911,7 @@
         "token": "通",
         "startTime": 241810,
         "endTime": 242190,
-        "pinyin": "Tsuu"
+        "pinyin": "doori"
       },
       {
         "token": "し",
@@ -7833,7 +7947,7 @@
         "token": "化",
         "startTime": 243510,
         "endTime": 243950,
-        "pinyin": "bake"
+        "pinyin": "ka"
       },
       {
         "token": "、",
@@ -7846,14 +7960,14 @@
   {
     "sentence_text": "硬い 石 が 々 に 柔らかい 粘土 に 軟質 化 する の です",
     "translations": {
-      "en": "turning hard rock into soft clay."
+      "en": "turning hard rock into soft clay over time."
     },
     "segments": [
       {
         "token": "硬",
         "startTime": 244090,
         "endTime": 244210,
-        "pinyin": "kata"
+        "pinyin": "kou"
       },
       {
         "token": "い",
@@ -7889,7 +8003,7 @@
         "token": "柔",
         "startTime": 245010,
         "endTime": 245130,
-        "pinyin": "yawa"
+        "pinyin": "yawara"
       },
       {
         "token": "ら",
@@ -7913,7 +8027,7 @@
         "token": "粘",
         "startTime": 245490,
         "endTime": 245618,
-        "pinyin": "Nen"
+        "pinyin": "nen"
       },
       {
         "token": "土",
@@ -7931,7 +8045,7 @@
         "token": "軟",
         "startTime": 245905,
         "endTime": 246115,
-        "pinyin": "yawa"
+        "pinyin": "nan"
       },
       {
         "token": "質",
@@ -7943,7 +8057,7 @@
         "token": "化",
         "startTime": 246325,
         "endTime": 246545,
-        "pinyin": "bake"
+        "pinyin": "ka"
       },
       {
         "token": "す",
@@ -7980,7 +8094,7 @@
   {
     "sentence_text": "地殻 変動 に よっ て も 岩石 層 は 弱まり 得 ます",
     "translations": {
-      "en": "Crustal movements can also weaken rock layers."
+      "en": "Tectonic activity can also weaken rock layers."
     },
     "segments": [
       {
@@ -8083,7 +8197,7 @@
         "token": "得",
         "startTime": 251165,
         "endTime": 252085,
-        "pinyin": "toku"
+        "pinyin": "e"
       },
       {
         "token": "ま",
@@ -8145,7 +8259,7 @@
         "token": "裂",
         "startTime": 253105,
         "endTime": 253265,
-        "pinyin": "retsu"
+        "pinyin": "kire"
       },
       {
         "token": "が",
@@ -8229,7 +8343,7 @@
         "token": "貫",
         "startTime": 255325,
         "endTime": 255625,
-        "pinyin": "nuki"
+        "pinyin": "gan"
       },
       {
         "token": "入",
@@ -8405,7 +8519,7 @@
         "token": "離",
         "startTime": 260645,
         "endTime": 260765,
-        "pinyin": "ri"
+        "pinyin": "banare"
       },
       {
         "token": "れ",
@@ -8423,7 +8537,7 @@
         "token": "時",
         "startTime": 261005,
         "endTime": 261225,
-        "pinyin": "ji"
+        "pinyin": "toki"
       },
       {
         "token": "に",
@@ -8466,7 +8580,7 @@
   {
     "sentence_text": "残念 ながら 噴火 の 原因 を 知っ て も 噴火 の 予測 が 簡単 に なる わけ で ませ ん",
     "translations": {
-      "en": "Unfortunately, knowing the causes of eruptions doesn't make predicting them easy."
+      "en": "Unfortunately, knowing the cause of an eruption does not make predicting it easy."
     },
     "segments": [
       {
@@ -8521,13 +8635,13 @@
         "token": "原",
         "startTime": 264565,
         "endTime": 264685,
-        "pinyin": "Hara"
+        "pinyin": "gen"
       },
       {
         "token": "因",
         "startTime": 264685,
         "endTime": 264805,
-        "pinyin": "in"
+        "pinyin": "moto"
       },
       {
         "token": "を",
@@ -8605,7 +8719,7 @@
         "token": "単",
         "startTime": 266965,
         "endTime": 267125,
-        "pinyin": "Tan"
+        "pinyin": "tan"
       },
       {
         "token": "に",
@@ -8664,9 +8778,9 @@
     ]
   },
   {
-    "sentence_text": "科学 者 は 近く の 強度 と 重 さ は 憶測 でき ます が マグマ だまり の 深 さ と 熱 が 障害 と なる ため マグマ の 圧力",
+    "sentence_text": "科学 者 は 近く の 強度 と 重 さ は 憶測 でき ます が マグマ だまり の 深 さ と 熱 が 障害 と なる ため マグマ の",
     "translations": {
-      "en": "Scientists can estimate nearby strength and weight, but magma pressure changes are very difficult to measure due to the depth and heat of the magma chamber."
+      "en": "Scientists can estimate the strength and weight nearby, but the depth and heat of the magma chamber pose obstacles, making"
     },
     "segments": [
       {
@@ -8715,7 +8829,7 @@
         "token": "強",
         "startTime": 270145,
         "endTime": 270295,
-        "pinyin": "kyou"
+        "pinyin": "tsuyo"
       },
       {
         "token": "度",
@@ -8733,7 +8847,7 @@
         "token": "重",
         "startTime": 270585,
         "endTime": 270785,
-        "pinyin": "juu"
+        "pinyin": "e"
       },
       {
         "token": "さ",
@@ -8865,7 +8979,7 @@
         "token": "障",
         "startTime": 274525,
         "endTime": 274675,
-        "pinyin": "sawari"
+        "pinyin": "shou"
       },
       {
         "token": "害",
@@ -8926,7 +9040,15 @@
         "startTime": 276565,
         "endTime": 276725,
         "pinyin": "no"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "圧力 の 変化 の 測定 は 非常 に 困難 です",
+    "translations": {
+      "en": "measurements of pressure changes extremely difficult."
+    },
+    "segments": [
       {
         "token": "圧",
         "startTime": 276725,
@@ -8938,15 +9060,7 @@
         "startTime": 276725,
         "endTime": 276725,
         "pinyin": "chikara"
-      }
-    ]
-  },
-  {
-    "sentence_text": "の 変化 の 測定 は 非常 に 困難 です",
-    "translations": {
-      "en": "Measuring changes in magma pressure is extremely challenging."
-    },
-    "segments": [
+      },
       {
         "token": "の",
         "startTime": 276725,
@@ -8963,7 +9077,7 @@
         "token": "化",
         "startTime": 277295,
         "endTime": 277425,
-        "pinyin": "bake"
+        "pinyin": "ka"
       },
       {
         "token": "の",
@@ -8981,7 +9095,7 @@
         "token": "定",
         "startTime": 277705,
         "endTime": 277865,
-        "pinyin": "Tadashi"
+        "pinyin": "tei"
       },
       {
         "token": "は",
@@ -9017,7 +9131,7 @@
         "token": "難",
         "startTime": 278825,
         "endTime": 278985,
-        "pinyin": "nan"
+        "pinyin": "gata"
       },
       {
         "token": "で",
@@ -9036,7 +9150,7 @@
   {
     "sentence_text": "しかし 火山 学 者 は 岩石 の 地形 の 測定 を 制する ため に 新しい 技術 を 探求 し 続け い ます",
     "translations": {
-      "en": "However, volcanologists continue to explore new techniques to measure rock terrain."
+      "en": "However, volcanologists continue to explore new techniques to master measuring rock formations."
     },
     "segments": [
       {
@@ -9133,7 +9247,7 @@
         "token": "定",
         "startTime": 282655,
         "endTime": 282885,
-        "pinyin": "Tadashi"
+        "pinyin": "tei"
       },
       {
         "token": "を",
@@ -9235,7 +9349,7 @@
         "token": "続",
         "startTime": 285525,
         "endTime": 285695,
-        "pinyin": "Tsuzuku"
+        "pinyin": "zoku"
       },
       {
         "token": "け",
@@ -9266,7 +9380,7 @@
   {
     "sentence_text": "サーマル イメージング 技術 の 進歩 に より 科学 者 は 地下 の ホット スポット を 探知 できる よう に り まし た",
     "translations": {
-      "en": "Advances in thermal imaging allow scientists to detect underground hot spots."
+      "en": "Advances in thermal imaging technology have allowed scientists to detect underground hot spots."
     },
     "segments": [
       {
@@ -9357,7 +9471,7 @@
         "token": "歩",
         "startTime": 288145,
         "endTime": 288285,
-        "pinyin": "Ayumi"
+        "pinyin": "po"
       },
       {
         "token": "に",
@@ -9411,7 +9525,7 @@
         "token": "下",
         "startTime": 289645,
         "endTime": 289805,
-        "pinyin": "shita"
+        "pinyin": "ka"
       },
       {
         "token": "の",
@@ -9447,7 +9561,7 @@
         "token": "ポ",
         "startTime": 290165,
         "endTime": 290165,
-        "pinyin": "po"
+        "pinyin": "Po"
       },
       {
         "token": "ッ",
@@ -9542,9 +9656,9 @@
     ]
   },
   {
-    "sentence_text": "スペクトロメーター は マグマ から 分離 する ガス の 分析 を 可能 に し レーザー に より 火山 の 輪郭 へ の マグ",
+    "sentence_text": "スペクトロメーター は マグマ から 分離 する ガス の 分析 を 可能 に し",
     "translations": {
-      "en": "Spectrometers enable analysis of gases separating from magma, and lasers allow precise tracking of magma's effects on the volcano's shape."
+      "en": "Spectrometers enable the analysis of gases separating from magma,"
     },
     "segments": [
       {
@@ -9563,7 +9677,7 @@
         "token": "ク",
         "startTime": 292692,
         "endTime": 292765,
-        "pinyin": "ku"
+        "pinyin": "Ku"
       },
       {
         "token": "ト",
@@ -9647,7 +9761,7 @@
         "token": "離",
         "startTime": 294275,
         "endTime": 294425,
-        "pinyin": "ri"
+        "pinyin": "banare"
       },
       {
         "token": "す",
@@ -9707,7 +9821,7 @@
         "token": "能",
         "startTime": 295785,
         "endTime": 295885,
-        "pinyin": "nou"
+        "pinyin": "yoku"
       },
       {
         "token": "に",
@@ -9720,7 +9834,15 @@
         "startTime": 296085,
         "endTime": 296245,
         "pinyin": "shi"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "レーザー に より 火山 の 輪郭 へ の マグマ の 影響 を 正確 に 追跡 する こと が できる よう に り まし た",
+    "translations": {
+      "en": "and lasers now allow precise tracking of magma's effect on the volcano's shape."
+    },
+    "segments": [
       {
         "token": "レ",
         "startTime": 296245,
@@ -9791,7 +9913,7 @@
         "token": "郭",
         "startTime": 298085,
         "endTime": 298225,
-        "pinyin": "Kaku"
+        "pinyin": "kuruwa"
       },
       {
         "token": "へ",
@@ -9816,15 +9938,7 @@
         "startTime": 298632,
         "endTime": 298838,
         "pinyin": "gu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "マ の 影響 を 正確 に 追跡 する こと が できる よう に り まし た",
-    "translations": {
-      "en": "These technologies make it possible to accurately track magma's influence on the volcano's contours."
-    },
-    "segments": [
+      },
       {
         "token": "マ",
         "startTime": 298838,
@@ -9859,7 +9973,7 @@
         "token": "正",
         "startTime": 299785,
         "endTime": 300045,
-        "pinyin": "Tadashi"
+        "pinyin": "sei"
       },
       {
         "token": "確",
@@ -9978,9 +10092,9 @@
     ]
   },
   {
-    "sentence_text": "こう し た 技術 に より 不 安定 な 稼働 や 爆発 的 な 噴火 に 対する 理解 が 深まる こと が 望ま れ って る と 思っ て",
+    "sentence_text": "こう し た 技術 に より 不 安定 な 稼働 や 爆発 的 な 噴火 に 対する 理解 が 深まる こと が 望ま れ って る と 思っ",
     "translations": {
-      "en": "It is hoped that these technologies will deepen our understanding of unstable activity and explosive eruptions."
+      "en": "These technologies are hoped to deepen our understanding of unstable activity and explosive eruptions, revealing"
     },
     "segments": [
       {
@@ -10047,13 +10161,13 @@
         "token": "安",
         "startTime": 304325,
         "endTime": 304535,
-        "pinyin": "an"
+        "pinyin": "yasu"
       },
       {
         "token": "定",
         "startTime": 304535,
         "endTime": 304745,
-        "pinyin": "Tadashi"
+        "pinyin": "tei"
       },
       {
         "token": "な",
@@ -10065,7 +10179,7 @@
         "token": "稼",
         "startTime": 304885,
         "endTime": 305025,
-        "pinyin": "ka"
+        "pinyin": "?"
       },
       {
         "token": "働",
@@ -10083,7 +10197,7 @@
         "token": "爆",
         "startTime": 305725,
         "endTime": 305905,
-        "pinyin": "baku"
+        "pinyin": "?"
       },
       {
         "token": "発",
@@ -10095,7 +10209,7 @@
         "token": "的",
         "startTime": 306085,
         "endTime": 306225,
-        "pinyin": "mato"
+        "pinyin": "teki"
       },
       {
         "token": "な",
@@ -10143,7 +10257,7 @@
         "token": "理",
         "startTime": 307205,
         "endTime": 307205,
-        "pinyin": "ri"
+        "pinyin": "kotowari"
       },
       {
         "token": "解",
@@ -10239,28 +10353,28 @@
         "token": "思",
         "startTime": 311105,
         "endTime": 311225,
-        "pinyin": "Omou"
+        "pinyin": "omoe"
       },
       {
         "token": "っ",
         "startTime": 311225,
         "endTime": 311345,
         "pinyin": "っ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "て い た こと へ の 新しい 見 方 を 発見 し",
+    "translations": {
+      "en": "new perspectives on what was previously thought,"
+    },
+    "segments": [
       {
         "token": "て",
         "startTime": 311345,
         "endTime": 311465,
         "pinyin": "te"
-      }
-    ]
-  },
-  {
-    "sentence_text": "い た こと へ の 新しい 見 方 を 発見 しかっ た こと に 出会っ たり",
-    "translations": {
-      "en": "Discovering new perspectives on things we thought we knew, and encountering surprises."
-    },
-    "segments": [
+      },
       {
         "token": "い",
         "startTime": 311465,
@@ -10325,7 +10439,7 @@
         "token": "方",
         "startTime": 313285,
         "endTime": 313525,
-        "pinyin": "hou"
+        "pinyin": "kata"
       },
       {
         "token": "を",
@@ -10350,7 +10464,15 @@
         "startTime": 314265,
         "endTime": 314385,
         "pinyin": "shi"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "かっ た こと に 出会っ たり",
+    "translations": {
+      "en": "encountering what was unknown,"
+    },
+    "segments": [
       {
         "token": "か",
         "startTime": 314385,
@@ -10420,9 +10542,9 @@
     ]
   },
   {
-    "sentence_text": "ぜひ この 動画 で 学び を ましょう",
+    "sentence_text": "ぜひ この 動画 で 学び を ま しょう",
     "translations": {
-      "en": "Be sure to learn from this video."
+      "en": "so let's learn from this video."
     },
     "segments": [
       {
@@ -10459,7 +10581,7 @@
         "token": "画",
         "startTime": 316925,
         "endTime": 317205,
-        "pinyin": "ga"
+        "pinyin": "e"
       },
       {
         "token": "で",
@@ -10514,7 +10636,7 @@
   {
     "sentence_text": "チャンネル 登録 し て 好奇 心 の その 先 へ ご ありがとう ござい まし た",
     "translations": {
-      "en": "Thank you for subscribing and going beyond curiosity."
+      "en": "Subscribe to the channel and go beyond curiosity. Thank you."
     },
     "segments": [
       {
@@ -10575,7 +10697,7 @@
         "token": "好",
         "startTime": 320205,
         "endTime": 320335,
-        "pinyin": "Yoshimi"
+        "pinyin": "kou"
       },
       {
         "token": "奇",
