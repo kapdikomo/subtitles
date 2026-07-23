@@ -2,7 +2,7 @@
   {
     "sentence_text": "21 日 の ニューヨーク 外国 為替 市場 で 円 相場 が 一時 1 ドル 16 3 円 台 まで 下落 し まし た 。",
     "translations": {
-      "en": "On the 21st, in the New York foreign exchange market, the yen temporarily fell to the 163 yen level against the dollar."
+      "en": "In the New York foreign exchange market on the 21st, the yen temporarily fell to the 163 yen level against the dollar."
     },
     "segments": [
       {
@@ -32,38 +32,38 @@
       {
         "token": "ニ",
         "startTime": 1980,
-        "endTime": 2340,
+        "endTime": 2120,
         "pinyin": "ni"
       },
       {
         "token": "ュ",
-        "startTime": 2340,
-        "endTime": 2420,
+        "startTime": 2120,
+        "endTime": 2260,
         "pinyin": "ュ"
       },
       {
         "token": "ー",
-        "startTime": 2420,
-        "endTime": 2500,
+        "startTime": 2260,
+        "endTime": 2400,
         "pinyin": "-"
       },
       {
         "token": "ヨ",
-        "startTime": 2500,
-        "endTime": 2580,
+        "startTime": 2400,
+        "endTime": 2540,
         "pinyin": "yo"
       },
       {
         "token": "ー",
-        "startTime": 2580,
-        "endTime": 2700,
+        "startTime": 2540,
+        "endTime": 2680,
         "pinyin": "-"
       },
       {
         "token": "ク",
-        "startTime": 2700,
+        "startTime": 2680,
         "endTime": 2820,
-        "pinyin": "ku"
+        "pinyin": "Ku"
       },
       {
         "token": "外",
@@ -80,14 +80,14 @@
       {
         "token": "為",
         "startTime": 3320,
-        "endTime": 3680,
+        "endTime": 3550,
         "pinyin": "tame"
       },
       {
         "token": "替",
-        "startTime": 3680,
+        "startTime": 3550,
         "endTime": 3780,
-        "pinyin": "kae"
+        "pinyin": "gae"
       },
       {
         "token": "市",
@@ -110,18 +110,18 @@
       {
         "token": "円",
         "startTime": 4340,
-        "endTime": 4653,
+        "endTime": 4980,
         "pinyin": "en"
       },
       {
         "token": "相",
-        "startTime": 4653,
-        "endTime": 4967,
-        "pinyin": "sou"
+        "startTime": 4980,
+        "endTime": 5130,
+        "pinyin": "ai"
       },
       {
         "token": "場",
-        "startTime": 4967,
+        "startTime": 5130,
         "endTime": 5280,
         "pinyin": "ba"
       },
@@ -141,7 +141,7 @@
         "token": "時",
         "startTime": 5600,
         "endTime": 5760,
-        "pinyin": "ji"
+        "pinyin": "toki"
       },
       {
         "token": "1",
@@ -152,12 +152,12 @@
       {
         "token": "ド",
         "startTime": 6320,
-        "endTime": 6480,
+        "endTime": 6460,
         "pinyin": "do"
       },
       {
         "token": "ル",
-        "startTime": 6480,
+        "startTime": 6460,
         "endTime": 6600,
         "pinyin": "ru"
       },
@@ -182,12 +182,12 @@
       {
         "token": "円",
         "startTime": 7720,
-        "endTime": 7919,
+        "endTime": 8020,
         "pinyin": "en"
       },
       {
         "token": "台",
-        "startTime": 7919,
+        "startTime": 8020,
         "endTime": 8119,
         "pinyin": "dai"
       },
@@ -207,7 +207,7 @@
         "token": "下",
         "startTime": 8440,
         "endTime": 8640,
-        "pinyin": "shita"
+        "pinyin": "ka"
       },
       {
         "token": "落",
@@ -256,18 +256,18 @@
       {
         "token": "お",
         "startTime": 10320,
-        "endTime": 10400,
+        "endTime": 10447,
         "pinyin": "o"
       },
       {
         "token": "よ",
-        "startTime": 10400,
-        "endTime": 10520,
+        "startTime": 10447,
+        "endTime": 10573,
         "pinyin": "yo"
       },
       {
         "token": "そ",
-        "startTime": 10520,
+        "startTime": 10573,
         "endTime": 10700,
         "pinyin": "so"
       },
@@ -298,24 +298,24 @@
       {
         "token": "ヶ",
         "startTime": 12160,
-        "endTime": 12280,
-        "pinyin": "ke"
+        "endTime": 12300,
+        "pinyin": "ga"
       },
       {
         "token": "月",
-        "startTime": 12280,
+        "startTime": 12300,
         "endTime": 12440,
         "pinyin": "tsuki"
       },
       {
         "token": "ぶ",
         "startTime": 12440,
-        "endTime": 12620,
+        "endTime": 12560,
         "pinyin": "bu"
       },
       {
         "token": "り",
-        "startTime": 12620,
+        "startTime": 12560,
         "endTime": 12680,
         "pinyin": "ri"
       },
@@ -328,26 +328,26 @@
       {
         "token": "円",
         "startTime": 12920,
-        "endTime": 13145,
+        "endTime": 13170,
         "pinyin": "en"
       },
       {
         "token": "安",
-        "startTime": 13145,
-        "endTime": 13370,
-        "pinyin": "an"
+        "startTime": 13170,
+        "endTime": 13420,
+        "pinyin": "yasu"
       },
       {
         "token": "水",
-        "startTime": 13370,
-        "endTime": 13595,
+        "startTime": 13420,
+        "endTime": 13620,
         "pinyin": "mizu"
       },
       {
         "token": "準",
-        "startTime": 13595,
+        "startTime": 13620,
         "endTime": 13820,
-        "pinyin": "Hitoshi"
+        "pinyin": "jun"
       },
       {
         "token": "で",
@@ -372,44 +372,44 @@
   {
     "sentence_text": "ニューヨーク 外国 為替 市場 で 21 日 円 相場 が 下落 し 、",
     "translations": {
-      "en": "In the New York foreign exchange market on the 21st, the yen fell,"
+      "en": "The yen fell in the New York foreign exchange market on the 21st,"
     },
     "segments": [
       {
         "token": "ニ",
         "startTime": 16680,
-        "endTime": 16760,
+        "endTime": 16777,
         "pinyin": "ni"
       },
       {
         "token": "ュ",
-        "startTime": 16760,
-        "endTime": 16880,
+        "startTime": 16777,
+        "endTime": 16873,
         "pinyin": "ュ"
       },
       {
         "token": "ー",
-        "startTime": 16880,
-        "endTime": 16950,
+        "startTime": 16873,
+        "endTime": 16970,
         "pinyin": "-"
       },
       {
         "token": "ヨ",
-        "startTime": 16950,
-        "endTime": 17020,
+        "startTime": 16970,
+        "endTime": 17067,
         "pinyin": "yo"
       },
       {
         "token": "ー",
-        "startTime": 17020,
-        "endTime": 17120,
+        "startTime": 17067,
+        "endTime": 17163,
         "pinyin": "-"
       },
       {
         "token": "ク",
-        "startTime": 17120,
+        "startTime": 17163,
         "endTime": 17260,
-        "pinyin": "ku"
+        "pinyin": "Ku"
       },
       {
         "token": "外",
@@ -426,14 +426,14 @@
       {
         "token": "為",
         "startTime": 17720,
-        "endTime": 18060,
+        "endTime": 17920,
         "pinyin": "tame"
       },
       {
         "token": "替",
-        "startTime": 18060,
+        "startTime": 17920,
         "endTime": 18120,
-        "pinyin": "kae"
+        "pinyin": "gae"
       },
       {
         "token": "市",
@@ -468,12 +468,12 @@
       {
         "token": "日",
         "startTime": 19400,
-        "endTime": 19780,
+        "endTime": 19720,
         "pinyin": "hi"
       },
       {
         "token": "円",
-        "startTime": 19780,
+        "startTime": 19720,
         "endTime": 20160,
         "pinyin": "en"
       },
@@ -481,7 +481,7 @@
         "token": "相",
         "startTime": 20160,
         "endTime": 20290,
-        "pinyin": "sou"
+        "pinyin": "ai"
       },
       {
         "token": "場",
@@ -499,7 +499,7 @@
         "token": "下",
         "startTime": 20620,
         "endTime": 20750,
-        "pinyin": "shita"
+        "pinyin": "ka"
       },
       {
         "token": "落",
@@ -510,13 +510,13 @@
       {
         "token": "し",
         "startTime": 20880,
-        "endTime": 21050,
+        "endTime": 21220,
         "pinyin": "shi"
       },
       {
         "token": "、",
-        "startTime": 21050,
-        "endTime": 21220,
+        "startTime": 21220,
+        "endTime": 21920,
         "pinyin": ","
       }
     ]
@@ -529,15 +529,15 @@
     "segments": [
       {
         "token": "一",
-        "startTime": 21220,
-        "endTime": 21640,
+        "startTime": 21920,
+        "endTime": 21990,
         "pinyin": "ichi"
       },
       {
         "token": "時",
-        "startTime": 21640,
+        "startTime": 21990,
         "endTime": 22060,
-        "pinyin": "ji"
+        "pinyin": "toki"
       },
       {
         "token": "1",
@@ -548,12 +548,12 @@
       {
         "token": "ド",
         "startTime": 22640,
-        "endTime": 22800,
+        "endTime": 22770,
         "pinyin": "do"
       },
       {
         "token": "ル",
-        "startTime": 22800,
+        "startTime": 22770,
         "endTime": 22900,
         "pinyin": "ru"
       },
@@ -578,12 +578,12 @@
       {
         "token": "円",
         "startTime": 23920,
-        "endTime": 24100,
+        "endTime": 24160,
         "pinyin": "en"
       },
       {
         "token": "台",
-        "startTime": 24100,
+        "startTime": 24160,
         "endTime": 24280,
         "pinyin": "dai"
       },
@@ -596,12 +596,12 @@
       {
         "token": "つ",
         "startTime": 24440,
-        "endTime": 24540,
+        "endTime": 24530,
         "pinyin": "tsu"
       },
       {
         "token": "け",
-        "startTime": 24540,
+        "startTime": 24530,
         "endTime": 24620,
         "pinyin": "ke"
       },
@@ -707,29 +707,29 @@
         "token": "以",
         "startTime": 28580,
         "endTime": 28720,
-        "pinyin": "i"
+        "pinyin": "?"
       },
       {
         "token": "来",
         "startTime": 28720,
         "endTime": 28860,
-        "pinyin": "ki"
+        "pinyin": "rai"
       },
       {
         "token": "お",
         "startTime": 28860,
-        "endTime": 29480,
+        "endTime": 29147,
         "pinyin": "o"
       },
       {
         "token": "よ",
-        "startTime": 29480,
-        "endTime": 29560,
+        "startTime": 29147,
+        "endTime": 29433,
         "pinyin": "yo"
       },
       {
         "token": "そ",
-        "startTime": 29560,
+        "startTime": 29433,
         "endTime": 29720,
         "pinyin": "so"
       },
@@ -760,24 +760,24 @@
       {
         "token": "ヶ",
         "startTime": 31140,
-        "endTime": 31280,
-        "pinyin": "ke"
+        "endTime": 31300,
+        "pinyin": "ga"
       },
       {
         "token": "月",
-        "startTime": 31280,
+        "startTime": 31300,
         "endTime": 31460,
         "pinyin": "tsuki"
       },
       {
         "token": "ぶ",
         "startTime": 31460,
-        "endTime": 31620,
+        "endTime": 31570,
         "pinyin": "bu"
       },
       {
         "token": "り",
-        "startTime": 31620,
+        "startTime": 31570,
         "endTime": 31680,
         "pinyin": "ri"
       },
@@ -790,26 +790,26 @@
       {
         "token": "円",
         "startTime": 31880,
-        "endTime": 32105,
+        "endTime": 32120,
         "pinyin": "en"
       },
       {
         "token": "安",
-        "startTime": 32105,
-        "endTime": 32330,
-        "pinyin": "an"
+        "startTime": 32120,
+        "endTime": 32360,
+        "pinyin": "yasu"
       },
       {
         "token": "水",
-        "startTime": 32330,
-        "endTime": 32555,
+        "startTime": 32360,
+        "endTime": 32570,
         "pinyin": "mizu"
       },
       {
         "token": "準",
-        "startTime": 32555,
+        "startTime": 32570,
         "endTime": 32780,
-        "pinyin": "Hitoshi"
+        "pinyin": "jun"
       },
       {
         "token": "で",
@@ -828,30 +828,30 @@
   {
     "sentence_text": "アメリカ と イラン に よる 攻撃 の 応酬 が 再び 激しく なり",
     "translations": {
-      "en": "As exchanges of attacks between the U.S. and Iran intensify again,"
+      "en": "Renewed exchanges of attacks between the US and Iran have intensified,"
     },
     "segments": [
       {
         "token": "ア",
         "startTime": 34220,
-        "endTime": 34400,
+        "endTime": 34325,
         "pinyin": "a"
       },
       {
         "token": "メ",
-        "startTime": 34400,
-        "endTime": 34480,
+        "startTime": 34325,
+        "endTime": 34430,
         "pinyin": "me"
       },
       {
         "token": "リ",
-        "startTime": 34480,
-        "endTime": 34520,
+        "startTime": 34430,
+        "endTime": 34535,
         "pinyin": "ri"
       },
       {
         "token": "カ",
-        "startTime": 34520,
+        "startTime": 34535,
         "endTime": 34640,
         "pinyin": "ka"
       },
@@ -864,18 +864,18 @@
       {
         "token": "イ",
         "startTime": 34800,
-        "endTime": 34960,
+        "endTime": 34893,
         "pinyin": "i"
       },
       {
         "token": "ラ",
-        "startTime": 34960,
-        "endTime": 35020,
+        "startTime": 34893,
+        "endTime": 34987,
         "pinyin": "ra"
       },
       {
         "token": "ン",
-        "startTime": 35020,
+        "startTime": 34987,
         "endTime": 35080,
         "pinyin": "n"
       },
@@ -888,24 +888,24 @@
       {
         "token": "よ",
         "startTime": 35220,
-        "endTime": 35320,
+        "endTime": 35340,
         "pinyin": "yo"
       },
       {
         "token": "る",
-        "startTime": 35320,
+        "startTime": 35340,
         "endTime": 35460,
         "pinyin": "ru"
       },
       {
         "token": "攻",
         "startTime": 35460,
-        "endTime": 35840,
+        "endTime": 35720,
         "pinyin": "kou"
       },
       {
         "token": "撃",
-        "startTime": 35840,
+        "startTime": 35720,
         "endTime": 35980,
         "pinyin": "geki"
       },
@@ -919,7 +919,7 @@
         "token": "応",
         "startTime": 36200,
         "endTime": 36360,
-        "pinyin": "ou"
+        "pinyin": "kotae"
       },
       {
         "token": "酬",
@@ -936,42 +936,42 @@
       {
         "token": "再",
         "startTime": 36720,
-        "endTime": 37000,
+        "endTime": 36970,
         "pinyin": "sai"
       },
       {
         "token": "び",
-        "startTime": 37000,
+        "startTime": 36970,
         "endTime": 37220,
         "pinyin": "bi"
       },
       {
         "token": "激",
         "startTime": 37220,
-        "endTime": 37480,
+        "endTime": 37380,
         "pinyin": "geki"
       },
       {
         "token": "し",
-        "startTime": 37480,
-        "endTime": 37590,
+        "startTime": 37380,
+        "endTime": 37540,
         "pinyin": "shi"
       },
       {
         "token": "く",
-        "startTime": 37590,
+        "startTime": 37540,
         "endTime": 37700,
         "pinyin": "ku"
       },
       {
         "token": "な",
         "startTime": 37700,
-        "endTime": 37920,
+        "endTime": 38090,
         "pinyin": "na"
       },
       {
         "token": "り",
-        "startTime": 37920,
+        "startTime": 38090,
         "endTime": 38480,
         "pinyin": "ri"
       }
@@ -980,7 +980,7 @@
   {
     "sentence_text": "中東 情勢 が さらに 悪化 する と の 警戒 感 から",
     "translations": {
-      "en": "amid concerns that the situation in the Middle East could worsen further,"
+      "en": "and amid concerns that the situation in the Middle East may worsen further,"
     },
     "segments": [
       {
@@ -1016,32 +1016,32 @@
       {
         "token": "さ",
         "startTime": 39500,
-        "endTime": 39780,
+        "endTime": 39667,
         "pinyin": "sa"
       },
       {
         "token": "ら",
-        "startTime": 39780,
-        "endTime": 39840,
+        "startTime": 39667,
+        "endTime": 39833,
         "pinyin": "ra"
       },
       {
         "token": "に",
-        "startTime": 39840,
+        "startTime": 39833,
         "endTime": 40000,
         "pinyin": "ni"
       },
       {
         "token": "悪",
         "startTime": 40000,
-        "endTime": 40220,
-        "pinyin": "waru"
+        "endTime": 40150,
+        "pinyin": "aku"
       },
       {
         "token": "化",
-        "startTime": 40220,
+        "startTime": 40150,
         "endTime": 40300,
-        "pinyin": "bake"
+        "pinyin": "ka"
       },
       {
         "token": "す",
@@ -1109,7 +1109,7 @@
         "token": "有",
         "startTime": 41600,
         "endTime": 42060,
-        "pinyin": "Yuu"
+        "pinyin": "yuu"
       },
       {
         "token": "事",
@@ -1126,24 +1126,24 @@
       {
         "token": "ド",
         "startTime": 42700,
-        "endTime": 42820,
+        "endTime": 42830,
         "pinyin": "do"
       },
       {
         "token": "ル",
-        "startTime": 42820,
+        "startTime": 42830,
         "endTime": 42960,
         "pinyin": "ru"
       },
       {
         "token": "買",
         "startTime": 42960,
-        "endTime": 43100,
+        "endTime": 43070,
         "pinyin": "kai"
       },
       {
         "token": "い",
-        "startTime": 43100,
+        "startTime": 43070,
         "endTime": 43180,
         "pinyin": "i"
       },
@@ -1156,71 +1156,51 @@
       {
         "token": "強",
         "startTime": 43300,
-        "endTime": 43680,
-        "pinyin": "kyou"
+        "endTime": 43527,
+        "pinyin": "tsuyo"
       },
       {
         "token": "ま",
-        "startTime": 43680,
-        "endTime": 43860,
+        "startTime": 43527,
+        "endTime": 43753,
         "pinyin": "ma"
       },
       {
         "token": "っ",
-        "startTime": 43860,
-        "endTime": 43920,
+        "startTime": 43753,
+        "endTime": 43980,
         "pinyin": "っ"
       },
       {
         "token": "た",
-        "startTime": 43920,
-        "endTime": 43980,
+        "startTime": 43980,
+        "endTime": 44160,
         "pinyin": "ta"
       },
       {
         "token": "と",
-        "startTime": 43980,
-        "endTime": 44160,
+        "startTime": 44160,
+        "endTime": 44240,
         "pinyin": "to"
       },
       {
         "token": "み",
-        "startTime": 44160,
-        "endTime": 44240,
+        "startTime": 44240,
+        "endTime": 44400,
         "pinyin": "mi"
       },
       {
         "token": "ら",
-        "startTime": 44240,
-        "endTime": 44400,
+        "startTime": 44400,
+        "endTime": 45290,
         "pinyin": "ra"
       },
       {
         "token": "れ",
-        "startTime": 44400,
-        "endTime": 44440,
+        "startTime": 45290,
+        "endTime": 46180,
         "pinyin": "re"
       },
-      {
-        "token": "ま",
-        "startTime": 44440,
-        "endTime": 45310,
-        "pinyin": "ma"
-      },
-      {
-        "token": "す",
-        "startTime": 45310,
-        "endTime": 46180,
-        "pinyin": "su"
-      }
-    ]
-  },
-  {
-    "sentence_text": "また 市場 で は アメリカ で 年内 に 利上げ が 行わ れる と いう 見 方 が 強い こと から",
-    "translations": {
-      "en": "Also, as there is a strong view in the market that the U.S. will raise interest rates within the year,"
-    },
-    "segments": [
       {
         "token": "ま",
         "startTime": 46180,
@@ -1228,130 +1208,138 @@
         "pinyin": "ma"
       },
       {
-        "token": "た",
+        "token": "す",
         "startTime": 46290,
         "endTime": 46400,
+        "pinyin": "su"
+      }
+    ]
+  },
+  {
+    "sentence_text": "また 市場 で は アメリカ で 年内 に 利上げ が 行 わ と いう 見 方 が 強い こと から",
+    "translations": {
+      "en": "Also, with strong expectations in the market that the US will raise interest rates within the year,"
+    },
+    "segments": [
+      {
+        "token": "ま",
+        "startTime": 46400,
+        "endTime": 46600,
+        "pinyin": "ma"
+      },
+      {
+        "token": "た",
+        "startTime": 46600,
+        "endTime": 46800,
         "pinyin": "ta"
       },
       {
         "token": "市",
-        "startTime": 46400,
-        "endTime": 46600,
+        "startTime": 46800,
+        "endTime": 46920,
         "pinyin": "shi"
       },
       {
         "token": "場",
-        "startTime": 46600,
-        "endTime": 46800,
+        "startTime": 46920,
+        "endTime": 47040,
         "pinyin": "ba"
       },
       {
         "token": "で",
-        "startTime": 46800,
-        "endTime": 46920,
+        "startTime": 47040,
+        "endTime": 47600,
         "pinyin": "de"
       },
       {
         "token": "は",
-        "startTime": 46920,
-        "endTime": 47040,
+        "startTime": 47600,
+        "endTime": 47680,
         "pinyin": "wa"
       },
       {
         "token": "ア",
-        "startTime": 47040,
-        "endTime": 47600,
+        "startTime": 47680,
+        "endTime": 47835,
         "pinyin": "a"
       },
       {
         "token": "メ",
-        "startTime": 47600,
-        "endTime": 47680,
+        "startTime": 47835,
+        "endTime": 47990,
         "pinyin": "me"
       },
       {
         "token": "リ",
-        "startTime": 47680,
-        "endTime": 47720,
+        "startTime": 47990,
+        "endTime": 48145,
         "pinyin": "ri"
       },
       {
         "token": "カ",
-        "startTime": 47720,
-        "endTime": 47880,
+        "startTime": 48145,
+        "endTime": 48300,
         "pinyin": "ka"
       },
       {
         "token": "で",
-        "startTime": 47880,
-        "endTime": 48040,
+        "startTime": 48300,
+        "endTime": 48460,
         "pinyin": "de"
       },
       {
         "token": "年",
-        "startTime": 48040,
-        "endTime": 48250,
+        "startTime": 48460,
+        "endTime": 48810,
         "pinyin": "nen"
       },
       {
         "token": "内",
-        "startTime": 48250,
-        "endTime": 48460,
+        "startTime": 48810,
+        "endTime": 49160,
         "pinyin": "uchi"
       },
       {
         "token": "に",
-        "startTime": 48460,
-        "endTime": 48760,
+        "startTime": 49160,
+        "endTime": 49260,
         "pinyin": "ni"
       },
       {
         "token": "利",
-        "startTime": 48760,
-        "endTime": 49010,
+        "startTime": 49260,
+        "endTime": 49420,
         "pinyin": "ri"
       },
       {
         "token": "上",
-        "startTime": 49010,
-        "endTime": 49260,
+        "startTime": 49420,
+        "endTime": 49580,
         "pinyin": "ue"
       },
       {
         "token": "げ",
-        "startTime": 49260,
-        "endTime": 49360,
+        "startTime": 49580,
+        "endTime": 49740,
         "pinyin": "ge"
       },
       {
         "token": "が",
-        "startTime": 49360,
-        "endTime": 49500,
+        "startTime": 49740,
+        "endTime": 49940,
         "pinyin": "ga"
       },
       {
         "token": "行",
-        "startTime": 49500,
-        "endTime": 49740,
-        "pinyin": "Kou"
+        "startTime": 49940,
+        "endTime": 50020,
+        "pinyin": "gyou"
       },
       {
         "token": "わ",
-        "startTime": 49740,
-        "endTime": 49940,
-        "pinyin": "wa"
-      },
-      {
-        "token": "れ",
-        "startTime": 49940,
-        "endTime": 50020,
-        "pinyin": "re"
-      },
-      {
-        "token": "る",
         "startTime": 50020,
         "endTime": 50100,
-        "pinyin": "ru"
+        "pinyin": "wa"
       },
       {
         "token": "と",
@@ -1374,14 +1362,14 @@
       {
         "token": "見",
         "startTime": 50380,
-        "endTime": 50580,
+        "endTime": 50640,
         "pinyin": "mi"
       },
       {
         "token": "方",
-        "startTime": 50580,
+        "startTime": 50640,
         "endTime": 50780,
-        "pinyin": "hou"
+        "pinyin": "kata"
       },
       {
         "token": "が",
@@ -1392,12 +1380,12 @@
       {
         "token": "強",
         "startTime": 50940,
-        "endTime": 51180,
-        "pinyin": "kyou"
+        "endTime": 51130,
+        "pinyin": "tsuyo"
       },
       {
         "token": "い",
-        "startTime": 51180,
+        "startTime": 51130,
         "endTime": 51320,
         "pinyin": "i"
       },
@@ -1436,12 +1424,12 @@
       {
         "token": "ド",
         "startTime": 52340,
-        "endTime": 52440,
+        "endTime": 52450,
         "pinyin": "do"
       },
       {
         "token": "ル",
-        "startTime": 52440,
+        "startTime": 52450,
         "endTime": 52560,
         "pinyin": "ru"
       },
@@ -1454,24 +1442,24 @@
       {
         "token": "買",
         "startTime": 52760,
-        "endTime": 52940,
+        "endTime": 52920,
         "pinyin": "kai"
       },
       {
         "token": "う",
-        "startTime": 52940,
+        "startTime": 52920,
         "endTime": 53080,
         "pinyin": "u"
       },
       {
         "token": "動",
         "startTime": 53080,
-        "endTime": 53260,
+        "endTime": 53220,
         "pinyin": "dou"
       },
       {
         "token": "き",
-        "startTime": 53260,
+        "startTime": 53220,
         "endTime": 53360,
         "pinyin": "ki"
       },
@@ -1484,124 +1472,118 @@
       {
         "token": "続",
         "startTime": 53520,
-        "endTime": 53720,
-        "pinyin": "Tsuzuku"
+        "endTime": 54030,
+        "pinyin": "zoku"
       },
       {
         "token": "き",
-        "startTime": 53720,
-        "endTime": 54130,
+        "startTime": 54030,
+        "endTime": 54540,
         "pinyin": "ki"
       },
       {
         "token": "、",
-        "startTime": 54130,
-        "endTime": 54540,
+        "startTime": 54540,
+        "endTime": 54560,
         "pinyin": ","
       }
     ]
   },
   {
-    "sentence_text": "じわじわ と 円安 が 進む 展開 と なっ て い ます 。",
+    "sentence_text": "じわじわ と 円安 が 進む 展開 と なっ い ます 。",
     "translations": {
-      "en": "leading to a gradual depreciation of the yen."
+      "en": "gradually pushing the yen lower."
     },
     "segments": [
       {
         "token": "じ",
-        "startTime": 54540,
-        "endTime": 54560,
+        "startTime": 54560,
+        "endTime": 54680,
         "pinyin": "ji"
       },
       {
         "token": "わ",
-        "startTime": 54560,
-        "endTime": 54660,
+        "startTime": 54680,
+        "endTime": 54800,
         "pinyin": "wa"
       },
       {
         "token": "じ",
-        "startTime": 54660,
-        "endTime": 54760,
+        "startTime": 54800,
+        "endTime": 54920,
         "pinyin": "ji"
       },
       {
         "token": "わ",
-        "startTime": 54760,
-        "endTime": 54860,
+        "startTime": 54920,
+        "endTime": 55040,
         "pinyin": "wa"
       },
       {
         "token": "と",
-        "startTime": 54860,
-        "endTime": 55040,
+        "startTime": 55040,
+        "endTime": 55520,
         "pinyin": "to"
       },
       {
         "token": "円",
-        "startTime": 55040,
-        "endTime": 55360,
+        "startTime": 55520,
+        "endTime": 55720,
         "pinyin": "en"
       },
       {
         "token": "安",
-        "startTime": 55360,
-        "endTime": 55680,
-        "pinyin": "an"
+        "startTime": 55720,
+        "endTime": 55920,
+        "pinyin": "yasu"
       },
       {
         "token": "が",
-        "startTime": 55680,
-        "endTime": 55920,
+        "startTime": 55920,
+        "endTime": 56260,
         "pinyin": "ga"
       },
       {
         "token": "進",
-        "startTime": 55920,
-        "endTime": 56260,
+        "startTime": 56260,
+        "endTime": 56430,
         "pinyin": "Susumu"
       },
       {
         "token": "む",
-        "startTime": 56260,
-        "endTime": 56400,
+        "startTime": 56430,
+        "endTime": 56600,
         "pinyin": "mu"
       },
       {
         "token": "展",
-        "startTime": 56400,
-        "endTime": 56590,
+        "startTime": 56600,
+        "endTime": 56780,
         "pinyin": "ten"
       },
       {
         "token": "開",
-        "startTime": 56590,
-        "endTime": 56780,
-        "pinyin": "kai"
+        "startTime": 56780,
+        "endTime": 56960,
+        "pinyin": "hirake"
       },
       {
         "token": "と",
-        "startTime": 56780,
-        "endTime": 56960,
+        "startTime": 56960,
+        "endTime": 57100,
         "pinyin": "to"
       },
       {
         "token": "な",
-        "startTime": 56960,
-        "endTime": 57100,
+        "startTime": 57100,
+        "endTime": 57190,
         "pinyin": "na"
       },
       {
         "token": "っ",
-        "startTime": 57100,
-        "endTime": 57190,
-        "pinyin": "っ"
-      },
-      {
-        "token": "て",
         "startTime": 57190,
         "endTime": 57280,
-        "pinyin": "te"
+        "pinyin": "っ"
       },
       {
         "token": "い",
@@ -1632,7 +1614,7 @@
   {
     "sentence_text": "市場 で は 日本 政府 と 日本 銀行 に よる 過度 な 円安 の 是正 に 向け た",
     "translations": {
-      "en": "In the market, there is growing caution about possible currency intervention"
+      "en": "In the market, there is caution over possible currency intervention"
     },
     "segments": [
       {
@@ -1650,250 +1632,226 @@
       {
         "token": "で",
         "startTime": 59080,
-        "endTime": 59210,
+        "endTime": 59340,
         "pinyin": "de"
       },
       {
         "token": "は",
-        "startTime": 59210,
-        "endTime": 59340,
+        "startTime": 59340,
+        "endTime": 59940,
         "pinyin": "wa"
       },
       {
         "token": "日",
-        "startTime": 59340,
-        "endTime": 59605,
+        "startTime": 59940,
+        "endTime": 60170,
         "pinyin": "hi"
       },
       {
         "token": "本",
-        "startTime": 59605,
-        "endTime": 59870,
+        "startTime": 60170,
+        "endTime": 60400,
         "pinyin": "hon"
       },
       {
         "token": "政",
-        "startTime": 59870,
-        "endTime": 60135,
+        "startTime": 60400,
+        "endTime": 60690,
         "pinyin": "sei"
       },
       {
         "token": "府",
-        "startTime": 60135,
-        "endTime": 60400,
+        "startTime": 60690,
+        "endTime": 60980,
         "pinyin": "fu"
       },
       {
         "token": "と",
-        "startTime": 60400,
-        "endTime": 60620,
+        "startTime": 60980,
+        "endTime": 61300,
         "pinyin": "to"
       },
       {
         "token": "日",
-        "startTime": 60620,
-        "endTime": 60800,
+        "startTime": 61300,
+        "endTime": 61480,
         "pinyin": "hi"
       },
       {
         "token": "本",
-        "startTime": 60800,
-        "endTime": 60980,
+        "startTime": 61480,
+        "endTime": 61660,
         "pinyin": "hon"
       },
       {
         "token": "銀",
-        "startTime": 60980,
-        "endTime": 61220,
+        "startTime": 61660,
+        "endTime": 61820,
         "pinyin": "gin"
       },
       {
         "token": "行",
-        "startTime": 61220,
-        "endTime": 61460,
-        "pinyin": "Kou"
+        "startTime": 61820,
+        "endTime": 61980,
+        "pinyin": "gyou"
       },
       {
         "token": "に",
-        "startTime": 61460,
-        "endTime": 61660,
+        "startTime": 61980,
+        "endTime": 62440,
         "pinyin": "ni"
       },
       {
         "token": "よ",
-        "startTime": 61660,
-        "endTime": 61780,
+        "startTime": 62440,
+        "endTime": 62570,
         "pinyin": "yo"
       },
       {
         "token": "る",
-        "startTime": 61780,
-        "endTime": 61980,
+        "startTime": 62570,
+        "endTime": 62700,
         "pinyin": "ru"
       },
       {
         "token": "過",
-        "startTime": 61980,
-        "endTime": 62250,
-        "pinyin": "sugi"
+        "startTime": 62700,
+        "endTime": 62980,
+        "pinyin": "ka"
       },
       {
         "token": "度",
-        "startTime": 62250,
-        "endTime": 62520,
+        "startTime": 62980,
+        "endTime": 63260,
         "pinyin": "do"
       },
       {
         "token": "な",
-        "startTime": 62520,
-        "endTime": 62700,
+        "startTime": 63260,
+        "endTime": 63480,
         "pinyin": "na"
       },
       {
         "token": "円",
-        "startTime": 62700,
-        "endTime": 62980,
+        "startTime": 63480,
+        "endTime": 63630,
         "pinyin": "en"
       },
       {
         "token": "安",
-        "startTime": 62980,
-        "endTime": 63260,
-        "pinyin": "an"
+        "startTime": 63630,
+        "endTime": 63780,
+        "pinyin": "yasu"
       },
       {
         "token": "の",
-        "startTime": 63260,
-        "endTime": 63480,
+        "startTime": 63780,
+        "endTime": 63980,
         "pinyin": "no"
       },
       {
         "token": "是",
-        "startTime": 63480,
-        "endTime": 63660,
+        "startTime": 63980,
+        "endTime": 64130,
         "pinyin": "ze"
       },
       {
         "token": "正",
-        "startTime": 63660,
-        "endTime": 63780,
-        "pinyin": "Tadashi"
+        "startTime": 64130,
+        "endTime": 64280,
+        "pinyin": "sei"
       },
       {
         "token": "に",
-        "startTime": 63780,
-        "endTime": 63980,
+        "startTime": 64280,
+        "endTime": 64480,
         "pinyin": "ni"
       },
       {
         "token": "向",
-        "startTime": 63980,
-        "endTime": 64120,
-        "pinyin": "Mukai"
+        "startTime": 64480,
+        "endTime": 64680,
+        "pinyin": "muki"
       },
       {
         "token": "け",
-        "startTime": 64120,
-        "endTime": 64280,
+        "startTime": 64680,
+        "endTime": 64879,
         "pinyin": "ke"
       },
       {
         "token": "た",
-        "startTime": 64280,
-        "endTime": 64480,
+        "startTime": 64879,
+        "endTime": 65099,
         "pinyin": "ta"
       }
     ]
   },
   {
-    "sentence_text": "為替 介入 へ の 警戒 感 が 高まっ て い ます 。",
+    "sentence_text": "為替 介入 へ の 警戒 感 が い ます 。",
     "translations": {
       "en": "by the Japanese government and the Bank of Japan to correct excessive yen weakness."
     },
     "segments": [
       {
         "token": "為",
-        "startTime": 64480,
-        "endTime": 64739,
+        "startTime": 65099,
+        "endTime": 65290,
         "pinyin": "tame"
       },
       {
         "token": "替",
-        "startTime": 64739,
-        "endTime": 64879,
-        "pinyin": "kae"
+        "startTime": 65290,
+        "endTime": 65480,
+        "pinyin": "gae"
       },
       {
         "token": "介",
-        "startTime": 64879,
-        "endTime": 65079,
+        "startTime": 65480,
+        "endTime": 65660,
         "pinyin": "suke"
       },
       {
         "token": "入",
-        "startTime": 65079,
-        "endTime": 65280,
+        "startTime": 65660,
+        "endTime": 65840,
         "pinyin": "iri"
       },
       {
         "token": "へ",
-        "startTime": 65280,
-        "endTime": 65480,
+        "startTime": 65840,
+        "endTime": 66020,
         "pinyin": "e"
       },
       {
         "token": "の",
-        "startTime": 65480,
-        "endTime": 65660,
+        "startTime": 66020,
+        "endTime": 66220,
         "pinyin": "no"
       },
       {
         "token": "警",
-        "startTime": 65660,
-        "endTime": 65840,
+        "startTime": 66220,
+        "endTime": 66490,
         "pinyin": "kei"
       },
       {
         "token": "戒",
-        "startTime": 65840,
-        "endTime": 66020,
+        "startTime": 66490,
+        "endTime": 66760,
         "pinyin": "kai"
       },
       {
         "token": "感",
-        "startTime": 66020,
-        "endTime": 66220,
+        "startTime": 66760,
+        "endTime": 66860,
         "pinyin": "kan"
       },
       {
         "token": "が",
-        "startTime": 66220,
-        "endTime": 66420,
-        "pinyin": "ga"
-      },
-      {
-        "token": "高",
-        "startTime": 66420,
-        "endTime": 66760,
-        "pinyin": "kou"
-      },
-      {
-        "token": "ま",
-        "startTime": 66760,
-        "endTime": 66860,
-        "pinyin": "ma"
-      },
-      {
-        "token": "っ",
         "startTime": 66860,
-        "endTime": 66950,
-        "pinyin": "っ"
-      },
-      {
-        "token": "て",
-        "startTime": 66950,
         "endTime": 67040,
-        "pinyin": "te"
+        "pinyin": "ga"
       },
       {
         "token": "い",
