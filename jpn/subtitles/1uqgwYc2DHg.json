@@ -1,0 +1,1400 @@
+[
+  {
+    "sentence_text": "コンビニ 大手 の セブン イレブン が 一部 店舗",
+    "translations": {
+      "en": "Seven-Eleven, a major convenience store chain, has confirmed that"
+    },
+    "segments": [
+      {
+        "token": "コンビニ",
+        "startTime": 1020,
+        "endTime": 1480,
+        "pinyin": "konbini"
+      },
+      {
+        "token": "大手",
+        "startTime": 1480,
+        "endTime": 1800,
+        "pinyin": "oote"
+      },
+      {
+        "token": "の",
+        "startTime": 1800,
+        "endTime": 1940,
+        "pinyin": "no"
+      },
+      {
+        "token": "セブン",
+        "startTime": 1940,
+        "endTime": 2340,
+        "pinyin": "sebun"
+      },
+      {
+        "token": "イレブン",
+        "startTime": 2340,
+        "endTime": 2660,
+        "pinyin": "irebun"
+      },
+      {
+        "token": "が",
+        "startTime": 2660,
+        "endTime": 2820,
+        "pinyin": "ga"
+      },
+      {
+        "token": "一部",
+        "startTime": 2820,
+        "endTime": 3640,
+        "pinyin": "ichibu"
+      },
+      {
+        "token": "店舗",
+        "startTime": 3640,
+        "endTime": 4000,
+        "pinyin": "tenpo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "の 関係 者 に よる キャラクター 商品 の",
+    "translations": {
+      "en": "some stores' staff have been reselling character merchandise,"
+    },
+    "segments": [
+      {
+        "token": "の",
+        "startTime": 4000,
+        "endTime": 4160,
+        "pinyin": "no"
+      },
+      {
+        "token": "関係",
+        "startTime": 4160,
+        "endTime": 4880,
+        "pinyin": "kankei"
+      },
+      {
+        "token": "者",
+        "startTime": 4880,
+        "endTime": 5040,
+        "pinyin": "mono"
+      },
+      {
+        "token": "に",
+        "startTime": 5040,
+        "endTime": 5160,
+        "pinyin": "ni"
+      },
+      {
+        "token": "よる",
+        "startTime": 5160,
+        "endTime": 5380,
+        "pinyin": "yoru"
+      },
+      {
+        "token": "キャラクター",
+        "startTime": 5380,
+        "endTime": 6080,
+        "pinyin": "kyarakutaa"
+      },
+      {
+        "token": "商品",
+        "startTime": 6080,
+        "endTime": 6580,
+        "pinyin": "shouhin"
+      },
+      {
+        "token": "の",
+        "startTime": 6580,
+        "endTime": 6740,
+        "pinyin": "no"
+      }
+    ]
+  },
+  {
+    "sentence_text": "転売 など が 確認 さ れ た し て 、",
+    "translations": {
+      "en": "and has issued a notice to all stores nationwide"
+    },
+    "segments": [
+      {
+        "token": "転売",
+        "startTime": 6740,
+        "endTime": 7002,
+        "pinyin": "tenbai"
+      },
+      {
+        "token": "など",
+        "startTime": 7002,
+        "endTime": 7264,
+        "pinyin": "nado"
+      },
+      {
+        "token": "が",
+        "startTime": 7264,
+        "endTime": 7526,
+        "pinyin": "ga"
+      },
+      {
+        "token": "確認",
+        "startTime": 7526,
+        "endTime": 7788,
+        "pinyin": "kakunin"
+      },
+      {
+        "token": "さ",
+        "startTime": 7788,
+        "endTime": 8050,
+        "pinyin": "sa"
+      },
+      {
+        "token": "れ",
+        "startTime": 8050,
+        "endTime": 8312,
+        "pinyin": "re"
+      },
+      {
+        "token": "た",
+        "startTime": 8312,
+        "endTime": 8574,
+        "pinyin": "ta"
+      },
+      {
+        "token": "し",
+        "startTime": 8574,
+        "endTime": 8836,
+        "pinyin": "shi"
+      },
+      {
+        "token": "て",
+        "startTime": 8836,
+        "endTime": 9098,
+        "pinyin": "te"
+      },
+      {
+        "token": "、",
+        "startTime": 9098,
+        "endTime": 9360,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "全国 の 店舗 に 販売 ルール の 原種",
+    "translations": {
+      "en": "requesting strict adherence to sales rules."
+    },
+    "segments": [
+      {
+        "token": "全国",
+        "startTime": 9360,
+        "endTime": 9660,
+        "pinyin": "zenkoku"
+      },
+      {
+        "token": "の",
+        "startTime": 9660,
+        "endTime": 9920,
+        "pinyin": "no"
+      },
+      {
+        "token": "店舗",
+        "startTime": 9920,
+        "endTime": 10240,
+        "pinyin": "tenpo"
+      },
+      {
+        "token": "に",
+        "startTime": 10240,
+        "endTime": 10420,
+        "pinyin": "ni"
+      },
+      {
+        "token": "販売",
+        "startTime": 10420,
+        "endTime": 11160,
+        "pinyin": "hanbai"
+      },
+      {
+        "token": "ルール",
+        "startTime": 11160,
+        "endTime": 11460,
+        "pinyin": "ruuru"
+      },
+      {
+        "token": "の",
+        "startTime": 11460,
+        "endTime": 11640,
+        "pinyin": "no"
+      },
+      {
+        "token": "原種",
+        "startTime": 11640,
+        "endTime": 12020,
+        "pinyin": "genshu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "を 求める 通知 を 出し て い た",
+    "translations": {},
+    "segments": [
+      {
+        "token": "を",
+        "startTime": 12020,
+        "endTime": 12180,
+        "pinyin": "wo"
+      },
+      {
+        "token": "求める",
+        "startTime": 12180,
+        "endTime": 12640,
+        "pinyin": "motomeru"
+      },
+      {
+        "token": "通知",
+        "startTime": 12640,
+        "endTime": 13040,
+        "pinyin": "tsuuchi"
+      },
+      {
+        "token": "を",
+        "startTime": 13040,
+        "endTime": 13180,
+        "pinyin": "wo"
+      },
+      {
+        "token": "出し",
+        "startTime": 13180,
+        "endTime": 13520,
+        "pinyin": "dashi"
+      },
+      {
+        "token": "て",
+        "startTime": 13520,
+        "endTime": 13700,
+        "pinyin": "te"
+      },
+      {
+        "token": "い",
+        "startTime": 13700,
+        "endTime": 13840,
+        "pinyin": "i"
+      },
+      {
+        "token": "た",
+        "startTime": 13840,
+        "endTime": 14100,
+        "pinyin": "ta"
+      }
+    ]
+  },
+  {
+    "sentence_text": "こ とり まし た 。",
+    "translations": {
+      "en": "According to Seven-Eleven Japan,"
+    },
+    "segments": [
+      {
+        "token": "こ",
+        "startTime": 14100,
+        "endTime": 14700,
+        "pinyin": "ko"
+      },
+      {
+        "token": "とり",
+        "startTime": 14700,
+        "endTime": 15300,
+        "pinyin": "tori"
+      },
+      {
+        "token": "まし",
+        "startTime": 15300,
+        "endTime": 15900,
+        "pinyin": "mashi"
+      },
+      {
+        "token": "た",
+        "startTime": 15900,
+        "endTime": 16500,
+        "pinyin": "ta"
+      },
+      {
+        "token": "。",
+        "startTime": 16500,
+        "endTime": 17100,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "セブン イレブン ジャパン に より ます と 、",
+    "translations": {
+      "en": "regarding character-related lottery and card game"
+    },
+    "segments": [
+      {
+        "token": "セブン",
+        "startTime": 17100,
+        "endTime": 17383,
+        "pinyin": "sebun"
+      },
+      {
+        "token": "イレブン",
+        "startTime": 17383,
+        "endTime": 17665,
+        "pinyin": "irebun"
+      },
+      {
+        "token": "ジャパン",
+        "startTime": 17665,
+        "endTime": 17948,
+        "pinyin": "Japan"
+      },
+      {
+        "token": "に",
+        "startTime": 17948,
+        "endTime": 18230,
+        "pinyin": "ni"
+      },
+      {
+        "token": "より",
+        "startTime": 18230,
+        "endTime": 18513,
+        "pinyin": "yori"
+      },
+      {
+        "token": "ます",
+        "startTime": 18513,
+        "endTime": 18795,
+        "pinyin": "masu"
+      },
+      {
+        "token": "と",
+        "startTime": 18795,
+        "endTime": 19078,
+        "pinyin": "to"
+      },
+      {
+        "token": "、",
+        "startTime": 19078,
+        "endTime": 19360,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "キャラクター に 関する くじ や カード ゲーム の",
+    "translations": {
+      "en": "products,"
+    },
+    "segments": [
+      {
+        "token": "キャラクター",
+        "startTime": 19360,
+        "endTime": 19920,
+        "pinyin": "kyarakutaa"
+      },
+      {
+        "token": "に",
+        "startTime": 19920,
+        "endTime": 20100,
+        "pinyin": "ni"
+      },
+      {
+        "token": "関する",
+        "startTime": 20100,
+        "endTime": 20780,
+        "pinyin": "kansuru"
+      },
+      {
+        "token": "くじ",
+        "startTime": 20780,
+        "endTime": 21060,
+        "pinyin": "kuji"
+      },
+      {
+        "token": "や",
+        "startTime": 21060,
+        "endTime": 21260,
+        "pinyin": "ya"
+      },
+      {
+        "token": "カード",
+        "startTime": 21260,
+        "endTime": 21600,
+        "pinyin": "kaado"
+      },
+      {
+        "token": "ゲーム",
+        "startTime": 21600,
+        "endTime": 21860,
+        "pinyin": "geemu"
+      },
+      {
+        "token": "の",
+        "startTime": 21860,
+        "endTime": 22160,
+        "pinyin": "no"
+      }
+    ]
+  },
+  {
+    "sentence_text": "関連 商品 に い て 、",
+    "translations": {
+      "en": "some store owners and employees"
+    },
+    "segments": [
+      {
+        "token": "関連",
+        "startTime": 22160,
+        "endTime": 22467,
+        "pinyin": "kanren"
+      },
+      {
+        "token": "商品",
+        "startTime": 22467,
+        "endTime": 22773,
+        "pinyin": "shouhin"
+      },
+      {
+        "token": "に",
+        "startTime": 22773,
+        "endTime": 23080,
+        "pinyin": "ni"
+      },
+      {
+        "token": "い",
+        "startTime": 23080,
+        "endTime": 23387,
+        "pinyin": "i"
+      },
+      {
+        "token": "て",
+        "startTime": 23387,
+        "endTime": 23693,
+        "pinyin": "te"
+      },
+      {
+        "token": "、",
+        "startTime": 23693,
+        "endTime": 24000,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "一部 の 店舗 で オーナー や 従業 員",
+    "translations": {
+      "en": "were buying up items before sales began"
+    },
+    "segments": [
+      {
+        "token": "一部",
+        "startTime": 24000,
+        "endTime": 24260,
+        "pinyin": "ichibu"
+      },
+      {
+        "token": "の",
+        "startTime": 24260,
+        "endTime": 24420,
+        "pinyin": "no"
+      },
+      {
+        "token": "店舗",
+        "startTime": 24420,
+        "endTime": 24720,
+        "pinyin": "tenpo"
+      },
+      {
+        "token": "で",
+        "startTime": 24720,
+        "endTime": 24860,
+        "pinyin": "de"
+      },
+      {
+        "token": "オーナー",
+        "startTime": 24860,
+        "endTime": 25620,
+        "pinyin": "oonaa"
+      },
+      {
+        "token": "や",
+        "startTime": 25620,
+        "endTime": 25800,
+        "pinyin": "ya"
+      },
+      {
+        "token": "従業",
+        "startTime": 25800,
+        "endTime": 26280,
+        "pinyin": "juugyou"
+      },
+      {
+        "token": "員",
+        "startTime": 26280,
+        "endTime": 26440,
+        "pinyin": "in"
+      }
+    ]
+  },
+  {
+    "sentence_text": "など が 販売 開始 前 に 買い占め たり",
+    "translations": {
+      "en": "or engaging in resale."
+    },
+    "segments": [
+      {
+        "token": "など",
+        "startTime": 26440,
+        "endTime": 26700,
+        "pinyin": "nado"
+      },
+      {
+        "token": "が",
+        "startTime": 26700,
+        "endTime": 26900,
+        "pinyin": "ga"
+      },
+      {
+        "token": "販売",
+        "startTime": 26900,
+        "endTime": 27620,
+        "pinyin": "hanbai"
+      },
+      {
+        "token": "開始",
+        "startTime": 27620,
+        "endTime": 27960,
+        "pinyin": "kaishi"
+      },
+      {
+        "token": "前",
+        "startTime": 27960,
+        "endTime": 28220,
+        "pinyin": "mae"
+      },
+      {
+        "token": "に",
+        "startTime": 28220,
+        "endTime": 28400,
+        "pinyin": "ni"
+      },
+      {
+        "token": "買い占め",
+        "startTime": 28400,
+        "endTime": 28960,
+        "pinyin": "kaishime"
+      },
+      {
+        "token": "たり",
+        "startTime": 28960,
+        "endTime": 29600,
+        "pinyin": "tari"
+      }
+    ]
+  },
+  {
+    "sentence_text": "転売 を 行っ たり し て い た",
+    "translations": {},
+    "segments": [
+      {
+        "token": "転売",
+        "startTime": 29600,
+        "endTime": 29980,
+        "pinyin": "tenbai"
+      },
+      {
+        "token": "を",
+        "startTime": 29980,
+        "endTime": 30180,
+        "pinyin": "wo"
+      },
+      {
+        "token": "行っ",
+        "startTime": 30180,
+        "endTime": 30660,
+        "pinyin": "i"
+      },
+      {
+        "token": "たり",
+        "startTime": 30660,
+        "endTime": 31000,
+        "pinyin": "tari"
+      },
+      {
+        "token": "し",
+        "startTime": 31000,
+        "endTime": 31180,
+        "pinyin": "shi"
+      },
+      {
+        "token": "て",
+        "startTime": 31180,
+        "endTime": 31340,
+        "pinyin": "te"
+      },
+      {
+        "token": "い",
+        "startTime": 31340,
+        "endTime": 31560,
+        "pinyin": "i"
+      },
+      {
+        "token": "た",
+        "startTime": 31560,
+        "endTime": 31820,
+        "pinyin": "ta"
+      }
+    ]
+  },
+  {
+    "sentence_text": "こと が と いう こと です 。",
+    "translations": {
+      "en": "This came to light through social media"
+    },
+    "segments": [
+      {
+        "token": "こと",
+        "startTime": 31820,
+        "endTime": 32231,
+        "pinyin": "koto"
+      },
+      {
+        "token": "が",
+        "startTime": 32231,
+        "endTime": 32643,
+        "pinyin": "ga"
+      },
+      {
+        "token": "と",
+        "startTime": 32643,
+        "endTime": 33054,
+        "pinyin": "to"
+      },
+      {
+        "token": "いう",
+        "startTime": 33054,
+        "endTime": 33466,
+        "pinyin": "iu"
+      },
+      {
+        "token": "こと",
+        "startTime": 33466,
+        "endTime": 33877,
+        "pinyin": "koto"
+      },
+      {
+        "token": "です",
+        "startTime": 33877,
+        "endTime": 34289,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 34289,
+        "endTime": 34700,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "SN S や 客 から の 指摘 で",
+    "translations": {
+      "en": "and customer reports,"
+    },
+    "segments": [
+      {
+        "token": "SN",
+        "startTime": 34700,
+        "endTime": 35020,
+        "pinyin": "SN"
+      },
+      {
+        "token": "S",
+        "startTime": 35020,
+        "endTime": 35280,
+        "pinyin": "S"
+      },
+      {
+        "token": "や",
+        "startTime": 35280,
+        "endTime": 35520,
+        "pinyin": "ya"
+      },
+      {
+        "token": "客",
+        "startTime": 35520,
+        "endTime": 35840,
+        "pinyin": "kyaku"
+      },
+      {
+        "token": "から",
+        "startTime": 35840,
+        "endTime": 36120,
+        "pinyin": "kara"
+      },
+      {
+        "token": "の",
+        "startTime": 36120,
+        "endTime": 36300,
+        "pinyin": "no"
+      },
+      {
+        "token": "指摘",
+        "startTime": 36300,
+        "endTime": 36580,
+        "pinyin": "shiteki"
+      },
+      {
+        "token": "で",
+        "startTime": 36580,
+        "endTime": 36760,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "発覚 し と いう こと で 、",
+    "translations": {
+      "en": "and on the 13th, the head office warned"
+    },
+    "segments": [
+      {
+        "token": "発覚",
+        "startTime": 36760,
+        "endTime": 37060,
+        "pinyin": "hakkaku"
+      },
+      {
+        "token": "し",
+        "startTime": 37060,
+        "endTime": 37360,
+        "pinyin": "shi"
+      },
+      {
+        "token": "と",
+        "startTime": 37360,
+        "endTime": 37660,
+        "pinyin": "to"
+      },
+      {
+        "token": "いう",
+        "startTime": 37660,
+        "endTime": 37960,
+        "pinyin": "iu"
+      },
+      {
+        "token": "こと",
+        "startTime": 37960,
+        "endTime": 38260,
+        "pinyin": "koto"
+      },
+      {
+        "token": "で",
+        "startTime": 38260,
+        "endTime": 38560,
+        "pinyin": "de"
+      },
+      {
+        "token": "、",
+        "startTime": 38560,
+        "endTime": 38860,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "13 日 付 で 本部 から 加盟 店 に",
+    "translations": {
+      "en": "franchisees to follow sales rules."
+    },
+    "segments": [
+      {
+        "token": "13",
+        "startTime": 38860,
+        "endTime": 39147,
+        "pinyin": "13"
+      },
+      {
+        "token": "日",
+        "startTime": 39147,
+        "endTime": 39433,
+        "pinyin": "hi"
+      },
+      {
+        "token": "付",
+        "startTime": 39433,
+        "endTime": 39720,
+        "pinyin": "zuke"
+      },
+      {
+        "token": "で",
+        "startTime": 39720,
+        "endTime": 40007,
+        "pinyin": "de"
+      },
+      {
+        "token": "本部",
+        "startTime": 40007,
+        "endTime": 40293,
+        "pinyin": "honbu"
+      },
+      {
+        "token": "から",
+        "startTime": 40293,
+        "endTime": 40580,
+        "pinyin": "kara"
+      },
+      {
+        "token": "加盟",
+        "startTime": 40580,
+        "endTime": 40867,
+        "pinyin": "kamei"
+      },
+      {
+        "token": "店",
+        "startTime": 40867,
+        "endTime": 41153,
+        "pinyin": "ten"
+      },
+      {
+        "token": "に",
+        "startTime": 41153,
+        "endTime": 41440,
+        "pinyin": "ni"
+      }
+    ]
+  },
+  {
+    "sentence_text": "対し 販売 の ルール を 守る よう 注意",
+    "translations": {},
+    "segments": [
+      {
+        "token": "対し",
+        "startTime": 41440,
+        "endTime": 41860,
+        "pinyin": "taishi"
+      },
+      {
+        "token": "販売",
+        "startTime": 41860,
+        "endTime": 42720,
+        "pinyin": "hanbai"
+      },
+      {
+        "token": "の",
+        "startTime": 42720,
+        "endTime": 42920,
+        "pinyin": "no"
+      },
+      {
+        "token": "ルール",
+        "startTime": 42920,
+        "endTime": 43180,
+        "pinyin": "ruuru"
+      },
+      {
+        "token": "を",
+        "startTime": 43180,
+        "endTime": 43360,
+        "pinyin": "wo"
+      },
+      {
+        "token": "守る",
+        "startTime": 43360,
+        "endTime": 43700,
+        "pinyin": "mamoru"
+      },
+      {
+        "token": "よう",
+        "startTime": 43700,
+        "endTime": 43900,
+        "pinyin": "you"
+      },
+      {
+        "token": "注意",
+        "startTime": 43900,
+        "endTime": 44280,
+        "pinyin": "chuui"
+      }
+    ]
+  },
+  {
+    "sentence_text": "喚起 を 行い まし た 。",
+    "translations": {
+      "en": "Specifically, it instructed that staff should not"
+    },
+    "segments": [
+      {
+        "token": "喚起",
+        "startTime": 44280,
+        "endTime": 44890,
+        "pinyin": "kanki"
+      },
+      {
+        "token": "を",
+        "startTime": 44890,
+        "endTime": 45500,
+        "pinyin": "wo"
+      },
+      {
+        "token": "行い",
+        "startTime": 45500,
+        "endTime": 46110,
+        "pinyin": "okonai"
+      },
+      {
+        "token": "まし",
+        "startTime": 46110,
+        "endTime": 46720,
+        "pinyin": "mashi"
+      },
+      {
+        "token": "た",
+        "startTime": 46720,
+        "endTime": 47330,
+        "pinyin": "ta"
+      },
+      {
+        "token": "。",
+        "startTime": 47330,
+        "endTime": 47940,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "具体 的 に は 関係 者 が 優先",
+    "translations": {
+      "en": "purchase items preferentially or engage in"
+    },
+    "segments": [
+      {
+        "token": "具体",
+        "startTime": 47940,
+        "endTime": 48240,
+        "pinyin": "gutai"
+      },
+      {
+        "token": "的",
+        "startTime": 48240,
+        "endTime": 48480,
+        "pinyin": "teki"
+      },
+      {
+        "token": "に",
+        "startTime": 48480,
+        "endTime": 48720,
+        "pinyin": "ni"
+      },
+      {
+        "token": "は",
+        "startTime": 48720,
+        "endTime": 49380,
+        "pinyin": "wa"
+      },
+      {
+        "token": "関係",
+        "startTime": 49380,
+        "endTime": 49700,
+        "pinyin": "kankei"
+      },
+      {
+        "token": "者",
+        "startTime": 49700,
+        "endTime": 49860,
+        "pinyin": "mono"
+      },
+      {
+        "token": "が",
+        "startTime": 49860,
+        "endTime": 50140,
+        "pinyin": "ga"
+      },
+      {
+        "token": "優先",
+        "startTime": 50140,
+        "endTime": 50480,
+        "pinyin": "yuusen"
+      }
+    ]
+  },
+  {
+    "sentence_text": "的 に 購入 し ない こと や 販売",
+    "translations": {
+      "en": "Not to purchase or sell intentionally"
+    },
+    "segments": [
+      {
+        "token": "的",
+        "startTime": 50480,
+        "endTime": 50700,
+        "pinyin": "teki"
+      },
+      {
+        "token": "に",
+        "startTime": 50700,
+        "endTime": 50940,
+        "pinyin": "ni"
+      },
+      {
+        "token": "購入",
+        "startTime": 50940,
+        "endTime": 51280,
+        "pinyin": "kounyuu"
+      },
+      {
+        "token": "し",
+        "startTime": 51280,
+        "endTime": 51380,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ない",
+        "startTime": 51380,
+        "endTime": 51600,
+        "pinyin": "nai"
+      },
+      {
+        "token": "こと",
+        "startTime": 51600,
+        "endTime": 52520,
+        "pinyin": "koto"
+      },
+      {
+        "token": "や",
+        "startTime": 52520,
+        "endTime": 52700,
+        "pinyin": "ya"
+      },
+      {
+        "token": "販売",
+        "startTime": 52700,
+        "endTime": 53040,
+        "pinyin": "hanbai"
+      }
+    ]
+  },
+  {
+    "sentence_text": "開始 前 に 取り置き し ない こと など",
+    "translations": {
+      "en": "Do not reserve items before the start."
+    },
+    "segments": [
+      {
+        "token": "開始",
+        "startTime": 53040,
+        "endTime": 53480,
+        "pinyin": "kaishi"
+      },
+      {
+        "token": "前",
+        "startTime": 53480,
+        "endTime": 53700,
+        "pinyin": "mae"
+      },
+      {
+        "token": "に",
+        "startTime": 53700,
+        "endTime": 53860,
+        "pinyin": "ni"
+      },
+      {
+        "token": "取り置き",
+        "startTime": 53860,
+        "endTime": 54240,
+        "pinyin": "torioki"
+      },
+      {
+        "token": "し",
+        "startTime": 54240,
+        "endTime": 54460,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ない",
+        "startTime": 54460,
+        "endTime": 54760,
+        "pinyin": "nai"
+      },
+      {
+        "token": "こと",
+        "startTime": 54760,
+        "endTime": 55040,
+        "pinyin": "koto"
+      },
+      {
+        "token": "など",
+        "startTime": 55040,
+        "endTime": 55260,
+        "pinyin": "nado"
+      }
+    ]
+  },
+  {
+    "sentence_text": "い ます 。",
+    "translations": {
+      "en": "We are."
+    },
+    "segments": [
+      {
+        "token": "い",
+        "startTime": 55260,
+        "endTime": 55960,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 55960,
+        "endTime": 56660,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 56660,
+        "endTime": 57360,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "セブン イレブン は 店舗 の 経営 の 継続",
+    "translations": {
+      "en": "Seven-Eleven sees this as a serious issue"
+    },
+    "segments": [
+      {
+        "token": "セブン",
+        "startTime": 57360,
+        "endTime": 57740,
+        "pinyin": "sebun"
+      },
+      {
+        "token": "イレブン",
+        "startTime": 57740,
+        "endTime": 58040,
+        "pinyin": "irebun"
+      },
+      {
+        "token": "は",
+        "startTime": 58040,
+        "endTime": 58200,
+        "pinyin": "wa"
+      },
+      {
+        "token": "店舗",
+        "startTime": 58200,
+        "endTime": 59060,
+        "pinyin": "tenpo"
+      },
+      {
+        "token": "の",
+        "startTime": 59060,
+        "endTime": 59220,
+        "pinyin": "no"
+      },
+      {
+        "token": "経営",
+        "startTime": 59220,
+        "endTime": 59620,
+        "pinyin": "keiei"
+      },
+      {
+        "token": "の",
+        "startTime": 59620,
+        "endTime": 59800,
+        "pinyin": "no"
+      },
+      {
+        "token": "継続",
+        "startTime": 59800,
+        "endTime": 60200,
+        "pinyin": "keizoku"
+      }
+    ]
+  },
+  {
+    "sentence_text": "に まで 影響 し かね ない 重大 な",
+    "translations": {
+      "en": "that could affect the continuation of store operations,"
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 60200,
+        "endTime": 60440,
+        "pinyin": "ni"
+      },
+      {
+        "token": "まで",
+        "startTime": 60440,
+        "endTime": 60620,
+        "pinyin": "made"
+      },
+      {
+        "token": "影響",
+        "startTime": 60620,
+        "endTime": 61120,
+        "pinyin": "eikyou"
+      },
+      {
+        "token": "し",
+        "startTime": 61120,
+        "endTime": 61400,
+        "pinyin": "shi"
+      },
+      {
+        "token": "かね",
+        "startTime": 61400,
+        "endTime": 62100,
+        "pinyin": "ka ne"
+      },
+      {
+        "token": "ない",
+        "startTime": 62100,
+        "endTime": 62420,
+        "pinyin": "nai"
+      },
+      {
+        "token": "重大",
+        "startTime": 62420,
+        "endTime": 62960,
+        "pinyin": "juudai"
+      },
+      {
+        "token": "な",
+        "startTime": 62960,
+        "endTime": 63180,
+        "pinyin": "na"
+      }
+    ]
+  },
+  {
+    "sentence_text": "問題 と 捉え し て 、",
+    "translations": {
+      "en": "and will continue to"
+    },
+    "segments": [
+      {
+        "token": "問題",
+        "startTime": 63180,
+        "endTime": 63427,
+        "pinyin": "mondai"
+      },
+      {
+        "token": "と",
+        "startTime": 63427,
+        "endTime": 63673,
+        "pinyin": "to"
+      },
+      {
+        "token": "捉え",
+        "startTime": 63673,
+        "endTime": 63920,
+        "pinyin": "torae"
+      },
+      {
+        "token": "し",
+        "startTime": 63920,
+        "endTime": 64167,
+        "pinyin": "shi"
+      },
+      {
+        "token": "て",
+        "startTime": 64167,
+        "endTime": 64413,
+        "pinyin": "te"
+      },
+      {
+        "token": "、",
+        "startTime": 64413,
+        "endTime": 64660,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "引き続き 注意 喚起 を 徹底 し て いく",
+    "translations": {
+      "en": "thoroughly issue warnings."
+    },
+    "segments": [
+      {
+        "token": "引き続き",
+        "startTime": 64660,
+        "endTime": 65220,
+        "pinyin": "hikitsuzuki"
+      },
+      {
+        "token": "注意",
+        "startTime": 65220,
+        "endTime": 65500,
+        "pinyin": "chuui"
+      },
+      {
+        "token": "喚起",
+        "startTime": 65500,
+        "endTime": 65880,
+        "pinyin": "kanki"
+      },
+      {
+        "token": "を",
+        "startTime": 65880,
+        "endTime": 66020,
+        "pinyin": "wo"
+      },
+      {
+        "token": "徹底",
+        "startTime": 66020,
+        "endTime": 66400,
+        "pinyin": "tettei"
+      },
+      {
+        "token": "し",
+        "startTime": 66400,
+        "endTime": 66640,
+        "pinyin": "shi"
+      },
+      {
+        "token": "て",
+        "startTime": 66640,
+        "endTime": 66800,
+        "pinyin": "te"
+      },
+      {
+        "token": "いく",
+        "startTime": 66800,
+        "endTime": 67140,
+        "pinyin": "iku"
+      }
+    ]
+  },
+  {
+    "sentence_text": "い ます 。",
+    "translations": {
+      "en": "We are."
+    },
+    "segments": [
+      {
+        "token": "い",
+        "startTime": 67140,
+        "endTime": 67233,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 67233,
+        "endTime": 67327,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 67327,
+        "endTime": 67420,
+        "pinyin": "."
+      }
+    ]
+  }
+]
