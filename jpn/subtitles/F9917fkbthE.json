@@ -1,328 +1,344 @@
 [
   {
-    "sentence_text": "19 42 年 2 月 、 メキシコ で 農業 を 営む リオニシオ は 、",
+    "sentence_text": "19 42 年 2 月 、",
     "translations": {
-      "en": "In February 1942, Dionisio, who farmed in Mexico,"
+      "en": "In February 1942,"
     },
     "segments": [
       {
         "token": "1",
-        "startTime": 6969,
-        "endTime": 7309,
+        "startTime": 6989,
+        "endTime": 7327,
         "pinyin": "1"
       },
       {
         "token": "9",
-        "startTime": 7309,
-        "endTime": 7649,
+        "startTime": 7327,
+        "endTime": 7664,
         "pinyin": "9"
       },
       {
         "token": "4",
-        "startTime": 7649,
-        "endTime": 7989,
+        "startTime": 7664,
+        "endTime": 8002,
         "pinyin": "4"
       },
       {
         "token": "2",
-        "startTime": 7989,
-        "endTime": 8329,
+        "startTime": 8002,
+        "endTime": 8339,
         "pinyin": "2"
       },
       {
         "token": "年",
-        "startTime": 8329,
-        "endTime": 8669,
+        "startTime": 8339,
+        "endTime": 8677,
         "pinyin": "nen"
       },
       {
         "token": "2",
-        "startTime": 8669,
-        "endTime": 9009,
+        "startTime": 8677,
+        "endTime": 9014,
         "pinyin": "2"
       },
       {
         "token": "月",
-        "startTime": 9009,
-        "endTime": 9349,
+        "startTime": 9014,
+        "endTime": 9352,
         "pinyin": "tsuki"
       },
       {
         "token": "、",
-        "startTime": 9349,
+        "startTime": 9352,
         "endTime": 9689,
-        "pinyin": ","
-      },
-      {
-        "token": "メ",
-        "startTime": 9689,
-        "endTime": 9862,
-        "pinyin": "me"
-      },
-      {
-        "token": "キ",
-        "startTime": 9862,
-        "endTime": 10035,
-        "pinyin": "ki"
-      },
-      {
-        "token": "シ",
-        "startTime": 10035,
-        "endTime": 10208,
-        "pinyin": "shi"
-      },
-      {
-        "token": "コ",
-        "startTime": 10208,
-        "endTime": 10381,
-        "pinyin": "ko"
-      },
-      {
-        "token": "で",
-        "startTime": 10381,
-        "endTime": 10554,
-        "pinyin": "de"
-      },
-      {
-        "token": "農",
-        "startTime": 10554,
-        "endTime": 10727,
-        "pinyin": "nou"
-      },
-      {
-        "token": "業",
-        "startTime": 10727,
-        "endTime": 10900,
-        "pinyin": "gyou"
-      },
-      {
-        "token": "を",
-        "startTime": 10900,
-        "endTime": 11073,
-        "pinyin": "wo"
-      },
-      {
-        "token": "営",
-        "startTime": 11073,
-        "endTime": 11245,
-        "pinyin": "ei"
-      },
-      {
-        "token": "む",
-        "startTime": 11245,
-        "endTime": 11418,
-        "pinyin": "mu"
-      },
-      {
-        "token": "リ",
-        "startTime": 11418,
-        "endTime": 11591,
-        "pinyin": "ri"
-      },
-      {
-        "token": "オ",
-        "startTime": 11591,
-        "endTime": 11764,
-        "pinyin": "o"
-      },
-      {
-        "token": "ニ",
-        "startTime": 11764,
-        "endTime": 11937,
-        "pinyin": "ni"
-      },
-      {
-        "token": "シ",
-        "startTime": 11937,
-        "endTime": 12110,
-        "pinyin": "shi"
-      },
-      {
-        "token": "オ",
-        "startTime": 12110,
-        "endTime": 12283,
-        "pinyin": "o"
-      },
-      {
-        "token": "は",
-        "startTime": 12283,
-        "endTime": 12456,
-        "pinyin": "wa"
-      },
-      {
-        "token": "、",
-        "startTime": 12456,
-        "endTime": 12629,
         "pinyin": ","
       }
     ]
   },
   {
-    "sentence_text": "所有 する トウモロコシ 畑 の 方 から 雷 の 音 が 聞こえ し まし た 。",
+    "sentence_text": "メキシコ で 農業 を 営む リオニシオ は 、",
+    "translations": {
+      "en": "Dionisio, a farmer in Mexico,"
+    },
+    "segments": [
+      {
+        "token": "メ",
+        "startTime": 9689,
+        "endTime": 9861,
+        "pinyin": "me"
+      },
+      {
+        "token": "キ",
+        "startTime": 9861,
+        "endTime": 10033,
+        "pinyin": "ki"
+      },
+      {
+        "token": "シ",
+        "startTime": 10033,
+        "endTime": 10204,
+        "pinyin": "shi"
+      },
+      {
+        "token": "コ",
+        "startTime": 10204,
+        "endTime": 10376,
+        "pinyin": "ko"
+      },
+      {
+        "token": "で",
+        "startTime": 10376,
+        "endTime": 10548,
+        "pinyin": "de"
+      },
+      {
+        "token": "農",
+        "startTime": 10548,
+        "endTime": 10720,
+        "pinyin": "nou"
+      },
+      {
+        "token": "業",
+        "startTime": 10720,
+        "endTime": 10891,
+        "pinyin": "gyou"
+      },
+      {
+        "token": "を",
+        "startTime": 10891,
+        "endTime": 11063,
+        "pinyin": "wo"
+      },
+      {
+        "token": "営",
+        "startTime": 11063,
+        "endTime": 11235,
+        "pinyin": "ei"
+      },
+      {
+        "token": "む",
+        "startTime": 11235,
+        "endTime": 11407,
+        "pinyin": "mu"
+      },
+      {
+        "token": "リ",
+        "startTime": 11407,
+        "endTime": 11578,
+        "pinyin": "ri"
+      },
+      {
+        "token": "オ",
+        "startTime": 11578,
+        "endTime": 11750,
+        "pinyin": "o"
+      },
+      {
+        "token": "ニ",
+        "startTime": 11750,
+        "endTime": 11922,
+        "pinyin": "ni"
+      },
+      {
+        "token": "シ",
+        "startTime": 11922,
+        "endTime": 12094,
+        "pinyin": "shi"
+      },
+      {
+        "token": "オ",
+        "startTime": 12094,
+        "endTime": 12265,
+        "pinyin": "o"
+      },
+      {
+        "token": "は",
+        "startTime": 12265,
+        "endTime": 12437,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 12437,
+        "endTime": 12609,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "所有 する トウモロコシ 畑 の 方 から 雷",
     "translations": {
       "en": "heard thunder coming from his cornfield."
     },
     "segments": [
       {
         "token": "所",
-        "startTime": 12629,
-        "endTime": 12799,
+        "startTime": 12609,
+        "endTime": 12780,
         "pinyin": "tokoro"
       },
       {
         "token": "有",
-        "startTime": 12799,
-        "endTime": 12969,
+        "startTime": 12780,
+        "endTime": 12952,
         "pinyin": "yuu"
       },
       {
         "token": "す",
-        "startTime": 12969,
-        "endTime": 13139,
+        "startTime": 12952,
+        "endTime": 13123,
         "pinyin": "su"
       },
       {
         "token": "る",
-        "startTime": 13139,
-        "endTime": 13309,
+        "startTime": 13123,
+        "endTime": 13294,
         "pinyin": "ru"
       },
       {
         "token": "ト",
-        "startTime": 13309,
-        "endTime": 13479,
+        "startTime": 13294,
+        "endTime": 13465,
         "pinyin": "to"
       },
       {
         "token": "ウ",
-        "startTime": 13479,
-        "endTime": 13649,
+        "startTime": 13465,
+        "endTime": 13637,
         "pinyin": "u"
       },
       {
         "token": "モ",
-        "startTime": 13649,
-        "endTime": 13819,
+        "startTime": 13637,
+        "endTime": 13808,
         "pinyin": "mo"
       },
       {
         "token": "ロ",
-        "startTime": 13819,
-        "endTime": 13989,
+        "startTime": 13808,
+        "endTime": 13979,
         "pinyin": "ro"
       },
       {
         "token": "コ",
-        "startTime": 13989,
-        "endTime": 14159,
+        "startTime": 13979,
+        "endTime": 14150,
         "pinyin": "ko"
       },
       {
         "token": "シ",
-        "startTime": 14159,
-        "endTime": 14329,
+        "startTime": 14150,
+        "endTime": 14322,
         "pinyin": "shi"
       },
       {
         "token": "畑",
-        "startTime": 14329,
-        "endTime": 14499,
+        "startTime": 14322,
+        "endTime": 14493,
         "pinyin": "hatake"
       },
       {
         "token": "の",
-        "startTime": 14499,
-        "endTime": 14669,
+        "startTime": 14493,
+        "endTime": 14664,
         "pinyin": "no"
       },
       {
         "token": "方",
-        "startTime": 14669,
-        "endTime": 14839,
+        "startTime": 14664,
+        "endTime": 14835,
         "pinyin": "kata"
       },
       {
         "token": "か",
-        "startTime": 14839,
-        "endTime": 15009,
+        "startTime": 14835,
+        "endTime": 15006,
         "pinyin": "ka"
       },
       {
         "token": "ら",
-        "startTime": 15009,
-        "endTime": 15179,
+        "startTime": 15006,
+        "endTime": 15178,
         "pinyin": "ra"
       },
       {
         "token": "雷",
-        "startTime": 15179,
+        "startTime": 15178,
         "endTime": 15349,
         "pinyin": "kaminari"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "の 音 が 聞こえ し まし た 。",
+    "translations": {
+      "en": "But the thunder wasn't from the sky."
+    },
+    "segments": [
       {
         "token": "の",
         "startTime": 15349,
-        "endTime": 15425,
+        "endTime": 15420,
         "pinyin": "no"
       },
       {
         "token": "音",
-        "startTime": 15425,
-        "endTime": 15502,
+        "startTime": 15420,
+        "endTime": 15491,
         "pinyin": "oto"
       },
       {
         "token": "が",
-        "startTime": 15502,
-        "endTime": 15578,
+        "startTime": 15491,
+        "endTime": 15562,
         "pinyin": "ga"
       },
       {
         "token": "聞",
-        "startTime": 15578,
-        "endTime": 15654,
+        "startTime": 15562,
+        "endTime": 15633,
         "pinyin": "kiku"
       },
       {
         "token": "こ",
-        "startTime": 15654,
-        "endTime": 15731,
+        "startTime": 15633,
+        "endTime": 15704,
         "pinyin": "ko"
       },
       {
         "token": "え",
-        "startTime": 15731,
-        "endTime": 15807,
+        "startTime": 15704,
+        "endTime": 15774,
         "pinyin": "e"
       },
       {
         "token": "し",
-        "startTime": 15807,
-        "endTime": 15884,
+        "startTime": 15774,
+        "endTime": 15845,
         "pinyin": "shi"
       },
       {
         "token": "ま",
-        "startTime": 15884,
-        "endTime": 15960,
+        "startTime": 15845,
+        "endTime": 15916,
         "pinyin": "ma"
       },
       {
         "token": "し",
-        "startTime": 15960,
-        "endTime": 16036,
+        "startTime": 15916,
+        "endTime": 15987,
         "pinyin": "shi"
       },
       {
         "token": "た",
-        "startTime": 16036,
-        "endTime": 16113,
+        "startTime": 15987,
+        "endTime": 16058,
         "pinyin": "ta"
       },
       {
         "token": "。",
-        "startTime": 16113,
-        "endTime": 16189,
+        "startTime": 16058,
+        "endTime": 16129,
         "pinyin": "."
       }
     ]
@@ -330,475 +346,479 @@
   {
     "sentence_text": "しかし 雷鳴 は 空 から で は ませ ん 。",
     "translations": {
-      "en": "But the thunder wasn't from the sky."
+      "en": "It came from a crack in the earth,"
     },
     "segments": [
       {
         "token": "し",
-        "startTime": 16349,
-        "endTime": 16512,
+        "startTime": 16549,
+        "endTime": 16692,
         "pinyin": "shi"
       },
       {
         "token": "か",
-        "startTime": 16512,
-        "endTime": 16674,
+        "startTime": 16692,
+        "endTime": 16834,
         "pinyin": "ka"
       },
       {
         "token": "し",
-        "startTime": 16674,
-        "endTime": 16837,
+        "startTime": 16834,
+        "endTime": 16977,
         "pinyin": "shi"
       },
       {
         "token": "雷",
-        "startTime": 16837,
-        "endTime": 17000,
+        "startTime": 16977,
+        "endTime": 17120,
         "pinyin": "kaminari"
       },
       {
         "token": "鳴",
-        "startTime": 17000,
-        "endTime": 17162,
+        "startTime": 17120,
+        "endTime": 17262,
         "pinyin": "Naru"
       },
       {
         "token": "は",
-        "startTime": 17162,
-        "endTime": 17325,
+        "startTime": 17262,
+        "endTime": 17405,
         "pinyin": "wa"
       },
       {
         "token": "空",
-        "startTime": 17325,
-        "endTime": 17488,
+        "startTime": 17405,
+        "endTime": 17548,
         "pinyin": "sora"
       },
       {
         "token": "か",
-        "startTime": 17488,
-        "endTime": 17650,
+        "startTime": 17548,
+        "endTime": 17690,
         "pinyin": "ka"
       },
       {
         "token": "ら",
-        "startTime": 17650,
-        "endTime": 17813,
+        "startTime": 17690,
+        "endTime": 17833,
         "pinyin": "ra"
       },
       {
         "token": "で",
-        "startTime": 17813,
+        "startTime": 17833,
         "endTime": 17976,
         "pinyin": "de"
       },
       {
         "token": "は",
         "startTime": 17976,
-        "endTime": 18138,
+        "endTime": 18118,
         "pinyin": "wa"
       },
       {
         "token": "ま",
-        "startTime": 18138,
-        "endTime": 18301,
+        "startTime": 18118,
+        "endTime": 18261,
         "pinyin": "ma"
       },
       {
         "token": "せ",
-        "startTime": 18301,
-        "endTime": 18464,
+        "startTime": 18261,
+        "endTime": 18404,
         "pinyin": "se"
       },
       {
         "token": "ん",
-        "startTime": 18464,
-        "endTime": 18626,
+        "startTime": 18404,
+        "endTime": 18546,
         "pinyin": "n"
       },
       {
         "token": "。",
-        "startTime": 18626,
-        "endTime": 18789,
+        "startTime": 18546,
+        "endTime": 18689,
         "pinyin": "."
       }
     ]
   },
   {
-    "sentence_text": "ガス や 岩石 が 噴出 し 、 煙 が たし 込める 地割れ から とどろい て です 。",
+    "sentence_text": "ガス や 岩石 が 噴出 し 、 煙",
     "translations": {
-      "en": "It roared from a fissure spewing gas and rock, filling with smoke."
+      "en": "spewing gas and rocks,"
     },
     "segments": [
       {
         "token": "ガ",
-        "startTime": 19709,
-        "endTime": 19933,
+        "startTime": 19909,
+        "endTime": 20114,
         "pinyin": "ga"
       },
       {
         "token": "ス",
-        "startTime": 19933,
-        "endTime": 20156,
+        "startTime": 20114,
+        "endTime": 20320,
         "pinyin": "su"
       },
       {
         "token": "や",
-        "startTime": 20156,
-        "endTime": 20380,
+        "startTime": 20320,
+        "endTime": 20525,
         "pinyin": "ya"
       },
       {
         "token": "岩",
-        "startTime": 20380,
-        "endTime": 20604,
+        "startTime": 20525,
+        "endTime": 20731,
         "pinyin": "iwa"
       },
       {
         "token": "石",
-        "startTime": 20604,
-        "endTime": 20827,
+        "startTime": 20731,
+        "endTime": 20936,
         "pinyin": "ishi"
       },
       {
         "token": "が",
-        "startTime": 20827,
-        "endTime": 21051,
+        "startTime": 20936,
+        "endTime": 21142,
         "pinyin": "ga"
       },
       {
         "token": "噴",
-        "startTime": 21051,
-        "endTime": 21274,
+        "startTime": 21142,
+        "endTime": 21347,
         "pinyin": "?"
       },
       {
         "token": "出",
-        "startTime": 21274,
-        "endTime": 21498,
+        "startTime": 21347,
+        "endTime": 21553,
         "pinyin": "de"
       },
       {
         "token": "し",
-        "startTime": 21498,
-        "endTime": 21722,
+        "startTime": 21553,
+        "endTime": 21758,
         "pinyin": "shi"
       },
       {
         "token": "、",
-        "startTime": 21722,
-        "endTime": 21945,
+        "startTime": 21758,
+        "endTime": 21964,
         "pinyin": ","
       },
       {
         "token": "煙",
-        "startTime": 21945,
+        "startTime": 21964,
         "endTime": 22169,
         "pinyin": "kemuri"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "が 立ち込める 地割れ から 轟い て です 。",
+    "translations": {
+      "en": "with smoke billowing out."
+    },
+    "segments": [
       {
         "token": "が",
         "startTime": 22169,
-        "endTime": 22288,
+        "endTime": 22294,
         "pinyin": "ga"
       },
       {
-        "token": "た",
-        "startTime": 22288,
-        "endTime": 22407,
-        "pinyin": "ta"
+        "token": "立",
+        "startTime": 22294,
+        "endTime": 22418,
+        "pinyin": "ri"
       },
       {
-        "token": "し",
-        "startTime": 22407,
-        "endTime": 22526,
-        "pinyin": "shi"
+        "token": "ち",
+        "startTime": 22418,
+        "endTime": 22543,
+        "pinyin": "chi"
       },
       {
         "token": "込",
-        "startTime": 22526,
-        "endTime": 22645,
+        "startTime": 22543,
+        "endTime": 22668,
         "pinyin": "komi"
       },
       {
         "token": "め",
-        "startTime": 22645,
-        "endTime": 22764,
+        "startTime": 22668,
+        "endTime": 22793,
         "pinyin": "me"
       },
       {
         "token": "る",
-        "startTime": 22764,
-        "endTime": 22883,
+        "startTime": 22793,
+        "endTime": 22917,
         "pinyin": "ru"
       },
       {
         "token": "地",
-        "startTime": 22883,
-        "endTime": 23002,
+        "startTime": 22917,
+        "endTime": 23042,
         "pinyin": "chi"
       },
       {
         "token": "割",
-        "startTime": 23002,
-        "endTime": 23121,
+        "startTime": 23042,
+        "endTime": 23167,
         "pinyin": "wari"
       },
       {
         "token": "れ",
-        "startTime": 23121,
-        "endTime": 23240,
+        "startTime": 23167,
+        "endTime": 23291,
         "pinyin": "re"
       },
       {
         "token": "か",
-        "startTime": 23240,
-        "endTime": 23358,
+        "startTime": 23291,
+        "endTime": 23416,
         "pinyin": "ka"
       },
       {
         "token": "ら",
-        "startTime": 23358,
-        "endTime": 23477,
+        "startTime": 23416,
+        "endTime": 23541,
         "pinyin": "ra"
       },
       {
-        "token": "と",
-        "startTime": 23477,
-        "endTime": 23596,
-        "pinyin": "to"
-      },
-      {
-        "token": "ど",
-        "startTime": 23596,
-        "endTime": 23715,
-        "pinyin": "do"
-      },
-      {
-        "token": "ろ",
-        "startTime": 23715,
-        "endTime": 23834,
-        "pinyin": "ro"
+        "token": "轟",
+        "startTime": 23541,
+        "endTime": 23665,
+        "pinyin": "Todoroki"
       },
       {
         "token": "い",
-        "startTime": 23834,
-        "endTime": 23953,
+        "startTime": 23665,
+        "endTime": 23790,
         "pinyin": "i"
       },
       {
         "token": "て",
-        "startTime": 23953,
-        "endTime": 24072,
+        "startTime": 23790,
+        "endTime": 23915,
         "pinyin": "te"
       },
       {
         "token": "で",
-        "startTime": 24072,
-        "endTime": 24191,
+        "startTime": 23915,
+        "endTime": 24040,
         "pinyin": "de"
       },
       {
         "token": "す",
-        "startTime": 24191,
-        "endTime": 24310,
+        "startTime": 24040,
+        "endTime": 24164,
         "pinyin": "su"
       },
       {
         "token": "。",
-        "startTime": 24310,
-        "endTime": 24429,
+        "startTime": 24164,
+        "endTime": 24289,
         "pinyin": "."
       }
     ]
   },
   {
-    "sentence_text": "この 地割れ は 後 に パリプティン 火山 と し て 知ら れる ようり ます 。",
+    "sentence_text": "この 地割れ は 後 に パリプティン 火山 と",
     "translations": {
-      "en": "This fissure later became known as the Parícutin volcano."
+      "en": "This crack later became known as Parícutin volcano."
     },
     "segments": [
       {
         "token": "こ",
-        "startTime": 25689,
-        "endTime": 25820,
+        "startTime": 25729,
+        "endTime": 25856,
         "pinyin": "ko"
       },
       {
         "token": "の",
-        "startTime": 25820,
-        "endTime": 25950,
+        "startTime": 25856,
+        "endTime": 25983,
         "pinyin": "no"
       },
       {
         "token": "地",
-        "startTime": 25950,
-        "endTime": 26081,
+        "startTime": 25983,
+        "endTime": 26110,
         "pinyin": "chi"
       },
       {
         "token": "割",
-        "startTime": 26081,
-        "endTime": 26211,
+        "startTime": 26110,
+        "endTime": 26237,
         "pinyin": "wari"
       },
       {
         "token": "れ",
-        "startTime": 26211,
-        "endTime": 26342,
+        "startTime": 26237,
+        "endTime": 26364,
         "pinyin": "re"
       },
       {
         "token": "は",
-        "startTime": 26342,
-        "endTime": 26473,
+        "startTime": 26364,
+        "endTime": 26491,
         "pinyin": "wa"
       },
       {
         "token": "後",
-        "startTime": 26473,
-        "endTime": 26603,
+        "startTime": 26491,
+        "endTime": 26618,
         "pinyin": "ato"
       },
       {
         "token": "に",
-        "startTime": 26603,
-        "endTime": 26734,
+        "startTime": 26618,
+        "endTime": 26745,
         "pinyin": "ni"
       },
       {
         "token": "パ",
-        "startTime": 26734,
-        "endTime": 26864,
+        "startTime": 26745,
+        "endTime": 26873,
         "pinyin": "pa"
       },
       {
         "token": "リ",
-        "startTime": 26864,
-        "endTime": 26995,
+        "startTime": 26873,
+        "endTime": 27000,
         "pinyin": "ri"
       },
       {
         "token": "プ",
-        "startTime": 26995,
-        "endTime": 27125,
+        "startTime": 27000,
+        "endTime": 27127,
         "pinyin": "pu"
       },
       {
         "token": "テ",
-        "startTime": 27125,
-        "endTime": 27256,
+        "startTime": 27127,
+        "endTime": 27254,
         "pinyin": "te"
       },
       {
         "token": "ィ",
-        "startTime": 27256,
-        "endTime": 27387,
+        "startTime": 27254,
+        "endTime": 27381,
         "pinyin": "ィ"
       },
       {
         "token": "ン",
-        "startTime": 27387,
-        "endTime": 27517,
+        "startTime": 27381,
+        "endTime": 27508,
         "pinyin": "n"
       },
       {
         "token": "火",
-        "startTime": 27517,
-        "endTime": 27648,
+        "startTime": 27508,
+        "endTime": 27635,
         "pinyin": "hi"
       },
       {
         "token": "山",
-        "startTime": 27648,
-        "endTime": 27778,
+        "startTime": 27635,
+        "endTime": 27762,
         "pinyin": "yama"
       },
       {
         "token": "と",
-        "startTime": 27778,
-        "endTime": 27909,
+        "startTime": 27762,
+        "endTime": 27889,
         "pinyin": "to"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "し て 知ら れる ようり ます 。",
+    "translations": {
+      "en": "Over the next nine years, lava and ash"
+    },
+    "segments": [
       {
         "token": "し",
-        "startTime": 27909,
-        "endTime": 28031,
+        "startTime": 27889,
+        "endTime": 28004,
         "pinyin": "shi"
       },
       {
         "token": "て",
-        "startTime": 28031,
-        "endTime": 28152,
+        "startTime": 28004,
+        "endTime": 28119,
         "pinyin": "te"
       },
       {
         "token": "知",
-        "startTime": 28152,
-        "endTime": 28274,
+        "startTime": 28119,
+        "endTime": 28234,
         "pinyin": "chi"
       },
       {
         "token": "ら",
-        "startTime": 28274,
-        "endTime": 28396,
+        "startTime": 28234,
+        "endTime": 28349,
         "pinyin": "ra"
       },
       {
         "token": "れ",
-        "startTime": 28396,
-        "endTime": 28517,
+        "startTime": 28349,
+        "endTime": 28464,
         "pinyin": "re"
       },
       {
         "token": "る",
-        "startTime": 28517,
-        "endTime": 28639,
+        "startTime": 28464,
+        "endTime": 28579,
         "pinyin": "ru"
       },
       {
         "token": "よ",
-        "startTime": 28639,
-        "endTime": 28761,
+        "startTime": 28579,
+        "endTime": 28694,
         "pinyin": "yo"
       },
       {
         "token": "う",
-        "startTime": 28761,
-        "endTime": 28882,
+        "startTime": 28694,
+        "endTime": 28809,
         "pinyin": "u"
       },
       {
         "token": "り",
-        "startTime": 28882,
-        "endTime": 29004,
+        "startTime": 28809,
+        "endTime": 28924,
         "pinyin": "ri"
       },
       {
         "token": "ま",
-        "startTime": 29004,
-        "endTime": 29126,
+        "startTime": 28924,
+        "endTime": 29039,
         "pinyin": "ma"
       },
       {
         "token": "す",
-        "startTime": 29126,
-        "endTime": 29247,
+        "startTime": 29039,
+        "endTime": 29154,
         "pinyin": "su"
       },
       {
         "token": "。",
-        "startTime": 29247,
-        "endTime": 29369,
+        "startTime": 29154,
+        "endTime": 29269,
         "pinyin": "."
       }
     ]
   },
   {
-    "sentence_text": "その 後 9 年 かけ て 溶岩 と 火山 灰 200 平方 キロメートル を 覆い まし た",
+    "sentence_text": "その 後 9 年 かけ て 溶岩 と",
     "translations": {
-      "en": "Over the next nine years, lava and ash covered 200 square kilometers."
+      "en": "covered 200 square kilometers."
     },
     "segments": [
       {
@@ -866,133 +886,245 @@
         "startTime": 32040,
         "endTime": 32200,
         "pinyin": "to"
-      },
-      {
-        "token": "火",
-        "startTime": 32200,
-        "endTime": 32320,
-        "pinyin": "hi"
-      },
-      {
-        "token": "山",
-        "startTime": 32320,
-        "endTime": 32439,
-        "pinyin": "yama"
-      },
-      {
-        "token": "灰",
-        "startTime": 32439,
-        "endTime": 32619,
-        "pinyin": "bai"
-      },
-      {
-        "token": "2",
-        "startTime": 32619,
-        "endTime": 32813,
-        "pinyin": "2"
-      },
-      {
-        "token": "0",
-        "startTime": 32813,
-        "endTime": 33006,
-        "pinyin": "0"
-      },
-      {
-        "token": "0",
-        "startTime": 33006,
-        "endTime": 33200,
-        "pinyin": "0"
-      },
-      {
-        "token": "平",
-        "startTime": 33200,
-        "endTime": 33400,
-        "pinyin": "daira"
-      },
-      {
-        "token": "方",
-        "startTime": 33400,
-        "endTime": 33600,
-        "pinyin": "kata"
-      },
-      {
-        "token": "キ",
-        "startTime": 33600,
-        "endTime": 33700,
-        "pinyin": "ki"
-      },
-      {
-        "token": "ロ",
-        "startTime": 33700,
-        "endTime": 33800,
-        "pinyin": "ro"
-      },
-      {
-        "token": "メ",
-        "startTime": 33800,
-        "endTime": 33900,
-        "pinyin": "me"
-      },
-      {
-        "token": "ー",
-        "startTime": 33900,
-        "endTime": 34000,
-        "pinyin": "-"
-      },
-      {
-        "token": "ト",
-        "startTime": 34000,
-        "endTime": 34100,
-        "pinyin": "to"
-      },
-      {
-        "token": "ル",
-        "startTime": 34100,
-        "endTime": 34200,
-        "pinyin": "ru"
-      },
-      {
-        "token": "を",
-        "startTime": 34200,
-        "endTime": 34340,
-        "pinyin": "wo"
-      },
-      {
-        "token": "覆",
-        "startTime": 34340,
-        "endTime": 34500,
-        "pinyin": "?"
-      },
-      {
-        "token": "い",
-        "startTime": 34500,
-        "endTime": 35125,
-        "pinyin": "i"
-      },
-      {
-        "token": "ま",
-        "startTime": 35125,
-        "endTime": 35750,
-        "pinyin": "ma"
-      },
-      {
-        "token": "し",
-        "startTime": 35750,
-        "endTime": 36375,
-        "pinyin": "shi"
-      },
-      {
-        "token": "た",
-        "startTime": 36375,
-        "endTime": 37000,
-        "pinyin": "ta"
       }
     ]
   },
   {
-    "sentence_text": "しかし この 新た な 火山 は どこ から 来 て 何 が きっかけ で 予期 せ ぬ 噴火 が 起こっ た しょう か",
+    "sentence_text": "火山 灰 200 平方 キロメートル を 覆い まし た 。",
     "translations": {
-      "en": "But where did this new volcano come from, and what triggered its unexpected eruption?"
+      "en": "Thank you for watching."
+    },
+    "segments": [
+      {
+        "token": "火",
+        "startTime": 32209,
+        "endTime": 32336,
+        "pinyin": "hi"
+      },
+      {
+        "token": "山",
+        "startTime": 32336,
+        "endTime": 32462,
+        "pinyin": "yama"
+      },
+      {
+        "token": "灰",
+        "startTime": 32462,
+        "endTime": 32589,
+        "pinyin": "bai"
+      },
+      {
+        "token": "2",
+        "startTime": 32589,
+        "endTime": 32716,
+        "pinyin": "2"
+      },
+      {
+        "token": "0",
+        "startTime": 32716,
+        "endTime": 32842,
+        "pinyin": "0"
+      },
+      {
+        "token": "0",
+        "startTime": 32842,
+        "endTime": 32969,
+        "pinyin": "0"
+      },
+      {
+        "token": "平",
+        "startTime": 32969,
+        "endTime": 33096,
+        "pinyin": "daira"
+      },
+      {
+        "token": "方",
+        "startTime": 33096,
+        "endTime": 33222,
+        "pinyin": "kata"
+      },
+      {
+        "token": "キ",
+        "startTime": 33222,
+        "endTime": 33349,
+        "pinyin": "ki"
+      },
+      {
+        "token": "ロ",
+        "startTime": 33349,
+        "endTime": 33476,
+        "pinyin": "ro"
+      },
+      {
+        "token": "メ",
+        "startTime": 33476,
+        "endTime": 33602,
+        "pinyin": "me"
+      },
+      {
+        "token": "ー",
+        "startTime": 33602,
+        "endTime": 33729,
+        "pinyin": "-"
+      },
+      {
+        "token": "ト",
+        "startTime": 33729,
+        "endTime": 33856,
+        "pinyin": "to"
+      },
+      {
+        "token": "ル",
+        "startTime": 33856,
+        "endTime": 33982,
+        "pinyin": "ru"
+      },
+      {
+        "token": "を",
+        "startTime": 33982,
+        "endTime": 34109,
+        "pinyin": "wo"
+      },
+      {
+        "token": "覆",
+        "startTime": 34109,
+        "endTime": 34236,
+        "pinyin": "?"
+      },
+      {
+        "token": "い",
+        "startTime": 34236,
+        "endTime": 34362,
+        "pinyin": "i"
+      },
+      {
+        "token": "ま",
+        "startTime": 34362,
+        "endTime": 34489,
+        "pinyin": "ma"
+      },
+      {
+        "token": "し",
+        "startTime": 34489,
+        "endTime": 34616,
+        "pinyin": "shi"
+      },
+      {
+        "token": "た",
+        "startTime": 34616,
+        "endTime": 34742,
+        "pinyin": "ta"
+      },
+      {
+        "token": "。",
+        "startTime": 34742,
+        "endTime": 34869,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "ご 視聴 ありがとう ござい まし た 。",
+    "translations": {
+      "en": "Thank you for watching."
+    },
+    "segments": [
+      {
+        "token": "ご",
+        "startTime": 36669,
+        "endTime": 36716,
+        "pinyin": "go"
+      },
+      {
+        "token": "視",
+        "startTime": 36716,
+        "endTime": 36762,
+        "pinyin": "shi"
+      },
+      {
+        "token": "聴",
+        "startTime": 36762,
+        "endTime": 36809,
+        "pinyin": "chou"
+      },
+      {
+        "token": "あ",
+        "startTime": 36809,
+        "endTime": 36856,
+        "pinyin": "a"
+      },
+      {
+        "token": "り",
+        "startTime": 36856,
+        "endTime": 36902,
+        "pinyin": "ri"
+      },
+      {
+        "token": "が",
+        "startTime": 36902,
+        "endTime": 36949,
+        "pinyin": "ga"
+      },
+      {
+        "token": "と",
+        "startTime": 36949,
+        "endTime": 36996,
+        "pinyin": "to"
+      },
+      {
+        "token": "う",
+        "startTime": 36996,
+        "endTime": 37042,
+        "pinyin": "u"
+      },
+      {
+        "token": "ご",
+        "startTime": 37042,
+        "endTime": 37089,
+        "pinyin": "go"
+      },
+      {
+        "token": "ざ",
+        "startTime": 37089,
+        "endTime": 37136,
+        "pinyin": "za"
+      },
+      {
+        "token": "い",
+        "startTime": 37136,
+        "endTime": 37182,
+        "pinyin": "i"
+      },
+      {
+        "token": "ま",
+        "startTime": 37182,
+        "endTime": 37229,
+        "pinyin": "ma"
+      },
+      {
+        "token": "し",
+        "startTime": 37229,
+        "endTime": 37276,
+        "pinyin": "shi"
+      },
+      {
+        "token": "た",
+        "startTime": 37276,
+        "endTime": 37322,
+        "pinyin": "ta"
+      },
+      {
+        "token": "。",
+        "startTime": 37322,
+        "endTime": 37369,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "しかし この 新た な 火山 は どこ から 来 て",
+    "translations": {
+      "en": "But where did this new volcano come from,"
     },
     "segments": [
       {
@@ -1096,7 +1228,15 @@
         "startTime": 39260,
         "endTime": 39660,
         "pinyin": "te"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "何 が きっかけ で 予期 せ ぬ 噴火 が 起こっ た しょう か",
+    "translations": {
+      "en": "and what triggered the unexpected eruption?"
+    },
+    "segments": [
       {
         "token": "何",
         "startTime": 39660,
@@ -1234,7 +1374,7 @@
   {
     "sentence_text": "どんな 火山 の 話 も マグマ で 始まり ます",
     "translations": {
-      "en": "Any volcano story begins with magma."
+      "en": "Every volcano story begins with magma."
     },
     "segments": [
       {
@@ -1342,9 +1482,9 @@
     ]
   },
   {
-    "sentence_text": "多く の 場合 海水 が マントル に 浸透 し 層 の 有 点 を 下げる 場所 で 岩石 が 溶け マグマ が 作ら れ ます",
+    "sentence_text": "多く の 場合 海水 が マントル に 浸透 し",
     "translations": {
-      "en": "Often, seawater seeps into the mantle, lowering the melting point of rock, creating magma."
+      "en": "Often, seawater seeps into the mantle,"
     },
     "segments": [
       {
@@ -1442,7 +1582,15 @@
         "startTime": 49620,
         "endTime": 50100,
         "pinyin": "shi"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "層 の 有 点 を 下げる 場所 で 岩石 が 溶け",
+    "translations": {
+      "en": "lowering the melting point of rocks in certain zones, causing them to melt,"
+    },
+    "segments": [
       {
         "token": "層",
         "startTime": 50100,
@@ -1538,7 +1686,15 @@
         "startTime": 52200,
         "endTime": 52200,
         "pinyin": "ke"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "マグマ が 作ら れ ます",
+    "translations": {
+      "en": "and magma is formed."
+    },
+    "segments": [
       {
         "token": "マ",
         "startTime": 52200,
@@ -1596,9 +1752,9 @@
     ]
   },
   {
-    "sentence_text": "マグマ は 一般 的 に 地球 の 表面 下 に 残っ い ます が それ は 微妙 な バランス を 保つ 3 つ の 地質 学 的 要因 の",
+    "sentence_text": "マグマ は 一般 的 に 地球 の 表面 下 に 残っ い ます が",
     "translations": {
-      "en": "Magma usually stays beneath Earth's surface, thanks to three geological factors maintaining a delicate balance:"
+      "en": "Magma usually remains beneath the Earth's surface,"
     },
     "segments": [
       {
@@ -1726,7 +1882,15 @@
         "startTime": 59260,
         "endTime": 59840,
         "pinyin": "ga"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "それ は 微妙 な バランス を 保つ 3 つ の 地質 学 的 要因 の おかげ です",
+    "translations": {
+      "en": "thanks to three geological factors that maintain a delicate balance."
+    },
+    "segments": [
       {
         "token": "そ",
         "startTime": 59840,
@@ -1864,15 +2028,7 @@
         "startTime": 63360,
         "endTime": 63540,
         "pinyin": "no"
-      }
-    ]
-  },
-  {
-    "sentence_text": "おかげ です",
-    "translations": {
-      "en": "that balance."
-    },
-    "segments": [
+      },
       {
         "token": "お",
         "startTime": 63540,
@@ -1908,7 +2064,7 @@
   {
     "sentence_text": "1 つ 目 は 静 岩 圧 です",
     "translations": {
-      "en": "First is lithostatic pressure."
+      "en": "First is lithostatic pressure:"
     },
     "segments": [
       {
@@ -1970,7 +2126,7 @@
   {
     "sentence_text": "マグマ を 押し下げよう と する 地殻 の 重 さ の こと です",
     "translations": {
-      "en": "The weight of the crust pushing magma down."
+      "en": "the weight of the crust that pushes magma downward."
     },
     "segments": [
       {
@@ -2054,18 +2210,18 @@
       {
         "token": "地",
         "startTime": 68780,
-        "endTime": 68930,
+        "endTime": 68920,
         "pinyin": "chi"
       },
       {
         "token": "殻",
-        "startTime": 68930,
-        "endTime": 69080,
+        "startTime": 68920,
+        "endTime": 69060,
         "pinyin": "kara"
       },
       {
         "token": "の",
-        "startTime": 69080,
+        "startTime": 69060,
         "endTime": 69300,
         "pinyin": "no"
       },
@@ -2206,18 +2362,18 @@
       {
         "token": "の",
         "startTime": 74460,
-        "endTime": 74600,
+        "endTime": 74580,
         "pinyin": "no"
       },
       {
         "token": "圧",
-        "startTime": 74600,
-        "endTime": 74720,
+        "startTime": 74580,
+        "endTime": 74710,
         "pinyin": "atsu"
       },
       {
         "token": "力",
-        "startTime": 74720,
+        "startTime": 74710,
         "endTime": 74840,
         "pinyin": "chikara"
       },
@@ -2266,9 +2422,9 @@
     ]
   },
   {
-    "sentence_text": "この 2 つ の 圧力 の 逆行 に より 緊張 が 高まる の が 3 つ 目 の 要因 つまり 地 く の 岩石 強度 です 。",
+    "sentence_text": "この 2 つ の 圧力 の 逆行 に より 緊張 が 高まる の が 3 つ 目 の 要因",
     "translations": {
-      "en": "The tension from these opposing pressures is the third factor: the strength of the crustal rock."
+      "en": "The tension from these opposing pressures is the third factor:"
     },
     "segments": [
       {
@@ -2432,7 +2588,15 @@
         "startTime": 80770,
         "endTime": 80980,
         "pinyin": "moto"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "つまり 地 くの 岩石 強度 です 。",
+    "translations": {
+      "en": "the strength of the crustal rock."
+    },
+    "segments": [
       {
         "token": "つ",
         "startTime": 80980,
@@ -2460,12 +2624,12 @@
       {
         "token": "く",
         "startTime": 81895,
-        "endTime": 82035,
+        "endTime": 82055,
         "pinyin": "ku"
       },
       {
         "token": "の",
-        "startTime": 82035,
+        "startTime": 82055,
         "endTime": 82215,
         "pinyin": "no"
       },
@@ -2726,9 +2890,9 @@
     ]
   },
   {
-    "sentence_text": "しかし その 均衡 が 破ら れ た とき 、 爆発 的 な 結果 が もたらさ れる です 。",
+    "sentence_text": "しかし その 均衡 が 破ら れ た とき 、",
     "translations": {
-      "en": "But when that balance breaks, explosive results follow."
+      "en": "But when that balance is broken,"
     },
     "segments": [
       {
@@ -2806,21 +2970,29 @@
       {
         "token": "と",
         "startTime": 91275,
-        "endTime": 91525,
+        "endTime": 91395,
         "pinyin": "to"
       },
       {
         "token": "き",
-        "startTime": 91525,
-        "endTime": 91775,
+        "startTime": 91395,
+        "endTime": 91515,
         "pinyin": "ki"
       },
       {
         "token": "、",
-        "startTime": 91775,
+        "startTime": 91515,
         "endTime": 92015,
         "pinyin": ","
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "爆発 的 な 結果 が もたらさ れる です 。",
+    "translations": {
+      "en": "explosive results follow."
+    },
+    "segments": [
       {
         "token": "爆",
         "startTime": 92015,
@@ -2902,38 +3074,38 @@
       {
         "token": "で",
         "startTime": 93795,
-        "endTime": 94188,
+        "endTime": 94195,
         "pinyin": "de"
       },
       {
         "token": "す",
-        "startTime": 94188,
-        "endTime": 94582,
+        "startTime": 94195,
+        "endTime": 94595,
         "pinyin": "su"
       },
       {
         "token": "。",
-        "startTime": 94582,
-        "endTime": 94975,
+        "startTime": 94595,
+        "endTime": 94995,
         "pinyin": "."
       }
     ]
   },
   {
-    "sentence_text": "最も 一般 的 な 噴火 の 原因 の 一 つ に マグマ の 圧力 の 上昇 が 挙げ られ ます 。",
+    "sentence_text": "最も 一般 的 な 噴火 の 原因 の 一 つ に",
     "translations": {
-      "en": "One of the most common eruption triggers is a rise in magma pressure."
+      "en": "One of the most common causes of eruptions"
     },
     "segments": [
       {
         "token": "最",
-        "startTime": 94975,
-        "endTime": 95175,
+        "startTime": 94995,
+        "endTime": 95185,
         "pinyin": "sai"
       },
       {
         "token": "も",
-        "startTime": 95175,
+        "startTime": 95185,
         "endTime": 95375,
         "pinyin": "mo"
       },
@@ -3014,7 +3186,15 @@
         "startTime": 97055,
         "endTime": 97295,
         "pinyin": "ni"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "マグマ の 圧力 の 上昇 が 挙げ られ ます 。",
+    "translations": {
+      "en": "is an increase in magma pressure."
+    },
+    "segments": [
       {
         "token": "マ",
         "startTime": 97295,
@@ -3250,7 +3430,7 @@
   {
     "sentence_text": "多く が 々 し た 岩石 に 溶け込ん い ます 。",
     "translations": {
-      "en": "many dissolved into the surrounding rock."
+      "en": "Much of it is dissolved into the rock."
     },
     "segments": [
       {
@@ -3366,24 +3546,24 @@
       {
         "token": "し",
         "startTime": 106975,
-        "endTime": 107088,
+        "endTime": 107082,
         "pinyin": "shi"
       },
       {
         "token": "か",
-        "startTime": 107088,
-        "endTime": 107202,
+        "startTime": 107082,
+        "endTime": 107188,
         "pinyin": "ka"
       },
       {
         "token": "し",
-        "startTime": 107202,
-        "endTime": 107315,
+        "startTime": 107188,
+        "endTime": 107295,
         "pinyin": "shi"
       },
       {
         "token": "水",
-        "startTime": 107315,
+        "startTime": 107295,
         "endTime": 107635,
         "pinyin": "mizu"
       },
@@ -3474,24 +3654,24 @@
       {
         "token": "高",
         "startTime": 109355,
-        "endTime": 109482,
+        "endTime": 109488,
         "pinyin": "kou"
       },
       {
         "token": "ま",
-        "startTime": 109482,
-        "endTime": 109608,
+        "startTime": 109488,
+        "endTime": 109622,
         "pinyin": "ma"
       },
       {
         "token": "る",
-        "startTime": 109608,
-        "endTime": 109735,
+        "startTime": 109622,
+        "endTime": 109755,
         "pinyin": "ru"
       },
       {
         "token": "と",
-        "startTime": 109735,
+        "startTime": 109755,
         "endTime": 110315,
         "pinyin": "to"
       }
@@ -3500,7 +3680,7 @@
   {
     "sentence_text": "もはや 了解 せ ず 代わり に 高圧 の 気泡 を 形作り ます",
     "translations": {
-      "en": "it no longer dissolves, instead forming high-pressure bubbles."
+      "en": "it can no longer dissolve, forming high-pressure bubbles instead."
     },
     "segments": [
       {
@@ -3608,12 +3788,12 @@
       {
         "token": "形",
         "startTime": 113235,
-        "endTime": 113495,
+        "endTime": 113485,
         "pinyin": "katachi"
       },
       {
         "token": "作",
-        "startTime": 113495,
+        "startTime": 113485,
         "endTime": 113735,
         "pinyin": "saku"
       },
@@ -3640,7 +3820,7 @@
   {
     "sentence_text": "そして 地表 に 到達 する と",
     "translations": {
-      "en": "And when they reach the surface,"
+      "en": "When they reach the surface,"
     },
     "segments": [
       {
@@ -3830,7 +4010,7 @@
   {
     "sentence_text": "何百 万 も の 気泡 が 同時 に 爆発 する とき",
     "translations": {
-      "en": "When millions of bubbles explode simultaneously,"
+      "en": "When millions of bubbles explode at once,"
     },
     "segments": [
       {
@@ -3854,12 +4034,12 @@
       {
         "token": "も",
         "startTime": 123115,
-        "endTime": 123255,
+        "endTime": 123275,
         "pinyin": "mo"
       },
       {
         "token": "の",
-        "startTime": 123255,
+        "startTime": 123275,
         "endTime": 123515,
         "pinyin": "no"
       },
@@ -3938,9 +4118,9 @@
     ]
   },
   {
-    "sentence_text": "その エネルギー に より 灰 の 柱 と なっ て",
+    "sentence_text": "その エネルギー に より 灰 の 柱 と なっ て 清掃 圏 へ 送ら れ ます",
     "translations": {
-      "en": "that energy forms a column of ash,"
+      "en": "the energy sends ash columns into the stratosphere."
     },
     "segments": [
       {
@@ -4044,15 +4224,7 @@
         "startTime": 128795,
         "endTime": 129015,
         "pinyin": "te"
-      }
-    ]
-  },
-  {
-    "sentence_text": "清掃 圏 へ 送ら れ ます",
-    "translations": {
-      "en": "which is sent into the cleaning zone."
-    },
-    "segments": [
+      },
       {
         "token": "清",
         "startTime": 129015,
@@ -4392,7 +4564,7 @@
   {
     "sentence_text": "地殻 を 通り 突き上げよう と する 浮力 が 増す の です",
     "translations": {
-      "en": "increasing buoyancy that pushes it up through the crust."
+      "en": "increasing buoyancy that forces it upward through the crust."
     },
     "segments": [
       {
@@ -4530,38 +4702,38 @@
     ]
   },
   {
-    "sentence_text": "メキシコ の パリプティン 火山 も",
+    "sentence_text": "メキシコ の パリプティン 火山 も こう し た 過程 を 経 て 噴火 し た と",
     "translations": {
-      "en": "Mexico's Parícutin volcano"
+      "en": "Many geologists believe that Mexico's Paricutín volcano erupted through this process."
     },
     "segments": [
       {
         "token": "メ",
         "startTime": 143515,
-        "endTime": 143630,
+        "endTime": 143635,
         "pinyin": "me"
       },
       {
         "token": "キ",
-        "startTime": 143630,
-        "endTime": 143745,
+        "startTime": 143635,
+        "endTime": 143755,
         "pinyin": "ki"
       },
       {
         "token": "シ",
-        "startTime": 143745,
-        "endTime": 143860,
+        "startTime": 143755,
+        "endTime": 143875,
         "pinyin": "shi"
       },
       {
         "token": "コ",
-        "startTime": 143860,
-        "endTime": 143975,
+        "startTime": 143875,
+        "endTime": 143995,
         "pinyin": "ko"
       },
       {
         "token": "の",
-        "startTime": 143975,
+        "startTime": 143995,
         "endTime": 144135,
         "pinyin": "no"
       },
@@ -4618,15 +4790,7 @@
         "startTime": 144955,
         "endTime": 145615,
         "pinyin": "mo"
-      }
-    ]
-  },
-  {
-    "sentence_text": "こう し た 過程 を 経 て 噴火 し た と",
-    "translations": {
-      "en": "is thought by many geologists"
-    },
-    "segments": [
+      },
       {
         "token": "こ",
         "startTime": 145615,
@@ -4716,7 +4880,7 @@
   {
     "sentence_text": "多く の 地質 学 者 は 考え ます",
     "translations": {
-      "en": "to have erupted through this process."
+      "en": "Many geologists believe that Mexico's Paricutín volcano erupted through this process."
     },
     "segments": [
       {
@@ -4942,7 +5106,7 @@
   {
     "sentence_text": "まず 地下 深部 で 新た に 発生 し た マグマ が",
     "translations": {
-      "en": "First, when newly formed magma deep underground"
+      "en": "First, when newly generated magma deep underground"
     },
     "segments": [
       {
@@ -5058,7 +5222,7 @@
   {
     "sentence_text": "ガス を 含ん だ 成分 を 運び 混合 物 に 加わる 場合",
     "translations": {
-      "en": "carries gas-rich components and adds to the mixture,"
+      "en": "carries gas-rich components and mixes into the mixture,"
     },
     "segments": [
       {
@@ -5184,9 +5348,9 @@
     ]
   },
   {
-    "sentence_text": "そして マグマ が 冷却 する とき に",
+    "sentence_text": "そして マグマ が 冷却 する とき に 気泡 が 作ら れる 場合 です",
     "translations": {
-      "en": "and second, when magma cools,"
+      "en": "and second, when bubbles form as magma cools."
     },
     "segments": [
       {
@@ -5272,15 +5436,7 @@
         "startTime": 162575,
         "endTime": 162715,
         "pinyin": "ni"
-      }
-    ]
-  },
-  {
-    "sentence_text": "気泡 が 作ら れる 場合 です",
-    "translations": {
-      "en": "bubbles are formed."
-    },
-    "segments": [
+      },
       {
         "token": "気",
         "startTime": 162715,
@@ -5350,9 +5506,9 @@
     ]
   },
   {
-    "sentence_text": "溶融 状態 の とき マグマ に は",
+    "sentence_text": "溶融 状態 の とき マグマ に は ガス と 溶け た 鉱物 が 混ざり合っ い ます",
     "translations": {
-      "en": "In its molten state, magma"
+      "en": "In its molten state, magma contains a mix of gas and dissolved minerals."
     },
     "segments": [
       {
@@ -5426,15 +5582,7 @@
         "startTime": 167190,
         "endTime": 167630,
         "pinyin": "wa"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ガス と 溶け た 鉱物 が 混ざり合っ い ます",
-    "translations": {
-      "en": "contains a mix of gas and dissolved minerals."
-    },
-    "segments": [
+      },
       {
         "token": "ガ",
         "startTime": 167630,
@@ -5474,18 +5622,18 @@
       {
         "token": "鉱",
         "startTime": 168330,
-        "endTime": 168510,
+        "endTime": 168520,
         "pinyin": "kou"
       },
       {
         "token": "物",
-        "startTime": 168510,
-        "endTime": 168690,
+        "startTime": 168520,
+        "endTime": 168710,
         "pinyin": "mono"
       },
       {
         "token": "が",
-        "startTime": 168690,
+        "startTime": 168710,
         "endTime": 168930,
         "pinyin": "ga"
       },
@@ -5522,19 +5670,19 @@
       {
         "token": "い",
         "startTime": 169350,
-        "endTime": 169643,
+        "endTime": 169637,
         "pinyin": "i"
       },
       {
         "token": "ま",
-        "startTime": 169643,
-        "endTime": 169937,
+        "startTime": 169637,
+        "endTime": 169923,
         "pinyin": "ma"
       },
       {
         "token": "す",
-        "startTime": 169937,
-        "endTime": 170230,
+        "startTime": 169923,
+        "endTime": 170210,
         "pinyin": "su"
       }
     ]
@@ -5542,24 +5690,24 @@
   {
     "sentence_text": "しかし マグマ が 固結 する に つれ",
     "translations": {
-      "en": "However, as magma solidifies,"
+      "en": "But as magma solidifies,"
     },
     "segments": [
       {
         "token": "し",
-        "startTime": 170230,
-        "endTime": 170330,
+        "startTime": 170210,
+        "endTime": 170317,
         "pinyin": "shi"
       },
       {
         "token": "か",
-        "startTime": 170330,
-        "endTime": 170430,
+        "startTime": 170317,
+        "endTime": 170423,
         "pinyin": "ka"
       },
       {
         "token": "し",
-        "startTime": 170430,
+        "startTime": 170423,
         "endTime": 170530,
         "pinyin": "shi"
       },
@@ -5584,18 +5732,18 @@
       {
         "token": "が",
         "startTime": 170830,
-        "endTime": 170990,
+        "endTime": 171010,
         "pinyin": "ga"
       },
       {
         "token": "固",
-        "startTime": 170990,
-        "endTime": 171180,
+        "startTime": 171010,
+        "endTime": 171190,
         "pinyin": "kata"
       },
       {
         "token": "結",
-        "startTime": 171180,
+        "startTime": 171190,
         "endTime": 171370,
         "pinyin": "ketsu"
       },
@@ -5634,7 +5782,7 @@
   {
     "sentence_text": "一部 の 鉱物 は 凝固 し 結晶 化 し ます",
     "translations": {
-      "en": "some minerals coagulate and crystallize."
+      "en": "some minerals solidify and crystallize."
     },
     "segments": [
       {
@@ -5658,18 +5806,18 @@
       {
         "token": "鉱",
         "startTime": 172770,
-        "endTime": 172900,
+        "endTime": 172890,
         "pinyin": "kou"
       },
       {
         "token": "物",
-        "startTime": 172900,
-        "endTime": 173030,
+        "startTime": 172890,
+        "endTime": 173010,
         "pinyin": "mono"
       },
       {
         "token": "は",
-        "startTime": 173030,
+        "startTime": 173010,
         "endTime": 173270,
         "pinyin": "wa"
       },
@@ -5694,18 +5842,18 @@
       {
         "token": "結",
         "startTime": 173790,
-        "endTime": 174000,
+        "endTime": 173990,
         "pinyin": "ketsu"
       },
       {
         "token": "晶",
-        "startTime": 174000,
-        "endTime": 174210,
+        "startTime": 173990,
+        "endTime": 174190,
         "pinyin": "shou"
       },
       {
         "token": "化",
-        "startTime": 174210,
+        "startTime": 174190,
         "endTime": 174370,
         "pinyin": "ka"
       },
@@ -5730,32 +5878,32 @@
     ]
   },
   {
-    "sentence_text": "この 過程 に 溶解 し て いる ガス は 含ま れ ず",
+    "sentence_text": "この 過程 に 溶解 し て いる ガス は 含ま れ ず 爆発 性 の ある 気泡 を 作る 成分 の 濃度 が 高まる の です",
     "translations": {
-      "en": "Dissolved gases are not included in this process,"
+      "en": "This process does not include the dissolved gas, increasing the concentration of components that form explosive bubbles."
     },
     "segments": [
       {
         "token": "こ",
         "startTime": 176130,
-        "endTime": 176250,
+        "endTime": 176240,
         "pinyin": "ko"
       },
       {
         "token": "の",
-        "startTime": 176250,
-        "endTime": 176370,
+        "startTime": 176240,
+        "endTime": 176350,
         "pinyin": "no"
       },
       {
         "token": "過",
-        "startTime": 176370,
-        "endTime": 176480,
+        "startTime": 176350,
+        "endTime": 176470,
         "pinyin": "ka"
       },
       {
         "token": "程",
-        "startTime": 176480,
+        "startTime": 176470,
         "endTime": 176590,
         "pinyin": "hodo"
       },
@@ -5786,18 +5934,18 @@
       {
         "token": "て",
         "startTime": 177430,
-        "endTime": 177630,
+        "endTime": 177610,
         "pinyin": "te"
       },
       {
         "token": "い",
-        "startTime": 177630,
-        "endTime": 177740,
+        "startTime": 177610,
+        "endTime": 177730,
         "pinyin": "i"
       },
       {
         "token": "る",
-        "startTime": 177740,
+        "startTime": 177730,
         "endTime": 177850,
         "pinyin": "ru"
       },
@@ -5816,18 +5964,18 @@
       {
         "token": "は",
         "startTime": 178130,
-        "endTime": 178290,
+        "endTime": 178270,
         "pinyin": "wa"
       },
       {
         "token": "含",
-        "startTime": 178290,
-        "endTime": 179180,
+        "startTime": 178270,
+        "endTime": 179170,
         "pinyin": "fukumu"
       },
       {
         "token": "ま",
-        "startTime": 179180,
+        "startTime": 179170,
         "endTime": 180070,
         "pinyin": "ma"
       },
@@ -5842,15 +5990,7 @@
         "startTime": 180310,
         "endTime": 180450,
         "pinyin": "zu"
-      }
-    ]
-  },
-  {
-    "sentence_text": "爆発 性 の ある 気泡 を 作る 成分 の 濃度 が 高まる の です",
-    "translations": {
-      "en": "increasing the concentration of components that form explosive bubbles."
-    },
-    "segments": [
+      },
       {
         "token": "爆",
         "startTime": 180450,
@@ -5932,18 +6072,18 @@
       {
         "token": "の",
         "startTime": 182390,
-        "endTime": 182510,
+        "endTime": 182390,
         "pinyin": "no"
       },
       {
         "token": "濃",
-        "startTime": 182510,
-        "endTime": 182690,
+        "startTime": 182390,
+        "endTime": 182630,
         "pinyin": "nou"
       },
       {
         "token": "度",
-        "startTime": 182690,
+        "startTime": 182630,
         "endTime": 182870,
         "pinyin": "do"
       },
@@ -5956,62 +6096,62 @@
       {
         "token": "高",
         "startTime": 182990,
-        "endTime": 184183,
+        "endTime": 184170,
         "pinyin": "kou"
       },
       {
         "token": "ま",
-        "startTime": 184183,
-        "endTime": 185377,
+        "startTime": 184170,
+        "endTime": 185350,
         "pinyin": "ma"
       },
       {
         "token": "る",
-        "startTime": 185377,
-        "endTime": 186570,
+        "startTime": 185350,
+        "endTime": 186530,
         "pinyin": "ru"
       },
       {
         "token": "の",
-        "startTime": 186570,
+        "startTime": 186530,
         "endTime": 186690,
         "pinyin": "no"
       },
       {
         "token": "で",
         "startTime": 186690,
-        "endTime": 186830,
+        "endTime": 186820,
         "pinyin": "de"
       },
       {
         "token": "す",
-        "startTime": 186830,
-        "endTime": 186970,
+        "startTime": 186820,
+        "endTime": 186950,
         "pinyin": "su"
       }
     ]
   },
   {
-    "sentence_text": "全て の 噴火 が マグマ の 圧力 に よる もの ませ ん",
+    "sentence_text": "全て の 噴火 が マグマ の 圧力 に よる もの と ませ ん",
     "translations": {
       "en": "Not all eruptions are caused by magma pressure."
     },
     "segments": [
       {
         "token": "全",
-        "startTime": 186970,
-        "endTime": 187080,
+        "startTime": 186950,
+        "endTime": 187060,
         "pinyin": "zen"
       },
       {
         "token": "て",
-        "startTime": 187080,
-        "endTime": 187190,
+        "startTime": 187060,
+        "endTime": 187170,
         "pinyin": "te"
       },
       {
         "token": "の",
-        "startTime": 187190,
+        "startTime": 187170,
         "endTime": 187370,
         "pinyin": "no"
       },
@@ -6078,86 +6218,92 @@
       {
         "token": "よ",
         "startTime": 188870,
-        "endTime": 189010,
+        "endTime": 188960,
         "pinyin": "yo"
       },
       {
         "token": "る",
-        "startTime": 189010,
-        "endTime": 189150,
+        "startTime": 188960,
+        "endTime": 189050,
         "pinyin": "ru"
       },
       {
         "token": "も",
-        "startTime": 189150,
-        "endTime": 189300,
+        "startTime": 189050,
+        "endTime": 189210,
         "pinyin": "mo"
       },
       {
         "token": "の",
-        "startTime": 189300,
-        "endTime": 189450,
+        "startTime": 189210,
+        "endTime": 189370,
         "pinyin": "no"
+      },
+      {
+        "token": "と",
+        "startTime": 189370,
+        "endTime": 189450,
+        "pinyin": "to"
       },
       {
         "token": "ま",
         "startTime": 189450,
-        "endTime": 189690,
+        "endTime": 189537,
         "pinyin": "ma"
       },
       {
         "token": "せ",
-        "startTime": 189690,
-        "endTime": 189930,
+        "startTime": 189537,
+        "endTime": 189623,
         "pinyin": "se"
       },
       {
         "token": "ん",
-        "startTime": 189930,
-        "endTime": 190170,
+        "startTime": 189623,
+        "endTime": 189710,
         "pinyin": "n"
       }
     ]
   },
   {
-    "sentence_text": "上層 部 の 岩石 の 重 さ が 危険 な ほど 低く なり",
+    "sentence_text": "上層 部 の 岩石 の 重 さ が 危険 な ほど 低く なり 噴火 が 起こる こと も あり 得 ます",
     "translations": {
-      "en": "When the weight of overlying rock becomes dangerously low,"
+      "en": "Sometimes the weight of overlying rock becomes dangerously low, triggering an eruption."
     },
     "segments": [
       {
         "token": "上",
-        "startTime": 190170,
-        "endTime": 190340,
+        "startTime": 189710,
+        "endTime": 190110,
         "pinyin": "ue"
       },
       {
         "token": "層",
-        "startTime": 190340,
+        "startTime": 190110,
         "endTime": 190510,
         "pinyin": "sou"
       },
       {
         "token": "部",
         "startTime": 190510,
-        "endTime": 190650,
+        "endTime": 190690,
         "pinyin": "bu"
       },
       {
         "token": "の",
-        "startTime": 190650,
-        "endTime": 190830,
+        "startTime": 190690,
+        "endTime": 190810,
         "pinyin": "no"
       },
       {
         "token": "岩",
-        "startTime": 190830,
-        "endTime": 190960,
+        "startTime": 190810,
+        "endTime": 190950,
         "pinyin": "iwa"
       },
       {
         "token": "石",
-        "startTime": 190960,
+        "startTime": 190950,
         "endTime": 191090,
         "pinyin": "ishi"
       },
@@ -6176,24 +6322,24 @@
       {
         "token": "さ",
         "startTime": 191390,
-        "endTime": 191510,
+        "endTime": 191490,
         "pinyin": "sa"
       },
       {
         "token": "が",
-        "startTime": 191510,
-        "endTime": 191650,
+        "startTime": 191490,
+        "endTime": 191630,
         "pinyin": "ga"
       },
       {
         "token": "危",
-        "startTime": 191650,
-        "endTime": 191830,
+        "startTime": 191630,
+        "endTime": 191820,
         "pinyin": "ayau"
       },
       {
         "token": "険",
-        "startTime": 191830,
+        "startTime": 191820,
         "endTime": 192010,
         "pinyin": "ken"
       },
@@ -6206,92 +6352,84 @@
       {
         "token": "ほ",
         "startTime": 192170,
-        "endTime": 192230,
+        "endTime": 192240,
         "pinyin": "ho"
       },
       {
         "token": "ど",
-        "startTime": 192230,
-        "endTime": 192290,
+        "startTime": 192240,
+        "endTime": 192310,
         "pinyin": "do"
       },
       {
         "token": "低",
-        "startTime": 192290,
-        "endTime": 192470,
+        "startTime": 192310,
+        "endTime": 192480,
         "pinyin": "tei"
       },
       {
         "token": "く",
-        "startTime": 192470,
+        "startTime": 192480,
         "endTime": 192650,
         "pinyin": "ku"
       },
       {
         "token": "な",
         "startTime": 192650,
-        "endTime": 192650,
+        "endTime": 192780,
         "pinyin": "na"
       },
       {
         "token": "り",
-        "startTime": 192650,
-        "endTime": 192650,
+        "startTime": 192780,
+        "endTime": 192910,
         "pinyin": "ri"
-      }
-    ]
-  },
-  {
-    "sentence_text": "噴火 が 起こる こと も あり 得 ます",
-    "translations": {
-      "en": "an eruption can occur."
-    },
-    "segments": [
+      },
       {
         "token": "噴",
-        "startTime": 192650,
-        "endTime": 193000,
+        "startTime": 192910,
+        "endTime": 193120,
         "pinyin": "?"
       },
       {
         "token": "火",
-        "startTime": 193000,
-        "endTime": 193350,
+        "startTime": 193120,
+        "endTime": 193330,
         "pinyin": "hi"
       },
       {
         "token": "が",
-        "startTime": 193350,
+        "startTime": 193330,
         "endTime": 193490,
         "pinyin": "ga"
       },
       {
         "token": "起",
         "startTime": 193490,
-        "endTime": 193583,
+        "endTime": 193490,
         "pinyin": "ki"
       },
       {
         "token": "こ",
-        "startTime": 193583,
-        "endTime": 193677,
+        "startTime": 193490,
+        "endTime": 193490,
         "pinyin": "ko"
       },
       {
         "token": "る",
-        "startTime": 193677,
-        "endTime": 193770,
+        "startTime": 193490,
+        "endTime": 193490,
         "pinyin": "ru"
       },
       {
         "token": "こ",
-        "startTime": 193770,
-        "endTime": 193850,
+        "startTime": 193490,
+        "endTime": 193710,
         "pinyin": "ko"
       },
       {
         "token": "と",
-        "startTime": 193850,
+        "startTime": 193710,
         "endTime": 193930,
         "pinyin": "to"
       },
@@ -6304,110 +6442,110 @@
       {
         "token": "あ",
         "startTime": 194070,
-        "endTime": 194160,
+        "endTime": 194150,
         "pinyin": "a"
       },
       {
         "token": "り",
-        "startTime": 194160,
-        "endTime": 194250,
+        "startTime": 194150,
+        "endTime": 194230,
         "pinyin": "ri"
       },
       {
         "token": "得",
-        "startTime": 194250,
-        "endTime": 194330,
+        "startTime": 194230,
+        "endTime": 194290,
         "pinyin": "e"
       },
       {
         "token": "ま",
-        "startTime": 194330,
-        "endTime": 194790,
+        "startTime": 194290,
+        "endTime": 194430,
         "pinyin": "ma"
       },
       {
         "token": "す",
-        "startTime": 194790,
-        "endTime": 195250,
+        "startTime": 194430,
+        "endTime": 194570,
         "pinyin": "su"
       }
     ]
   },
   {
-    "sentence_text": "地滑り に より マグマ だまり 上部 の 岩石 が 大量 に 取り除か れ",
+    "sentence_text": "地滑り に より マグマ だまり 上部 の 岩石 が 大量 に 取り除か れ 静 岩 圧 が 下がる こと で 一瞬 に し て 噴火 が 発",
     "translations": {
-      "en": "A landslide can remove a large amount of rock above the magma chamber,"
+      "en": "A landslide can remove a large amount of rock above the magma chamber, reducing lithostatic pressure and instantly triggering an eruption."
     },
     "segments": [
       {
         "token": "地",
-        "startTime": 195250,
-        "endTime": 195390,
+        "startTime": 194570,
+        "endTime": 194943,
         "pinyin": "chi"
       },
       {
         "token": "滑",
-        "startTime": 195390,
-        "endTime": 195530,
+        "startTime": 194943,
+        "endTime": 195317,
         "pinyin": "nameraka"
       },
       {
         "token": "り",
-        "startTime": 195530,
-        "endTime": 195670,
+        "startTime": 195317,
+        "endTime": 195690,
         "pinyin": "ri"
       },
       {
         "token": "に",
-        "startTime": 195670,
-        "endTime": 195830,
+        "startTime": 195690,
+        "endTime": 195850,
         "pinyin": "ni"
       },
       {
         "token": "よ",
-        "startTime": 195830,
-        "endTime": 195970,
+        "startTime": 195850,
+        "endTime": 196260,
         "pinyin": "yo"
       },
       {
         "token": "り",
-        "startTime": 195970,
-        "endTime": 196110,
+        "startTime": 196260,
+        "endTime": 196670,
         "pinyin": "ri"
       },
       {
         "token": "マ",
-        "startTime": 196110,
-        "endTime": 196383,
+        "startTime": 196670,
+        "endTime": 196743,
         "pinyin": "ma"
       },
       {
         "token": "グ",
-        "startTime": 196383,
-        "endTime": 196657,
+        "startTime": 196743,
+        "endTime": 196817,
         "pinyin": "gu"
       },
       {
         "token": "マ",
-        "startTime": 196657,
-        "endTime": 196930,
+        "startTime": 196817,
+        "endTime": 196890,
         "pinyin": "ma"
       },
       {
         "token": "だ",
-        "startTime": 196930,
-        "endTime": 196990,
+        "startTime": 196890,
+        "endTime": 196963,
         "pinyin": "da"
       },
       {
         "token": "ま",
-        "startTime": 196990,
-        "endTime": 197050,
+        "startTime": 196963,
+        "endTime": 197037,
         "pinyin": "ma"
       },
       {
         "token": "り",
-        "startTime": 197050,
+        "startTime": 197037,
         "endTime": 197110,
         "pinyin": "ri"
       },
@@ -6450,18 +6588,18 @@
       {
         "token": "大",
         "startTime": 198110,
-        "endTime": 198370,
+        "endTime": 198130,
         "pinyin": "oo"
       },
       {
         "token": "量",
-        "startTime": 198370,
-        "endTime": 198630,
+        "startTime": 198130,
+        "endTime": 198150,
         "pinyin": "ryou"
       },
       {
         "token": "に",
-        "startTime": 198630,
+        "startTime": 198150,
         "endTime": 198810,
         "pinyin": "ni"
       },
@@ -6492,56 +6630,48 @@
       {
         "token": "れ",
         "startTime": 199370,
-        "endTime": 199970,
+        "endTime": 199550,
         "pinyin": "re"
-      }
-    ]
-  },
-  {
-    "sentence_text": "静 岩 圧 が 下がる こと で 一瞬 に し て 噴火 が 発生 する こと も ある の です",
-    "translations": {
-      "en": "reducing lithostatic pressure and triggering an eruption instantly."
-    },
-    "segments": [
+      },
       {
         "token": "静",
-        "startTime": 199970,
-        "endTime": 200150,
+        "startTime": 199550,
+        "endTime": 200130,
         "pinyin": "sei"
       },
       {
         "token": "岩",
-        "startTime": 200150,
-        "endTime": 200250,
+        "startTime": 200130,
+        "endTime": 200270,
         "pinyin": "iwa"
       },
       {
         "token": "圧",
-        "startTime": 200250,
+        "startTime": 200270,
         "endTime": 200450,
         "pinyin": "atsu"
       },
       {
         "token": "が",
         "startTime": 200450,
-        "endTime": 200610,
+        "endTime": 200630,
         "pinyin": "ga"
       },
       {
         "token": "下",
-        "startTime": 200610,
-        "endTime": 200723,
+        "startTime": 200630,
+        "endTime": 200737,
         "pinyin": "ka"
       },
       {
         "token": "が",
-        "startTime": 200723,
-        "endTime": 200837,
+        "startTime": 200737,
+        "endTime": 200843,
         "pinyin": "ga"
       },
       {
         "token": "る",
-        "startTime": 200837,
+        "startTime": 200843,
         "endTime": 200950,
         "pinyin": "ru"
       },
@@ -6584,66 +6714,74 @@
       {
         "token": "し",
         "startTime": 202190,
-        "endTime": 202350,
+        "endTime": 202370,
         "pinyin": "shi"
       },
       {
         "token": "て",
-        "startTime": 202350,
+        "startTime": 202370,
         "endTime": 202530,
         "pinyin": "te"
       },
       {
         "token": "噴",
         "startTime": 202530,
-        "endTime": 202660,
+        "endTime": 202670,
         "pinyin": "?"
       },
       {
         "token": "火",
-        "startTime": 202660,
-        "endTime": 202790,
+        "startTime": 202670,
+        "endTime": 202810,
         "pinyin": "hi"
       },
       {
         "token": "が",
-        "startTime": 202790,
+        "startTime": 202810,
         "endTime": 202970,
         "pinyin": "ga"
       },
       {
         "token": "発",
         "startTime": 202970,
-        "endTime": 203160,
+        "endTime": 203150,
         "pinyin": "hatsu"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "生 する こと も ある の です",
+    "translations": {
+      "en": "This can happen in an instant."
+    },
+    "segments": [
       {
         "token": "生",
-        "startTime": 203160,
-        "endTime": 203350,
+        "startTime": 203150,
+        "endTime": 203330,
         "pinyin": "nama"
       },
       {
         "token": "す",
-        "startTime": 203350,
-        "endTime": 203420,
+        "startTime": 203330,
+        "endTime": 203330,
         "pinyin": "su"
       },
       {
         "token": "る",
-        "startTime": 203420,
-        "endTime": 203490,
+        "startTime": 203330,
+        "endTime": 203330,
         "pinyin": "ru"
       },
       {
         "token": "こ",
-        "startTime": 203490,
-        "endTime": 203640,
+        "startTime": 203330,
+        "endTime": 203560,
         "pinyin": "ko"
       },
       {
         "token": "と",
-        "startTime": 203640,
+        "startTime": 203560,
         "endTime": 203790,
         "pinyin": "to"
       },
@@ -6656,18 +6794,18 @@
       {
         "token": "あ",
         "startTime": 203950,
-        "endTime": 204800,
+        "endTime": 204080,
         "pinyin": "a"
       },
       {
         "token": "る",
-        "startTime": 204800,
-        "endTime": 205650,
+        "startTime": 204080,
+        "endTime": 204210,
         "pinyin": "ru"
       },
       {
         "token": "の",
-        "startTime": 205650,
+        "startTime": 204210,
         "endTime": 205870,
         "pinyin": "no"
       },
@@ -6688,78 +6826,78 @@
   {
     "sentence_text": "この 過程 は 除 火 作用 と し 々 の 噴火 の 原因 に なっ い ます",
     "translations": {
-      "en": "This process, known as unloading, can cause some eruptions."
+      "en": "This process is called unloading and causes some eruptions."
     },
     "segments": [
       {
         "token": "こ",
         "startTime": 206110,
-        "endTime": 206450,
+        "endTime": 206460,
         "pinyin": "ko"
       },
       {
         "token": "の",
-        "startTime": 206450,
-        "endTime": 206790,
+        "startTime": 206460,
+        "endTime": 206810,
         "pinyin": "no"
       },
       {
         "token": "過",
-        "startTime": 206790,
-        "endTime": 206920,
+        "startTime": 206810,
+        "endTime": 206950,
         "pinyin": "ka"
       },
       {
         "token": "程",
-        "startTime": 206920,
-        "endTime": 207050,
+        "startTime": 206950,
+        "endTime": 207090,
         "pinyin": "hodo"
       },
       {
         "token": "は",
-        "startTime": 207050,
-        "endTime": 207150,
+        "startTime": 207090,
+        "endTime": 207110,
         "pinyin": "wa"
       },
       {
         "token": "除",
-        "startTime": 207150,
-        "endTime": 207330,
+        "startTime": 207110,
+        "endTime": 207310,
         "pinyin": "jo"
       },
       {
         "token": "火",
-        "startTime": 207330,
-        "endTime": 207490,
+        "startTime": 207310,
+        "endTime": 207450,
         "pinyin": "hi"
       },
       {
         "token": "作",
-        "startTime": 207490,
-        "endTime": 207600,
+        "startTime": 207450,
+        "endTime": 207590,
         "pinyin": "saku"
       },
       {
         "token": "用",
-        "startTime": 207600,
-        "endTime": 207710,
+        "startTime": 207590,
+        "endTime": 207730,
         "pinyin": "you"
       },
       {
         "token": "と",
-        "startTime": 207710,
-        "endTime": 208270,
+        "startTime": 207730,
+        "endTime": 207850,
         "pinyin": "to"
       },
       {
         "token": "し",
-        "startTime": 208270,
-        "endTime": 208490,
+        "startTime": 207850,
+        "endTime": 208470,
         "pinyin": "shi"
       },
       {
         "token": "々",
-        "startTime": 208490,
+        "startTime": 208470,
         "endTime": 208630,
         "pinyin": "々"
       },
@@ -6772,67 +6910,67 @@
       {
         "token": "噴",
         "startTime": 208810,
-        "endTime": 208940,
+        "endTime": 208930,
         "pinyin": "?"
       },
       {
         "token": "火",
-        "startTime": 208940,
-        "endTime": 209070,
+        "startTime": 208930,
+        "endTime": 209050,
         "pinyin": "hi"
       },
       {
         "token": "の",
-        "startTime": 209070,
+        "startTime": 209050,
         "endTime": 209170,
         "pinyin": "no"
       },
       {
         "token": "原",
         "startTime": 209170,
-        "endTime": 209300,
+        "endTime": 209170,
         "pinyin": "gen"
       },
       {
         "token": "因",
-        "startTime": 209300,
-        "endTime": 209430,
+        "startTime": 209170,
+        "endTime": 209170,
         "pinyin": "moto"
       },
       {
         "token": "に",
-        "startTime": 209430,
-        "endTime": 209690,
+        "startTime": 209170,
+        "endTime": 209730,
         "pinyin": "ni"
       },
       {
         "token": "な",
-        "startTime": 209690,
-        "endTime": 209790,
+        "startTime": 209730,
+        "endTime": 209810,
         "pinyin": "na"
       },
       {
         "token": "っ",
-        "startTime": 209790,
+        "startTime": 209810,
         "endTime": 209890,
         "pinyin": "っ"
       },
       {
         "token": "い",
         "startTime": 209890,
-        "endTime": 210263,
+        "endTime": 209977,
         "pinyin": "i"
       },
       {
         "token": "ま",
-        "startTime": 210263,
-        "endTime": 210637,
+        "startTime": 209977,
+        "endTime": 210063,
         "pinyin": "ma"
       },
       {
         "token": "す",
-        "startTime": 210637,
-        "endTime": 211010,
+        "startTime": 210063,
+        "endTime": 210150,
         "pinyin": "su"
       }
     ]
@@ -6840,18 +6978,18 @@
   {
     "sentence_text": "19 80 年 の セントヘレンズ 山 の 突然 の 噴火 も そう です",
     "translations": {
-      "en": "Such was the sudden eruption of Mount St. Helens in 1980."
+      "en": "The sudden eruption of Mount St. Helens in 1980 is an example."
     },
     "segments": [
       {
         "token": "1",
-        "startTime": 211010,
-        "endTime": 211120,
+        "startTime": 210150,
+        "endTime": 210690,
         "pinyin": "1"
       },
       {
         "token": "9",
-        "startTime": 211120,
+        "startTime": 210690,
         "endTime": 211230,
         "pinyin": "9"
       },
@@ -6876,54 +7014,54 @@
       {
         "token": "の",
         "startTime": 212050,
-        "endTime": 212250,
+        "endTime": 212310,
         "pinyin": "no"
       },
       {
         "token": "セ",
-        "startTime": 212250,
-        "endTime": 212367,
+        "startTime": 212310,
+        "endTime": 212430,
         "pinyin": "se"
       },
       {
         "token": "ン",
-        "startTime": 212367,
-        "endTime": 212484,
+        "startTime": 212430,
+        "endTime": 212550,
         "pinyin": "n"
       },
       {
         "token": "ト",
-        "startTime": 212484,
-        "endTime": 212601,
+        "startTime": 212550,
+        "endTime": 212670,
         "pinyin": "to"
       },
       {
         "token": "ヘ",
-        "startTime": 212601,
-        "endTime": 212719,
+        "startTime": 212670,
+        "endTime": 212790,
         "pinyin": "e"
       },
       {
         "token": "レ",
-        "startTime": 212719,
-        "endTime": 212836,
+        "startTime": 212790,
+        "endTime": 212910,
         "pinyin": "re"
       },
       {
         "token": "ン",
-        "startTime": 212836,
-        "endTime": 212953,
+        "startTime": 212910,
+        "endTime": 213030,
         "pinyin": "n"
       },
       {
         "token": "ズ",
-        "startTime": 212953,
-        "endTime": 213070,
+        "startTime": 213030,
+        "endTime": 213150,
         "pinyin": "zu"
       },
       {
         "token": "山",
-        "startTime": 213070,
+        "startTime": 213150,
         "endTime": 213190,
         "pinyin": "yama"
       },
@@ -6948,24 +7086,24 @@
       {
         "token": "の",
         "startTime": 213810,
-        "endTime": 213950,
+        "endTime": 213970,
         "pinyin": "no"
       },
       {
         "token": "噴",
-        "startTime": 213950,
-        "endTime": 214070,
+        "startTime": 213970,
+        "endTime": 214090,
         "pinyin": "?"
       },
       {
         "token": "火",
-        "startTime": 214070,
-        "endTime": 214190,
+        "startTime": 214090,
+        "endTime": 214210,
         "pinyin": "hi"
       },
       {
         "token": "も",
-        "startTime": 214190,
+        "startTime": 214210,
         "endTime": 214350,
         "pinyin": "mo"
       },
@@ -6984,13 +7122,13 @@
       {
         "token": "で",
         "startTime": 214510,
-        "endTime": 215100,
+        "endTime": 214660,
         "pinyin": "de"
       },
       {
         "token": "す",
-        "startTime": 215100,
-        "endTime": 215690,
+        "startTime": 214660,
+        "endTime": 214810,
         "pinyin": "su"
       }
     ]
@@ -7003,25 +7141,25 @@
     "segments": [
       {
         "token": "し",
-        "startTime": 215690,
-        "endTime": 215830,
+        "startTime": 214810,
+        "endTime": 215283,
         "pinyin": "shi"
       },
       {
         "token": "か",
-        "startTime": 215830,
-        "endTime": 215970,
+        "startTime": 215283,
+        "endTime": 215757,
         "pinyin": "ka"
       },
       {
         "token": "し",
-        "startTime": 215970,
-        "endTime": 216110,
+        "startTime": 215757,
+        "endTime": 216230,
         "pinyin": "shi"
       },
       {
         "token": "除",
-        "startTime": 216110,
+        "startTime": 216230,
         "endTime": 216370,
         "pinyin": "jo"
       },
@@ -7070,18 +7208,18 @@
       {
         "token": "氷",
         "startTime": 217830,
-        "endTime": 218040,
+        "endTime": 218050,
         "pinyin": "koori"
       },
       {
         "token": "河",
-        "startTime": 218040,
-        "endTime": 218250,
+        "startTime": 218050,
+        "endTime": 218270,
         "pinyin": "kawa"
       },
       {
         "token": "の",
-        "startTime": 218250,
+        "startTime": 218270,
         "endTime": 218430,
         "pinyin": "no"
       },
@@ -7118,36 +7256,36 @@
       {
         "token": "で",
         "startTime": 219170,
-        "endTime": 219170,
+        "endTime": 219470,
         "pinyin": "de"
       },
       {
         "token": "長",
-        "startTime": 219170,
-        "endTime": 219590,
+        "startTime": 219470,
+        "endTime": 219730,
         "pinyin": "chou"
       },
       {
         "token": "い",
-        "startTime": 219590,
-        "endTime": 220010,
+        "startTime": 219730,
+        "endTime": 219990,
         "pinyin": "i"
       },
       {
         "token": "時",
-        "startTime": 220010,
-        "endTime": 220130,
+        "startTime": 219990,
+        "endTime": 220110,
         "pinyin": "toki"
       },
       {
         "token": "間",
-        "startTime": 220130,
-        "endTime": 220250,
+        "startTime": 220110,
+        "endTime": 220230,
         "pinyin": "ma"
       },
       {
         "token": "を",
-        "startTime": 220250,
+        "startTime": 220230,
         "endTime": 220470,
         "pinyin": "wo"
       },
@@ -7172,30 +7310,30 @@
       {
         "token": "起",
         "startTime": 220850,
-        "endTime": 220950,
+        "endTime": 220943,
         "pinyin": "ki"
       },
       {
         "token": "こ",
-        "startTime": 220950,
-        "endTime": 221050,
+        "startTime": 220943,
+        "endTime": 221037,
         "pinyin": "ko"
       },
       {
         "token": "る",
-        "startTime": 221050,
-        "endTime": 221150,
+        "startTime": 221037,
+        "endTime": 221130,
         "pinyin": "ru"
       },
       {
         "token": "こ",
-        "startTime": 221150,
-        "endTime": 221210,
+        "startTime": 221130,
+        "endTime": 221200,
         "pinyin": "ko"
       },
       {
         "token": "と",
-        "startTime": 221210,
+        "startTime": 221200,
         "endTime": 221270,
         "pinyin": "to"
       },
@@ -7226,7 +7364,7 @@
     ]
   },
   {
-    "sentence_text": "事実 気候 変動 に よる 氷河 の 誘拐 で 火山 活動 が 増える か も しれ ない と 多く の 地質 学 者 が 危惧 し て いる",
+    "sentence_text": "事実 気候 変動 に よる 氷河 の 誘拐 で 火山 活動 が 増える か も しれ ない と 多く の 地質 学 者 が 危惧 し て いる の",
     "translations": {
       "en": "In fact, many geologists fear that glacial retreat from climate change may increase volcanic activity."
     },
@@ -7288,30 +7426,30 @@
       {
         "token": "氷",
         "startTime": 223570,
-        "endTime": 223790,
+        "endTime": 223780,
         "pinyin": "koori"
       },
       {
         "token": "河",
-        "startTime": 223790,
-        "endTime": 224010,
+        "startTime": 223780,
+        "endTime": 223990,
         "pinyin": "kawa"
       },
       {
         "token": "の",
-        "startTime": 224010,
-        "endTime": 224150,
+        "startTime": 223990,
+        "endTime": 224170,
         "pinyin": "no"
       },
       {
         "token": "誘",
-        "startTime": 224150,
-        "endTime": 224300,
+        "startTime": 224170,
+        "endTime": 224310,
         "pinyin": "sasoi"
       },
       {
         "token": "拐",
-        "startTime": 224300,
+        "startTime": 224310,
         "endTime": 224450,
         "pinyin": "?"
       },
@@ -7324,48 +7462,48 @@
       {
         "token": "火",
         "startTime": 224650,
-        "endTime": 224900,
+        "endTime": 224890,
         "pinyin": "hi"
       },
       {
         "token": "山",
-        "startTime": 224900,
-        "endTime": 225150,
+        "startTime": 224890,
+        "endTime": 225130,
         "pinyin": "yama"
       },
       {
         "token": "活",
-        "startTime": 225150,
+        "startTime": 225130,
         "endTime": 225350,
         "pinyin": "katsu"
       },
       {
         "token": "動",
         "startTime": 225350,
-        "endTime": 225550,
+        "endTime": 225570,
         "pinyin": "dou"
       },
       {
         "token": "が",
-        "startTime": 225550,
-        "endTime": 225710,
+        "startTime": 225570,
+        "endTime": 225730,
         "pinyin": "ga"
       },
       {
         "token": "増",
-        "startTime": 225710,
-        "endTime": 225803,
+        "startTime": 225730,
+        "endTime": 225817,
         "pinyin": "zou"
       },
       {
         "token": "え",
-        "startTime": 225803,
-        "endTime": 225897,
+        "startTime": 225817,
+        "endTime": 225903,
         "pinyin": "e"
       },
       {
         "token": "る",
-        "startTime": 225897,
+        "startTime": 225903,
         "endTime": 225990,
         "pinyin": "ru"
       },
@@ -7390,36 +7528,36 @@
       {
         "token": "れ",
         "startTime": 226310,
-        "endTime": 226363,
+        "endTime": 226370,
         "pinyin": "re"
       },
       {
         "token": "な",
-        "startTime": 226363,
-        "endTime": 226417,
+        "startTime": 226370,
+        "endTime": 226430,
         "pinyin": "na"
       },
       {
         "token": "い",
-        "startTime": 226417,
-        "endTime": 226470,
+        "startTime": 226430,
+        "endTime": 226490,
         "pinyin": "i"
       },
       {
         "token": "と",
-        "startTime": 226470,
-        "endTime": 226590,
+        "startTime": 226490,
+        "endTime": 227030,
         "pinyin": "to"
       },
       {
         "token": "多",
-        "startTime": 226590,
-        "endTime": 226940,
+        "startTime": 227030,
+        "endTime": 227160,
         "pinyin": "ta"
       },
       {
         "token": "く",
-        "startTime": 226940,
+        "startTime": 227160,
         "endTime": 227290,
         "pinyin": "ku"
       },
@@ -7432,18 +7570,18 @@
       {
         "token": "地",
         "startTime": 227450,
-        "endTime": 227580,
+        "endTime": 227560,
         "pinyin": "chi"
       },
       {
         "token": "質",
-        "startTime": 227580,
-        "endTime": 227710,
+        "startTime": 227560,
+        "endTime": 227670,
         "pinyin": "shitsu"
       },
       {
         "token": "学",
-        "startTime": 227710,
+        "startTime": 227670,
         "endTime": 227910,
         "pinyin": "gaku"
       },
@@ -7494,19 +7632,19 @@
         "startTime": 229410,
         "endTime": 229910,
         "pinyin": "ru"
-      }
-    ]
-  },
-  {
-    "sentence_text": "の です",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "の",
         "startTime": 229910,
         "endTime": 230150,
         "pinyin": "no"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "です",
+    "translations": {},
+    "segments": [
       {
         "token": "で",
         "startTime": 230150,
@@ -7522,9 +7660,9 @@
     ]
   },
   {
-    "sentence_text": "最後 に マグマ を 抑える の に 十分 な ほど 岩石 層 の 強度 が 失わ れ た 時 に も 噴火 は 起こり 得 ます",
+    "sentence_text": "最後 に マグマ を 抑える の に 十分 な ほど 岩石 層 の 強度 が 失わ れ た 時 に も 分化 は 起こり 得 ます",
     "translations": {
-      "en": "Finally, eruptions can occur when the rock layer loses enough strength to contain the magma."
+      "en": "Finally, eruptions can occur when rock layers lose enough strength to contain magma."
     },
     "segments": [
       {
@@ -7542,48 +7680,48 @@
       {
         "token": "に",
         "startTime": 230910,
-        "endTime": 231050,
+        "endTime": 231070,
         "pinyin": "ni"
       },
       {
         "token": "マ",
-        "startTime": 231050,
-        "endTime": 231150,
+        "startTime": 231070,
+        "endTime": 231163,
         "pinyin": "ma"
       },
       {
         "token": "グ",
-        "startTime": 231150,
-        "endTime": 231250,
+        "startTime": 231163,
+        "endTime": 231257,
         "pinyin": "gu"
       },
       {
         "token": "マ",
-        "startTime": 231250,
+        "startTime": 231257,
         "endTime": 231350,
         "pinyin": "ma"
       },
       {
         "token": "を",
         "startTime": 231350,
-        "endTime": 231530,
+        "endTime": 231510,
         "pinyin": "wo"
       },
       {
         "token": "抑",
-        "startTime": 231530,
-        "endTime": 231763,
+        "startTime": 231510,
+        "endTime": 231750,
         "pinyin": "?"
       },
       {
         "token": "え",
-        "startTime": 231763,
-        "endTime": 231997,
+        "startTime": 231750,
+        "endTime": 231990,
         "pinyin": "e"
       },
       {
         "token": "る",
-        "startTime": 231997,
+        "startTime": 231990,
         "endTime": 232230,
         "pinyin": "ru"
       },
@@ -7614,18 +7752,18 @@
       {
         "token": "な",
         "startTime": 233130,
-        "endTime": 233290,
+        "endTime": 233270,
         "pinyin": "na"
       },
       {
         "token": "ほ",
-        "startTime": 233290,
-        "endTime": 233460,
+        "startTime": 233270,
+        "endTime": 233450,
         "pinyin": "ho"
       },
       {
         "token": "ど",
-        "startTime": 233460,
+        "startTime": 233450,
         "endTime": 233630,
         "pinyin": "do"
       },
@@ -7668,18 +7806,18 @@
       {
         "token": "が",
         "startTime": 234470,
-        "endTime": 234710,
+        "endTime": 234690,
         "pinyin": "ga"
       },
       {
         "token": "失",
-        "startTime": 234710,
-        "endTime": 234820,
+        "startTime": 234690,
+        "endTime": 234810,
         "pinyin": "shitsu"
       },
       {
         "token": "わ",
-        "startTime": 234820,
+        "startTime": 234810,
         "endTime": 234930,
         "pinyin": "wa"
       },
@@ -7692,12 +7830,12 @@
       {
         "token": "た",
         "startTime": 235310,
-        "endTime": 235410,
+        "endTime": 235390,
         "pinyin": "ta"
       },
       {
         "token": "時",
-        "startTime": 235410,
+        "startTime": 235390,
         "endTime": 235570,
         "pinyin": "toki"
       },
@@ -7714,38 +7852,38 @@
         "pinyin": "mo"
       },
       {
-        "token": "噴",
+        "token": "分",
         "startTime": 235790,
         "endTime": 235860,
-        "pinyin": "?"
+        "pinyin": "bun"
       },
       {
-        "token": "火",
+        "token": "化",
         "startTime": 235860,
         "endTime": 235930,
-        "pinyin": "hi"
+        "pinyin": "ka"
       },
       {
         "token": "は",
         "startTime": 235930,
-        "endTime": 236910,
+        "endTime": 236890,
         "pinyin": "wa"
       },
       {
         "token": "起",
-        "startTime": 236910,
-        "endTime": 237017,
+        "startTime": 236890,
+        "endTime": 237003,
         "pinyin": "ki"
       },
       {
         "token": "こ",
-        "startTime": 237017,
-        "endTime": 237123,
+        "startTime": 237003,
+        "endTime": 237117,
         "pinyin": "ko"
       },
       {
         "token": "り",
-        "startTime": 237123,
+        "startTime": 237117,
         "endTime": 237230,
         "pinyin": "ri"
       },
@@ -7758,13 +7896,13 @@
       {
         "token": "ま",
         "startTime": 237410,
-        "endTime": 237590,
+        "endTime": 237600,
         "pinyin": "ma"
       },
       {
         "token": "す",
-        "startTime": 237590,
-        "endTime": 237770,
+        "startTime": 237600,
+        "endTime": 237790,
         "pinyin": "su"
       }
     ]
@@ -7772,24 +7910,24 @@
   {
     "sentence_text": "マグマ から 放出 さ れる 酸性 ガス や 熱 と いう 過程 を 通し 岩盤 が 劣化 、",
     "translations": {
-      "en": "Through processes like acidic gases and heat released from magma, bedrock deteriorates,"
+      "en": "Through processes involving acidic gases and heat released from magma, bedrock deteriorates,"
     },
     "segments": [
       {
         "token": "マ",
-        "startTime": 237770,
-        "endTime": 237903,
+        "startTime": 237790,
+        "endTime": 237917,
         "pinyin": "ma"
       },
       {
         "token": "グ",
-        "startTime": 237903,
-        "endTime": 238037,
+        "startTime": 237917,
+        "endTime": 238043,
         "pinyin": "gu"
       },
       {
         "token": "マ",
-        "startTime": 238037,
+        "startTime": 238043,
         "endTime": 238170,
         "pinyin": "ma"
       },
@@ -7850,60 +7988,60 @@
       {
         "token": "ガ",
         "startTime": 239910,
-        "endTime": 240210,
+        "endTime": 240200,
         "pinyin": "ga"
       },
       {
         "token": "ス",
-        "startTime": 240210,
-        "endTime": 240510,
+        "startTime": 240200,
+        "endTime": 240490,
         "pinyin": "su"
       },
       {
         "token": "や",
-        "startTime": 240510,
-        "endTime": 240710,
+        "startTime": 240490,
+        "endTime": 240690,
         "pinyin": "ya"
       },
       {
         "token": "熱",
-        "startTime": 240710,
+        "startTime": 240690,
         "endTime": 240890,
         "pinyin": "netsu"
       },
       {
         "token": "と",
         "startTime": 240890,
-        "endTime": 241017,
+        "endTime": 241023,
         "pinyin": "to"
       },
       {
         "token": "い",
-        "startTime": 241017,
-        "endTime": 241143,
+        "startTime": 241023,
+        "endTime": 241157,
         "pinyin": "i"
       },
       {
         "token": "う",
-        "startTime": 241143,
-        "endTime": 241270,
+        "startTime": 241157,
+        "endTime": 241290,
         "pinyin": "u"
       },
       {
         "token": "過",
-        "startTime": 241270,
+        "startTime": 241290,
         "endTime": 241450,
         "pinyin": "ka"
       },
       {
         "token": "程",
         "startTime": 241450,
-        "endTime": 241630,
+        "endTime": 241610,
         "pinyin": "hodo"
       },
       {
         "token": "を",
-        "startTime": 241630,
+        "startTime": 241610,
         "endTime": 241810,
         "pinyin": "wo"
       },
@@ -7940,18 +8078,18 @@
       {
         "token": "劣",
         "startTime": 243070,
-        "endTime": 243510,
+        "endTime": 243500,
         "pinyin": "?"
       },
       {
         "token": "化",
-        "startTime": 243510,
-        "endTime": 243950,
+        "startTime": 243500,
+        "endTime": 243930,
         "pinyin": "ka"
       },
       {
         "token": "、",
-        "startTime": 243950,
+        "startTime": 243930,
         "endTime": 244090,
         "pinyin": ","
       }
@@ -7960,7 +8098,7 @@
   {
     "sentence_text": "硬い 石 が 々 に 柔らかい 粘土 に 軟質 化 する の です",
     "translations": {
-      "en": "turning hard rock into soft clay over time."
+      "en": "hard rock gradually softens into soft clay."
     },
     "segments": [
       {
@@ -7978,24 +8116,24 @@
       {
         "token": "石",
         "startTime": 244330,
-        "endTime": 244470,
+        "endTime": 244490,
         "pinyin": "ishi"
       },
       {
         "token": "が",
-        "startTime": 244470,
+        "startTime": 244490,
         "endTime": 244830,
         "pinyin": "ga"
       },
       {
         "token": "々",
         "startTime": 244830,
-        "endTime": 244890,
+        "endTime": 244870,
         "pinyin": "々"
       },
       {
         "token": "に",
-        "startTime": 244890,
+        "startTime": 244870,
         "endTime": 245010,
         "pinyin": "ni"
       },
@@ -8094,7 +8232,7 @@
   {
     "sentence_text": "地殻 変動 に よっ て も 岩石 層 は 弱まり 得 ます",
     "translations": {
-      "en": "Tectonic activity can also weaken rock layers."
+      "en": "Tectonic movements can also weaken rock layers."
     },
     "segments": [
       {
@@ -8270,24 +8408,24 @@
       {
         "token": "入",
         "startTime": 253365,
-        "endTime": 253445,
+        "endTime": 253455,
         "pinyin": "iri"
       },
       {
         "token": "る",
-        "startTime": 253445,
-        "endTime": 253525,
+        "startTime": 253455,
+        "endTime": 253545,
         "pinyin": "ru"
       },
       {
         "token": "こ",
-        "startTime": 253525,
-        "endTime": 253825,
+        "startTime": 253545,
+        "endTime": 253835,
         "pinyin": "ko"
       },
       {
         "token": "と",
-        "startTime": 253825,
+        "startTime": 253835,
         "endTime": 254125,
         "pinyin": "to"
       },
@@ -8580,7 +8718,7 @@
   {
     "sentence_text": "残念 ながら 噴火 の 原因 を 知っ て も 噴火 の 予測 が 簡単 に なる わけ で ませ ん",
     "translations": {
-      "en": "Unfortunately, knowing the cause of an eruption does not make predicting it easy."
+      "en": "Unfortunately, knowing the causes of eruptions does not make prediction easy."
     },
     "segments": [
       {
@@ -8616,18 +8754,18 @@
       {
         "token": "噴",
         "startTime": 263945,
-        "endTime": 264185,
+        "endTime": 264175,
         "pinyin": "?"
       },
       {
         "token": "火",
-        "startTime": 264185,
-        "endTime": 264425,
+        "startTime": 264175,
+        "endTime": 264405,
         "pinyin": "hi"
       },
       {
         "token": "の",
-        "startTime": 264425,
+        "startTime": 264405,
         "endTime": 264565,
         "pinyin": "no"
       },
@@ -8778,9 +8916,9 @@
     ]
   },
   {
-    "sentence_text": "科学 者 は 近く の 強度 と 重 さ は 憶測 でき ます が マグマ だまり の 深 さ と 熱 が 障害 と なる ため マグマ の",
+    "sentence_text": "科学 者 は 近く の 強度 と 重 さ は 憶測 でき ます が マグマ だまり の 深 さ と 熱 が 障害 と なる ため マグマ の 圧力",
     "translations": {
-      "en": "Scientists can estimate the strength and weight nearby, but the depth and heat of the magma chamber pose obstacles, making"
+      "en": "Scientists can estimate the strength and weight of nearby rocks, but measuring changes in magma pressure is very difficult due to the depth and heat of the magma chamber."
     },
     "segments": [
       {
@@ -8900,42 +9038,42 @@
       {
         "token": "が",
         "startTime": 271825,
-        "endTime": 272065,
+        "endTime": 273085,
         "pinyin": "ga"
       },
       {
         "token": "マ",
-        "startTime": 272065,
-        "endTime": 272485,
+        "startTime": 273085,
+        "endTime": 273158,
         "pinyin": "ma"
       },
       {
         "token": "グ",
-        "startTime": 272485,
-        "endTime": 272905,
+        "startTime": 273158,
+        "endTime": 273232,
         "pinyin": "gu"
       },
       {
         "token": "マ",
-        "startTime": 272905,
-        "endTime": 273325,
+        "startTime": 273232,
+        "endTime": 273305,
         "pinyin": "ma"
       },
       {
         "token": "だ",
-        "startTime": 273325,
-        "endTime": 273405,
+        "startTime": 273305,
+        "endTime": 273392,
         "pinyin": "da"
       },
       {
         "token": "ま",
-        "startTime": 273405,
-        "endTime": 273485,
+        "startTime": 273392,
+        "endTime": 273478,
         "pinyin": "ma"
       },
       {
         "token": "り",
-        "startTime": 273485,
+        "startTime": 273478,
         "endTime": 273565,
         "pinyin": "ri"
       },
@@ -8948,24 +9086,24 @@
       {
         "token": "深",
         "startTime": 273765,
-        "endTime": 273925,
+        "endTime": 273905,
         "pinyin": "shin"
       },
       {
         "token": "さ",
-        "startTime": 273925,
+        "startTime": 273905,
         "endTime": 274025,
         "pinyin": "sa"
       },
       {
         "token": "と",
         "startTime": 274025,
-        "endTime": 274305,
+        "endTime": 274205,
         "pinyin": "to"
       },
       {
         "token": "熱",
-        "startTime": 274305,
+        "startTime": 274205,
         "endTime": 274365,
         "pinyin": "netsu"
       },
@@ -8978,158 +9116,156 @@
       {
         "token": "障",
         "startTime": 274525,
-        "endTime": 274675,
+        "endTime": 274525,
         "pinyin": "shou"
       },
       {
         "token": "害",
-        "startTime": 274675,
-        "endTime": 274825,
+        "startTime": 274525,
+        "endTime": 274525,
         "pinyin": "gai"
       },
       {
         "token": "と",
-        "startTime": 274825,
+        "startTime": 274525,
         "endTime": 275025,
         "pinyin": "to"
       },
       {
         "token": "な",
         "startTime": 275025,
-        "endTime": 275115,
+        "endTime": 275125,
         "pinyin": "na"
       },
       {
         "token": "る",
-        "startTime": 275115,
-        "endTime": 275205,
+        "startTime": 275125,
+        "endTime": 275225,
         "pinyin": "ru"
       },
       {
         "token": "た",
-        "startTime": 275205,
-        "endTime": 275295,
+        "startTime": 275225,
+        "endTime": 275805,
         "pinyin": "ta"
       },
       {
         "token": "め",
-        "startTime": 275295,
-        "endTime": 275385,
+        "startTime": 275805,
+        "endTime": 276385,
         "pinyin": "me"
       },
       {
         "token": "マ",
-        "startTime": 275385,
-        "endTime": 275778,
+        "startTime": 276385,
+        "endTime": 276445,
         "pinyin": "ma"
       },
       {
         "token": "グ",
-        "startTime": 275778,
-        "endTime": 276172,
+        "startTime": 276445,
+        "endTime": 276505,
         "pinyin": "gu"
       },
       {
         "token": "マ",
-        "startTime": 276172,
+        "startTime": 276505,
         "endTime": 276565,
         "pinyin": "ma"
       },
       {
         "token": "の",
         "startTime": 276565,
-        "endTime": 276725,
+        "endTime": 276745,
         "pinyin": "no"
-      }
-    ]
-  },
-  {
-    "sentence_text": "圧力 の 変化 の 測定 は 非常 に 困難 です",
-    "translations": {
-      "en": "measurements of pressure changes extremely difficult."
-    },
-    "segments": [
+      },
       {
         "token": "圧",
-        "startTime": 276725,
-        "endTime": 276725,
+        "startTime": 276745,
+        "endTime": 276855,
         "pinyin": "atsu"
       },
       {
         "token": "力",
-        "startTime": 276725,
-        "endTime": 276725,
+        "startTime": 276855,
+        "endTime": 276965,
         "pinyin": "chikara"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "の 変化 の 測定 は 非常 に 困難 です",
+    "translations": {},
+    "segments": [
       {
         "token": "の",
-        "startTime": 276725,
+        "startTime": 276965,
         "endTime": 277165,
         "pinyin": "no"
       },
       {
         "token": "変",
         "startTime": 277165,
-        "endTime": 277295,
+        "endTime": 277285,
         "pinyin": "hen"
       },
       {
         "token": "化",
-        "startTime": 277295,
-        "endTime": 277425,
+        "startTime": 277285,
+        "endTime": 277405,
         "pinyin": "ka"
       },
       {
         "token": "の",
-        "startTime": 277425,
-        "endTime": 277545,
+        "startTime": 277405,
+        "endTime": 277525,
         "pinyin": "no"
       },
       {
         "token": "測",
-        "startTime": 277545,
-        "endTime": 277705,
+        "startTime": 277525,
+        "endTime": 277685,
         "pinyin": "soku"
       },
       {
         "token": "定",
-        "startTime": 277705,
-        "endTime": 277865,
+        "startTime": 277685,
+        "endTime": 277845,
         "pinyin": "tei"
       },
       {
         "token": "は",
-        "startTime": 277865,
-        "endTime": 278045,
+        "startTime": 277845,
+        "endTime": 278025,
         "pinyin": "wa"
       },
       {
         "token": "非",
-        "startTime": 278045,
-        "endTime": 278245,
+        "startTime": 278025,
+        "endTime": 278225,
         "pinyin": "hi"
       },
       {
         "token": "常",
-        "startTime": 278245,
-        "endTime": 278445,
+        "startTime": 278225,
+        "endTime": 278425,
         "pinyin": "tsune"
       },
       {
         "token": "に",
-        "startTime": 278445,
-        "endTime": 278665,
+        "startTime": 278425,
+        "endTime": 278425,
         "pinyin": "ni"
       },
       {
         "token": "困",
-        "startTime": 278665,
-        "endTime": 278825,
+        "startTime": 278425,
+        "endTime": 278705,
         "pinyin": "kon"
       },
       {
         "token": "難",
-        "startTime": 278825,
+        "startTime": 278705,
         "endTime": 278985,
         "pinyin": "gata"
       },
@@ -9150,66 +9286,66 @@
   {
     "sentence_text": "しかし 火山 学 者 は 岩石 の 地形 の 測定 を 制する ため に 新しい 技術 を 探求 し 続け い ます",
     "translations": {
-      "en": "However, volcanologists continue to explore new techniques to master measuring rock formations."
+      "en": "However, volcanologists continue to explore new techniques to measure rock topography."
     },
     "segments": [
       {
         "token": "し",
         "startTime": 279265,
-        "endTime": 279705,
+        "endTime": 279698,
         "pinyin": "shi"
       },
       {
         "token": "か",
-        "startTime": 279705,
-        "endTime": 280145,
+        "startTime": 279698,
+        "endTime": 280132,
         "pinyin": "ka"
       },
       {
         "token": "し",
-        "startTime": 280145,
-        "endTime": 280585,
+        "startTime": 280132,
+        "endTime": 280565,
         "pinyin": "shi"
       },
       {
         "token": "火",
-        "startTime": 280585,
+        "startTime": 280565,
         "endTime": 280755,
         "pinyin": "hi"
       },
       {
         "token": "山",
         "startTime": 280755,
-        "endTime": 280925,
+        "endTime": 280945,
         "pinyin": "yama"
       },
       {
         "token": "学",
-        "startTime": 280925,
+        "startTime": 280945,
         "endTime": 281165,
         "pinyin": "gaku"
       },
       {
         "token": "者",
         "startTime": 281165,
-        "endTime": 281265,
+        "endTime": 281245,
         "pinyin": "mono"
       },
       {
         "token": "は",
-        "startTime": 281265,
-        "endTime": 281525,
+        "startTime": 281245,
+        "endTime": 281485,
         "pinyin": "wa"
       },
       {
         "token": "岩",
-        "startTime": 281525,
-        "endTime": 281735,
+        "startTime": 281485,
+        "endTime": 281715,
         "pinyin": "iwa"
       },
       {
         "token": "石",
-        "startTime": 281735,
+        "startTime": 281715,
         "endTime": 281945,
         "pinyin": "ishi"
       },
@@ -9288,60 +9424,60 @@
       {
         "token": "に",
         "startTime": 283585,
-        "endTime": 283845,
+        "endTime": 283805,
         "pinyin": "ni"
       },
       {
         "token": "新",
-        "startTime": 283845,
-        "endTime": 284038,
+        "startTime": 283805,
+        "endTime": 284012,
         "pinyin": "shin"
       },
       {
         "token": "し",
-        "startTime": 284038,
-        "endTime": 284232,
+        "startTime": 284012,
+        "endTime": 284218,
         "pinyin": "shi"
       },
       {
         "token": "い",
-        "startTime": 284232,
+        "startTime": 284218,
         "endTime": 284425,
         "pinyin": "i"
       },
       {
         "token": "技",
         "startTime": 284425,
-        "endTime": 284585,
+        "endTime": 284575,
         "pinyin": "waza"
       },
       {
         "token": "術",
-        "startTime": 284585,
-        "endTime": 284745,
+        "startTime": 284575,
+        "endTime": 284725,
         "pinyin": "jutsu"
       },
       {
         "token": "を",
-        "startTime": 284745,
-        "endTime": 284925,
+        "startTime": 284725,
+        "endTime": 285105,
         "pinyin": "wo"
       },
       {
         "token": "探",
-        "startTime": 284925,
-        "endTime": 285125,
+        "startTime": 285105,
+        "endTime": 285225,
         "pinyin": "Motomu"
       },
       {
         "token": "求",
-        "startTime": 285125,
-        "endTime": 285325,
+        "startTime": 285225,
+        "endTime": 285345,
         "pinyin": "kyuu"
       },
       {
         "token": "し",
-        "startTime": 285325,
+        "startTime": 285345,
         "endTime": 285525,
         "pinyin": "shi"
       },
@@ -9360,19 +9496,19 @@
       {
         "token": "い",
         "startTime": 285865,
-        "endTime": 285965,
+        "endTime": 286118,
         "pinyin": "i"
       },
       {
         "token": "ま",
-        "startTime": 285965,
-        "endTime": 286065,
+        "startTime": 286118,
+        "endTime": 286372,
         "pinyin": "ma"
       },
       {
         "token": "す",
-        "startTime": 286065,
-        "endTime": 286165,
+        "startTime": 286372,
+        "endTime": 286625,
         "pinyin": "su"
       }
     ]
@@ -9385,73 +9521,73 @@
     "segments": [
       {
         "token": "サ",
-        "startTime": 286165,
-        "endTime": 286290,
+        "startTime": 286625,
+        "endTime": 286720,
         "pinyin": "sa"
       },
       {
         "token": "ー",
-        "startTime": 286290,
-        "endTime": 286415,
+        "startTime": 286720,
+        "endTime": 286815,
         "pinyin": "-"
       },
       {
         "token": "マ",
-        "startTime": 286415,
-        "endTime": 286540,
+        "startTime": 286815,
+        "endTime": 286910,
         "pinyin": "ma"
       },
       {
         "token": "ル",
-        "startTime": 286540,
-        "endTime": 286665,
+        "startTime": 286910,
+        "endTime": 287005,
         "pinyin": "ru"
       },
       {
         "token": "イ",
-        "startTime": 286665,
-        "endTime": 286808,
+        "startTime": 287005,
+        "endTime": 287088,
         "pinyin": "i"
       },
       {
         "token": "メ",
-        "startTime": 286808,
-        "endTime": 286952,
+        "startTime": 287088,
+        "endTime": 287172,
         "pinyin": "me"
       },
       {
         "token": "ー",
-        "startTime": 286952,
-        "endTime": 287095,
+        "startTime": 287172,
+        "endTime": 287255,
         "pinyin": "-"
       },
       {
         "token": "ジ",
-        "startTime": 287095,
-        "endTime": 287238,
+        "startTime": 287255,
+        "endTime": 287338,
         "pinyin": "ji"
       },
       {
         "token": "ン",
-        "startTime": 287238,
-        "endTime": 287382,
+        "startTime": 287338,
+        "endTime": 287422,
         "pinyin": "n"
       },
       {
         "token": "グ",
-        "startTime": 287382,
-        "endTime": 287525,
+        "startTime": 287422,
+        "endTime": 287505,
         "pinyin": "gu"
       },
       {
         "token": "技",
-        "startTime": 287525,
-        "endTime": 287675,
+        "startTime": 287505,
+        "endTime": 287665,
         "pinyin": "waza"
       },
       {
         "token": "術",
-        "startTime": 287675,
+        "startTime": 287665,
         "endTime": 287825,
         "pinyin": "jutsu"
       },
@@ -9476,30 +9612,30 @@
       {
         "token": "に",
         "startTime": 288285,
-        "endTime": 288445,
+        "endTime": 288425,
         "pinyin": "ni"
       },
       {
         "token": "よ",
-        "startTime": 288445,
-        "endTime": 288695,
+        "startTime": 288425,
+        "endTime": 288535,
         "pinyin": "yo"
       },
       {
         "token": "り",
-        "startTime": 288695,
-        "endTime": 288945,
+        "startTime": 288535,
+        "endTime": 288645,
         "pinyin": "ri"
       },
       {
         "token": "科",
-        "startTime": 288945,
-        "endTime": 289045,
+        "startTime": 288645,
+        "endTime": 288895,
         "pinyin": "ka"
       },
       {
         "token": "学",
-        "startTime": 289045,
+        "startTime": 288895,
         "endTime": 289145,
         "pinyin": "gaku"
       },
@@ -9512,42 +9648,42 @@
       {
         "token": "は",
         "startTime": 289265,
-        "endTime": 289485,
+        "endTime": 289445,
         "pinyin": "wa"
       },
       {
         "token": "地",
-        "startTime": 289485,
-        "endTime": 289645,
+        "startTime": 289445,
+        "endTime": 289625,
         "pinyin": "chi"
       },
       {
         "token": "下",
-        "startTime": 289645,
+        "startTime": 289625,
         "endTime": 289805,
         "pinyin": "ka"
       },
       {
         "token": "の",
         "startTime": 289805,
-        "endTime": 289925,
+        "endTime": 289905,
         "pinyin": "no"
       },
       {
         "token": "ホ",
-        "startTime": 289925,
-        "endTime": 290005,
+        "startTime": 289905,
+        "endTime": 289992,
         "pinyin": "ho"
       },
       {
         "token": "ッ",
-        "startTime": 290005,
-        "endTime": 290085,
+        "startTime": 289992,
+        "endTime": 290078,
         "pinyin": "ッ"
       },
       {
         "token": "ト",
-        "startTime": 290085,
+        "startTime": 290078,
         "endTime": 290165,
         "pinyin": "to"
       },
@@ -9578,18 +9714,18 @@
       {
         "token": "を",
         "startTime": 290165,
-        "endTime": 290725,
+        "endTime": 290705,
         "pinyin": "wo"
       },
       {
         "token": "探",
-        "startTime": 290725,
-        "endTime": 290845,
+        "startTime": 290705,
+        "endTime": 290835,
         "pinyin": "Motomu"
       },
       {
         "token": "知",
-        "startTime": 290845,
+        "startTime": 290835,
         "endTime": 290965,
         "pinyin": "chi"
       },
@@ -9656,9 +9792,9 @@
     ]
   },
   {
-    "sentence_text": "スペクトロメーター は マグマ から 分離 する ガス の 分析 を 可能 に し",
+    "sentence_text": "スペクトロメーター は マグマ から 分離 する ガス の 分析 を 可能 に し レーザー に より 火山 の 輪郭 へ の マグ",
     "translations": {
-      "en": "Spectrometers enable the analysis of gases separating from magma,"
+      "en": "The spectrometer enables analysis of gases separating from magma, and with lasers, it can accurately track the magma's impact on the volcano's shape."
     },
     "segments": [
       {
@@ -9718,24 +9854,24 @@
       {
         "token": "は",
         "startTime": 293205,
-        "endTime": 293405,
+        "endTime": 293385,
         "pinyin": "wa"
       },
       {
         "token": "マ",
-        "startTime": 293405,
-        "endTime": 293572,
+        "startTime": 293385,
+        "endTime": 293558,
         "pinyin": "ma"
       },
       {
         "token": "グ",
-        "startTime": 293572,
-        "endTime": 293738,
+        "startTime": 293558,
+        "endTime": 293732,
         "pinyin": "gu"
       },
       {
         "token": "マ",
-        "startTime": 293738,
+        "startTime": 293732,
         "endTime": 293905,
         "pinyin": "ma"
       },
@@ -9834,15 +9970,7 @@
         "startTime": 296085,
         "endTime": 296245,
         "pinyin": "shi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "レーザー に より 火山 の 輪郭 へ の マグマ の 影響 を 正確 に 追跡 する こと が できる よう に り まし た",
-    "translations": {
-      "en": "and lasers now allow precise tracking of magma's effect on the volcano's shape."
-    },
-    "segments": [
+      },
       {
         "token": "レ",
         "startTime": 296245,
@@ -9918,30 +10046,36 @@
       {
         "token": "へ",
         "startTime": 298225,
-        "endTime": 298425,
+        "endTime": 298445,
         "pinyin": "e"
       },
       {
         "token": "の",
-        "startTime": 298425,
-        "endTime": 298425,
+        "startTime": 298445,
+        "endTime": 298445,
         "pinyin": "no"
       },
       {
         "token": "マ",
-        "startTime": 298425,
-        "endTime": 298632,
+        "startTime": 298445,
+        "endTime": 298645,
         "pinyin": "ma"
       },
       {
         "token": "グ",
-        "startTime": 298632,
-        "endTime": 298838,
+        "startTime": 298645,
+        "endTime": 298845,
         "pinyin": "gu"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "マ の 影響 を 正確 に 追跡 する こと が できる よう に り まし た",
+    "translations": {},
+    "segments": [
       {
         "token": "マ",
-        "startTime": 298838,
+        "startTime": 298845,
         "endTime": 299045,
         "pinyin": "ma"
       },
@@ -10092,9 +10226,9 @@
     ]
   },
   {
-    "sentence_text": "こう し た 技術 に より 不 安定 な 稼働 や 爆発 的 な 噴火 に 対する 理解 が 深まる こと が 望ま れ って る と 思っ",
+    "sentence_text": "こう し た 技術 に より 不 安定 な 稼働 や 爆発 的 な 噴火 に 対する 理解 が 深まる こと が 望ま れっ てる と 思っ て",
     "translations": {
-      "en": "These technologies are hoped to deepen our understanding of unstable activity and explosive eruptions, revealing"
+      "en": "It is hoped that such technology will deepen our understanding of unstable activity and explosive eruptions."
     },
     "segments": [
       {
@@ -10112,12 +10246,12 @@
       {
         "token": "し",
         "startTime": 302925,
-        "endTime": 303125,
+        "endTime": 303105,
         "pinyin": "shi"
       },
       {
         "token": "た",
-        "startTime": 303125,
+        "startTime": 303105,
         "endTime": 303285,
         "pinyin": "ta"
       },
@@ -10160,18 +10294,18 @@
       {
         "token": "安",
         "startTime": 304325,
-        "endTime": 304535,
+        "endTime": 304525,
         "pinyin": "yasu"
       },
       {
         "token": "定",
-        "startTime": 304535,
-        "endTime": 304745,
+        "startTime": 304525,
+        "endTime": 304725,
         "pinyin": "tei"
       },
       {
         "token": "な",
-        "startTime": 304745,
+        "startTime": 304725,
         "endTime": 304885,
         "pinyin": "na"
       },
@@ -10292,18 +10426,18 @@
       {
         "token": "こ",
         "startTime": 308125,
-        "endTime": 308315,
+        "endTime": 308305,
         "pinyin": "ko"
       },
       {
         "token": "と",
-        "startTime": 308315,
-        "endTime": 308505,
+        "startTime": 308305,
+        "endTime": 308485,
         "pinyin": "to"
       },
       {
         "token": "が",
-        "startTime": 308505,
+        "startTime": 308485,
         "endTime": 308665,
         "pinyin": "ga"
       },
@@ -10360,21 +10494,21 @@
         "startTime": 311225,
         "endTime": 311345,
         "pinyin": "っ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "て い た こと へ の 新しい 見 方 を 発見 し",
-    "translations": {
-      "en": "new perspectives on what was previously thought,"
-    },
-    "segments": [
+      },
       {
         "token": "て",
         "startTime": 311345,
         "endTime": 311465,
         "pinyin": "te"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "い た こと へ の 新しい 見 方 を 発見 しかっ た こと に 出会っ たり",
+    "translations": {
+      "en": "You may discover new perspectives on things you thought you knew, or encounter something new."
+    },
+    "segments": [
       {
         "token": "い",
         "startTime": 311465,
@@ -10464,15 +10598,7 @@
         "startTime": 314265,
         "endTime": 314385,
         "pinyin": "shi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "かっ た こと に 出会っ たり",
-    "translations": {
-      "en": "encountering what was unknown,"
-    },
-    "segments": [
+      },
       {
         "token": "か",
         "startTime": 314385,
@@ -10544,7 +10670,7 @@
   {
     "sentence_text": "ぜひ この 動画 で 学び を ま しょう",
     "translations": {
-      "en": "so let's learn from this video."
+      "en": "Be sure to learn from this video."
     },
     "segments": [
       {
@@ -10636,7 +10762,7 @@
   {
     "sentence_text": "チャンネル 登録 し て 好奇 心 の その 先 へ ご ありがとう ござい まし た",
     "translations": {
-      "en": "Subscribe to the channel and go beyond curiosity. Thank you."
+      "en": "Thank you for subscribing to the channel and going beyond curiosity."
     },
     "segments": [
       {
@@ -10732,12 +10858,12 @@
       {
         "token": "先",
         "startTime": 324125,
-        "endTime": 325385,
+        "endTime": 325445,
         "pinyin": "saki"
       },
       {
         "token": "へ",
-        "startTime": 325385,
+        "startTime": 325445,
         "endTime": 325645,
         "pinyin": "e"
       },
