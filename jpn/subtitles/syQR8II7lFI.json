@@ -2,14 +2,14 @@
   {
     "sentence_text": "午後 1 時 前 の 財務 省 報道 陣 を 前 に 静か に 口 を 開き まし た",
     "translations": {
-      "en": "Just before 1 p.m., he quietly spoke in front of the Finance Ministry press corps."
+      "en": "He quietly spoke before the Finance Ministry press corps just before 1 p.m."
     },
     "segments": [
       {
         "token": "午",
         "startTime": 3640,
         "endTime": 3780,
-        "pinyin": "uma"
+        "pinyin": "hiru"
       },
       {
         "token": "後",
@@ -27,7 +27,7 @@
         "token": "時",
         "startTime": 4220,
         "endTime": 4300,
-        "pinyin": "ji"
+        "pinyin": "toki"
       },
       {
         "token": "前",
@@ -99,7 +99,7 @@
         "token": "静",
         "startTime": 7400,
         "endTime": 7890,
-        "pinyin": "Sei"
+        "pinyin": "sei"
       },
       {
         "token": "か",
@@ -129,7 +129,7 @@
         "token": "開",
         "startTime": 9000,
         "endTime": 9150,
-        "pinyin": "kai"
+        "pinyin": "hirake"
       },
       {
         "token": "き",
@@ -158,7 +158,7 @@
     ]
   },
   {
-    "sentence_text": "いつ で も 必要 に 応じ 措置 をり ます",
+    "sentence_text": "いつ で も 必要 に 応じ 措置 を り ます",
     "translations": {
       "en": "We will take measures as needed at any time."
     },
@@ -209,7 +209,7 @@
         "token": "応",
         "startTime": 12540,
         "endTime": 12680,
-        "pinyin": "ou"
+        "pinyin": "kotae"
       },
       {
         "token": "じ",
@@ -313,7 +313,7 @@
         "token": "全",
         "startTime": 14840,
         "endTime": 15020,
-        "pinyin": "Zen"
+        "pinyin": "zen"
       },
       {
         "token": "く",
@@ -362,7 +362,7 @@
   {
     "sentence_text": "先週 過 断 な 措置 と 言い まし た けど",
     "translations": {
-      "en": "Although I called it an excessive measure last week."
+      "en": "I said last week that it was an excessive measure,"
     },
     "segments": [
       {
@@ -381,7 +381,7 @@
         "token": "過",
         "startTime": 17080,
         "endTime": 17300,
-        "pinyin": "sugi"
+        "pinyin": "ka"
       },
       {
         "token": "断",
@@ -417,7 +417,7 @@
         "token": "言",
         "startTime": 17760,
         "endTime": 17820,
-        "pinyin": "gen"
+        "pinyin": "koto"
       },
       {
         "token": "い",
@@ -467,7 +467,7 @@
         "token": "単",
         "startTime": 18320,
         "endTime": 18420,
-        "pinyin": "Tan"
+        "pinyin": "tan"
       },
       {
         "token": "語",
@@ -588,7 +588,7 @@
   {
     "sentence_text": "変わり ませ ん 一貫 し て り ます",
     "translations": {
-      "en": "It hasn't changed; we remain consistent."
+      "en": "It remains unchanged and consistent."
     },
     "segments": [
       {
@@ -637,7 +637,7 @@
         "token": "貫",
         "startTime": 21570,
         "endTime": 22220,
-        "pinyin": "nuki"
+        "pinyin": "gan"
       },
       {
         "token": "し",
@@ -672,9 +672,9 @@
     ]
   },
   {
-    "sentence_text": "大臣 が 重ね て 示唆 し た の は 殿下 の 宝刀 、 川瀬 介入 市場 し まし た",
+    "sentence_text": "大臣 が 重ね て 示唆 し た の は 殿下 の 宝刀 、",
     "translations": {
-      "en": "The minister repeatedly hinted at the prince's treasured sword, and Kawase intervened in the market."
+      "en": "What the minister repeatedly hinted at was the prince's treasured sword,"
     },
     "segments": [
       {
@@ -699,7 +699,7 @@
         "token": "重",
         "startTime": 26800,
         "endTime": 27010,
-        "pinyin": "juu"
+        "pinyin": "e"
       },
       {
         "token": "ね",
@@ -759,7 +759,7 @@
         "token": "下",
         "startTime": 29190,
         "endTime": 29380,
-        "pinyin": "shita"
+        "pinyin": "ka"
       },
       {
         "token": "の",
@@ -784,12 +784,20 @@
         "startTime": 30580,
         "endTime": 30860,
         "pinyin": ","
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "川瀬 介入 市場 し まし た",
+    "translations": {
+      "en": "Kawase intervened in the market."
+    },
+    "segments": [
       {
         "token": "川",
         "startTime": 30860,
         "endTime": 31520,
-        "pinyin": "kawa"
+        "pinyin": "gawa"
       },
       {
         "token": "瀬",
@@ -850,7 +858,7 @@
   {
     "sentence_text": "しかし 現在 午後 3 時 時点 の 演奏 場 は 1 ドル 16 3 円 8 銭 と",
     "translations": {
-      "en": "However, as of 3 p.m., the exchange rate stands at 163.8 yen to the dollar."
+      "en": "However, as of 3 p.m., the exchange rate is 163.8 yen to the dollar,"
     },
     "segments": [
       {
@@ -887,7 +895,7 @@
         "token": "午",
         "startTime": 37240,
         "endTime": 37470,
-        "pinyin": "uma"
+        "pinyin": "hiru"
       },
       {
         "token": "後",
@@ -904,18 +912,18 @@
       {
         "token": "時",
         "startTime": 38020,
-        "endTime": 38160,
-        "pinyin": "ji"
+        "endTime": 38140,
+        "pinyin": "toki"
       },
       {
         "token": "時",
-        "startTime": 38160,
-        "endTime": 38300,
-        "pinyin": "ji"
+        "startTime": 38140,
+        "endTime": 38280,
+        "pinyin": "toki"
       },
       {
         "token": "点",
-        "startTime": 38300,
+        "startTime": 38280,
         "endTime": 38420,
         "pinyin": "ten"
       },
@@ -935,7 +943,7 @@
         "token": "奏",
         "startTime": 38870,
         "endTime": 39080,
-        "pinyin": "sou"
+        "pinyin": "kanade"
       },
       {
         "token": "場",
@@ -1001,7 +1009,7 @@
         "token": "銭",
         "startTime": 41620,
         "endTime": 41740,
-        "pinyin": "Sen"
+        "pinyin": "sen"
       },
       {
         "token": "と",
@@ -1014,7 +1022,7 @@
   {
     "sentence_text": "市場 に 大きな 反応 は 見 られ ませ ん",
     "translations": {
-      "en": "No major reaction is seen in the market."
+      "en": "And no major reaction is seen in the market."
     },
     "segments": [
       {
@@ -1063,7 +1071,7 @@
         "token": "応",
         "startTime": 43240,
         "endTime": 43380,
-        "pinyin": "ou"
+        "pinyin": "kotae"
       },
       {
         "token": "は",
@@ -1110,9 +1118,9 @@
     ]
   },
   {
-    "sentence_text": "演奏 場 は 昨日 から 急落 し",
+    "sentence_text": "演奏 場 は 昨日 から 急落 し 深夜 に およそ 40 年 ぶり の 水準 と なる",
     "translations": {
-      "en": "The exchange rate has plunged since yesterday."
+      "en": "The exchange rate has plummeted since yesterday, reaching levels not seen in about 40 years late at night,"
     },
     "segments": [
       {
@@ -1125,7 +1133,7 @@
         "token": "奏",
         "startTime": 48110,
         "endTime": 48300,
-        "pinyin": "sou"
+        "pinyin": "kanade"
       },
       {
         "token": "場",
@@ -1180,15 +1188,7 @@
         "startTime": 49660,
         "endTime": 50520,
         "pinyin": "shi"
-      }
-    ]
-  },
-  {
-    "sentence_text": "深夜 に およそ 40 年 ぶり の 水準 と なる 1 ドル 16 3 円 台 を つけ まし た",
-    "translations": {
-      "en": "In the late night, it hit 163 yen to the dollar, a level not seen in about 40 years."
-    },
-    "segments": [
+      },
       {
         "token": "深",
         "startTime": 50520,
@@ -1271,7 +1271,7 @@
         "token": "準",
         "startTime": 53250,
         "endTime": 53480,
-        "pinyin": "Hitoshi"
+        "pinyin": "jun"
       },
       {
         "token": "と",
@@ -1290,7 +1290,15 @@
         "startTime": 53790,
         "endTime": 53880,
         "pinyin": "ru"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "1 ドル 16 3 円 台 を つけ まし た",
+    "translations": {
+      "en": "Hitting the 163-yen range to the dollar."
+    },
+    "segments": [
       {
         "token": "1",
         "startTime": 53880,
@@ -1380,7 +1388,7 @@
   {
     "sentence_text": "背景 に ある の は 緊迫 する イラン 情勢",
     "translations": {
-      "en": "The background is the escalating situation in Iran."
+      "en": "Behind this is the tense situation in Iran,"
     },
     "segments": [
       {
@@ -1429,13 +1437,13 @@
         "token": "緊",
         "startTime": 61740,
         "endTime": 62020,
-        "pinyin": "kin"
+        "pinyin": "?"
       },
       {
         "token": "迫",
         "startTime": 62020,
         "endTime": 62300,
-        "pinyin": "Sako"
+        "pinyin": "Hasama"
       },
       {
         "token": "す",
@@ -1484,20 +1492,20 @@
   {
     "sentence_text": "安全 資産 と さ れる ドル に 資金 が 集中 する",
     "translations": {
-      "en": "Funds are concentrating on the dollar, considered a safe asset."
+      "en": "Funds are concentrating on the dollar, considered a safe asset,"
     },
     "segments": [
       {
         "token": "安",
         "startTime": 64760,
         "endTime": 64980,
-        "pinyin": "an"
+        "pinyin": "yasu"
       },
       {
         "token": "全",
         "startTime": 64980,
         "endTime": 65200,
-        "pinyin": "Zen"
+        "pinyin": "zen"
       },
       {
         "token": "資",
@@ -1563,7 +1571,7 @@
         "token": "金",
         "startTime": 67280,
         "endTime": 67500,
-        "pinyin": "Kin"
+        "pinyin": "kane"
       },
       {
         "token": "が",
@@ -1600,7 +1608,7 @@
   {
     "sentence_text": "いわゆる 有事 の ドル 買い り まし た",
     "translations": {
-      "en": "This is the so-called dollar buying in times of crisis."
+      "en": "So-called risk-off dollar buying has occurred."
     },
     "segments": [
       {
@@ -1631,7 +1639,7 @@
         "token": "有",
         "startTime": 70180,
         "endTime": 70340,
-        "pinyin": "Yuu"
+        "pinyin": "yuu"
       },
       {
         "token": "事",
@@ -1723,7 +1731,7 @@
         "token": "替",
         "startTime": 77440,
         "endTime": 77680,
-        "pinyin": "kae"
+        "pinyin": "gae"
       },
       {
         "token": "の",
@@ -1771,7 +1779,7 @@
         "token": "受",
         "startTime": 78740,
         "endTime": 78853,
-        "pinyin": "ju"
+        "pinyin": "uke"
       },
       {
         "token": "け",
@@ -1813,7 +1821,7 @@
         "token": "渡",
         "startTime": 80300,
         "endTime": 80470,
-        "pinyin": "watashi"
+        "pinyin": "watari"
       },
       {
         "token": "航",
@@ -1838,7 +1846,7 @@
   {
     "sentence_text": "12 年 ぶり の ハワイ 旅行 へ と 向かう こちら の 家族",
     "translations": {
-      "en": "This family heading to Hawaii for the first time in 12 years."
+      "en": "This family heading to Hawaii for the first time in 12 years,"
     },
     "segments": [
       {
@@ -1905,7 +1913,7 @@
         "token": "行",
         "startTime": 99560,
         "endTime": 99740,
-        "pinyin": "Kou"
+        "pinyin": "gyou"
       },
       {
         "token": "へ",
@@ -1923,7 +1931,7 @@
         "token": "向",
         "startTime": 100060,
         "endTime": 100193,
-        "pinyin": "Mukai"
+        "pinyin": "muki"
       },
       {
         "token": "か",
@@ -1978,7 +1986,7 @@
   {
     "sentence_text": "出発 前 に 食料 を 買い揃え まし た",
     "translations": {
-      "en": "They stocked up on food before departure."
+      "en": "Stocked up on food before departure."
     },
     "segments": [
       {
@@ -2070,7 +2078,7 @@
   {
     "sentence_text": "さらに こちら の 英 会話 教室 の 先生",
     "translations": {
-      "en": "Furthermore, this English conversation school teacher."
+      "en": "Furthermore, this English conversation school teacher,"
     },
     "segments": [
       {
@@ -2137,13 +2145,13 @@
         "token": "教",
         "startTime": 117160,
         "endTime": 117350,
-        "pinyin": "kyou"
+        "pinyin": "oshie"
       },
       {
         "token": "室",
         "startTime": 117350,
         "endTime": 117540,
-        "pinyin": "muro"
+        "pinyin": "shitsu"
       },
       {
         "token": "の",
@@ -2168,7 +2176,7 @@
   {
     "sentence_text": "スーツケース の 中 を 見せ て もらう",
     "translations": {
-      "en": "Let us show the inside of the suitcase."
+      "en": "Let us show you the inside of the suitcase."
     },
     "segments": [
       {
@@ -2187,7 +2195,7 @@
         "token": "ツ",
         "startTime": 120087,
         "endTime": 120210,
-        "pinyin": "ツ"
+        "pinyin": "tsu"
       },
       {
         "token": "ケ",
@@ -2266,7 +2274,7 @@
   {
     "sentence_text": "こんな 感じ で ラーメン と か カレー と か",
     "translations": {
-      "en": "Things like ramen and curry, like this."
+      "en": "So things like ramen and curry,"
     },
     "segments": [
       {
@@ -2376,7 +2384,7 @@
   {
     "sentence_text": "カリー バッグ の 片面 は 全部 食べ物 まし た",
     "translations": {
-      "en": "One side of the curry bag was all food."
+      "en": "one side of the curry bag was all food."
     },
     "segments": [
       {
@@ -2443,7 +2451,7 @@
         "token": "全",
         "startTime": 138860,
         "endTime": 139130,
-        "pinyin": "Zen"
+        "pinyin": "zen"
       },
       {
         "token": "部",
@@ -2490,9 +2498,9 @@
     ]
   },
   {
-    "sentence_text": "パック ご飯 や 麺 など 実 に 12 食分",
+    "sentence_text": "パック ご飯 や 麺 など 実 に 12 食 分",
     "translations": {
-      "en": "A full 12 servings, including packaged rice and noodles."
+      "en": "packed rice and noodles, a total of 12 servings."
     },
     "segments": [
       {
@@ -2511,7 +2519,7 @@
         "token": "ク",
         "startTime": 143360,
         "endTime": 143480,
-        "pinyin": "ku"
+        "pinyin": "Ku"
       },
       {
         "token": "ご",
@@ -2553,7 +2561,7 @@
         "token": "実",
         "startTime": 144700,
         "endTime": 145260,
-        "pinyin": "jitsu"
+        "pinyin": "ji"
       },
       {
         "token": "に",
@@ -2590,14 +2598,14 @@
   {
     "sentence_text": "実 は これ ハワイ で 研修 中 の 教え子 たち が",
     "translations": {
-      "en": "Actually, these were brought by my former students training in Hawaii"
+      "en": "Actually, these were brought by my students training in Hawaii"
     },
     "segments": [
       {
         "token": "実",
         "startTime": 148580,
         "endTime": 148820,
-        "pinyin": "jitsu"
+        "pinyin": "ji"
       },
       {
         "token": "は",
@@ -2645,7 +2653,7 @@
         "token": "研",
         "startTime": 150900,
         "endTime": 151120,
-        "pinyin": "Ken"
+        "pinyin": "ken"
       },
       {
         "token": "修",
@@ -2669,7 +2677,7 @@
         "token": "教",
         "startTime": 151760,
         "endTime": 151920,
-        "pinyin": "kyou"
+        "pinyin": "oshie"
       },
       {
         "token": "え",
@@ -2719,7 +2727,7 @@
         "token": "炊",
         "startTime": 153110,
         "endTime": 153460,
-        "pinyin": "sui"
+        "pinyin": "?"
       },
       {
         "token": "で",
@@ -2798,7 +2806,7 @@
   {
     "sentence_text": "無駄 な ところ は 省い て できる だけ 節約 と いう の あり ます",
     "translations": {
-      "en": "There's an emphasis on cutting waste and saving as much as possible."
+      "en": "There's also the idea of cutting waste and saving as much as possible."
     },
     "segments": [
       {
@@ -2895,7 +2903,7 @@
         "token": "節",
         "startTime": 161740,
         "endTime": 161920,
-        "pinyin": "fushi"
+        "pinyin": "setsu"
       },
       {
         "token": "約",
@@ -2956,7 +2964,7 @@
   {
     "sentence_text": "今後 為替 は どう 動い て いく しょう か",
     "translations": {
-      "en": "How will exchange rates move from here?"
+      "en": "How will exchange rates move from now on?"
     },
     "segments": [
       {
@@ -2981,7 +2989,7 @@
         "token": "替",
         "startTime": 167280,
         "endTime": 167660,
-        "pinyin": "kae"
+        "pinyin": "gae"
       },
       {
         "token": "は",
@@ -3060,7 +3068,7 @@
   {
     "sentence_text": "市場 で は 年内 16 5 円 台 と いう 見 方 も ある そう です",
     "translations": {
-      "en": "In the market, some see the rate hitting the 165 yen range within the year."
+      "en": "Some in the market see it hitting the 165 yen level within the year."
     },
     "segments": [
       {
@@ -3157,7 +3165,7 @@
         "token": "方",
         "startTime": 175440,
         "endTime": 175600,
-        "pinyin": "hou"
+        "pinyin": "kata"
       },
       {
         "token": "も",
@@ -3206,7 +3214,7 @@
   {
     "sentence_text": "マーケット を 見 て いる 財務 官 が 公 の 舞台 で 発言 を し て い ない こと から",
     "translations": {
-      "en": "Since the finance official monitoring the market hasn't spoken publicly,"
+      "en": "Since the finance official watching the market hasn't spoken publicly,"
     },
     "segments": [
       {
@@ -3297,7 +3305,7 @@
         "token": "公",
         "startTime": 180680,
         "endTime": 180900,
-        "pinyin": "kou"
+        "pinyin": "ooyake"
       },
       {
         "token": "の",
@@ -3309,7 +3317,7 @@
         "token": "舞",
         "startTime": 181000,
         "endTime": 181240,
-        "pinyin": "Mai"
+        "pinyin": "mai"
       },
       {
         "token": "台",
@@ -3333,7 +3341,7 @@
         "token": "言",
         "startTime": 181790,
         "endTime": 181960,
-        "pinyin": "gen"
+        "pinyin": "koto"
       },
       {
         "token": "を",
@@ -3400,7 +3408,7 @@
   {
     "sentence_text": "介入 は まだ 先 だ と そう いっ た 見 方 が 広がっ て い て",
     "translations": {
-      "en": "the view is spreading that intervention is still a ways off."
+      "en": "the view that intervention is still far off is spreading."
     },
     "segments": [
       {
@@ -3491,7 +3499,7 @@
         "token": "方",
         "startTime": 186580,
         "endTime": 186680,
-        "pinyin": "hou"
+        "pinyin": "kata"
       },
       {
         "token": "が",
@@ -3503,7 +3511,7 @@
         "token": "広",
         "startTime": 186740,
         "endTime": 186940,
-        "pinyin": "Hiroshi"
+        "pinyin": "kou"
       },
       {
         "token": "が",
@@ -3619,7 +3627,7 @@
         "token": "通",
         "startTime": 189940,
         "endTime": 190260,
-        "pinyin": "Tsuu"
+        "pinyin": "doori"
       },
       {
         "token": "し",
@@ -3637,7 +3645,7 @@
         "token": "立",
         "startTime": 190780,
         "endTime": 190930,
-        "pinyin": "tate"
+        "pinyin": "ri"
       },
       {
         "token": "っ",
@@ -3692,7 +3700,7 @@
   {
     "sentence_text": "日本 や 世界 経済 は アメリカ 外貨 に 支え られ て いる 現状 が ある の で",
     "translations": {
-      "en": "and the reality that Japan and the global economy rely on the US dollar,"
+      "en": "and the fact that Japan and the global economy are supported by US foreign currency,"
     },
     "segments": [
       {
@@ -3723,19 +3731,19 @@
         "token": "界",
         "startTime": 193090,
         "endTime": 193280,
-        "pinyin": "sakai"
+        "pinyin": "kai"
       },
       {
         "token": "経",
         "startTime": 193280,
         "endTime": 193410,
-        "pinyin": "kyou"
+        "pinyin": "he"
       },
       {
         "token": "済",
         "startTime": 193410,
         "endTime": 193540,
-        "pinyin": "sumi"
+        "pinyin": "zumi"
       },
       {
         "token": "は",
@@ -3789,7 +3797,7 @@
         "token": "支",
         "startTime": 195080,
         "endTime": 195220,
-        "pinyin": "shi"
+        "pinyin": "eda"
       },
       {
         "token": "え",
@@ -3874,7 +3882,7 @@
   {
     "sentence_text": "ドル の 需要 が 依然 と し て 高く 構造 的 な 円安",
     "translations": {
-      "en": "demand for the dollar remains high, leading to structural yen weakness."
+      "en": "dollar demand remains high, leading to a structural yen weakness."
     },
     "segments": [
       {
@@ -3917,13 +3925,13 @@
         "token": "依",
         "startTime": 198820,
         "endTime": 199020,
-        "pinyin": "i"
+        "pinyin": "?"
       },
       {
         "token": "然",
         "startTime": 199020,
         "endTime": 199220,
-        "pinyin": "sa"
+        "pinyin": "sou"
       },
       {
         "token": "と",
@@ -3965,13 +3973,13 @@
         "token": "造",
         "startTime": 200210,
         "endTime": 200280,
-        "pinyin": "tsukuri"
+        "pinyin": "zukuri"
       },
       {
         "token": "的",
         "startTime": 200280,
         "endTime": 201100,
-        "pinyin": "mato"
+        "pinyin": "teki"
       },
       {
         "token": "な",
@@ -3989,7 +3997,7 @@
         "token": "安",
         "startTime": 201350,
         "endTime": 201420,
-        "pinyin": "an"
+        "pinyin": "yasu"
       }
     ]
   },
@@ -4051,7 +4059,7 @@
         "token": "準",
         "startTime": 202870,
         "endTime": 203120,
-        "pinyin": "Hitoshi"
+        "pinyin": "jun"
       },
       {
         "token": "は",
@@ -4063,13 +4071,13 @@
         "token": "通",
         "startTime": 203360,
         "endTime": 203680,
-        "pinyin": "Tsuu"
+        "pinyin": "doori"
       },
       {
         "token": "過",
         "startTime": 203680,
         "endTime": 204000,
-        "pinyin": "sugi"
+        "pinyin": "ka"
       },
       {
         "token": "点",
@@ -4135,7 +4143,7 @@
         "token": "係",
         "startTime": 205760,
         "endTime": 205880,
-        "pinyin": "kakari"
+        "pinyin": "gakari"
       },
       {
         "token": "者",
@@ -4153,7 +4161,7 @@
         "token": "多",
         "startTime": 206680,
         "endTime": 206840,
-        "pinyin": "sawa"
+        "pinyin": "ta"
       },
       {
         "token": "く",
@@ -4233,7 +4241,7 @@
         "token": "方",
         "startTime": 208920,
         "endTime": 209060,
-        "pinyin": "hou"
+        "pinyin": "kata"
       },
       {
         "token": "も",
@@ -4245,7 +4253,7 @@
         "token": "広",
         "startTime": 209200,
         "endTime": 209287,
-        "pinyin": "Hiroshi"
+        "pinyin": "kou"
       },
       {
         "token": "が",
@@ -4295,7 +4303,7 @@
         "token": "視",
         "startTime": 256740,
         "endTime": 256760,
-        "pinyin": "mi"
+        "pinyin": "shi"
       },
       {
         "token": "聴",
