@@ -1,0 +1,558 @@
+[
+  {
+    "sentence_text": "気象 庁 は 関東 甲信 と 東海 地方 の 梅雨明け を 発表 し まし た 。",
+    "translations": {
+      "en": "The Japan Meteorological Agency has announced the end of the rainy season for the Kanto-Koshin and Tokai regions."
+    },
+    "segments": [
+      {
+        "token": "気象",
+        "startTime": 920,
+        "endTime": 1381,
+        "pinyin": "kishou"
+      },
+      {
+        "token": "庁",
+        "startTime": 1381,
+        "endTime": 1843,
+        "pinyin": "chou"
+      },
+      {
+        "token": "は",
+        "startTime": 1843,
+        "endTime": 2304,
+        "pinyin": "wa"
+      },
+      {
+        "token": "関東",
+        "startTime": 2304,
+        "endTime": 2765,
+        "pinyin": "Kantou"
+      },
+      {
+        "token": "甲信",
+        "startTime": 2765,
+        "endTime": 3226,
+        "pinyin": "Koushin"
+      },
+      {
+        "token": "と",
+        "startTime": 3226,
+        "endTime": 3688,
+        "pinyin": "to"
+      },
+      {
+        "token": "東海",
+        "startTime": 3688,
+        "endTime": 4149,
+        "pinyin": "Toukai"
+      },
+      {
+        "token": "地方",
+        "startTime": 4149,
+        "endTime": 4610,
+        "pinyin": "chihou"
+      },
+      {
+        "token": "の",
+        "startTime": 4610,
+        "endTime": 5071,
+        "pinyin": "no"
+      },
+      {
+        "token": "梅雨明け",
+        "startTime": 5071,
+        "endTime": 5533,
+        "pinyin": "tsuyuake"
+      },
+      {
+        "token": "を",
+        "startTime": 5533,
+        "endTime": 5994,
+        "pinyin": "wo"
+      },
+      {
+        "token": "発表",
+        "startTime": 5994,
+        "endTime": 6455,
+        "pinyin": "happyou"
+      },
+      {
+        "token": "し",
+        "startTime": 6455,
+        "endTime": 6916,
+        "pinyin": "shi"
+      },
+      {
+        "token": "まし",
+        "startTime": 6916,
+        "endTime": 7378,
+        "pinyin": "mashi"
+      },
+      {
+        "token": "た",
+        "startTime": 7378,
+        "endTime": 7839,
+        "pinyin": "ta"
+      },
+      {
+        "token": "。",
+        "startTime": 7839,
+        "endTime": 8300,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "夏 の 太平 洋 高 気圧 が 一段 と 勢力 を 強め い ます 。",
+    "translations": {
+      "en": "The summer Pacific high-pressure system is strengthening further."
+    },
+    "segments": [
+      {
+        "token": "夏",
+        "startTime": 8300,
+        "endTime": 8629,
+        "pinyin": "natsu"
+      },
+      {
+        "token": "の",
+        "startTime": 8629,
+        "endTime": 8959,
+        "pinyin": "no"
+      },
+      {
+        "token": "太平",
+        "startTime": 8959,
+        "endTime": 9288,
+        "pinyin": "taihei"
+      },
+      {
+        "token": "洋",
+        "startTime": 9288,
+        "endTime": 9617,
+        "pinyin": "you"
+      },
+      {
+        "token": "高",
+        "startTime": 9617,
+        "endTime": 9947,
+        "pinyin": "kou"
+      },
+      {
+        "token": "気圧",
+        "startTime": 9947,
+        "endTime": 10276,
+        "pinyin": "kiatsu"
+      },
+      {
+        "token": "が",
+        "startTime": 10276,
+        "endTime": 10605,
+        "pinyin": "ga"
+      },
+      {
+        "token": "一段",
+        "startTime": 10605,
+        "endTime": 10935,
+        "pinyin": "ichidan"
+      },
+      {
+        "token": "と",
+        "startTime": 10935,
+        "endTime": 11264,
+        "pinyin": "to"
+      },
+      {
+        "token": "勢力",
+        "startTime": 11264,
+        "endTime": 11593,
+        "pinyin": "seiryoku"
+      },
+      {
+        "token": "を",
+        "startTime": 11593,
+        "endTime": 11923,
+        "pinyin": "wo"
+      },
+      {
+        "token": "強め",
+        "startTime": 11923,
+        "endTime": 12252,
+        "pinyin": "tsuyome"
+      },
+      {
+        "token": "い",
+        "startTime": 12252,
+        "endTime": 12581,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 12581,
+        "endTime": 12911,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 12911,
+        "endTime": 13240,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "この 先 、 東 日本 で も 安定 し た 夏空 が 続く 見通し と なっ から 、",
+    "translations": {
+      "en": "From now on, stable summer skies are expected to continue even in eastern Japan."
+    },
+    "segments": [
+      {
+        "token": "この",
+        "startTime": 13240,
+        "endTime": 13531,
+        "pinyin": "kono"
+      },
+      {
+        "token": "先",
+        "startTime": 13531,
+        "endTime": 13822,
+        "pinyin": "saki"
+      },
+      {
+        "token": "、",
+        "startTime": 13822,
+        "endTime": 14113,
+        "pinyin": ","
+      },
+      {
+        "token": "東",
+        "startTime": 14113,
+        "endTime": 14404,
+        "pinyin": "higashi"
+      },
+      {
+        "token": "日本",
+        "startTime": 14404,
+        "endTime": 14696,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "で",
+        "startTime": 14696,
+        "endTime": 14987,
+        "pinyin": "de"
+      },
+      {
+        "token": "も",
+        "startTime": 14987,
+        "endTime": 15278,
+        "pinyin": "mo"
+      },
+      {
+        "token": "安定",
+        "startTime": 15278,
+        "endTime": 15569,
+        "pinyin": "antei"
+      },
+      {
+        "token": "し",
+        "startTime": 15569,
+        "endTime": 15860,
+        "pinyin": "shi"
+      },
+      {
+        "token": "た",
+        "startTime": 15860,
+        "endTime": 16151,
+        "pinyin": "ta"
+      },
+      {
+        "token": "夏空",
+        "startTime": 16151,
+        "endTime": 16442,
+        "pinyin": "natsuzora"
+      },
+      {
+        "token": "が",
+        "startTime": 16442,
+        "endTime": 16733,
+        "pinyin": "ga"
+      },
+      {
+        "token": "続く",
+        "startTime": 16733,
+        "endTime": 17024,
+        "pinyin": "tsuzuku"
+      },
+      {
+        "token": "見通し",
+        "startTime": 17024,
+        "endTime": 17316,
+        "pinyin": "mitooshi"
+      },
+      {
+        "token": "と",
+        "startTime": 17316,
+        "endTime": 17607,
+        "pinyin": "to"
+      },
+      {
+        "token": "なっ",
+        "startTime": 17607,
+        "endTime": 17898,
+        "pinyin": "na"
+      },
+      {
+        "token": "から",
+        "startTime": 17898,
+        "endTime": 18189,
+        "pinyin": "kara"
+      },
+      {
+        "token": "、",
+        "startTime": 18189,
+        "endTime": 18480,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "気象 庁 は 午前 11 時 に 関東 甲信 と 東海 地方 が 梅雨明け し た と み られる と 発表 し まし た 。",
+    "translations": {
+      "en": "At 11 a.m., the agency announced that the rainy season appears to have ended in the Kanto-Koshin and Tokai regions."
+    },
+    "segments": [
+      {
+        "token": "気象",
+        "startTime": 18480,
+        "endTime": 18825,
+        "pinyin": "kishou"
+      },
+      {
+        "token": "庁",
+        "startTime": 18825,
+        "endTime": 19170,
+        "pinyin": "chou"
+      },
+      {
+        "token": "は",
+        "startTime": 19170,
+        "endTime": 19514,
+        "pinyin": "wa"
+      },
+      {
+        "token": "午前",
+        "startTime": 19514,
+        "endTime": 19859,
+        "pinyin": "gozen"
+      },
+      {
+        "token": "11",
+        "startTime": 19859,
+        "endTime": 20204,
+        "pinyin": "11"
+      },
+      {
+        "token": "時",
+        "startTime": 20204,
+        "endTime": 20549,
+        "pinyin": "toki"
+      },
+      {
+        "token": "に",
+        "startTime": 20549,
+        "endTime": 20894,
+        "pinyin": "ni"
+      },
+      {
+        "token": "関東",
+        "startTime": 20894,
+        "endTime": 21238,
+        "pinyin": "Kantou"
+      },
+      {
+        "token": "甲信",
+        "startTime": 21238,
+        "endTime": 21583,
+        "pinyin": "Koushin"
+      },
+      {
+        "token": "と",
+        "startTime": 21583,
+        "endTime": 21928,
+        "pinyin": "to"
+      },
+      {
+        "token": "東海",
+        "startTime": 21928,
+        "endTime": 22273,
+        "pinyin": "Toukai"
+      },
+      {
+        "token": "地方",
+        "startTime": 22273,
+        "endTime": 22618,
+        "pinyin": "chihou"
+      },
+      {
+        "token": "が",
+        "startTime": 22618,
+        "endTime": 22962,
+        "pinyin": "ga"
+      },
+      {
+        "token": "梅雨明け",
+        "startTime": 22962,
+        "endTime": 23307,
+        "pinyin": "tsuyuake"
+      },
+      {
+        "token": "し",
+        "startTime": 23307,
+        "endTime": 23652,
+        "pinyin": "shi"
+      },
+      {
+        "token": "た",
+        "startTime": 23652,
+        "endTime": 23997,
+        "pinyin": "ta"
+      },
+      {
+        "token": "と",
+        "startTime": 23997,
+        "endTime": 24342,
+        "pinyin": "to"
+      },
+      {
+        "token": "み",
+        "startTime": 24342,
+        "endTime": 24686,
+        "pinyin": "mi"
+      },
+      {
+        "token": "られる",
+        "startTime": 24686,
+        "endTime": 25031,
+        "pinyin": "rareru"
+      },
+      {
+        "token": "と",
+        "startTime": 25031,
+        "endTime": 25376,
+        "pinyin": "to"
+      },
+      {
+        "token": "発表",
+        "startTime": 25376,
+        "endTime": 25721,
+        "pinyin": "happyou"
+      },
+      {
+        "token": "し",
+        "startTime": 25721,
+        "endTime": 26066,
+        "pinyin": "shi"
+      },
+      {
+        "token": "まし",
+        "startTime": 26066,
+        "endTime": 26410,
+        "pinyin": "mashi"
+      },
+      {
+        "token": "た",
+        "startTime": 26410,
+        "endTime": 26755,
+        "pinyin": "ta"
+      },
+      {
+        "token": "。",
+        "startTime": 26755,
+        "endTime": 27100,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "いずれ も 平年 より 1日 遅い 梅雨明け と なり まし た 。",
+    "translations": {
+      "en": "In both areas, the end of the rainy season came one day later than average."
+    },
+    "segments": [
+      {
+        "token": "いずれ",
+        "startTime": 27100,
+        "endTime": 27423,
+        "pinyin": "izure"
+      },
+      {
+        "token": "も",
+        "startTime": 27423,
+        "endTime": 27747,
+        "pinyin": "mo"
+      },
+      {
+        "token": "平年",
+        "startTime": 27747,
+        "endTime": 28070,
+        "pinyin": "heinen"
+      },
+      {
+        "token": "より",
+        "startTime": 28070,
+        "endTime": 28393,
+        "pinyin": "yori"
+      },
+      {
+        "token": "1日",
+        "startTime": 28393,
+        "endTime": 28717,
+        "pinyin": "tsuitachi"
+      },
+      {
+        "token": "遅い",
+        "startTime": 28717,
+        "endTime": 29040,
+        "pinyin": "osoi"
+      },
+      {
+        "token": "梅雨明け",
+        "startTime": 29040,
+        "endTime": 29363,
+        "pinyin": "tsuyuake"
+      },
+      {
+        "token": "と",
+        "startTime": 29363,
+        "endTime": 29687,
+        "pinyin": "to"
+      },
+      {
+        "token": "なり",
+        "startTime": 29687,
+        "endTime": 30010,
+        "pinyin": "nari"
+      },
+      {
+        "token": "まし",
+        "startTime": 30010,
+        "endTime": 30333,
+        "pinyin": "mashi"
+      },
+      {
+        "token": "た",
+        "startTime": 30333,
+        "endTime": 30657,
+        "pinyin": "ta"
+      },
+      {
+        "token": "。",
+        "startTime": 30657,
+        "endTime": 30980,
+        "pinyin": "."
+      }
+    ]
+  }
+]
