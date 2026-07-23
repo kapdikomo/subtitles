@@ -1,0 +1,6398 @@
+[
+  {
+    "sentence_text": "みな さん こんにちは ! 日本 語 教師 の 出",
+    "translations": {
+      "en": "Hello everyone! I'm De"
+    },
+    "segments": [
+      {
+        "token": "みな",
+        "startTime": 460,
+        "endTime": 687,
+        "pinyin": "mina"
+      },
+      {
+        "token": "さん",
+        "startTime": 687,
+        "endTime": 913,
+        "pinyin": "san"
+      },
+      {
+        "token": "こんにちは",
+        "startTime": 913,
+        "endTime": 1140,
+        "pinyin": "konnichiha"
+      },
+      {
+        "token": "!",
+        "startTime": 1140,
+        "endTime": 1367,
+        "pinyin": "!"
+      },
+      {
+        "token": "日本",
+        "startTime": 1367,
+        "endTime": 1593,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 1593,
+        "endTime": 1820,
+        "pinyin": "go"
+      },
+      {
+        "token": "教師",
+        "startTime": 1820,
+        "endTime": 2047,
+        "pinyin": "kyoushi"
+      },
+      {
+        "token": "の",
+        "startTime": 2047,
+        "endTime": 2273,
+        "pinyin": "no"
+      },
+      {
+        "token": "出",
+        "startTime": 2273,
+        "endTime": 2500,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "塚 です 。",
+    "translations": {
+      "en": "zuka, a Japanese teacher."
+    },
+    "segments": [
+      {
+        "token": "塚",
+        "startTime": 2500,
+        "endTime": 2860,
+        "pinyin": "zuka"
+      },
+      {
+        "token": "です",
+        "startTime": 2860,
+        "endTime": 3220,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 3220,
+        "endTime": 3580,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "今日 は 、 場所 を 表す に と で に",
+    "translations": {
+      "en": "Today, we'll study \"ni\" and \"de\""
+    },
+    "segments": [
+      {
+        "token": "今日",
+        "startTime": 3580,
+        "endTime": 3910,
+        "pinyin": "kyou"
+      },
+      {
+        "token": "は",
+        "startTime": 3910,
+        "endTime": 4240,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 4240,
+        "endTime": 4570,
+        "pinyin": ","
+      },
+      {
+        "token": "場所",
+        "startTime": 4570,
+        "endTime": 4900,
+        "pinyin": "basho"
+      },
+      {
+        "token": "を",
+        "startTime": 4900,
+        "endTime": 5230,
+        "pinyin": "wo"
+      },
+      {
+        "token": "表す",
+        "startTime": 5230,
+        "endTime": 5560,
+        "pinyin": "arawasu"
+      },
+      {
+        "token": "に",
+        "startTime": 5560,
+        "endTime": 5890,
+        "pinyin": "ni"
+      },
+      {
+        "token": "と",
+        "startTime": 5890,
+        "endTime": 6220,
+        "pinyin": "to"
+      },
+      {
+        "token": "で",
+        "startTime": 6220,
+        "endTime": 6550,
+        "pinyin": "de"
+      },
+      {
+        "token": "に",
+        "startTime": 6550,
+        "endTime": 6880,
+        "pinyin": "ni"
+      }
+    ]
+  },
+  {
+    "sentence_text": "つい て 勉強 し と 思い ます 。",
+    "translations": {
+      "en": "for indicating location."
+    },
+    "segments": [
+      {
+        "token": "つい",
+        "startTime": 6880,
+        "endTime": 7248,
+        "pinyin": "tsui"
+      },
+      {
+        "token": "て",
+        "startTime": 7248,
+        "endTime": 7615,
+        "pinyin": "te"
+      },
+      {
+        "token": "勉強",
+        "startTime": 7615,
+        "endTime": 7983,
+        "pinyin": "benkyou"
+      },
+      {
+        "token": "し",
+        "startTime": 7983,
+        "endTime": 8350,
+        "pinyin": "shi"
+      },
+      {
+        "token": "と",
+        "startTime": 8350,
+        "endTime": 8718,
+        "pinyin": "to"
+      },
+      {
+        "token": "思い",
+        "startTime": 8718,
+        "endTime": 9085,
+        "pinyin": "omoi"
+      },
+      {
+        "token": "ます",
+        "startTime": 9085,
+        "endTime": 9453,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 9453,
+        "endTime": 9820,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "日本 語 が 上手 な 人 で も 、 時",
+    "translations": {
+      "en": "Even people good at Japanese"
+    },
+    "segments": [
+      {
+        "token": "日本",
+        "startTime": 9820,
+        "endTime": 10060,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 10060,
+        "endTime": 10300,
+        "pinyin": "go"
+      },
+      {
+        "token": "が",
+        "startTime": 10300,
+        "endTime": 10540,
+        "pinyin": "ga"
+      },
+      {
+        "token": "上手",
+        "startTime": 10540,
+        "endTime": 10780,
+        "pinyin": "uwate"
+      },
+      {
+        "token": "な",
+        "startTime": 10780,
+        "endTime": 11020,
+        "pinyin": "na"
+      },
+      {
+        "token": "人",
+        "startTime": 11020,
+        "endTime": 11260,
+        "pinyin": "hito"
+      },
+      {
+        "token": "で",
+        "startTime": 11260,
+        "endTime": 11500,
+        "pinyin": "de"
+      },
+      {
+        "token": "も",
+        "startTime": 11500,
+        "endTime": 11740,
+        "pinyin": "mo"
+      },
+      {
+        "token": "、",
+        "startTime": 11740,
+        "endTime": 11980,
+        "pinyin": ","
+      },
+      {
+        "token": "時",
+        "startTime": 11980,
+        "endTime": 12220,
+        "pinyin": "toki"
+      }
+    ]
+  },
+  {
+    "sentence_text": "々 間違え て しまう この に",
+    "translations": {
+      "en": "sometimes mix up this \"ni\""
+    },
+    "segments": [
+      {
+        "token": "々",
+        "startTime": 12220,
+        "endTime": 12460,
+        "pinyin": "々"
+      },
+      {
+        "token": "間違え",
+        "startTime": 12460,
+        "endTime": 13260,
+        "pinyin": "machigae"
+      },
+      {
+        "token": "て",
+        "startTime": 13260,
+        "endTime": 13540,
+        "pinyin": "te"
+      },
+      {
+        "token": "しまう",
+        "startTime": 13540,
+        "endTime": 14160,
+        "pinyin": "shimau"
+      },
+      {
+        "token": "この",
+        "startTime": 14160,
+        "endTime": 14680,
+        "pinyin": "kono"
+      },
+      {
+        "token": "に",
+        "startTime": 14680,
+        "endTime": 15740,
+        "pinyin": "ni"
+      }
+    ]
+  },
+  {
+    "sentence_text": "と で 。 英語 と か 中国 語",
+    "translations": {
+      "en": "and \"de\". It's a Japanese thing"
+    },
+    "segments": [
+      {
+        "token": "と",
+        "startTime": 15740,
+        "endTime": 15980,
+        "pinyin": "to"
+      },
+      {
+        "token": "で",
+        "startTime": 15980,
+        "endTime": 16140,
+        "pinyin": "de"
+      },
+      {
+        "token": "。",
+        "startTime": 16140,
+        "endTime": 16460,
+        "pinyin": "."
+      },
+      {
+        "token": "英語",
+        "startTime": 16460,
+        "endTime": 17160,
+        "pinyin": "eigo"
+      },
+      {
+        "token": "と",
+        "startTime": 17160,
+        "endTime": 17480,
+        "pinyin": "to"
+      },
+      {
+        "token": "か",
+        "startTime": 17480,
+        "endTime": 17780,
+        "pinyin": "ka"
+      },
+      {
+        "token": "中国",
+        "startTime": 17780,
+        "endTime": 18140,
+        "pinyin": "Chuugoku"
+      },
+      {
+        "token": "語",
+        "startTime": 18140,
+        "endTime": 18740,
+        "pinyin": "go"
+      }
+    ]
+  },
+  {
+    "sentence_text": "に は ない 日本 語 です ね 。",
+    "translations": {
+      "en": "that English and Chinese don't have."
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 18740,
+        "endTime": 19107,
+        "pinyin": "ni"
+      },
+      {
+        "token": "は",
+        "startTime": 19107,
+        "endTime": 19475,
+        "pinyin": "wa"
+      },
+      {
+        "token": "ない",
+        "startTime": 19475,
+        "endTime": 19842,
+        "pinyin": "nai"
+      },
+      {
+        "token": "日本",
+        "startTime": 19842,
+        "endTime": 20210,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 20210,
+        "endTime": 20578,
+        "pinyin": "go"
+      },
+      {
+        "token": "です",
+        "startTime": 20578,
+        "endTime": 20945,
+        "pinyin": "desu"
+      },
+      {
+        "token": "ね",
+        "startTime": 20945,
+        "endTime": 21313,
+        "pinyin": "ne"
+      },
+      {
+        "token": "。",
+        "startTime": 21313,
+        "endTime": 21680,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "みな さん は に と で を 使い分ける",
+    "translations": {
+      "en": "Can you use \"ni\" and \"de\""
+    },
+    "segments": [
+      {
+        "token": "みな",
+        "startTime": 21680,
+        "endTime": 21960,
+        "pinyin": "mina"
+      },
+      {
+        "token": "さん",
+        "startTime": 21960,
+        "endTime": 22160,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 22160,
+        "endTime": 22480,
+        "pinyin": "wa"
+      },
+      {
+        "token": "に",
+        "startTime": 22480,
+        "endTime": 23020,
+        "pinyin": "ni"
+      },
+      {
+        "token": "と",
+        "startTime": 23020,
+        "endTime": 23260,
+        "pinyin": "to"
+      },
+      {
+        "token": "で",
+        "startTime": 23260,
+        "endTime": 23460,
+        "pinyin": "de"
+      },
+      {
+        "token": "を",
+        "startTime": 23460,
+        "endTime": 23600,
+        "pinyin": "wo"
+      },
+      {
+        "token": "使い分ける",
+        "startTime": 23600,
+        "endTime": 24440,
+        "pinyin": "tsukaiwakeru"
+      }
+    ]
+  },
+  {
+    "sentence_text": "こと が でき ます か",
+    "translations": {
+      "en": "correctly"
+    },
+    "segments": [
+      {
+        "token": "こと",
+        "startTime": 24440,
+        "endTime": 24944,
+        "pinyin": "koto"
+      },
+      {
+        "token": "が",
+        "startTime": 24944,
+        "endTime": 25448,
+        "pinyin": "ga"
+      },
+      {
+        "token": "でき",
+        "startTime": 25448,
+        "endTime": 25952,
+        "pinyin": "deki"
+      },
+      {
+        "token": "ます",
+        "startTime": 25952,
+        "endTime": 26456,
+        "pinyin": "masu"
+      },
+      {
+        "token": "か",
+        "startTime": 26456,
+        "endTime": 26960,
+        "pinyin": "ka"
+      }
+    ]
+  },
+  {
+    "sentence_text": "? この ビデオ で 、",
+    "translations": {
+      "en": "? In this video,"
+    },
+    "segments": [
+      {
+        "token": "?",
+        "startTime": 26960,
+        "endTime": 27060,
+        "pinyin": "?"
+      },
+      {
+        "token": "この",
+        "startTime": 27060,
+        "endTime": 27420,
+        "pinyin": "kono"
+      },
+      {
+        "token": "ビデオ",
+        "startTime": 27420,
+        "endTime": 28160,
+        "pinyin": "bideo"
+      },
+      {
+        "token": "で",
+        "startTime": 28160,
+        "endTime": 28260,
+        "pinyin": "de"
+      },
+      {
+        "token": "、",
+        "startTime": 28260,
+        "endTime": 28440,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "に と で の 違い って 、",
+    "translations": {
+      "en": "let's make sure we"
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 28440,
+        "endTime": 28734,
+        "pinyin": "ni"
+      },
+      {
+        "token": "と",
+        "startTime": 28734,
+        "endTime": 29029,
+        "pinyin": "to"
+      },
+      {
+        "token": "で",
+        "startTime": 29029,
+        "endTime": 29323,
+        "pinyin": "de"
+      },
+      {
+        "token": "の",
+        "startTime": 29323,
+        "endTime": 29617,
+        "pinyin": "no"
+      },
+      {
+        "token": "違い",
+        "startTime": 29617,
+        "endTime": 29911,
+        "pinyin": "chigai"
+      },
+      {
+        "token": "って",
+        "startTime": 29911,
+        "endTime": 30206,
+        "pinyin": "tte"
+      },
+      {
+        "token": "、",
+        "startTime": 30206,
+        "endTime": 30500,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "もう 間違え ない よう に し ましょう 。",
+    "translations": {
+      "en": "never confuse \"ni\" and \"de\" again."
+    },
+    "segments": [
+      {
+        "token": "もう",
+        "startTime": 30500,
+        "endTime": 30845,
+        "pinyin": "mou"
+      },
+      {
+        "token": "間違え",
+        "startTime": 30845,
+        "endTime": 31190,
+        "pinyin": "machigae"
+      },
+      {
+        "token": "ない",
+        "startTime": 31190,
+        "endTime": 31535,
+        "pinyin": "nai"
+      },
+      {
+        "token": "よう",
+        "startTime": 31535,
+        "endTime": 31880,
+        "pinyin": "you"
+      },
+      {
+        "token": "に",
+        "startTime": 31880,
+        "endTime": 32225,
+        "pinyin": "ni"
+      },
+      {
+        "token": "し",
+        "startTime": 32225,
+        "endTime": 32570,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ましょう",
+        "startTime": 32570,
+        "endTime": 32915,
+        "pinyin": "mashou"
+      },
+      {
+        "token": "。",
+        "startTime": 32915,
+        "endTime": 33260,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "まず 、 簡単 に 復習 し たい と 思い ます 。",
+    "translations": {
+      "en": "First, let's do a quick review."
+    },
+    "segments": [
+      {
+        "token": "まず",
+        "startTime": 33260,
+        "endTime": 33551,
+        "pinyin": "mazu"
+      },
+      {
+        "token": "、",
+        "startTime": 33551,
+        "endTime": 33842,
+        "pinyin": ","
+      },
+      {
+        "token": "簡単",
+        "startTime": 33842,
+        "endTime": 34133,
+        "pinyin": "kantan"
+      },
+      {
+        "token": "に",
+        "startTime": 34133,
+        "endTime": 34424,
+        "pinyin": "ni"
+      },
+      {
+        "token": "復習",
+        "startTime": 34424,
+        "endTime": 34715,
+        "pinyin": "fukushuu"
+      },
+      {
+        "token": "し",
+        "startTime": 34715,
+        "endTime": 35005,
+        "pinyin": "shi"
+      },
+      {
+        "token": "たい",
+        "startTime": 35005,
+        "endTime": 35296,
+        "pinyin": "tai"
+      },
+      {
+        "token": "と",
+        "startTime": 35296,
+        "endTime": 35587,
+        "pinyin": "to"
+      },
+      {
+        "token": "思い",
+        "startTime": 35587,
+        "endTime": 35878,
+        "pinyin": "omoi"
+      },
+      {
+        "token": "ます",
+        "startTime": 35878,
+        "endTime": 36169,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 36169,
+        "endTime": 36460,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "みな さん 、",
+    "translations": {
+      "en": "Everyone,"
+    },
+    "segments": [
+      {
+        "token": "みな",
+        "startTime": 36460,
+        "endTime": 36847,
+        "pinyin": "mina"
+      },
+      {
+        "token": "さん",
+        "startTime": 36847,
+        "endTime": 37233,
+        "pinyin": "san"
+      },
+      {
+        "token": "、",
+        "startTime": 37233,
+        "endTime": 37620,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "猫 カフェ に 行っ た こと あり ます か",
+    "translations": {
+      "en": "have you ever been to a cat café"
+    },
+    "segments": [
+      {
+        "token": "猫",
+        "startTime": 37620,
+        "endTime": 38004,
+        "pinyin": "neko"
+      },
+      {
+        "token": "カフェ",
+        "startTime": 38004,
+        "endTime": 38389,
+        "pinyin": "kafe"
+      },
+      {
+        "token": "に",
+        "startTime": 38389,
+        "endTime": 38773,
+        "pinyin": "ni"
+      },
+      {
+        "token": "行っ",
+        "startTime": 38773,
+        "endTime": 39158,
+        "pinyin": "i"
+      },
+      {
+        "token": "た",
+        "startTime": 39158,
+        "endTime": 39542,
+        "pinyin": "ta"
+      },
+      {
+        "token": "こと",
+        "startTime": 39542,
+        "endTime": 39927,
+        "pinyin": "koto"
+      },
+      {
+        "token": "あり",
+        "startTime": 39927,
+        "endTime": 40311,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 40311,
+        "endTime": 40696,
+        "pinyin": "masu"
+      },
+      {
+        "token": "か",
+        "startTime": 40696,
+        "endTime": 41080,
+        "pinyin": "ka"
+      }
+    ]
+  },
+  {
+    "sentence_text": "? に で は 、",
+    "translations": {
+      "en": "? With \"ni\" and \"de\","
+    },
+    "segments": [
+      {
+        "token": "?",
+        "startTime": 41080,
+        "endTime": 41260,
+        "pinyin": "?"
+      },
+      {
+        "token": "に",
+        "startTime": 41260,
+        "endTime": 41640,
+        "pinyin": "ni"
+      },
+      {
+        "token": "で",
+        "startTime": 41640,
+        "endTime": 42047,
+        "pinyin": "de"
+      },
+      {
+        "token": "は",
+        "startTime": 42047,
+        "endTime": 42453,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 42453,
+        "endTime": 42860,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "こんな 風 に 使い ます ね",
+    "translations": {
+      "en": "we use them like this"
+    },
+    "segments": [
+      {
+        "token": "こんな",
+        "startTime": 42860,
+        "endTime": 43310,
+        "pinyin": "konna"
+      },
+      {
+        "token": "風",
+        "startTime": 43310,
+        "endTime": 43760,
+        "pinyin": "fuu"
+      },
+      {
+        "token": "に",
+        "startTime": 43760,
+        "endTime": 44210,
+        "pinyin": "ni"
+      },
+      {
+        "token": "使い",
+        "startTime": 44210,
+        "endTime": 44660,
+        "pinyin": "tsukai"
+      },
+      {
+        "token": "ます",
+        "startTime": 44660,
+        "endTime": 45110,
+        "pinyin": "masu"
+      },
+      {
+        "token": "ね",
+        "startTime": 45110,
+        "endTime": 45560,
+        "pinyin": "ne"
+      }
+    ]
+  },
+  {
+    "sentence_text": "。 猫 カフェ に 猫 い ます 。",
+    "translations": {
+      "en": ". There are cats at the cat café."
+    },
+    "segments": [
+      {
+        "token": "。",
+        "startTime": 45560,
+        "endTime": 46120,
+        "pinyin": "."
+      },
+      {
+        "token": "猫",
+        "startTime": 46120,
+        "endTime": 46680,
+        "pinyin": "neko"
+      },
+      {
+        "token": "カフェ",
+        "startTime": 46680,
+        "endTime": 47240,
+        "pinyin": "kafe"
+      },
+      {
+        "token": "に",
+        "startTime": 47240,
+        "endTime": 47800,
+        "pinyin": "ni"
+      },
+      {
+        "token": "猫",
+        "startTime": 47800,
+        "endTime": 48360,
+        "pinyin": "neko"
+      },
+      {
+        "token": "い",
+        "startTime": 48360,
+        "endTime": 48920,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 48920,
+        "endTime": 49480,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 49480,
+        "endTime": 50040,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "猫 カフェ で お 茶 を 飲み ます 。",
+    "translations": {
+      "en": "I drink tea at the cat café."
+    },
+    "segments": [
+      {
+        "token": "猫",
+        "startTime": 50040,
+        "endTime": 50529,
+        "pinyin": "neko"
+      },
+      {
+        "token": "カフェ",
+        "startTime": 50529,
+        "endTime": 51018,
+        "pinyin": "kafe"
+      },
+      {
+        "token": "で",
+        "startTime": 51018,
+        "endTime": 51507,
+        "pinyin": "de"
+      },
+      {
+        "token": "お",
+        "startTime": 51507,
+        "endTime": 51996,
+        "pinyin": "o"
+      },
+      {
+        "token": "茶",
+        "startTime": 51996,
+        "endTime": 52484,
+        "pinyin": "cha"
+      },
+      {
+        "token": "を",
+        "startTime": 52484,
+        "endTime": 52973,
+        "pinyin": "wo"
+      },
+      {
+        "token": "飲み",
+        "startTime": 52973,
+        "endTime": 53462,
+        "pinyin": "nomi"
+      },
+      {
+        "token": "ます",
+        "startTime": 53462,
+        "endTime": 53951,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 53951,
+        "endTime": 54440,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "に と で を 初めて 勉強 し た",
+    "translations": {
+      "en": "I first studied 'ni' and 'de'"
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 54440,
+        "endTime": 54540,
+        "pinyin": "ni"
+      },
+      {
+        "token": "と",
+        "startTime": 54540,
+        "endTime": 54740,
+        "pinyin": "to"
+      },
+      {
+        "token": "で",
+        "startTime": 54740,
+        "endTime": 54860,
+        "pinyin": "de"
+      },
+      {
+        "token": "を",
+        "startTime": 54860,
+        "endTime": 54980,
+        "pinyin": "wo"
+      },
+      {
+        "token": "初めて",
+        "startTime": 54980,
+        "endTime": 55480,
+        "pinyin": "hajimete"
+      },
+      {
+        "token": "勉強",
+        "startTime": 55480,
+        "endTime": 55780,
+        "pinyin": "benkyou"
+      },
+      {
+        "token": "し",
+        "startTime": 55780,
+        "endTime": 56100,
+        "pinyin": "shi"
+      },
+      {
+        "token": "た",
+        "startTime": 56100,
+        "endTime": 56300,
+        "pinyin": "ta"
+      }
+    ]
+  },
+  {
+    "sentence_text": "とき に ます 、 あり ます",
+    "translations": {
+      "en": "when I started learning, there is"
+    },
+    "segments": [
+      {
+        "token": "とき",
+        "startTime": 56300,
+        "endTime": 56980,
+        "pinyin": "toki"
+      },
+      {
+        "token": "に",
+        "startTime": 56980,
+        "endTime": 57660,
+        "pinyin": "ni"
+      },
+      {
+        "token": "ます",
+        "startTime": 57660,
+        "endTime": 58340,
+        "pinyin": "masu"
+      },
+      {
+        "token": "、",
+        "startTime": 58340,
+        "endTime": 59020,
+        "pinyin": ","
+      },
+      {
+        "token": "あり",
+        "startTime": 59020,
+        "endTime": 59700,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 59700,
+        "endTime": 60380,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "で は 動き の ある 動詞 を 使",
+    "translations": {
+      "en": "using verbs of motion"
+    },
+    "segments": [
+      {
+        "token": "で",
+        "startTime": 60380,
+        "endTime": 60540,
+        "pinyin": "de"
+      },
+      {
+        "token": "は",
+        "startTime": 60540,
+        "endTime": 61340,
+        "pinyin": "wa"
+      },
+      {
+        "token": "動き",
+        "startTime": 61340,
+        "endTime": 62280,
+        "pinyin": "ugoki"
+      },
+      {
+        "token": "の",
+        "startTime": 62280,
+        "endTime": 62480,
+        "pinyin": "no"
+      },
+      {
+        "token": "ある",
+        "startTime": 62480,
+        "endTime": 62720,
+        "pinyin": "aru"
+      },
+      {
+        "token": "動詞",
+        "startTime": 62720,
+        "endTime": 63060,
+        "pinyin": "doushi"
+      },
+      {
+        "token": "を",
+        "startTime": 63060,
+        "endTime": 63240,
+        "pinyin": "wo"
+      },
+      {
+        "token": "使",
+        "startTime": 63240,
+        "endTime": 63460,
+        "pinyin": "zukai"
+      }
+    ]
+  },
+  {
+    "sentence_text": "い ます と 習い ませ ん でし た か",
+    "translations": {
+      "en": "didn't you learn that?"
+    },
+    "segments": [
+      {
+        "token": "い",
+        "startTime": 63460,
+        "endTime": 63904,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 63904,
+        "endTime": 64349,
+        "pinyin": "masu"
+      },
+      {
+        "token": "と",
+        "startTime": 64349,
+        "endTime": 64793,
+        "pinyin": "to"
+      },
+      {
+        "token": "習い",
+        "startTime": 64793,
+        "endTime": 65238,
+        "pinyin": "narai"
+      },
+      {
+        "token": "ませ",
+        "startTime": 65238,
+        "endTime": 65682,
+        "pinyin": "mase"
+      },
+      {
+        "token": "ん",
+        "startTime": 65682,
+        "endTime": 66127,
+        "pinyin": "n"
+      },
+      {
+        "token": "でし",
+        "startTime": 66127,
+        "endTime": 66571,
+        "pinyin": "deshi"
+      },
+      {
+        "token": "た",
+        "startTime": 66571,
+        "endTime": 67016,
+        "pinyin": "ta"
+      },
+      {
+        "token": "か",
+        "startTime": 67016,
+        "endTime": 67460,
+        "pinyin": "ka"
+      }
+    ]
+  },
+  {
+    "sentence_text": "それ は 間違い じゃ あり ませ ん",
+    "translations": {
+      "en": "That's not a mistake"
+    },
+    "segments": [
+      {
+        "token": "それ",
+        "startTime": 67460,
+        "endTime": 67871,
+        "pinyin": "sore"
+      },
+      {
+        "token": "は",
+        "startTime": 67871,
+        "endTime": 68283,
+        "pinyin": "wa"
+      },
+      {
+        "token": "間違い",
+        "startTime": 68283,
+        "endTime": 68694,
+        "pinyin": "machigai"
+      },
+      {
+        "token": "じゃ",
+        "startTime": 68694,
+        "endTime": 69106,
+        "pinyin": "ja"
+      },
+      {
+        "token": "あり",
+        "startTime": 69106,
+        "endTime": 69517,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ませ",
+        "startTime": 69517,
+        "endTime": 69929,
+        "pinyin": "mase"
+      },
+      {
+        "token": "ん",
+        "startTime": 69929,
+        "endTime": 70340,
+        "pinyin": "n"
+      }
+    ]
+  },
+  {
+    "sentence_text": "で も だんだん 日本 語 が 上手 に",
+    "translations": {
+      "en": "But as you gradually get better at Japanese"
+    },
+    "segments": [
+      {
+        "token": "で",
+        "startTime": 70340,
+        "endTime": 70640,
+        "pinyin": "de"
+      },
+      {
+        "token": "も",
+        "startTime": 70640,
+        "endTime": 71340,
+        "pinyin": "mo"
+      },
+      {
+        "token": "だんだん",
+        "startTime": 71340,
+        "endTime": 71960,
+        "pinyin": "dandan"
+      },
+      {
+        "token": "日本",
+        "startTime": 71960,
+        "endTime": 72400,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 72400,
+        "endTime": 72660,
+        "pinyin": "go"
+      },
+      {
+        "token": "が",
+        "startTime": 72660,
+        "endTime": 72780,
+        "pinyin": "ga"
+      },
+      {
+        "token": "上手",
+        "startTime": 72780,
+        "endTime": 73060,
+        "pinyin": "uwate"
+      },
+      {
+        "token": "に",
+        "startTime": 73060,
+        "endTime": 73280,
+        "pinyin": "ni"
+      }
+    ]
+  },
+  {
+    "sentence_text": "なっ て いく と どちら を 使っ たら",
+    "translations": {
+      "en": "there comes a point where you wonder which to use"
+    },
+    "segments": [
+      {
+        "token": "なっ",
+        "startTime": 73280,
+        "endTime": 73460,
+        "pinyin": "na"
+      },
+      {
+        "token": "て",
+        "startTime": 73460,
+        "endTime": 73460,
+        "pinyin": "te"
+      },
+      {
+        "token": "いく",
+        "startTime": 73460,
+        "endTime": 74520,
+        "pinyin": "iku"
+      },
+      {
+        "token": "と",
+        "startTime": 74520,
+        "endTime": 74720,
+        "pinyin": "to"
+      },
+      {
+        "token": "どちら",
+        "startTime": 74720,
+        "endTime": 75240,
+        "pinyin": "dochira"
+      },
+      {
+        "token": "を",
+        "startTime": 75240,
+        "endTime": 75360,
+        "pinyin": "wo"
+      },
+      {
+        "token": "使っ",
+        "startTime": 75360,
+        "endTime": 75460,
+        "pinyin": "tsuka"
+      },
+      {
+        "token": "たら",
+        "startTime": 75460,
+        "endTime": 75760,
+        "pinyin": "tara"
+      }
+    ]
+  },
+  {
+    "sentence_text": "いい の か あり ます",
+    "translations": {
+      "en": "is correct"
+    },
+    "segments": [
+      {
+        "token": "いい",
+        "startTime": 75760,
+        "endTime": 76284,
+        "pinyin": "ii"
+      },
+      {
+        "token": "の",
+        "startTime": 76284,
+        "endTime": 76808,
+        "pinyin": "no"
+      },
+      {
+        "token": "か",
+        "startTime": 76808,
+        "endTime": 77332,
+        "pinyin": "ka"
+      },
+      {
+        "token": "あり",
+        "startTime": 77332,
+        "endTime": 77856,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 77856,
+        "endTime": 78380,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "例えば て い ます を 使っ こちら",
+    "translations": {
+      "en": "For example, using 'te imasu' here"
+    },
+    "segments": [
+      {
+        "token": "例えば",
+        "startTime": 78380,
+        "endTime": 78917,
+        "pinyin": "tatoeba"
+      },
+      {
+        "token": "て",
+        "startTime": 78917,
+        "endTime": 79454,
+        "pinyin": "te"
+      },
+      {
+        "token": "い",
+        "startTime": 79454,
+        "endTime": 79991,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 79991,
+        "endTime": 80529,
+        "pinyin": "masu"
+      },
+      {
+        "token": "を",
+        "startTime": 80529,
+        "endTime": 81066,
+        "pinyin": "wo"
+      },
+      {
+        "token": "使っ",
+        "startTime": 81066,
+        "endTime": 81603,
+        "pinyin": "tsuka"
+      },
+      {
+        "token": "こちら",
+        "startTime": 81603,
+        "endTime": 82140,
+        "pinyin": "kochira"
+      }
+    ]
+  },
+  {
+    "sentence_text": "の 文",
+    "translations": {
+      "en": "in this sentence"
+    },
+    "segments": [
+      {
+        "token": "の",
+        "startTime": 82140,
+        "endTime": 82460,
+        "pinyin": "no"
+      },
+      {
+        "token": "文",
+        "startTime": 82460,
+        "endTime": 83720,
+        "pinyin": "bun"
+      }
+    ]
+  },
+  {
+    "sentence_text": "2 等 で どちら が 入る と 思い ます か",
+    "translations": {
+      "en": "Which do you think goes in the blank?"
+    },
+    "segments": [
+      {
+        "token": "2",
+        "startTime": 83720,
+        "endTime": 84234,
+        "pinyin": "2"
+      },
+      {
+        "token": "等",
+        "startTime": 84234,
+        "endTime": 84748,
+        "pinyin": "tou"
+      },
+      {
+        "token": "で",
+        "startTime": 84748,
+        "endTime": 85262,
+        "pinyin": "de"
+      },
+      {
+        "token": "どちら",
+        "startTime": 85262,
+        "endTime": 85776,
+        "pinyin": "dochira"
+      },
+      {
+        "token": "が",
+        "startTime": 85776,
+        "endTime": 86290,
+        "pinyin": "ga"
+      },
+      {
+        "token": "入る",
+        "startTime": 86290,
+        "endTime": 86804,
+        "pinyin": "hairu"
+      },
+      {
+        "token": "と",
+        "startTime": 86804,
+        "endTime": 87318,
+        "pinyin": "to"
+      },
+      {
+        "token": "思い",
+        "startTime": 87318,
+        "endTime": 87832,
+        "pinyin": "omoi"
+      },
+      {
+        "token": "ます",
+        "startTime": 87832,
+        "endTime": 88346,
+        "pinyin": "masu"
+      },
+      {
+        "token": "か",
+        "startTime": 88346,
+        "endTime": 88860,
+        "pinyin": "ka"
+      }
+    ]
+  },
+  {
+    "sentence_text": "? ワン さん は 大阪",
+    "translations": {
+      "en": "Mr. Wang is in Osaka"
+    },
+    "segments": [
+      {
+        "token": "?",
+        "startTime": 88860,
+        "endTime": 89040,
+        "pinyin": "?"
+      },
+      {
+        "token": "ワン",
+        "startTime": 89040,
+        "endTime": 89440,
+        "pinyin": "wan"
+      },
+      {
+        "token": "さん",
+        "startTime": 89440,
+        "endTime": 90680,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 90680,
+        "endTime": 91300,
+        "pinyin": "wa"
+      },
+      {
+        "token": "大阪",
+        "startTime": 91300,
+        "endTime": 92480,
+        "pinyin": "Osaka"
+      }
+    ]
+  },
+  {
+    "sentence_text": "い ます 。",
+    "translations": {
+      "en": "is."
+    },
+    "segments": [
+      {
+        "token": "い",
+        "startTime": 92480,
+        "endTime": 93040,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 93040,
+        "endTime": 93600,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 93600,
+        "endTime": 94160,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "ワン さん は 駅 待っ て い ます 。",
+    "translations": {
+      "en": "Mr. Wang is waiting at the station."
+    },
+    "segments": [
+      {
+        "token": "ワン",
+        "startTime": 94160,
+        "endTime": 94722,
+        "pinyin": "wan"
+      },
+      {
+        "token": "さん",
+        "startTime": 94722,
+        "endTime": 95284,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 95284,
+        "endTime": 95847,
+        "pinyin": "wa"
+      },
+      {
+        "token": "駅",
+        "startTime": 95847,
+        "endTime": 96409,
+        "pinyin": "eki"
+      },
+      {
+        "token": "待っ",
+        "startTime": 96409,
+        "endTime": 96971,
+        "pinyin": "ma"
+      },
+      {
+        "token": "て",
+        "startTime": 96971,
+        "endTime": 97533,
+        "pinyin": "te"
+      },
+      {
+        "token": "い",
+        "startTime": 97533,
+        "endTime": 98096,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 98096,
+        "endTime": 98658,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 98658,
+        "endTime": 99220,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "ワン さん は 、",
+    "translations": {
+      "en": "Mr. Wang is"
+    },
+    "segments": [
+      {
+        "token": "ワン",
+        "startTime": 99220,
+        "endTime": 99490,
+        "pinyin": "wan"
+      },
+      {
+        "token": "さん",
+        "startTime": 99490,
+        "endTime": 99650,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 99650,
+        "endTime": 100250,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 100250,
+        "endTime": 100910,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "教室 、 勉強 い ます 。",
+    "translations": {
+      "en": "studying in the classroom."
+    },
+    "segments": [
+      {
+        "token": "教室",
+        "startTime": 100910,
+        "endTime": 101560,
+        "pinyin": "kyoushitsu"
+      },
+      {
+        "token": "、",
+        "startTime": 101560,
+        "endTime": 102210,
+        "pinyin": ","
+      },
+      {
+        "token": "勉強",
+        "startTime": 102210,
+        "endTime": 102860,
+        "pinyin": "benkyou"
+      },
+      {
+        "token": "い",
+        "startTime": 102860,
+        "endTime": 103510,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 103510,
+        "endTime": 104160,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 104160,
+        "endTime": 104810,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "ワン さん は 、 電車 、 乗っ い ます 。",
+    "translations": {
+      "en": "Mr. Wang is riding the train."
+    },
+    "segments": [
+      {
+        "token": "ワン",
+        "startTime": 104810,
+        "endTime": 105412,
+        "pinyin": "wan"
+      },
+      {
+        "token": "さん",
+        "startTime": 105412,
+        "endTime": 106014,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 106014,
+        "endTime": 106616,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 106616,
+        "endTime": 107218,
+        "pinyin": ","
+      },
+      {
+        "token": "電車",
+        "startTime": 107218,
+        "endTime": 107820,
+        "pinyin": "densha"
+      },
+      {
+        "token": "、",
+        "startTime": 107820,
+        "endTime": 108422,
+        "pinyin": ","
+      },
+      {
+        "token": "乗っ",
+        "startTime": 108422,
+        "endTime": 109024,
+        "pinyin": "no"
+      },
+      {
+        "token": "い",
+        "startTime": 109024,
+        "endTime": 109626,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 109626,
+        "endTime": 110228,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 110228,
+        "endTime": 110830,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "この 文 は 、",
+    "translations": {
+      "en": "This sentence is"
+    },
+    "segments": [
+      {
+        "token": "この",
+        "startTime": 110830,
+        "endTime": 111110,
+        "pinyin": "kono"
+      },
+      {
+        "token": "文",
+        "startTime": 111110,
+        "endTime": 111270,
+        "pinyin": "bun"
+      },
+      {
+        "token": "は",
+        "startTime": 111270,
+        "endTime": 111830,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 111830,
+        "endTime": 112390,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "日本 語 を 教え て N 3 と",
+    "translations": {
+      "en": "a common mistake even among people studying"
+    },
+    "segments": [
+      {
+        "token": "日本",
+        "startTime": 112390,
+        "endTime": 112790,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 112790,
+        "endTime": 112990,
+        "pinyin": "go"
+      },
+      {
+        "token": "を",
+        "startTime": 112990,
+        "endTime": 113230,
+        "pinyin": "wo"
+      },
+      {
+        "token": "教え",
+        "startTime": 113230,
+        "endTime": 113450,
+        "pinyin": "oshie"
+      },
+      {
+        "token": "て",
+        "startTime": 113450,
+        "endTime": 113990,
+        "pinyin": "te"
+      },
+      {
+        "token": "N",
+        "startTime": 113990,
+        "endTime": 114310,
+        "pinyin": "N"
+      },
+      {
+        "token": "3",
+        "startTime": 114310,
+        "endTime": 114610,
+        "pinyin": "3"
+      },
+      {
+        "token": "と",
+        "startTime": 114610,
+        "endTime": 114950,
+        "pinyin": "to"
+      }
+    ]
+  },
+  {
+    "sentence_text": "N 2 の 人 で も 多い 間違い",
+    "translations": {
+      "en": "Japanese at N3 and N2 levels."
+    },
+    "segments": [
+      {
+        "token": "N",
+        "startTime": 114950,
+        "endTime": 115490,
+        "pinyin": "N"
+      },
+      {
+        "token": "2",
+        "startTime": 115490,
+        "endTime": 115710,
+        "pinyin": "2"
+      },
+      {
+        "token": "の",
+        "startTime": 115710,
+        "endTime": 115870,
+        "pinyin": "no"
+      },
+      {
+        "token": "人",
+        "startTime": 115870,
+        "endTime": 116050,
+        "pinyin": "hito"
+      },
+      {
+        "token": "で",
+        "startTime": 116050,
+        "endTime": 116350,
+        "pinyin": "de"
+      },
+      {
+        "token": "も",
+        "startTime": 116350,
+        "endTime": 116710,
+        "pinyin": "mo"
+      },
+      {
+        "token": "多い",
+        "startTime": 116710,
+        "endTime": 117030,
+        "pinyin": "ooi"
+      },
+      {
+        "token": "間違い",
+        "startTime": 117030,
+        "endTime": 117370,
+        "pinyin": "machigai"
+      }
+    ]
+  },
+  {
+    "sentence_text": "な ん です 。",
+    "translations": {
+      "en": "It is."
+    },
+    "segments": [
+      {
+        "token": "な",
+        "startTime": 117370,
+        "endTime": 117740,
+        "pinyin": "na"
+      },
+      {
+        "token": "ん",
+        "startTime": 117740,
+        "endTime": 118110,
+        "pinyin": "n"
+      },
+      {
+        "token": "です",
+        "startTime": 118110,
+        "endTime": 118480,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 118480,
+        "endTime": 118850,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "皆 さん は どう 思い ます か 2 等",
+    "translations": {
+      "en": "What do you all think? Second class."
+    },
+    "segments": [
+      {
+        "token": "皆",
+        "startTime": 118850,
+        "endTime": 119172,
+        "pinyin": "mina"
+      },
+      {
+        "token": "さん",
+        "startTime": 119172,
+        "endTime": 119494,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 119494,
+        "endTime": 119817,
+        "pinyin": "wa"
+      },
+      {
+        "token": "どう",
+        "startTime": 119817,
+        "endTime": 120139,
+        "pinyin": "dou"
+      },
+      {
+        "token": "思い",
+        "startTime": 120139,
+        "endTime": 120461,
+        "pinyin": "omoi"
+      },
+      {
+        "token": "ます",
+        "startTime": 120461,
+        "endTime": 120783,
+        "pinyin": "masu"
+      },
+      {
+        "token": "か",
+        "startTime": 120783,
+        "endTime": 121106,
+        "pinyin": "ka"
+      },
+      {
+        "token": "2",
+        "startTime": 121106,
+        "endTime": 121428,
+        "pinyin": "2"
+      },
+      {
+        "token": "等",
+        "startTime": 121428,
+        "endTime": 121750,
+        "pinyin": "tou"
+      }
+    ]
+  },
+  {
+    "sentence_text": "で どちら が 入る でしょう か ? やっ て",
+    "translations": {
+      "en": "Which one fits? Let's try."
+    },
+    "segments": [
+      {
+        "token": "で",
+        "startTime": 121750,
+        "endTime": 122066,
+        "pinyin": "de"
+      },
+      {
+        "token": "どちら",
+        "startTime": 122066,
+        "endTime": 122381,
+        "pinyin": "dochira"
+      },
+      {
+        "token": "が",
+        "startTime": 122381,
+        "endTime": 122697,
+        "pinyin": "ga"
+      },
+      {
+        "token": "入る",
+        "startTime": 122697,
+        "endTime": 123012,
+        "pinyin": "hairu"
+      },
+      {
+        "token": "でしょう",
+        "startTime": 123012,
+        "endTime": 123328,
+        "pinyin": "deshou"
+      },
+      {
+        "token": "か",
+        "startTime": 123328,
+        "endTime": 123643,
+        "pinyin": "ka"
+      },
+      {
+        "token": "?",
+        "startTime": 123643,
+        "endTime": 123959,
+        "pinyin": "?"
+      },
+      {
+        "token": "やっ",
+        "startTime": 123959,
+        "endTime": 124274,
+        "pinyin": "ya"
+      },
+      {
+        "token": "て",
+        "startTime": 124274,
+        "endTime": 124590,
+        "pinyin": "te"
+      }
+    ]
+  },
+  {
+    "sentence_text": "わかる でしょう か 。 とっても 簡単 な 見分け",
+    "translations": {
+      "en": "Will we know? There's a very simple way to tell."
+    },
+    "segments": [
+      {
+        "token": "わかる",
+        "startTime": 124590,
+        "endTime": 124930,
+        "pinyin": "wakaru"
+      },
+      {
+        "token": "でしょう",
+        "startTime": 124930,
+        "endTime": 125170,
+        "pinyin": "deshou"
+      },
+      {
+        "token": "か",
+        "startTime": 125170,
+        "endTime": 126030,
+        "pinyin": "ka"
+      },
+      {
+        "token": "。",
+        "startTime": 126030,
+        "endTime": 126310,
+        "pinyin": "."
+      },
+      {
+        "token": "とっても",
+        "startTime": 126310,
+        "endTime": 127050,
+        "pinyin": "tottemo"
+      },
+      {
+        "token": "簡単",
+        "startTime": 127050,
+        "endTime": 127450,
+        "pinyin": "kantan"
+      },
+      {
+        "token": "な",
+        "startTime": 127450,
+        "endTime": 127630,
+        "pinyin": "na"
+      },
+      {
+        "token": "見分け",
+        "startTime": 127630,
+        "endTime": 128230,
+        "pinyin": "miwake"
+      }
+    ]
+  },
+  {
+    "sentence_text": "方 1 つ あり ます 。",
+    "translations": {
+      "en": "There is one method."
+    },
+    "segments": [
+      {
+        "token": "方",
+        "startTime": 128230,
+        "endTime": 128810,
+        "pinyin": "kata"
+      },
+      {
+        "token": "1",
+        "startTime": 128810,
+        "endTime": 129390,
+        "pinyin": "1"
+      },
+      {
+        "token": "つ",
+        "startTime": 129390,
+        "endTime": 129970,
+        "pinyin": "tsu"
+      },
+      {
+        "token": "あり",
+        "startTime": 129970,
+        "endTime": 130550,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 130550,
+        "endTime": 131130,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 131130,
+        "endTime": 131710,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "それ は 、 て を 消し て 、",
+    "translations": {
+      "en": "That is, remove the 'te',"
+    },
+    "segments": [
+      {
+        "token": "それ",
+        "startTime": 131710,
+        "endTime": 132235,
+        "pinyin": "sore"
+      },
+      {
+        "token": "は",
+        "startTime": 132235,
+        "endTime": 132760,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 132760,
+        "endTime": 133285,
+        "pinyin": ","
+      },
+      {
+        "token": "て",
+        "startTime": 133285,
+        "endTime": 133810,
+        "pinyin": "te"
+      },
+      {
+        "token": "を",
+        "startTime": 133810,
+        "endTime": 134335,
+        "pinyin": "wo"
+      },
+      {
+        "token": "消し",
+        "startTime": 134335,
+        "endTime": 134860,
+        "pinyin": "keshi"
+      },
+      {
+        "token": "て",
+        "startTime": 134860,
+        "endTime": 135385,
+        "pinyin": "te"
+      },
+      {
+        "token": "、",
+        "startTime": 135385,
+        "endTime": 135910,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "に を つけ て 考える です 。",
+    "translations": {
+      "en": "and think with 'ni'."
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 135910,
+        "endTime": 136464,
+        "pinyin": "ni"
+      },
+      {
+        "token": "を",
+        "startTime": 136464,
+        "endTime": 137019,
+        "pinyin": "wo"
+      },
+      {
+        "token": "つけ",
+        "startTime": 137019,
+        "endTime": 137573,
+        "pinyin": "tsuke"
+      },
+      {
+        "token": "て",
+        "startTime": 137573,
+        "endTime": 138127,
+        "pinyin": "te"
+      },
+      {
+        "token": "考える",
+        "startTime": 138127,
+        "endTime": 138681,
+        "pinyin": "kangaeru"
+      },
+      {
+        "token": "です",
+        "startTime": 138681,
+        "endTime": 139236,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 139236,
+        "endTime": 139790,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "に は い ます 、",
+    "translations": {
+      "en": "For 'ni' we use 'iru',"
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 139790,
+        "endTime": 140170,
+        "pinyin": "ni"
+      },
+      {
+        "token": "は",
+        "startTime": 140170,
+        "endTime": 140550,
+        "pinyin": "wa"
+      },
+      {
+        "token": "い",
+        "startTime": 140550,
+        "endTime": 140930,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 140930,
+        "endTime": 141310,
+        "pinyin": "masu"
+      },
+      {
+        "token": "、",
+        "startTime": 141310,
+        "endTime": 141690,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "あり ます の 意味 の 動詞 存在",
+    "translations": {
+      "en": "which is the verb for existence meaning 'there is/are'."
+    },
+    "segments": [
+      {
+        "token": "あり",
+        "startTime": 141690,
+        "endTime": 142221,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 142221,
+        "endTime": 142753,
+        "pinyin": "masu"
+      },
+      {
+        "token": "の",
+        "startTime": 142753,
+        "endTime": 143284,
+        "pinyin": "no"
+      },
+      {
+        "token": "意味",
+        "startTime": 143284,
+        "endTime": 143816,
+        "pinyin": "imi"
+      },
+      {
+        "token": "の",
+        "startTime": 143816,
+        "endTime": 144347,
+        "pinyin": "no"
+      },
+      {
+        "token": "動詞",
+        "startTime": 144347,
+        "endTime": 144879,
+        "pinyin": "doushi"
+      },
+      {
+        "token": "存在",
+        "startTime": 144879,
+        "endTime": 145410,
+        "pinyin": "sonzai"
+      }
+    ]
+  },
+  {
+    "sentence_text": "と 言い ます が 、 つまり ただ いる",
+    "translations": {
+      "en": "In other words, we use it when we just want to say"
+    },
+    "segments": [
+      {
+        "token": "と",
+        "startTime": 145410,
+        "endTime": 145950,
+        "pinyin": "to"
+      },
+      {
+        "token": "言い",
+        "startTime": 145950,
+        "endTime": 146490,
+        "pinyin": "ii"
+      },
+      {
+        "token": "ます",
+        "startTime": 146490,
+        "endTime": 147030,
+        "pinyin": "masu"
+      },
+      {
+        "token": "が",
+        "startTime": 147030,
+        "endTime": 147570,
+        "pinyin": "ga"
+      },
+      {
+        "token": "、",
+        "startTime": 147570,
+        "endTime": 148110,
+        "pinyin": ","
+      },
+      {
+        "token": "つまり",
+        "startTime": 148110,
+        "endTime": 148650,
+        "pinyin": "tsumari"
+      },
+      {
+        "token": "ただ",
+        "startTime": 148650,
+        "endTime": 149190,
+        "pinyin": "tada"
+      },
+      {
+        "token": "いる",
+        "startTime": 149190,
+        "endTime": 149730,
+        "pinyin": "iru"
+      }
+    ]
+  },
+  {
+    "sentence_text": "だけ その こと を 言い たい と きい ます 。",
+    "translations": {
+      "en": "that something simply exists."
+    },
+    "segments": [
+      {
+        "token": "だけ",
+        "startTime": 149730,
+        "endTime": 150040,
+        "pinyin": "dake"
+      },
+      {
+        "token": "その",
+        "startTime": 150040,
+        "endTime": 150350,
+        "pinyin": "sono"
+      },
+      {
+        "token": "こと",
+        "startTime": 150350,
+        "endTime": 150660,
+        "pinyin": "koto"
+      },
+      {
+        "token": "を",
+        "startTime": 150660,
+        "endTime": 150970,
+        "pinyin": "wo"
+      },
+      {
+        "token": "言い",
+        "startTime": 150970,
+        "endTime": 151280,
+        "pinyin": "ii"
+      },
+      {
+        "token": "たい",
+        "startTime": 151280,
+        "endTime": 151590,
+        "pinyin": "tai"
+      },
+      {
+        "token": "と",
+        "startTime": 151590,
+        "endTime": 151900,
+        "pinyin": "to"
+      },
+      {
+        "token": "きい",
+        "startTime": 151900,
+        "endTime": 152210,
+        "pinyin": "kii"
+      },
+      {
+        "token": "ます",
+        "startTime": 152210,
+        "endTime": 152520,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 152520,
+        "endTime": 152830,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "で は 、 それ 以外 の 動詞 で 動作",
+    "translations": {
+      "en": "Then, for other verbs, we use it"
+    },
+    "segments": [
+      {
+        "token": "で",
+        "startTime": 152830,
+        "endTime": 153230,
+        "pinyin": "de"
+      },
+      {
+        "token": "は",
+        "startTime": 153230,
+        "endTime": 153630,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 153630,
+        "endTime": 154030,
+        "pinyin": ","
+      },
+      {
+        "token": "それ",
+        "startTime": 154030,
+        "endTime": 154430,
+        "pinyin": "sore"
+      },
+      {
+        "token": "以外",
+        "startTime": 154430,
+        "endTime": 154830,
+        "pinyin": "igai"
+      },
+      {
+        "token": "の",
+        "startTime": 154830,
+        "endTime": 155230,
+        "pinyin": "no"
+      },
+      {
+        "token": "動詞",
+        "startTime": 155230,
+        "endTime": 155630,
+        "pinyin": "doushi"
+      },
+      {
+        "token": "で",
+        "startTime": 155630,
+        "endTime": 156030,
+        "pinyin": "de"
+      },
+      {
+        "token": "動作",
+        "startTime": 156030,
+        "endTime": 156430,
+        "pinyin": "dousa"
+      }
+    ]
+  },
+  {
+    "sentence_text": "を 言う とき に 使い ます 。",
+    "translations": {
+      "en": "when talking about actions."
+    },
+    "segments": [
+      {
+        "token": "を",
+        "startTime": 156430,
+        "endTime": 156821,
+        "pinyin": "wo"
+      },
+      {
+        "token": "言う",
+        "startTime": 156821,
+        "endTime": 157213,
+        "pinyin": "iu"
+      },
+      {
+        "token": "とき",
+        "startTime": 157213,
+        "endTime": 157604,
+        "pinyin": "toki"
+      },
+      {
+        "token": "に",
+        "startTime": 157604,
+        "endTime": 157996,
+        "pinyin": "ni"
+      },
+      {
+        "token": "使い",
+        "startTime": 157996,
+        "endTime": 158387,
+        "pinyin": "tsukai"
+      },
+      {
+        "token": "ます",
+        "startTime": 158387,
+        "endTime": 158779,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 158779,
+        "endTime": 159170,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "て を 消し て み て 、 意味",
+    "translations": {
+      "en": "If you remove the 'te' and the meaning"
+    },
+    "segments": [
+      {
+        "token": "て",
+        "startTime": 159170,
+        "endTime": 159310,
+        "pinyin": "te"
+      },
+      {
+        "token": "を",
+        "startTime": 159310,
+        "endTime": 159550,
+        "pinyin": "wo"
+      },
+      {
+        "token": "消し",
+        "startTime": 159550,
+        "endTime": 160150,
+        "pinyin": "keshi"
+      },
+      {
+        "token": "て",
+        "startTime": 160150,
+        "endTime": 160290,
+        "pinyin": "te"
+      },
+      {
+        "token": "み",
+        "startTime": 160290,
+        "endTime": 161370,
+        "pinyin": "mi"
+      },
+      {
+        "token": "て",
+        "startTime": 161370,
+        "endTime": 161590,
+        "pinyin": "te"
+      },
+      {
+        "token": "、",
+        "startTime": 161590,
+        "endTime": 161670,
+        "pinyin": ","
+      },
+      {
+        "token": "意味",
+        "startTime": 161670,
+        "endTime": 162090,
+        "pinyin": "imi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "が だいたい 同じ ただ いる だけ",
+    "translations": {
+      "en": "is roughly just 'exists',"
+    },
+    "segments": [
+      {
+        "token": "が",
+        "startTime": 162090,
+        "endTime": 162470,
+        "pinyin": "ga"
+      },
+      {
+        "token": "だいたい",
+        "startTime": 162470,
+        "endTime": 163830,
+        "pinyin": "daitai"
+      },
+      {
+        "token": "同じ",
+        "startTime": 163830,
+        "endTime": 164050,
+        "pinyin": "onaji"
+      },
+      {
+        "token": "ただ",
+        "startTime": 164050,
+        "endTime": 164370,
+        "pinyin": "tada"
+      },
+      {
+        "token": "いる",
+        "startTime": 164370,
+        "endTime": 164850,
+        "pinyin": "iru"
+      },
+      {
+        "token": "だけ",
+        "startTime": 164850,
+        "endTime": 166770,
+        "pinyin": "dake"
+      }
+    ]
+  },
+  {
+    "sentence_text": "だっ たら に 意味 が 変わっ て です 。",
+    "translations": {
+      "en": "then it changes to 'ni' meaning."
+    },
+    "segments": [
+      {
+        "token": "だっ",
+        "startTime": 166770,
+        "endTime": 167246,
+        "pinyin": "da"
+      },
+      {
+        "token": "たら",
+        "startTime": 167246,
+        "endTime": 167721,
+        "pinyin": "tara"
+      },
+      {
+        "token": "に",
+        "startTime": 167721,
+        "endTime": 168197,
+        "pinyin": "ni"
+      },
+      {
+        "token": "意味",
+        "startTime": 168197,
+        "endTime": 168672,
+        "pinyin": "imi"
+      },
+      {
+        "token": "が",
+        "startTime": 168672,
+        "endTime": 169148,
+        "pinyin": "ga"
+      },
+      {
+        "token": "変わっ",
+        "startTime": 169148,
+        "endTime": 169623,
+        "pinyin": "kawa"
+      },
+      {
+        "token": "て",
+        "startTime": 169623,
+        "endTime": 170099,
+        "pinyin": "te"
+      },
+      {
+        "token": "です",
+        "startTime": 170099,
+        "endTime": 170574,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 170574,
+        "endTime": 171050,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "どう いう こと でしょう か",
+    "translations": {
+      "en": "What does that mean?"
+    },
+    "segments": [
+      {
+        "token": "どう",
+        "startTime": 171050,
+        "endTime": 171530,
+        "pinyin": "dou"
+      },
+      {
+        "token": "いう",
+        "startTime": 171530,
+        "endTime": 172010,
+        "pinyin": "iu"
+      },
+      {
+        "token": "こと",
+        "startTime": 172010,
+        "endTime": 172490,
+        "pinyin": "koto"
+      },
+      {
+        "token": "でしょう",
+        "startTime": 172490,
+        "endTime": 172970,
+        "pinyin": "deshou"
+      },
+      {
+        "token": "か",
+        "startTime": 172970,
+        "endTime": 173450,
+        "pinyin": "ka"
+      }
+    ]
+  },
+  {
+    "sentence_text": "例えば 、 さっき 見 た こちら の 文 、",
+    "translations": {
+      "en": "For example, in this sentence we saw earlier,"
+    },
+    "segments": [
+      {
+        "token": "例えば",
+        "startTime": 173450,
+        "endTime": 173839,
+        "pinyin": "tatoeba"
+      },
+      {
+        "token": "、",
+        "startTime": 173839,
+        "endTime": 174228,
+        "pinyin": ","
+      },
+      {
+        "token": "さっき",
+        "startTime": 174228,
+        "endTime": 174617,
+        "pinyin": "sakki"
+      },
+      {
+        "token": "見",
+        "startTime": 174617,
+        "endTime": 175006,
+        "pinyin": "mi"
+      },
+      {
+        "token": "た",
+        "startTime": 175006,
+        "endTime": 175394,
+        "pinyin": "ta"
+      },
+      {
+        "token": "こちら",
+        "startTime": 175394,
+        "endTime": 175783,
+        "pinyin": "kochira"
+      },
+      {
+        "token": "の",
+        "startTime": 175783,
+        "endTime": 176172,
+        "pinyin": "no"
+      },
+      {
+        "token": "文",
+        "startTime": 176172,
+        "endTime": 176561,
+        "pinyin": "bun"
+      },
+      {
+        "token": "、",
+        "startTime": 176561,
+        "endTime": 176950,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "全部 に を 入れ ましょう か",
+    "translations": {
+      "en": "shall we put 'ni' in all of them?"
+    },
+    "segments": [
+      {
+        "token": "全部",
+        "startTime": 176950,
+        "endTime": 177830,
+        "pinyin": "zenbu"
+      },
+      {
+        "token": "に",
+        "startTime": 177830,
+        "endTime": 178110,
+        "pinyin": "ni"
+      },
+      {
+        "token": "を",
+        "startTime": 178110,
+        "endTime": 178270,
+        "pinyin": "wo"
+      },
+      {
+        "token": "入れ",
+        "startTime": 178270,
+        "endTime": 178450,
+        "pinyin": "ire"
+      },
+      {
+        "token": "ましょう",
+        "startTime": 178450,
+        "endTime": 178790,
+        "pinyin": "mashou"
+      },
+      {
+        "token": "か",
+        "startTime": 178790,
+        "endTime": 180270,
+        "pinyin": "ka"
+      }
+    ]
+  },
+  {
+    "sentence_text": "。 大阪 い ます 。 駅 に い ます 。",
+    "translations": {
+      "en": "I am in Osaka. I am at the station."
+    },
+    "segments": [
+      {
+        "token": "。",
+        "startTime": 180270,
+        "endTime": 180648,
+        "pinyin": "."
+      },
+      {
+        "token": "大阪",
+        "startTime": 180648,
+        "endTime": 181026,
+        "pinyin": "Osaka"
+      },
+      {
+        "token": "い",
+        "startTime": 181026,
+        "endTime": 181404,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 181404,
+        "endTime": 181782,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 181782,
+        "endTime": 182160,
+        "pinyin": "."
+      },
+      {
+        "token": "駅",
+        "startTime": 182160,
+        "endTime": 182538,
+        "pinyin": "eki"
+      },
+      {
+        "token": "に",
+        "startTime": 182538,
+        "endTime": 182916,
+        "pinyin": "ni"
+      },
+      {
+        "token": "い",
+        "startTime": 182916,
+        "endTime": 183294,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 183294,
+        "endTime": 183672,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 183672,
+        "endTime": 184050,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "教室 に い ます 。 電車 に い ます 。",
+    "translations": {
+      "en": "I'm in the classroom. I'm on the train."
+    },
+    "segments": [
+      {
+        "token": "教室",
+        "startTime": 184050,
+        "endTime": 184538,
+        "pinyin": "kyoushitsu"
+      },
+      {
+        "token": "に",
+        "startTime": 184538,
+        "endTime": 185026,
+        "pinyin": "ni"
+      },
+      {
+        "token": "い",
+        "startTime": 185026,
+        "endTime": 185514,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 185514,
+        "endTime": 186002,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 186002,
+        "endTime": 186490,
+        "pinyin": "."
+      },
+      {
+        "token": "電車",
+        "startTime": 186490,
+        "endTime": 186978,
+        "pinyin": "densha"
+      },
+      {
+        "token": "に",
+        "startTime": 186978,
+        "endTime": 187466,
+        "pinyin": "ni"
+      },
+      {
+        "token": "い",
+        "startTime": 187466,
+        "endTime": 187954,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 187954,
+        "endTime": 188442,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 188442,
+        "endTime": 188930,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "大阪 に い ます 。 住ん い ます 。",
+    "translations": {
+      "en": "I'm in Osaka. I live there."
+    },
+    "segments": [
+      {
+        "token": "大阪",
+        "startTime": 188930,
+        "endTime": 189306,
+        "pinyin": "Osaka"
+      },
+      {
+        "token": "に",
+        "startTime": 189306,
+        "endTime": 189681,
+        "pinyin": "ni"
+      },
+      {
+        "token": "い",
+        "startTime": 189681,
+        "endTime": 190057,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 190057,
+        "endTime": 190432,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 190432,
+        "endTime": 190808,
+        "pinyin": "."
+      },
+      {
+        "token": "住ん",
+        "startTime": 190808,
+        "endTime": 191183,
+        "pinyin": "sun"
+      },
+      {
+        "token": "い",
+        "startTime": 191183,
+        "endTime": 191559,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 191559,
+        "endTime": 191934,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 191934,
+        "endTime": 192310,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "だいたい 同じ 意味 です ね 。",
+    "translations": {
+      "en": "They mean roughly the same thing."
+    },
+    "segments": [
+      {
+        "token": "だいたい",
+        "startTime": 192310,
+        "endTime": 192780,
+        "pinyin": "daitai"
+      },
+      {
+        "token": "同じ",
+        "startTime": 192780,
+        "endTime": 193250,
+        "pinyin": "onaji"
+      },
+      {
+        "token": "意味",
+        "startTime": 193250,
+        "endTime": 193720,
+        "pinyin": "imi"
+      },
+      {
+        "token": "です",
+        "startTime": 193720,
+        "endTime": 194190,
+        "pinyin": "desu"
+      },
+      {
+        "token": "ね",
+        "startTime": 194190,
+        "endTime": 194660,
+        "pinyin": "ne"
+      },
+      {
+        "token": "。",
+        "startTime": 194660,
+        "endTime": 195130,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "に が 正しい です 。",
+    "translations": {
+      "en": "\"Ni\" is correct."
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 195130,
+        "endTime": 195754,
+        "pinyin": "ni"
+      },
+      {
+        "token": "が",
+        "startTime": 195754,
+        "endTime": 196378,
+        "pinyin": "ga"
+      },
+      {
+        "token": "正しい",
+        "startTime": 196378,
+        "endTime": 197002,
+        "pinyin": "tadashii"
+      },
+      {
+        "token": "です",
+        "startTime": 197002,
+        "endTime": 197626,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 197626,
+        "endTime": 198250,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "次 、 駅 い ます 。",
+    "translations": {
+      "en": "Next, I'm at the station."
+    },
+    "segments": [
+      {
+        "token": "次",
+        "startTime": 198250,
+        "endTime": 198825,
+        "pinyin": "ji"
+      },
+      {
+        "token": "、",
+        "startTime": 198825,
+        "endTime": 199400,
+        "pinyin": ","
+      },
+      {
+        "token": "駅",
+        "startTime": 199400,
+        "endTime": 199975,
+        "pinyin": "eki"
+      },
+      {
+        "token": "い",
+        "startTime": 199975,
+        "endTime": 200550,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 200550,
+        "endTime": 201125,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 201125,
+        "endTime": 201700,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "だっ たら です か ?",
+    "translations": {
+      "en": "Then why?"
+    },
+    "segments": [
+      {
+        "token": "だっ",
+        "startTime": 201700,
+        "endTime": 202188,
+        "pinyin": "da"
+      },
+      {
+        "token": "たら",
+        "startTime": 202188,
+        "endTime": 202676,
+        "pinyin": "tara"
+      },
+      {
+        "token": "です",
+        "startTime": 202676,
+        "endTime": 203164,
+        "pinyin": "desu"
+      },
+      {
+        "token": "か",
+        "startTime": 203164,
+        "endTime": 203652,
+        "pinyin": "ka"
+      },
+      {
+        "token": "?",
+        "startTime": 203652,
+        "endTime": 204140,
+        "pinyin": "?"
+      }
+    ]
+  },
+  {
+    "sentence_text": "この 人 は ただ 駅 に いる だけ 。",
+    "translations": {
+      "en": "This person is just at the station."
+    },
+    "segments": [
+      {
+        "token": "この",
+        "startTime": 204140,
+        "endTime": 204633,
+        "pinyin": "kono"
+      },
+      {
+        "token": "人",
+        "startTime": 204633,
+        "endTime": 205127,
+        "pinyin": "hito"
+      },
+      {
+        "token": "は",
+        "startTime": 205127,
+        "endTime": 205620,
+        "pinyin": "wa"
+      },
+      {
+        "token": "ただ",
+        "startTime": 205620,
+        "endTime": 206113,
+        "pinyin": "tada"
+      },
+      {
+        "token": "駅",
+        "startTime": 206113,
+        "endTime": 206607,
+        "pinyin": "eki"
+      },
+      {
+        "token": "に",
+        "startTime": 206607,
+        "endTime": 207100,
+        "pinyin": "ni"
+      },
+      {
+        "token": "いる",
+        "startTime": 207100,
+        "endTime": 207593,
+        "pinyin": "iru"
+      },
+      {
+        "token": "だけ",
+        "startTime": 207593,
+        "endTime": 208087,
+        "pinyin": "dake"
+      },
+      {
+        "token": "。",
+        "startTime": 208087,
+        "endTime": 208580,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "意味 は 同じ です か ?",
+    "translations": {
+      "en": "Do they mean the same thing?"
+    },
+    "segments": [
+      {
+        "token": "意味",
+        "startTime": 208580,
+        "endTime": 209000,
+        "pinyin": "imi"
+      },
+      {
+        "token": "は",
+        "startTime": 209000,
+        "endTime": 209420,
+        "pinyin": "wa"
+      },
+      {
+        "token": "同じ",
+        "startTime": 209420,
+        "endTime": 209840,
+        "pinyin": "onaji"
+      },
+      {
+        "token": "です",
+        "startTime": 209840,
+        "endTime": 210260,
+        "pinyin": "desu"
+      },
+      {
+        "token": "か",
+        "startTime": 210260,
+        "endTime": 210680,
+        "pinyin": "ka"
+      },
+      {
+        "token": "?",
+        "startTime": 210680,
+        "endTime": 211100,
+        "pinyin": "?"
+      }
+    ]
+  },
+  {
+    "sentence_text": "いえ 、",
+    "translations": {
+      "en": "No,"
+    },
+    "segments": [
+      {
+        "token": "いえ",
+        "startTime": 211100,
+        "endTime": 211760,
+        "pinyin": "ie"
+      },
+      {
+        "token": "、",
+        "startTime": 211760,
+        "endTime": 212240,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "い ます ね 。 待ち ます の 意味",
+    "translations": {
+      "en": "it's \"imasu.\" It means \"to wait.\""
+    },
+    "segments": [
+      {
+        "token": "い",
+        "startTime": 212240,
+        "endTime": 212708,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 212708,
+        "endTime": 213175,
+        "pinyin": "masu"
+      },
+      {
+        "token": "ね",
+        "startTime": 213175,
+        "endTime": 213643,
+        "pinyin": "ne"
+      },
+      {
+        "token": "。",
+        "startTime": 213643,
+        "endTime": 214110,
+        "pinyin": "."
+      },
+      {
+        "token": "待ち",
+        "startTime": 214110,
+        "endTime": 214578,
+        "pinyin": "machi"
+      },
+      {
+        "token": "ます",
+        "startTime": 214578,
+        "endTime": 215045,
+        "pinyin": "masu"
+      },
+      {
+        "token": "の",
+        "startTime": 215045,
+        "endTime": 215513,
+        "pinyin": "no"
+      },
+      {
+        "token": "意味",
+        "startTime": 215513,
+        "endTime": 215980,
+        "pinyin": "imi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "が なくなっ い ます 。",
+    "translations": {
+      "en": "The meaning is lost."
+    },
+    "segments": [
+      {
+        "token": "が",
+        "startTime": 215980,
+        "endTime": 216324,
+        "pinyin": "ga"
+      },
+      {
+        "token": "なくなっ",
+        "startTime": 216324,
+        "endTime": 216668,
+        "pinyin": "naku na"
+      },
+      {
+        "token": "い",
+        "startTime": 216668,
+        "endTime": 217012,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 217012,
+        "endTime": 217356,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 217356,
+        "endTime": 217700,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "です から 、",
+    "translations": {
+      "en": "Therefore,"
+    },
+    "segments": [
+      {
+        "token": "です",
+        "startTime": 217700,
+        "endTime": 217947,
+        "pinyin": "desu"
+      },
+      {
+        "token": "から",
+        "startTime": 217947,
+        "endTime": 218193,
+        "pinyin": "kara"
+      },
+      {
+        "token": "、",
+        "startTime": 218193,
+        "endTime": 218440,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "待っ て い ます は に じゃ なく て",
+    "translations": {
+      "en": "for \"waiting,\" it's not \"ni\" but"
+    },
+    "segments": [
+      {
+        "token": "待っ",
+        "startTime": 218440,
+        "endTime": 218911,
+        "pinyin": "ma"
+      },
+      {
+        "token": "て",
+        "startTime": 218911,
+        "endTime": 219382,
+        "pinyin": "te"
+      },
+      {
+        "token": "い",
+        "startTime": 219382,
+        "endTime": 219853,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 219853,
+        "endTime": 220324,
+        "pinyin": "masu"
+      },
+      {
+        "token": "は",
+        "startTime": 220324,
+        "endTime": 220796,
+        "pinyin": "wa"
+      },
+      {
+        "token": "に",
+        "startTime": 220796,
+        "endTime": 221267,
+        "pinyin": "ni"
+      },
+      {
+        "token": "じゃ",
+        "startTime": 221267,
+        "endTime": 221738,
+        "pinyin": "ja"
+      },
+      {
+        "token": "なく",
+        "startTime": 221738,
+        "endTime": 222209,
+        "pinyin": "naku"
+      },
+      {
+        "token": "て",
+        "startTime": 222209,
+        "endTime": 222680,
+        "pinyin": "te"
+      }
+    ]
+  },
+  {
+    "sentence_text": "、 で が 正しい です 。",
+    "translations": {
+      "en": "\"de\" is correct."
+    },
+    "segments": [
+      {
+        "token": "、",
+        "startTime": 222680,
+        "endTime": 223037,
+        "pinyin": ","
+      },
+      {
+        "token": "で",
+        "startTime": 223037,
+        "endTime": 223393,
+        "pinyin": "de"
+      },
+      {
+        "token": "が",
+        "startTime": 223393,
+        "endTime": 223750,
+        "pinyin": "ga"
+      },
+      {
+        "token": "正しい",
+        "startTime": 223750,
+        "endTime": 224107,
+        "pinyin": "tadashii"
+      },
+      {
+        "token": "です",
+        "startTime": 224107,
+        "endTime": 224463,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 224463,
+        "endTime": 224820,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "駅 で 待っ て い ます です ね 。",
+    "translations": {
+      "en": "So it's \"I'm waiting at the station.\""
+    },
+    "segments": [
+      {
+        "token": "駅",
+        "startTime": 224820,
+        "endTime": 225220,
+        "pinyin": "eki"
+      },
+      {
+        "token": "で",
+        "startTime": 225220,
+        "endTime": 225620,
+        "pinyin": "de"
+      },
+      {
+        "token": "待っ",
+        "startTime": 225620,
+        "endTime": 226020,
+        "pinyin": "ma"
+      },
+      {
+        "token": "て",
+        "startTime": 226020,
+        "endTime": 226420,
+        "pinyin": "te"
+      },
+      {
+        "token": "い",
+        "startTime": 226420,
+        "endTime": 226820,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 226820,
+        "endTime": 227220,
+        "pinyin": "masu"
+      },
+      {
+        "token": "です",
+        "startTime": 227220,
+        "endTime": 227620,
+        "pinyin": "desu"
+      },
+      {
+        "token": "ね",
+        "startTime": 227620,
+        "endTime": 228020,
+        "pinyin": "ne"
+      },
+      {
+        "token": "。",
+        "startTime": 228020,
+        "endTime": 228420,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "次 、 教室 い ます は どう です か ?",
+    "translations": {
+      "en": "Next, what about \"I'm in the classroom\"?"
+    },
+    "segments": [
+      {
+        "token": "次",
+        "startTime": 228420,
+        "endTime": 228874,
+        "pinyin": "ji"
+      },
+      {
+        "token": "、",
+        "startTime": 228874,
+        "endTime": 229328,
+        "pinyin": ","
+      },
+      {
+        "token": "教室",
+        "startTime": 229328,
+        "endTime": 229782,
+        "pinyin": "kyoushitsu"
+      },
+      {
+        "token": "い",
+        "startTime": 229782,
+        "endTime": 230236,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 230236,
+        "endTime": 230690,
+        "pinyin": "masu"
+      },
+      {
+        "token": "は",
+        "startTime": 230690,
+        "endTime": 231144,
+        "pinyin": "wa"
+      },
+      {
+        "token": "どう",
+        "startTime": 231144,
+        "endTime": 231598,
+        "pinyin": "dou"
+      },
+      {
+        "token": "です",
+        "startTime": 231598,
+        "endTime": 232052,
+        "pinyin": "desu"
+      },
+      {
+        "token": "か",
+        "startTime": 232052,
+        "endTime": 232506,
+        "pinyin": "ka"
+      },
+      {
+        "token": "?",
+        "startTime": 232506,
+        "endTime": 232960,
+        "pinyin": "?"
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ も 、",
+    "translations": {
+      "en": "This too,"
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 232960,
+        "endTime": 233180,
+        "pinyin": "kore"
+      },
+      {
+        "token": "も",
+        "startTime": 233180,
+        "endTime": 233620,
+        "pinyin": "mo"
+      },
+      {
+        "token": "、",
+        "startTime": 233620,
+        "endTime": 234380,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "もし に だっ たら 、 ただ 教室 だけ 。",
+    "translations": {
+      "en": "if it's \"ni,\" just the classroom."
+    },
+    "segments": [
+      {
+        "token": "もし",
+        "startTime": 234380,
+        "endTime": 234813,
+        "pinyin": "moshi"
+      },
+      {
+        "token": "に",
+        "startTime": 234813,
+        "endTime": 235247,
+        "pinyin": "ni"
+      },
+      {
+        "token": "だっ",
+        "startTime": 235247,
+        "endTime": 235680,
+        "pinyin": "da"
+      },
+      {
+        "token": "たら",
+        "startTime": 235680,
+        "endTime": 236113,
+        "pinyin": "tara"
+      },
+      {
+        "token": "、",
+        "startTime": 236113,
+        "endTime": 236547,
+        "pinyin": ","
+      },
+      {
+        "token": "ただ",
+        "startTime": 236547,
+        "endTime": 236980,
+        "pinyin": "tada"
+      },
+      {
+        "token": "教室",
+        "startTime": 236980,
+        "endTime": 237413,
+        "pinyin": "kyoushitsu"
+      },
+      {
+        "token": "だけ",
+        "startTime": 237413,
+        "endTime": 237847,
+        "pinyin": "dake"
+      },
+      {
+        "token": "。",
+        "startTime": 237847,
+        "endTime": 238280,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "勉強 し ます の 意味 が なくなっ て い ます 。",
+    "translations": {
+      "en": "The meaning of \"study\" is lost."
+    },
+    "segments": [
+      {
+        "token": "勉強",
+        "startTime": 238280,
+        "endTime": 238620,
+        "pinyin": "benkyou"
+      },
+      {
+        "token": "し",
+        "startTime": 238620,
+        "endTime": 238960,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 238960,
+        "endTime": 239300,
+        "pinyin": "masu"
+      },
+      {
+        "token": "の",
+        "startTime": 239300,
+        "endTime": 239640,
+        "pinyin": "no"
+      },
+      {
+        "token": "意味",
+        "startTime": 239640,
+        "endTime": 239980,
+        "pinyin": "imi"
+      },
+      {
+        "token": "が",
+        "startTime": 239980,
+        "endTime": 240320,
+        "pinyin": "ga"
+      },
+      {
+        "token": "なくなっ",
+        "startTime": 240320,
+        "endTime": 240660,
+        "pinyin": "naku na"
+      },
+      {
+        "token": "て",
+        "startTime": 240660,
+        "endTime": 241000,
+        "pinyin": "te"
+      },
+      {
+        "token": "い",
+        "startTime": 241000,
+        "endTime": 241340,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 241340,
+        "endTime": 241680,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 241680,
+        "endTime": 242020,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "です から 、",
+    "translations": {
+      "en": "Therefore,"
+    },
+    "segments": [
+      {
+        "token": "です",
+        "startTime": 242020,
+        "endTime": 242400,
+        "pinyin": "desu"
+      },
+      {
+        "token": "から",
+        "startTime": 242400,
+        "endTime": 242780,
+        "pinyin": "kara"
+      },
+      {
+        "token": "、",
+        "startTime": 242780,
+        "endTime": 243160,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "に じゃ なく て 、",
+    "translations": {
+      "en": "Not 'ni', but"
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 243160,
+        "endTime": 243240,
+        "pinyin": "ni"
+      },
+      {
+        "token": "じゃ",
+        "startTime": 243240,
+        "endTime": 243780,
+        "pinyin": "ja"
+      },
+      {
+        "token": "なく",
+        "startTime": 243780,
+        "endTime": 243980,
+        "pinyin": "naku"
+      },
+      {
+        "token": "て",
+        "startTime": 243980,
+        "endTime": 244680,
+        "pinyin": "te"
+      },
+      {
+        "token": "、",
+        "startTime": 244680,
+        "endTime": 244820,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "で が 正しい です 。",
+    "translations": {
+      "en": "'de' is correct."
+    },
+    "segments": [
+      {
+        "token": "で",
+        "startTime": 244820,
+        "endTime": 245412,
+        "pinyin": "de"
+      },
+      {
+        "token": "が",
+        "startTime": 245412,
+        "endTime": 246004,
+        "pinyin": "ga"
+      },
+      {
+        "token": "正しい",
+        "startTime": 246004,
+        "endTime": 246596,
+        "pinyin": "tadashii"
+      },
+      {
+        "token": "です",
+        "startTime": 246596,
+        "endTime": 247188,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 247188,
+        "endTime": 247780,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "最後 、 電車 に い ます は どう です か ?",
+    "translations": {
+      "en": "Finally, how about 'densha ni imasu'?"
+    },
+    "segments": [
+      {
+        "token": "最後",
+        "startTime": 247780,
+        "endTime": 248233,
+        "pinyin": "saigo"
+      },
+      {
+        "token": "、",
+        "startTime": 248233,
+        "endTime": 248685,
+        "pinyin": ","
+      },
+      {
+        "token": "電車",
+        "startTime": 248685,
+        "endTime": 249138,
+        "pinyin": "densha"
+      },
+      {
+        "token": "に",
+        "startTime": 249138,
+        "endTime": 249591,
+        "pinyin": "ni"
+      },
+      {
+        "token": "い",
+        "startTime": 249591,
+        "endTime": 250044,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 250044,
+        "endTime": 250496,
+        "pinyin": "masu"
+      },
+      {
+        "token": "は",
+        "startTime": 250496,
+        "endTime": 250949,
+        "pinyin": "wa"
+      },
+      {
+        "token": "どう",
+        "startTime": 250949,
+        "endTime": 251402,
+        "pinyin": "dou"
+      },
+      {
+        "token": "です",
+        "startTime": 251402,
+        "endTime": 251855,
+        "pinyin": "desu"
+      },
+      {
+        "token": "か",
+        "startTime": 251855,
+        "endTime": 252307,
+        "pinyin": "ka"
+      },
+      {
+        "token": "?",
+        "startTime": 252307,
+        "endTime": 252760,
+        "pinyin": "?"
+      }
+    ]
+  },
+  {
+    "sentence_text": "い ます 、 乗っ い ます 、 だいたい 同じ 意味 です ね 。",
+    "translations": {
+      "en": "'Imasu' and 'notte imasu' have roughly the same meaning."
+    },
+    "segments": [
+      {
+        "token": "い",
+        "startTime": 252760,
+        "endTime": 253103,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 253103,
+        "endTime": 253446,
+        "pinyin": "masu"
+      },
+      {
+        "token": "、",
+        "startTime": 253446,
+        "endTime": 253789,
+        "pinyin": ","
+      },
+      {
+        "token": "乗っ",
+        "startTime": 253789,
+        "endTime": 254132,
+        "pinyin": "no"
+      },
+      {
+        "token": "い",
+        "startTime": 254132,
+        "endTime": 254475,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 254475,
+        "endTime": 254818,
+        "pinyin": "masu"
+      },
+      {
+        "token": "、",
+        "startTime": 254818,
+        "endTime": 255162,
+        "pinyin": ","
+      },
+      {
+        "token": "だいたい",
+        "startTime": 255162,
+        "endTime": 255505,
+        "pinyin": "daitai"
+      },
+      {
+        "token": "同じ",
+        "startTime": 255505,
+        "endTime": 255848,
+        "pinyin": "onaji"
+      },
+      {
+        "token": "意味",
+        "startTime": 255848,
+        "endTime": 256191,
+        "pinyin": "imi"
+      },
+      {
+        "token": "です",
+        "startTime": 256191,
+        "endTime": 256534,
+        "pinyin": "desu"
+      },
+      {
+        "token": "ね",
+        "startTime": 256534,
+        "endTime": 256877,
+        "pinyin": "ne"
+      },
+      {
+        "token": "。",
+        "startTime": 256877,
+        "endTime": 257220,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "です から 、",
+    "translations": {
+      "en": "So,"
+    },
+    "segments": [
+      {
+        "token": "です",
+        "startTime": 257220,
+        "endTime": 257500,
+        "pinyin": "desu"
+      },
+      {
+        "token": "から",
+        "startTime": 257500,
+        "endTime": 257780,
+        "pinyin": "kara"
+      },
+      {
+        "token": "、",
+        "startTime": 257780,
+        "endTime": 258060,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "電車 に 乗っ い ます が 正しい です 。",
+    "translations": {
+      "en": "'Densha ni notte imasu' is correct."
+    },
+    "segments": [
+      {
+        "token": "電車",
+        "startTime": 258060,
+        "endTime": 258560,
+        "pinyin": "densha"
+      },
+      {
+        "token": "に",
+        "startTime": 258560,
+        "endTime": 259060,
+        "pinyin": "ni"
+      },
+      {
+        "token": "乗っ",
+        "startTime": 259060,
+        "endTime": 259560,
+        "pinyin": "no"
+      },
+      {
+        "token": "い",
+        "startTime": 259560,
+        "endTime": 260060,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 260060,
+        "endTime": 260560,
+        "pinyin": "masu"
+      },
+      {
+        "token": "が",
+        "startTime": 260560,
+        "endTime": 261060,
+        "pinyin": "ga"
+      },
+      {
+        "token": "正しい",
+        "startTime": 261060,
+        "endTime": 261560,
+        "pinyin": "tadashii"
+      },
+      {
+        "token": "です",
+        "startTime": 261560,
+        "endTime": 262060,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 262060,
+        "endTime": 262560,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "この よう に 、",
+    "translations": {
+      "en": "Thus,"
+    },
+    "segments": [
+      {
+        "token": "この",
+        "startTime": 262560,
+        "endTime": 262870,
+        "pinyin": "kono"
+      },
+      {
+        "token": "よう",
+        "startTime": 262870,
+        "endTime": 263180,
+        "pinyin": "you"
+      },
+      {
+        "token": "に",
+        "startTime": 263180,
+        "endTime": 263490,
+        "pinyin": "ni"
+      },
+      {
+        "token": "、",
+        "startTime": 263490,
+        "endTime": 263800,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "ただ いる だけ の とき 、",
+    "translations": {
+      "en": "When you're just being somewhere,"
+    },
+    "segments": [
+      {
+        "token": "ただ",
+        "startTime": 263800,
+        "endTime": 264000,
+        "pinyin": "tada"
+      },
+      {
+        "token": "いる",
+        "startTime": 264000,
+        "endTime": 264340,
+        "pinyin": "iru"
+      },
+      {
+        "token": "だけ",
+        "startTime": 264340,
+        "endTime": 264660,
+        "pinyin": "dake"
+      },
+      {
+        "token": "の",
+        "startTime": 264660,
+        "endTime": 264840,
+        "pinyin": "no"
+      },
+      {
+        "token": "とき",
+        "startTime": 264840,
+        "endTime": 266100,
+        "pinyin": "toki"
+      },
+      {
+        "token": "、",
+        "startTime": 266100,
+        "endTime": 266180,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "に を い ます 。",
+    "translations": {
+      "en": "you use 'ni' with 'imasu'."
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 266180,
+        "endTime": 266512,
+        "pinyin": "ni"
+      },
+      {
+        "token": "を",
+        "startTime": 266512,
+        "endTime": 266844,
+        "pinyin": "wo"
+      },
+      {
+        "token": "い",
+        "startTime": 266844,
+        "endTime": 267176,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 267176,
+        "endTime": 267508,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 267508,
+        "endTime": 267840,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "そう じゃ ない とき 、 で を い ます 。",
+    "translations": {
+      "en": "When it's not like that, you use 'de' with 'imasu'."
+    },
+    "segments": [
+      {
+        "token": "そう",
+        "startTime": 267840,
+        "endTime": 268242,
+        "pinyin": "sou"
+      },
+      {
+        "token": "じゃ",
+        "startTime": 268242,
+        "endTime": 268644,
+        "pinyin": "ja"
+      },
+      {
+        "token": "ない",
+        "startTime": 268644,
+        "endTime": 269046,
+        "pinyin": "nai"
+      },
+      {
+        "token": "とき",
+        "startTime": 269046,
+        "endTime": 269448,
+        "pinyin": "toki"
+      },
+      {
+        "token": "、",
+        "startTime": 269448,
+        "endTime": 269850,
+        "pinyin": ","
+      },
+      {
+        "token": "で",
+        "startTime": 269850,
+        "endTime": 270252,
+        "pinyin": "de"
+      },
+      {
+        "token": "を",
+        "startTime": 270252,
+        "endTime": 270654,
+        "pinyin": "wo"
+      },
+      {
+        "token": "い",
+        "startTime": 270654,
+        "endTime": 271056,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 271056,
+        "endTime": 271458,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 271458,
+        "endTime": 271860,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "じゃあ 、 今 から 皆 さん に 問題 を 出",
+    "translations": {
+      "en": "Now, I'll give you all a question"
+    },
+    "segments": [
+      {
+        "token": "じゃあ",
+        "startTime": 271860,
+        "endTime": 272152,
+        "pinyin": "jaa"
+      },
+      {
+        "token": "、",
+        "startTime": 272152,
+        "endTime": 272444,
+        "pinyin": ","
+      },
+      {
+        "token": "今",
+        "startTime": 272444,
+        "endTime": 272736,
+        "pinyin": "ima"
+      },
+      {
+        "token": "から",
+        "startTime": 272736,
+        "endTime": 273028,
+        "pinyin": "kara"
+      },
+      {
+        "token": "皆",
+        "startTime": 273028,
+        "endTime": 273320,
+        "pinyin": "mina"
+      },
+      {
+        "token": "さん",
+        "startTime": 273320,
+        "endTime": 273612,
+        "pinyin": "san"
+      },
+      {
+        "token": "に",
+        "startTime": 273612,
+        "endTime": 273904,
+        "pinyin": "ni"
+      },
+      {
+        "token": "問題",
+        "startTime": 273904,
+        "endTime": 274196,
+        "pinyin": "mondai"
+      },
+      {
+        "token": "を",
+        "startTime": 274196,
+        "endTime": 274488,
+        "pinyin": "wo"
+      },
+      {
+        "token": "出",
+        "startTime": 274488,
+        "endTime": 274780,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "し ます 。",
+    "translations": {
+      "en": "to do."
+    },
+    "segments": [
+      {
+        "token": "し",
+        "startTime": 274780,
+        "endTime": 275160,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 275160,
+        "endTime": 275540,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 275540,
+        "endTime": 275920,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "に です か ? で です か ? ちょっと 考え て み",
+    "translations": {
+      "en": "'Ni' or 'de'? Think about it a bit,"
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 275920,
+        "endTime": 276200,
+        "pinyin": "ni"
+      },
+      {
+        "token": "です",
+        "startTime": 276200,
+        "endTime": 276480,
+        "pinyin": "desu"
+      },
+      {
+        "token": "か",
+        "startTime": 276480,
+        "endTime": 276760,
+        "pinyin": "ka"
+      },
+      {
+        "token": "?",
+        "startTime": 276760,
+        "endTime": 277040,
+        "pinyin": "?"
+      },
+      {
+        "token": "で",
+        "startTime": 277040,
+        "endTime": 277320,
+        "pinyin": "de"
+      },
+      {
+        "token": "です",
+        "startTime": 277320,
+        "endTime": 277600,
+        "pinyin": "desu"
+      },
+      {
+        "token": "か",
+        "startTime": 277600,
+        "endTime": 277880,
+        "pinyin": "ka"
+      },
+      {
+        "token": "?",
+        "startTime": 277880,
+        "endTime": 278160,
+        "pinyin": "?"
+      },
+      {
+        "token": "ちょっと",
+        "startTime": 278160,
+        "endTime": 278440,
+        "pinyin": "chotto"
+      },
+      {
+        "token": "考え",
+        "startTime": 278440,
+        "endTime": 278720,
+        "pinyin": "kangae"
+      },
+      {
+        "token": "て",
+        "startTime": 278720,
+        "endTime": 279000,
+        "pinyin": "te"
+      },
+      {
+        "token": "み",
+        "startTime": 279000,
+        "endTime": 279280,
+        "pinyin": "mi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "ください 。",
+    "translations": {
+      "en": "please."
+    },
+    "segments": [
+      {
+        "token": "ください",
+        "startTime": 279280,
+        "endTime": 283660,
+        "pinyin": "kudasai"
+      },
+      {
+        "token": "。",
+        "startTime": 283660,
+        "endTime": 288040,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "食べ て を 消し たら 、",
+    "translations": {
+      "en": "If you remove 'tabete',"
+    },
+    "segments": [
+      {
+        "token": "食べ",
+        "startTime": 288040,
+        "endTime": 288260,
+        "pinyin": "tabe"
+      },
+      {
+        "token": "て",
+        "startTime": 288260,
+        "endTime": 288640,
+        "pinyin": "te"
+      },
+      {
+        "token": "を",
+        "startTime": 288640,
+        "endTime": 289280,
+        "pinyin": "wo"
+      },
+      {
+        "token": "消し",
+        "startTime": 289280,
+        "endTime": 289720,
+        "pinyin": "keshi"
+      },
+      {
+        "token": "たら",
+        "startTime": 289720,
+        "endTime": 290760,
+        "pinyin": "tara"
+      },
+      {
+        "token": "、",
+        "startTime": 290760,
+        "endTime": 291020,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "ただ いる です ね 。",
+    "translations": {
+      "en": "it's just 'imasu'."
+    },
+    "segments": [
+      {
+        "token": "ただ",
+        "startTime": 291020,
+        "endTime": 291508,
+        "pinyin": "tada"
+      },
+      {
+        "token": "いる",
+        "startTime": 291508,
+        "endTime": 291996,
+        "pinyin": "iru"
+      },
+      {
+        "token": "です",
+        "startTime": 291996,
+        "endTime": 292484,
+        "pinyin": "desu"
+      },
+      {
+        "token": "ね",
+        "startTime": 292484,
+        "endTime": 292972,
+        "pinyin": "ne"
+      },
+      {
+        "token": "。",
+        "startTime": 292972,
+        "endTime": 293460,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "意味 が 変わっ て い ます から 、",
+    "translations": {
+      "en": "Since the meaning changes,"
+    },
+    "segments": [
+      {
+        "token": "意味",
+        "startTime": 293460,
+        "endTime": 293732,
+        "pinyin": "imi"
+      },
+      {
+        "token": "が",
+        "startTime": 293732,
+        "endTime": 294005,
+        "pinyin": "ga"
+      },
+      {
+        "token": "変わっ",
+        "startTime": 294005,
+        "endTime": 294278,
+        "pinyin": "kawa"
+      },
+      {
+        "token": "て",
+        "startTime": 294278,
+        "endTime": 294550,
+        "pinyin": "te"
+      },
+      {
+        "token": "い",
+        "startTime": 294550,
+        "endTime": 294823,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 294823,
+        "endTime": 295095,
+        "pinyin": "masu"
+      },
+      {
+        "token": "から",
+        "startTime": 295095,
+        "endTime": 295368,
+        "pinyin": "kara"
+      },
+      {
+        "token": "、",
+        "startTime": 295368,
+        "endTime": 295640,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ は で です 。",
+    "translations": {
+      "en": "this is 'de'."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 295640,
+        "endTime": 296052,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 296052,
+        "endTime": 296464,
+        "pinyin": "wa"
+      },
+      {
+        "token": "で",
+        "startTime": 296464,
+        "endTime": 296876,
+        "pinyin": "de"
+      },
+      {
+        "token": "です",
+        "startTime": 296876,
+        "endTime": 297288,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 297288,
+        "endTime": 297700,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "田中 さん は 、",
+    "translations": {
+      "en": "Tanaka-san"
+    },
+    "segments": [
+      {
+        "token": "田中",
+        "startTime": 297700,
+        "endTime": 298090,
+        "pinyin": "Tanaka"
+      },
+      {
+        "token": "さん",
+        "startTime": 298090,
+        "endTime": 298350,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 298350,
+        "endTime": 298830,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 298830,
+        "endTime": 299230,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "食堂 で 夕食 を 食べ い ます が 、",
+    "translations": {
+      "en": "is eating dinner in the cafeteria,"
+    },
+    "segments": [
+      {
+        "token": "食堂",
+        "startTime": 299230,
+        "endTime": 299606,
+        "pinyin": "shokudou"
+      },
+      {
+        "token": "で",
+        "startTime": 299606,
+        "endTime": 299981,
+        "pinyin": "de"
+      },
+      {
+        "token": "夕食",
+        "startTime": 299981,
+        "endTime": 300357,
+        "pinyin": "yuushoku"
+      },
+      {
+        "token": "を",
+        "startTime": 300357,
+        "endTime": 300732,
+        "pinyin": "wo"
+      },
+      {
+        "token": "食べ",
+        "startTime": 300732,
+        "endTime": 301108,
+        "pinyin": "tabe"
+      },
+      {
+        "token": "い",
+        "startTime": 301108,
+        "endTime": 301483,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 301483,
+        "endTime": 301859,
+        "pinyin": "masu"
+      },
+      {
+        "token": "が",
+        "startTime": 301859,
+        "endTime": 302234,
+        "pinyin": "ga"
+      },
+      {
+        "token": "、",
+        "startTime": 302234,
+        "endTime": 302610,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "正しい です ね 。",
+    "translations": {
+      "en": "That's correct."
+    },
+    "segments": [
+      {
+        "token": "正しい",
+        "startTime": 302610,
+        "endTime": 304865,
+        "pinyin": "tadashii"
+      },
+      {
+        "token": "です",
+        "startTime": 304865,
+        "endTime": 307120,
+        "pinyin": "desu"
+      },
+      {
+        "token": "ね",
+        "startTime": 307120,
+        "endTime": 309375,
+        "pinyin": "ne"
+      },
+      {
+        "token": "。",
+        "startTime": 309375,
+        "endTime": 311630,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "電話 し て を 消し たら 、 ただ",
+    "translations": {
+      "en": "If you remove 'telephone', it's just"
+    },
+    "segments": [
+      {
+        "token": "電話",
+        "startTime": 311630,
+        "endTime": 312050,
+        "pinyin": "denwa"
+      },
+      {
+        "token": "し",
+        "startTime": 312050,
+        "endTime": 312410,
+        "pinyin": "shi"
+      },
+      {
+        "token": "て",
+        "startTime": 312410,
+        "endTime": 313210,
+        "pinyin": "te"
+      },
+      {
+        "token": "を",
+        "startTime": 313210,
+        "endTime": 313710,
+        "pinyin": "wo"
+      },
+      {
+        "token": "消し",
+        "startTime": 313710,
+        "endTime": 313990,
+        "pinyin": "keshi"
+      },
+      {
+        "token": "たら",
+        "startTime": 313990,
+        "endTime": 314810,
+        "pinyin": "tara"
+      },
+      {
+        "token": "、",
+        "startTime": 314810,
+        "endTime": 315050,
+        "pinyin": ","
+      },
+      {
+        "token": "ただ",
+        "startTime": 315050,
+        "endTime": 315710,
+        "pinyin": "tada"
+      }
+    ]
+  },
+  {
+    "sentence_text": "いる です ね 。",
+    "translations": {
+      "en": "you are there."
+    },
+    "segments": [
+      {
+        "token": "いる",
+        "startTime": 315710,
+        "endTime": 316170,
+        "pinyin": "iru"
+      },
+      {
+        "token": "です",
+        "startTime": 316170,
+        "endTime": 316630,
+        "pinyin": "desu"
+      },
+      {
+        "token": "ね",
+        "startTime": 316630,
+        "endTime": 317090,
+        "pinyin": "ne"
+      },
+      {
+        "token": "。",
+        "startTime": 317090,
+        "endTime": 317550,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "意味 が 変わっ て い ます から 、 で です 。",
+    "translations": {
+      "en": "Because the meaning changes, so it's."
+    },
+    "segments": [
+      {
+        "token": "意味",
+        "startTime": 317550,
+        "endTime": 317934,
+        "pinyin": "imi"
+      },
+      {
+        "token": "が",
+        "startTime": 317934,
+        "endTime": 318317,
+        "pinyin": "ga"
+      },
+      {
+        "token": "変わっ",
+        "startTime": 318317,
+        "endTime": 318701,
+        "pinyin": "kawa"
+      },
+      {
+        "token": "て",
+        "startTime": 318701,
+        "endTime": 319085,
+        "pinyin": "te"
+      },
+      {
+        "token": "い",
+        "startTime": 319085,
+        "endTime": 319468,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 319468,
+        "endTime": 319852,
+        "pinyin": "masu"
+      },
+      {
+        "token": "から",
+        "startTime": 319852,
+        "endTime": 320235,
+        "pinyin": "kara"
+      },
+      {
+        "token": "、",
+        "startTime": 320235,
+        "endTime": 320619,
+        "pinyin": ","
+      },
+      {
+        "token": "で",
+        "startTime": 320619,
+        "endTime": 321003,
+        "pinyin": "de"
+      },
+      {
+        "token": "です",
+        "startTime": 321003,
+        "endTime": 321386,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 321386,
+        "endTime": 321770,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "ず い さん は 、",
+    "translations": {
+      "en": "Mr. Zui-san,"
+    },
+    "segments": [
+      {
+        "token": "ず",
+        "startTime": 321770,
+        "endTime": 321970,
+        "pinyin": "zu"
+      },
+      {
+        "token": "い",
+        "startTime": 321970,
+        "endTime": 322050,
+        "pinyin": "i"
+      },
+      {
+        "token": "さん",
+        "startTime": 322050,
+        "endTime": 322250,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 322250,
+        "endTime": 322590,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 322590,
+        "endTime": 322950,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "「 部屋 で 電話 い ます 。 」 が",
+    "translations": {
+      "en": "\"I am on the phone in the room.\" is"
+    },
+    "segments": [
+      {
+        "token": "「",
+        "startTime": 322950,
+        "endTime": 323248,
+        "pinyin": "\""
+      },
+      {
+        "token": "部屋",
+        "startTime": 323248,
+        "endTime": 323546,
+        "pinyin": "heya"
+      },
+      {
+        "token": "で",
+        "startTime": 323546,
+        "endTime": 323843,
+        "pinyin": "de"
+      },
+      {
+        "token": "電話",
+        "startTime": 323843,
+        "endTime": 324141,
+        "pinyin": "denwa"
+      },
+      {
+        "token": "い",
+        "startTime": 324141,
+        "endTime": 324439,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 324439,
+        "endTime": 324737,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 324737,
+        "endTime": 325034,
+        "pinyin": "."
+      },
+      {
+        "token": "」",
+        "startTime": 325034,
+        "endTime": 325332,
+        "pinyin": "\""
+      },
+      {
+        "token": "が",
+        "startTime": 325332,
+        "endTime": 325630,
+        "pinyin": "ga"
+      }
+    ]
+  },
+  {
+    "sentence_text": "正しい です 。",
+    "translations": {
+      "en": "correct."
+    },
+    "segments": [
+      {
+        "token": "正しい",
+        "startTime": 325630,
+        "endTime": 328817,
+        "pinyin": "tadashii"
+      },
+      {
+        "token": "です",
+        "startTime": 328817,
+        "endTime": 332003,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 332003,
+        "endTime": 335190,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "入っ て を 消し て も 、 意味",
+    "translations": {
+      "en": "Even if you remove 'enter', the meaning"
+    },
+    "segments": [
+      {
+        "token": "入っ",
+        "startTime": 335190,
+        "endTime": 335830,
+        "pinyin": "hai"
+      },
+      {
+        "token": "て",
+        "startTime": 335830,
+        "endTime": 336350,
+        "pinyin": "te"
+      },
+      {
+        "token": "を",
+        "startTime": 336350,
+        "endTime": 336570,
+        "pinyin": "wo"
+      },
+      {
+        "token": "消し",
+        "startTime": 336570,
+        "endTime": 336810,
+        "pinyin": "keshi"
+      },
+      {
+        "token": "て",
+        "startTime": 336810,
+        "endTime": 337270,
+        "pinyin": "te"
+      },
+      {
+        "token": "も",
+        "startTime": 337270,
+        "endTime": 337690,
+        "pinyin": "mo"
+      },
+      {
+        "token": "、",
+        "startTime": 337690,
+        "endTime": 337750,
+        "pinyin": ","
+      },
+      {
+        "token": "意味",
+        "startTime": 337750,
+        "endTime": 338130,
+        "pinyin": "imi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "は ほとんど 変わり ませ ん ね",
+    "translations": {
+      "en": "hardly changes."
+    },
+    "segments": [
+      {
+        "token": "は",
+        "startTime": 338130,
+        "endTime": 338563,
+        "pinyin": "wa"
+      },
+      {
+        "token": "ほとんど",
+        "startTime": 338563,
+        "endTime": 338997,
+        "pinyin": "hotondo"
+      },
+      {
+        "token": "変わり",
+        "startTime": 338997,
+        "endTime": 339430,
+        "pinyin": "kawari"
+      },
+      {
+        "token": "ませ",
+        "startTime": 339430,
+        "endTime": 339863,
+        "pinyin": "mase"
+      },
+      {
+        "token": "ん",
+        "startTime": 339863,
+        "endTime": 340297,
+        "pinyin": "n"
+      },
+      {
+        "token": "ね",
+        "startTime": 340297,
+        "endTime": 340730,
+        "pinyin": "ne"
+      }
+    ]
+  },
+  {
+    "sentence_text": "。 わん さん は 、",
+    "translations": {
+      "en": "Mr. Wan-san,"
+    },
+    "segments": [
+      {
+        "token": "。",
+        "startTime": 340730,
+        "endTime": 340910,
+        "pinyin": "."
+      },
+      {
+        "token": "わん",
+        "startTime": 340910,
+        "endTime": 341270,
+        "pinyin": "wan"
+      },
+      {
+        "token": "さん",
+        "startTime": 341270,
+        "endTime": 341930,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 341930,
+        "endTime": 342070,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 342070,
+        "endTime": 342230,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "「 お 風呂 い ます 。 」 が 正しい",
+    "translations": {
+      "en": "\"I am in the bath.\" is correct"
+    },
+    "segments": [
+      {
+        "token": "「",
+        "startTime": 342230,
+        "endTime": 342508,
+        "pinyin": "\""
+      },
+      {
+        "token": "お",
+        "startTime": 342508,
+        "endTime": 342786,
+        "pinyin": "o"
+      },
+      {
+        "token": "風呂",
+        "startTime": 342786,
+        "endTime": 343063,
+        "pinyin": "furo"
+      },
+      {
+        "token": "い",
+        "startTime": 343063,
+        "endTime": 343341,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 343341,
+        "endTime": 343619,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 343619,
+        "endTime": 343897,
+        "pinyin": "."
+      },
+      {
+        "token": "」",
+        "startTime": 343897,
+        "endTime": 344174,
+        "pinyin": "\""
+      },
+      {
+        "token": "が",
+        "startTime": 344174,
+        "endTime": 344452,
+        "pinyin": "ga"
+      },
+      {
+        "token": "正しい",
+        "startTime": 344452,
+        "endTime": 344730,
+        "pinyin": "tadashii"
+      }
+    ]
+  },
+  {
+    "sentence_text": "です ね 。",
+    "translations": {
+      "en": "indeed."
+    },
+    "segments": [
+      {
+        "token": "です",
+        "startTime": 344730,
+        "endTime": 347763,
+        "pinyin": "desu"
+      },
+      {
+        "token": "ね",
+        "startTime": 347763,
+        "endTime": 350797,
+        "pinyin": "ne"
+      },
+      {
+        "token": "。",
+        "startTime": 350797,
+        "endTime": 353830,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "ふっ て を 消し たら 、",
+    "translations": {
+      "en": "If you remove 'fall',"
+    },
+    "segments": [
+      {
+        "token": "ふっ",
+        "startTime": 353830,
+        "endTime": 354350,
+        "pinyin": "fu"
+      },
+      {
+        "token": "て",
+        "startTime": 354350,
+        "endTime": 355010,
+        "pinyin": "te"
+      },
+      {
+        "token": "を",
+        "startTime": 355010,
+        "endTime": 355210,
+        "pinyin": "wo"
+      },
+      {
+        "token": "消し",
+        "startTime": 355210,
+        "endTime": 355470,
+        "pinyin": "keshi"
+      },
+      {
+        "token": "たら",
+        "startTime": 355470,
+        "endTime": 355910,
+        "pinyin": "tara"
+      },
+      {
+        "token": "、",
+        "startTime": 355910,
+        "endTime": 356510,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "雨 い ます は おかしい です ね 。",
+    "translations": {
+      "en": "\"It is raining\" sounds strange."
+    },
+    "segments": [
+      {
+        "token": "雨",
+        "startTime": 356510,
+        "endTime": 356950,
+        "pinyin": "ame"
+      },
+      {
+        "token": "い",
+        "startTime": 356950,
+        "endTime": 357390,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 357390,
+        "endTime": 357830,
+        "pinyin": "masu"
+      },
+      {
+        "token": "は",
+        "startTime": 357830,
+        "endTime": 358270,
+        "pinyin": "wa"
+      },
+      {
+        "token": "おかしい",
+        "startTime": 358270,
+        "endTime": 358710,
+        "pinyin": "okashii"
+      },
+      {
+        "token": "です",
+        "startTime": 358710,
+        "endTime": 359150,
+        "pinyin": "desu"
+      },
+      {
+        "token": "ね",
+        "startTime": 359150,
+        "endTime": 359590,
+        "pinyin": "ne"
+      },
+      {
+        "token": "。",
+        "startTime": 359590,
+        "endTime": 360030,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "です から 、",
+    "translations": {
+      "en": "Therefore,"
+    },
+    "segments": [
+      {
+        "token": "です",
+        "startTime": 360030,
+        "endTime": 360357,
+        "pinyin": "desu"
+      },
+      {
+        "token": "から",
+        "startTime": 360357,
+        "endTime": 360683,
+        "pinyin": "kara"
+      },
+      {
+        "token": "、",
+        "startTime": 360683,
+        "endTime": 361010,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "外 で は 雨 が 降っ い ます が",
+    "translations": {
+      "en": "\"It is raining outside\" is"
+    },
+    "segments": [
+      {
+        "token": "外",
+        "startTime": 361010,
+        "endTime": 361321,
+        "pinyin": "soto"
+      },
+      {
+        "token": "で",
+        "startTime": 361321,
+        "endTime": 361632,
+        "pinyin": "de"
+      },
+      {
+        "token": "は",
+        "startTime": 361632,
+        "endTime": 361943,
+        "pinyin": "wa"
+      },
+      {
+        "token": "雨",
+        "startTime": 361943,
+        "endTime": 362254,
+        "pinyin": "ame"
+      },
+      {
+        "token": "が",
+        "startTime": 362254,
+        "endTime": 362566,
+        "pinyin": "ga"
+      },
+      {
+        "token": "降っ",
+        "startTime": 362566,
+        "endTime": 362877,
+        "pinyin": "fu"
+      },
+      {
+        "token": "い",
+        "startTime": 362877,
+        "endTime": 363188,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 363188,
+        "endTime": 363499,
+        "pinyin": "masu"
+      },
+      {
+        "token": "が",
+        "startTime": 363499,
+        "endTime": 363810,
+        "pinyin": "ga"
+      }
+    ]
+  },
+  {
+    "sentence_text": "正しい です 。",
+    "translations": {
+      "en": "correct."
+    },
+    "segments": [
+      {
+        "token": "正しい",
+        "startTime": 363810,
+        "endTime": 364630,
+        "pinyin": "tadashii"
+      },
+      {
+        "token": "です",
+        "startTime": 364630,
+        "endTime": 365450,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 365450,
+        "endTime": 366270,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "いかが でし た か ? この と いう の は 、",
+    "translations": {
+      "en": "How was it? This kind of thing is"
+    },
+    "segments": [
+      {
+        "token": "いかが",
+        "startTime": 366270,
+        "endTime": 366615,
+        "pinyin": "ika ga"
+      },
+      {
+        "token": "でし",
+        "startTime": 366615,
+        "endTime": 366961,
+        "pinyin": "deshi"
+      },
+      {
+        "token": "た",
+        "startTime": 366961,
+        "endTime": 367306,
+        "pinyin": "ta"
+      },
+      {
+        "token": "か",
+        "startTime": 367306,
+        "endTime": 367652,
+        "pinyin": "ka"
+      },
+      {
+        "token": "?",
+        "startTime": 367652,
+        "endTime": 367997,
+        "pinyin": "?"
+      },
+      {
+        "token": "この",
+        "startTime": 367997,
+        "endTime": 368343,
+        "pinyin": "kono"
+      },
+      {
+        "token": "と",
+        "startTime": 368343,
+        "endTime": 368688,
+        "pinyin": "to"
+      },
+      {
+        "token": "いう",
+        "startTime": 368688,
+        "endTime": 369034,
+        "pinyin": "iu"
+      },
+      {
+        "token": "の",
+        "startTime": 369034,
+        "endTime": 369379,
+        "pinyin": "no"
+      },
+      {
+        "token": "は",
+        "startTime": 369379,
+        "endTime": 369725,
+        "pinyin": "wa"
+      },
+      {
+        "token": "、",
+        "startTime": 369725,
+        "endTime": 370070,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "日本 語 を 勉強 し て いる 人",
+    "translations": {
+      "en": "something that people studying Japanese"
+    },
+    "segments": [
+      {
+        "token": "日本",
+        "startTime": 370070,
+        "endTime": 370270,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 370270,
+        "endTime": 370550,
+        "pinyin": "go"
+      },
+      {
+        "token": "を",
+        "startTime": 370550,
+        "endTime": 370690,
+        "pinyin": "wo"
+      },
+      {
+        "token": "勉強",
+        "startTime": 370690,
+        "endTime": 370990,
+        "pinyin": "benkyou"
+      },
+      {
+        "token": "し",
+        "startTime": 370990,
+        "endTime": 371330,
+        "pinyin": "shi"
+      },
+      {
+        "token": "て",
+        "startTime": 371330,
+        "endTime": 371510,
+        "pinyin": "te"
+      },
+      {
+        "token": "いる",
+        "startTime": 371510,
+        "endTime": 371810,
+        "pinyin": "iru"
+      },
+      {
+        "token": "人",
+        "startTime": 371810,
+        "endTime": 371950,
+        "pinyin": "hito"
+      }
+    ]
+  },
+  {
+    "sentence_text": "たち に とっ て 難しい と 思い ます 。",
+    "translations": {
+      "en": "find difficult, I think."
+    },
+    "segments": [
+      {
+        "token": "たち",
+        "startTime": 371950,
+        "endTime": 372352,
+        "pinyin": "tachi"
+      },
+      {
+        "token": "に",
+        "startTime": 372352,
+        "endTime": 372754,
+        "pinyin": "ni"
+      },
+      {
+        "token": "とっ",
+        "startTime": 372754,
+        "endTime": 373157,
+        "pinyin": "to"
+      },
+      {
+        "token": "て",
+        "startTime": 373157,
+        "endTime": 373559,
+        "pinyin": "te"
+      },
+      {
+        "token": "難しい",
+        "startTime": 373559,
+        "endTime": 373961,
+        "pinyin": "muzukashii"
+      },
+      {
+        "token": "と",
+        "startTime": 373961,
+        "endTime": 374363,
+        "pinyin": "to"
+      },
+      {
+        "token": "思い",
+        "startTime": 374363,
+        "endTime": 374766,
+        "pinyin": "omoi"
+      },
+      {
+        "token": "ます",
+        "startTime": 374766,
+        "endTime": 375168,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 375168,
+        "endTime": 375570,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "この 手 を 取っ て 、",
+    "translations": {
+      "en": "Take this hand,"
+    },
+    "segments": [
+      {
+        "token": "この",
+        "startTime": 375570,
+        "endTime": 375923,
+        "pinyin": "kono"
+      },
+      {
+        "token": "手",
+        "startTime": 375923,
+        "endTime": 376277,
+        "pinyin": "te"
+      },
+      {
+        "token": "を",
+        "startTime": 376277,
+        "endTime": 376630,
+        "pinyin": "wo"
+      },
+      {
+        "token": "取っ",
+        "startTime": 376630,
+        "endTime": 376983,
+        "pinyin": "to"
+      },
+      {
+        "token": "て",
+        "startTime": 376983,
+        "endTime": 377337,
+        "pinyin": "te"
+      },
+      {
+        "token": "、",
+        "startTime": 377337,
+        "endTime": 377690,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "ただ いる だけ か 、",
+    "translations": {
+      "en": "or just be here,"
+    },
+    "segments": [
+      {
+        "token": "ただ",
+        "startTime": 377690,
+        "endTime": 377890,
+        "pinyin": "tada"
+      },
+      {
+        "token": "いる",
+        "startTime": 377890,
+        "endTime": 378450,
+        "pinyin": "iru"
+      },
+      {
+        "token": "だけ",
+        "startTime": 378450,
+        "endTime": 378770,
+        "pinyin": "dake"
+      },
+      {
+        "token": "か",
+        "startTime": 378770,
+        "endTime": 379590,
+        "pinyin": "ka"
+      },
+      {
+        "token": "、",
+        "startTime": 379590,
+        "endTime": 379750,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "じゃ ない か と いう 考え 方 を する と",
+    "translations": {
+      "en": "if you think, 'Isn't that it?'"
+    },
+    "segments": [
+      {
+        "token": "じゃ",
+        "startTime": 379750,
+        "endTime": 380088,
+        "pinyin": "ja"
+      },
+      {
+        "token": "ない",
+        "startTime": 380088,
+        "endTime": 380426,
+        "pinyin": "nai"
+      },
+      {
+        "token": "か",
+        "startTime": 380426,
+        "endTime": 380764,
+        "pinyin": "ka"
+      },
+      {
+        "token": "と",
+        "startTime": 380764,
+        "endTime": 381102,
+        "pinyin": "to"
+      },
+      {
+        "token": "いう",
+        "startTime": 381102,
+        "endTime": 381440,
+        "pinyin": "iu"
+      },
+      {
+        "token": "考え",
+        "startTime": 381440,
+        "endTime": 381778,
+        "pinyin": "kangae"
+      },
+      {
+        "token": "方",
+        "startTime": 381778,
+        "endTime": 382116,
+        "pinyin": "kata"
+      },
+      {
+        "token": "を",
+        "startTime": 382116,
+        "endTime": 382454,
+        "pinyin": "wo"
+      },
+      {
+        "token": "する",
+        "startTime": 382454,
+        "endTime": 382792,
+        "pinyin": "suru"
+      },
+      {
+        "token": "と",
+        "startTime": 382792,
+        "endTime": 383130,
+        "pinyin": "to"
+      }
+    ]
+  },
+  {
+    "sentence_text": "もう に と で を 間違え なく て",
+    "translations": {
+      "en": "you won't mistake the path"
+    },
+    "segments": [
+      {
+        "token": "もう",
+        "startTime": 383130,
+        "endTime": 383350,
+        "pinyin": "mou"
+      },
+      {
+        "token": "に",
+        "startTime": 383350,
+        "endTime": 383630,
+        "pinyin": "ni"
+      },
+      {
+        "token": "と",
+        "startTime": 383630,
+        "endTime": 383910,
+        "pinyin": "to"
+      },
+      {
+        "token": "で",
+        "startTime": 383910,
+        "endTime": 384070,
+        "pinyin": "de"
+      },
+      {
+        "token": "を",
+        "startTime": 384070,
+        "endTime": 384250,
+        "pinyin": "wo"
+      },
+      {
+        "token": "間違え",
+        "startTime": 384250,
+        "endTime": 384990,
+        "pinyin": "machigae"
+      },
+      {
+        "token": "なく",
+        "startTime": 384990,
+        "endTime": 385130,
+        "pinyin": "naku"
+      },
+      {
+        "token": "て",
+        "startTime": 385130,
+        "endTime": 385350,
+        "pinyin": "te"
+      }
+    ]
+  },
+  {
+    "sentence_text": "よく なり ます よ",
+    "translations": {
+      "en": "and it will get better."
+    },
+    "segments": [
+      {
+        "token": "よく",
+        "startTime": 385350,
+        "endTime": 385915,
+        "pinyin": "yoku"
+      },
+      {
+        "token": "なり",
+        "startTime": 385915,
+        "endTime": 386480,
+        "pinyin": "nari"
+      },
+      {
+        "token": "ます",
+        "startTime": 386480,
+        "endTime": 387045,
+        "pinyin": "masu"
+      },
+      {
+        "token": "よ",
+        "startTime": 387045,
+        "endTime": 387610,
+        "pinyin": "yo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "。 この 動画 が いい と 思っ たら",
+    "translations": {
+      "en": "If you liked this video,"
+    },
+    "segments": [
+      {
+        "token": "。",
+        "startTime": 387610,
+        "endTime": 387850,
+        "pinyin": "."
+      },
+      {
+        "token": "この",
+        "startTime": 387850,
+        "endTime": 388130,
+        "pinyin": "kono"
+      },
+      {
+        "token": "動画",
+        "startTime": 388130,
+        "endTime": 388390,
+        "pinyin": "douga"
+      },
+      {
+        "token": "が",
+        "startTime": 388390,
+        "endTime": 388710,
+        "pinyin": "ga"
+      },
+      {
+        "token": "いい",
+        "startTime": 388710,
+        "endTime": 389050,
+        "pinyin": "ii"
+      },
+      {
+        "token": "と",
+        "startTime": 389050,
+        "endTime": 389550,
+        "pinyin": "to"
+      },
+      {
+        "token": "思っ",
+        "startTime": 389550,
+        "endTime": 389730,
+        "pinyin": "omo"
+      },
+      {
+        "token": "たら",
+        "startTime": 389730,
+        "endTime": 390030,
+        "pinyin": "tara"
+      }
+    ]
+  },
+  {
+    "sentence_text": "チャンネル 登録 よろしく お 願い し ます 。",
+    "translations": {
+      "en": "please subscribe to the channel."
+    },
+    "segments": [
+      {
+        "token": "チャンネル",
+        "startTime": 390030,
+        "endTime": 390357,
+        "pinyin": "channeru"
+      },
+      {
+        "token": "登録",
+        "startTime": 390357,
+        "endTime": 390685,
+        "pinyin": "touroku"
+      },
+      {
+        "token": "よろしく",
+        "startTime": 390685,
+        "endTime": 391013,
+        "pinyin": "yoroshiku"
+      },
+      {
+        "token": "お",
+        "startTime": 391013,
+        "endTime": 391340,
+        "pinyin": "o"
+      },
+      {
+        "token": "願い",
+        "startTime": 391340,
+        "endTime": 391667,
+        "pinyin": "negai"
+      },
+      {
+        "token": "し",
+        "startTime": 391667,
+        "endTime": 391995,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 391995,
+        "endTime": 392323,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 392323,
+        "endTime": 392650,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "それ で は また 次 の 動画 で お 会い",
+    "translations": {
+      "en": "Then I'll see you in the next video."
+    },
+    "segments": [
+      {
+        "token": "それ",
+        "startTime": 392650,
+        "endTime": 392822,
+        "pinyin": "sore"
+      },
+      {
+        "token": "で",
+        "startTime": 392822,
+        "endTime": 392994,
+        "pinyin": "de"
+      },
+      {
+        "token": "は",
+        "startTime": 392994,
+        "endTime": 393166,
+        "pinyin": "wa"
+      },
+      {
+        "token": "また",
+        "startTime": 393166,
+        "endTime": 393338,
+        "pinyin": "mata"
+      },
+      {
+        "token": "次",
+        "startTime": 393338,
+        "endTime": 393510,
+        "pinyin": "ji"
+      },
+      {
+        "token": "の",
+        "startTime": 393510,
+        "endTime": 393682,
+        "pinyin": "no"
+      },
+      {
+        "token": "動画",
+        "startTime": 393682,
+        "endTime": 393854,
+        "pinyin": "douga"
+      },
+      {
+        "token": "で",
+        "startTime": 393854,
+        "endTime": 394026,
+        "pinyin": "de"
+      },
+      {
+        "token": "お",
+        "startTime": 394026,
+        "endTime": 394198,
+        "pinyin": "o"
+      },
+      {
+        "token": "会い",
+        "startTime": 394198,
+        "endTime": 394370,
+        "pinyin": "ai"
+      }
+    ]
+  },
+  {
+    "sentence_text": "し ましょう 。",
+    "translations": {
+      "en": "See you."
+    },
+    "segments": [
+      {
+        "token": "し",
+        "startTime": 394370,
+        "endTime": 394570,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ましょう",
+        "startTime": 394570,
+        "endTime": 394770,
+        "pinyin": "mashou"
+      },
+      {
+        "token": "。",
+        "startTime": 394770,
+        "endTime": 394970,
+        "pinyin": "."
+      }
+    ]
+  }
+]
