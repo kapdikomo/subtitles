@@ -1,0 +1,3468 @@
+[
+  {
+    "sentence_text": "こんにちは !",
+    "translations": {
+      "en": "Hello!"
+    },
+    "segments": [
+      {
+        "token": "こんにちは",
+        "startTime": 0,
+        "endTime": 260,
+        "romaji": "konnichiha",
+        "kana": "こんにちは"
+      },
+      {
+        "token": "!",
+        "startTime": 260,
+        "endTime": 520,
+        "romaji": "!",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "日本 語 ラーニング の ゆうた です 。",
+    "translations": {
+      "en": "I'm Yuta from Japanese Learning."
+    },
+    "segments": [
+      {
+        "token": "日本",
+        "startTime": 520,
+        "endTime": 1126,
+        "romaji": "Nippon",
+        "kana": "にっぽん"
+      },
+      {
+        "token": "語",
+        "startTime": 1126,
+        "endTime": 1731,
+        "romaji": "go",
+        "kana": "ご"
+      },
+      {
+        "token": "ラーニング",
+        "startTime": 1731,
+        "endTime": 2337,
+        "romaji": "raaningu",
+        "kana": "らーにんぐ"
+      },
+      {
+        "token": "の",
+        "startTime": 2337,
+        "endTime": 2943,
+        "romaji": "no",
+        "kana": "の"
+      },
+      {
+        "token": "ゆうた",
+        "startTime": 2943,
+        "endTime": 3549,
+        "romaji": "yuuta",
+        "kana": "ゆうた"
+      },
+      {
+        "token": "です",
+        "startTime": 3549,
+        "endTime": 4154,
+        "romaji": "desu",
+        "kana": "です"
+      },
+      {
+        "token": "。",
+        "startTime": 4154,
+        "endTime": 4760,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "この ビデオ で は 、",
+    "translations": {
+      "en": "In this video,"
+    },
+    "segments": [
+      {
+        "token": "この",
+        "startTime": 4760,
+        "endTime": 5208,
+        "romaji": "kono",
+        "kana": "この"
+      },
+      {
+        "token": "ビデオ",
+        "startTime": 5208,
+        "endTime": 5656,
+        "romaji": "bideo",
+        "kana": "びでお"
+      },
+      {
+        "token": "で",
+        "startTime": 5656,
+        "endTime": 6104,
+        "romaji": "de",
+        "kana": "で"
+      },
+      {
+        "token": "は",
+        "startTime": 6104,
+        "endTime": 6552,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "、",
+        "startTime": 6552,
+        "endTime": 7000,
+        "romaji": ",",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝 に する こと を 皆 さん に 話し ます 。",
+    "translations": {
+      "en": "I'll talk about what I do in the morning."
+    },
+    "segments": [
+      {
+        "token": "朝",
+        "startTime": 7000,
+        "endTime": 7671,
+        "romaji": "asa",
+        "kana": "あさ"
+      },
+      {
+        "token": "に",
+        "startTime": 7671,
+        "endTime": 8342,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "する",
+        "startTime": 8342,
+        "endTime": 9013,
+        "romaji": "suru",
+        "kana": "する"
+      },
+      {
+        "token": "こと",
+        "startTime": 9013,
+        "endTime": 9684,
+        "romaji": "koto",
+        "kana": "こと"
+      },
+      {
+        "token": "を",
+        "startTime": 9684,
+        "endTime": 10355,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "皆",
+        "startTime": 10355,
+        "endTime": 11025,
+        "romaji": "mina",
+        "kana": "みな"
+      },
+      {
+        "token": "さん",
+        "startTime": 11025,
+        "endTime": 11696,
+        "romaji": "san",
+        "kana": "さん"
+      },
+      {
+        "token": "に",
+        "startTime": 11696,
+        "endTime": 12367,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "話し",
+        "startTime": 12367,
+        "endTime": 13038,
+        "romaji": "hanashi",
+        "kana": "はなし"
+      },
+      {
+        "token": "ます",
+        "startTime": 13038,
+        "endTime": 13709,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 13709,
+        "endTime": 14380,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "僕 が 朝 に する こと を 日本 語 で 話し ます 。",
+    "translations": {
+      "en": "I'll talk about what I do in the morning in Japanese."
+    },
+    "segments": [
+      {
+        "token": "僕",
+        "startTime": 14380,
+        "endTime": 15032,
+        "romaji": "boku",
+        "kana": "ぼく"
+      },
+      {
+        "token": "が",
+        "startTime": 15032,
+        "endTime": 15685,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "朝",
+        "startTime": 15685,
+        "endTime": 16337,
+        "romaji": "asa",
+        "kana": "あさ"
+      },
+      {
+        "token": "に",
+        "startTime": 16337,
+        "endTime": 16989,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "する",
+        "startTime": 16989,
+        "endTime": 17642,
+        "romaji": "suru",
+        "kana": "する"
+      },
+      {
+        "token": "こと",
+        "startTime": 17642,
+        "endTime": 18294,
+        "romaji": "koto",
+        "kana": "こと"
+      },
+      {
+        "token": "を",
+        "startTime": 18294,
+        "endTime": 18946,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "日本",
+        "startTime": 18946,
+        "endTime": 19598,
+        "romaji": "Nippon",
+        "kana": "にっぽん"
+      },
+      {
+        "token": "語",
+        "startTime": 19598,
+        "endTime": 20251,
+        "romaji": "go",
+        "kana": "ご"
+      },
+      {
+        "token": "で",
+        "startTime": 20251,
+        "endTime": 20903,
+        "romaji": "de",
+        "kana": "で"
+      },
+      {
+        "token": "話し",
+        "startTime": 20903,
+        "endTime": 21555,
+        "romaji": "hanashi",
+        "kana": "はなし"
+      },
+      {
+        "token": "ます",
+        "startTime": 21555,
+        "endTime": 22208,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 22208,
+        "endTime": 22860,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "僕 は 朝 起き たら コーヒー を 飲み ます 。",
+    "translations": {
+      "en": "When I wake up in the morning, I drink coffee."
+    },
+    "segments": [
+      {
+        "token": "僕",
+        "startTime": 22860,
+        "endTime": 23624,
+        "romaji": "boku",
+        "kana": "ぼく"
+      },
+      {
+        "token": "は",
+        "startTime": 23624,
+        "endTime": 24388,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "朝",
+        "startTime": 24388,
+        "endTime": 25152,
+        "romaji": "asa",
+        "kana": "あさ"
+      },
+      {
+        "token": "起き",
+        "startTime": 25152,
+        "endTime": 25916,
+        "romaji": "oki",
+        "kana": "おき"
+      },
+      {
+        "token": "たら",
+        "startTime": 25916,
+        "endTime": 26680,
+        "romaji": "tara",
+        "kana": "たら"
+      },
+      {
+        "token": "コーヒー",
+        "startTime": 26680,
+        "endTime": 27444,
+        "romaji": "koohii",
+        "kana": "こーひー"
+      },
+      {
+        "token": "を",
+        "startTime": 27444,
+        "endTime": 28208,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "飲み",
+        "startTime": 28208,
+        "endTime": 28972,
+        "romaji": "nomi",
+        "kana": "のみ"
+      },
+      {
+        "token": "ます",
+        "startTime": 28972,
+        "endTime": 29736,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 29736,
+        "endTime": 30500,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "コーヒー を 作っ て 飲み ます 。",
+    "translations": {
+      "en": "I make coffee and drink it."
+    },
+    "segments": [
+      {
+        "token": "コーヒー",
+        "startTime": 30500,
+        "endTime": 31494,
+        "romaji": "koohii",
+        "kana": "こーひー"
+      },
+      {
+        "token": "を",
+        "startTime": 31494,
+        "endTime": 32489,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "作っ",
+        "startTime": 32489,
+        "endTime": 33483,
+        "romaji": "tsuku",
+        "kana": "つくっ"
+      },
+      {
+        "token": "て",
+        "startTime": 33483,
+        "endTime": 34477,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "飲み",
+        "startTime": 34477,
+        "endTime": 35471,
+        "romaji": "nomi",
+        "kana": "のみ"
+      },
+      {
+        "token": "ます",
+        "startTime": 35471,
+        "endTime": 36466,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 36466,
+        "endTime": 37460,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝 に コーヒー を 飲む の が とても 好き です 。",
+    "translations": {
+      "en": "I really like drinking coffee in the morning."
+    },
+    "segments": [
+      {
+        "token": "朝",
+        "startTime": 37460,
+        "endTime": 38035,
+        "romaji": "asa",
+        "kana": "あさ"
+      },
+      {
+        "token": "に",
+        "startTime": 38035,
+        "endTime": 38609,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "コーヒー",
+        "startTime": 38609,
+        "endTime": 39184,
+        "romaji": "koohii",
+        "kana": "こーひー"
+      },
+      {
+        "token": "を",
+        "startTime": 39184,
+        "endTime": 39758,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "飲む",
+        "startTime": 39758,
+        "endTime": 40333,
+        "romaji": "nomu",
+        "kana": "のむ"
+      },
+      {
+        "token": "の",
+        "startTime": 40333,
+        "endTime": 40907,
+        "romaji": "no",
+        "kana": "の"
+      },
+      {
+        "token": "が",
+        "startTime": 40907,
+        "endTime": 41482,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "とても",
+        "startTime": 41482,
+        "endTime": 42056,
+        "romaji": "totemo",
+        "kana": "とても"
+      },
+      {
+        "token": "好き",
+        "startTime": 42056,
+        "endTime": 42631,
+        "romaji": "suki",
+        "kana": "すき"
+      },
+      {
+        "token": "です",
+        "startTime": 42631,
+        "endTime": 43205,
+        "romaji": "desu",
+        "kana": "です"
+      },
+      {
+        "token": "。",
+        "startTime": 43205,
+        "endTime": 43780,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "あと は パン を 食べ ます 。",
+    "translations": {
+      "en": "Then I eat bread."
+    },
+    "segments": [
+      {
+        "token": "あと",
+        "startTime": 43780,
+        "endTime": 44351,
+        "romaji": "ato",
+        "kana": "あと"
+      },
+      {
+        "token": "は",
+        "startTime": 44351,
+        "endTime": 44923,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "パン",
+        "startTime": 44923,
+        "endTime": 45494,
+        "romaji": "pan",
+        "kana": "ぱん"
+      },
+      {
+        "token": "を",
+        "startTime": 45494,
+        "endTime": 46066,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "食べ",
+        "startTime": 46066,
+        "endTime": 46637,
+        "romaji": "tabe",
+        "kana": "たべ"
+      },
+      {
+        "token": "ます",
+        "startTime": 46637,
+        "endTime": 47209,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 47209,
+        "endTime": 47780,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "パンパン を 焼い て パン を ます 。",
+    "translations": {
+      "en": "I toast the bread and eat it."
+    },
+    "segments": [
+      {
+        "token": "パンパン",
+        "startTime": 47780,
+        "endTime": 48980,
+        "romaji": "panpan",
+        "kana": "ぱんぱん"
+      },
+      {
+        "token": "を",
+        "startTime": 48980,
+        "endTime": 50180,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "焼い",
+        "startTime": 50180,
+        "endTime": 51380,
+        "romaji": "yai",
+        "kana": "やい"
+      },
+      {
+        "token": "て",
+        "startTime": 51380,
+        "endTime": 52580,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "パン",
+        "startTime": 52580,
+        "endTime": 53780,
+        "romaji": "pan",
+        "kana": "ぱん"
+      },
+      {
+        "token": "を",
+        "startTime": 53780,
+        "endTime": 54980,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "ます",
+        "startTime": 54980,
+        "endTime": 56180,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 56180,
+        "endTime": 57380,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "コーヒー を 飲ん で パン を ます 。",
+    "translations": {
+      "en": "I drink coffee and eat bread."
+    },
+    "segments": [
+      {
+        "token": "コーヒー",
+        "startTime": 57380,
+        "endTime": 58133,
+        "romaji": "koohii",
+        "kana": "こーひー"
+      },
+      {
+        "token": "を",
+        "startTime": 58133,
+        "endTime": 58885,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "飲ん",
+        "startTime": 58885,
+        "endTime": 59638,
+        "romaji": "non",
+        "kana": "のん"
+      },
+      {
+        "token": "で",
+        "startTime": 59638,
+        "endTime": 60390,
+        "romaji": "de",
+        "kana": "で"
+      },
+      {
+        "token": "パン",
+        "startTime": 60390,
+        "endTime": 61143,
+        "romaji": "pan",
+        "kana": "ぱん"
+      },
+      {
+        "token": "を",
+        "startTime": 61143,
+        "endTime": 61895,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "ます",
+        "startTime": 61895,
+        "endTime": 62648,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 62648,
+        "endTime": 63400,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "あと は 卵 も 食べ ます 。",
+    "translations": {
+      "en": "I also eat eggs."
+    },
+    "segments": [
+      {
+        "token": "あと",
+        "startTime": 63400,
+        "endTime": 64709,
+        "romaji": "ato",
+        "kana": "あと"
+      },
+      {
+        "token": "は",
+        "startTime": 64709,
+        "endTime": 66017,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "卵",
+        "startTime": 66017,
+        "endTime": 67326,
+        "romaji": "tamago",
+        "kana": "たまご"
+      },
+      {
+        "token": "も",
+        "startTime": 67326,
+        "endTime": 68634,
+        "romaji": "mo",
+        "kana": "も"
+      },
+      {
+        "token": "食べ",
+        "startTime": 68634,
+        "endTime": 69943,
+        "romaji": "tabe",
+        "kana": "たべ"
+      },
+      {
+        "token": "ます",
+        "startTime": 69943,
+        "endTime": 71251,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 71251,
+        "endTime": 72560,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "卵 を 割っ て 卵 を 割る 卵 を 割っ て 卵 を き ます 卵 を 焼く 卵 を パン の 上 に 乗せ て コーヒー と 一緒 に ます 。",
+    "translations": {
+      "en": "I crack the egg, fry it, put it on the bread, and eat it with coffee."
+    },
+    "segments": [
+      {
+        "token": "卵",
+        "startTime": 72560,
+        "endTime": 73422,
+        "romaji": "tamago",
+        "kana": "たまご"
+      },
+      {
+        "token": "を",
+        "startTime": 73422,
+        "endTime": 74284,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "割っ",
+        "startTime": 74284,
+        "endTime": 75146,
+        "romaji": "wari",
+        "kana": "わりっ"
+      },
+      {
+        "token": "て",
+        "startTime": 75146,
+        "endTime": 76008,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "卵",
+        "startTime": 76008,
+        "endTime": 76869,
+        "romaji": "tamago",
+        "kana": "たまご"
+      },
+      {
+        "token": "を",
+        "startTime": 76869,
+        "endTime": 77731,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "割る",
+        "startTime": 77731,
+        "endTime": 78593,
+        "romaji": "waru",
+        "kana": "わる"
+      },
+      {
+        "token": "卵",
+        "startTime": 78593,
+        "endTime": 79455,
+        "romaji": "tamago",
+        "kana": "たまご"
+      },
+      {
+        "token": "を",
+        "startTime": 79455,
+        "endTime": 80317,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "割っ",
+        "startTime": 80317,
+        "endTime": 81179,
+        "romaji": "wari",
+        "kana": "わりっ"
+      },
+      {
+        "token": "て",
+        "startTime": 81179,
+        "endTime": 82041,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "卵",
+        "startTime": 82041,
+        "endTime": 82903,
+        "romaji": "tamago",
+        "kana": "たまご"
+      },
+      {
+        "token": "を",
+        "startTime": 82903,
+        "endTime": 83764,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "き",
+        "startTime": 83764,
+        "endTime": 84626,
+        "romaji": "ki",
+        "kana": "き"
+      },
+      {
+        "token": "ます",
+        "startTime": 84626,
+        "endTime": 85488,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "卵",
+        "startTime": 85488,
+        "endTime": 86350,
+        "romaji": "tamago",
+        "kana": "たまご"
+      },
+      {
+        "token": "を",
+        "startTime": 86350,
+        "endTime": 87212,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "焼く",
+        "startTime": 87212,
+        "endTime": 88074,
+        "romaji": "yaku",
+        "kana": "やく"
+      },
+      {
+        "token": "卵",
+        "startTime": 88074,
+        "endTime": 88936,
+        "romaji": "tamago",
+        "kana": "たまご"
+      },
+      {
+        "token": "を",
+        "startTime": 88936,
+        "endTime": 89798,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "パン",
+        "startTime": 89798,
+        "endTime": 90659,
+        "romaji": "pan",
+        "kana": "ぱん"
+      },
+      {
+        "token": "の",
+        "startTime": 90659,
+        "endTime": 91521,
+        "romaji": "no",
+        "kana": "の"
+      },
+      {
+        "token": "上",
+        "startTime": 91521,
+        "endTime": 92383,
+        "romaji": "ue",
+        "kana": "うえ"
+      },
+      {
+        "token": "に",
+        "startTime": 92383,
+        "endTime": 93245,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "乗せ",
+        "startTime": 93245,
+        "endTime": 94107,
+        "romaji": "nose",
+        "kana": "のせ"
+      },
+      {
+        "token": "て",
+        "startTime": 94107,
+        "endTime": 94969,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "コーヒー",
+        "startTime": 94969,
+        "endTime": 95831,
+        "romaji": "koohii",
+        "kana": "こーひー"
+      },
+      {
+        "token": "と",
+        "startTime": 95831,
+        "endTime": 96693,
+        "romaji": "to",
+        "kana": "と"
+      },
+      {
+        "token": "一緒",
+        "startTime": 96693,
+        "endTime": 97554,
+        "romaji": "issho",
+        "kana": "いっしょ"
+      },
+      {
+        "token": "に",
+        "startTime": 97554,
+        "endTime": 98416,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "ます",
+        "startTime": 98416,
+        "endTime": 99278,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 99278,
+        "endTime": 100140,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "とっても 美味しい です ね 。",
+    "translations": {
+      "en": "It's very delicious."
+    },
+    "segments": [
+      {
+        "token": "とっても",
+        "startTime": 100140,
+        "endTime": 100900,
+        "romaji": "tottemo",
+        "kana": "とっても"
+      },
+      {
+        "token": "美味しい",
+        "startTime": 100900,
+        "endTime": 101660,
+        "romaji": "oishii",
+        "kana": "おいしい"
+      },
+      {
+        "token": "です",
+        "startTime": 101660,
+        "endTime": 102420,
+        "romaji": "desu",
+        "kana": "です"
+      },
+      {
+        "token": "ね",
+        "startTime": 102420,
+        "endTime": 103180,
+        "romaji": "ne",
+        "kana": "ね"
+      },
+      {
+        "token": "。",
+        "startTime": 103180,
+        "endTime": 103940,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "皆 さん は 朝ごはん に 何 を 食べ ます か ?",
+    "translations": {
+      "en": "What do you eat for breakfast?"
+    },
+    "segments": [
+      {
+        "token": "皆",
+        "startTime": 103940,
+        "endTime": 104449,
+        "romaji": "mina",
+        "kana": "みな"
+      },
+      {
+        "token": "さん",
+        "startTime": 104449,
+        "endTime": 104958,
+        "romaji": "san",
+        "kana": "さん"
+      },
+      {
+        "token": "は",
+        "startTime": 104958,
+        "endTime": 105467,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "朝ごはん",
+        "startTime": 105467,
+        "endTime": 105976,
+        "romaji": "asagohan",
+        "kana": "あさごはん"
+      },
+      {
+        "token": "に",
+        "startTime": 105976,
+        "endTime": 106485,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "何",
+        "startTime": 106485,
+        "endTime": 106995,
+        "romaji": "nan",
+        "kana": "なん"
+      },
+      {
+        "token": "を",
+        "startTime": 106995,
+        "endTime": 107504,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "食べ",
+        "startTime": 107504,
+        "endTime": 108013,
+        "romaji": "tabe",
+        "kana": "たべ"
+      },
+      {
+        "token": "ます",
+        "startTime": 108013,
+        "endTime": 108522,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "か",
+        "startTime": 108522,
+        "endTime": 109031,
+        "romaji": "ka",
+        "kana": "か"
+      },
+      {
+        "token": "?",
+        "startTime": 109031,
+        "endTime": 109540,
+        "romaji": "?",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "僕 は コーヒー と パン と です ね 。",
+    "translations": {
+      "en": "For me, it's coffee and bread."
+    },
+    "segments": [
+      {
+        "token": "僕",
+        "startTime": 109540,
+        "endTime": 110071,
+        "romaji": "boku",
+        "kana": "ぼく"
+      },
+      {
+        "token": "は",
+        "startTime": 110071,
+        "endTime": 110602,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "コーヒー",
+        "startTime": 110602,
+        "endTime": 111133,
+        "romaji": "koohii",
+        "kana": "こーひー"
+      },
+      {
+        "token": "と",
+        "startTime": 111133,
+        "endTime": 111664,
+        "romaji": "to",
+        "kana": "と"
+      },
+      {
+        "token": "パン",
+        "startTime": 111664,
+        "endTime": 112196,
+        "romaji": "pan",
+        "kana": "ぱん"
+      },
+      {
+        "token": "と",
+        "startTime": 112196,
+        "endTime": 112727,
+        "romaji": "to",
+        "kana": "と"
+      },
+      {
+        "token": "です",
+        "startTime": 112727,
+        "endTime": 113258,
+        "romaji": "desu",
+        "kana": "です"
+      },
+      {
+        "token": "ね",
+        "startTime": 113258,
+        "endTime": 113789,
+        "romaji": "ne",
+        "kana": "ね"
+      },
+      {
+        "token": "。",
+        "startTime": 113789,
+        "endTime": 114320,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "ぜひ コメント で 教え ください 。",
+    "translations": {
+      "en": "Please let me know in the comments."
+    },
+    "segments": [
+      {
+        "token": "ぜひ",
+        "startTime": 114320,
+        "endTime": 114890,
+        "romaji": "zehi",
+        "kana": "ぜひ"
+      },
+      {
+        "token": "コメント",
+        "startTime": 114890,
+        "endTime": 115460,
+        "romaji": "komento",
+        "kana": "こめんと"
+      },
+      {
+        "token": "で",
+        "startTime": 115460,
+        "endTime": 116030,
+        "romaji": "de",
+        "kana": "で"
+      },
+      {
+        "token": "教え",
+        "startTime": 116030,
+        "endTime": 116600,
+        "romaji": "oshie",
+        "kana": "おしえ"
+      },
+      {
+        "token": "ください",
+        "startTime": 116600,
+        "endTime": 117170,
+        "romaji": "kudasai",
+        "kana": "ください"
+      },
+      {
+        "token": "。",
+        "startTime": 117170,
+        "endTime": 117740,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝ごはん を 食べ たら 、",
+    "translations": {
+      "en": "After eating breakfast,"
+    },
+    "segments": [
+      {
+        "token": "朝ごはん",
+        "startTime": 117740,
+        "endTime": 118620,
+        "romaji": "asagohan",
+        "kana": "あさごはん"
+      },
+      {
+        "token": "を",
+        "startTime": 118620,
+        "endTime": 118840,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "食べ",
+        "startTime": 118840,
+        "endTime": 119400,
+        "romaji": "tabe",
+        "kana": "たべ"
+      },
+      {
+        "token": "たら",
+        "startTime": 119400,
+        "endTime": 120760,
+        "romaji": "tara",
+        "kana": "たら"
+      },
+      {
+        "token": "、",
+        "startTime": 120760,
+        "endTime": 120980,
+        "romaji": ",",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "次 は 、",
+    "translations": {
+      "en": "next,"
+    },
+    "segments": [
+      {
+        "token": "次",
+        "startTime": 120980,
+        "endTime": 121740,
+        "romaji": "ji",
+        "kana": "じ"
+      },
+      {
+        "token": "は",
+        "startTime": 121740,
+        "endTime": 122680,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "、",
+        "startTime": 122680,
+        "endTime": 122880,
+        "romaji": ",",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "散歩 し ます 。",
+    "translations": {
+      "en": "I go for a walk."
+    },
+    "segments": [
+      {
+        "token": "散歩",
+        "startTime": 122880,
+        "endTime": 124015,
+        "romaji": "sanpo",
+        "kana": "さんぽ"
+      },
+      {
+        "token": "し",
+        "startTime": 124015,
+        "endTime": 125150,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "ます",
+        "startTime": 125150,
+        "endTime": 126285,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 126285,
+        "endTime": 127420,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "歩き ます 。",
+    "translations": {
+      "en": "I walk."
+    },
+    "segments": [
+      {
+        "token": "歩き",
+        "startTime": 127420,
+        "endTime": 128060,
+        "romaji": "aruki",
+        "kana": "あるき"
+      },
+      {
+        "token": "ます",
+        "startTime": 128060,
+        "endTime": 128700,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 128700,
+        "endTime": 129340,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝 、",
+    "translations": {
+      "en": "In the morning,"
+    },
+    "segments": [
+      {
+        "token": "朝",
+        "startTime": 129340,
+        "endTime": 130100,
+        "romaji": "asa",
+        "kana": "あさ"
+      },
+      {
+        "token": "、",
+        "startTime": 130100,
+        "endTime": 131000,
+        "romaji": ",",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "外 に 出 て 散歩 し ます 。",
+    "translations": {
+      "en": "I go outside and take a walk."
+    },
+    "segments": [
+      {
+        "token": "外",
+        "startTime": 131000,
+        "endTime": 131625,
+        "romaji": "soto",
+        "kana": "そと"
+      },
+      {
+        "token": "に",
+        "startTime": 131625,
+        "endTime": 132250,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "出",
+        "startTime": 132250,
+        "endTime": 132875,
+        "romaji": "de",
+        "kana": "で"
+      },
+      {
+        "token": "て",
+        "startTime": 132875,
+        "endTime": 133500,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "散歩",
+        "startTime": 133500,
+        "endTime": 134125,
+        "romaji": "sanpo",
+        "kana": "さんぽ"
+      },
+      {
+        "token": "し",
+        "startTime": 134125,
+        "endTime": 134750,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "ます",
+        "startTime": 134750,
+        "endTime": 135375,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 135375,
+        "endTime": 136000,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "30 分 くらい 、",
+    "translations": {
+      "en": "For about 30 minutes,"
+    },
+    "segments": [
+      {
+        "token": "30",
+        "startTime": 136000,
+        "endTime": 136425,
+        "romaji": "30",
+        "kana": "30"
+      },
+      {
+        "token": "分",
+        "startTime": 136425,
+        "endTime": 136850,
+        "romaji": "bun",
+        "kana": "ぶん"
+      },
+      {
+        "token": "くらい",
+        "startTime": 136850,
+        "endTime": 137275,
+        "romaji": "kurai",
+        "kana": "くらい"
+      },
+      {
+        "token": "、",
+        "startTime": 137275,
+        "endTime": 137700,
+        "romaji": ",",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "30 分 くらい 散歩 を し ます 。",
+    "translations": {
+      "en": "I walk for about 30 minutes."
+    },
+    "segments": [
+      {
+        "token": "30",
+        "startTime": 137700,
+        "endTime": 138440,
+        "romaji": "30",
+        "kana": "30"
+      },
+      {
+        "token": "分",
+        "startTime": 138440,
+        "endTime": 139180,
+        "romaji": "bun",
+        "kana": "ぶん"
+      },
+      {
+        "token": "くらい",
+        "startTime": 139180,
+        "endTime": 139920,
+        "romaji": "kurai",
+        "kana": "くらい"
+      },
+      {
+        "token": "散歩",
+        "startTime": 139920,
+        "endTime": 140660,
+        "romaji": "sanpo",
+        "kana": "さんぽ"
+      },
+      {
+        "token": "を",
+        "startTime": 140660,
+        "endTime": 141400,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "し",
+        "startTime": 141400,
+        "endTime": 142140,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "ます",
+        "startTime": 142140,
+        "endTime": 142880,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 142880,
+        "endTime": 143620,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "外 を ゆっくり 歩き ます 。",
+    "translations": {
+      "en": "I walk slowly outside."
+    },
+    "segments": [
+      {
+        "token": "外",
+        "startTime": 143620,
+        "endTime": 144320,
+        "romaji": "soto",
+        "kana": "そと"
+      },
+      {
+        "token": "を",
+        "startTime": 144320,
+        "endTime": 145020,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "ゆっくり",
+        "startTime": 145020,
+        "endTime": 145720,
+        "romaji": "yukkuri",
+        "kana": "ゆっくり"
+      },
+      {
+        "token": "歩き",
+        "startTime": 145720,
+        "endTime": 146420,
+        "romaji": "aruki",
+        "kana": "あるき"
+      },
+      {
+        "token": "ます",
+        "startTime": 146420,
+        "endTime": 147120,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 147120,
+        "endTime": 147820,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "晴れ て いる 時 は とっても 気持ち です ね 。",
+    "translations": {
+      "en": "When it's sunny, it feels really nice."
+    },
+    "segments": [
+      {
+        "token": "晴れ",
+        "startTime": 147820,
+        "endTime": 148366,
+        "romaji": "hare",
+        "kana": "はれ"
+      },
+      {
+        "token": "て",
+        "startTime": 148366,
+        "endTime": 148912,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "いる",
+        "startTime": 148912,
+        "endTime": 149458,
+        "romaji": "iru",
+        "kana": "いる"
+      },
+      {
+        "token": "時",
+        "startTime": 149458,
+        "endTime": 150004,
+        "romaji": "toki",
+        "kana": "とき"
+      },
+      {
+        "token": "は",
+        "startTime": 150004,
+        "endTime": 150550,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "とっても",
+        "startTime": 150550,
+        "endTime": 151096,
+        "romaji": "tottemo",
+        "kana": "とっても"
+      },
+      {
+        "token": "気持ち",
+        "startTime": 151096,
+        "endTime": 151642,
+        "romaji": "kimochi",
+        "kana": "きもち"
+      },
+      {
+        "token": "です",
+        "startTime": 151642,
+        "endTime": 152188,
+        "romaji": "desu",
+        "kana": "です"
+      },
+      {
+        "token": "ね",
+        "startTime": 152188,
+        "endTime": 152734,
+        "romaji": "ne",
+        "kana": "ね"
+      },
+      {
+        "token": "。",
+        "startTime": 152734,
+        "endTime": 153280,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝ごはん を 食べ た 後 に 散歩 を し ます 。",
+    "translations": {
+      "en": "I take a walk after eating breakfast."
+    },
+    "segments": [
+      {
+        "token": "朝ごはん",
+        "startTime": 153280,
+        "endTime": 153745,
+        "romaji": "asagohan",
+        "kana": "あさごはん"
+      },
+      {
+        "token": "を",
+        "startTime": 153745,
+        "endTime": 154211,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "食べ",
+        "startTime": 154211,
+        "endTime": 154676,
+        "romaji": "tabe",
+        "kana": "たべ"
+      },
+      {
+        "token": "た",
+        "startTime": 154676,
+        "endTime": 155142,
+        "romaji": "ta",
+        "kana": "た"
+      },
+      {
+        "token": "後",
+        "startTime": 155142,
+        "endTime": 155607,
+        "romaji": "ato",
+        "kana": "あと"
+      },
+      {
+        "token": "に",
+        "startTime": 155607,
+        "endTime": 156073,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "散歩",
+        "startTime": 156073,
+        "endTime": 156538,
+        "romaji": "sanpo",
+        "kana": "さんぽ"
+      },
+      {
+        "token": "を",
+        "startTime": 156538,
+        "endTime": 157004,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "し",
+        "startTime": 157004,
+        "endTime": 157469,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "ます",
+        "startTime": 157469,
+        "endTime": 157935,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "。",
+        "startTime": 157935,
+        "endTime": 158400,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "僕 は 散歩 を する の が とても 好き です 。",
+    "translations": {
+      "en": "I really like taking walks."
+    },
+    "segments": [
+      {
+        "token": "僕",
+        "startTime": 158400,
+        "endTime": 158900,
+        "romaji": "boku",
+        "kana": "ぼく"
+      },
+      {
+        "token": "は",
+        "startTime": 158900,
+        "endTime": 159400,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "散歩",
+        "startTime": 159400,
+        "endTime": 159900,
+        "romaji": "sanpo",
+        "kana": "さんぽ"
+      },
+      {
+        "token": "を",
+        "startTime": 159900,
+        "endTime": 160400,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "する",
+        "startTime": 160400,
+        "endTime": 160900,
+        "romaji": "suru",
+        "kana": "する"
+      },
+      {
+        "token": "の",
+        "startTime": 160900,
+        "endTime": 161400,
+        "romaji": "no",
+        "kana": "の"
+      },
+      {
+        "token": "が",
+        "startTime": 161400,
+        "endTime": 161900,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "とても",
+        "startTime": 161900,
+        "endTime": 162400,
+        "romaji": "totemo",
+        "kana": "とても"
+      },
+      {
+        "token": "好き",
+        "startTime": 162400,
+        "endTime": 162900,
+        "romaji": "suki",
+        "kana": "すき"
+      },
+      {
+        "token": "です",
+        "startTime": 162900,
+        "endTime": 163400,
+        "romaji": "desu",
+        "kana": "です"
+      },
+      {
+        "token": "。",
+        "startTime": 163400,
+        "endTime": 163900,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "散歩 が とても 好き です 。",
+    "translations": {
+      "en": "I really like walking."
+    },
+    "segments": [
+      {
+        "token": "散歩",
+        "startTime": 163900,
+        "endTime": 164820,
+        "romaji": "sanpo",
+        "kana": "さんぽ"
+      },
+      {
+        "token": "が",
+        "startTime": 164820,
+        "endTime": 165740,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "とても",
+        "startTime": 165740,
+        "endTime": 166660,
+        "romaji": "totemo",
+        "kana": "とても"
+      },
+      {
+        "token": "好き",
+        "startTime": 166660,
+        "endTime": 167580,
+        "romaji": "suki",
+        "kana": "すき"
+      },
+      {
+        "token": "です",
+        "startTime": 167580,
+        "endTime": 168500,
+        "romaji": "desu",
+        "kana": "です"
+      },
+      {
+        "token": "。",
+        "startTime": 168500,
+        "endTime": 169420,
+        "romaji": ".",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "散歩 を する と 体 が とっ て も いい です とっても い いり ます だ から 僕 は 朝 に 散歩 を する の が 好き です 散歩",
+    "translations": {
+      "en": "Walking is very good for my body, so I like walking in the morning."
+    },
+    "segments": [
+      {
+        "token": "散歩",
+        "startTime": 169420,
+        "endTime": 170044,
+        "romaji": "sanpo",
+        "kana": "さんぽ"
+      },
+      {
+        "token": "を",
+        "startTime": 170044,
+        "endTime": 170668,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "する",
+        "startTime": 170668,
+        "endTime": 171292,
+        "romaji": "suru",
+        "kana": "する"
+      },
+      {
+        "token": "と",
+        "startTime": 171292,
+        "endTime": 171917,
+        "romaji": "to",
+        "kana": "と"
+      },
+      {
+        "token": "体",
+        "startTime": 171917,
+        "endTime": 172541,
+        "romaji": "karada",
+        "kana": "からだ"
+      },
+      {
+        "token": "が",
+        "startTime": 172541,
+        "endTime": 173165,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "とっ",
+        "startTime": 173165,
+        "endTime": 173789,
+        "romaji": "to",
+        "kana": "とっ"
+      },
+      {
+        "token": "て",
+        "startTime": 173789,
+        "endTime": 174413,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "も",
+        "startTime": 174413,
+        "endTime": 175037,
+        "romaji": "mo",
+        "kana": "も"
+      },
+      {
+        "token": "いい",
+        "startTime": 175037,
+        "endTime": 175661,
+        "romaji": "ii",
+        "kana": "いい"
+      },
+      {
+        "token": "です",
+        "startTime": 175661,
+        "endTime": 176286,
+        "romaji": "desu",
+        "kana": "です"
+      },
+      {
+        "token": "とっても",
+        "startTime": 176286,
+        "endTime": 176910,
+        "romaji": "tottemo",
+        "kana": "とっても"
+      },
+      {
+        "token": "い",
+        "startTime": 176910,
+        "endTime": 177534,
+        "romaji": "i",
+        "kana": "い"
+      },
+      {
+        "token": "いり",
+        "startTime": 177534,
+        "endTime": 178158,
+        "romaji": "iri",
+        "kana": "いり"
+      },
+      {
+        "token": "ます",
+        "startTime": 178158,
+        "endTime": 178782,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "だ",
+        "startTime": 178782,
+        "endTime": 179406,
+        "romaji": "da",
+        "kana": "だ"
+      },
+      {
+        "token": "から",
+        "startTime": 179406,
+        "endTime": 180030,
+        "romaji": "kara",
+        "kana": "から"
+      },
+      {
+        "token": "僕",
+        "startTime": 180030,
+        "endTime": 180654,
+        "romaji": "boku",
+        "kana": "ぼく"
+      },
+      {
+        "token": "は",
+        "startTime": 180654,
+        "endTime": 181279,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "朝",
+        "startTime": 181279,
+        "endTime": 181903,
+        "romaji": "asa",
+        "kana": "あさ"
+      },
+      {
+        "token": "に",
+        "startTime": 181903,
+        "endTime": 182527,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "散歩",
+        "startTime": 182527,
+        "endTime": 183151,
+        "romaji": "sanpo",
+        "kana": "さんぽ"
+      },
+      {
+        "token": "を",
+        "startTime": 183151,
+        "endTime": 183775,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "する",
+        "startTime": 183775,
+        "endTime": 184399,
+        "romaji": "suru",
+        "kana": "する"
+      },
+      {
+        "token": "の",
+        "startTime": 184399,
+        "endTime": 185023,
+        "romaji": "no",
+        "kana": "の"
+      },
+      {
+        "token": "が",
+        "startTime": 185023,
+        "endTime": 185648,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "好き",
+        "startTime": 185648,
+        "endTime": 186272,
+        "romaji": "suki",
+        "kana": "すき"
+      },
+      {
+        "token": "です",
+        "startTime": 186272,
+        "endTime": 186896,
+        "romaji": "desu",
+        "kana": "です"
+      },
+      {
+        "token": "散歩",
+        "startTime": 186896,
+        "endTime": 187520,
+        "romaji": "sanpo",
+        "kana": "さんぽ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "が 終わっ て 家 に 帰っ て き たら 次 は 掃除 し ます 掃除 家 の 中 を 掃除 機 を 使っ て きれい し ます 家 の 中 を 掃除",
+    "translations": {
+      "en": "After the walk, when I get home, I clean next. I clean the house using a vacuum cleaner."
+    },
+    "segments": [
+      {
+        "token": "が",
+        "startTime": 187520,
+        "endTime": 188089,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "終わっ",
+        "startTime": 188089,
+        "endTime": 188658,
+        "romaji": "owa",
+        "kana": "おわっ"
+      },
+      {
+        "token": "て",
+        "startTime": 188658,
+        "endTime": 189226,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "家",
+        "startTime": 189226,
+        "endTime": 189795,
+        "romaji": "ie",
+        "kana": "いえ"
+      },
+      {
+        "token": "に",
+        "startTime": 189795,
+        "endTime": 190364,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "帰っ",
+        "startTime": 190364,
+        "endTime": 190933,
+        "romaji": "kae",
+        "kana": "かえっ"
+      },
+      {
+        "token": "て",
+        "startTime": 190933,
+        "endTime": 191501,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "き",
+        "startTime": 191501,
+        "endTime": 192070,
+        "romaji": "ki",
+        "kana": "き"
+      },
+      {
+        "token": "たら",
+        "startTime": 192070,
+        "endTime": 192639,
+        "romaji": "tara",
+        "kana": "たら"
+      },
+      {
+        "token": "次",
+        "startTime": 192639,
+        "endTime": 193208,
+        "romaji": "ji",
+        "kana": "じ"
+      },
+      {
+        "token": "は",
+        "startTime": 193208,
+        "endTime": 193776,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "掃除",
+        "startTime": 193776,
+        "endTime": 194345,
+        "romaji": "souji",
+        "kana": "そうじ"
+      },
+      {
+        "token": "し",
+        "startTime": 194345,
+        "endTime": 194914,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "ます",
+        "startTime": 194914,
+        "endTime": 195483,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "掃除",
+        "startTime": 195483,
+        "endTime": 196051,
+        "romaji": "souji",
+        "kana": "そうじ"
+      },
+      {
+        "token": "家",
+        "startTime": 196051,
+        "endTime": 196620,
+        "romaji": "ie",
+        "kana": "いえ"
+      },
+      {
+        "token": "の",
+        "startTime": 196620,
+        "endTime": 197189,
+        "romaji": "no",
+        "kana": "の"
+      },
+      {
+        "token": "中",
+        "startTime": 197189,
+        "endTime": 197758,
+        "romaji": "naka",
+        "kana": "なか"
+      },
+      {
+        "token": "を",
+        "startTime": 197758,
+        "endTime": 198326,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "掃除",
+        "startTime": 198326,
+        "endTime": 198895,
+        "romaji": "souji",
+        "kana": "そうじ"
+      },
+      {
+        "token": "機",
+        "startTime": 198895,
+        "endTime": 199464,
+        "romaji": "ki",
+        "kana": "き"
+      },
+      {
+        "token": "を",
+        "startTime": 199464,
+        "endTime": 200033,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "使っ",
+        "startTime": 200033,
+        "endTime": 200601,
+        "romaji": "tsuka",
+        "kana": "つかっ"
+      },
+      {
+        "token": "て",
+        "startTime": 200601,
+        "endTime": 201170,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "きれい",
+        "startTime": 201170,
+        "endTime": 201739,
+        "romaji": "kirei",
+        "kana": "きれい"
+      },
+      {
+        "token": "し",
+        "startTime": 201739,
+        "endTime": 202308,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "ます",
+        "startTime": 202308,
+        "endTime": 202876,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "家",
+        "startTime": 202876,
+        "endTime": 203445,
+        "romaji": "ie",
+        "kana": "いえ"
+      },
+      {
+        "token": "の",
+        "startTime": 203445,
+        "endTime": 204014,
+        "romaji": "no",
+        "kana": "の"
+      },
+      {
+        "token": "中",
+        "startTime": 204014,
+        "endTime": 204583,
+        "romaji": "naka",
+        "kana": "なか"
+      },
+      {
+        "token": "を",
+        "startTime": 204583,
+        "endTime": 205151,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "掃除",
+        "startTime": 205151,
+        "endTime": 205720,
+        "romaji": "souji",
+        "kana": "そうじ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "を し ます 掃除 を する と 家 が とても きれい に り ます 家 が とても きれい に なっ て うれしい 気持 ちり ます 掃",
+    "translations": {
+      "en": "I clean the house. Cleaning makes the house very tidy. I feel happy when the house is clean."
+    },
+    "segments": [
+      {
+        "token": "を",
+        "startTime": 205720,
+        "endTime": 206364,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "し",
+        "startTime": 206364,
+        "endTime": 207008,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "ます",
+        "startTime": 207008,
+        "endTime": 207653,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "掃除",
+        "startTime": 207653,
+        "endTime": 208297,
+        "romaji": "souji",
+        "kana": "そうじ"
+      },
+      {
+        "token": "を",
+        "startTime": 208297,
+        "endTime": 208941,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "する",
+        "startTime": 208941,
+        "endTime": 209585,
+        "romaji": "suru",
+        "kana": "する"
+      },
+      {
+        "token": "と",
+        "startTime": 209585,
+        "endTime": 210230,
+        "romaji": "to",
+        "kana": "と"
+      },
+      {
+        "token": "家",
+        "startTime": 210230,
+        "endTime": 210874,
+        "romaji": "ie",
+        "kana": "いえ"
+      },
+      {
+        "token": "が",
+        "startTime": 210874,
+        "endTime": 211518,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "とても",
+        "startTime": 211518,
+        "endTime": 212162,
+        "romaji": "totemo",
+        "kana": "とても"
+      },
+      {
+        "token": "きれい",
+        "startTime": 212162,
+        "endTime": 212807,
+        "romaji": "kirei",
+        "kana": "きれい"
+      },
+      {
+        "token": "に",
+        "startTime": 212807,
+        "endTime": 213451,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "り",
+        "startTime": 213451,
+        "endTime": 214095,
+        "romaji": "ri",
+        "kana": "り"
+      },
+      {
+        "token": "ます",
+        "startTime": 214095,
+        "endTime": 214739,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "家",
+        "startTime": 214739,
+        "endTime": 215383,
+        "romaji": "ie",
+        "kana": "いえ"
+      },
+      {
+        "token": "が",
+        "startTime": 215383,
+        "endTime": 216028,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "とても",
+        "startTime": 216028,
+        "endTime": 216672,
+        "romaji": "totemo",
+        "kana": "とても"
+      },
+      {
+        "token": "きれい",
+        "startTime": 216672,
+        "endTime": 217316,
+        "romaji": "kirei",
+        "kana": "きれい"
+      },
+      {
+        "token": "に",
+        "startTime": 217316,
+        "endTime": 217960,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "なっ",
+        "startTime": 217960,
+        "endTime": 218605,
+        "romaji": "na",
+        "kana": "なっ"
+      },
+      {
+        "token": "て",
+        "startTime": 218605,
+        "endTime": 219249,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "うれしい",
+        "startTime": 219249,
+        "endTime": 219893,
+        "romaji": "ureshii",
+        "kana": "うれしい"
+      },
+      {
+        "token": "気持",
+        "startTime": 219893,
+        "endTime": 220537,
+        "romaji": "kimochi",
+        "kana": "きもち"
+      },
+      {
+        "token": "ちり",
+        "startTime": 220537,
+        "endTime": 221182,
+        "romaji": "chiri",
+        "kana": "ちり"
+      },
+      {
+        "token": "ます",
+        "startTime": 221182,
+        "endTime": 221826,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "掃",
+        "startTime": 221826,
+        "endTime": 222470,
+        "romaji": "?",
+        "kana": "掃"
+      }
+    ]
+  },
+  {
+    "sentence_text": "除 が 終わっ たら 仕事 し ます 掃除 が 終わっ たら 仕事 し ます 朝 起き て 朝ごはん を 食べ て 散歩 に 行っ て 掃除",
+    "translations": {
+      "en": "After cleaning, I work. After cleaning, I work. I wake up in the morning, eat breakfast, go for a walk, clean,"
+    },
+    "segments": [
+      {
+        "token": "除",
+        "startTime": 222470,
+        "endTime": 223110,
+        "romaji": "jo",
+        "kana": "じょ"
+      },
+      {
+        "token": "が",
+        "startTime": 223110,
+        "endTime": 223751,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "終わっ",
+        "startTime": 223751,
+        "endTime": 224391,
+        "romaji": "owa",
+        "kana": "おわっ"
+      },
+      {
+        "token": "たら",
+        "startTime": 224391,
+        "endTime": 225032,
+        "romaji": "tara",
+        "kana": "たら"
+      },
+      {
+        "token": "仕事",
+        "startTime": 225032,
+        "endTime": 225672,
+        "romaji": "shigoto",
+        "kana": "しごと"
+      },
+      {
+        "token": "し",
+        "startTime": 225672,
+        "endTime": 226312,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "ます",
+        "startTime": 226312,
+        "endTime": 226953,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "掃除",
+        "startTime": 226953,
+        "endTime": 227593,
+        "romaji": "souji",
+        "kana": "そうじ"
+      },
+      {
+        "token": "が",
+        "startTime": 227593,
+        "endTime": 228233,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "終わっ",
+        "startTime": 228233,
+        "endTime": 228874,
+        "romaji": "owa",
+        "kana": "おわっ"
+      },
+      {
+        "token": "たら",
+        "startTime": 228874,
+        "endTime": 229514,
+        "romaji": "tara",
+        "kana": "たら"
+      },
+      {
+        "token": "仕事",
+        "startTime": 229514,
+        "endTime": 230155,
+        "romaji": "shigoto",
+        "kana": "しごと"
+      },
+      {
+        "token": "し",
+        "startTime": 230155,
+        "endTime": 230795,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "ます",
+        "startTime": 230795,
+        "endTime": 231435,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "朝",
+        "startTime": 231435,
+        "endTime": 232076,
+        "romaji": "asa",
+        "kana": "あさ"
+      },
+      {
+        "token": "起き",
+        "startTime": 232076,
+        "endTime": 232716,
+        "romaji": "oki",
+        "kana": "おき"
+      },
+      {
+        "token": "て",
+        "startTime": 232716,
+        "endTime": 233357,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "朝ごはん",
+        "startTime": 233357,
+        "endTime": 233997,
+        "romaji": "asagohan",
+        "kana": "あさごはん"
+      },
+      {
+        "token": "を",
+        "startTime": 233997,
+        "endTime": 234637,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "食べ",
+        "startTime": 234637,
+        "endTime": 235278,
+        "romaji": "tabe",
+        "kana": "たべ"
+      },
+      {
+        "token": "て",
+        "startTime": 235278,
+        "endTime": 235918,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "散歩",
+        "startTime": 235918,
+        "endTime": 236558,
+        "romaji": "sanpo",
+        "kana": "さんぽ"
+      },
+      {
+        "token": "に",
+        "startTime": 236558,
+        "endTime": 237199,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "行っ",
+        "startTime": 237199,
+        "endTime": 237839,
+        "romaji": "i",
+        "kana": "いっ"
+      },
+      {
+        "token": "て",
+        "startTime": 237839,
+        "endTime": 238480,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "掃除",
+        "startTime": 238480,
+        "endTime": 239120,
+        "romaji": "souji",
+        "kana": "そうじ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "を し て 仕事 し ます これ は 毎日 やっ て い ます 毎日 朝 に やっ て い ます 僕 の ルーティーン です ね 皆 さん は 朝",
+    "translations": {
+      "en": "and then work. I do this every day. I do it every morning. It's my routine. What do you like to do in the morning?"
+    },
+    "segments": [
+      {
+        "token": "を",
+        "startTime": 239120,
+        "endTime": 239709,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "し",
+        "startTime": 239709,
+        "endTime": 240298,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "て",
+        "startTime": 240298,
+        "endTime": 240887,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "仕事",
+        "startTime": 240887,
+        "endTime": 241476,
+        "romaji": "shigoto",
+        "kana": "しごと"
+      },
+      {
+        "token": "し",
+        "startTime": 241476,
+        "endTime": 242065,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "ます",
+        "startTime": 242065,
+        "endTime": 242654,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "これ",
+        "startTime": 242654,
+        "endTime": 243243,
+        "romaji": "kore",
+        "kana": "これ"
+      },
+      {
+        "token": "は",
+        "startTime": 243243,
+        "endTime": 243832,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "毎日",
+        "startTime": 243832,
+        "endTime": 244421,
+        "romaji": "mainichi",
+        "kana": "まいにち"
+      },
+      {
+        "token": "やっ",
+        "startTime": 244421,
+        "endTime": 245010,
+        "romaji": "ya",
+        "kana": "やっ"
+      },
+      {
+        "token": "て",
+        "startTime": 245010,
+        "endTime": 245599,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "い",
+        "startTime": 245599,
+        "endTime": 246188,
+        "romaji": "i",
+        "kana": "い"
+      },
+      {
+        "token": "ます",
+        "startTime": 246188,
+        "endTime": 246777,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "毎日",
+        "startTime": 246777,
+        "endTime": 247366,
+        "romaji": "mainichi",
+        "kana": "まいにち"
+      },
+      {
+        "token": "朝",
+        "startTime": 247366,
+        "endTime": 247954,
+        "romaji": "asa",
+        "kana": "あさ"
+      },
+      {
+        "token": "に",
+        "startTime": 247954,
+        "endTime": 248543,
+        "romaji": "ni",
+        "kana": "に"
+      },
+      {
+        "token": "やっ",
+        "startTime": 248543,
+        "endTime": 249132,
+        "romaji": "ya",
+        "kana": "やっ"
+      },
+      {
+        "token": "て",
+        "startTime": 249132,
+        "endTime": 249721,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "い",
+        "startTime": 249721,
+        "endTime": 250310,
+        "romaji": "i",
+        "kana": "い"
+      },
+      {
+        "token": "ます",
+        "startTime": 250310,
+        "endTime": 250899,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "僕",
+        "startTime": 250899,
+        "endTime": 251488,
+        "romaji": "boku",
+        "kana": "ぼく"
+      },
+      {
+        "token": "の",
+        "startTime": 251488,
+        "endTime": 252077,
+        "romaji": "no",
+        "kana": "の"
+      },
+      {
+        "token": "ルーティーン",
+        "startTime": 252077,
+        "endTime": 252666,
+        "romaji": "ruutiin",
+        "kana": "るーてぃーん"
+      },
+      {
+        "token": "です",
+        "startTime": 252666,
+        "endTime": 253255,
+        "romaji": "desu",
+        "kana": "です"
+      },
+      {
+        "token": "ね",
+        "startTime": 253255,
+        "endTime": 253844,
+        "romaji": "ne",
+        "kana": "ね"
+      },
+      {
+        "token": "皆",
+        "startTime": 253844,
+        "endTime": 254433,
+        "romaji": "mina",
+        "kana": "みな"
+      },
+      {
+        "token": "さん",
+        "startTime": 254433,
+        "endTime": 255022,
+        "romaji": "san",
+        "kana": "さん"
+      },
+      {
+        "token": "は",
+        "startTime": 255022,
+        "endTime": 255611,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "朝",
+        "startTime": 255611,
+        "endTime": 256200,
+        "romaji": "asa",
+        "kana": "あさ"
+      }
+    ]
+  },
+  {
+    "sentence_text": "どう いう こと を する の が 好き です か ?",
+    "translations": {
+      "en": "What do you like to do in the morning?"
+    },
+    "segments": [
+      {
+        "token": "どう",
+        "startTime": 256200,
+        "endTime": 256651,
+        "romaji": "dou",
+        "kana": "どう"
+      },
+      {
+        "token": "いう",
+        "startTime": 256651,
+        "endTime": 257102,
+        "romaji": "iu",
+        "kana": "いう"
+      },
+      {
+        "token": "こと",
+        "startTime": 257102,
+        "endTime": 257553,
+        "romaji": "koto",
+        "kana": "こと"
+      },
+      {
+        "token": "を",
+        "startTime": 257553,
+        "endTime": 258004,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "する",
+        "startTime": 258004,
+        "endTime": 258455,
+        "romaji": "suru",
+        "kana": "する"
+      },
+      {
+        "token": "の",
+        "startTime": 258455,
+        "endTime": 258905,
+        "romaji": "no",
+        "kana": "の"
+      },
+      {
+        "token": "が",
+        "startTime": 258905,
+        "endTime": 259356,
+        "romaji": "ga",
+        "kana": "が"
+      },
+      {
+        "token": "好き",
+        "startTime": 259356,
+        "endTime": 259807,
+        "romaji": "suki",
+        "kana": "すき"
+      },
+      {
+        "token": "です",
+        "startTime": 259807,
+        "endTime": 260258,
+        "romaji": "desu",
+        "kana": "です"
+      },
+      {
+        "token": "か",
+        "startTime": 260258,
+        "endTime": 260709,
+        "romaji": "ka",
+        "kana": "か"
+      },
+      {
+        "token": "?",
+        "startTime": 260709,
+        "endTime": 261160,
+        "romaji": "?",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "皆 さん は どんな ルーティーン を 持っ い ます か ?",
+    "translations": {
+      "en": "What kind of routine do you have?"
+    },
+    "segments": [
+      {
+        "token": "皆",
+        "startTime": 261160,
+        "endTime": 261760,
+        "romaji": "mina",
+        "kana": "みな"
+      },
+      {
+        "token": "さん",
+        "startTime": 261760,
+        "endTime": 262360,
+        "romaji": "san",
+        "kana": "さん"
+      },
+      {
+        "token": "は",
+        "startTime": 262360,
+        "endTime": 262960,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "どんな",
+        "startTime": 262960,
+        "endTime": 263560,
+        "romaji": "donna",
+        "kana": "どんな"
+      },
+      {
+        "token": "ルーティーン",
+        "startTime": 263560,
+        "endTime": 264160,
+        "romaji": "ruutiin",
+        "kana": "るーてぃーん"
+      },
+      {
+        "token": "を",
+        "startTime": 264160,
+        "endTime": 264760,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "持っ",
+        "startTime": 264760,
+        "endTime": 265360,
+        "romaji": "mo",
+        "kana": "もっ"
+      },
+      {
+        "token": "い",
+        "startTime": 265360,
+        "endTime": 265960,
+        "romaji": "i",
+        "kana": "い"
+      },
+      {
+        "token": "ます",
+        "startTime": 265960,
+        "endTime": 266560,
+        "romaji": "masu",
+        "kana": "ます"
+      },
+      {
+        "token": "か",
+        "startTime": 266560,
+        "endTime": 267160,
+        "romaji": "ka",
+        "kana": "か"
+      },
+      {
+        "token": "?",
+        "startTime": 267160,
+        "endTime": 267760,
+        "romaji": "?",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "ぜひ コメント で 教え ください",
+    "translations": {
+      "en": "Please let me know in the comments."
+    },
+    "segments": [
+      {
+        "token": "ぜひ",
+        "startTime": 267760,
+        "endTime": 268360,
+        "romaji": "zehi",
+        "kana": "ぜひ"
+      },
+      {
+        "token": "コメント",
+        "startTime": 268360,
+        "endTime": 268740,
+        "romaji": "komento",
+        "kana": "こめんと"
+      },
+      {
+        "token": "で",
+        "startTime": 268740,
+        "endTime": 268880,
+        "romaji": "de",
+        "kana": "で"
+      },
+      {
+        "token": "教え",
+        "startTime": 268880,
+        "endTime": 269060,
+        "romaji": "oshie",
+        "kana": "おしえ"
+      },
+      {
+        "token": "ください",
+        "startTime": 269060,
+        "endTime": 271300,
+        "romaji": "kudasai",
+        "kana": "ください"
+      }
+    ]
+  },
+  {
+    "sentence_text": "はい 、",
+    "translations": {
+      "en": "Okay,"
+    },
+    "segments": [
+      {
+        "token": "はい",
+        "startTime": 271300,
+        "endTime": 271750,
+        "romaji": "hai",
+        "kana": "はい"
+      },
+      {
+        "token": "、",
+        "startTime": 271750,
+        "endTime": 272200,
+        "romaji": ",",
+        "kana": "*"
+      }
+    ]
+  },
+  {
+    "sentence_text": "じゃあ 今日 の 動画 は お しまい です",
+    "translations": {
+      "en": "that's it for today's video."
+    },
+    "segments": [
+      {
+        "token": "じゃあ",
+        "startTime": 272200,
+        "endTime": 272300,
+        "romaji": "jaa",
+        "kana": "じゃあ"
+      },
+      {
+        "token": "今日",
+        "startTime": 272300,
+        "endTime": 272600,
+        "romaji": "kyou",
+        "kana": "きょう"
+      },
+      {
+        "token": "の",
+        "startTime": 272600,
+        "endTime": 272780,
+        "romaji": "no",
+        "kana": "の"
+      },
+      {
+        "token": "動画",
+        "startTime": 272780,
+        "endTime": 272980,
+        "romaji": "douga",
+        "kana": "どうが"
+      },
+      {
+        "token": "は",
+        "startTime": 272980,
+        "endTime": 273160,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "お",
+        "startTime": 273160,
+        "endTime": 273300,
+        "romaji": "o",
+        "kana": "お"
+      },
+      {
+        "token": "しまい",
+        "startTime": 273300,
+        "endTime": 273640,
+        "romaji": "shimai",
+        "kana": "しまい"
+      },
+      {
+        "token": "です",
+        "startTime": 273640,
+        "endTime": 274780,
+        "romaji": "desu",
+        "kana": "です"
+      }
+    ]
+  },
+  {
+    "sentence_text": "日本 語 を 勉強 し て いる 人 は チャンネル 登録 と お 願い し ます",
+    "translations": {
+      "en": "Please subscribe if you're studying Japanese."
+    },
+    "segments": [
+      {
+        "token": "日本",
+        "startTime": 274780,
+        "endTime": 275117,
+        "romaji": "Nippon",
+        "kana": "にっぽん"
+      },
+      {
+        "token": "語",
+        "startTime": 275117,
+        "endTime": 275455,
+        "romaji": "go",
+        "kana": "ご"
+      },
+      {
+        "token": "を",
+        "startTime": 275455,
+        "endTime": 275792,
+        "romaji": "wo",
+        "kana": "を"
+      },
+      {
+        "token": "勉強",
+        "startTime": 275792,
+        "endTime": 276130,
+        "romaji": "benkyou",
+        "kana": "べんきょう"
+      },
+      {
+        "token": "し",
+        "startTime": 276130,
+        "endTime": 276468,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "て",
+        "startTime": 276468,
+        "endTime": 276805,
+        "romaji": "te",
+        "kana": "て"
+      },
+      {
+        "token": "いる",
+        "startTime": 276805,
+        "endTime": 277143,
+        "romaji": "iru",
+        "kana": "いる"
+      },
+      {
+        "token": "人",
+        "startTime": 277143,
+        "endTime": 277480,
+        "romaji": "hito",
+        "kana": "ひと"
+      },
+      {
+        "token": "は",
+        "startTime": 277480,
+        "endTime": 277818,
+        "romaji": "wa",
+        "kana": "は"
+      },
+      {
+        "token": "チャンネル",
+        "startTime": 277818,
+        "endTime": 278155,
+        "romaji": "channeru",
+        "kana": "ちゃんねる"
+      },
+      {
+        "token": "登録",
+        "startTime": 278155,
+        "endTime": 278493,
+        "romaji": "touroku",
+        "kana": "とうろく"
+      },
+      {
+        "token": "と",
+        "startTime": 278493,
+        "endTime": 278830,
+        "romaji": "to",
+        "kana": "と"
+      },
+      {
+        "token": "お",
+        "startTime": 278830,
+        "endTime": 279168,
+        "romaji": "o",
+        "kana": "お"
+      },
+      {
+        "token": "願い",
+        "startTime": 279168,
+        "endTime": 279505,
+        "romaji": "negai",
+        "kana": "ねがい"
+      },
+      {
+        "token": "し",
+        "startTime": 279505,
+        "endTime": 279843,
+        "romaji": "shi",
+        "kana": "し"
+      },
+      {
+        "token": "ます",
+        "startTime": 279843,
+        "endTime": 280180,
+        "romaji": "masu",
+        "kana": "ます"
+      }
+    ]
+  },
+  {
+    "sentence_text": "それ じゃあ また 次 の 動画 で 会い ましょう",
+    "translations": {
+      "en": "Well then, see you in the next video."
+    },
+    "segments": [
+      {
+        "token": "それ",
+        "startTime": 280180,
+        "endTime": 280400,
+        "romaji": "sore",
+        "kana": "それ"
+      },
+      {
+        "token": "じゃあ",
+        "startTime": 280400,
+        "endTime": 280540,
+        "romaji": "jaa",
+        "kana": "じゃあ"
+      },
+      {
+        "token": "また",
+        "startTime": 280540,
+        "endTime": 280760,
+        "romaji": "mata",
+        "kana": "また"
+      },
+      {
+        "token": "次",
+        "startTime": 280760,
+        "endTime": 281020,
+        "romaji": "ji",
+        "kana": "じ"
+      },
+      {
+        "token": "の",
+        "startTime": 281020,
+        "endTime": 281180,
+        "romaji": "no",
+        "kana": "の"
+      },
+      {
+        "token": "動画",
+        "startTime": 281180,
+        "endTime": 281400,
+        "romaji": "douga",
+        "kana": "どうが"
+      },
+      {
+        "token": "で",
+        "startTime": 281400,
+        "endTime": 281580,
+        "romaji": "de",
+        "kana": "で"
+      },
+      {
+        "token": "会い",
+        "startTime": 281580,
+        "endTime": 281700,
+        "romaji": "ai",
+        "kana": "あい"
+      },
+      {
+        "token": "ましょう",
+        "startTime": 281700,
+        "endTime": 282860,
+        "romaji": "mashou",
+        "kana": "ましょう"
+      }
+    ]
+  },
+  {
+    "sentence_text": "バイ バイ",
+    "translations": {
+      "en": "Bye bye."
+    },
+    "segments": [
+      {
+        "token": "バイ",
+        "startTime": 282860,
+        "endTime": 283040,
+        "romaji": "bai",
+        "kana": "ばい"
+      },
+      {
+        "token": "バイ",
+        "startTime": 283040,
+        "endTime": 283180,
+        "romaji": "bai",
+        "kana": "ばい"
+      }
+    ]
+  }
+]
