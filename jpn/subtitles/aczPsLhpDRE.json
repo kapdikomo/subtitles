@@ -1,8 +1,8 @@
 [
   {
-    "sentence_text": "みな さん こんにちは",
+    "sentence_text": "みな さん こんにちは 日本 語 ラーニング の ゆき の です",
     "translations": {
-      "en": "Hello everyone"
+      "en": "Hello everyone, this is Yukino from Japanese Learning."
     },
     "segments": [
       {
@@ -25,15 +25,7 @@
         "endTime": 4740,
         "romaji": "konnichiha",
         "kana": "こんにちは"
-      }
-    ]
-  },
-  {
-    "sentence_text": "日本 語 ラーニング の ゆき の です",
-    "translations": {
-      "en": "I'm Yukino from Japanese Learning"
-    },
-    "segments": [
+      },
       {
         "token": "日本",
         "startTime": 4740,
@@ -86,141 +78,133 @@
     ]
   },
   {
-    "sentence_text": "今日 は 日本 の 生活 の 中 で とても",
+    "sentence_text": "今日 は 日本 の 生活 の 中 で とても 大切 な 習慣 を 3 つ 紹介 し ます",
     "translations": {
-      "en": "Today, I'll introduce three very"
+      "en": "Today I’ll introduce three very important customs in Japanese daily life."
     },
     "segments": [
       {
         "token": "今日",
         "startTime": 8580,
-        "endTime": 8978,
+        "endTime": 9053,
         "romaji": "kyou",
         "kana": "きょう"
       },
       {
         "token": "は",
-        "startTime": 8978,
-        "endTime": 9376,
+        "startTime": 9053,
+        "endTime": 9527,
         "romaji": "wa",
         "kana": "は"
       },
       {
         "token": "日本",
-        "startTime": 9376,
-        "endTime": 9773,
+        "startTime": 9527,
+        "endTime": 10000,
         "romaji": "Nippon",
         "kana": "にっぽん"
       },
       {
         "token": "の",
-        "startTime": 9773,
-        "endTime": 10171,
+        "startTime": 10000,
+        "endTime": 10473,
         "romaji": "no",
         "kana": "の"
       },
       {
         "token": "生活",
-        "startTime": 10171,
-        "endTime": 10569,
+        "startTime": 10473,
+        "endTime": 10947,
         "romaji": "seikatsu",
         "kana": "せいかつ"
       },
       {
         "token": "の",
-        "startTime": 10569,
-        "endTime": 10967,
+        "startTime": 10947,
+        "endTime": 11420,
         "romaji": "no",
         "kana": "の"
       },
       {
         "token": "中",
-        "startTime": 10967,
-        "endTime": 11364,
+        "startTime": 11420,
+        "endTime": 11893,
         "romaji": "naka",
         "kana": "なか"
       },
       {
         "token": "で",
-        "startTime": 11364,
-        "endTime": 11762,
+        "startTime": 11893,
+        "endTime": 12367,
         "romaji": "de",
         "kana": "で"
       },
       {
         "token": "とても",
-        "startTime": 11762,
-        "endTime": 12160,
+        "startTime": 12367,
+        "endTime": 12840,
         "romaji": "totemo",
         "kana": "とても"
-      }
-    ]
-  },
-  {
-    "sentence_text": "大切 な 習慣 を 3 つ 紹介 し ます",
-    "translations": {
-      "en": "important habits in Japanese daily life"
-    },
-    "segments": [
+      },
       {
         "token": "大切",
-        "startTime": 12160,
-        "endTime": 12709,
+        "startTime": 12840,
+        "endTime": 13313,
         "romaji": "taisetsu",
         "kana": "たいせつ"
       },
       {
         "token": "な",
-        "startTime": 12709,
-        "endTime": 13258,
+        "startTime": 13313,
+        "endTime": 13787,
         "romaji": "na",
         "kana": "な"
       },
       {
         "token": "習慣",
-        "startTime": 13258,
-        "endTime": 13807,
+        "startTime": 13787,
+        "endTime": 14260,
         "romaji": "shuukan",
         "kana": "しゅうかん"
       },
       {
         "token": "を",
-        "startTime": 13807,
-        "endTime": 14356,
+        "startTime": 14260,
+        "endTime": 14733,
         "romaji": "wo",
         "kana": "を"
       },
       {
         "token": "3",
-        "startTime": 14356,
-        "endTime": 14904,
+        "startTime": 14733,
+        "endTime": 15207,
         "romaji": "3",
         "kana": "3"
       },
       {
         "token": "つ",
-        "startTime": 14904,
-        "endTime": 15453,
+        "startTime": 15207,
+        "endTime": 15680,
         "romaji": "tsu",
         "kana": "つ"
       },
       {
         "token": "紹介",
-        "startTime": 15453,
-        "endTime": 16002,
+        "startTime": 15680,
+        "endTime": 16153,
         "romaji": "shoukai",
         "kana": "しょうかい"
       },
       {
         "token": "し",
-        "startTime": 16002,
-        "endTime": 16551,
+        "startTime": 16153,
+        "endTime": 16627,
         "romaji": "shi",
         "kana": "し"
       },
       {
         "token": "ます",
-        "startTime": 16551,
+        "startTime": 16627,
         "endTime": 17100,
         "romaji": "masu",
         "kana": "ます"
@@ -228,93 +212,77 @@
     ]
   },
   {
-    "sentence_text": "いただき ます",
+    "sentence_text": "いただき ます ご ちそう さま でし た 靴 を 脱ぐ",
     "translations": {
-      "en": "Itadakimasu"
+      "en": "Itadakimasu, Gochisousama deshita, and taking off shoes."
     },
     "segments": [
       {
         "token": "いただき",
         "startTime": 17100,
-        "endTime": 18270,
+        "endTime": 18390,
         "romaji": "itadaki",
         "kana": "いただき"
       },
       {
         "token": "ます",
-        "startTime": 18270,
-        "endTime": 19440,
+        "startTime": 18390,
+        "endTime": 19680,
         "romaji": "masu",
         "kana": "ます"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ご ちそう さま でし",
-    "translations": {
-      "en": "Gochisousama deshi"
-    },
-    "segments": [
+      },
       {
         "token": "ご",
-        "startTime": 19440,
-        "endTime": 19640,
+        "startTime": 19680,
+        "endTime": 20970,
         "romaji": "go",
         "kana": "ご"
       },
       {
         "token": "ちそう",
-        "startTime": 19640,
-        "endTime": 20000,
+        "startTime": 20970,
+        "endTime": 22260,
         "romaji": "chisou",
         "kana": "ちそう"
       },
       {
         "token": "さま",
-        "startTime": 20000,
-        "endTime": 20400,
+        "startTime": 22260,
+        "endTime": 23550,
         "romaji": "sama",
         "kana": "さま"
       },
       {
         "token": "でし",
-        "startTime": 20400,
-        "endTime": 22140,
+        "startTime": 23550,
+        "endTime": 24840,
         "romaji": "deshi",
         "kana": "でし"
-      }
-    ]
-  },
-  {
-    "sentence_text": "た 靴 を 脱ぐ",
-    "translations": {
-      "en": "ta. Take off shoes."
-    },
-    "segments": [
+      },
       {
         "token": "た",
-        "startTime": 22140,
-        "endTime": 22460,
+        "startTime": 24840,
+        "endTime": 26130,
         "romaji": "ta",
         "kana": "た"
       },
       {
         "token": "靴",
-        "startTime": 22460,
-        "endTime": 22780,
+        "startTime": 26130,
+        "endTime": 27420,
         "romaji": "kutsu",
         "kana": "くつ"
       },
       {
         "token": "を",
-        "startTime": 22780,
-        "endTime": 22980,
+        "startTime": 27420,
+        "endTime": 28710,
         "romaji": "wo",
         "kana": "を"
       },
       {
         "token": "脱ぐ",
-        "startTime": 22980,
+        "startTime": 28710,
         "endTime": 30000,
         "romaji": "nugu",
         "kana": "ぬぐ"
@@ -372,113 +340,105 @@
     ]
   },
   {
-    "sentence_text": "日本 で は ご飯 を 食べる 前",
+    "sentence_text": "日本 で は ご飯 を 食べる 前 に いただき ます と 言い ます 。",
     "translations": {
-      "en": "In Japan, before eating a meal"
+      "en": "In Japan, we say Itadakimasu before eating a meal."
     },
     "segments": [
       {
         "token": "日本",
         "startTime": 34500,
-        "endTime": 34760,
+        "endTime": 35121,
         "romaji": "Nippon",
         "kana": "にっぽん"
       },
       {
         "token": "で",
-        "startTime": 34760,
-        "endTime": 35140,
+        "startTime": 35121,
+        "endTime": 35743,
         "romaji": "de",
         "kana": "で"
       },
       {
         "token": "は",
-        "startTime": 35140,
-        "endTime": 35880,
+        "startTime": 35743,
+        "endTime": 36364,
         "romaji": "wa",
         "kana": "は"
       },
       {
         "token": "ご飯",
-        "startTime": 35880,
-        "endTime": 36300,
+        "startTime": 36364,
+        "endTime": 36986,
         "romaji": "gohan",
         "kana": "ごはん"
       },
       {
         "token": "を",
-        "startTime": 36300,
-        "endTime": 36560,
+        "startTime": 36986,
+        "endTime": 37607,
         "romaji": "wo",
         "kana": "を"
       },
       {
         "token": "食べる",
-        "startTime": 36560,
-        "endTime": 37260,
+        "startTime": 37607,
+        "endTime": 38229,
         "romaji": "taberu",
         "kana": "たべる"
       },
       {
         "token": "前",
-        "startTime": 37260,
-        "endTime": 38080,
+        "startTime": 38229,
+        "endTime": 38850,
         "romaji": "mae",
         "kana": "まえ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "に いただき ます と 言い ます 。",
-    "translations": {
-      "en": "we say Itadakimasu."
-    },
-    "segments": [
+      },
       {
         "token": "に",
-        "startTime": 38080,
-        "endTime": 38811,
+        "startTime": 38850,
+        "endTime": 39471,
         "romaji": "ni",
         "kana": "に"
       },
       {
         "token": "いただき",
-        "startTime": 38811,
-        "endTime": 39543,
+        "startTime": 39471,
+        "endTime": 40093,
         "romaji": "itadaki",
         "kana": "いただき"
       },
       {
         "token": "ます",
-        "startTime": 39543,
-        "endTime": 40274,
+        "startTime": 40093,
+        "endTime": 40714,
         "romaji": "masu",
         "kana": "ます"
       },
       {
         "token": "と",
-        "startTime": 40274,
-        "endTime": 41006,
+        "startTime": 40714,
+        "endTime": 41336,
         "romaji": "to",
         "kana": "と"
       },
       {
         "token": "言い",
-        "startTime": 41006,
-        "endTime": 41737,
+        "startTime": 41336,
+        "endTime": 41957,
         "romaji": "ii",
         "kana": "いい"
       },
       {
         "token": "ます",
-        "startTime": 41737,
-        "endTime": 42469,
+        "startTime": 41957,
+        "endTime": 42579,
         "romaji": "masu",
         "kana": "ます"
       },
       {
         "token": "。",
-        "startTime": 42469,
+        "startTime": 42579,
         "endTime": 43200,
         "romaji": ".",
         "kana": "*"
@@ -486,163 +446,147 @@
     ]
   },
   {
-    "sentence_text": "この 言葉 に は 食べ物 を 作っ て",
+    "sentence_text": "この 言葉 に は 食べ物 を 作っ て くれ た 人 や 食材 の 命 に 感謝 あり ます 。",
     "translations": {
-      "en": "This phrase expresses gratitude to the person who made"
+      "en": "This phrase expresses gratitude to the people who made the food and to the lives of the ingredients."
     },
     "segments": [
       {
         "token": "この",
         "startTime": 43200,
-        "endTime": 43440,
+        "endTime": 43694,
         "romaji": "kono",
         "kana": "この"
       },
       {
         "token": "言葉",
-        "startTime": 43440,
-        "endTime": 43800,
+        "startTime": 43694,
+        "endTime": 44188,
         "romaji": "kotoba",
         "kana": "ことば"
       },
       {
         "token": "に",
-        "startTime": 43800,
-        "endTime": 44120,
+        "startTime": 44188,
+        "endTime": 44682,
         "romaji": "ni",
         "kana": "に"
       },
       {
         "token": "は",
-        "startTime": 44120,
-        "endTime": 45100,
+        "startTime": 44682,
+        "endTime": 45176,
         "romaji": "wa",
         "kana": "は"
       },
       {
         "token": "食べ物",
-        "startTime": 45100,
-        "endTime": 45880,
+        "startTime": 45176,
+        "endTime": 45670,
         "romaji": "tabemono",
         "kana": "たべもの"
       },
       {
         "token": "を",
-        "startTime": 45880,
-        "endTime": 46200,
+        "startTime": 45670,
+        "endTime": 46164,
         "romaji": "wo",
         "kana": "を"
       },
       {
         "token": "作っ",
-        "startTime": 46200,
-        "endTime": 46620,
+        "startTime": 46164,
+        "endTime": 46658,
         "romaji": "tsuku",
         "kana": "つくっ"
       },
       {
         "token": "て",
-        "startTime": 46620,
-        "endTime": 46900,
+        "startTime": 46658,
+        "endTime": 47152,
         "romaji": "te",
         "kana": "て"
-      }
-    ]
-  },
-  {
-    "sentence_text": "くれ た 人 や 食材 の 命",
-    "translations": {
-      "en": "the food and to the lives of the ingredients"
-    },
-    "segments": [
+      },
       {
         "token": "くれ",
-        "startTime": 46900,
-        "endTime": 47980,
+        "startTime": 47152,
+        "endTime": 47646,
         "romaji": "kure",
         "kana": "くれ"
       },
       {
         "token": "た",
-        "startTime": 47980,
-        "endTime": 48340,
+        "startTime": 47646,
+        "endTime": 48140,
         "romaji": "ta",
         "kana": "た"
       },
       {
         "token": "人",
-        "startTime": 48340,
-        "endTime": 48620,
+        "startTime": 48140,
+        "endTime": 48634,
         "romaji": "hito",
         "kana": "ひと"
       },
       {
         "token": "や",
-        "startTime": 48620,
-        "endTime": 48920,
+        "startTime": 48634,
+        "endTime": 49128,
         "romaji": "ya",
         "kana": "や"
       },
       {
         "token": "食材",
-        "startTime": 48920,
-        "endTime": 49940,
+        "startTime": 49128,
+        "endTime": 49622,
         "romaji": "shokuzai",
         "kana": "しょくざい"
       },
       {
         "token": "の",
-        "startTime": 49940,
-        "endTime": 50320,
+        "startTime": 49622,
+        "endTime": 50116,
         "romaji": "no",
         "kana": "の"
       },
       {
         "token": "命",
-        "startTime": 50320,
-        "endTime": 50660,
+        "startTime": 50116,
+        "endTime": 50610,
         "romaji": "inochi",
         "kana": "いのち"
-      }
-    ]
-  },
-  {
-    "sentence_text": "に 感謝 あり ます 。",
-    "translations": {
-      "en": "that gave their lives."
-    },
-    "segments": [
+      },
       {
         "token": "に",
-        "startTime": 50660,
-        "endTime": 51144,
+        "startTime": 50610,
+        "endTime": 51104,
         "romaji": "ni",
         "kana": "に"
       },
       {
         "token": "感謝",
-        "startTime": 51144,
-        "endTime": 51628,
+        "startTime": 51104,
+        "endTime": 51598,
         "romaji": "kansha",
         "kana": "かんしゃ"
       },
       {
         "token": "あり",
-        "startTime": 51628,
-        "endTime": 52112,
+        "startTime": 51598,
+        "endTime": 52092,
         "romaji": "ari",
         "kana": "あり"
       },
       {
         "token": "ます",
-        "startTime": 52112,
-        "endTime": 52596,
+        "startTime": 52092,
+        "endTime": 52586,
         "romaji": "masu",
         "kana": "ます"
       },
       {
         "token": "。",
-        "startTime": 52596,
+        "startTime": 52586,
         "endTime": 53080,
         "romaji": ".",
         "kana": "*"
@@ -652,7 +596,7 @@
   {
     "sentence_text": "それ で は 練習 し て ましょう 。",
     "translations": {
-      "en": "Now, let's practice."
+      "en": "Now, let’s practice."
     },
     "segments": [
       {
@@ -743,9 +687,9 @@
     ]
   },
   {
-    "sentence_text": "2 つ 目",
+    "sentence_text": "2 つ 目 ご ちそう さま でし た",
     "translations": {
-      "en": "Second"
+      "en": "Second, Gochisousama deshita."
     },
     "segments": [
       {
@@ -768,15 +712,7 @@
         "endTime": 63685,
         "romaji": "me",
         "kana": "め"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ご ちそう さま でし",
-    "translations": {
-      "en": "Gochisousama deshi"
-    },
-    "segments": [
+      },
       {
         "token": "ご",
         "startTime": 63685,
@@ -804,89 +740,81 @@
         "endTime": 67325,
         "romaji": "deshi",
         "kana": "でし"
-      }
-    ]
-  },
-  {
-    "sentence_text": "た 食べ 終わっ",
-    "translations": {
-      "en": "ta. After finishing a meal"
-    },
-    "segments": [
+      },
       {
         "token": "た",
         "startTime": 67325,
         "endTime": 67565,
         "romaji": "ta",
         "kana": "た"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "食べ 終わっ たら ご ちそう さま でし い ます",
+    "translations": {
+      "en": "After finishing a meal, we say Gochisousama deshita."
+    },
+    "segments": [
       {
         "token": "食べ",
         "startTime": 67565,
-        "endTime": 67885,
+        "endTime": 68198,
         "romaji": "tabe",
         "kana": "たべ"
       },
       {
         "token": "終わっ",
-        "startTime": 67885,
-        "endTime": 68885,
+        "startTime": 68198,
+        "endTime": 68832,
         "romaji": "owa",
         "kana": "おわっ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "たら ご ちそう さま でし い ます",
-    "translations": {
-      "en": "we say Gochisousama deshita."
-    },
-    "segments": [
+      },
       {
         "token": "たら",
-        "startTime": 68885,
-        "endTime": 69511,
+        "startTime": 68832,
+        "endTime": 69465,
         "romaji": "tara",
         "kana": "たら"
       },
       {
         "token": "ご",
-        "startTime": 69511,
-        "endTime": 70136,
+        "startTime": 69465,
+        "endTime": 70098,
         "romaji": "go",
         "kana": "ご"
       },
       {
         "token": "ちそう",
-        "startTime": 70136,
-        "endTime": 70762,
+        "startTime": 70098,
+        "endTime": 70732,
         "romaji": "chisou",
         "kana": "ちそう"
       },
       {
         "token": "さま",
-        "startTime": 70762,
-        "endTime": 71388,
+        "startTime": 70732,
+        "endTime": 71365,
         "romaji": "sama",
         "kana": "さま"
       },
       {
         "token": "でし",
-        "startTime": 71388,
-        "endTime": 72014,
+        "startTime": 71365,
+        "endTime": 71998,
         "romaji": "deshi",
         "kana": "でし"
       },
       {
         "token": "い",
-        "startTime": 72014,
-        "endTime": 72639,
+        "startTime": 71998,
+        "endTime": 72632,
         "romaji": "i",
         "kana": "い"
       },
       {
         "token": "ます",
-        "startTime": 72639,
+        "startTime": 72632,
         "endTime": 73265,
         "romaji": "masu",
         "kana": "ます"
@@ -894,152 +822,129 @@
     ]
   },
   {
-    "sentence_text": "これ は 料理 を 作っ て くれ た 人",
+    "sentence_text": "これ は 料理 を 作っ て くれ た 人 や 食材 ありがとう と 伝える 言葉 です",
     "translations": {
-      "en": "This is for the person who cooked the meal"
+      "en": "This is a phrase to thank the person who cooked the meal and the ingredients."
     },
     "segments": [
       {
         "token": "これ",
         "startTime": 73265,
-        "endTime": 73632,
+        "endTime": 73818,
         "romaji": "kore",
         "kana": "これ"
       },
       {
         "token": "は",
-        "startTime": 73632,
-        "endTime": 73998,
+        "startTime": 73818,
+        "endTime": 74370,
         "romaji": "wa",
         "kana": "は"
       },
       {
         "token": "料理",
-        "startTime": 73998,
-        "endTime": 74365,
+        "startTime": 74370,
+        "endTime": 74923,
         "romaji": "ryouri",
         "kana": "りょうり"
       },
       {
         "token": "を",
-        "startTime": 74365,
-        "endTime": 74732,
+        "startTime": 74923,
+        "endTime": 75475,
         "romaji": "wo",
         "kana": "を"
       },
       {
         "token": "作っ",
-        "startTime": 74732,
-        "endTime": 75098,
+        "startTime": 75475,
+        "endTime": 76028,
         "romaji": "tsuku",
         "kana": "つくっ"
       },
       {
         "token": "て",
-        "startTime": 75098,
-        "endTime": 75465,
+        "startTime": 76028,
+        "endTime": 76580,
         "romaji": "te",
         "kana": "て"
       },
       {
         "token": "くれ",
-        "startTime": 75465,
-        "endTime": 75832,
+        "startTime": 76580,
+        "endTime": 77133,
         "romaji": "kure",
         "kana": "くれ"
       },
       {
         "token": "た",
-        "startTime": 75832,
-        "endTime": 76198,
+        "startTime": 77133,
+        "endTime": 77685,
         "romaji": "ta",
         "kana": "た"
       },
       {
         "token": "人",
-        "startTime": 76198,
-        "endTime": 76565,
+        "startTime": 77685,
+        "endTime": 78238,
         "romaji": "hito",
         "kana": "ひと"
-      }
-    ]
-  },
-  {
-    "sentence_text": "や 食材 ありがとう と 伝える 言葉",
-    "translations": {
-      "en": "A phrase to say thank you for the ingredients or food."
-    },
-    "segments": [
+      },
       {
         "token": "や",
-        "startTime": 76565,
-        "endTime": 76745,
+        "startTime": 78238,
+        "endTime": 78790,
         "romaji": "ya",
         "kana": "や"
       },
       {
         "token": "食材",
-        "startTime": 76745,
-        "endTime": 77245,
+        "startTime": 78790,
+        "endTime": 79343,
         "romaji": "shokuzai",
         "kana": "しょくざい"
       },
       {
         "token": "ありがとう",
-        "startTime": 77245,
-        "endTime": 78205,
+        "startTime": 79343,
+        "endTime": 79895,
         "romaji": "arigatou",
         "kana": "ありがとう"
       },
       {
         "token": "と",
-        "startTime": 78205,
-        "endTime": 79225,
+        "startTime": 79895,
+        "endTime": 80448,
         "romaji": "to",
         "kana": "と"
       },
       {
         "token": "伝える",
-        "startTime": 79225,
-        "endTime": 79885,
+        "startTime": 80448,
+        "endTime": 81000,
         "romaji": "tsutaeru",
         "kana": "つたえる"
       },
       {
         "token": "言葉",
-        "startTime": 79885,
-        "endTime": 80185,
+        "startTime": 81000,
+        "endTime": 81553,
         "romaji": "kotoba",
         "kana": "ことば"
-      }
-    ]
-  },
-  {
-    "sentence_text": "です",
-    "translations": {
-      "en": "It is."
-    },
-    "segments": [
-      {
-        "token": "で",
-        "startTime": 80185,
-        "endTime": 81145,
-        "romaji": "de",
-        "kana": "で"
       },
       {
-        "token": "す",
-        "startTime": 81145,
+        "token": "です",
+        "startTime": 81553,
         "endTime": 82105,
-        "romaji": "su",
-        "kana": "す"
+        "romaji": "desu",
+        "kana": "です"
       }
     ]
   },
   {
     "sentence_text": "レストラン で も 家 で も い ます",
     "translations": {
-      "en": "Whether at a restaurant or at home, it's used."
+      "en": "We say it both at restaurants and at home."
     },
     "segments": [
       {
@@ -1103,7 +1008,7 @@
   {
     "sentence_text": "それ で は 練習 し て ましょう",
     "translations": {
-      "en": "Then let's practice."
+      "en": "Now, let’s practice."
     },
     "segments": [
       {
@@ -1160,7 +1065,7 @@
   {
     "sentence_text": "ご ちそう さま でし",
     "translations": {
-      "en": "Thank you for the meal."
+      "en": "Gochisousama deshita."
     },
     "segments": [
       {
@@ -1194,9 +1099,9 @@
     ]
   },
   {
-    "sentence_text": "3 つ 目",
+    "sentence_text": "3 つ 目 靴 を 脱ぐ",
     "translations": {
-      "en": "Number three."
+      "en": "Third, taking off shoes."
     },
     "segments": [
       {
@@ -1219,15 +1124,7 @@
         "endTime": 98105,
         "romaji": "me",
         "kana": "め"
-      }
-    ]
-  },
-  {
-    "sentence_text": "靴 を 脱ぐ",
-    "translations": {
-      "en": "Taking off shoes."
-    },
-    "segments": [
+      },
       {
         "token": "靴",
         "startTime": 98105,
@@ -1252,9 +1149,9 @@
     ]
   },
   {
-    "sentence_text": "日本 の 家 に 入る とき は 必ず",
+    "sentence_text": "日本 の 家 に 入る とき は 必ず 靴 を 脱ぎ ます",
     "translations": {
-      "en": "When entering a Japanese home, you must always"
+      "en": "When entering a Japanese home, you must always take off your shoes."
     },
     "segments": [
       {
@@ -1312,15 +1209,7 @@
         "endTime": 103525,
         "romaji": "kanarazu",
         "kana": "かならず"
-      }
-    ]
-  },
-  {
-    "sentence_text": "靴 を 脱ぎ ます",
-    "translations": {
-      "en": "take off your shoes."
-    },
-    "segments": [
+      },
       {
         "token": "靴",
         "startTime": 103525,
@@ -1352,147 +1241,126 @@
     ]
   },
   {
-    "sentence_text": "玄関 と いう 場所 で 靴 を 脱い で",
+    "sentence_text": "玄関 と いう 場所 で 靴 を 脱い で スリッパ や 靴下 で 家 に 入り ます",
     "translations": {
-      "en": "You take off your shoes at the entrance called genkan,"
+      "en": "You take off your shoes at the entrance called genkan, then enter the house in slippers or socks."
     },
     "segments": [
       {
         "token": "玄関",
         "startTime": 106705,
-        "endTime": 107047,
+        "endTime": 107203,
         "romaji": "genkan",
         "kana": "げんかん"
       },
       {
         "token": "と",
-        "startTime": 107047,
-        "endTime": 107389,
+        "startTime": 107203,
+        "endTime": 107700,
         "romaji": "to",
         "kana": "と"
       },
       {
         "token": "いう",
-        "startTime": 107389,
-        "endTime": 107732,
+        "startTime": 107700,
+        "endTime": 108198,
         "romaji": "iu",
         "kana": "いう"
       },
       {
         "token": "場所",
-        "startTime": 107732,
-        "endTime": 108074,
+        "startTime": 108198,
+        "endTime": 108696,
         "romaji": "basho",
         "kana": "ばしょ"
       },
       {
         "token": "で",
-        "startTime": 108074,
-        "endTime": 108416,
+        "startTime": 108696,
+        "endTime": 109193,
         "romaji": "de",
         "kana": "で"
       },
       {
         "token": "靴",
-        "startTime": 108416,
-        "endTime": 108758,
+        "startTime": 109193,
+        "endTime": 109691,
         "romaji": "kutsu",
         "kana": "くつ"
       },
       {
         "token": "を",
-        "startTime": 108758,
-        "endTime": 109101,
+        "startTime": 109691,
+        "endTime": 110189,
         "romaji": "wo",
         "kana": "を"
       },
       {
         "token": "脱い",
-        "startTime": 109101,
-        "endTime": 109443,
+        "startTime": 110189,
+        "endTime": 110686,
         "romaji": "nui",
         "kana": "ぬい"
       },
       {
         "token": "で",
-        "startTime": 109443,
-        "endTime": 109785,
+        "startTime": 110686,
+        "endTime": 111184,
         "romaji": "de",
         "kana": "で"
-      }
-    ]
-  },
-  {
-    "sentence_text": "スリッパ や 靴下 で 家 に 入",
-    "translations": {
-      "en": "and enter the house in slippers or socks."
-    },
-    "segments": [
+      },
       {
         "token": "スリッパ",
-        "startTime": 109785,
-        "endTime": 110965,
+        "startTime": 111184,
+        "endTime": 111681,
         "romaji": "surippa",
         "kana": "すりっぱ"
       },
       {
         "token": "や",
-        "startTime": 110965,
-        "endTime": 111125,
+        "startTime": 111681,
+        "endTime": 112179,
         "romaji": "ya",
         "kana": "や"
       },
       {
         "token": "靴下",
-        "startTime": 111125,
-        "endTime": 112045,
+        "startTime": 112179,
+        "endTime": 112677,
         "romaji": "kutsushita",
         "kana": "くつした"
       },
       {
         "token": "で",
-        "startTime": 112045,
-        "endTime": 112245,
+        "startTime": 112677,
+        "endTime": 113174,
         "romaji": "de",
         "kana": "で"
       },
       {
         "token": "家",
-        "startTime": 112245,
-        "endTime": 112925,
+        "startTime": 113174,
+        "endTime": 113672,
         "romaji": "ie",
         "kana": "いえ"
       },
       {
         "token": "に",
-        "startTime": 112925,
-        "endTime": 113085,
+        "startTime": 113672,
+        "endTime": 114170,
         "romaji": "ni",
         "kana": "に"
       },
       {
-        "token": "入",
-        "startTime": 113085,
-        "endTime": 113345,
+        "token": "入り",
+        "startTime": 114170,
+        "endTime": 114667,
         "romaji": "iri",
         "kana": "いり"
-      }
-    ]
-  },
-  {
-    "sentence_text": "り ます",
-    "translations": {},
-    "segments": [
-      {
-        "token": "り",
-        "startTime": 113345,
-        "endTime": 114255,
-        "romaji": "ri",
-        "kana": "り"
       },
       {
         "token": "ます",
-        "startTime": 114255,
+        "startTime": 114667,
         "endTime": 115165,
         "romaji": "masu",
         "kana": "ます"
@@ -1500,7 +1368,7 @@
     ]
   },
   {
-    "sentence_text": "これ は 家 を きれい に 保つ ため の",
+    "sentence_text": "これ は 家 を きれい に 保つ ため の 習慣 です",
     "translations": {
       "en": "This is a custom to keep the house clean."
     },
@@ -1508,82 +1376,76 @@
       {
         "token": "これ",
         "startTime": 115165,
-        "endTime": 115514,
+        "endTime": 115645,
         "romaji": "kore",
         "kana": "これ"
       },
       {
         "token": "は",
-        "startTime": 115514,
-        "endTime": 115863,
+        "startTime": 115645,
+        "endTime": 116125,
         "romaji": "wa",
         "kana": "は"
       },
       {
         "token": "家",
-        "startTime": 115863,
-        "endTime": 116212,
+        "startTime": 116125,
+        "endTime": 116605,
         "romaji": "ie",
         "kana": "いえ"
       },
       {
         "token": "を",
-        "startTime": 116212,
-        "endTime": 116561,
+        "startTime": 116605,
+        "endTime": 117085,
         "romaji": "wo",
         "kana": "を"
       },
       {
         "token": "きれい",
-        "startTime": 116561,
-        "endTime": 116909,
+        "startTime": 117085,
+        "endTime": 117565,
         "romaji": "kirei",
         "kana": "きれい"
       },
       {
         "token": "に",
-        "startTime": 116909,
-        "endTime": 117258,
+        "startTime": 117565,
+        "endTime": 118045,
         "romaji": "ni",
         "kana": "に"
       },
       {
         "token": "保つ",
-        "startTime": 117258,
-        "endTime": 117607,
+        "startTime": 118045,
+        "endTime": 118525,
         "romaji": "tamotsu",
         "kana": "たもつ"
       },
       {
         "token": "ため",
-        "startTime": 117607,
-        "endTime": 117956,
+        "startTime": 118525,
+        "endTime": 119005,
         "romaji": "tame",
         "kana": "ため"
       },
       {
         "token": "の",
-        "startTime": 117956,
-        "endTime": 118305,
+        "startTime": 119005,
+        "endTime": 119485,
         "romaji": "no",
         "kana": "の"
-      }
-    ]
-  },
-  {
-    "sentence_text": "習慣 です",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "習慣",
-        "startTime": 118305,
-        "endTime": 118705,
+        "startTime": 119485,
+        "endTime": 119965,
         "romaji": "shuukan",
         "kana": "しゅうかん"
       },
       {
         "token": "です",
-        "startTime": 118705,
+        "startTime": 119965,
         "endTime": 120445,
         "romaji": "desu",
         "kana": "です"
@@ -1591,184 +1453,168 @@
     ]
   },
   {
-    "sentence_text": "日本 に 来る 外国 の 方 は 、",
+    "sentence_text": "日本 に 来る 外国 の 方 は 、 最初 びっくり する 人 も 多い です が 、 とても 大切 な マナー です 。",
     "translations": {
-      "en": "Foreign visitors to Japan,"
+      "en": "Many foreigners visiting Japan are surprised at first, but it’s a very important manner."
     },
     "segments": [
       {
         "token": "日本",
         "startTime": 120445,
-        "endTime": 120685,
+        "endTime": 120829,
         "romaji": "Nippon",
         "kana": "にっぽん"
       },
       {
         "token": "に",
-        "startTime": 120685,
-        "endTime": 121005,
+        "startTime": 120829,
+        "endTime": 121212,
         "romaji": "ni",
         "kana": "に"
       },
       {
         "token": "来る",
-        "startTime": 121005,
-        "endTime": 121265,
+        "startTime": 121212,
+        "endTime": 121596,
         "romaji": "kuru",
         "kana": "くる"
       },
       {
         "token": "外国",
-        "startTime": 121265,
-        "endTime": 121770,
+        "startTime": 121596,
+        "endTime": 121980,
         "romaji": "gaikoku",
         "kana": "がいこく"
       },
       {
         "token": "の",
-        "startTime": 121770,
-        "endTime": 122010,
+        "startTime": 121980,
+        "endTime": 122363,
         "romaji": "no",
         "kana": "の"
       },
       {
         "token": "方",
-        "startTime": 122010,
-        "endTime": 122210,
+        "startTime": 122363,
+        "endTime": 122747,
         "romaji": "kata",
         "kana": "かた"
       },
       {
         "token": "は",
-        "startTime": 122210,
-        "endTime": 122530,
+        "startTime": 122747,
+        "endTime": 123131,
         "romaji": "wa",
         "kana": "は"
       },
       {
         "token": "、",
-        "startTime": 122530,
-        "endTime": 123010,
+        "startTime": 123131,
+        "endTime": 123515,
         "romaji": ",",
         "kana": "*"
-      }
-    ]
-  },
-  {
-    "sentence_text": "最初 びっくり する 人 も 多い です が",
-    "translations": {
-      "en": "many are surprised at first,"
-    },
-    "segments": [
+      },
       {
         "token": "最初",
-        "startTime": 123010,
-        "endTime": 123550,
+        "startTime": 123515,
+        "endTime": 123898,
         "romaji": "saisho",
         "kana": "さいしょ"
       },
       {
         "token": "びっくり",
-        "startTime": 123550,
-        "endTime": 124170,
+        "startTime": 123898,
+        "endTime": 124282,
         "romaji": "bikkuri",
         "kana": "びっくり"
       },
       {
         "token": "する",
-        "startTime": 124170,
-        "endTime": 124590,
+        "startTime": 124282,
+        "endTime": 124666,
         "romaji": "suru",
         "kana": "する"
       },
       {
         "token": "人",
-        "startTime": 124590,
-        "endTime": 124850,
+        "startTime": 124666,
+        "endTime": 125049,
         "romaji": "hito",
         "kana": "ひと"
       },
       {
         "token": "も",
-        "startTime": 124850,
-        "endTime": 124930,
+        "startTime": 125049,
+        "endTime": 125433,
         "romaji": "mo",
         "kana": "も"
       },
       {
         "token": "多い",
-        "startTime": 124930,
-        "endTime": 125190,
+        "startTime": 125433,
+        "endTime": 125817,
         "romaji": "ooi",
         "kana": "おおい"
       },
       {
         "token": "です",
-        "startTime": 125190,
-        "endTime": 125810,
+        "startTime": 125817,
+        "endTime": 126200,
         "romaji": "desu",
         "kana": "です"
       },
       {
         "token": "が",
-        "startTime": 125810,
-        "endTime": 125890,
+        "startTime": 126200,
+        "endTime": 126584,
         "romaji": "ga",
         "kana": "が"
-      }
-    ]
-  },
-  {
-    "sentence_text": "、 とても 大切 な マナー です 。",
-    "translations": {
-      "en": "but it is a very important manner."
-    },
-    "segments": [
+      },
       {
         "token": "、",
-        "startTime": 125890,
-        "endTime": 126373,
+        "startTime": 126584,
+        "endTime": 126968,
         "romaji": ",",
         "kana": "*"
       },
       {
         "token": "とても",
-        "startTime": 126373,
-        "endTime": 126856,
+        "startTime": 126968,
+        "endTime": 127352,
         "romaji": "totemo",
         "kana": "とても"
       },
       {
         "token": "大切",
-        "startTime": 126856,
-        "endTime": 127339,
+        "startTime": 127352,
+        "endTime": 127735,
         "romaji": "taisetsu",
         "kana": "たいせつ"
       },
       {
         "token": "な",
-        "startTime": 127339,
-        "endTime": 127821,
+        "startTime": 127735,
+        "endTime": 128119,
         "romaji": "na",
         "kana": "な"
       },
       {
         "token": "マナー",
-        "startTime": 127821,
-        "endTime": 128304,
+        "startTime": 128119,
+        "endTime": 128503,
         "romaji": "manaa",
         "kana": "まなー"
       },
       {
         "token": "です",
-        "startTime": 128304,
-        "endTime": 128787,
+        "startTime": 128503,
+        "endTime": 128886,
         "romaji": "desu",
         "kana": "です"
       },
       {
         "token": "。",
-        "startTime": 128787,
+        "startTime": 128886,
         "endTime": 129270,
         "romaji": ".",
         "kana": "*"
@@ -1778,7 +1624,7 @@
   {
     "sentence_text": "それ で は 、 一緒 に 練習 し て ましょう 。",
     "translations": {
-      "en": "Then, let's practice together."
+      "en": "Now, let’s practice together."
     },
     "segments": [
       {
@@ -1863,7 +1709,7 @@
   {
     "sentence_text": "靴 を 脱ぐ",
     "translations": {
-      "en": "Taking off shoes."
+      "en": "Take off your shoes."
     },
     "segments": [
       {
@@ -1890,9 +1736,9 @@
     ]
   },
   {
-    "sentence_text": "もう 一 度 、",
+    "sentence_text": "もう 一 度 、 靴 を 脱ぐ",
     "translations": {
-      "en": "One more time,"
+      "en": "Take off your shoes again."
     },
     "segments": [
       {
@@ -1922,15 +1768,7 @@
         "endTime": 137130,
         "romaji": ",",
         "kana": "*"
-      }
-    ]
-  },
-  {
-    "sentence_text": "靴 を 脱ぐ ここ で 少し",
-    "translations": {
-      "en": "Take off your shoes here, and a quick"
-    },
-    "segments": [
+      },
       {
         "token": "靴",
         "startTime": 137130,
@@ -1951,74 +1789,74 @@
         "endTime": 139290,
         "romaji": "nugu",
         "kana": "ぬぐ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ここ で 少し だけ お 知ら せ です 。",
+    "translations": {
+      "en": "Here's a quick announcement."
+    },
+    "segments": [
       {
         "token": "ここ",
         "startTime": 139290,
-        "endTime": 140170,
+        "endTime": 139761,
         "romaji": "koko",
         "kana": "ここ"
       },
       {
         "token": "で",
-        "startTime": 140170,
-        "endTime": 140390,
+        "startTime": 139761,
+        "endTime": 140232,
         "romaji": "de",
         "kana": "で"
       },
       {
         "token": "少し",
-        "startTime": 140390,
-        "endTime": 140670,
+        "startTime": 140232,
+        "endTime": 140703,
         "romaji": "sukoshi",
         "kana": "すこし"
-      }
-    ]
-  },
-  {
-    "sentence_text": "だけ お 知ら せ です 。",
-    "translations": {
-      "en": "announcement."
-    },
-    "segments": [
+      },
       {
         "token": "だけ",
-        "startTime": 140670,
-        "endTime": 141147,
+        "startTime": 140703,
+        "endTime": 141174,
         "romaji": "dake",
         "kana": "だけ"
       },
       {
         "token": "お",
-        "startTime": 141147,
-        "endTime": 141623,
+        "startTime": 141174,
+        "endTime": 141646,
         "romaji": "o",
         "kana": "お"
       },
       {
         "token": "知ら",
-        "startTime": 141623,
-        "endTime": 142100,
+        "startTime": 141646,
+        "endTime": 142117,
         "romaji": "shira",
         "kana": "しら"
       },
       {
         "token": "せ",
-        "startTime": 142100,
-        "endTime": 142577,
+        "startTime": 142117,
+        "endTime": 142588,
         "romaji": "se",
         "kana": "せ"
       },
       {
         "token": "です",
-        "startTime": 142577,
-        "endTime": 143053,
+        "startTime": 142588,
+        "endTime": 143059,
         "romaji": "desu",
         "kana": "です"
       },
       {
         "token": "。",
-        "startTime": 143053,
+        "startTime": 143059,
         "endTime": 143530,
         "romaji": ".",
         "kana": "*"
@@ -2026,192 +1864,154 @@
     ]
   },
   {
-    "sentence_text": "みな さん は 日本 語 ラーニング の モバイル",
+    "sentence_text": "みな さん は 日本 語 ラーニング の モバイル アプリ S ak ura N L を 使っ た こと あり ます か",
     "translations": {
-      "en": "Have you used the Japanese learning mobile"
+      "en": "Have you ever used the Japanese learning mobile app Sakura NL?"
     },
     "segments": [
       {
         "token": "みな",
         "startTime": 143530,
-        "endTime": 143750,
+        "endTime": 143946,
         "romaji": "mina",
         "kana": "みな"
       },
       {
         "token": "さん",
-        "startTime": 143750,
-        "endTime": 143910,
+        "startTime": 143946,
+        "endTime": 144362,
         "romaji": "san",
         "kana": "さん"
       },
       {
         "token": "は",
-        "startTime": 143910,
-        "endTime": 144090,
+        "startTime": 144362,
+        "endTime": 144779,
         "romaji": "wa",
         "kana": "は"
       },
       {
         "token": "日本",
-        "startTime": 144090,
-        "endTime": 144790,
+        "startTime": 144779,
+        "endTime": 145195,
         "romaji": "Nippon",
         "kana": "にっぽん"
       },
       {
         "token": "語",
-        "startTime": 144790,
-        "endTime": 145130,
+        "startTime": 145195,
+        "endTime": 145611,
         "romaji": "go",
         "kana": "ご"
       },
       {
         "token": "ラーニング",
-        "startTime": 145130,
-        "endTime": 145590,
+        "startTime": 145611,
+        "endTime": 146027,
         "romaji": "raaningu",
         "kana": "らーにんぐ"
       },
       {
         "token": "の",
-        "startTime": 145590,
-        "endTime": 145770,
+        "startTime": 146027,
+        "endTime": 146443,
         "romaji": "no",
         "kana": "の"
       },
       {
         "token": "モバイル",
-        "startTime": 145770,
-        "endTime": 146510,
+        "startTime": 146443,
+        "endTime": 146860,
         "romaji": "mobairu",
         "kana": "もばいる"
-      }
-    ]
-  },
-  {
-    "sentence_text": "アプリ",
-    "translations": {
-      "en": "app"
-    },
-    "segments": [
-      {
-        "token": "ア",
-        "startTime": 146510,
-        "endTime": 146890,
-        "romaji": "a",
-        "kana": "あ"
       },
       {
-        "token": "プ",
-        "startTime": 146890,
-        "endTime": 147270,
-        "romaji": "pu",
-        "kana": "ぷ"
+        "token": "アプリ",
+        "startTime": 146860,
+        "endTime": 147276,
+        "romaji": "apuri",
+        "kana": "あぷり"
       },
-      {
-        "token": "リ",
-        "startTime": 147270,
-        "endTime": 147650,
-        "romaji": "ri",
-        "kana": "り"
-      }
-    ]
-  },
-  {
-    "sentence_text": "S ak ura N L を 使っ た",
-    "translations": {
-      "en": "Sakura NL?"
-    },
-    "segments": [
       {
         "token": "S",
-        "startTime": 147650,
-        "endTime": 147850,
+        "startTime": 147276,
+        "endTime": 147692,
         "romaji": "S",
         "kana": "S"
       },
       {
         "token": "ak",
-        "startTime": 147850,
-        "endTime": 147950,
+        "startTime": 147692,
+        "endTime": 148108,
         "romaji": "ak",
         "kana": "ak"
       },
       {
         "token": "ura",
-        "startTime": 147950,
-        "endTime": 148090,
+        "startTime": 148108,
+        "endTime": 148524,
         "romaji": "ura",
         "kana": "ura"
       },
       {
         "token": "N",
-        "startTime": 148090,
-        "endTime": 148350,
+        "startTime": 148524,
+        "endTime": 148940,
         "romaji": "N",
         "kana": "N"
       },
       {
         "token": "L",
-        "startTime": 148350,
-        "endTime": 148530,
+        "startTime": 148940,
+        "endTime": 149357,
         "romaji": "L",
         "kana": "L"
       },
       {
         "token": "を",
-        "startTime": 148530,
-        "endTime": 148710,
+        "startTime": 149357,
+        "endTime": 149773,
         "romaji": "wo",
         "kana": "を"
       },
       {
         "token": "使っ",
-        "startTime": 148710,
-        "endTime": 149450,
+        "startTime": 149773,
+        "endTime": 150189,
         "romaji": "tsuka",
         "kana": "つかっ"
       },
       {
         "token": "た",
-        "startTime": 149450,
-        "endTime": 149610,
+        "startTime": 150189,
+        "endTime": 150605,
         "romaji": "ta",
         "kana": "た"
-      }
-    ]
-  },
-  {
-    "sentence_text": "こと あり ます か",
-    "translations": {
-      "en": "Have you used it?"
-    },
-    "segments": [
+      },
       {
         "token": "こと",
-        "startTime": 149610,
-        "endTime": 150275,
+        "startTime": 150605,
+        "endTime": 151021,
         "romaji": "koto",
         "kana": "こと"
       },
       {
         "token": "あり",
-        "startTime": 150275,
-        "endTime": 150940,
+        "startTime": 151021,
+        "endTime": 151438,
         "romaji": "ari",
         "kana": "あり"
       },
       {
         "token": "ます",
-        "startTime": 150940,
-        "endTime": 151605,
+        "startTime": 151438,
+        "endTime": 151854,
         "romaji": "masu",
         "kana": "ます"
       },
       {
         "token": "か",
-        "startTime": 151605,
+        "startTime": 151854,
         "endTime": 152270,
         "romaji": "ka",
         "kana": "か"
@@ -2219,9 +2019,9 @@
     ]
   },
   {
-    "sentence_text": "S ak ura N L は スマート フォン",
+    "sentence_text": "S ak ura N L は スマート フォン で 使える 日本 語 学習 アプリ です",
     "translations": {
-      "en": "Sakura NL is a Japanese learning app you can use"
+      "en": "Sakura NL is a Japanese learning app you can use on your smartphone."
     },
     "segments": [
       {
@@ -2279,15 +2079,7 @@
         "endTime": 154670,
         "romaji": "fon",
         "kana": "ふぉん"
-      }
-    ]
-  },
-  {
-    "sentence_text": "で 使える 日本 語 学習 アプリ です",
-    "translations": {
-      "en": "on your smartphone."
-    },
-    "segments": [
+      },
       {
         "token": "で",
         "startTime": 154670,
@@ -2340,106 +2132,98 @@
     ]
   },
   {
-    "sentence_text": "自分 の レベル を 選ん で 優しい 日本",
+    "sentence_text": "自分 の レベル を 選ん で 優しい 日本 語 から チャレンジ き ます",
     "translations": {
-      "en": "Choose your level and challenge yourself with easy"
+      "en": "Choose your level and start with easy Japanese."
     },
     "segments": [
       {
         "token": "自分",
         "startTime": 159890,
-        "endTime": 160290,
+        "endTime": 160384,
         "romaji": "jibun",
         "kana": "じぶん"
       },
       {
         "token": "の",
-        "startTime": 160290,
-        "endTime": 160490,
+        "startTime": 160384,
+        "endTime": 160878,
         "romaji": "no",
         "kana": "の"
       },
       {
         "token": "レベル",
-        "startTime": 160490,
-        "endTime": 160910,
+        "startTime": 160878,
+        "endTime": 161372,
         "romaji": "reberu",
         "kana": "れべる"
       },
       {
         "token": "を",
-        "startTime": 160910,
-        "endTime": 161050,
+        "startTime": 161372,
+        "endTime": 161865,
         "romaji": "wo",
         "kana": "を"
       },
       {
         "token": "選ん",
-        "startTime": 161050,
-        "endTime": 161530,
+        "startTime": 161865,
+        "endTime": 162359,
         "romaji": "eran",
         "kana": "えらん"
       },
       {
         "token": "で",
-        "startTime": 161530,
-        "endTime": 162370,
+        "startTime": 162359,
+        "endTime": 162853,
         "romaji": "de",
         "kana": "で"
       },
       {
         "token": "優しい",
-        "startTime": 162370,
-        "endTime": 162950,
+        "startTime": 162853,
+        "endTime": 163347,
         "romaji": "yasashii",
         "kana": "やさしい"
       },
       {
         "token": "日本",
-        "startTime": 162950,
-        "endTime": 163430,
+        "startTime": 163347,
+        "endTime": 163841,
         "romaji": "Nippon",
         "kana": "にっぽん"
-      }
-    ]
-  },
-  {
-    "sentence_text": "語 から チャレンジ き ます",
-    "translations": {
-      "en": "Japanese."
-    },
-    "segments": [
+      },
       {
         "token": "語",
-        "startTime": 163430,
-        "endTime": 164006,
+        "startTime": 163841,
+        "endTime": 164335,
         "romaji": "go",
         "kana": "ご"
       },
       {
         "token": "から",
-        "startTime": 164006,
-        "endTime": 164582,
+        "startTime": 164335,
+        "endTime": 164828,
         "romaji": "kara",
         "kana": "から"
       },
       {
         "token": "チャレンジ",
-        "startTime": 164582,
-        "endTime": 165158,
+        "startTime": 164828,
+        "endTime": 165322,
         "romaji": "charenji",
         "kana": "ちゃれんじ"
       },
       {
         "token": "き",
-        "startTime": 165158,
-        "endTime": 165734,
+        "startTime": 165322,
+        "endTime": 165816,
         "romaji": "ki",
         "kana": "き"
       },
       {
         "token": "ます",
-        "startTime": 165734,
+        "startTime": 165816,
         "endTime": 166310,
         "romaji": "masu",
         "kana": "ます"
@@ -2447,7 +2231,7 @@
     ]
   },
   {
-    "sentence_text": "ネイティブ が よく 使う ナチュラル な フレーズ が",
+    "sentence_text": "ネイティブ が よく 使う ナチュラル な フレーズ が たくさん 出 て き ます",
     "translations": {
       "en": "It features many natural phrases that natives often use."
     },
@@ -2455,98 +2239,90 @@
       {
         "token": "ネイティブ",
         "startTime": 166310,
-        "endTime": 166850,
+        "endTime": 166818,
         "romaji": "neitibu",
         "kana": "ねいてぃぶ"
       },
       {
         "token": "が",
-        "startTime": 166850,
-        "endTime": 167030,
+        "startTime": 166818,
+        "endTime": 167325,
         "romaji": "ga",
         "kana": "が"
       },
       {
         "token": "よく",
-        "startTime": 167030,
-        "endTime": 167330,
+        "startTime": 167325,
+        "endTime": 167833,
         "romaji": "yoku",
         "kana": "よく"
       },
       {
         "token": "使う",
-        "startTime": 167330,
-        "endTime": 167770,
+        "startTime": 167833,
+        "endTime": 168341,
         "romaji": "tsukau",
         "kana": "つかう"
       },
       {
         "token": "ナチュラル",
-        "startTime": 167770,
-        "endTime": 168770,
+        "startTime": 168341,
+        "endTime": 168848,
         "romaji": "nachuraru",
         "kana": "なちゅらる"
       },
       {
         "token": "な",
-        "startTime": 168770,
-        "endTime": 168930,
+        "startTime": 168848,
+        "endTime": 169356,
         "romaji": "na",
         "kana": "な"
       },
       {
         "token": "フレーズ",
-        "startTime": 168930,
-        "endTime": 169350,
+        "startTime": 169356,
+        "endTime": 169864,
         "romaji": "fureezu",
         "kana": "ふれーず"
       },
       {
         "token": "が",
-        "startTime": 169350,
-        "endTime": 169490,
+        "startTime": 169864,
+        "endTime": 170372,
         "romaji": "ga",
         "kana": "が"
-      }
-    ]
-  },
-  {
-    "sentence_text": "たくさん 出 て き ます",
-    "translations": {
-      "en": "It features many natural phrases that natives often use."
-    },
-    "segments": [
+      },
       {
         "token": "たくさん",
-        "startTime": 169490,
-        "endTime": 170174,
+        "startTime": 170372,
+        "endTime": 170879,
         "romaji": "takusan",
         "kana": "たくさん"
       },
       {
         "token": "出",
-        "startTime": 170174,
-        "endTime": 170858,
+        "startTime": 170879,
+        "endTime": 171387,
         "romaji": "de",
         "kana": "で"
       },
       {
         "token": "て",
-        "startTime": 170858,
-        "endTime": 171542,
+        "startTime": 171387,
+        "endTime": 171895,
         "romaji": "te",
         "kana": "て"
       },
       {
         "token": "き",
-        "startTime": 171542,
-        "endTime": 172226,
+        "startTime": 171895,
+        "endTime": 172402,
         "romaji": "ki",
         "kana": "き"
       },
       {
         "token": "ます",
-        "startTime": 172226,
+        "startTime": 172402,
         "endTime": 172910,
         "romaji": "masu",
         "kana": "ます"
@@ -2554,9 +2330,9 @@
     ]
   },
   {
-    "sentence_text": "毎週 新しい コンテンツ が 追加 さ れ て",
+    "sentence_text": "毎週 新しい コンテンツ が 追加 さ れ て 楽しく 続け られ ます",
     "translations": {
-      "en": "New content is added every week,"
+      "en": "New content is added every week, so you can keep learning enjoyably."
     },
     "segments": [
       {
@@ -2614,15 +2390,7 @@
         "endTime": 176790,
         "romaji": "te",
         "kana": "て"
-      }
-    ]
-  },
-  {
-    "sentence_text": "楽しく 続け られ",
-    "translations": {
-      "en": "so you can keep learning"
-    },
-    "segments": [
+      },
       {
         "token": "楽しく",
         "startTime": 176790,
@@ -2643,22 +2411,22 @@
         "endTime": 179510,
         "romaji": "rare",
         "kana": "られ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ます ぜひ さくら エネ ル を ダウンロード",
-    "translations": {
-      "en": "enjoyably. Please download Sakura NL"
-    },
-    "segments": [
+      },
       {
         "token": "ます",
         "startTime": 179510,
         "endTime": 179790,
         "romaji": "masu",
         "kana": "ます"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ぜひ さくら エネ ル を ダウンロード し て 日本 語 学習 を もっと ください ね",
+    "translations": {
+      "en": "Please download Sakura NL and make your Japanese learning even better."
+    },
+    "segments": [
       {
         "token": "ぜひ",
         "startTime": 179790,
@@ -2700,15 +2468,7 @@
         "endTime": 183115,
         "romaji": "daunroodo",
         "kana": "だうんろーど"
-      }
-    ]
-  },
-  {
-    "sentence_text": "し て 日本 語 学習 を もっと ください",
-    "translations": {
-      "en": "and make your Japanese learning even better."
-    },
-    "segments": [
+      },
       {
         "token": "し",
         "startTime": 183115,
@@ -2764,15 +2524,7 @@
         "endTime": 185775,
         "romaji": "kudasai",
         "kana": "ください"
-      }
-    ]
-  },
-  {
-    "sentence_text": "ね",
-    "translations": {
-      "en": "Okay?"
-    },
-    "segments": [
+      },
       {
         "token": "ね",
         "startTime": 185775,
@@ -2783,120 +2535,112 @@
     ]
   },
   {
-    "sentence_text": "それ で は 今日 は 日本 の 習慣 を 3 つ",
+    "sentence_text": "それ で は 今日 は 日本 の 習慣 を 3 つ 紹介 し まし た",
     "translations": {
-      "en": "So today I introduced three Japanese customs."
+      "en": "So today, I introduced three Japanese customs."
     },
     "segments": [
       {
         "token": "それ",
         "startTime": 188315,
-        "endTime": 188651,
+        "endTime": 188760,
         "romaji": "sore",
         "kana": "それ"
       },
       {
         "token": "で",
-        "startTime": 188651,
-        "endTime": 188988,
+        "startTime": 188760,
+        "endTime": 189206,
         "romaji": "de",
         "kana": "で"
       },
       {
         "token": "は",
-        "startTime": 188988,
-        "endTime": 189324,
+        "startTime": 189206,
+        "endTime": 189651,
         "romaji": "wa",
         "kana": "は"
       },
       {
         "token": "今日",
-        "startTime": 189324,
-        "endTime": 189660,
+        "startTime": 189651,
+        "endTime": 190096,
         "romaji": "kyou",
         "kana": "きょう"
       },
       {
         "token": "は",
-        "startTime": 189660,
-        "endTime": 189997,
+        "startTime": 190096,
+        "endTime": 190542,
         "romaji": "wa",
         "kana": "は"
       },
       {
         "token": "日本",
-        "startTime": 189997,
-        "endTime": 190333,
+        "startTime": 190542,
+        "endTime": 190987,
         "romaji": "Nippon",
         "kana": "にっぽん"
       },
       {
         "token": "の",
-        "startTime": 190333,
-        "endTime": 190670,
+        "startTime": 190987,
+        "endTime": 191432,
         "romaji": "no",
         "kana": "の"
       },
       {
         "token": "習慣",
-        "startTime": 190670,
-        "endTime": 191006,
+        "startTime": 191432,
+        "endTime": 191878,
         "romaji": "shuukan",
         "kana": "しゅうかん"
       },
       {
         "token": "を",
-        "startTime": 191006,
-        "endTime": 191342,
+        "startTime": 191878,
+        "endTime": 192323,
         "romaji": "wo",
         "kana": "を"
       },
       {
         "token": "3",
-        "startTime": 191342,
-        "endTime": 191679,
+        "startTime": 192323,
+        "endTime": 192768,
         "romaji": "3",
         "kana": "3"
       },
       {
         "token": "つ",
-        "startTime": 191679,
-        "endTime": 192015,
+        "startTime": 192768,
+        "endTime": 193214,
         "romaji": "tsu",
         "kana": "つ"
-      }
-    ]
-  },
-  {
-    "sentence_text": "紹介 し まし た",
-    "translations": {
-      "en": "So today I introduced three Japanese customs."
-    },
-    "segments": [
+      },
       {
         "token": "紹介",
-        "startTime": 192015,
-        "endTime": 192760,
+        "startTime": 193214,
+        "endTime": 193659,
         "romaji": "shoukai",
         "kana": "しょうかい"
       },
       {
         "token": "し",
-        "startTime": 192760,
-        "endTime": 193505,
+        "startTime": 193659,
+        "endTime": 194104,
         "romaji": "shi",
         "kana": "し"
       },
       {
         "token": "まし",
-        "startTime": 193505,
-        "endTime": 194250,
+        "startTime": 194104,
+        "endTime": 194550,
         "romaji": "mashi",
         "kana": "まし"
       },
       {
         "token": "た",
-        "startTime": 194250,
+        "startTime": 194550,
         "endTime": 194995,
         "romaji": "ta",
         "kana": "た"
@@ -2906,7 +2650,7 @@
   {
     "sentence_text": "ご飯 の 前 に いただき ます",
     "translations": {
-      "en": "Before a meal, we say 'Itadakimasu.'"
+      "en": "Say \"itadakimasu\" before meals."
     },
     "segments": [
       {
@@ -2954,9 +2698,9 @@
     ]
   },
   {
-    "sentence_text": "ご飯 の 後 に ご ちそう さま でし",
+    "sentence_text": "ご飯 の 後 に ご ちそう さま でし た",
     "translations": {
-      "en": "After a meal, we say thank you for the food."
+      "en": "Say \"gochisousama deshita\" after meals."
     },
     "segments": [
       {
@@ -3014,22 +2758,22 @@
         "endTime": 205195,
         "romaji": "deshi",
         "kana": "でし"
-      }
-    ]
-  },
-  {
-    "sentence_text": "た 家 に 入る とき は 靴 を",
-    "translations": {
-      "en": "When entering a house, we take off our shoes."
-    },
-    "segments": [
+      },
       {
         "token": "た",
         "startTime": 205195,
         "endTime": 205375,
         "romaji": "ta",
         "kana": "た"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "家 に 入る とき は 靴 を 脱ぐ",
+    "translations": {
+      "en": "Take off your shoes when entering a home."
+    },
+    "segments": [
       {
         "token": "家",
         "startTime": 205375,
@@ -3078,22 +2822,22 @@
         "endTime": 207875,
         "romaji": "wo",
         "kana": "を"
-      }
-    ]
-  },
-  {
-    "sentence_text": "脱ぐ どれ も 日本",
-    "translations": {
-      "en": "Both are very important customs in Japan."
-    },
-    "segments": [
+      },
       {
         "token": "脱ぐ",
         "startTime": 207875,
         "endTime": 210075,
         "romaji": "nugu",
         "kana": "ぬぐ"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "どれ も 日本 で とても 大切 な 習慣",
+    "translations": {
+      "en": "All are very important customs in Japan."
+    },
+    "segments": [
       {
         "token": "どれ",
         "startTime": 210075,
@@ -3114,15 +2858,7 @@
         "endTime": 211775,
         "romaji": "Nippon",
         "kana": "にっぽん"
-      }
-    ]
-  },
-  {
-    "sentence_text": "で とても 大切 な 習慣",
-    "translations": {
-      "en": "Which custom do you find interesting?"
-    },
-    "segments": [
+      },
       {
         "token": "で",
         "startTime": 211775,
@@ -3161,116 +2897,110 @@
     ]
   },
   {
-    "sentence_text": "皆 さん は どの 習慣 が 面白い と い まし た",
+    "sentence_text": "皆 さん は どの 習慣 が 面白い と い まし た か ?",
     "translations": {
-      "en": "Please let us know in the comments."
+      "en": "Which custom did you find interesting?"
     },
     "segments": [
       {
         "token": "皆",
         "startTime": 215035,
-        "endTime": 215348,
+        "endTime": 215430,
         "romaji": "mina",
         "kana": "みな"
       },
       {
         "token": "さん",
-        "startTime": 215348,
-        "endTime": 215660,
+        "startTime": 215430,
+        "endTime": 215826,
         "romaji": "san",
         "kana": "さん"
       },
       {
         "token": "は",
-        "startTime": 215660,
-        "endTime": 215973,
+        "startTime": 215826,
+        "endTime": 216221,
         "romaji": "wa",
         "kana": "は"
       },
       {
         "token": "どの",
-        "startTime": 215973,
-        "endTime": 216286,
+        "startTime": 216221,
+        "endTime": 216617,
         "romaji": "dono",
         "kana": "どの"
       },
       {
         "token": "習慣",
-        "startTime": 216286,
-        "endTime": 216599,
+        "startTime": 216617,
+        "endTime": 217012,
         "romaji": "shuukan",
         "kana": "しゅうかん"
       },
       {
         "token": "が",
-        "startTime": 216599,
-        "endTime": 216911,
+        "startTime": 217012,
+        "endTime": 217407,
         "romaji": "ga",
         "kana": "が"
       },
       {
         "token": "面白い",
-        "startTime": 216911,
-        "endTime": 217224,
+        "startTime": 217407,
+        "endTime": 217803,
         "romaji": "omoshiroi",
         "kana": "おもしろい"
       },
       {
         "token": "と",
-        "startTime": 217224,
-        "endTime": 217537,
+        "startTime": 217803,
+        "endTime": 218198,
         "romaji": "to",
         "kana": "と"
       },
       {
         "token": "い",
-        "startTime": 217537,
-        "endTime": 217850,
+        "startTime": 218198,
+        "endTime": 218593,
         "romaji": "i",
         "kana": "い"
       },
       {
         "token": "まし",
-        "startTime": 217850,
-        "endTime": 218162,
+        "startTime": 218593,
+        "endTime": 218989,
         "romaji": "mashi",
         "kana": "まし"
       },
       {
         "token": "た",
-        "startTime": 218162,
-        "endTime": 218475,
+        "startTime": 218989,
+        "endTime": 219384,
         "romaji": "ta",
         "kana": "た"
-      }
-    ]
-  },
-  {
-    "sentence_text": "か",
-    "translations": {},
-    "segments": [
+      },
       {
         "token": "か",
-        "startTime": 218475,
-        "endTime": 220055,
+        "startTime": 219384,
+        "endTime": 219780,
         "romaji": "ka",
         "kana": "か"
-      }
-    ]
-  },
-  {
-    "sentence_text": "? ぜひ コメント で 教え ください ね",
-    "translations": {
-      "en": "See you in the next lesson."
-    },
-    "segments": [
+      },
       {
         "token": "?",
-        "startTime": 220055,
+        "startTime": 219780,
         "endTime": 220175,
         "romaji": "?",
         "kana": "*"
-      },
+      }
+    ]
+  },
+  {
+    "sentence_text": "ぜひ コメント で 教え ください ね",
+    "translations": {
+      "en": "Please let us know in the comments."
+    },
+    "segments": [
       {
         "token": "ぜひ",
         "startTime": 220175,
@@ -3316,99 +3046,91 @@
     ]
   },
   {
-    "sentence_text": "それ で は また 次 の レッスン で お 会い",
+    "sentence_text": "それ で は また 次 の レッスン で お 会い し ましょう",
     "translations": {
-      "en": "Goodbye."
+      "en": "See you in the next lesson."
     },
     "segments": [
       {
         "token": "それ",
         "startTime": 224295,
-        "endTime": 224565,
+        "endTime": 224622,
         "romaji": "sore",
         "kana": "それ"
       },
       {
         "token": "で",
-        "startTime": 224565,
-        "endTime": 224835,
+        "startTime": 224622,
+        "endTime": 224948,
         "romaji": "de",
         "kana": "で"
       },
       {
         "token": "は",
-        "startTime": 224835,
-        "endTime": 225105,
+        "startTime": 224948,
+        "endTime": 225275,
         "romaji": "wa",
         "kana": "は"
       },
       {
         "token": "また",
-        "startTime": 225105,
-        "endTime": 225375,
+        "startTime": 225275,
+        "endTime": 225602,
         "romaji": "mata",
         "kana": "また"
       },
       {
         "token": "次",
-        "startTime": 225375,
-        "endTime": 225645,
+        "startTime": 225602,
+        "endTime": 225928,
         "romaji": "ji",
         "kana": "じ"
       },
       {
         "token": "の",
-        "startTime": 225645,
-        "endTime": 225915,
+        "startTime": 225928,
+        "endTime": 226255,
         "romaji": "no",
         "kana": "の"
       },
       {
         "token": "レッスン",
-        "startTime": 225915,
-        "endTime": 226185,
+        "startTime": 226255,
+        "endTime": 226582,
         "romaji": "ressun",
         "kana": "れっすん"
       },
       {
         "token": "で",
-        "startTime": 226185,
-        "endTime": 226455,
+        "startTime": 226582,
+        "endTime": 226908,
         "romaji": "de",
         "kana": "で"
       },
       {
         "token": "お",
-        "startTime": 226455,
-        "endTime": 226725,
+        "startTime": 226908,
+        "endTime": 227235,
         "romaji": "o",
         "kana": "お"
       },
       {
         "token": "会い",
-        "startTime": 226725,
-        "endTime": 226995,
+        "startTime": 227235,
+        "endTime": 227562,
         "romaji": "ai",
         "kana": "あい"
-      }
-    ]
-  },
-  {
-    "sentence_text": "し ましょう",
-    "translations": {
-      "en": "Please subscribe to the channel."
-    },
-    "segments": [
+      },
       {
         "token": "し",
-        "startTime": 226995,
-        "endTime": 227115,
+        "startTime": 227562,
+        "endTime": 227888,
         "romaji": "shi",
         "kana": "し"
       },
       {
         "token": "ましょう",
-        "startTime": 227115,
+        "startTime": 227888,
         "endTime": 228215,
         "romaji": "mashou",
         "kana": "ましょう"
@@ -3417,7 +3139,9 @@
   },
   {
     "sentence_text": "バイ バイ",
-    "translations": {},
+    "translations": {
+      "en": "Bye bye."
+    },
     "segments": [
       {
         "token": "バイ",
@@ -3436,88 +3160,56 @@
     ]
   },
   {
-    "sentence_text": "チャンネル",
-    "translations": {},
+    "sentence_text": "チャンネル 登録 よろしく お 願い し ます",
+    "translations": {
+      "en": "Please subscribe to the channel."
+    },
     "segments": [
       {
-        "token": "チ",
+        "token": "チャンネル",
         "startTime": 233335,
-        "endTime": 235111,
-        "romaji": "chi",
-        "kana": "ち"
+        "endTime": 234612,
+        "romaji": "channeru",
+        "kana": "ちゃんねる"
       },
-      {
-        "token": "ャ",
-        "startTime": 235111,
-        "endTime": 236887,
-        "romaji": "ャ",
-        "kana": "ゃ"
-      },
-      {
-        "token": "ン",
-        "startTime": 236887,
-        "endTime": 238663,
-        "romaji": "n",
-        "kana": "ん"
-      },
-      {
-        "token": "ネ",
-        "startTime": 238663,
-        "endTime": 240439,
-        "romaji": "ne",
-        "kana": "ね"
-      },
-      {
-        "token": "ル",
-        "startTime": 240439,
-        "endTime": 242215,
-        "romaji": "ru",
-        "kana": "る"
-      }
-    ]
-  },
-  {
-    "sentence_text": "登録 よろしく お 願い し ます",
-    "translations": {},
-    "segments": [
       {
         "token": "登録",
-        "startTime": 242215,
-        "endTime": 242225,
+        "startTime": 234612,
+        "endTime": 235889,
         "romaji": "touroku",
         "kana": "とうろく"
       },
       {
         "token": "よろしく",
-        "startTime": 242225,
-        "endTime": 242235,
+        "startTime": 235889,
+        "endTime": 237166,
         "romaji": "yoroshiku",
         "kana": "よろしく"
       },
       {
         "token": "お",
-        "startTime": 242235,
-        "endTime": 242245,
+        "startTime": 237166,
+        "endTime": 238444,
         "romaji": "o",
         "kana": "お"
       },
       {
         "token": "願い",
-        "startTime": 242245,
-        "endTime": 242255,
+        "startTime": 238444,
+        "endTime": 239721,
         "romaji": "negai",
         "kana": "ねがい"
       },
       {
         "token": "し",
-        "startTime": 242255,
-        "endTime": 242265,
+        "startTime": 239721,
+        "endTime": 240998,
         "romaji": "shi",
         "kana": "し"
       },
       {
         "token": "ます",
-        "startTime": 242265,
+        "startTime": 240998,
         "endTime": 242275,
         "romaji": "masu",
         "kana": "ます"
