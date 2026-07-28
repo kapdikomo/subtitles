@@ -1,0 +1,4486 @@
+[
+  {
+    "sentence_text": "起きる 朝ごはん を 食べる 歯 を 磨く",
+    "translations": {
+      "en": "Wake up, eat breakfast, brush teeth."
+    },
+    "segments": [
+      {
+        "token": "起きる",
+        "startTime": 340,
+        "endTime": 1400,
+        "pinyin": "okiru"
+      },
+      {
+        "token": "朝ごはん",
+        "startTime": 1400,
+        "endTime": 2040,
+        "pinyin": "asagohan"
+      },
+      {
+        "token": "を",
+        "startTime": 2040,
+        "endTime": 2180,
+        "pinyin": "wo"
+      },
+      {
+        "token": "食べる",
+        "startTime": 2180,
+        "endTime": 2960,
+        "pinyin": "taberu"
+      },
+      {
+        "token": "歯",
+        "startTime": 2960,
+        "endTime": 3240,
+        "pinyin": "ha"
+      },
+      {
+        "token": "を",
+        "startTime": 3240,
+        "endTime": 3420,
+        "pinyin": "wo"
+      },
+      {
+        "token": "磨く",
+        "startTime": 3420,
+        "endTime": 4640,
+        "pinyin": "migaku"
+      }
+    ]
+  },
+  {
+    "sentence_text": "顔 を 洗う 服 を 着替える",
+    "translations": {
+      "en": "Wash face, change clothes."
+    },
+    "segments": [
+      {
+        "token": "顔",
+        "startTime": 4640,
+        "endTime": 4940,
+        "pinyin": "kao"
+      },
+      {
+        "token": "を",
+        "startTime": 4940,
+        "endTime": 5180,
+        "pinyin": "wo"
+      },
+      {
+        "token": "洗う",
+        "startTime": 5180,
+        "endTime": 6180,
+        "pinyin": "arau"
+      },
+      {
+        "token": "服",
+        "startTime": 6180,
+        "endTime": 6400,
+        "pinyin": "fuku"
+      },
+      {
+        "token": "を",
+        "startTime": 6400,
+        "endTime": 6640,
+        "pinyin": "wo"
+      },
+      {
+        "token": "着替える",
+        "startTime": 6640,
+        "endTime": 8060,
+        "pinyin": "kigaeru"
+      }
+    ]
+  },
+  {
+    "sentence_text": "皆 さん は 朝 起き たら",
+    "translations": {
+      "en": "When you wake up in the morning,"
+    },
+    "segments": [
+      {
+        "token": "皆",
+        "startTime": 8060,
+        "endTime": 8883,
+        "pinyin": "mina"
+      },
+      {
+        "token": "さん",
+        "startTime": 8883,
+        "endTime": 9707,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 9707,
+        "endTime": 10530,
+        "pinyin": "wa"
+      },
+      {
+        "token": "朝",
+        "startTime": 10530,
+        "endTime": 11353,
+        "pinyin": "asa"
+      },
+      {
+        "token": "起き",
+        "startTime": 11353,
+        "endTime": 12177,
+        "pinyin": "oki"
+      },
+      {
+        "token": "たら",
+        "startTime": 12177,
+        "endTime": 13000,
+        "pinyin": "tara"
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝 起き たら 何 し ます か",
+    "translations": {
+      "en": "What do you do when you wake up?"
+    },
+    "segments": [
+      {
+        "token": "朝",
+        "startTime": 13000,
+        "endTime": 13414,
+        "pinyin": "asa"
+      },
+      {
+        "token": "起き",
+        "startTime": 13414,
+        "endTime": 13829,
+        "pinyin": "oki"
+      },
+      {
+        "token": "たら",
+        "startTime": 13829,
+        "endTime": 14243,
+        "pinyin": "tara"
+      },
+      {
+        "token": "何",
+        "startTime": 14243,
+        "endTime": 14657,
+        "pinyin": "nan"
+      },
+      {
+        "token": "し",
+        "startTime": 14657,
+        "endTime": 15071,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 15071,
+        "endTime": 15486,
+        "pinyin": "masu"
+      },
+      {
+        "token": "か",
+        "startTime": 15486,
+        "endTime": 15900,
+        "pinyin": "ka"
+      }
+    ]
+  },
+  {
+    "sentence_text": "皆 さん こんにちは 。 日本 語 ラーニング の ゆう た",
+    "translations": {
+      "en": "Hello everyone. I'm Yuta from Japanese Learning."
+    },
+    "segments": [
+      {
+        "token": "皆",
+        "startTime": 15900,
+        "endTime": 16134,
+        "pinyin": "mina"
+      },
+      {
+        "token": "さん",
+        "startTime": 16134,
+        "endTime": 16368,
+        "pinyin": "san"
+      },
+      {
+        "token": "こんにちは",
+        "startTime": 16368,
+        "endTime": 16602,
+        "pinyin": "konnichiha"
+      },
+      {
+        "token": "。",
+        "startTime": 16602,
+        "endTime": 16836,
+        "pinyin": "."
+      },
+      {
+        "token": "日本",
+        "startTime": 16836,
+        "endTime": 17070,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 17070,
+        "endTime": 17304,
+        "pinyin": "go"
+      },
+      {
+        "token": "ラーニング",
+        "startTime": 17304,
+        "endTime": 17538,
+        "pinyin": "raaningu"
+      },
+      {
+        "token": "の",
+        "startTime": 17538,
+        "endTime": 17772,
+        "pinyin": "no"
+      },
+      {
+        "token": "ゆう",
+        "startTime": 17772,
+        "endTime": 18006,
+        "pinyin": "yuu"
+      },
+      {
+        "token": "た",
+        "startTime": 18006,
+        "endTime": 18240,
+        "pinyin": "ta"
+      }
+    ]
+  },
+  {
+    "sentence_text": "です 。 今回 の 動画 で は 朝起き",
+    "translations": {
+      "en": "In this video, I'll talk about what I do when I wake up"
+    },
+    "segments": [
+      {
+        "token": "です",
+        "startTime": 18240,
+        "endTime": 18725,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 18725,
+        "endTime": 19210,
+        "pinyin": "."
+      },
+      {
+        "token": "今回",
+        "startTime": 19210,
+        "endTime": 19695,
+        "pinyin": "konkai"
+      },
+      {
+        "token": "の",
+        "startTime": 19695,
+        "endTime": 20180,
+        "pinyin": "no"
+      },
+      {
+        "token": "動画",
+        "startTime": 20180,
+        "endTime": 20665,
+        "pinyin": "douga"
+      },
+      {
+        "token": "で",
+        "startTime": 20665,
+        "endTime": 21150,
+        "pinyin": "de"
+      },
+      {
+        "token": "は",
+        "startTime": 21150,
+        "endTime": 21635,
+        "pinyin": "wa"
+      },
+      {
+        "token": "朝起き",
+        "startTime": 21635,
+        "endTime": 22120,
+        "pinyin": "asaoki"
+      }
+    ]
+  },
+  {
+    "sentence_text": "たら する",
+    "translations": {
+      "en": "in the morning."
+    },
+    "segments": [
+      {
+        "token": "たら",
+        "startTime": 22120,
+        "endTime": 22860,
+        "pinyin": "tara"
+      },
+      {
+        "token": "する",
+        "startTime": 22860,
+        "endTime": 26180,
+        "pinyin": "suru"
+      }
+    ]
+  },
+  {
+    "sentence_text": "こと おはよう ござい ます 。 朝起き たら する こと",
+    "translations": {
+      "en": "Good morning. Things to do after waking up."
+    },
+    "segments": [
+      {
+        "token": "こと",
+        "startTime": 26180,
+        "endTime": 26680,
+        "pinyin": "koto"
+      },
+      {
+        "token": "おはよう",
+        "startTime": 26680,
+        "endTime": 27180,
+        "pinyin": "ohayou"
+      },
+      {
+        "token": "ござい",
+        "startTime": 27180,
+        "endTime": 27680,
+        "pinyin": "gozai"
+      },
+      {
+        "token": "ます",
+        "startTime": 27680,
+        "endTime": 28180,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 28180,
+        "endTime": 28680,
+        "pinyin": "."
+      },
+      {
+        "token": "朝起き",
+        "startTime": 28680,
+        "endTime": 29180,
+        "pinyin": "asaoki"
+      },
+      {
+        "token": "たら",
+        "startTime": 29180,
+        "endTime": 29680,
+        "pinyin": "tara"
+      },
+      {
+        "token": "する",
+        "startTime": 29680,
+        "endTime": 30180,
+        "pinyin": "suru"
+      },
+      {
+        "token": "こと",
+        "startTime": 30180,
+        "endTime": 30680,
+        "pinyin": "koto"
+      }
+    ]
+  },
+  {
+    "sentence_text": "を 日本 語 し ます 。",
+    "translations": {
+      "en": "I'll do it in Japanese."
+    },
+    "segments": [
+      {
+        "token": "を",
+        "startTime": 30680,
+        "endTime": 31033,
+        "pinyin": "wo"
+      },
+      {
+        "token": "日本",
+        "startTime": 31033,
+        "endTime": 31387,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 31387,
+        "endTime": 31740,
+        "pinyin": "go"
+      },
+      {
+        "token": "し",
+        "startTime": 31740,
+        "endTime": 32093,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 32093,
+        "endTime": 32447,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 32447,
+        "endTime": 32800,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "僕 の モーニング ルーティーン を 日本 語 で",
+    "translations": {
+      "en": "I'll introduce my morning routine in Japanese."
+    },
+    "segments": [
+      {
+        "token": "僕",
+        "startTime": 32800,
+        "endTime": 33040,
+        "pinyin": "boku"
+      },
+      {
+        "token": "の",
+        "startTime": 33040,
+        "endTime": 33400,
+        "pinyin": "no"
+      },
+      {
+        "token": "モーニング",
+        "startTime": 33400,
+        "endTime": 34340,
+        "pinyin": "mooningu"
+      },
+      {
+        "token": "ルーティーン",
+        "startTime": 34340,
+        "endTime": 35120,
+        "pinyin": "ruutiin"
+      },
+      {
+        "token": "を",
+        "startTime": 35120,
+        "endTime": 35560,
+        "pinyin": "wo"
+      },
+      {
+        "token": "日本",
+        "startTime": 35560,
+        "endTime": 35920,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 35920,
+        "endTime": 36240,
+        "pinyin": "go"
+      },
+      {
+        "token": "で",
+        "startTime": 36240,
+        "endTime": 36380,
+        "pinyin": "de"
+      }
+    ]
+  },
+  {
+    "sentence_text": "紹介 し ます 。",
+    "translations": {
+      "en": "First, I wake up. I wake up in the morning."
+    },
+    "segments": [
+      {
+        "token": "紹介",
+        "startTime": 36380,
+        "endTime": 37080,
+        "pinyin": "shoukai"
+      },
+      {
+        "token": "し",
+        "startTime": 37080,
+        "endTime": 37780,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 37780,
+        "endTime": 38480,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 38480,
+        "endTime": 39180,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "まず は 起き ます 。 朝 に 起",
+    "translations": {
+      "en": "I wake up in the morning."
+    },
+    "segments": [
+      {
+        "token": "まず",
+        "startTime": 39180,
+        "endTime": 39685,
+        "pinyin": "mazu"
+      },
+      {
+        "token": "は",
+        "startTime": 39685,
+        "endTime": 40190,
+        "pinyin": "wa"
+      },
+      {
+        "token": "起き",
+        "startTime": 40190,
+        "endTime": 40695,
+        "pinyin": "oki"
+      },
+      {
+        "token": "ます",
+        "startTime": 40695,
+        "endTime": 41200,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 41200,
+        "endTime": 41705,
+        "pinyin": "."
+      },
+      {
+        "token": "朝",
+        "startTime": 41705,
+        "endTime": 42210,
+        "pinyin": "asa"
+      },
+      {
+        "token": "に",
+        "startTime": 42210,
+        "endTime": 42715,
+        "pinyin": "ni"
+      },
+      {
+        "token": "起",
+        "startTime": 42715,
+        "endTime": 43220,
+        "pinyin": "ki"
+      }
+    ]
+  },
+  {
+    "sentence_text": "き ます 。",
+    "translations": {
+      "en": "I wake up in the morning."
+    },
+    "segments": [
+      {
+        "token": "き",
+        "startTime": 43220,
+        "endTime": 43600,
+        "pinyin": "ki"
+      },
+      {
+        "token": "ます",
+        "startTime": 43600,
+        "endTime": 43980,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 43980,
+        "endTime": 44360,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝 に スマート フォン の",
+    "translations": {
+      "en": "I wake up to my smartphone's"
+    },
+    "segments": [
+      {
+        "token": "朝",
+        "startTime": 44360,
+        "endTime": 44700,
+        "pinyin": "asa"
+      },
+      {
+        "token": "に",
+        "startTime": 44700,
+        "endTime": 45080,
+        "pinyin": "ni"
+      },
+      {
+        "token": "スマート",
+        "startTime": 45080,
+        "endTime": 47160,
+        "pinyin": "sumaato"
+      },
+      {
+        "token": "フォン",
+        "startTime": 47160,
+        "endTime": 47440,
+        "pinyin": "fon"
+      },
+      {
+        "token": "の",
+        "startTime": 47440,
+        "endTime": 49020,
+        "pinyin": "no"
+      }
+    ]
+  },
+  {
+    "sentence_text": "アラーム で 起",
+    "translations": {
+      "en": "alarm in the morning."
+    },
+    "segments": [
+      {
+        "token": "アラーム",
+        "startTime": 49020,
+        "endTime": 50520,
+        "pinyin": "araamu"
+      },
+      {
+        "token": "で",
+        "startTime": 50520,
+        "endTime": 51980,
+        "pinyin": "de"
+      },
+      {
+        "token": "起",
+        "startTime": 51980,
+        "endTime": 52940,
+        "pinyin": "ki"
+      }
+    ]
+  },
+  {
+    "sentence_text": "き ます 。",
+    "translations": {
+      "en": "I wake up."
+    },
+    "segments": [
+      {
+        "token": "き",
+        "startTime": 52940,
+        "endTime": 53307,
+        "pinyin": "ki"
+      },
+      {
+        "token": "ます",
+        "startTime": 53307,
+        "endTime": 53673,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 53673,
+        "endTime": 54040,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "僕 は 朝 が 苦手 な の で 、",
+    "translations": {
+      "en": "I'm not a morning person, so"
+    },
+    "segments": [
+      {
+        "token": "僕",
+        "startTime": 54040,
+        "endTime": 54469,
+        "pinyin": "boku"
+      },
+      {
+        "token": "は",
+        "startTime": 54469,
+        "endTime": 54898,
+        "pinyin": "wa"
+      },
+      {
+        "token": "朝",
+        "startTime": 54898,
+        "endTime": 55327,
+        "pinyin": "asa"
+      },
+      {
+        "token": "が",
+        "startTime": 55327,
+        "endTime": 55756,
+        "pinyin": "ga"
+      },
+      {
+        "token": "苦手",
+        "startTime": 55756,
+        "endTime": 56184,
+        "pinyin": "nigate"
+      },
+      {
+        "token": "な",
+        "startTime": 56184,
+        "endTime": 56613,
+        "pinyin": "na"
+      },
+      {
+        "token": "の",
+        "startTime": 56613,
+        "endTime": 57042,
+        "pinyin": "no"
+      },
+      {
+        "token": "で",
+        "startTime": 57042,
+        "endTime": 57471,
+        "pinyin": "de"
+      },
+      {
+        "token": "、",
+        "startTime": 57471,
+        "endTime": 57900,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "寝る 前 に 夜 に 目覚まし",
+    "translations": {
+      "en": "the night before, I set many alarms"
+    },
+    "segments": [
+      {
+        "token": "寝る",
+        "startTime": 57900,
+        "endTime": 59100,
+        "pinyin": "neru"
+      },
+      {
+        "token": "前",
+        "startTime": 59100,
+        "endTime": 59300,
+        "pinyin": "mae"
+      },
+      {
+        "token": "に",
+        "startTime": 59300,
+        "endTime": 59560,
+        "pinyin": "ni"
+      },
+      {
+        "token": "夜",
+        "startTime": 59560,
+        "endTime": 60240,
+        "pinyin": "yoru"
+      },
+      {
+        "token": "に",
+        "startTime": 60240,
+        "endTime": 60680,
+        "pinyin": "ni"
+      },
+      {
+        "token": "目覚まし",
+        "startTime": 60680,
+        "endTime": 62340,
+        "pinyin": "mezamashi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "を たくさん 設定 し ます 。",
+    "translations": {
+      "en": "before going to bed."
+    },
+    "segments": [
+      {
+        "token": "を",
+        "startTime": 62340,
+        "endTime": 63510,
+        "pinyin": "wo"
+      },
+      {
+        "token": "たくさん",
+        "startTime": 63510,
+        "endTime": 64680,
+        "pinyin": "takusan"
+      },
+      {
+        "token": "設定",
+        "startTime": 64680,
+        "endTime": 65850,
+        "pinyin": "settei"
+      },
+      {
+        "token": "し",
+        "startTime": 65850,
+        "endTime": 67020,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 67020,
+        "endTime": 68190,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 68190,
+        "endTime": 69360,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "スマート フォン の 目覚まし が 鳴っ たら",
+    "translations": {
+      "en": "When my smartphone alarm goes off,"
+    },
+    "segments": [
+      {
+        "token": "スマート",
+        "startTime": 69360,
+        "endTime": 69980,
+        "pinyin": "sumaato"
+      },
+      {
+        "token": "フォン",
+        "startTime": 69980,
+        "endTime": 70240,
+        "pinyin": "fon"
+      },
+      {
+        "token": "の",
+        "startTime": 70240,
+        "endTime": 70400,
+        "pinyin": "no"
+      },
+      {
+        "token": "目覚まし",
+        "startTime": 70400,
+        "endTime": 71520,
+        "pinyin": "mezamashi"
+      },
+      {
+        "token": "が",
+        "startTime": 71520,
+        "endTime": 71660,
+        "pinyin": "ga"
+      },
+      {
+        "token": "鳴っ",
+        "startTime": 71660,
+        "endTime": 72500,
+        "pinyin": "na"
+      },
+      {
+        "token": "たら",
+        "startTime": 72500,
+        "endTime": 74580,
+        "pinyin": "tara"
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝 き ます 。 起き て ベッド",
+    "translations": {
+      "en": "I wake up. I get out of"
+    },
+    "segments": [
+      {
+        "token": "朝",
+        "startTime": 74580,
+        "endTime": 75094,
+        "pinyin": "asa"
+      },
+      {
+        "token": "き",
+        "startTime": 75094,
+        "endTime": 75609,
+        "pinyin": "ki"
+      },
+      {
+        "token": "ます",
+        "startTime": 75609,
+        "endTime": 76123,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 76123,
+        "endTime": 76637,
+        "pinyin": "."
+      },
+      {
+        "token": "起き",
+        "startTime": 76637,
+        "endTime": 77151,
+        "pinyin": "oki"
+      },
+      {
+        "token": "て",
+        "startTime": 77151,
+        "endTime": 77666,
+        "pinyin": "te"
+      },
+      {
+        "token": "ベッド",
+        "startTime": 77666,
+        "endTime": 78180,
+        "pinyin": "beddo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "から 出 ます 。",
+    "translations": {
+      "en": "bed."
+    },
+    "segments": [
+      {
+        "token": "から",
+        "startTime": 78180,
+        "endTime": 79500,
+        "pinyin": "kara"
+      },
+      {
+        "token": "出",
+        "startTime": 79500,
+        "endTime": 80820,
+        "pinyin": "de"
+      },
+      {
+        "token": "ます",
+        "startTime": 80820,
+        "endTime": 82140,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 82140,
+        "endTime": 83460,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝 は とっても 眠たい です 。",
+    "translations": {
+      "en": "I'm very sleepy in the morning."
+    },
+    "segments": [
+      {
+        "token": "朝",
+        "startTime": 83460,
+        "endTime": 84527,
+        "pinyin": "asa"
+      },
+      {
+        "token": "は",
+        "startTime": 84527,
+        "endTime": 85593,
+        "pinyin": "wa"
+      },
+      {
+        "token": "とっても",
+        "startTime": 85593,
+        "endTime": 86660,
+        "pinyin": "tottemo"
+      },
+      {
+        "token": "眠たい",
+        "startTime": 86660,
+        "endTime": 87727,
+        "pinyin": "nemutai"
+      },
+      {
+        "token": "です",
+        "startTime": 87727,
+        "endTime": 88793,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 88793,
+        "endTime": 89860,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "そして 次 に カーテン を 開け",
+    "translations": {
+      "en": "Then I open the curtains"
+    },
+    "segments": [
+      {
+        "token": "そして",
+        "startTime": 89860,
+        "endTime": 90060,
+        "pinyin": "soshite"
+      },
+      {
+        "token": "次",
+        "startTime": 90060,
+        "endTime": 90840,
+        "pinyin": "ji"
+      },
+      {
+        "token": "に",
+        "startTime": 90840,
+        "endTime": 91140,
+        "pinyin": "ni"
+      },
+      {
+        "token": "カーテン",
+        "startTime": 91140,
+        "endTime": 92400,
+        "pinyin": "kaaten"
+      },
+      {
+        "token": "を",
+        "startTime": 92400,
+        "endTime": 92680,
+        "pinyin": "wo"
+      },
+      {
+        "token": "開け",
+        "startTime": 92680,
+        "endTime": 93400,
+        "pinyin": "ake"
+      }
+    ]
+  },
+  {
+    "sentence_text": "ます 。",
+    "translations": {
+      "en": "."
+    },
+    "segments": [
+      {
+        "token": "ます",
+        "startTime": 93400,
+        "endTime": 95290,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 95290,
+        "endTime": 97180,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "夜 は カーテン を 閉め ます 。",
+    "translations": {
+      "en": "At night I close the curtains."
+    },
+    "segments": [
+      {
+        "token": "夜",
+        "startTime": 97180,
+        "endTime": 98203,
+        "pinyin": "yoru"
+      },
+      {
+        "token": "は",
+        "startTime": 98203,
+        "endTime": 99226,
+        "pinyin": "wa"
+      },
+      {
+        "token": "カーテン",
+        "startTime": 99226,
+        "endTime": 100249,
+        "pinyin": "kaaten"
+      },
+      {
+        "token": "を",
+        "startTime": 100249,
+        "endTime": 101271,
+        "pinyin": "wo"
+      },
+      {
+        "token": "閉め",
+        "startTime": 101271,
+        "endTime": 102294,
+        "pinyin": "shime"
+      },
+      {
+        "token": "ます",
+        "startTime": 102294,
+        "endTime": 103317,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 103317,
+        "endTime": 104340,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "だ から 朝 起き た 時 に",
+    "translations": {
+      "en": "So when I wake up in the morning,"
+    },
+    "segments": [
+      {
+        "token": "だ",
+        "startTime": 104340,
+        "endTime": 104937,
+        "pinyin": "da"
+      },
+      {
+        "token": "から",
+        "startTime": 104937,
+        "endTime": 105534,
+        "pinyin": "kara"
+      },
+      {
+        "token": "朝",
+        "startTime": 105534,
+        "endTime": 106131,
+        "pinyin": "asa"
+      },
+      {
+        "token": "起き",
+        "startTime": 106131,
+        "endTime": 106729,
+        "pinyin": "oki"
+      },
+      {
+        "token": "た",
+        "startTime": 106729,
+        "endTime": 107326,
+        "pinyin": "ta"
+      },
+      {
+        "token": "時",
+        "startTime": 107326,
+        "endTime": 107923,
+        "pinyin": "toki"
+      },
+      {
+        "token": "に",
+        "startTime": 107923,
+        "endTime": 108520,
+        "pinyin": "ni"
+      }
+    ]
+  },
+  {
+    "sentence_text": "カーテン を 開け ます 。",
+    "translations": {
+      "en": "I open the curtains."
+    },
+    "segments": [
+      {
+        "token": "カーテン",
+        "startTime": 108520,
+        "endTime": 109092,
+        "pinyin": "kaaten"
+      },
+      {
+        "token": "を",
+        "startTime": 109092,
+        "endTime": 109664,
+        "pinyin": "wo"
+      },
+      {
+        "token": "開け",
+        "startTime": 109664,
+        "endTime": 110236,
+        "pinyin": "ake"
+      },
+      {
+        "token": "ます",
+        "startTime": 110236,
+        "endTime": 110808,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 110808,
+        "endTime": 111380,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "太陽 の 光 は 脳 を",
+    "translations": {
+      "en": "Sunlight is very good for"
+    },
+    "segments": [
+      {
+        "token": "太陽",
+        "startTime": 111380,
+        "endTime": 112020,
+        "pinyin": "taiyou"
+      },
+      {
+        "token": "の",
+        "startTime": 112020,
+        "endTime": 112260,
+        "pinyin": "no"
+      },
+      {
+        "token": "光",
+        "startTime": 112260,
+        "endTime": 113000,
+        "pinyin": "hikari"
+      },
+      {
+        "token": "は",
+        "startTime": 113000,
+        "endTime": 113500,
+        "pinyin": "wa"
+      },
+      {
+        "token": "脳",
+        "startTime": 113500,
+        "endTime": 114680,
+        "pinyin": "nou"
+      },
+      {
+        "token": "を",
+        "startTime": 114680,
+        "endTime": 115520,
+        "pinyin": "wo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "起こす の に とっ て も いい",
+    "translations": {
+      "en": "waking up the brain,"
+    },
+    "segments": [
+      {
+        "token": "起こす",
+        "startTime": 115520,
+        "endTime": 116740,
+        "pinyin": "okosu"
+      },
+      {
+        "token": "の",
+        "startTime": 116740,
+        "endTime": 116900,
+        "pinyin": "no"
+      },
+      {
+        "token": "に",
+        "startTime": 116900,
+        "endTime": 117100,
+        "pinyin": "ni"
+      },
+      {
+        "token": "とっ",
+        "startTime": 117100,
+        "endTime": 117780,
+        "pinyin": "to"
+      },
+      {
+        "token": "て",
+        "startTime": 117780,
+        "endTime": 117920,
+        "pinyin": "te"
+      },
+      {
+        "token": "も",
+        "startTime": 117920,
+        "endTime": 118500,
+        "pinyin": "mo"
+      },
+      {
+        "token": "いい",
+        "startTime": 118500,
+        "endTime": 119180,
+        "pinyin": "ii"
+      }
+    ]
+  },
+  {
+    "sentence_text": "と 言わ い ます 。",
+    "translations": {
+      "en": "they say."
+    },
+    "segments": [
+      {
+        "token": "と",
+        "startTime": 119180,
+        "endTime": 119456,
+        "pinyin": "to"
+      },
+      {
+        "token": "言わ",
+        "startTime": 119456,
+        "endTime": 119732,
+        "pinyin": "iwa"
+      },
+      {
+        "token": "い",
+        "startTime": 119732,
+        "endTime": 120008,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 120008,
+        "endTime": 120284,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 120284,
+        "endTime": 120560,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "だ から 起き たら カーテン を 開け て",
+    "translations": {
+      "en": "So when I wake up, I open the curtains"
+    },
+    "segments": [
+      {
+        "token": "だ",
+        "startTime": 120560,
+        "endTime": 121115,
+        "pinyin": "da"
+      },
+      {
+        "token": "から",
+        "startTime": 121115,
+        "endTime": 121670,
+        "pinyin": "kara"
+      },
+      {
+        "token": "起き",
+        "startTime": 121670,
+        "endTime": 122225,
+        "pinyin": "oki"
+      },
+      {
+        "token": "たら",
+        "startTime": 122225,
+        "endTime": 122780,
+        "pinyin": "tara"
+      },
+      {
+        "token": "カーテン",
+        "startTime": 122780,
+        "endTime": 123335,
+        "pinyin": "kaaten"
+      },
+      {
+        "token": "を",
+        "startTime": 123335,
+        "endTime": 123890,
+        "pinyin": "wo"
+      },
+      {
+        "token": "開け",
+        "startTime": 123890,
+        "endTime": 124445,
+        "pinyin": "ake"
+      },
+      {
+        "token": "て",
+        "startTime": 124445,
+        "endTime": 125000,
+        "pinyin": "te"
+      }
+    ]
+  },
+  {
+    "sentence_text": "太陽 の 光 を 浴び ます 。",
+    "translations": {
+      "en": "and bask in the sunlight."
+    },
+    "segments": [
+      {
+        "token": "太陽",
+        "startTime": 125000,
+        "endTime": 125511,
+        "pinyin": "taiyou"
+      },
+      {
+        "token": "の",
+        "startTime": 125511,
+        "endTime": 126023,
+        "pinyin": "no"
+      },
+      {
+        "token": "光",
+        "startTime": 126023,
+        "endTime": 126534,
+        "pinyin": "hikari"
+      },
+      {
+        "token": "を",
+        "startTime": 126534,
+        "endTime": 127046,
+        "pinyin": "wo"
+      },
+      {
+        "token": "浴び",
+        "startTime": 127046,
+        "endTime": 127557,
+        "pinyin": "abi"
+      },
+      {
+        "token": "ます",
+        "startTime": 127557,
+        "endTime": 128069,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 128069,
+        "endTime": 128580,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "とても いい と 思い ます 。",
+    "translations": {
+      "en": "I think it's very good."
+    },
+    "segments": [
+      {
+        "token": "とても",
+        "startTime": 128580,
+        "endTime": 129057,
+        "pinyin": "totemo"
+      },
+      {
+        "token": "いい",
+        "startTime": 129057,
+        "endTime": 129533,
+        "pinyin": "ii"
+      },
+      {
+        "token": "と",
+        "startTime": 129533,
+        "endTime": 130010,
+        "pinyin": "to"
+      },
+      {
+        "token": "思い",
+        "startTime": 130010,
+        "endTime": 130487,
+        "pinyin": "omoi"
+      },
+      {
+        "token": "ます",
+        "startTime": 130487,
+        "endTime": 130963,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 130963,
+        "endTime": 131440,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "はい 、 そして 次 に 朝ごはん",
+    "translations": {
+      "en": "Yes, and then I eat breakfast"
+    },
+    "segments": [
+      {
+        "token": "はい",
+        "startTime": 131440,
+        "endTime": 132137,
+        "pinyin": "hai"
+      },
+      {
+        "token": "、",
+        "startTime": 132137,
+        "endTime": 132833,
+        "pinyin": ","
+      },
+      {
+        "token": "そして",
+        "startTime": 132833,
+        "endTime": 133530,
+        "pinyin": "soshite"
+      },
+      {
+        "token": "次",
+        "startTime": 133530,
+        "endTime": 134227,
+        "pinyin": "ji"
+      },
+      {
+        "token": "に",
+        "startTime": 134227,
+        "endTime": 134923,
+        "pinyin": "ni"
+      },
+      {
+        "token": "朝ごはん",
+        "startTime": 134923,
+        "endTime": 135620,
+        "pinyin": "asagohan"
+      }
+    ]
+  },
+  {
+    "sentence_text": "を 食べ ます 。",
+    "translations": {
+      "en": "."
+    },
+    "segments": [
+      {
+        "token": "を",
+        "startTime": 135620,
+        "endTime": 136765,
+        "pinyin": "wo"
+      },
+      {
+        "token": "食べ",
+        "startTime": 136765,
+        "endTime": 137910,
+        "pinyin": "tabe"
+      },
+      {
+        "token": "ます",
+        "startTime": 137910,
+        "endTime": 139055,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 139055,
+        "endTime": 140200,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "僕 は 1日 に 3 回 ご飯",
+    "translations": {
+      "en": "I eat three meals a day"
+    },
+    "segments": [
+      {
+        "token": "僕",
+        "startTime": 140200,
+        "endTime": 140809,
+        "pinyin": "boku"
+      },
+      {
+        "token": "は",
+        "startTime": 140809,
+        "endTime": 141417,
+        "pinyin": "wa"
+      },
+      {
+        "token": "1日",
+        "startTime": 141417,
+        "endTime": 142026,
+        "pinyin": "tsuitachi"
+      },
+      {
+        "token": "に",
+        "startTime": 142026,
+        "endTime": 142634,
+        "pinyin": "ni"
+      },
+      {
+        "token": "3",
+        "startTime": 142634,
+        "endTime": 143243,
+        "pinyin": "3"
+      },
+      {
+        "token": "回",
+        "startTime": 143243,
+        "endTime": 143851,
+        "pinyin": "kai"
+      },
+      {
+        "token": "ご飯",
+        "startTime": 143851,
+        "endTime": 144460,
+        "pinyin": "gohan"
+      }
+    ]
+  },
+  {
+    "sentence_text": "を 食べ ます 。",
+    "translations": {
+      "en": "."
+    },
+    "segments": [
+      {
+        "token": "を",
+        "startTime": 144460,
+        "endTime": 144795,
+        "pinyin": "wo"
+      },
+      {
+        "token": "食べ",
+        "startTime": 144795,
+        "endTime": 145130,
+        "pinyin": "tabe"
+      },
+      {
+        "token": "ます",
+        "startTime": 145130,
+        "endTime": 145465,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 145465,
+        "endTime": 145800,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "1日 に 1 , 2 ,",
+    "translations": {
+      "en": "One, two,"
+    },
+    "segments": [
+      {
+        "token": "1日",
+        "startTime": 145800,
+        "endTime": 146137,
+        "pinyin": "tsuitachi"
+      },
+      {
+        "token": "に",
+        "startTime": 146137,
+        "endTime": 146473,
+        "pinyin": "ni"
+      },
+      {
+        "token": "1",
+        "startTime": 146473,
+        "endTime": 146810,
+        "pinyin": "1"
+      },
+      {
+        "token": ",",
+        "startTime": 146810,
+        "endTime": 147147,
+        "pinyin": ","
+      },
+      {
+        "token": "2",
+        "startTime": 147147,
+        "endTime": 147483,
+        "pinyin": "2"
+      },
+      {
+        "token": ",",
+        "startTime": 147483,
+        "endTime": 147820,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "3 3 回 ご飯 を 食べ ます 。",
+    "translations": {
+      "en": "three times a day I eat."
+    },
+    "segments": [
+      {
+        "token": "3",
+        "startTime": 147820,
+        "endTime": 148283,
+        "pinyin": "3"
+      },
+      {
+        "token": "3",
+        "startTime": 148283,
+        "endTime": 148745,
+        "pinyin": "3"
+      },
+      {
+        "token": "回",
+        "startTime": 148745,
+        "endTime": 149208,
+        "pinyin": "kai"
+      },
+      {
+        "token": "ご飯",
+        "startTime": 149208,
+        "endTime": 149670,
+        "pinyin": "gohan"
+      },
+      {
+        "token": "を",
+        "startTime": 149670,
+        "endTime": 150133,
+        "pinyin": "wo"
+      },
+      {
+        "token": "食べ",
+        "startTime": 150133,
+        "endTime": 150595,
+        "pinyin": "tabe"
+      },
+      {
+        "token": "ます",
+        "startTime": 150595,
+        "endTime": 151058,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 151058,
+        "endTime": 151520,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝ごはん 、",
+    "translations": {
+      "en": "Breakfast,"
+    },
+    "segments": [
+      {
+        "token": "朝ごはん",
+        "startTime": 151620,
+        "endTime": 152620,
+        "pinyin": "asagohan"
+      },
+      {
+        "token": "、",
+        "startTime": 152620,
+        "endTime": 153440,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "昼 ごはん 、 夜ごはん を ます 。",
+    "translations": {
+      "en": "lunch, and dinner."
+    },
+    "segments": [
+      {
+        "token": "昼",
+        "startTime": 153440,
+        "endTime": 154637,
+        "pinyin": "hiru"
+      },
+      {
+        "token": "ごはん",
+        "startTime": 154637,
+        "endTime": 155834,
+        "pinyin": "gohan"
+      },
+      {
+        "token": "、",
+        "startTime": 155834,
+        "endTime": 157031,
+        "pinyin": ","
+      },
+      {
+        "token": "夜ごはん",
+        "startTime": 157031,
+        "endTime": 158229,
+        "pinyin": "yorugohan"
+      },
+      {
+        "token": "を",
+        "startTime": 158229,
+        "endTime": 159426,
+        "pinyin": "wo"
+      },
+      {
+        "token": "ます",
+        "startTime": 159426,
+        "endTime": 160623,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 160623,
+        "endTime": 161820,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝ごはん は 最初 に 食べる ご飯",
+    "translations": {
+      "en": "Breakfast is the first meal"
+    },
+    "segments": [
+      {
+        "token": "朝ごはん",
+        "startTime": 161820,
+        "endTime": 162520,
+        "pinyin": "asagohan"
+      },
+      {
+        "token": "は",
+        "startTime": 162520,
+        "endTime": 162700,
+        "pinyin": "wa"
+      },
+      {
+        "token": "最初",
+        "startTime": 162700,
+        "endTime": 163980,
+        "pinyin": "saisho"
+      },
+      {
+        "token": "に",
+        "startTime": 163980,
+        "endTime": 164160,
+        "pinyin": "ni"
+      },
+      {
+        "token": "食べる",
+        "startTime": 164160,
+        "endTime": 165000,
+        "pinyin": "taberu"
+      },
+      {
+        "token": "ご飯",
+        "startTime": 165000,
+        "endTime": 165520,
+        "pinyin": "gohan"
+      }
+    ]
+  },
+  {
+    "sentence_text": "です 。",
+    "translations": {
+      "en": "of the day."
+    },
+    "segments": [
+      {
+        "token": "です",
+        "startTime": 165520,
+        "endTime": 166010,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 166010,
+        "endTime": 166500,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝ごはん は 1日 の 中 で 最初",
+    "translations": {
+      "en": "Breakfast is the first meal"
+    },
+    "segments": [
+      {
+        "token": "朝ごはん",
+        "startTime": 166500,
+        "endTime": 167020,
+        "pinyin": "asagohan"
+      },
+      {
+        "token": "は",
+        "startTime": 167020,
+        "endTime": 167540,
+        "pinyin": "wa"
+      },
+      {
+        "token": "1日",
+        "startTime": 167540,
+        "endTime": 168060,
+        "pinyin": "tsuitachi"
+      },
+      {
+        "token": "の",
+        "startTime": 168060,
+        "endTime": 168580,
+        "pinyin": "no"
+      },
+      {
+        "token": "中",
+        "startTime": 168580,
+        "endTime": 169100,
+        "pinyin": "naka"
+      },
+      {
+        "token": "で",
+        "startTime": 169100,
+        "endTime": 169620,
+        "pinyin": "de"
+      },
+      {
+        "token": "最初",
+        "startTime": 169620,
+        "endTime": 170140,
+        "pinyin": "saisho"
+      }
+    ]
+  },
+  {
+    "sentence_text": "に 食べる ご飯 です 。",
+    "translations": {
+      "en": "of the day."
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 170140,
+        "endTime": 170904,
+        "pinyin": "ni"
+      },
+      {
+        "token": "食べる",
+        "startTime": 170904,
+        "endTime": 171668,
+        "pinyin": "taberu"
+      },
+      {
+        "token": "ご飯",
+        "startTime": 171668,
+        "endTime": 172432,
+        "pinyin": "gohan"
+      },
+      {
+        "token": "です",
+        "startTime": 172432,
+        "endTime": 173196,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 173196,
+        "endTime": 173960,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "僕 は 朝ごはん で 味噌",
+    "translations": {
+      "en": "For breakfast, I have miso"
+    },
+    "segments": [
+      {
+        "token": "僕",
+        "startTime": 173960,
+        "endTime": 174100,
+        "pinyin": "boku"
+      },
+      {
+        "token": "は",
+        "startTime": 174100,
+        "endTime": 174500,
+        "pinyin": "wa"
+      },
+      {
+        "token": "朝ごはん",
+        "startTime": 174500,
+        "endTime": 175960,
+        "pinyin": "asagohan"
+      },
+      {
+        "token": "で",
+        "startTime": 175960,
+        "endTime": 177260,
+        "pinyin": "de"
+      },
+      {
+        "token": "味噌",
+        "startTime": 177260,
+        "endTime": 177640,
+        "pinyin": "miso"
+      }
+    ]
+  },
+  {
+    "sentence_text": "汁 と ご飯 を ます 。",
+    "translations": {
+      "en": "soup and rice."
+    },
+    "segments": [
+      {
+        "token": "汁",
+        "startTime": 177640,
+        "endTime": 178663,
+        "pinyin": "shiru"
+      },
+      {
+        "token": "と",
+        "startTime": 178663,
+        "endTime": 179687,
+        "pinyin": "to"
+      },
+      {
+        "token": "ご飯",
+        "startTime": 179687,
+        "endTime": 180710,
+        "pinyin": "gohan"
+      },
+      {
+        "token": "を",
+        "startTime": 180710,
+        "endTime": 181733,
+        "pinyin": "wo"
+      },
+      {
+        "token": "ます",
+        "startTime": 181733,
+        "endTime": 182757,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 182757,
+        "endTime": 183780,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "僕 は 味噌 汁 が とっても",
+    "translations": {
+      "en": "I really like miso"
+    },
+    "segments": [
+      {
+        "token": "僕",
+        "startTime": 183780,
+        "endTime": 184420,
+        "pinyin": "boku"
+      },
+      {
+        "token": "は",
+        "startTime": 184420,
+        "endTime": 184800,
+        "pinyin": "wa"
+      },
+      {
+        "token": "味噌",
+        "startTime": 184800,
+        "endTime": 185880,
+        "pinyin": "miso"
+      },
+      {
+        "token": "汁",
+        "startTime": 185880,
+        "endTime": 186140,
+        "pinyin": "shiru"
+      },
+      {
+        "token": "が",
+        "startTime": 186140,
+        "endTime": 186720,
+        "pinyin": "ga"
+      },
+      {
+        "token": "とっても",
+        "startTime": 186720,
+        "endTime": 187380,
+        "pinyin": "tottemo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "好き です 。",
+    "translations": {
+      "en": "soup."
+    },
+    "segments": [
+      {
+        "token": "好き",
+        "startTime": 187380,
+        "endTime": 188907,
+        "pinyin": "suki"
+      },
+      {
+        "token": "です",
+        "startTime": 188907,
+        "endTime": 190433,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 190433,
+        "endTime": 191960,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "毎日 必ず 飲み ます 。",
+    "translations": {
+      "en": "I drink it every day."
+    },
+    "segments": [
+      {
+        "token": "毎日",
+        "startTime": 191960,
+        "endTime": 193736,
+        "pinyin": "mainichi"
+      },
+      {
+        "token": "必ず",
+        "startTime": 193736,
+        "endTime": 195512,
+        "pinyin": "kanarazu"
+      },
+      {
+        "token": "飲み",
+        "startTime": 195512,
+        "endTime": 197288,
+        "pinyin": "nomi"
+      },
+      {
+        "token": "ます",
+        "startTime": 197288,
+        "endTime": 199064,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 199064,
+        "endTime": 200840,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "あと コップ 1 杯 の 水 を",
+    "translations": {
+      "en": "Also, a glass of water"
+    },
+    "segments": [
+      {
+        "token": "あと",
+        "startTime": 200840,
+        "endTime": 201000,
+        "pinyin": "ato"
+      },
+      {
+        "token": "コップ",
+        "startTime": 201000,
+        "endTime": 202420,
+        "pinyin": "koppu"
+      },
+      {
+        "token": "1",
+        "startTime": 202420,
+        "endTime": 203080,
+        "pinyin": "1"
+      },
+      {
+        "token": "杯",
+        "startTime": 203080,
+        "endTime": 203320,
+        "pinyin": "hai"
+      },
+      {
+        "token": "の",
+        "startTime": 203320,
+        "endTime": 203580,
+        "pinyin": "no"
+      },
+      {
+        "token": "水",
+        "startTime": 203580,
+        "endTime": 204200,
+        "pinyin": "mizu"
+      },
+      {
+        "token": "を",
+        "startTime": 204200,
+        "endTime": 204380,
+        "pinyin": "wo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "飲み ます",
+    "translations": {
+      "en": "I drink."
+    },
+    "segments": [
+      {
+        "token": "飲み",
+        "startTime": 204380,
+        "endTime": 204740,
+        "pinyin": "nomi"
+      },
+      {
+        "token": "ます",
+        "startTime": 204740,
+        "endTime": 206180,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝ごはん の 時 に コップ 1 杯",
+    "translations": {
+      "en": "At breakfast, a glass"
+    },
+    "segments": [
+      {
+        "token": "朝ごはん",
+        "startTime": 206180,
+        "endTime": 206880,
+        "pinyin": "asagohan"
+      },
+      {
+        "token": "の",
+        "startTime": 206880,
+        "endTime": 207020,
+        "pinyin": "no"
+      },
+      {
+        "token": "時",
+        "startTime": 207020,
+        "endTime": 207200,
+        "pinyin": "toki"
+      },
+      {
+        "token": "に",
+        "startTime": 207200,
+        "endTime": 207560,
+        "pinyin": "ni"
+      },
+      {
+        "token": "コップ",
+        "startTime": 207560,
+        "endTime": 208640,
+        "pinyin": "koppu"
+      },
+      {
+        "token": "1",
+        "startTime": 208640,
+        "endTime": 209520,
+        "pinyin": "1"
+      },
+      {
+        "token": "杯",
+        "startTime": 209520,
+        "endTime": 209760,
+        "pinyin": "hai"
+      }
+    ]
+  },
+  {
+    "sentence_text": "の 水 を 飲み ます 水",
+    "translations": {
+      "en": "of water. Water"
+    },
+    "segments": [
+      {
+        "token": "の",
+        "startTime": 209760,
+        "endTime": 210020,
+        "pinyin": "no"
+      },
+      {
+        "token": "水",
+        "startTime": 210020,
+        "endTime": 210840,
+        "pinyin": "mizu"
+      },
+      {
+        "token": "を",
+        "startTime": 210840,
+        "endTime": 211420,
+        "pinyin": "wo"
+      },
+      {
+        "token": "飲み",
+        "startTime": 211420,
+        "endTime": 212520,
+        "pinyin": "nomi"
+      },
+      {
+        "token": "ます",
+        "startTime": 212520,
+        "endTime": 213320,
+        "pinyin": "masu"
+      },
+      {
+        "token": "水",
+        "startTime": 213320,
+        "endTime": 213640,
+        "pinyin": "mizu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "を 飲む 人間 は 寝 て いる とき",
+    "translations": {
+      "en": "— when you sleep, your body"
+    },
+    "segments": [
+      {
+        "token": "を",
+        "startTime": 213640,
+        "endTime": 213880,
+        "pinyin": "wo"
+      },
+      {
+        "token": "飲む",
+        "startTime": 213880,
+        "endTime": 215060,
+        "pinyin": "nomu"
+      },
+      {
+        "token": "人間",
+        "startTime": 215060,
+        "endTime": 215540,
+        "pinyin": "ningen"
+      },
+      {
+        "token": "は",
+        "startTime": 215540,
+        "endTime": 215780,
+        "pinyin": "wa"
+      },
+      {
+        "token": "寝",
+        "startTime": 215780,
+        "endTime": 216700,
+        "pinyin": "ne"
+      },
+      {
+        "token": "て",
+        "startTime": 216700,
+        "endTime": 216860,
+        "pinyin": "te"
+      },
+      {
+        "token": "いる",
+        "startTime": 216860,
+        "endTime": 217060,
+        "pinyin": "iru"
+      },
+      {
+        "token": "とき",
+        "startTime": 217060,
+        "endTime": 217340,
+        "pinyin": "toki"
+      }
+    ]
+  },
+  {
+    "sentence_text": "に 体 の",
+    "translations": {
+      "en": "loses a lot of water"
+    },
+    "segments": [
+      {
+        "token": "に",
+        "startTime": 217340,
+        "endTime": 218800,
+        "pinyin": "ni"
+      },
+      {
+        "token": "体",
+        "startTime": 218800,
+        "endTime": 219700,
+        "pinyin": "karada"
+      },
+      {
+        "token": "の",
+        "startTime": 219700,
+        "endTime": 221360,
+        "pinyin": "no"
+      }
+    ]
+  },
+  {
+    "sentence_text": "中 から 水 が たくさん",
+    "translations": {
+      "en": "from inside"
+    },
+    "segments": [
+      {
+        "token": "中",
+        "startTime": 221360,
+        "endTime": 221620,
+        "pinyin": "naka"
+      },
+      {
+        "token": "から",
+        "startTime": 221620,
+        "endTime": 222080,
+        "pinyin": "kara"
+      },
+      {
+        "token": "水",
+        "startTime": 222080,
+        "endTime": 223100,
+        "pinyin": "mizu"
+      },
+      {
+        "token": "が",
+        "startTime": 223100,
+        "endTime": 223960,
+        "pinyin": "ga"
+      },
+      {
+        "token": "たくさん",
+        "startTime": 223960,
+        "endTime": 225100,
+        "pinyin": "takusan"
+      }
+    ]
+  },
+  {
+    "sentence_text": "出 て いき ます",
+    "translations": {
+      "en": "your body."
+    },
+    "segments": [
+      {
+        "token": "出",
+        "startTime": 225100,
+        "endTime": 225615,
+        "pinyin": "de"
+      },
+      {
+        "token": "て",
+        "startTime": 225615,
+        "endTime": 226130,
+        "pinyin": "te"
+      },
+      {
+        "token": "いき",
+        "startTime": 226130,
+        "endTime": 226645,
+        "pinyin": "iki"
+      },
+      {
+        "token": "ます",
+        "startTime": 226645,
+        "endTime": 227160,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "体 から 寝 て いる とき に 水",
+    "translations": {
+      "en": "While sleeping, water from your body"
+    },
+    "segments": [
+      {
+        "token": "体",
+        "startTime": 227160,
+        "endTime": 227480,
+        "pinyin": "karada"
+      },
+      {
+        "token": "から",
+        "startTime": 227480,
+        "endTime": 227900,
+        "pinyin": "kara"
+      },
+      {
+        "token": "寝",
+        "startTime": 227900,
+        "endTime": 228640,
+        "pinyin": "ne"
+      },
+      {
+        "token": "て",
+        "startTime": 228640,
+        "endTime": 228820,
+        "pinyin": "te"
+      },
+      {
+        "token": "いる",
+        "startTime": 228820,
+        "endTime": 229060,
+        "pinyin": "iru"
+      },
+      {
+        "token": "とき",
+        "startTime": 229060,
+        "endTime": 229380,
+        "pinyin": "toki"
+      },
+      {
+        "token": "に",
+        "startTime": 229380,
+        "endTime": 229640,
+        "pinyin": "ni"
+      },
+      {
+        "token": "水",
+        "startTime": 229640,
+        "endTime": 230540,
+        "pinyin": "mizu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "がたく さん 出 て いき ます",
+    "translations": {
+      "en": "A lot comes out."
+    },
+    "segments": [
+      {
+        "token": "がたく",
+        "startTime": 230540,
+        "endTime": 231160,
+        "pinyin": "gataku"
+      },
+      {
+        "token": "さん",
+        "startTime": 231160,
+        "endTime": 231780,
+        "pinyin": "san"
+      },
+      {
+        "token": "出",
+        "startTime": 231780,
+        "endTime": 232400,
+        "pinyin": "de"
+      },
+      {
+        "token": "て",
+        "startTime": 232400,
+        "endTime": 233020,
+        "pinyin": "te"
+      },
+      {
+        "token": "いき",
+        "startTime": 233020,
+        "endTime": 233640,
+        "pinyin": "iki"
+      },
+      {
+        "token": "ます",
+        "startTime": 233640,
+        "endTime": 234260,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "だ から 朝 は コップ 1 杯 の",
+    "translations": {
+      "en": "So in the morning, a glass of"
+    },
+    "segments": [
+      {
+        "token": "だ",
+        "startTime": 234260,
+        "endTime": 234707,
+        "pinyin": "da"
+      },
+      {
+        "token": "から",
+        "startTime": 234707,
+        "endTime": 235155,
+        "pinyin": "kara"
+      },
+      {
+        "token": "朝",
+        "startTime": 235155,
+        "endTime": 235603,
+        "pinyin": "asa"
+      },
+      {
+        "token": "は",
+        "startTime": 235603,
+        "endTime": 236050,
+        "pinyin": "wa"
+      },
+      {
+        "token": "コップ",
+        "startTime": 236050,
+        "endTime": 236498,
+        "pinyin": "koppu"
+      },
+      {
+        "token": "1",
+        "startTime": 236498,
+        "endTime": 236945,
+        "pinyin": "1"
+      },
+      {
+        "token": "杯",
+        "startTime": 236945,
+        "endTime": 237393,
+        "pinyin": "hai"
+      },
+      {
+        "token": "の",
+        "startTime": 237393,
+        "endTime": 237840,
+        "pinyin": "no"
+      }
+    ]
+  },
+  {
+    "sentence_text": "水 を 必ず 飲み ます と って",
+    "translations": {
+      "en": "water is essential."
+    },
+    "segments": [
+      {
+        "token": "水",
+        "startTime": 237840,
+        "endTime": 238354,
+        "pinyin": "mizu"
+      },
+      {
+        "token": "を",
+        "startTime": 238354,
+        "endTime": 238869,
+        "pinyin": "wo"
+      },
+      {
+        "token": "必ず",
+        "startTime": 238869,
+        "endTime": 239383,
+        "pinyin": "kanarazu"
+      },
+      {
+        "token": "飲み",
+        "startTime": 239383,
+        "endTime": 239897,
+        "pinyin": "nomi"
+      },
+      {
+        "token": "ます",
+        "startTime": 239897,
+        "endTime": 240411,
+        "pinyin": "masu"
+      },
+      {
+        "token": "と",
+        "startTime": 240411,
+        "endTime": 240926,
+        "pinyin": "to"
+      },
+      {
+        "token": "って",
+        "startTime": 240926,
+        "endTime": 241440,
+        "pinyin": "tte"
+      }
+    ]
+  },
+  {
+    "sentence_text": "も 大事",
+    "translations": {
+      "en": "It's also important."
+    },
+    "segments": [
+      {
+        "token": "も",
+        "startTime": 241440,
+        "endTime": 242060,
+        "pinyin": "mo"
+      },
+      {
+        "token": "大事",
+        "startTime": 242060,
+        "endTime": 243380,
+        "pinyin": "daiji"
+      }
+    ]
+  },
+  {
+    "sentence_text": "はい 、 朝ごはん を 食べ たら 次 に 何",
+    "translations": {
+      "en": "Yes, after breakfast, what do you"
+    },
+    "segments": [
+      {
+        "token": "はい",
+        "startTime": 243380,
+        "endTime": 243820,
+        "pinyin": "hai"
+      },
+      {
+        "token": "、",
+        "startTime": 243820,
+        "endTime": 244260,
+        "pinyin": ","
+      },
+      {
+        "token": "朝ごはん",
+        "startTime": 244260,
+        "endTime": 244700,
+        "pinyin": "asagohan"
+      },
+      {
+        "token": "を",
+        "startTime": 244700,
+        "endTime": 245140,
+        "pinyin": "wo"
+      },
+      {
+        "token": "食べ",
+        "startTime": 245140,
+        "endTime": 245580,
+        "pinyin": "tabe"
+      },
+      {
+        "token": "たら",
+        "startTime": 245580,
+        "endTime": 246020,
+        "pinyin": "tara"
+      },
+      {
+        "token": "次",
+        "startTime": 246020,
+        "endTime": 246460,
+        "pinyin": "ji"
+      },
+      {
+        "token": "に",
+        "startTime": 246460,
+        "endTime": 246900,
+        "pinyin": "ni"
+      },
+      {
+        "token": "何",
+        "startTime": 246900,
+        "endTime": 247340,
+        "pinyin": "nan"
+      }
+    ]
+  },
+  {
+    "sentence_text": "を し ます か",
+    "translations": {
+      "en": "do next?"
+    },
+    "segments": [
+      {
+        "token": "を",
+        "startTime": 247340,
+        "endTime": 247965,
+        "pinyin": "wo"
+      },
+      {
+        "token": "し",
+        "startTime": 247965,
+        "endTime": 248590,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 248590,
+        "endTime": 249215,
+        "pinyin": "masu"
+      },
+      {
+        "token": "か",
+        "startTime": 249215,
+        "endTime": 249840,
+        "pinyin": "ka"
+      }
+    ]
+  },
+  {
+    "sentence_text": "? 歯磨き し ます",
+    "translations": {
+      "en": "Brush your teeth."
+    },
+    "segments": [
+      {
+        "token": "?",
+        "startTime": 249840,
+        "endTime": 250735,
+        "pinyin": "?"
+      },
+      {
+        "token": "歯磨き",
+        "startTime": 250735,
+        "endTime": 251630,
+        "pinyin": "hamigaki"
+      },
+      {
+        "token": "し",
+        "startTime": 251630,
+        "endTime": 252525,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 252525,
+        "endTime": 253420,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "歯 ブラシ に 歯磨き 粉 を",
+    "translations": {
+      "en": "Put toothpaste on the"
+    },
+    "segments": [
+      {
+        "token": "歯",
+        "startTime": 253420,
+        "endTime": 253620,
+        "pinyin": "ha"
+      },
+      {
+        "token": "ブラシ",
+        "startTime": 253620,
+        "endTime": 254000,
+        "pinyin": "burashi"
+      },
+      {
+        "token": "に",
+        "startTime": 254000,
+        "endTime": 254260,
+        "pinyin": "ni"
+      },
+      {
+        "token": "歯磨き",
+        "startTime": 254260,
+        "endTime": 255740,
+        "pinyin": "hamigaki"
+      },
+      {
+        "token": "粉",
+        "startTime": 255740,
+        "endTime": 255860,
+        "pinyin": "ko"
+      },
+      {
+        "token": "を",
+        "startTime": 255860,
+        "endTime": 258220,
+        "pinyin": "wo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "つけ ます",
+    "translations": {
+      "en": "toothbrush."
+    },
+    "segments": [
+      {
+        "token": "つけ",
+        "startTime": 258220,
+        "endTime": 259180,
+        "pinyin": "tsuke"
+      },
+      {
+        "token": "ます",
+        "startTime": 259180,
+        "endTime": 260140,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "歯 ブラシ に 歯磨き 粉 を つける",
+    "translations": {
+      "en": "Put toothpaste on the toothbrush."
+    },
+    "segments": [
+      {
+        "token": "歯",
+        "startTime": 260140,
+        "endTime": 260380,
+        "pinyin": "ha"
+      },
+      {
+        "token": "ブラシ",
+        "startTime": 260380,
+        "endTime": 260780,
+        "pinyin": "burashi"
+      },
+      {
+        "token": "に",
+        "startTime": 260780,
+        "endTime": 260980,
+        "pinyin": "ni"
+      },
+      {
+        "token": "歯磨き",
+        "startTime": 260980,
+        "endTime": 261800,
+        "pinyin": "hamigaki"
+      },
+      {
+        "token": "粉",
+        "startTime": 261800,
+        "endTime": 261940,
+        "pinyin": "ko"
+      },
+      {
+        "token": "を",
+        "startTime": 261940,
+        "endTime": 262140,
+        "pinyin": "wo"
+      },
+      {
+        "token": "つける",
+        "startTime": 262140,
+        "endTime": 263980,
+        "pinyin": "tsukeru"
+      }
+    ]
+  },
+  {
+    "sentence_text": "そして 歯 を 磨き ます",
+    "translations": {
+      "en": "Then brush your teeth."
+    },
+    "segments": [
+      {
+        "token": "そして",
+        "startTime": 263980,
+        "endTime": 264572,
+        "pinyin": "soshite"
+      },
+      {
+        "token": "歯",
+        "startTime": 264572,
+        "endTime": 265164,
+        "pinyin": "ha"
+      },
+      {
+        "token": "を",
+        "startTime": 265164,
+        "endTime": 265756,
+        "pinyin": "wo"
+      },
+      {
+        "token": "磨き",
+        "startTime": 265756,
+        "endTime": 266348,
+        "pinyin": "migaki"
+      },
+      {
+        "token": "ます",
+        "startTime": 266348,
+        "endTime": 266940,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "歯磨き が 終わっ たら 、 歯磨き",
+    "translations": {
+      "en": "After brushing, next is"
+    },
+    "segments": [
+      {
+        "token": "歯磨き",
+        "startTime": 266940,
+        "endTime": 267480,
+        "pinyin": "hamigaki"
+      },
+      {
+        "token": "が",
+        "startTime": 267480,
+        "endTime": 267660,
+        "pinyin": "ga"
+      },
+      {
+        "token": "終わっ",
+        "startTime": 267660,
+        "endTime": 269060,
+        "pinyin": "owa"
+      },
+      {
+        "token": "たら",
+        "startTime": 269060,
+        "endTime": 269320,
+        "pinyin": "tara"
+      },
+      {
+        "token": "、",
+        "startTime": 269320,
+        "endTime": 269980,
+        "pinyin": ","
+      },
+      {
+        "token": "歯磨き",
+        "startTime": 269980,
+        "endTime": 270500,
+        "pinyin": "hamigaki"
+      }
+    ]
+  },
+  {
+    "sentence_text": "の 次 に 顔 。",
+    "translations": {
+      "en": "the face."
+    },
+    "segments": [
+      {
+        "token": "の",
+        "startTime": 270500,
+        "endTime": 271060,
+        "pinyin": "no"
+      },
+      {
+        "token": "次",
+        "startTime": 271060,
+        "endTime": 271460,
+        "pinyin": "ji"
+      },
+      {
+        "token": "に",
+        "startTime": 271460,
+        "endTime": 273320,
+        "pinyin": "ni"
+      },
+      {
+        "token": "顔",
+        "startTime": 273320,
+        "endTime": 273740,
+        "pinyin": "kao"
+      },
+      {
+        "token": "。",
+        "startTime": 273740,
+        "endTime": 274040,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "顔 い ます 。",
+    "translations": {
+      "en": "Wash your face."
+    },
+    "segments": [
+      {
+        "token": "顔",
+        "startTime": 274040,
+        "endTime": 275085,
+        "pinyin": "kao"
+      },
+      {
+        "token": "い",
+        "startTime": 275085,
+        "endTime": 276130,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 276130,
+        "endTime": 277175,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 277175,
+        "endTime": 278220,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "石鹸 を 使っ て 顔",
+    "translations": {
+      "en": "Use soap to wash your"
+    },
+    "segments": [
+      {
+        "token": "石鹸",
+        "startTime": 278220,
+        "endTime": 278900,
+        "pinyin": "sekken"
+      },
+      {
+        "token": "を",
+        "startTime": 278900,
+        "endTime": 279420,
+        "pinyin": "wo"
+      },
+      {
+        "token": "使っ",
+        "startTime": 279420,
+        "endTime": 280660,
+        "pinyin": "tsuka"
+      },
+      {
+        "token": "て",
+        "startTime": 280660,
+        "endTime": 281480,
+        "pinyin": "te"
+      },
+      {
+        "token": "顔",
+        "startTime": 281480,
+        "endTime": 281900,
+        "pinyin": "kao"
+      }
+    ]
+  },
+  {
+    "sentence_text": "を い ます 。",
+    "translations": {
+      "en": "face."
+    },
+    "segments": [
+      {
+        "token": "を",
+        "startTime": 281900,
+        "endTime": 283250,
+        "pinyin": "wo"
+      },
+      {
+        "token": "い",
+        "startTime": 283250,
+        "endTime": 284600,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 284600,
+        "endTime": 285950,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 285950,
+        "endTime": 287300,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "顔 を 洗っ たら タオル 。",
+    "translations": {
+      "en": "After washing your face, use a towel."
+    },
+    "segments": [
+      {
+        "token": "顔",
+        "startTime": 287300,
+        "endTime": 287660,
+        "pinyin": "kao"
+      },
+      {
+        "token": "を",
+        "startTime": 287660,
+        "endTime": 287860,
+        "pinyin": "wo"
+      },
+      {
+        "token": "洗っ",
+        "startTime": 287860,
+        "endTime": 288920,
+        "pinyin": "ara"
+      },
+      {
+        "token": "たら",
+        "startTime": 288920,
+        "endTime": 290020,
+        "pinyin": "tara"
+      },
+      {
+        "token": "タオル",
+        "startTime": 290020,
+        "endTime": 290720,
+        "pinyin": "ta Oru"
+      },
+      {
+        "token": "。",
+        "startTime": 290720,
+        "endTime": 291300,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "タ オル で 顔 を き ます 。",
+    "translations": {
+      "en": "Dry your face with the towel."
+    },
+    "segments": [
+      {
+        "token": "タ",
+        "startTime": 291300,
+        "endTime": 291695,
+        "pinyin": "ta"
+      },
+      {
+        "token": "オル",
+        "startTime": 291695,
+        "endTime": 292090,
+        "pinyin": "Oru"
+      },
+      {
+        "token": "で",
+        "startTime": 292090,
+        "endTime": 292485,
+        "pinyin": "de"
+      },
+      {
+        "token": "顔",
+        "startTime": 292485,
+        "endTime": 292880,
+        "pinyin": "kao"
+      },
+      {
+        "token": "を",
+        "startTime": 292880,
+        "endTime": 293275,
+        "pinyin": "wo"
+      },
+      {
+        "token": "き",
+        "startTime": 293275,
+        "endTime": 293670,
+        "pinyin": "ki"
+      },
+      {
+        "token": "ます",
+        "startTime": 293670,
+        "endTime": 294065,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 294065,
+        "endTime": 294460,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "顔 を 洗っ たら 顔 に 水",
+    "translations": {
+      "en": "After washing your face, there's a lot"
+    },
+    "segments": [
+      {
+        "token": "顔",
+        "startTime": 294460,
+        "endTime": 294740,
+        "pinyin": "kao"
+      },
+      {
+        "token": "を",
+        "startTime": 294740,
+        "endTime": 294880,
+        "pinyin": "wo"
+      },
+      {
+        "token": "洗っ",
+        "startTime": 294880,
+        "endTime": 295660,
+        "pinyin": "ara"
+      },
+      {
+        "token": "たら",
+        "startTime": 295660,
+        "endTime": 296720,
+        "pinyin": "tara"
+      },
+      {
+        "token": "顔",
+        "startTime": 296720,
+        "endTime": 296900,
+        "pinyin": "kao"
+      },
+      {
+        "token": "に",
+        "startTime": 296900,
+        "endTime": 297780,
+        "pinyin": "ni"
+      },
+      {
+        "token": "水",
+        "startTime": 297780,
+        "endTime": 298420,
+        "pinyin": "mizu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "がたく さん つい い ます 。",
+    "translations": {
+      "en": "of water on your face."
+    },
+    "segments": [
+      {
+        "token": "がたく",
+        "startTime": 298420,
+        "endTime": 298970,
+        "pinyin": "gataku"
+      },
+      {
+        "token": "さん",
+        "startTime": 298970,
+        "endTime": 299520,
+        "pinyin": "san"
+      },
+      {
+        "token": "つい",
+        "startTime": 299520,
+        "endTime": 300070,
+        "pinyin": "tsui"
+      },
+      {
+        "token": "い",
+        "startTime": 300070,
+        "endTime": 300620,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 300620,
+        "endTime": 301170,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 301170,
+        "endTime": 301720,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "だ から タオル で 顔 を",
+    "translations": {
+      "en": "So I wipe my face"
+    },
+    "segments": [
+      {
+        "token": "だ",
+        "startTime": 301720,
+        "endTime": 302357,
+        "pinyin": "da"
+      },
+      {
+        "token": "から",
+        "startTime": 302357,
+        "endTime": 302993,
+        "pinyin": "kara"
+      },
+      {
+        "token": "タオル",
+        "startTime": 302993,
+        "endTime": 303630,
+        "pinyin": "ta Oru"
+      },
+      {
+        "token": "で",
+        "startTime": 303630,
+        "endTime": 304267,
+        "pinyin": "de"
+      },
+      {
+        "token": "顔",
+        "startTime": 304267,
+        "endTime": 304903,
+        "pinyin": "kao"
+      },
+      {
+        "token": "を",
+        "startTime": 304903,
+        "endTime": 305540,
+        "pinyin": "wo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "拭き ます 。",
+    "translations": {
+      "en": "with a towel."
+    },
+    "segments": [
+      {
+        "token": "拭き",
+        "startTime": 305540,
+        "endTime": 306767,
+        "pinyin": "fuki"
+      },
+      {
+        "token": "ます",
+        "startTime": 306767,
+        "endTime": 307993,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 307993,
+        "endTime": 309220,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "そして 最後 に 服 を",
+    "translations": {
+      "en": "And finally, I change"
+    },
+    "segments": [
+      {
+        "token": "そして",
+        "startTime": 309220,
+        "endTime": 309480,
+        "pinyin": "soshite"
+      },
+      {
+        "token": "最後",
+        "startTime": 309480,
+        "endTime": 310460,
+        "pinyin": "saigo"
+      },
+      {
+        "token": "に",
+        "startTime": 310460,
+        "endTime": 310800,
+        "pinyin": "ni"
+      },
+      {
+        "token": "服",
+        "startTime": 310800,
+        "endTime": 311640,
+        "pinyin": "fuku"
+      },
+      {
+        "token": "を",
+        "startTime": 311640,
+        "endTime": 312980,
+        "pinyin": "wo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "着替え ます 。",
+    "translations": {
+      "en": "my clothes."
+    },
+    "segments": [
+      {
+        "token": "着替え",
+        "startTime": 312980,
+        "endTime": 314680,
+        "pinyin": "kigae"
+      },
+      {
+        "token": "ます",
+        "startTime": 314680,
+        "endTime": 316380,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 316380,
+        "endTime": 318080,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "寝る とき は パジャマ を",
+    "translations": {
+      "en": "When I sleep, I wear"
+    },
+    "segments": [
+      {
+        "token": "寝る",
+        "startTime": 318080,
+        "endTime": 318540,
+        "pinyin": "neru"
+      },
+      {
+        "token": "とき",
+        "startTime": 318540,
+        "endTime": 318740,
+        "pinyin": "toki"
+      },
+      {
+        "token": "は",
+        "startTime": 318740,
+        "endTime": 320660,
+        "pinyin": "wa"
+      },
+      {
+        "token": "パジャマ",
+        "startTime": 320660,
+        "endTime": 321440,
+        "pinyin": "pajama"
+      },
+      {
+        "token": "を",
+        "startTime": 321440,
+        "endTime": 321980,
+        "pinyin": "wo"
+      }
+    ]
+  },
+  {
+    "sentence_text": "着 て い ます 。",
+    "translations": {
+      "en": "pajamas."
+    },
+    "segments": [
+      {
+        "token": "着",
+        "startTime": 321980,
+        "endTime": 322780,
+        "pinyin": "ki"
+      },
+      {
+        "token": "て",
+        "startTime": 322780,
+        "endTime": 323580,
+        "pinyin": "te"
+      },
+      {
+        "token": "い",
+        "startTime": 323580,
+        "endTime": 324380,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 324380,
+        "endTime": 325180,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 325180,
+        "endTime": 325980,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "で も 学校 と か 仕事",
+    "translations": {
+      "en": "But for school or work"
+    },
+    "segments": [
+      {
+        "token": "で",
+        "startTime": 325980,
+        "endTime": 326220,
+        "pinyin": "de"
+      },
+      {
+        "token": "も",
+        "startTime": 326220,
+        "endTime": 327280,
+        "pinyin": "mo"
+      },
+      {
+        "token": "学校",
+        "startTime": 327280,
+        "endTime": 327880,
+        "pinyin": "gakkou"
+      },
+      {
+        "token": "と",
+        "startTime": 327880,
+        "endTime": 328660,
+        "pinyin": "to"
+      },
+      {
+        "token": "か",
+        "startTime": 328660,
+        "endTime": 328920,
+        "pinyin": "ka"
+      },
+      {
+        "token": "仕事",
+        "startTime": 328920,
+        "endTime": 330120,
+        "pinyin": "shigoto"
+      }
+    ]
+  },
+  {
+    "sentence_text": "で パジャマ は ダメ です パジャマ",
+    "translations": {
+      "en": "pajamas are no good. Pajamas"
+    },
+    "segments": [
+      {
+        "token": "で",
+        "startTime": 330120,
+        "endTime": 330240,
+        "pinyin": "de"
+      },
+      {
+        "token": "パジャマ",
+        "startTime": 330240,
+        "endTime": 331640,
+        "pinyin": "pajama"
+      },
+      {
+        "token": "は",
+        "startTime": 331640,
+        "endTime": 332520,
+        "pinyin": "wa"
+      },
+      {
+        "token": "ダメ",
+        "startTime": 332520,
+        "endTime": 332820,
+        "pinyin": "dame"
+      },
+      {
+        "token": "です",
+        "startTime": 332820,
+        "endTime": 333160,
+        "pinyin": "desu"
+      },
+      {
+        "token": "パジャマ",
+        "startTime": 333160,
+        "endTime": 334640,
+        "pinyin": "pajama"
+      }
+    ]
+  },
+  {
+    "sentence_text": "で 学校 に 行っ たり",
+    "translations": {
+      "en": "to go to school"
+    },
+    "segments": [
+      {
+        "token": "で",
+        "startTime": 334640,
+        "endTime": 334880,
+        "pinyin": "de"
+      },
+      {
+        "token": "学校",
+        "startTime": 334880,
+        "endTime": 335560,
+        "pinyin": "gakkou"
+      },
+      {
+        "token": "に",
+        "startTime": 335560,
+        "endTime": 335780,
+        "pinyin": "ni"
+      },
+      {
+        "token": "行っ",
+        "startTime": 335780,
+        "endTime": 337840,
+        "pinyin": "i"
+      },
+      {
+        "token": "たり",
+        "startTime": 337840,
+        "endTime": 339000,
+        "pinyin": "tari"
+      }
+    ]
+  },
+  {
+    "sentence_text": "だ から 服 を 着替え ます",
+    "translations": {
+      "en": "So I change clothes."
+    },
+    "segments": [
+      {
+        "token": "だ",
+        "startTime": 339000,
+        "endTime": 339810,
+        "pinyin": "da"
+      },
+      {
+        "token": "から",
+        "startTime": 339810,
+        "endTime": 340620,
+        "pinyin": "kara"
+      },
+      {
+        "token": "服",
+        "startTime": 340620,
+        "endTime": 341430,
+        "pinyin": "fuku"
+      },
+      {
+        "token": "を",
+        "startTime": 341430,
+        "endTime": 342240,
+        "pinyin": "wo"
+      },
+      {
+        "token": "着替え",
+        "startTime": 342240,
+        "endTime": 343050,
+        "pinyin": "kigae"
+      },
+      {
+        "token": "ます",
+        "startTime": 343050,
+        "endTime": 343860,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "はい これ が 僕 の モーニング ルーティーン です",
+    "translations": {
+      "en": "Yes, this is my morning routine."
+    },
+    "segments": [
+      {
+        "token": "はい",
+        "startTime": 343860,
+        "endTime": 344060,
+        "pinyin": "hai"
+      },
+      {
+        "token": "これ",
+        "startTime": 344060,
+        "endTime": 344660,
+        "pinyin": "kore"
+      },
+      {
+        "token": "が",
+        "startTime": 344660,
+        "endTime": 344820,
+        "pinyin": "ga"
+      },
+      {
+        "token": "僕",
+        "startTime": 344820,
+        "endTime": 345200,
+        "pinyin": "boku"
+      },
+      {
+        "token": "の",
+        "startTime": 345200,
+        "endTime": 345420,
+        "pinyin": "no"
+      },
+      {
+        "token": "モーニング",
+        "startTime": 345420,
+        "endTime": 346140,
+        "pinyin": "mooningu"
+      },
+      {
+        "token": "ルーティーン",
+        "startTime": 346140,
+        "endTime": 346960,
+        "pinyin": "ruutiin"
+      },
+      {
+        "token": "です",
+        "startTime": 346960,
+        "endTime": 348400,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "朝 起き て カーテン を 開け て",
+    "translations": {
+      "en": "I wake up, open the curtains,"
+    },
+    "segments": [
+      {
+        "token": "朝",
+        "startTime": 348400,
+        "endTime": 348680,
+        "pinyin": "asa"
+      },
+      {
+        "token": "起き",
+        "startTime": 348680,
+        "endTime": 349020,
+        "pinyin": "oki"
+      },
+      {
+        "token": "て",
+        "startTime": 349020,
+        "endTime": 349280,
+        "pinyin": "te"
+      },
+      {
+        "token": "カーテン",
+        "startTime": 349280,
+        "endTime": 350740,
+        "pinyin": "kaaten"
+      },
+      {
+        "token": "を",
+        "startTime": 350740,
+        "endTime": 350960,
+        "pinyin": "wo"
+      },
+      {
+        "token": "開け",
+        "startTime": 350960,
+        "endTime": 351640,
+        "pinyin": "ake"
+      },
+      {
+        "token": "て",
+        "startTime": 351640,
+        "endTime": 353360,
+        "pinyin": "te"
+      }
+    ]
+  },
+  {
+    "sentence_text": "ご飯 と 味噌 汁 朝ごはん を 食べ",
+    "translations": {
+      "en": "eat rice and miso soup for breakfast,"
+    },
+    "segments": [
+      {
+        "token": "ご飯",
+        "startTime": 353360,
+        "endTime": 353700,
+        "pinyin": "gohan"
+      },
+      {
+        "token": "と",
+        "startTime": 353700,
+        "endTime": 353820,
+        "pinyin": "to"
+      },
+      {
+        "token": "味噌",
+        "startTime": 353820,
+        "endTime": 354600,
+        "pinyin": "miso"
+      },
+      {
+        "token": "汁",
+        "startTime": 354600,
+        "endTime": 354820,
+        "pinyin": "shiru"
+      },
+      {
+        "token": "朝ごはん",
+        "startTime": 354820,
+        "endTime": 355940,
+        "pinyin": "asagohan"
+      },
+      {
+        "token": "を",
+        "startTime": 355940,
+        "endTime": 356640,
+        "pinyin": "wo"
+      },
+      {
+        "token": "食べ",
+        "startTime": 356640,
+        "endTime": 358100,
+        "pinyin": "tabe"
+      }
+    ]
+  },
+  {
+    "sentence_text": "て 、 歯 い て 、",
+    "translations": {
+      "en": "brush my teeth,"
+    },
+    "segments": [
+      {
+        "token": "て",
+        "startTime": 358100,
+        "endTime": 358240,
+        "pinyin": "te"
+      },
+      {
+        "token": "、",
+        "startTime": 358240,
+        "endTime": 358440,
+        "pinyin": ","
+      },
+      {
+        "token": "歯",
+        "startTime": 358440,
+        "endTime": 358740,
+        "pinyin": "ha"
+      },
+      {
+        "token": "い",
+        "startTime": 358740,
+        "endTime": 358980,
+        "pinyin": "i"
+      },
+      {
+        "token": "て",
+        "startTime": 358980,
+        "endTime": 359220,
+        "pinyin": "te"
+      },
+      {
+        "token": "、",
+        "startTime": 359220,
+        "endTime": 359460,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "顔 を 洗っ て 、",
+    "translations": {
+      "en": "wash my face,"
+    },
+    "segments": [
+      {
+        "token": "顔",
+        "startTime": 359460,
+        "endTime": 360172,
+        "pinyin": "kao"
+      },
+      {
+        "token": "を",
+        "startTime": 360172,
+        "endTime": 360884,
+        "pinyin": "wo"
+      },
+      {
+        "token": "洗っ",
+        "startTime": 360884,
+        "endTime": 361596,
+        "pinyin": "ara"
+      },
+      {
+        "token": "て",
+        "startTime": 361596,
+        "endTime": 362308,
+        "pinyin": "te"
+      },
+      {
+        "token": "、",
+        "startTime": 362308,
+        "endTime": 363020,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "服 を 着替える",
+    "translations": {
+      "en": "change clothes."
+    },
+    "segments": [
+      {
+        "token": "服",
+        "startTime": 363020,
+        "endTime": 363660,
+        "pinyin": "fuku"
+      },
+      {
+        "token": "を",
+        "startTime": 363660,
+        "endTime": 363900,
+        "pinyin": "wo"
+      },
+      {
+        "token": "着替える",
+        "startTime": 363900,
+        "endTime": 366360,
+        "pinyin": "kigaeru"
+      }
+    ]
+  },
+  {
+    "sentence_text": "モーニング ルーティーン が 終わっ たら",
+    "translations": {
+      "en": "After my morning routine ends,"
+    },
+    "segments": [
+      {
+        "token": "モーニング",
+        "startTime": 366360,
+        "endTime": 366960,
+        "pinyin": "mooningu"
+      },
+      {
+        "token": "ルーティーン",
+        "startTime": 366960,
+        "endTime": 367620,
+        "pinyin": "ruutiin"
+      },
+      {
+        "token": "が",
+        "startTime": 367620,
+        "endTime": 367820,
+        "pinyin": "ga"
+      },
+      {
+        "token": "終わっ",
+        "startTime": 367820,
+        "endTime": 369060,
+        "pinyin": "owa"
+      },
+      {
+        "token": "たら",
+        "startTime": 369060,
+        "endTime": 369880,
+        "pinyin": "tara"
+      }
+    ]
+  },
+  {
+    "sentence_text": "モーニング ルーティーン の 後 は 遊ん だり",
+    "translations": {
+      "en": "after my morning routine, I play,"
+    },
+    "segments": [
+      {
+        "token": "モーニング",
+        "startTime": 369880,
+        "endTime": 370480,
+        "pinyin": "mooningu"
+      },
+      {
+        "token": "ルーティーン",
+        "startTime": 370480,
+        "endTime": 371020,
+        "pinyin": "ruutiin"
+      },
+      {
+        "token": "の",
+        "startTime": 371020,
+        "endTime": 371580,
+        "pinyin": "no"
+      },
+      {
+        "token": "後",
+        "startTime": 371580,
+        "endTime": 372020,
+        "pinyin": "ato"
+      },
+      {
+        "token": "は",
+        "startTime": 372020,
+        "endTime": 372740,
+        "pinyin": "wa"
+      },
+      {
+        "token": "遊ん",
+        "startTime": 372740,
+        "endTime": 373080,
+        "pinyin": "ason"
+      },
+      {
+        "token": "だり",
+        "startTime": 373080,
+        "endTime": 374260,
+        "pinyin": "dari"
+      }
+    ]
+  },
+  {
+    "sentence_text": "、 本 を 読ん だり 、",
+    "translations": {
+      "en": "read books,"
+    },
+    "segments": [
+      {
+        "token": "、",
+        "startTime": 374260,
+        "endTime": 374460,
+        "pinyin": ","
+      },
+      {
+        "token": "本",
+        "startTime": 374460,
+        "endTime": 374700,
+        "pinyin": "hon"
+      },
+      {
+        "token": "を",
+        "startTime": 374700,
+        "endTime": 374800,
+        "pinyin": "wo"
+      },
+      {
+        "token": "読ん",
+        "startTime": 374800,
+        "endTime": 375040,
+        "pinyin": "yon"
+      },
+      {
+        "token": "だり",
+        "startTime": 375040,
+        "endTime": 375760,
+        "pinyin": "dari"
+      },
+      {
+        "token": "、",
+        "startTime": 375760,
+        "endTime": 376000,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "仕事 を し たり 、",
+    "translations": {
+      "en": "or work."
+    },
+    "segments": [
+      {
+        "token": "仕事",
+        "startTime": 376000,
+        "endTime": 376340,
+        "pinyin": "shigoto"
+      },
+      {
+        "token": "を",
+        "startTime": 376340,
+        "endTime": 376480,
+        "pinyin": "wo"
+      },
+      {
+        "token": "し",
+        "startTime": 376480,
+        "endTime": 377380,
+        "pinyin": "shi"
+      },
+      {
+        "token": "たり",
+        "startTime": 377380,
+        "endTime": 377500,
+        "pinyin": "tari"
+      },
+      {
+        "token": "、",
+        "startTime": 377500,
+        "endTime": 377600,
+        "pinyin": ","
+      }
+    ]
+  },
+  {
+    "sentence_text": "いろんな し ます 皆 さん は 朝起き",
+    "translations": {
+      "en": "Everyone, what do you do when you wake up in the morning?"
+    },
+    "segments": [
+      {
+        "token": "いろんな",
+        "startTime": 377600,
+        "endTime": 378143,
+        "pinyin": "ironna"
+      },
+      {
+        "token": "し",
+        "startTime": 378143,
+        "endTime": 378686,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 378686,
+        "endTime": 379229,
+        "pinyin": "masu"
+      },
+      {
+        "token": "皆",
+        "startTime": 379229,
+        "endTime": 379771,
+        "pinyin": "mina"
+      },
+      {
+        "token": "さん",
+        "startTime": 379771,
+        "endTime": 380314,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 380314,
+        "endTime": 380857,
+        "pinyin": "wa"
+      },
+      {
+        "token": "朝起き",
+        "startTime": 380857,
+        "endTime": 381400,
+        "pinyin": "asaoki"
+      }
+    ]
+  },
+  {
+    "sentence_text": "て 何 を し ます か 皆 さん は 朝",
+    "translations": {
+      "en": "What do you do in the morning"
+    },
+    "segments": [
+      {
+        "token": "て",
+        "startTime": 381400,
+        "endTime": 381796,
+        "pinyin": "te"
+      },
+      {
+        "token": "何",
+        "startTime": 381796,
+        "endTime": 382192,
+        "pinyin": "nan"
+      },
+      {
+        "token": "を",
+        "startTime": 382192,
+        "endTime": 382588,
+        "pinyin": "wo"
+      },
+      {
+        "token": "し",
+        "startTime": 382588,
+        "endTime": 382984,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 382984,
+        "endTime": 383380,
+        "pinyin": "masu"
+      },
+      {
+        "token": "か",
+        "startTime": 383380,
+        "endTime": 383776,
+        "pinyin": "ka"
+      },
+      {
+        "token": "皆",
+        "startTime": 383776,
+        "endTime": 384172,
+        "pinyin": "mina"
+      },
+      {
+        "token": "さん",
+        "startTime": 384172,
+        "endTime": 384568,
+        "pinyin": "san"
+      },
+      {
+        "token": "は",
+        "startTime": 384568,
+        "endTime": 384964,
+        "pinyin": "wa"
+      },
+      {
+        "token": "朝",
+        "startTime": 384964,
+        "endTime": 385360,
+        "pinyin": "asa"
+      }
+    ]
+  },
+  {
+    "sentence_text": "起き て 何 を し ます か",
+    "translations": {
+      "en": "when you wake up?"
+    },
+    "segments": [
+      {
+        "token": "起き",
+        "startTime": 385360,
+        "endTime": 385803,
+        "pinyin": "oki"
+      },
+      {
+        "token": "て",
+        "startTime": 385803,
+        "endTime": 386246,
+        "pinyin": "te"
+      },
+      {
+        "token": "何",
+        "startTime": 386246,
+        "endTime": 386689,
+        "pinyin": "nan"
+      },
+      {
+        "token": "を",
+        "startTime": 386689,
+        "endTime": 387131,
+        "pinyin": "wo"
+      },
+      {
+        "token": "し",
+        "startTime": 387131,
+        "endTime": 387574,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 387574,
+        "endTime": 388017,
+        "pinyin": "masu"
+      },
+      {
+        "token": "か",
+        "startTime": 388017,
+        "endTime": 388460,
+        "pinyin": "ka"
+      }
+    ]
+  },
+  {
+    "sentence_text": "? ぜひ コメント 欄 で 教え ください",
+    "translations": {
+      "en": "Please let us know in the comments!"
+    },
+    "segments": [
+      {
+        "token": "?",
+        "startTime": 388460,
+        "endTime": 388620,
+        "pinyin": "?"
+      },
+      {
+        "token": "ぜひ",
+        "startTime": 388620,
+        "endTime": 389240,
+        "pinyin": "zehi"
+      },
+      {
+        "token": "コメント",
+        "startTime": 389240,
+        "endTime": 389540,
+        "pinyin": "komento"
+      },
+      {
+        "token": "欄",
+        "startTime": 389540,
+        "endTime": 389740,
+        "pinyin": "ran"
+      },
+      {
+        "token": "で",
+        "startTime": 389740,
+        "endTime": 390080,
+        "pinyin": "de"
+      },
+      {
+        "token": "教え",
+        "startTime": 390080,
+        "endTime": 390240,
+        "pinyin": "oshie"
+      },
+      {
+        "token": "ください",
+        "startTime": 390240,
+        "endTime": 392280,
+        "pinyin": "kudasai"
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ が 僕 の モーニング ルーチン でし た",
+    "translations": {
+      "en": "That was my morning routine."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 392280,
+        "endTime": 392667,
+        "pinyin": "kore"
+      },
+      {
+        "token": "が",
+        "startTime": 392667,
+        "endTime": 393055,
+        "pinyin": "ga"
+      },
+      {
+        "token": "僕",
+        "startTime": 393055,
+        "endTime": 393443,
+        "pinyin": "boku"
+      },
+      {
+        "token": "の",
+        "startTime": 393443,
+        "endTime": 393830,
+        "pinyin": "no"
+      },
+      {
+        "token": "モーニング",
+        "startTime": 393830,
+        "endTime": 394218,
+        "pinyin": "mooningu"
+      },
+      {
+        "token": "ルーチン",
+        "startTime": 394218,
+        "endTime": 394605,
+        "pinyin": "ruuchin"
+      },
+      {
+        "token": "でし",
+        "startTime": 394605,
+        "endTime": 394993,
+        "pinyin": "deshi"
+      },
+      {
+        "token": "た",
+        "startTime": 394993,
+        "endTime": 395380,
+        "pinyin": "ta"
+      }
+    ]
+  },
+  {
+    "sentence_text": "バイ バイ",
+    "translations": {
+      "en": "Bye bye"
+    },
+    "segments": [
+      {
+        "token": "バイ",
+        "startTime": 395380,
+        "endTime": 395600,
+        "pinyin": "bai"
+      },
+      {
+        "token": "バイ",
+        "startTime": 395600,
+        "endTime": 395720,
+        "pinyin": "bai"
+      }
+    ]
+  }
+]
