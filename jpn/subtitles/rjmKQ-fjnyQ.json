@@ -1,0 +1,2800 @@
+[
+  {
+    "sentence_text": "こんにちは 日本 語 ラーニング の ゆうた です",
+    "translations": {
+      "en": "Hi, I'm Yuta from Japanese Learning."
+    },
+    "segments": [
+      {
+        "token": "こんにちは",
+        "startTime": 1600,
+        "endTime": 1840,
+        "pinyin": "konnichiha"
+      },
+      {
+        "token": "日本",
+        "startTime": 1840,
+        "endTime": 2080,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 2080,
+        "endTime": 2320,
+        "pinyin": "go"
+      },
+      {
+        "token": "ラーニング",
+        "startTime": 2320,
+        "endTime": 2560,
+        "pinyin": "raaningu"
+      },
+      {
+        "token": "の",
+        "startTime": 2560,
+        "endTime": 2800,
+        "pinyin": "no"
+      },
+      {
+        "token": "ゆうた",
+        "startTime": 2800,
+        "endTime": 3040,
+        "pinyin": "yuuta"
+      },
+      {
+        "token": "です",
+        "startTime": 3040,
+        "endTime": 3280,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "今回 の 動画 で は 講演 皆 さん に 日本 語 を 教え たい と 思い ます",
+    "translations": {
+      "en": "In this video, I want to teach you Japanese."
+    },
+    "segments": [
+      {
+        "token": "今回",
+        "startTime": 3280,
+        "endTime": 3719,
+        "pinyin": "konkai"
+      },
+      {
+        "token": "の",
+        "startTime": 3719,
+        "endTime": 4158,
+        "pinyin": "no"
+      },
+      {
+        "token": "動画",
+        "startTime": 4158,
+        "endTime": 4596,
+        "pinyin": "douga"
+      },
+      {
+        "token": "で",
+        "startTime": 4596,
+        "endTime": 5035,
+        "pinyin": "de"
+      },
+      {
+        "token": "は",
+        "startTime": 5035,
+        "endTime": 5474,
+        "pinyin": "wa"
+      },
+      {
+        "token": "講演",
+        "startTime": 5474,
+        "endTime": 5913,
+        "pinyin": "kouen"
+      },
+      {
+        "token": "皆",
+        "startTime": 5913,
+        "endTime": 6352,
+        "pinyin": "mina"
+      },
+      {
+        "token": "さん",
+        "startTime": 6352,
+        "endTime": 6791,
+        "pinyin": "san"
+      },
+      {
+        "token": "に",
+        "startTime": 6791,
+        "endTime": 7229,
+        "pinyin": "ni"
+      },
+      {
+        "token": "日本",
+        "startTime": 7229,
+        "endTime": 7668,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 7668,
+        "endTime": 8107,
+        "pinyin": "go"
+      },
+      {
+        "token": "を",
+        "startTime": 8107,
+        "endTime": 8546,
+        "pinyin": "wo"
+      },
+      {
+        "token": "教え",
+        "startTime": 8546,
+        "endTime": 8985,
+        "pinyin": "oshie"
+      },
+      {
+        "token": "たい",
+        "startTime": 8985,
+        "endTime": 9424,
+        "pinyin": "tai"
+      },
+      {
+        "token": "と",
+        "startTime": 9424,
+        "endTime": 9862,
+        "pinyin": "to"
+      },
+      {
+        "token": "思い",
+        "startTime": 9862,
+        "endTime": 10301,
+        "pinyin": "omoi"
+      },
+      {
+        "token": "ます",
+        "startTime": 10301,
+        "endTime": 10740,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "それ じゃあ レッツ ゴー は これ は 何 です か",
+    "translations": {
+      "en": "So, let's go. What is this?"
+    },
+    "segments": [
+      {
+        "token": "それ",
+        "startTime": 10740,
+        "endTime": 11870,
+        "pinyin": "sore"
+      },
+      {
+        "token": "じゃあ",
+        "startTime": 11870,
+        "endTime": 13000,
+        "pinyin": "jaa"
+      },
+      {
+        "token": "レッツ",
+        "startTime": 13000,
+        "endTime": 14130,
+        "pinyin": "rettsu"
+      },
+      {
+        "token": "ゴー",
+        "startTime": 14130,
+        "endTime": 15260,
+        "pinyin": "goo"
+      },
+      {
+        "token": "は",
+        "startTime": 15260,
+        "endTime": 16390,
+        "pinyin": "wa"
+      },
+      {
+        "token": "これ",
+        "startTime": 16390,
+        "endTime": 17520,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 17520,
+        "endTime": 18650,
+        "pinyin": "wa"
+      },
+      {
+        "token": "何",
+        "startTime": 18650,
+        "endTime": 19780,
+        "pinyin": "nan"
+      },
+      {
+        "token": "です",
+        "startTime": 19780,
+        "endTime": 20910,
+        "pinyin": "desu"
+      },
+      {
+        "token": "か",
+        "startTime": 20910,
+        "endTime": 22040,
+        "pinyin": "ka"
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ は 何 です か これ は 花 です",
+    "translations": {
+      "en": "What is this? This is a flower."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 22040,
+        "endTime": 23040,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 23040,
+        "endTime": 24040,
+        "pinyin": "wa"
+      },
+      {
+        "token": "何",
+        "startTime": 24040,
+        "endTime": 25040,
+        "pinyin": "nan"
+      },
+      {
+        "token": "です",
+        "startTime": 25040,
+        "endTime": 26040,
+        "pinyin": "desu"
+      },
+      {
+        "token": "か",
+        "startTime": 26040,
+        "endTime": 27040,
+        "pinyin": "ka"
+      },
+      {
+        "token": "これ",
+        "startTime": 27040,
+        "endTime": 28040,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 28040,
+        "endTime": 29040,
+        "pinyin": "wa"
+      },
+      {
+        "token": "花",
+        "startTime": 29040,
+        "endTime": 30040,
+        "pinyin": "hana"
+      },
+      {
+        "token": "です",
+        "startTime": 30040,
+        "endTime": 31040,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ は 黄色 の 花 です 葉っぱ は 緑色 です",
+    "translations": {
+      "en": "This is a yellow flower. The leaves are green."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 31040,
+        "endTime": 32692,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 32692,
+        "endTime": 34344,
+        "pinyin": "wa"
+      },
+      {
+        "token": "黄色",
+        "startTime": 34344,
+        "endTime": 35996,
+        "pinyin": "kiiro"
+      },
+      {
+        "token": "の",
+        "startTime": 35996,
+        "endTime": 37648,
+        "pinyin": "no"
+      },
+      {
+        "token": "花",
+        "startTime": 37648,
+        "endTime": 39300,
+        "pinyin": "hana"
+      },
+      {
+        "token": "です",
+        "startTime": 39300,
+        "endTime": 40952,
+        "pinyin": "desu"
+      },
+      {
+        "token": "葉っぱ",
+        "startTime": 40952,
+        "endTime": 42604,
+        "pinyin": "happa"
+      },
+      {
+        "token": "は",
+        "startTime": 42604,
+        "endTime": 44256,
+        "pinyin": "wa"
+      },
+      {
+        "token": "緑色",
+        "startTime": 44256,
+        "endTime": 45908,
+        "pinyin": "midoriiro"
+      },
+      {
+        "token": "です",
+        "startTime": 45908,
+        "endTime": 47560,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ は タンポポ です タンポポ が たくさん あり ます",
+    "translations": {
+      "en": "This is a dandelion. There are many dandelions."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 47560,
+        "endTime": 49044,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 49044,
+        "endTime": 50529,
+        "pinyin": "wa"
+      },
+      {
+        "token": "タンポポ",
+        "startTime": 50529,
+        "endTime": 52013,
+        "pinyin": "tanpopo"
+      },
+      {
+        "token": "です",
+        "startTime": 52013,
+        "endTime": 53498,
+        "pinyin": "desu"
+      },
+      {
+        "token": "タンポポ",
+        "startTime": 53498,
+        "endTime": 54982,
+        "pinyin": "tanpopo"
+      },
+      {
+        "token": "が",
+        "startTime": 54982,
+        "endTime": 56467,
+        "pinyin": "ga"
+      },
+      {
+        "token": "たくさん",
+        "startTime": 56467,
+        "endTime": 57951,
+        "pinyin": "takusan"
+      },
+      {
+        "token": "あり",
+        "startTime": 57951,
+        "endTime": 59436,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 59436,
+        "endTime": 60920,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "今日 は 天気 が いい です 今日 は 天気 が いい です",
+    "translations": {
+      "en": "The weather is nice today. The weather is nice today."
+    },
+    "segments": [
+      {
+        "token": "今日",
+        "startTime": 60920,
+        "endTime": 61525,
+        "pinyin": "kyou"
+      },
+      {
+        "token": "は",
+        "startTime": 61525,
+        "endTime": 62130,
+        "pinyin": "wa"
+      },
+      {
+        "token": "天気",
+        "startTime": 62130,
+        "endTime": 62735,
+        "pinyin": "tenki"
+      },
+      {
+        "token": "が",
+        "startTime": 62735,
+        "endTime": 63340,
+        "pinyin": "ga"
+      },
+      {
+        "token": "いい",
+        "startTime": 63340,
+        "endTime": 63945,
+        "pinyin": "ii"
+      },
+      {
+        "token": "です",
+        "startTime": 63945,
+        "endTime": 64550,
+        "pinyin": "desu"
+      },
+      {
+        "token": "今日",
+        "startTime": 64550,
+        "endTime": 65155,
+        "pinyin": "kyou"
+      },
+      {
+        "token": "は",
+        "startTime": 65155,
+        "endTime": 65760,
+        "pinyin": "wa"
+      },
+      {
+        "token": "天気",
+        "startTime": 65760,
+        "endTime": 66365,
+        "pinyin": "tenki"
+      },
+      {
+        "token": "が",
+        "startTime": 66365,
+        "endTime": 66970,
+        "pinyin": "ga"
+      },
+      {
+        "token": "いい",
+        "startTime": 66970,
+        "endTime": 67575,
+        "pinyin": "ii"
+      },
+      {
+        "token": "です",
+        "startTime": 67575,
+        "endTime": 68180,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "雲 が あり ます 白い 雲 が あり ます",
+    "translations": {
+      "en": "There are clouds. There are white clouds."
+    },
+    "segments": [
+      {
+        "token": "雲",
+        "startTime": 68180,
+        "endTime": 68842,
+        "pinyin": "kumo"
+      },
+      {
+        "token": "が",
+        "startTime": 68842,
+        "endTime": 69504,
+        "pinyin": "ga"
+      },
+      {
+        "token": "あり",
+        "startTime": 69504,
+        "endTime": 70167,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 70167,
+        "endTime": 70829,
+        "pinyin": "masu"
+      },
+      {
+        "token": "白い",
+        "startTime": 70829,
+        "endTime": 71491,
+        "pinyin": "shiroi"
+      },
+      {
+        "token": "雲",
+        "startTime": 71491,
+        "endTime": 72153,
+        "pinyin": "kumo"
+      },
+      {
+        "token": "が",
+        "startTime": 72153,
+        "endTime": 72816,
+        "pinyin": "ga"
+      },
+      {
+        "token": "あり",
+        "startTime": 72816,
+        "endTime": 73478,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 73478,
+        "endTime": 74140,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "で 今日 は 晴れ です 今日 は 晴れ です",
+    "translations": {
+      "en": "And today it's sunny. Today it's sunny."
+    },
+    "segments": [
+      {
+        "token": "で",
+        "startTime": 74140,
+        "endTime": 74831,
+        "pinyin": "de"
+      },
+      {
+        "token": "今日",
+        "startTime": 74831,
+        "endTime": 75522,
+        "pinyin": "kyou"
+      },
+      {
+        "token": "は",
+        "startTime": 75522,
+        "endTime": 76213,
+        "pinyin": "wa"
+      },
+      {
+        "token": "晴れ",
+        "startTime": 76213,
+        "endTime": 76904,
+        "pinyin": "hare"
+      },
+      {
+        "token": "です",
+        "startTime": 76904,
+        "endTime": 77596,
+        "pinyin": "desu"
+      },
+      {
+        "token": "今日",
+        "startTime": 77596,
+        "endTime": 78287,
+        "pinyin": "kyou"
+      },
+      {
+        "token": "は",
+        "startTime": 78287,
+        "endTime": 78978,
+        "pinyin": "wa"
+      },
+      {
+        "token": "晴れ",
+        "startTime": 78978,
+        "endTime": 79669,
+        "pinyin": "hare"
+      },
+      {
+        "token": "です",
+        "startTime": 79669,
+        "endTime": 80360,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "天気 が 良く て 暖かい です 今日 は 暖かい です",
+    "translations": {
+      "en": "The weather is good and warm. Today it's warm."
+    },
+    "segments": [
+      {
+        "token": "天気",
+        "startTime": 80360,
+        "endTime": 81452,
+        "pinyin": "tenki"
+      },
+      {
+        "token": "が",
+        "startTime": 81452,
+        "endTime": 82544,
+        "pinyin": "ga"
+      },
+      {
+        "token": "良く",
+        "startTime": 82544,
+        "endTime": 83636,
+        "pinyin": "yoku"
+      },
+      {
+        "token": "て",
+        "startTime": 83636,
+        "endTime": 84728,
+        "pinyin": "te"
+      },
+      {
+        "token": "暖かい",
+        "startTime": 84728,
+        "endTime": 85820,
+        "pinyin": "atatakai"
+      },
+      {
+        "token": "です",
+        "startTime": 85820,
+        "endTime": 86912,
+        "pinyin": "desu"
+      },
+      {
+        "token": "今日",
+        "startTime": 86912,
+        "endTime": 88004,
+        "pinyin": "kyou"
+      },
+      {
+        "token": "は",
+        "startTime": 88004,
+        "endTime": 89096,
+        "pinyin": "wa"
+      },
+      {
+        "token": "暖かい",
+        "startTime": 89096,
+        "endTime": 90188,
+        "pinyin": "atatakai"
+      },
+      {
+        "token": "です",
+        "startTime": 90188,
+        "endTime": 91280,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ は ベンチ です これ は ベンチ です",
+    "translations": {
+      "en": "This is a bench. This is a bench."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 91280,
+        "endTime": 92190,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 92190,
+        "endTime": 93100,
+        "pinyin": "wa"
+      },
+      {
+        "token": "ベンチ",
+        "startTime": 93100,
+        "endTime": 94010,
+        "pinyin": "benchi"
+      },
+      {
+        "token": "です",
+        "startTime": 94010,
+        "endTime": 94920,
+        "pinyin": "desu"
+      },
+      {
+        "token": "これ",
+        "startTime": 94920,
+        "endTime": 95830,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 95830,
+        "endTime": 96740,
+        "pinyin": "wa"
+      },
+      {
+        "token": "ベンチ",
+        "startTime": 96740,
+        "endTime": 97650,
+        "pinyin": "benchi"
+      },
+      {
+        "token": "です",
+        "startTime": 97650,
+        "endTime": 98560,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "ベンチ に 座り ます ベンチ に 座り ます",
+    "translations": {
+      "en": "I sit on the bench. I sit on the bench."
+    },
+    "segments": [
+      {
+        "token": "ベンチ",
+        "startTime": 98560,
+        "endTime": 99635,
+        "pinyin": "benchi"
+      },
+      {
+        "token": "に",
+        "startTime": 99635,
+        "endTime": 100710,
+        "pinyin": "ni"
+      },
+      {
+        "token": "座り",
+        "startTime": 100710,
+        "endTime": 101785,
+        "pinyin": "suwari"
+      },
+      {
+        "token": "ます",
+        "startTime": 101785,
+        "endTime": 102860,
+        "pinyin": "masu"
+      },
+      {
+        "token": "ベンチ",
+        "startTime": 102860,
+        "endTime": 103935,
+        "pinyin": "benchi"
+      },
+      {
+        "token": "に",
+        "startTime": 103935,
+        "endTime": 105010,
+        "pinyin": "ni"
+      },
+      {
+        "token": "座り",
+        "startTime": 105010,
+        "endTime": 106085,
+        "pinyin": "suwari"
+      },
+      {
+        "token": "ます",
+        "startTime": 106085,
+        "endTime": 107160,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "この ベンチ は 茶色 です この ベンチ は 茶色 です 。",
+    "translations": {
+      "en": "This bench is brown. This bench is brown."
+    },
+    "segments": [
+      {
+        "token": "この",
+        "startTime": 107160,
+        "endTime": 108091,
+        "pinyin": "kono"
+      },
+      {
+        "token": "ベンチ",
+        "startTime": 108091,
+        "endTime": 109022,
+        "pinyin": "benchi"
+      },
+      {
+        "token": "は",
+        "startTime": 109022,
+        "endTime": 109953,
+        "pinyin": "wa"
+      },
+      {
+        "token": "茶色",
+        "startTime": 109953,
+        "endTime": 110884,
+        "pinyin": "chairo"
+      },
+      {
+        "token": "です",
+        "startTime": 110884,
+        "endTime": 111815,
+        "pinyin": "desu"
+      },
+      {
+        "token": "この",
+        "startTime": 111815,
+        "endTime": 112745,
+        "pinyin": "kono"
+      },
+      {
+        "token": "ベンチ",
+        "startTime": 112745,
+        "endTime": 113676,
+        "pinyin": "benchi"
+      },
+      {
+        "token": "は",
+        "startTime": 113676,
+        "endTime": 114607,
+        "pinyin": "wa"
+      },
+      {
+        "token": "茶色",
+        "startTime": 114607,
+        "endTime": 115538,
+        "pinyin": "chairo"
+      },
+      {
+        "token": "です",
+        "startTime": 115538,
+        "endTime": 116469,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 116469,
+        "endTime": 117400,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ は 電灯 です 。",
+    "translations": {
+      "en": "This is a streetlight."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 117400,
+        "endTime": 117744,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 117744,
+        "endTime": 118088,
+        "pinyin": "wa"
+      },
+      {
+        "token": "電灯",
+        "startTime": 118088,
+        "endTime": 118432,
+        "pinyin": "dentou"
+      },
+      {
+        "token": "です",
+        "startTime": 118432,
+        "endTime": 118776,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 118776,
+        "endTime": 119120,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ は 電灯 です 。",
+    "translations": {
+      "en": "This is a streetlight."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 119120,
+        "endTime": 119952,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 119952,
+        "endTime": 120784,
+        "pinyin": "wa"
+      },
+      {
+        "token": "電灯",
+        "startTime": 120784,
+        "endTime": 121616,
+        "pinyin": "dentou"
+      },
+      {
+        "token": "です",
+        "startTime": 121616,
+        "endTime": 122448,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 122448,
+        "endTime": 123280,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "電灯 は 暗く なる と 電気 が つき ます 。",
+    "translations": {
+      "en": "The streetlight turns on when it gets dark."
+    },
+    "segments": [
+      {
+        "token": "電灯",
+        "startTime": 123280,
+        "endTime": 124282,
+        "pinyin": "dentou"
+      },
+      {
+        "token": "は",
+        "startTime": 124282,
+        "endTime": 125284,
+        "pinyin": "wa"
+      },
+      {
+        "token": "暗く",
+        "startTime": 125284,
+        "endTime": 126286,
+        "pinyin": "kuraku"
+      },
+      {
+        "token": "なる",
+        "startTime": 126286,
+        "endTime": 127288,
+        "pinyin": "naru"
+      },
+      {
+        "token": "と",
+        "startTime": 127288,
+        "endTime": 128290,
+        "pinyin": "to"
+      },
+      {
+        "token": "電気",
+        "startTime": 128290,
+        "endTime": 129292,
+        "pinyin": "denki"
+      },
+      {
+        "token": "が",
+        "startTime": 129292,
+        "endTime": 130294,
+        "pinyin": "ga"
+      },
+      {
+        "token": "つき",
+        "startTime": 130294,
+        "endTime": 131296,
+        "pinyin": "tsuki"
+      },
+      {
+        "token": "ます",
+        "startTime": 131296,
+        "endTime": 132298,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 132298,
+        "endTime": 133300,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "この 伝統 は とっても 高い です 。",
+    "translations": {
+      "en": "This tradition is very tall."
+    },
+    "segments": [
+      {
+        "token": "この",
+        "startTime": 133300,
+        "endTime": 134597,
+        "pinyin": "kono"
+      },
+      {
+        "token": "伝統",
+        "startTime": 134597,
+        "endTime": 135894,
+        "pinyin": "dentou"
+      },
+      {
+        "token": "は",
+        "startTime": 135894,
+        "endTime": 137191,
+        "pinyin": "wa"
+      },
+      {
+        "token": "とっても",
+        "startTime": 137191,
+        "endTime": 138489,
+        "pinyin": "tottemo"
+      },
+      {
+        "token": "高い",
+        "startTime": 138489,
+        "endTime": 139786,
+        "pinyin": "takai"
+      },
+      {
+        "token": "です",
+        "startTime": 139786,
+        "endTime": 141083,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 141083,
+        "endTime": 142380,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ は 木 です 。",
+    "translations": {
+      "en": "This is a tree."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 142380,
+        "endTime": 143376,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 143376,
+        "endTime": 144372,
+        "pinyin": "wa"
+      },
+      {
+        "token": "木",
+        "startTime": 144372,
+        "endTime": 145368,
+        "pinyin": "ki"
+      },
+      {
+        "token": "です",
+        "startTime": 145368,
+        "endTime": 146364,
+        "pinyin": "desu"
+      },
+      {
+        "token": "。",
+        "startTime": 146364,
+        "endTime": 147360,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "木 に は 葉っぱ あり ます 。",
+    "translations": {
+      "en": "The tree has leaves."
+    },
+    "segments": [
+      {
+        "token": "木",
+        "startTime": 147360,
+        "endTime": 148454,
+        "pinyin": "ki"
+      },
+      {
+        "token": "に",
+        "startTime": 148454,
+        "endTime": 149549,
+        "pinyin": "ni"
+      },
+      {
+        "token": "は",
+        "startTime": 149549,
+        "endTime": 150643,
+        "pinyin": "wa"
+      },
+      {
+        "token": "葉っぱ",
+        "startTime": 150643,
+        "endTime": 151737,
+        "pinyin": "happa"
+      },
+      {
+        "token": "あり",
+        "startTime": 151737,
+        "endTime": 152831,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 152831,
+        "endTime": 153926,
+        "pinyin": "masu"
+      },
+      {
+        "token": "。",
+        "startTime": 153926,
+        "endTime": 155020,
+        "pinyin": "."
+      }
+    ]
+  },
+  {
+    "sentence_text": "この 公園 に は 木 が たくさん あり ます",
+    "translations": {
+      "en": "There are many trees in this park."
+    },
+    "segments": [
+      {
+        "token": "この",
+        "startTime": 155020,
+        "endTime": 155553,
+        "pinyin": "kono"
+      },
+      {
+        "token": "公園",
+        "startTime": 155553,
+        "endTime": 156087,
+        "pinyin": "kouen"
+      },
+      {
+        "token": "に",
+        "startTime": 156087,
+        "endTime": 156620,
+        "pinyin": "ni"
+      },
+      {
+        "token": "は",
+        "startTime": 156620,
+        "endTime": 157153,
+        "pinyin": "wa"
+      },
+      {
+        "token": "木",
+        "startTime": 157153,
+        "endTime": 157687,
+        "pinyin": "ki"
+      },
+      {
+        "token": "が",
+        "startTime": 157687,
+        "endTime": 158220,
+        "pinyin": "ga"
+      },
+      {
+        "token": "たくさん",
+        "startTime": 158220,
+        "endTime": 158753,
+        "pinyin": "takusan"
+      },
+      {
+        "token": "あり",
+        "startTime": 158753,
+        "endTime": 159287,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 159287,
+        "endTime": 159820,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "木 が たくさん あり ます これ は 桜 です",
+    "translations": {
+      "en": "There are many trees. This is a cherry tree."
+    },
+    "segments": [
+      {
+        "token": "木",
+        "startTime": 159820,
+        "endTime": 161078,
+        "pinyin": "ki"
+      },
+      {
+        "token": "が",
+        "startTime": 161078,
+        "endTime": 162336,
+        "pinyin": "ga"
+      },
+      {
+        "token": "たくさん",
+        "startTime": 162336,
+        "endTime": 163593,
+        "pinyin": "takusan"
+      },
+      {
+        "token": "あり",
+        "startTime": 163593,
+        "endTime": 164851,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 164851,
+        "endTime": 166109,
+        "pinyin": "masu"
+      },
+      {
+        "token": "これ",
+        "startTime": 166109,
+        "endTime": 167367,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 167367,
+        "endTime": 168624,
+        "pinyin": "wa"
+      },
+      {
+        "token": "桜",
+        "startTime": 168624,
+        "endTime": 169882,
+        "pinyin": "sakura"
+      },
+      {
+        "token": "です",
+        "startTime": 169882,
+        "endTime": 171140,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "桜 は 春 に 咲き ます この 桜 は 白色 です",
+    "translations": {
+      "en": "Cherry blossoms bloom in spring. These cherry blossoms are white."
+    },
+    "segments": [
+      {
+        "token": "桜",
+        "startTime": 171140,
+        "endTime": 172518,
+        "pinyin": "sakura"
+      },
+      {
+        "token": "は",
+        "startTime": 172518,
+        "endTime": 173896,
+        "pinyin": "wa"
+      },
+      {
+        "token": "春",
+        "startTime": 173896,
+        "endTime": 175275,
+        "pinyin": "haru"
+      },
+      {
+        "token": "に",
+        "startTime": 175275,
+        "endTime": 176653,
+        "pinyin": "ni"
+      },
+      {
+        "token": "咲き",
+        "startTime": 176653,
+        "endTime": 178031,
+        "pinyin": "saki"
+      },
+      {
+        "token": "ます",
+        "startTime": 178031,
+        "endTime": 179409,
+        "pinyin": "masu"
+      },
+      {
+        "token": "この",
+        "startTime": 179409,
+        "endTime": 180787,
+        "pinyin": "kono"
+      },
+      {
+        "token": "桜",
+        "startTime": 180787,
+        "endTime": 182165,
+        "pinyin": "sakura"
+      },
+      {
+        "token": "は",
+        "startTime": 182165,
+        "endTime": 183544,
+        "pinyin": "wa"
+      },
+      {
+        "token": "白色",
+        "startTime": 183544,
+        "endTime": 184922,
+        "pinyin": "hakushoku"
+      },
+      {
+        "token": "です",
+        "startTime": 184922,
+        "endTime": 186300,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "少し 疲れ た の で 日陰 に 寝 ます",
+    "translations": {
+      "en": "I'm a little tired, so I'll lie down in the shade."
+    },
+    "segments": [
+      {
+        "token": "少し",
+        "startTime": 186300,
+        "endTime": 186660,
+        "pinyin": "sukoshi"
+      },
+      {
+        "token": "疲れ",
+        "startTime": 186660,
+        "endTime": 187500,
+        "pinyin": "tsukare"
+      },
+      {
+        "token": "た",
+        "startTime": 187500,
+        "endTime": 187820,
+        "pinyin": "ta"
+      },
+      {
+        "token": "の",
+        "startTime": 187820,
+        "endTime": 189700,
+        "pinyin": "no"
+      },
+      {
+        "token": "で",
+        "startTime": 189700,
+        "endTime": 189780,
+        "pinyin": "de"
+      },
+      {
+        "token": "日陰",
+        "startTime": 189780,
+        "endTime": 190700,
+        "pinyin": "hikage"
+      },
+      {
+        "token": "に",
+        "startTime": 190700,
+        "endTime": 191760,
+        "pinyin": "ni"
+      },
+      {
+        "token": "寝",
+        "startTime": 191760,
+        "endTime": 191900,
+        "pinyin": "ne"
+      },
+      {
+        "token": "ます",
+        "startTime": 191900,
+        "endTime": 192580,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "少し 疲れ た の で 日陰 に 寝 ます お やすみ",
+    "translations": {
+      "en": "I'm a little tired, so I'll lie down in the shade. Good night."
+    },
+    "segments": [
+      {
+        "token": "少し",
+        "startTime": 192580,
+        "endTime": 192820,
+        "pinyin": "sukoshi"
+      },
+      {
+        "token": "疲れ",
+        "startTime": 192820,
+        "endTime": 193080,
+        "pinyin": "tsukare"
+      },
+      {
+        "token": "た",
+        "startTime": 193080,
+        "endTime": 193600,
+        "pinyin": "ta"
+      },
+      {
+        "token": "の",
+        "startTime": 193600,
+        "endTime": 193740,
+        "pinyin": "no"
+      },
+      {
+        "token": "で",
+        "startTime": 193740,
+        "endTime": 193940,
+        "pinyin": "de"
+      },
+      {
+        "token": "日陰",
+        "startTime": 193940,
+        "endTime": 197380,
+        "pinyin": "hikage"
+      },
+      {
+        "token": "に",
+        "startTime": 197380,
+        "endTime": 197540,
+        "pinyin": "ni"
+      },
+      {
+        "token": "寝",
+        "startTime": 197540,
+        "endTime": 197680,
+        "pinyin": "ne"
+      },
+      {
+        "token": "ます",
+        "startTime": 197680,
+        "endTime": 197800,
+        "pinyin": "masu"
+      },
+      {
+        "token": "お",
+        "startTime": 197800,
+        "endTime": 197960,
+        "pinyin": "o"
+      },
+      {
+        "token": "やすみ",
+        "startTime": 197960,
+        "endTime": 197960,
+        "pinyin": "yasumi"
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ は 公園 です これ は 公園 です",
+    "translations": {
+      "en": "This is a park. This is a park."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 197960,
+        "endTime": 198778,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 198778,
+        "endTime": 199595,
+        "pinyin": "wa"
+      },
+      {
+        "token": "公園",
+        "startTime": 199595,
+        "endTime": 200413,
+        "pinyin": "kouen"
+      },
+      {
+        "token": "です",
+        "startTime": 200413,
+        "endTime": 201230,
+        "pinyin": "desu"
+      },
+      {
+        "token": "これ",
+        "startTime": 201230,
+        "endTime": 202048,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 202048,
+        "endTime": 202865,
+        "pinyin": "wa"
+      },
+      {
+        "token": "公園",
+        "startTime": 202865,
+        "endTime": 203683,
+        "pinyin": "kouen"
+      },
+      {
+        "token": "です",
+        "startTime": 203683,
+        "endTime": 204500,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "たくさん の 人 が 遊ん い ます これ は 美術 館 です",
+    "translations": {
+      "en": "Many people are playing. This is an art museum."
+    },
+    "segments": [
+      {
+        "token": "たくさん",
+        "startTime": 204500,
+        "endTime": 205638,
+        "pinyin": "takusan"
+      },
+      {
+        "token": "の",
+        "startTime": 205638,
+        "endTime": 206777,
+        "pinyin": "no"
+      },
+      {
+        "token": "人",
+        "startTime": 206777,
+        "endTime": 207915,
+        "pinyin": "hito"
+      },
+      {
+        "token": "が",
+        "startTime": 207915,
+        "endTime": 209053,
+        "pinyin": "ga"
+      },
+      {
+        "token": "遊ん",
+        "startTime": 209053,
+        "endTime": 210192,
+        "pinyin": "ason"
+      },
+      {
+        "token": "い",
+        "startTime": 210192,
+        "endTime": 211330,
+        "pinyin": "i"
+      },
+      {
+        "token": "ます",
+        "startTime": 211330,
+        "endTime": 212468,
+        "pinyin": "masu"
+      },
+      {
+        "token": "これ",
+        "startTime": 212468,
+        "endTime": 213607,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 213607,
+        "endTime": 214745,
+        "pinyin": "wa"
+      },
+      {
+        "token": "美術",
+        "startTime": 214745,
+        "endTime": 215883,
+        "pinyin": "bijutsu"
+      },
+      {
+        "token": "館",
+        "startTime": 215883,
+        "endTime": 217022,
+        "pinyin": "yakata"
+      },
+      {
+        "token": "です",
+        "startTime": 217022,
+        "endTime": 218160,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "美術 館 に は 絵 が たくさん あり ます これ は ビル です",
+    "translations": {
+      "en": "There are many paintings in the art museum. This is a building."
+    },
+    "segments": [
+      {
+        "token": "美術",
+        "startTime": 218160,
+        "endTime": 219343,
+        "pinyin": "bijutsu"
+      },
+      {
+        "token": "館",
+        "startTime": 219343,
+        "endTime": 220526,
+        "pinyin": "yakata"
+      },
+      {
+        "token": "に",
+        "startTime": 220526,
+        "endTime": 221709,
+        "pinyin": "ni"
+      },
+      {
+        "token": "は",
+        "startTime": 221709,
+        "endTime": 222892,
+        "pinyin": "wa"
+      },
+      {
+        "token": "絵",
+        "startTime": 222892,
+        "endTime": 224075,
+        "pinyin": "e"
+      },
+      {
+        "token": "が",
+        "startTime": 224075,
+        "endTime": 225258,
+        "pinyin": "ga"
+      },
+      {
+        "token": "たくさん",
+        "startTime": 225258,
+        "endTime": 226442,
+        "pinyin": "takusan"
+      },
+      {
+        "token": "あり",
+        "startTime": 226442,
+        "endTime": 227625,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 227625,
+        "endTime": 228808,
+        "pinyin": "masu"
+      },
+      {
+        "token": "これ",
+        "startTime": 228808,
+        "endTime": 229991,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 229991,
+        "endTime": 231174,
+        "pinyin": "wa"
+      },
+      {
+        "token": "ビル",
+        "startTime": 231174,
+        "endTime": 232357,
+        "pinyin": "biru"
+      },
+      {
+        "token": "です",
+        "startTime": 232357,
+        "endTime": 233540,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "ビル は とっても 大きい です これ は 門 です",
+    "translations": {
+      "en": "The building is very big. This is a gate."
+    },
+    "segments": [
+      {
+        "token": "ビル",
+        "startTime": 233540,
+        "endTime": 234973,
+        "pinyin": "biru"
+      },
+      {
+        "token": "は",
+        "startTime": 234973,
+        "endTime": 236407,
+        "pinyin": "wa"
+      },
+      {
+        "token": "とっても",
+        "startTime": 236407,
+        "endTime": 237840,
+        "pinyin": "tottemo"
+      },
+      {
+        "token": "大きい",
+        "startTime": 237840,
+        "endTime": 239273,
+        "pinyin": "ookii"
+      },
+      {
+        "token": "です",
+        "startTime": 239273,
+        "endTime": 240707,
+        "pinyin": "desu"
+      },
+      {
+        "token": "これ",
+        "startTime": 240707,
+        "endTime": 242140,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 242140,
+        "endTime": 243573,
+        "pinyin": "wa"
+      },
+      {
+        "token": "門",
+        "startTime": 243573,
+        "endTime": 245007,
+        "pinyin": "mon"
+      },
+      {
+        "token": "です",
+        "startTime": 245007,
+        "endTime": 246440,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "門 に は 扉 あり ます これ は 階段 です",
+    "translations": {
+      "en": "The gate has doors. This is a staircase."
+    },
+    "segments": [
+      {
+        "token": "門",
+        "startTime": 246440,
+        "endTime": 247732,
+        "pinyin": "mon"
+      },
+      {
+        "token": "に",
+        "startTime": 247732,
+        "endTime": 249024,
+        "pinyin": "ni"
+      },
+      {
+        "token": "は",
+        "startTime": 249024,
+        "endTime": 250316,
+        "pinyin": "wa"
+      },
+      {
+        "token": "扉",
+        "startTime": 250316,
+        "endTime": 251608,
+        "pinyin": "tobira"
+      },
+      {
+        "token": "あり",
+        "startTime": 251608,
+        "endTime": 252900,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 252900,
+        "endTime": 254192,
+        "pinyin": "masu"
+      },
+      {
+        "token": "これ",
+        "startTime": 254192,
+        "endTime": 255484,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 255484,
+        "endTime": 256776,
+        "pinyin": "wa"
+      },
+      {
+        "token": "階段",
+        "startTime": 256776,
+        "endTime": 258068,
+        "pinyin": "kaidan"
+      },
+      {
+        "token": "です",
+        "startTime": 258068,
+        "endTime": 259360,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "階段 を 登り ます 階段 を 登る と 道 が あり ます",
+    "translations": {
+      "en": "I climb the stairs. When I climb the stairs, there is a path."
+    },
+    "segments": [
+      {
+        "token": "階段",
+        "startTime": 259360,
+        "endTime": 260555,
+        "pinyin": "kaidan"
+      },
+      {
+        "token": "を",
+        "startTime": 260555,
+        "endTime": 261750,
+        "pinyin": "wo"
+      },
+      {
+        "token": "登り",
+        "startTime": 261750,
+        "endTime": 262945,
+        "pinyin": "nobori"
+      },
+      {
+        "token": "ます",
+        "startTime": 262945,
+        "endTime": 264140,
+        "pinyin": "masu"
+      },
+      {
+        "token": "階段",
+        "startTime": 264140,
+        "endTime": 265335,
+        "pinyin": "kaidan"
+      },
+      {
+        "token": "を",
+        "startTime": 265335,
+        "endTime": 266530,
+        "pinyin": "wo"
+      },
+      {
+        "token": "登る",
+        "startTime": 266530,
+        "endTime": 267725,
+        "pinyin": "noboru"
+      },
+      {
+        "token": "と",
+        "startTime": 267725,
+        "endTime": 268920,
+        "pinyin": "to"
+      },
+      {
+        "token": "道",
+        "startTime": 268920,
+        "endTime": 270115,
+        "pinyin": "michi"
+      },
+      {
+        "token": "が",
+        "startTime": 270115,
+        "endTime": 271310,
+        "pinyin": "ga"
+      },
+      {
+        "token": "あり",
+        "startTime": 271310,
+        "endTime": 272505,
+        "pinyin": "ari"
+      },
+      {
+        "token": "ます",
+        "startTime": 272505,
+        "endTime": 273700,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "とっても 綺麗 です 階段 を 下り ます",
+    "translations": {
+      "en": "It's very beautiful. I go down the stairs."
+    },
+    "segments": [
+      {
+        "token": "とっても",
+        "startTime": 273700,
+        "endTime": 275329,
+        "pinyin": "tottemo"
+      },
+      {
+        "token": "綺麗",
+        "startTime": 275329,
+        "endTime": 276957,
+        "pinyin": "kirei"
+      },
+      {
+        "token": "です",
+        "startTime": 276957,
+        "endTime": 278586,
+        "pinyin": "desu"
+      },
+      {
+        "token": "階段",
+        "startTime": 278586,
+        "endTime": 280214,
+        "pinyin": "kaidan"
+      },
+      {
+        "token": "を",
+        "startTime": 280214,
+        "endTime": 281843,
+        "pinyin": "wo"
+      },
+      {
+        "token": "下り",
+        "startTime": 281843,
+        "endTime": 283471,
+        "pinyin": "kudari"
+      },
+      {
+        "token": "ます",
+        "startTime": 283471,
+        "endTime": 285100,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ は 馬 です とっても 大きい です",
+    "translations": {
+      "en": "This is a horse. It's very big."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 285100,
+        "endTime": 287574,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 287574,
+        "endTime": 290049,
+        "pinyin": "wa"
+      },
+      {
+        "token": "馬",
+        "startTime": 290049,
+        "endTime": 292523,
+        "pinyin": "uma"
+      },
+      {
+        "token": "です",
+        "startTime": 292523,
+        "endTime": 294997,
+        "pinyin": "desu"
+      },
+      {
+        "token": "とっても",
+        "startTime": 294997,
+        "endTime": 297471,
+        "pinyin": "tottemo"
+      },
+      {
+        "token": "大きい",
+        "startTime": 297471,
+        "endTime": 299946,
+        "pinyin": "ookii"
+      },
+      {
+        "token": "です",
+        "startTime": 299946,
+        "endTime": 302420,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "この 馬 は とっても 大きい です 桜 が 満開 です",
+    "translations": {
+      "en": "This horse is very big. The cherry blossoms are in full bloom."
+    },
+    "segments": [
+      {
+        "token": "この",
+        "startTime": 302420,
+        "endTime": 302660,
+        "pinyin": "kono"
+      },
+      {
+        "token": "馬",
+        "startTime": 302660,
+        "endTime": 302840,
+        "pinyin": "uma"
+      },
+      {
+        "token": "は",
+        "startTime": 302840,
+        "endTime": 303160,
+        "pinyin": "wa"
+      },
+      {
+        "token": "とっても",
+        "startTime": 303160,
+        "endTime": 304060,
+        "pinyin": "tottemo"
+      },
+      {
+        "token": "大きい",
+        "startTime": 304060,
+        "endTime": 304960,
+        "pinyin": "ookii"
+      },
+      {
+        "token": "です",
+        "startTime": 304960,
+        "endTime": 306680,
+        "pinyin": "desu"
+      },
+      {
+        "token": "桜",
+        "startTime": 306680,
+        "endTime": 307120,
+        "pinyin": "sakura"
+      },
+      {
+        "token": "が",
+        "startTime": 307120,
+        "endTime": 307340,
+        "pinyin": "ga"
+      },
+      {
+        "token": "満開",
+        "startTime": 307340,
+        "endTime": 308380,
+        "pinyin": "mankai"
+      },
+      {
+        "token": "です",
+        "startTime": 308380,
+        "endTime": 312880,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "とっても きれい です これ は 病院 です",
+    "translations": {
+      "en": "It's very beautiful. This is a hospital."
+    },
+    "segments": [
+      {
+        "token": "とっても",
+        "startTime": 312880,
+        "endTime": 314554,
+        "pinyin": "tottemo"
+      },
+      {
+        "token": "きれい",
+        "startTime": 314554,
+        "endTime": 316229,
+        "pinyin": "kirei"
+      },
+      {
+        "token": "です",
+        "startTime": 316229,
+        "endTime": 317903,
+        "pinyin": "desu"
+      },
+      {
+        "token": "これ",
+        "startTime": 317903,
+        "endTime": 319577,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 319577,
+        "endTime": 321251,
+        "pinyin": "wa"
+      },
+      {
+        "token": "病院",
+        "startTime": 321251,
+        "endTime": 322926,
+        "pinyin": "byouin"
+      },
+      {
+        "token": "です",
+        "startTime": 322926,
+        "endTime": 324600,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "これ は 昔 の 病院 です 今 は 使わ れ て ませ ん",
+    "translations": {
+      "en": "This is an old hospital. It's not used now."
+    },
+    "segments": [
+      {
+        "token": "これ",
+        "startTime": 324600,
+        "endTime": 325460,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 325460,
+        "endTime": 326320,
+        "pinyin": "wa"
+      },
+      {
+        "token": "昔",
+        "startTime": 326320,
+        "endTime": 327180,
+        "pinyin": "mukashi"
+      },
+      {
+        "token": "の",
+        "startTime": 327180,
+        "endTime": 328040,
+        "pinyin": "no"
+      },
+      {
+        "token": "病院",
+        "startTime": 328040,
+        "endTime": 328900,
+        "pinyin": "byouin"
+      },
+      {
+        "token": "です",
+        "startTime": 328900,
+        "endTime": 329760,
+        "pinyin": "desu"
+      },
+      {
+        "token": "今",
+        "startTime": 329760,
+        "endTime": 330620,
+        "pinyin": "ima"
+      },
+      {
+        "token": "は",
+        "startTime": 330620,
+        "endTime": 331480,
+        "pinyin": "wa"
+      },
+      {
+        "token": "使わ",
+        "startTime": 331480,
+        "endTime": 332340,
+        "pinyin": "tsukawa"
+      },
+      {
+        "token": "れ",
+        "startTime": 332340,
+        "endTime": 333200,
+        "pinyin": "re"
+      },
+      {
+        "token": "て",
+        "startTime": 333200,
+        "endTime": 334060,
+        "pinyin": "te"
+      },
+      {
+        "token": "ませ",
+        "startTime": 334060,
+        "endTime": 334920,
+        "pinyin": "mase"
+      },
+      {
+        "token": "ん",
+        "startTime": 334920,
+        "endTime": 335780,
+        "pinyin": "n"
+      }
+    ]
+  },
+  {
+    "sentence_text": "今 は この 病院 は 使わ れ て ませ ん あれ は 橋 です",
+    "translations": {
+      "en": "This hospital is not used now. That is a bridge."
+    },
+    "segments": [
+      {
+        "token": "今",
+        "startTime": 335780,
+        "endTime": 336550,
+        "pinyin": "ima"
+      },
+      {
+        "token": "は",
+        "startTime": 336550,
+        "endTime": 337320,
+        "pinyin": "wa"
+      },
+      {
+        "token": "この",
+        "startTime": 337320,
+        "endTime": 338090,
+        "pinyin": "kono"
+      },
+      {
+        "token": "病院",
+        "startTime": 338090,
+        "endTime": 338860,
+        "pinyin": "byouin"
+      },
+      {
+        "token": "は",
+        "startTime": 338860,
+        "endTime": 339630,
+        "pinyin": "wa"
+      },
+      {
+        "token": "使わ",
+        "startTime": 339630,
+        "endTime": 340400,
+        "pinyin": "tsukawa"
+      },
+      {
+        "token": "れ",
+        "startTime": 340400,
+        "endTime": 341170,
+        "pinyin": "re"
+      },
+      {
+        "token": "て",
+        "startTime": 341170,
+        "endTime": 341940,
+        "pinyin": "te"
+      },
+      {
+        "token": "ませ",
+        "startTime": 341940,
+        "endTime": 342710,
+        "pinyin": "mase"
+      },
+      {
+        "token": "ん",
+        "startTime": 342710,
+        "endTime": 343480,
+        "pinyin": "n"
+      },
+      {
+        "token": "あれ",
+        "startTime": 343480,
+        "endTime": 344250,
+        "pinyin": "are"
+      },
+      {
+        "token": "は",
+        "startTime": 344250,
+        "endTime": 345020,
+        "pinyin": "wa"
+      },
+      {
+        "token": "橋",
+        "startTime": 345020,
+        "endTime": 345790,
+        "pinyin": "hashi"
+      },
+      {
+        "token": "です",
+        "startTime": 345790,
+        "endTime": 346560,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "橋 を 渡り ます これ は お 城 です",
+    "translations": {
+      "en": "I cross the bridge. This is a castle."
+    },
+    "segments": [
+      {
+        "token": "橋",
+        "startTime": 346560,
+        "endTime": 349496,
+        "pinyin": "hashi"
+      },
+      {
+        "token": "を",
+        "startTime": 349496,
+        "endTime": 352431,
+        "pinyin": "wo"
+      },
+      {
+        "token": "渡り",
+        "startTime": 352431,
+        "endTime": 355367,
+        "pinyin": "watari"
+      },
+      {
+        "token": "ます",
+        "startTime": 355367,
+        "endTime": 358302,
+        "pinyin": "masu"
+      },
+      {
+        "token": "これ",
+        "startTime": 358302,
+        "endTime": 361238,
+        "pinyin": "kore"
+      },
+      {
+        "token": "は",
+        "startTime": 361238,
+        "endTime": 364173,
+        "pinyin": "wa"
+      },
+      {
+        "token": "お",
+        "startTime": 364173,
+        "endTime": 367109,
+        "pinyin": "o"
+      },
+      {
+        "token": "城",
+        "startTime": 367109,
+        "endTime": 370044,
+        "pinyin": "jou"
+      },
+      {
+        "token": "です",
+        "startTime": 370044,
+        "endTime": 372980,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "昔 は 水 が あり まし た 今 は 水 が ない です",
+    "translations": {
+      "en": "There used to be water. Now there is no water."
+    },
+    "segments": [
+      {
+        "token": "昔",
+        "startTime": 372980,
+        "endTime": 374357,
+        "pinyin": "mukashi"
+      },
+      {
+        "token": "は",
+        "startTime": 374357,
+        "endTime": 375734,
+        "pinyin": "wa"
+      },
+      {
+        "token": "水",
+        "startTime": 375734,
+        "endTime": 377111,
+        "pinyin": "mizu"
+      },
+      {
+        "token": "が",
+        "startTime": 377111,
+        "endTime": 378488,
+        "pinyin": "ga"
+      },
+      {
+        "token": "あり",
+        "startTime": 378488,
+        "endTime": 379865,
+        "pinyin": "ari"
+      },
+      {
+        "token": "まし",
+        "startTime": 379865,
+        "endTime": 381242,
+        "pinyin": "mashi"
+      },
+      {
+        "token": "た",
+        "startTime": 381242,
+        "endTime": 382618,
+        "pinyin": "ta"
+      },
+      {
+        "token": "今",
+        "startTime": 382618,
+        "endTime": 383995,
+        "pinyin": "ima"
+      },
+      {
+        "token": "は",
+        "startTime": 383995,
+        "endTime": 385372,
+        "pinyin": "wa"
+      },
+      {
+        "token": "水",
+        "startTime": 385372,
+        "endTime": 386749,
+        "pinyin": "mizu"
+      },
+      {
+        "token": "が",
+        "startTime": 386749,
+        "endTime": 388126,
+        "pinyin": "ga"
+      },
+      {
+        "token": "ない",
+        "startTime": 388126,
+        "endTime": 389503,
+        "pinyin": "nai"
+      },
+      {
+        "token": "です",
+        "startTime": 389503,
+        "endTime": 390880,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "はい 今日 は 動画 見 て くれ ありがとう ござい まし た",
+    "translations": {
+      "en": "Okay, thank you for watching the video today."
+    },
+    "segments": [
+      {
+        "token": "はい",
+        "startTime": 390880,
+        "endTime": 391116,
+        "pinyin": "hai"
+      },
+      {
+        "token": "今日",
+        "startTime": 391116,
+        "endTime": 391353,
+        "pinyin": "kyou"
+      },
+      {
+        "token": "は",
+        "startTime": 391353,
+        "endTime": 391589,
+        "pinyin": "wa"
+      },
+      {
+        "token": "動画",
+        "startTime": 391589,
+        "endTime": 391825,
+        "pinyin": "douga"
+      },
+      {
+        "token": "見",
+        "startTime": 391825,
+        "endTime": 392062,
+        "pinyin": "mi"
+      },
+      {
+        "token": "て",
+        "startTime": 392062,
+        "endTime": 392298,
+        "pinyin": "te"
+      },
+      {
+        "token": "くれ",
+        "startTime": 392298,
+        "endTime": 392535,
+        "pinyin": "kure"
+      },
+      {
+        "token": "ありがとう",
+        "startTime": 392535,
+        "endTime": 392771,
+        "pinyin": "arigatou"
+      },
+      {
+        "token": "ござい",
+        "startTime": 392771,
+        "endTime": 393007,
+        "pinyin": "gozai"
+      },
+      {
+        "token": "まし",
+        "startTime": 393007,
+        "endTime": 393244,
+        "pinyin": "mashi"
+      },
+      {
+        "token": "た",
+        "startTime": 393244,
+        "endTime": 393480,
+        "pinyin": "ta"
+      }
+    ]
+  },
+  {
+    "sentence_text": "今日 の 日本 語 の レッスン は 以上 です",
+    "translations": {
+      "en": "That's all for today's Japanese lesson."
+    },
+    "segments": [
+      {
+        "token": "今日",
+        "startTime": 393480,
+        "endTime": 393660,
+        "pinyin": "kyou"
+      },
+      {
+        "token": "の",
+        "startTime": 393660,
+        "endTime": 393780,
+        "pinyin": "no"
+      },
+      {
+        "token": "日本",
+        "startTime": 393780,
+        "endTime": 393980,
+        "pinyin": "Nippon"
+      },
+      {
+        "token": "語",
+        "startTime": 393980,
+        "endTime": 394080,
+        "pinyin": "go"
+      },
+      {
+        "token": "の",
+        "startTime": 394080,
+        "endTime": 394200,
+        "pinyin": "no"
+      },
+      {
+        "token": "レッスン",
+        "startTime": 394200,
+        "endTime": 394420,
+        "pinyin": "ressun"
+      },
+      {
+        "token": "は",
+        "startTime": 394420,
+        "endTime": 394560,
+        "pinyin": "wa"
+      },
+      {
+        "token": "以上",
+        "startTime": 394560,
+        "endTime": 394920,
+        "pinyin": "ijou"
+      },
+      {
+        "token": "です",
+        "startTime": 394920,
+        "endTime": 394920,
+        "pinyin": "desu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "面白かっ たら チャンネル 登録 と 高 評価 お 願い し ます",
+    "translations": {
+      "en": "If you enjoyed, please subscribe and like."
+    },
+    "segments": [
+      {
+        "token": "面白かっ",
+        "startTime": 394920,
+        "endTime": 395315,
+        "pinyin": "omoshiroka"
+      },
+      {
+        "token": "たら",
+        "startTime": 395315,
+        "endTime": 395709,
+        "pinyin": "tara"
+      },
+      {
+        "token": "チャンネル",
+        "startTime": 395709,
+        "endTime": 396104,
+        "pinyin": "channeru"
+      },
+      {
+        "token": "登録",
+        "startTime": 396104,
+        "endTime": 396498,
+        "pinyin": "touroku"
+      },
+      {
+        "token": "と",
+        "startTime": 396498,
+        "endTime": 396893,
+        "pinyin": "to"
+      },
+      {
+        "token": "高",
+        "startTime": 396893,
+        "endTime": 397287,
+        "pinyin": "kou"
+      },
+      {
+        "token": "評価",
+        "startTime": 397287,
+        "endTime": 397682,
+        "pinyin": "hyouka"
+      },
+      {
+        "token": "お",
+        "startTime": 397682,
+        "endTime": 398076,
+        "pinyin": "o"
+      },
+      {
+        "token": "願い",
+        "startTime": 398076,
+        "endTime": 398471,
+        "pinyin": "negai"
+      },
+      {
+        "token": "し",
+        "startTime": 398471,
+        "endTime": 398865,
+        "pinyin": "shi"
+      },
+      {
+        "token": "ます",
+        "startTime": 398865,
+        "endTime": 399260,
+        "pinyin": "masu"
+      }
+    ]
+  },
+  {
+    "sentence_text": "以上 です バイ バイ ご 視聴 ありがとう ござい まし た",
+    "translations": {
+      "en": "That's all, bye-bye, thanks for watching."
+    },
+    "segments": [
+      {
+        "token": "以上",
+        "startTime": 399260,
+        "endTime": 404244,
+        "pinyin": "ijou"
+      },
+      {
+        "token": "です",
+        "startTime": 404244,
+        "endTime": 409228,
+        "pinyin": "desu"
+      },
+      {
+        "token": "バイ",
+        "startTime": 409228,
+        "endTime": 414212,
+        "pinyin": "bai"
+      },
+      {
+        "token": "バイ",
+        "startTime": 414212,
+        "endTime": 419196,
+        "pinyin": "bai"
+      },
+      {
+        "token": "ご",
+        "startTime": 419196,
+        "endTime": 424180,
+        "pinyin": "go"
+      },
+      {
+        "token": "視聴",
+        "startTime": 424180,
+        "endTime": 429164,
+        "pinyin": "shichou"
+      },
+      {
+        "token": "ありがとう",
+        "startTime": 429164,
+        "endTime": 434148,
+        "pinyin": "arigatou"
+      },
+      {
+        "token": "ござい",
+        "startTime": 434148,
+        "endTime": 439132,
+        "pinyin": "gozai"
+      },
+      {
+        "token": "まし",
+        "startTime": 439132,
+        "endTime": 444116,
+        "pinyin": "mashi"
+      },
+      {
+        "token": "た",
+        "startTime": 444116,
+        "endTime": 449100,
+        "pinyin": "ta"
+      }
+    ]
+  },
+  {
+    "sentence_text": "ご 視聴 ありがとう ござい まし た 。",
+    "translations": {
+      "en": "Thank you for watching."
+    },
+    "segments": [
+      {
+        "token": "ご",
+        "startTime": 449100,
+        "endTime": 449211,
+        "pinyin": "go"
+      },
+      {
+        "token": "視聴",
+        "startTime": 449211,
+        "endTime": 449323,
+        "pinyin": "shichou"
+      },
+      {
+        "token": "ありがとう",
+        "startTime": 449323,
+        "endTime": 449434,
+        "pinyin": "arigatou"
+      },
+      {
+        "token": "ござい",
+        "startTime": 449434,
+        "endTime": 449546,
+        "pinyin": "gozai"
+      },
+      {
+        "token": "まし",
+        "startTime": 449546,
+        "endTime": 449657,
+        "pinyin": "mashi"
+      },
+      {
+        "token": "た",
+        "startTime": 449657,
+        "endTime": 449769,
+        "pinyin": "ta"
+      },
+      {
+        "token": "。",
+        "startTime": 449769,
+        "endTime": 449880,
+        "pinyin": "."
+      }
+    ]
+  }
+]
