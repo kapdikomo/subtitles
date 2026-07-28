@@ -9,43 +9,50 @@
         "token": "来週",
         "startTime": 3860,
         "endTime": 4400,
-        "pinyin": "raishuu"
+        "romaji": "raishuu",
+        "kana": "らいしゅう"
       },
       {
         "token": "の",
         "startTime": 4400,
         "endTime": 4680,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "金曜",
         "startTime": 4680,
         "endTime": 5460,
-        "pinyin": "kin'you"
+        "romaji": "kin'you",
+        "kana": "きんよう"
       },
       {
         "token": "日",
         "startTime": 5460,
         "endTime": 5640,
-        "pinyin": "hi"
+        "romaji": "hi",
+        "kana": "ひ"
       },
       {
         "token": "楽しみ",
         "startTime": 5640,
         "endTime": 7100,
-        "pinyin": "tanoshimi"
+        "romaji": "tanoshimi",
+        "kana": "たのしみ"
       },
       {
         "token": "だ",
         "startTime": 7100,
         "endTime": 7260,
-        "pinyin": "da"
+        "romaji": "da",
+        "kana": "だ"
       },
       {
         "token": "なぁ",
         "startTime": 7260,
         "endTime": 9160,
-        "pinyin": "na"
+        "romaji": "na",
+        "kana": "なぁ"
       }
     ]
   },
@@ -59,37 +66,43 @@
         "token": "日本",
         "startTime": 9160,
         "endTime": 9580,
-        "pinyin": "Nippon"
+        "romaji": "Nippon",
+        "kana": "にっぽん"
       },
       {
         "token": "語",
         "startTime": 9580,
         "endTime": 9900,
-        "pinyin": "go"
+        "romaji": "go",
+        "kana": "ご"
       },
       {
         "token": "学校",
         "startTime": 9900,
         "endTime": 10460,
-        "pinyin": "gakkou"
+        "romaji": "gakkou",
+        "kana": "がっこう"
       },
       {
         "token": "の",
         "startTime": 10460,
         "endTime": 10680,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "みんな",
         "startTime": 10680,
         "endTime": 11340,
-        "pinyin": "minna"
+        "romaji": "minna",
+        "kana": "みんな"
       },
       {
         "token": "と",
         "startTime": 11340,
         "endTime": 12760,
-        "pinyin": "to"
+        "romaji": "to",
+        "kana": "と"
       }
     ]
   },
@@ -103,19 +116,22 @@
         "token": "初",
         "startTime": 12760,
         "endTime": 13180,
-        "pinyin": "hatsu"
+        "romaji": "hatsu",
+        "kana": "はつ"
       },
       {
         "token": "め",
         "startTime": 13180,
         "endTime": 13600,
-        "pinyin": "me"
+        "romaji": "me",
+        "kana": "め"
       },
       {
         "token": "て",
         "startTime": 13600,
         "endTime": 14020,
-        "pinyin": "te"
+        "romaji": "te",
+        "kana": "て"
       }
     ]
   },
@@ -129,43 +145,50 @@
         "token": "お",
         "startTime": 14020,
         "endTime": 14691,
-        "pinyin": "o"
+        "romaji": "o",
+        "kana": "お"
       },
       {
         "token": "酒",
         "startTime": 14691,
         "endTime": 15363,
-        "pinyin": "sake"
+        "romaji": "sake",
+        "kana": "さけ"
       },
       {
         "token": "を",
         "startTime": 15363,
         "endTime": 16034,
-        "pinyin": "wo"
+        "romaji": "wo",
+        "kana": "を"
       },
       {
         "token": "飲み",
         "startTime": 16034,
         "endTime": 16706,
-        "pinyin": "nomi"
+        "romaji": "nomi",
+        "kana": "のみ"
       },
       {
         "token": "に",
         "startTime": 16706,
         "endTime": 17377,
-        "pinyin": "ni"
+        "romaji": "ni",
+        "kana": "に"
       },
       {
         "token": "行き",
         "startTime": 17377,
         "endTime": 18049,
-        "pinyin": "iki"
+        "romaji": "iki",
+        "kana": "いき"
       },
       {
         "token": "ます",
         "startTime": 18049,
         "endTime": 18720,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       }
     ]
   },
@@ -179,7 +202,8 @@
         "token": "で",
         "startTime": 18720,
         "endTime": 20200,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       }
     ]
   },
@@ -193,37 +217,43 @@
         "token": "も",
         "startTime": 20200,
         "endTime": 20340,
-        "pinyin": "mo"
+        "romaji": "mo",
+        "kana": "も"
       },
       {
         "token": "金曜",
         "startTime": 20340,
         "endTime": 20900,
-        "pinyin": "kin'you"
+        "romaji": "kin'you",
+        "kana": "きんよう"
       },
       {
         "token": "日",
         "startTime": 20900,
         "endTime": 21120,
-        "pinyin": "hi"
+        "romaji": "hi",
+        "kana": "ひ"
       },
       {
         "token": "の",
         "startTime": 21120,
         "endTime": 21760,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "居酒屋",
         "startTime": 21760,
         "endTime": 23120,
-        "pinyin": "izakaya"
+        "romaji": "izakaya",
+        "kana": "いざかや"
       },
       {
         "token": "は",
         "startTime": 23120,
         "endTime": 23880,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       }
     ]
   },
@@ -237,25 +267,29 @@
         "token": "すごく",
         "startTime": 23880,
         "endTime": 25840,
-        "pinyin": "sugoku"
+        "romaji": "sugoku",
+        "kana": "すごく"
       },
       {
         "token": "人",
         "startTime": 25840,
         "endTime": 27120,
-        "pinyin": "hito"
+        "romaji": "hito",
+        "kana": "ひと"
       },
       {
         "token": "が",
         "startTime": 27120,
         "endTime": 27300,
-        "pinyin": "ga"
+        "romaji": "ga",
+        "kana": "が"
       },
       {
         "token": "多い",
         "startTime": 27300,
         "endTime": 27660,
-        "pinyin": "ooi"
+        "romaji": "ooi",
+        "kana": "おおい"
       }
     ]
   },
@@ -269,7 +303,8 @@
         "token": "よ",
         "startTime": 27660,
         "endTime": 29360,
-        "pinyin": "yo"
+        "romaji": "yo",
+        "kana": "よ"
       }
     ]
   },
@@ -283,25 +318,29 @@
         "token": "なぁ",
         "startTime": 29360,
         "endTime": 29980,
-        "pinyin": "na"
+        "romaji": "na",
+        "kana": "なぁ"
       },
       {
         "token": "そう",
         "startTime": 29980,
         "endTime": 30600,
-        "pinyin": "sou"
+        "romaji": "sou",
+        "kana": "そう"
       },
       {
         "token": "だ",
         "startTime": 30600,
         "endTime": 31220,
-        "pinyin": "da"
+        "romaji": "da",
+        "kana": "だ"
       },
       {
         "token": "なぁ",
         "startTime": 31220,
         "endTime": 31840,
-        "pinyin": "na"
+        "romaji": "na",
+        "kana": "なぁ"
       }
     ]
   },
@@ -315,13 +354,15 @@
         "token": "よ",
         "startTime": 31840,
         "endTime": 32350,
-        "pinyin": "yo"
+        "romaji": "yo",
+        "kana": "よ"
       },
       {
         "token": "し",
         "startTime": 32350,
         "endTime": 32860,
-        "pinyin": "shi"
+        "romaji": "shi",
+        "kana": "し"
       }
     ]
   },
@@ -335,13 +376,15 @@
         "token": "電話",
         "startTime": 32860,
         "endTime": 33780,
-        "pinyin": "denwa"
+        "romaji": "denwa",
+        "kana": "でんわ"
       },
       {
         "token": "で",
         "startTime": 33780,
         "endTime": 34860,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       }
     ]
   },
@@ -355,19 +398,22 @@
         "token": "予約",
         "startTime": 34860,
         "endTime": 35160,
-        "pinyin": "yoyaku"
+        "romaji": "yoyaku",
+        "kana": "よやく"
       },
       {
         "token": "を",
         "startTime": 35160,
         "endTime": 35420,
-        "pinyin": "wo"
+        "romaji": "wo",
+        "kana": "を"
       },
       {
         "token": "しよう",
         "startTime": 35420,
         "endTime": 37660,
-        "pinyin": "shiyou"
+        "romaji": "shiyou",
+        "kana": "しよう"
       }
     ]
   },
@@ -381,19 +427,22 @@
         "token": "う",
         "startTime": 37660,
         "endTime": 38107,
-        "pinyin": "u"
+        "romaji": "u",
+        "kana": "う"
       },
       {
         "token": "わ",
         "startTime": 38107,
         "endTime": 38553,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "わ"
       },
       {
         "token": "ぁ",
         "startTime": 38553,
         "endTime": 39000,
-        "pinyin": "a"
+        "romaji": "a",
+        "kana": "*"
       }
     ]
   },
@@ -407,13 +456,15 @@
         "token": "ドキドキ",
         "startTime": 39000,
         "endTime": 39560,
-        "pinyin": "dokidoki"
+        "romaji": "dokidoki",
+        "kana": "どきどき"
       },
       {
         "token": "する",
         "startTime": 39560,
         "endTime": 41340,
-        "pinyin": "suru"
+        "romaji": "suru",
+        "kana": "する"
       }
     ]
   },
@@ -427,25 +478,29 @@
         "token": "ちょっと",
         "startTime": 41340,
         "endTime": 41840,
-        "pinyin": "chotto"
+        "romaji": "chotto",
+        "kana": "ちょっと"
       },
       {
         "token": "緊張",
         "startTime": 41840,
         "endTime": 43240,
-        "pinyin": "kinchou"
+        "romaji": "kinchou",
+        "kana": "きんちょう"
       },
       {
         "token": "する",
         "startTime": 43240,
         "endTime": 44000,
-        "pinyin": "suru"
+        "romaji": "suru",
+        "kana": "する"
       },
       {
         "token": "なぁ",
         "startTime": 44000,
         "endTime": 45980,
-        "pinyin": "na"
+        "romaji": "na",
+        "kana": "なぁ"
       }
     ]
   },
@@ -459,7 +514,8 @@
         "token": "で",
         "startTime": 45980,
         "endTime": 47440,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       }
     ]
   },
@@ -473,19 +529,22 @@
         "token": "も",
         "startTime": 47440,
         "endTime": 47600,
-        "pinyin": "mo"
+        "romaji": "mo",
+        "kana": "も"
       },
       {
         "token": "頑張ろう",
         "startTime": 47600,
         "endTime": 50000,
-        "pinyin": "ganbarou"
+        "romaji": "ganbarou",
+        "kana": "がんばろう"
       },
       {
         "token": "わっ",
         "startTime": 50000,
         "endTime": 50980,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "わっ"
       }
     ]
   },
@@ -499,37 +558,43 @@
         "token": "今日",
         "startTime": 50980,
         "endTime": 51750,
-        "pinyin": "kyou"
+        "romaji": "kyou",
+        "kana": "きょう"
       },
       {
         "token": "は",
         "startTime": 51750,
         "endTime": 52520,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "風",
         "startTime": 52520,
         "endTime": 53290,
-        "pinyin": "fuu"
+        "romaji": "fuu",
+        "kana": "ふう"
       },
       {
         "token": "が",
         "startTime": 53290,
         "endTime": 54060,
-        "pinyin": "ga"
+        "romaji": "ga",
+        "kana": "が"
       },
       {
         "token": "強い",
         "startTime": 54060,
         "endTime": 54830,
-        "pinyin": "tsuyoi"
+        "romaji": "tsuyoi",
+        "kana": "つよい"
       },
       {
         "token": "な",
         "startTime": 54830,
         "endTime": 55600,
-        "pinyin": "na"
+        "romaji": "na",
+        "kana": "な"
       }
     ]
   },
@@ -543,19 +608,22 @@
         "token": "天気",
         "startTime": 55600,
         "endTime": 56200,
-        "pinyin": "tenki"
+        "romaji": "tenki",
+        "kana": "てんき"
       },
       {
         "token": "は",
         "startTime": 56200,
         "endTime": 56900,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "いい",
         "startTime": 56900,
         "endTime": 58560,
-        "pinyin": "ii"
+        "romaji": "ii",
+        "kana": "いい"
       }
     ]
   },
@@ -569,19 +637,22 @@
         "token": "けど",
         "startTime": 58560,
         "endTime": 59120,
-        "pinyin": "kedo"
+        "romaji": "kedo",
+        "kana": "けど"
       },
       {
         "token": "風",
         "startTime": 59120,
         "endTime": 59860,
-        "pinyin": "fuu"
+        "romaji": "fuu",
+        "kana": "ふう"
       },
       {
         "token": "が",
         "startTime": 59860,
         "endTime": 62520,
-        "pinyin": "ga"
+        "romaji": "ga",
+        "kana": "が"
       }
     ]
   },
@@ -595,13 +666,15 @@
         "token": "強い",
         "startTime": 62520,
         "endTime": 62940,
-        "pinyin": "tsuyoi"
+        "romaji": "tsuyoi",
+        "kana": "つよい"
       },
       {
         "token": "金曜",
         "startTime": 62940,
         "endTime": 64300,
-        "pinyin": "kin'you"
+        "romaji": "kin'you",
+        "kana": "きんよう"
       }
     ]
   },
@@ -615,37 +688,43 @@
         "token": "日",
         "startTime": 64300,
         "endTime": 64440,
-        "pinyin": "hi"
+        "romaji": "hi",
+        "kana": "ひ"
       },
       {
         "token": "も",
         "startTime": 64440,
         "endTime": 64640,
-        "pinyin": "mo"
+        "romaji": "mo",
+        "kana": "も"
       },
       {
         "token": "晴れる",
         "startTime": 64640,
         "endTime": 65280,
-        "pinyin": "hareru"
+        "romaji": "hareru",
+        "kana": "はれる"
       },
       {
         "token": "と",
         "startTime": 65280,
         "endTime": 65540,
-        "pinyin": "to"
+        "romaji": "to",
+        "kana": "と"
       },
       {
         "token": "いい",
         "startTime": 65540,
         "endTime": 67660,
-        "pinyin": "ii"
+        "romaji": "ii",
+        "kana": "いい"
       },
       {
         "token": "なぁ",
         "startTime": 67660,
         "endTime": 69900,
-        "pinyin": "na"
+        "romaji": "na",
+        "kana": "なぁ"
       }
     ]
   },
@@ -659,37 +738,43 @@
         "token": "で",
         "startTime": 69900,
         "endTime": 70260,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       },
       {
         "token": "も",
         "startTime": 70260,
         "endTime": 70560,
-        "pinyin": "mo"
+        "romaji": "mo",
+        "kana": "も"
       },
       {
         "token": "風",
         "startTime": 70560,
         "endTime": 70940,
-        "pinyin": "fuu"
+        "romaji": "fuu",
+        "kana": "ふう"
       },
       {
         "token": "は",
         "startTime": 70940,
         "endTime": 71240,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "強く",
         "startTime": 71240,
         "endTime": 72060,
-        "pinyin": "tsuyoku"
+        "romaji": "tsuyoku",
+        "kana": "つよく"
       },
       {
         "token": "ない",
         "startTime": 72060,
         "endTime": 74320,
-        "pinyin": "nai"
+        "romaji": "nai",
+        "kana": "ない"
       }
     ]
   },
@@ -703,31 +788,36 @@
         "token": "とい",
         "startTime": 74320,
         "endTime": 75240,
-        "pinyin": "toi"
+        "romaji": "toi",
+        "kana": "とい"
       },
       {
         "token": "い",
         "startTime": 75240,
         "endTime": 76160,
-        "pinyin": "i"
+        "romaji": "i",
+        "kana": "い"
       },
       {
         "token": "なぁ",
         "startTime": 76160,
         "endTime": 77080,
-        "pinyin": "na"
+        "romaji": "na",
+        "kana": "なぁ"
       },
       {
         "token": "よし",
         "startTime": 77080,
         "endTime": 78000,
-        "pinyin": "yoshi"
+        "romaji": "yoshi",
+        "kana": "よし"
       },
       {
         "token": "とにかく",
         "startTime": 78000,
         "endTime": 78920,
-        "pinyin": "tonikaku"
+        "romaji": "tonikaku",
+        "kana": "とにかく"
       }
     ]
   },
@@ -741,19 +831,22 @@
         "token": "今",
         "startTime": 78920,
         "endTime": 79580,
-        "pinyin": "ima"
+        "romaji": "ima",
+        "kana": "いま"
       },
       {
         "token": "は",
         "startTime": 79580,
         "endTime": 79680,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "居酒屋",
         "startTime": 79680,
         "endTime": 81260,
-        "pinyin": "izakaya"
+        "romaji": "izakaya",
+        "kana": "いざかや"
       }
     ]
   },
@@ -767,19 +860,22 @@
         "token": "に",
         "startTime": 81260,
         "endTime": 81400,
-        "pinyin": "ni"
+        "romaji": "ni",
+        "kana": "に"
       },
       {
         "token": "電話",
         "startTime": 81400,
         "endTime": 82880,
-        "pinyin": "denwa"
+        "romaji": "denwa",
+        "kana": "でんわ"
       },
       {
         "token": "しよう",
         "startTime": 82880,
         "endTime": 84900,
-        "pinyin": "shiyou"
+        "romaji": "shiyou",
+        "kana": "しよう"
       }
     ]
   },
@@ -793,43 +889,50 @@
         "token": "予約",
         "startTime": 84900,
         "endTime": 85420,
-        "pinyin": "yoyaku"
+        "romaji": "yoyaku",
+        "kana": "よやく"
       },
       {
         "token": "頑張る",
         "startTime": 85420,
         "endTime": 86260,
-        "pinyin": "ganbaru"
+        "romaji": "ganbaru",
+        "kana": "がんばる"
       },
       {
         "token": "ぞ",
         "startTime": 86260,
         "endTime": 86440,
-        "pinyin": "zo"
+        "romaji": "zo",
+        "kana": "ぞ"
       },
       {
         "token": "来週",
         "startTime": 86440,
         "endTime": 87260,
-        "pinyin": "raishuu"
+        "romaji": "raishuu",
+        "kana": "らいしゅう"
       },
       {
         "token": "金曜",
         "startTime": 87260,
         "endTime": 87920,
-        "pinyin": "kin'you"
+        "romaji": "kin'you",
+        "kana": "きんよう"
       },
       {
         "token": "日",
         "startTime": 87920,
         "endTime": 88120,
-        "pinyin": "hi"
+        "romaji": "hi",
+        "kana": "ひ"
       },
       {
         "token": "に",
         "startTime": 88120,
         "endTime": 89320,
-        "pinyin": "ni"
+        "romaji": "ni",
+        "kana": "に"
       }
     ]
   },
@@ -843,13 +946,15 @@
         "token": "行",
         "startTime": 89320,
         "endTime": 90030,
-        "pinyin": "gyou"
+        "romaji": "gyou",
+        "kana": "ぎょう"
       },
       {
         "token": "く",
         "startTime": 90030,
         "endTime": 90740,
-        "pinyin": "ku"
+        "romaji": "ku",
+        "kana": "く"
       }
     ]
   },
@@ -863,19 +968,22 @@
         "token": "居酒屋",
         "startTime": 90740,
         "endTime": 91260,
-        "pinyin": "izakaya"
+        "romaji": "izakaya",
+        "kana": "いざかや"
       },
       {
         "token": "CI",
         "startTime": 91260,
         "endTime": 92040,
-        "pinyin": "CI"
+        "romaji": "CI",
+        "kana": "しーあい"
       },
       {
         "token": "J",
         "startTime": 92040,
         "endTime": 93100,
-        "pinyin": "J"
+        "romaji": "J",
+        "kana": "J"
       }
     ]
   },
@@ -889,13 +997,15 @@
         "token": "って",
         "startTime": 93100,
         "endTime": 93740,
-        "pinyin": "tte"
+        "romaji": "tte",
+        "kana": "って"
       },
       {
         "token": "いう",
         "startTime": 93740,
         "endTime": 94380,
-        "pinyin": "iu"
+        "romaji": "iu",
+        "kana": "いう"
       }
     ]
   },
@@ -909,19 +1019,22 @@
         "token": "名前",
         "startTime": 94380,
         "endTime": 95160,
-        "pinyin": "namae"
+        "romaji": "namae",
+        "kana": "なまえ"
       },
       {
         "token": "だっ",
         "startTime": 95160,
         "endTime": 96080,
-        "pinyin": "da"
+        "romaji": "da",
+        "kana": "だっ"
       },
       {
         "token": "た",
         "startTime": 96080,
         "endTime": 97640,
-        "pinyin": "ta"
+        "romaji": "ta",
+        "kana": "た"
       }
     ]
   },
@@ -935,7 +1048,8 @@
         "token": "な",
         "startTime": 97640,
         "endTime": 98900,
-        "pinyin": "na"
+        "romaji": "na",
+        "kana": "な"
       }
     ]
   },
@@ -949,49 +1063,57 @@
         "token": "よし",
         "startTime": 98900,
         "endTime": 99375,
-        "pinyin": "yoshi"
+        "romaji": "yoshi",
+        "kana": "よし"
       },
       {
         "token": "居酒屋",
         "startTime": 99375,
         "endTime": 99555,
-        "pinyin": "izakaya"
+        "romaji": "izakaya",
+        "kana": "いざかや"
       },
       {
         "token": "ci",
         "startTime": 99555,
         "endTime": 100215,
-        "pinyin": "ci"
+        "romaji": "ci",
+        "kana": "ci"
       },
       {
         "token": "j",
         "startTime": 100215,
         "endTime": 100515,
-        "pinyin": "j"
+        "romaji": "j",
+        "kana": "j"
       },
       {
         "token": "の",
         "startTime": 100515,
         "endTime": 100715,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "電話",
         "startTime": 100715,
         "endTime": 101755,
-        "pinyin": "denwa"
+        "romaji": "denwa",
+        "kana": "でんわ"
       },
       {
         "token": "番号",
         "startTime": 101755,
         "endTime": 102235,
-        "pinyin": "bangou"
+        "romaji": "bangou",
+        "kana": "ばんごう"
       },
       {
         "token": "を",
         "startTime": 102235,
         "endTime": 102495,
-        "pinyin": "wo"
+        "romaji": "wo",
+        "kana": "を"
       }
     ]
   },
@@ -1005,19 +1127,22 @@
         "token": "調べ",
         "startTime": 102495,
         "endTime": 103435,
-        "pinyin": "shirabe"
+        "romaji": "shirabe",
+        "kana": "しらべ"
       },
       {
         "token": "て",
         "startTime": 103435,
         "endTime": 103555,
-        "pinyin": "te"
+        "romaji": "te",
+        "kana": "て"
       },
       {
         "token": "みよう",
         "startTime": 103555,
         "endTime": 104575,
-        "pinyin": "miyou"
+        "romaji": "miyou",
+        "kana": "みよう"
       }
     ]
   },
@@ -1031,25 +1156,29 @@
         "token": "あっ",
         "startTime": 104575,
         "endTime": 105015,
-        "pinyin": "a"
+        "romaji": "a",
+        "kana": "あっ"
       },
       {
         "token": "あっ",
         "startTime": 105015,
         "endTime": 105895,
-        "pinyin": "a"
+        "romaji": "a",
+        "kana": "あっ"
       },
       {
         "token": "た",
         "startTime": 105895,
         "endTime": 106715,
-        "pinyin": "ta"
+        "romaji": "ta",
+        "kana": "た"
       },
       {
         "token": "これ",
         "startTime": 106715,
         "endTime": 108195,
-        "pinyin": "kore"
+        "romaji": "kore",
+        "kana": "これ"
       }
     ]
   },
@@ -1063,19 +1192,22 @@
         "token": "だ",
         "startTime": 108195,
         "endTime": 109155,
-        "pinyin": "da"
+        "romaji": "da",
+        "kana": "だ"
       },
       {
         "token": "よし",
         "startTime": 109155,
         "endTime": 109455,
-        "pinyin": "yoshi"
+        "romaji": "yoshi",
+        "kana": "よし"
       },
       {
         "token": "電話",
         "startTime": 109455,
         "endTime": 112975,
-        "pinyin": "denwa"
+        "romaji": "denwa",
+        "kana": "でんわ"
       }
     ]
   },
@@ -1089,61 +1221,71 @@
         "token": "し",
         "startTime": 112975,
         "endTime": 113255,
-        "pinyin": "shi"
+        "romaji": "shi",
+        "kana": "し"
       },
       {
         "token": "て",
         "startTime": 113255,
         "endTime": 113535,
-        "pinyin": "te"
+        "romaji": "te",
+        "kana": "て"
       },
       {
         "token": "みよう",
         "startTime": 113535,
         "endTime": 113815,
-        "pinyin": "miyou"
+        "romaji": "miyou",
+        "kana": "みよう"
       },
       {
         "token": "ありがとう",
         "startTime": 113815,
         "endTime": 114095,
-        "pinyin": "arigatou"
+        "romaji": "arigatou",
+        "kana": "ありがとう"
       },
       {
         "token": "ござい",
         "startTime": 114095,
         "endTime": 114375,
-        "pinyin": "gozai"
+        "romaji": "gozai",
+        "kana": "ござい"
       },
       {
         "token": "ます",
         "startTime": 114375,
         "endTime": 114655,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "居酒屋",
         "startTime": 114655,
         "endTime": 114935,
-        "pinyin": "izakaya"
+        "romaji": "izakaya",
+        "kana": "いざかや"
       },
       {
         "token": "ci",
         "startTime": 114935,
         "endTime": 115215,
-        "pinyin": "ci"
+        "romaji": "ci",
+        "kana": "ci"
       },
       {
         "token": "j",
         "startTime": 115215,
         "endTime": 115495,
-        "pinyin": "j"
+        "romaji": "j",
+        "kana": "j"
       },
       {
         "token": "です",
         "startTime": 115495,
         "endTime": 115775,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       }
     ]
   },
@@ -1157,31 +1299,36 @@
         "token": "忙しい",
         "startTime": 117275,
         "endTime": 117819,
-        "pinyin": "isogashii"
+        "romaji": "isogashii",
+        "kana": "いそがしい"
       },
       {
         "token": "ところ",
         "startTime": 117819,
         "endTime": 118363,
-        "pinyin": "tokoro"
+        "romaji": "tokoro",
+        "kana": "ところ"
       },
       {
         "token": "すみ",
         "startTime": 118363,
         "endTime": 118907,
-        "pinyin": "sumi"
+        "romaji": "sumi",
+        "kana": "すみ"
       },
       {
         "token": "ませ",
         "startTime": 118907,
         "endTime": 119451,
-        "pinyin": "mase"
+        "romaji": "mase",
+        "kana": "ませ"
       },
       {
         "token": "ん",
         "startTime": 119451,
         "endTime": 119995,
-        "pinyin": "n"
+        "romaji": "n",
+        "kana": "ん"
       }
     ]
   },
@@ -1195,25 +1342,29 @@
         "token": "予約",
         "startTime": 119995,
         "endTime": 120275,
-        "pinyin": "yoyaku"
+        "romaji": "yoyaku",
+        "kana": "よやく"
       },
       {
         "token": "を",
         "startTime": 120275,
         "endTime": 120575,
-        "pinyin": "wo"
+        "romaji": "wo",
+        "kana": "を"
       },
       {
         "token": "し",
         "startTime": 120575,
         "endTime": 121035,
-        "pinyin": "shi"
+        "romaji": "shi",
+        "kana": "し"
       },
       {
         "token": "たい",
         "startTime": 121035,
         "endTime": 122435,
-        "pinyin": "tai"
+        "romaji": "tai",
+        "kana": "たい"
       }
     ]
   },
@@ -1227,55 +1378,64 @@
         "token": "で",
         "startTime": 122435,
         "endTime": 122819,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       },
       {
         "token": "すすみ",
         "startTime": 122819,
         "endTime": 123204,
-        "pinyin": "susumi"
+        "romaji": "susumi",
+        "kana": "すすみ"
       },
       {
         "token": "ませ",
         "startTime": 123204,
         "endTime": 123588,
-        "pinyin": "mase"
+        "romaji": "mase",
+        "kana": "ませ"
       },
       {
         "token": "ん",
         "startTime": 123588,
         "endTime": 123973,
-        "pinyin": "n"
+        "romaji": "n",
+        "kana": "ん"
       },
       {
         "token": "よく",
         "startTime": 123973,
         "endTime": 124357,
-        "pinyin": "yoku"
+        "romaji": "yoku",
+        "kana": "よく"
       },
       {
         "token": "聞こえ",
         "startTime": 124357,
         "endTime": 124742,
-        "pinyin": "kikoe"
+        "romaji": "kikoe",
+        "kana": "きこえ"
       },
       {
         "token": "ない",
         "startTime": 124742,
         "endTime": 125126,
-        "pinyin": "nai"
+        "romaji": "nai",
+        "kana": "ない"
       },
       {
         "token": "です",
         "startTime": 125126,
         "endTime": 125511,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "ね",
         "startTime": 125511,
         "endTime": 125895,
-        "pinyin": "ne"
+        "romaji": "ne",
+        "kana": "ね"
       }
     ]
   },
@@ -1289,37 +1449,43 @@
         "token": "風",
         "startTime": 125895,
         "endTime": 126615,
-        "pinyin": "fuu"
+        "romaji": "fuu",
+        "kana": "ふう"
       },
       {
         "token": "の",
         "startTime": 126615,
         "endTime": 126835,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "音",
         "startTime": 126835,
         "endTime": 127335,
-        "pinyin": "oto"
+        "romaji": "oto",
+        "kana": "おと"
       },
       {
         "token": "が",
         "startTime": 127335,
         "endTime": 127555,
-        "pinyin": "ga"
+        "romaji": "ga",
+        "kana": "が"
       },
       {
         "token": "大きい",
         "startTime": 127555,
         "endTime": 128635,
-        "pinyin": "ookii"
+        "romaji": "ookii",
+        "kana": "おおきい"
       },
       {
         "token": "です",
         "startTime": 128635,
         "endTime": 130055,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       }
     ]
   },
@@ -1333,37 +1499,43 @@
         "token": "もう",
         "startTime": 130055,
         "endTime": 130472,
-        "pinyin": "mou"
+        "romaji": "mou",
+        "kana": "もう"
       },
       {
         "token": "一",
         "startTime": 130472,
         "endTime": 130888,
-        "pinyin": "ichi"
+        "romaji": "ichi",
+        "kana": "いち"
       },
       {
         "token": "度",
         "startTime": 130888,
         "endTime": 131305,
-        "pinyin": "do"
+        "romaji": "do",
+        "kana": "ど"
       },
       {
         "token": "いい",
         "startTime": 131305,
         "endTime": 131722,
-        "pinyin": "ii"
+        "romaji": "ii",
+        "kana": "いい"
       },
       {
         "token": "です",
         "startTime": 131722,
         "endTime": 132138,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "か",
         "startTime": 132138,
         "endTime": 132555,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       }
     ]
   },
@@ -1377,49 +1549,57 @@
         "token": "あっ",
         "startTime": 132555,
         "endTime": 133010,
-        "pinyin": "a"
+        "romaji": "a",
+        "kana": "あっ"
       },
       {
         "token": "すみ",
         "startTime": 133010,
         "endTime": 133465,
-        "pinyin": "sumi"
+        "romaji": "sumi",
+        "kana": "すみ"
       },
       {
         "token": "ませ",
         "startTime": 133465,
         "endTime": 133920,
-        "pinyin": "mase"
+        "romaji": "mase",
+        "kana": "ませ"
       },
       {
         "token": "ん",
         "startTime": 133920,
         "endTime": 134375,
-        "pinyin": "n"
+        "romaji": "n",
+        "kana": "ん"
       },
       {
         "token": "今日",
         "startTime": 134375,
         "endTime": 134830,
-        "pinyin": "kyou"
+        "romaji": "kyou",
+        "kana": "きょう"
       },
       {
         "token": "は",
         "startTime": 134830,
         "endTime": 135285,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "風",
         "startTime": 135285,
         "endTime": 135740,
-        "pinyin": "fuu"
+        "romaji": "fuu",
+        "kana": "ふう"
       },
       {
         "token": "が",
         "startTime": 135740,
         "endTime": 136195,
-        "pinyin": "ga"
+        "romaji": "ga",
+        "kana": "が"
       }
     ]
   },
@@ -1433,13 +1613,15 @@
         "token": "強く",
         "startTime": 136195,
         "endTime": 136975,
-        "pinyin": "tsuyoku"
+        "romaji": "tsuyoku",
+        "kana": "つよく"
       },
       {
         "token": "って",
         "startTime": 136975,
         "endTime": 138655,
-        "pinyin": "tte"
+        "romaji": "tte",
+        "kana": "って"
       }
     ]
   },
@@ -1453,37 +1635,43 @@
         "token": "ちょっと",
         "startTime": 138655,
         "endTime": 139332,
-        "pinyin": "chotto"
+        "romaji": "chotto",
+        "kana": "ちょっと"
       },
       {
         "token": "待っ",
         "startTime": 139332,
         "endTime": 140008,
-        "pinyin": "ma"
+        "romaji": "ma",
+        "kana": "まっ"
       },
       {
         "token": "て",
         "startTime": 140008,
         "endTime": 140685,
-        "pinyin": "te"
+        "romaji": "te",
+        "kana": "て"
       },
       {
         "token": "て",
         "startTime": 140685,
         "endTime": 141362,
-        "pinyin": "te"
+        "romaji": "te",
+        "kana": "て"
       },
       {
         "token": "ください",
         "startTime": 141362,
         "endTime": 142038,
-        "pinyin": "kudasai"
+        "romaji": "kudasai",
+        "kana": "ください"
       },
       {
         "token": "ね",
         "startTime": 142038,
         "endTime": 142715,
-        "pinyin": "ne"
+        "romaji": "ne",
+        "kana": "ね"
       }
     ]
   },
@@ -1497,31 +1685,36 @@
         "token": "今",
         "startTime": 142715,
         "endTime": 143247,
-        "pinyin": "ima"
+        "romaji": "ima",
+        "kana": "いま"
       },
       {
         "token": "は",
         "startTime": 143247,
         "endTime": 143779,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "どう",
         "startTime": 143779,
         "endTime": 144311,
-        "pinyin": "dou"
+        "romaji": "dou",
+        "kana": "どう"
       },
       {
         "token": "です",
         "startTime": 144311,
         "endTime": 144843,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "か",
         "startTime": 144843,
         "endTime": 145375,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       }
     ]
   },
@@ -1535,31 +1728,36 @@
         "token": "部屋",
         "startTime": 145375,
         "endTime": 146003,
-        "pinyin": "heya"
+        "romaji": "heya",
+        "kana": "へや"
       },
       {
         "token": "に",
         "startTime": 146003,
         "endTime": 146631,
-        "pinyin": "ni"
+        "romaji": "ni",
+        "kana": "に"
       },
       {
         "token": "入り",
         "startTime": 146631,
         "endTime": 147259,
-        "pinyin": "iri"
+        "romaji": "iri",
+        "kana": "いり"
       },
       {
         "token": "まし",
         "startTime": 147259,
         "endTime": 147887,
-        "pinyin": "mashi"
+        "romaji": "mashi",
+        "kana": "まし"
       },
       {
         "token": "た",
         "startTime": 147887,
         "endTime": 148515,
-        "pinyin": "ta"
+        "romaji": "ta",
+        "kana": "た"
       }
     ]
   },
@@ -1573,49 +1771,57 @@
         "token": "はい",
         "startTime": 148515,
         "endTime": 149057,
-        "pinyin": "hai"
+        "romaji": "hai",
+        "kana": "はい"
       },
       {
         "token": "、",
         "startTime": 149057,
         "endTime": 149600,
-        "pinyin": ","
+        "romaji": ",",
+        "kana": "*"
       },
       {
         "token": "聞こえ",
         "startTime": 149600,
         "endTime": 150142,
-        "pinyin": "kikoe"
+        "romaji": "kikoe",
+        "kana": "きこえ"
       },
       {
         "token": "ます",
         "startTime": 150142,
         "endTime": 150685,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "。",
         "startTime": 150685,
         "endTime": 151228,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       },
       {
         "token": "ありがとう",
         "startTime": 151228,
         "endTime": 151770,
-        "pinyin": "arigatou"
+        "romaji": "arigatou",
+        "kana": "ありがとう"
       },
       {
         "token": "ござい",
         "startTime": 151770,
         "endTime": 152313,
-        "pinyin": "gozai"
+        "romaji": "gozai",
+        "kana": "ござい"
       },
       {
         "token": "ます",
         "startTime": 152313,
         "endTime": 152855,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       }
     ]
   },
@@ -1629,61 +1835,71 @@
         "token": "よかっ",
         "startTime": 152855,
         "endTime": 153393,
-        "pinyin": "yoka"
+        "romaji": "yoka",
+        "kana": "よかっ"
       },
       {
         "token": "た",
         "startTime": 153393,
         "endTime": 153931,
-        "pinyin": "ta"
+        "romaji": "ta",
+        "kana": "た"
       },
       {
         "token": "です",
         "startTime": 153931,
         "endTime": 154469,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "。",
         "startTime": 154469,
         "endTime": 155007,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       },
       {
         "token": "予約",
         "startTime": 155007,
         "endTime": 155545,
-        "pinyin": "yoyaku"
+        "romaji": "yoyaku",
+        "kana": "よやく"
       },
       {
         "token": "を",
         "startTime": 155545,
         "endTime": 156083,
-        "pinyin": "wo"
+        "romaji": "wo",
+        "kana": "を"
       },
       {
         "token": "お",
         "startTime": 156083,
         "endTime": 156621,
-        "pinyin": "o"
+        "romaji": "o",
+        "kana": "お"
       },
       {
         "token": "願い",
         "startTime": 156621,
         "endTime": 157159,
-        "pinyin": "negai"
+        "romaji": "negai",
+        "kana": "ねがい"
       },
       {
         "token": "し",
         "startTime": 157159,
         "endTime": 157697,
-        "pinyin": "shi"
+        "romaji": "shi",
+        "kana": "し"
       },
       {
         "token": "ます",
         "startTime": 157697,
         "endTime": 158235,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       }
     ]
   },
@@ -1697,67 +1913,78 @@
         "token": "はい",
         "startTime": 158235,
         "endTime": 158473,
-        "pinyin": "hai"
+        "romaji": "hai",
+        "kana": "はい"
       },
       {
         "token": "、",
         "startTime": 158473,
         "endTime": 158711,
-        "pinyin": ","
+        "romaji": ",",
+        "kana": "*"
       },
       {
         "token": "予約",
         "startTime": 158711,
         "endTime": 158950,
-        "pinyin": "yoyaku"
+        "romaji": "yoyaku",
+        "kana": "よやく"
       },
       {
         "token": "です",
         "startTime": 158950,
         "endTime": 159188,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "ね",
         "startTime": 159188,
         "endTime": 159426,
-        "pinyin": "ne"
+        "romaji": "ne",
+        "kana": "ね"
       },
       {
         "token": "。",
         "startTime": 159426,
         "endTime": 159664,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       },
       {
         "token": "ご",
         "startTime": 159664,
         "endTime": 159902,
-        "pinyin": "go"
+        "romaji": "go",
+        "kana": "ご"
       },
       {
         "token": "希望",
         "startTime": 159902,
         "endTime": 160140,
-        "pinyin": "kibou"
+        "romaji": "kibou",
+        "kana": "きぼう"
       },
       {
         "token": "の",
         "startTime": 160140,
         "endTime": 160379,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "日時",
         "startTime": 160379,
         "endTime": 160617,
-        "pinyin": "nichiji"
+        "romaji": "nichiji",
+        "kana": "にちじ"
       },
       {
         "token": "を",
         "startTime": 160617,
         "endTime": 160855,
-        "pinyin": "wo"
+        "romaji": "wo",
+        "kana": "を"
       }
     ]
   },
@@ -1771,13 +1998,15 @@
         "token": "教え",
         "startTime": 160855,
         "endTime": 161095,
-        "pinyin": "oshie"
+        "romaji": "oshie",
+        "kana": "おしえ"
       },
       {
         "token": "ください",
         "startTime": 161095,
         "endTime": 163275,
-        "pinyin": "kudasai"
+        "romaji": "kudasai",
+        "kana": "ください"
       }
     ]
   },
@@ -1791,43 +2020,50 @@
         "token": "すみ",
         "startTime": 163275,
         "endTime": 163809,
-        "pinyin": "sumi"
+        "romaji": "sumi",
+        "kana": "すみ"
       },
       {
         "token": "ませ",
         "startTime": 163809,
         "endTime": 164344,
-        "pinyin": "mase"
+        "romaji": "mase",
+        "kana": "ませ"
       },
       {
         "token": "ん",
         "startTime": 164344,
         "endTime": 164878,
-        "pinyin": "n"
+        "romaji": "n",
+        "kana": "ん"
       },
       {
         "token": "。",
         "startTime": 164878,
         "endTime": 165412,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       },
       {
         "token": "日時",
         "startTime": 165412,
         "endTime": 165946,
-        "pinyin": "nichiji"
+        "romaji": "nichiji",
+        "kana": "にちじ"
       },
       {
         "token": "って",
         "startTime": 165946,
         "endTime": 166481,
-        "pinyin": "tte"
+        "romaji": "tte",
+        "kana": "って"
       },
       {
         "token": "何",
         "startTime": 166481,
         "endTime": 167015,
-        "pinyin": "nan"
+        "romaji": "nan",
+        "kana": "なん"
       }
     ]
   },
@@ -1839,19 +2075,22 @@
         "token": "です",
         "startTime": 167015,
         "endTime": 167648,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "か",
         "startTime": 167648,
         "endTime": 168282,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "?",
         "startTime": 168282,
         "endTime": 168915,
-        "pinyin": "?"
+        "romaji": "?",
+        "kana": "*"
       }
     ]
   },
@@ -1865,55 +2104,64 @@
         "token": "ああ",
         "startTime": 168915,
         "endTime": 169251,
-        "pinyin": "aa"
+        "romaji": "aa",
+        "kana": "ああ"
       },
       {
         "token": "、",
         "startTime": 169251,
         "endTime": 169586,
-        "pinyin": ","
+        "romaji": ",",
+        "kana": "*"
       },
       {
         "token": "いつ",
         "startTime": 169586,
         "endTime": 169922,
-        "pinyin": "itsu"
+        "romaji": "itsu",
+        "kana": "いつ"
       },
       {
         "token": "来",
         "startTime": 169922,
         "endTime": 170257,
-        "pinyin": "rai"
+        "romaji": "rai",
+        "kana": "らい"
       },
       {
         "token": "ます",
         "startTime": 170257,
         "endTime": 170593,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "か",
         "startTime": 170593,
         "endTime": 170928,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "?",
         "startTime": 170928,
         "endTime": 171264,
-        "pinyin": "?"
+        "romaji": "?",
+        "kana": "*"
       },
       {
         "token": "何時",
         "startTime": 171264,
         "endTime": 171599,
-        "pinyin": "nan ji"
+        "romaji": "nan ji",
+        "kana": "なんじ"
       },
       {
         "token": "に",
         "startTime": 171599,
         "endTime": 171935,
-        "pinyin": "ni"
+        "romaji": "ni",
+        "kana": "に"
       }
     ]
   },
@@ -1927,37 +2175,43 @@
         "token": "来",
         "startTime": 171935,
         "endTime": 172372,
-        "pinyin": "rai"
+        "romaji": "rai",
+        "kana": "らい"
       },
       {
         "token": "ます",
         "startTime": 172372,
         "endTime": 172808,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "って",
         "startTime": 172808,
         "endTime": 173245,
-        "pinyin": "tte"
+        "romaji": "tte",
+        "kana": "って"
       },
       {
         "token": "いう",
         "startTime": 173245,
         "endTime": 173682,
-        "pinyin": "iu"
+        "romaji": "iu",
+        "kana": "いう"
       },
       {
         "token": "意味",
         "startTime": 173682,
         "endTime": 174118,
-        "pinyin": "imi"
+        "romaji": "imi",
+        "kana": "いみ"
       },
       {
         "token": "です",
         "startTime": 174118,
         "endTime": 174555,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       }
     ]
   },
@@ -1971,13 +2225,15 @@
         "token": "あ",
         "startTime": 174555,
         "endTime": 175235,
-        "pinyin": "a"
+        "romaji": "a",
+        "kana": "あ"
       },
       {
         "token": "、",
         "startTime": 175235,
         "endTime": 175375,
-        "pinyin": ","
+        "romaji": ",",
+        "kana": "*"
       }
     ]
   },
@@ -1991,49 +2247,57 @@
         "token": "り",
         "startTime": 175375,
         "endTime": 175873,
-        "pinyin": "ri"
+        "romaji": "ri",
+        "kana": "り"
       },
       {
         "token": "まし",
         "startTime": 175873,
         "endTime": 176370,
-        "pinyin": "mashi"
+        "romaji": "mashi",
+        "kana": "まし"
       },
       {
         "token": "た",
         "startTime": 176370,
         "endTime": 176868,
-        "pinyin": "ta"
+        "romaji": "ta",
+        "kana": "た"
       },
       {
         "token": "。",
         "startTime": 176868,
         "endTime": 177365,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       },
       {
         "token": "来週",
         "startTime": 177365,
         "endTime": 177862,
-        "pinyin": "raishuu"
+        "romaji": "raishuu",
+        "kana": "らいしゅう"
       },
       {
         "token": "の",
         "startTime": 177862,
         "endTime": 178360,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "金曜",
         "startTime": 178360,
         "endTime": 178858,
-        "pinyin": "kin'you"
+        "romaji": "kin'you",
+        "kana": "きんよう"
       },
       {
         "token": "日",
         "startTime": 178858,
         "endTime": 179355,
-        "pinyin": "hi"
+        "romaji": "hi",
+        "kana": "ひ"
       }
     ]
   },
@@ -2047,55 +2311,64 @@
         "token": "、",
         "startTime": 179355,
         "endTime": 179904,
-        "pinyin": ","
+        "romaji": ",",
+        "kana": "*"
       },
       {
         "token": "夕方",
         "startTime": 179904,
         "endTime": 180453,
-        "pinyin": "yuugata"
+        "romaji": "yuugata",
+        "kana": "ゆうがた"
       },
       {
         "token": "6",
         "startTime": 180453,
         "endTime": 181002,
-        "pinyin": "6"
+        "romaji": "6",
+        "kana": "6"
       },
       {
         "token": "時",
         "startTime": 181002,
         "endTime": 181551,
-        "pinyin": "toki"
+        "romaji": "toki",
+        "kana": "とき"
       },
       {
         "token": "で",
         "startTime": 181551,
         "endTime": 182099,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       },
       {
         "token": "お",
         "startTime": 182099,
         "endTime": 182648,
-        "pinyin": "o"
+        "romaji": "o",
+        "kana": "お"
       },
       {
         "token": "願い",
         "startTime": 182648,
         "endTime": 183197,
-        "pinyin": "negai"
+        "romaji": "negai",
+        "kana": "ねがい"
       },
       {
         "token": "し",
         "startTime": 183197,
         "endTime": 183746,
-        "pinyin": "shi"
+        "romaji": "shi",
+        "kana": "し"
       },
       {
         "token": "ます",
         "startTime": 183746,
         "endTime": 184295,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       }
     ]
   },
@@ -2109,49 +2382,57 @@
         "token": "はい",
         "startTime": 184295,
         "endTime": 184750,
-        "pinyin": "hai"
+        "romaji": "hai",
+        "kana": "はい"
       },
       {
         "token": "、",
         "startTime": 184750,
         "endTime": 185205,
-        "pinyin": ","
+        "romaji": ",",
+        "kana": "*"
       },
       {
         "token": "来週",
         "startTime": 185205,
         "endTime": 185660,
-        "pinyin": "raishuu"
+        "romaji": "raishuu",
+        "kana": "らいしゅう"
       },
       {
         "token": "の",
         "startTime": 185660,
         "endTime": 186115,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "金曜",
         "startTime": 186115,
         "endTime": 186570,
-        "pinyin": "kin'you"
+        "romaji": "kin'you",
+        "kana": "きんよう"
       },
       {
         "token": "日",
         "startTime": 186570,
         "endTime": 187025,
-        "pinyin": "hi"
+        "romaji": "hi",
+        "kana": "ひ"
       },
       {
         "token": "18",
         "startTime": 187025,
         "endTime": 187480,
-        "pinyin": "18"
+        "romaji": "18",
+        "kana": "18"
       },
       {
         "token": "時",
         "startTime": 187480,
         "endTime": 187935,
-        "pinyin": "toki"
+        "romaji": "toki",
+        "kana": "とき"
       }
     ]
   },
@@ -2165,19 +2446,22 @@
         "token": "から",
         "startTime": 187935,
         "endTime": 188575,
-        "pinyin": "kara"
+        "romaji": "kara",
+        "kana": "から"
       },
       {
         "token": "です",
         "startTime": 188575,
         "endTime": 189215,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "ね",
         "startTime": 189215,
         "endTime": 189855,
-        "pinyin": "ne"
+        "romaji": "ne",
+        "kana": "ね"
       }
     ]
   },
@@ -2191,37 +2475,43 @@
         "token": "何",
         "startTime": 189855,
         "endTime": 190275,
-        "pinyin": "nan"
+        "romaji": "nan",
+        "kana": "なん"
       },
       {
         "token": "名",
         "startTime": 190275,
         "endTime": 190695,
-        "pinyin": "mei"
+        "romaji": "mei",
+        "kana": "めい"
       },
       {
         "token": "様",
         "startTime": 190695,
         "endTime": 191115,
-        "pinyin": "sama"
+        "romaji": "sama",
+        "kana": "さま"
       },
       {
         "token": "です",
         "startTime": 191115,
         "endTime": 191535,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "か",
         "startTime": 191535,
         "endTime": 191955,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "?",
         "startTime": 191955,
         "endTime": 192375,
-        "pinyin": "?"
+        "romaji": "?",
+        "kana": "*"
       }
     ]
   },
@@ -2235,55 +2525,64 @@
         "token": "すみ",
         "startTime": 192375,
         "endTime": 192822,
-        "pinyin": "sumi"
+        "romaji": "sumi",
+        "kana": "すみ"
       },
       {
         "token": "ませ",
         "startTime": 192822,
         "endTime": 193268,
-        "pinyin": "mase"
+        "romaji": "mase",
+        "kana": "ませ"
       },
       {
         "token": "ん",
         "startTime": 193268,
         "endTime": 193715,
-        "pinyin": "n"
+        "romaji": "n",
+        "kana": "ん"
       },
       {
         "token": "。",
         "startTime": 193715,
         "endTime": 194162,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       },
       {
         "token": "何",
         "startTime": 194162,
         "endTime": 194608,
-        "pinyin": "nan"
+        "romaji": "nan",
+        "kana": "なん"
       },
       {
         "token": "名",
         "startTime": 194608,
         "endTime": 195055,
-        "pinyin": "mei"
+        "romaji": "mei",
+        "kana": "めい"
       },
       {
         "token": "様",
         "startTime": 195055,
         "endTime": 195502,
-        "pinyin": "sama"
+        "romaji": "sama",
+        "kana": "さま"
       },
       {
         "token": "って",
         "startTime": 195502,
         "endTime": 195948,
-        "pinyin": "tte"
+        "romaji": "tte",
+        "kana": "って"
       },
       {
         "token": "どう",
         "startTime": 195948,
         "endTime": 196395,
-        "pinyin": "dou"
+        "romaji": "dou",
+        "kana": "どう"
       }
     ]
   },
@@ -2297,31 +2596,36 @@
         "token": "いう",
         "startTime": 196395,
         "endTime": 196894,
-        "pinyin": "iu"
+        "romaji": "iu",
+        "kana": "いう"
       },
       {
         "token": "意味",
         "startTime": 196894,
         "endTime": 197393,
-        "pinyin": "imi"
+        "romaji": "imi",
+        "kana": "いみ"
       },
       {
         "token": "です",
         "startTime": 197393,
         "endTime": 197892,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "か",
         "startTime": 197892,
         "endTime": 198391,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "?",
         "startTime": 198391,
         "endTime": 198890,
-        "pinyin": "?"
+        "romaji": "?",
+        "kana": "*"
       }
     ]
   },
@@ -2335,49 +2639,57 @@
         "token": "お",
         "startTime": 198890,
         "endTime": 199090,
-        "pinyin": "o"
+        "romaji": "o",
+        "kana": "お"
       },
       {
         "token": "店",
         "startTime": 199090,
         "endTime": 199210,
-        "pinyin": "ten"
+        "romaji": "ten",
+        "kana": "てん"
       },
       {
         "token": "に",
         "startTime": 199210,
         "endTime": 199490,
-        "pinyin": "ni"
+        "romaji": "ni",
+        "kana": "に"
       },
       {
         "token": "来る",
         "startTime": 199490,
         "endTime": 199690,
-        "pinyin": "kuru"
+        "romaji": "kuru",
+        "kana": "くる"
       },
       {
         "token": "人",
         "startTime": 199690,
         "endTime": 199910,
-        "pinyin": "hito"
+        "romaji": "hito",
+        "kana": "ひと"
       },
       {
         "token": "は",
         "startTime": 199910,
         "endTime": 200270,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "何",
         "startTime": 200270,
         "endTime": 200870,
-        "pinyin": "nan"
+        "romaji": "nan",
+        "kana": "なん"
       },
       {
         "token": "人",
         "startTime": 200870,
         "endTime": 201050,
-        "pinyin": "hito"
+        "romaji": "hito",
+        "kana": "ひと"
       }
     ]
   },
@@ -2391,19 +2703,22 @@
         "token": "です",
         "startTime": 201050,
         "endTime": 201770,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "か",
         "startTime": 201770,
         "endTime": 202490,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "?",
         "startTime": 202490,
         "endTime": 203210,
-        "pinyin": "?"
+        "romaji": "?",
+        "kana": "*"
       }
     ]
   },
@@ -2417,49 +2732,57 @@
         "token": "あ",
         "startTime": 203210,
         "endTime": 203658,
-        "pinyin": "a"
+        "romaji": "a",
+        "kana": "あ"
       },
       {
         "token": "6",
         "startTime": 203658,
         "endTime": 204105,
-        "pinyin": "6"
+        "romaji": "6",
+        "kana": "6"
       },
       {
         "token": "人",
         "startTime": 204105,
         "endTime": 204553,
-        "pinyin": "hito"
+        "romaji": "hito",
+        "kana": "ひと"
       },
       {
         "token": "です",
         "startTime": 204553,
         "endTime": 205000,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "。",
         "startTime": 205000,
         "endTime": 205448,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       },
       {
         "token": "6",
         "startTime": 205448,
         "endTime": 205895,
-        "pinyin": "6"
+        "romaji": "6",
+        "kana": "6"
       },
       {
         "token": "人",
         "startTime": 205895,
         "endTime": 206343,
-        "pinyin": "hito"
+        "romaji": "hito",
+        "kana": "ひと"
       },
       {
         "token": "で",
         "startTime": 206343,
         "endTime": 206790,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       }
     ]
   },
@@ -2473,19 +2796,22 @@
         "token": "行き",
         "startTime": 206790,
         "endTime": 207430,
-        "pinyin": "iki"
+        "romaji": "iki",
+        "kana": "いき"
       },
       {
         "token": "ます",
         "startTime": 207430,
         "endTime": 208070,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "。",
         "startTime": 208070,
         "endTime": 208710,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       }
     ]
   },
@@ -2499,73 +2825,85 @@
         "token": "はい",
         "startTime": 208710,
         "endTime": 208960,
-        "pinyin": "hai"
+        "romaji": "hai",
+        "kana": "はい"
       },
       {
         "token": "、",
         "startTime": 208960,
         "endTime": 209210,
-        "pinyin": ","
+        "romaji": ",",
+        "kana": "*"
       },
       {
         "token": "6",
         "startTime": 209210,
         "endTime": 209460,
-        "pinyin": "6"
+        "romaji": "6",
+        "kana": "6"
       },
       {
         "token": "人",
         "startTime": 209460,
         "endTime": 209710,
-        "pinyin": "hito"
+        "romaji": "hito",
+        "kana": "ひと"
       },
       {
         "token": "です",
         "startTime": 209710,
         "endTime": 209960,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "ね",
         "startTime": 209960,
         "endTime": 210210,
-        "pinyin": "ne"
+        "romaji": "ne",
+        "kana": "ね"
       },
       {
         "token": "。",
         "startTime": 210210,
         "endTime": 210460,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       },
       {
         "token": "コース",
         "startTime": 210460,
         "endTime": 210710,
-        "pinyin": "koosu"
+        "romaji": "koosu",
+        "kana": "こーす"
       },
       {
         "token": "は",
         "startTime": 210710,
         "endTime": 210960,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "どう",
         "startTime": 210960,
         "endTime": 211210,
-        "pinyin": "dou"
+        "romaji": "dou",
+        "kana": "どう"
       },
       {
         "token": "し",
         "startTime": 211210,
         "endTime": 211460,
-        "pinyin": "shi"
+        "romaji": "shi",
+        "kana": "し"
       },
       {
         "token": "ます",
         "startTime": 211460,
         "endTime": 211710,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       }
     ]
   },
@@ -2579,7 +2917,8 @@
         "token": "か",
         "startTime": 211710,
         "endTime": 213330,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       }
     ]
   },
@@ -2593,37 +2932,43 @@
         "token": "?",
         "startTime": 213330,
         "endTime": 213963,
-        "pinyin": "?"
+        "romaji": "?",
+        "kana": "*"
       },
       {
         "token": "コース",
         "startTime": 213963,
         "endTime": 214597,
-        "pinyin": "koosu"
+        "romaji": "koosu",
+        "kana": "こーす"
       },
       {
         "token": "って",
         "startTime": 214597,
         "endTime": 215230,
-        "pinyin": "tte"
+        "romaji": "tte",
+        "kana": "って"
       },
       {
         "token": "です",
         "startTime": 215230,
         "endTime": 215863,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "か",
         "startTime": 215863,
         "endTime": 216497,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "?",
         "startTime": 216497,
         "endTime": 217130,
-        "pinyin": "?"
+        "romaji": "?",
+        "kana": "*"
       }
     ]
   },
@@ -2637,61 +2982,71 @@
         "token": "コース",
         "startTime": 217130,
         "endTime": 217564,
-        "pinyin": "koosu"
+        "romaji": "koosu",
+        "kana": "こーす"
       },
       {
         "token": "料理",
         "startTime": 217564,
         "endTime": 217998,
-        "pinyin": "ryouri"
+        "romaji": "ryouri",
+        "kana": "りょうり"
       },
       {
         "token": "です",
         "startTime": 217998,
         "endTime": 218432,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "。",
         "startTime": 218432,
         "endTime": 218866,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       },
       {
         "token": "料理",
         "startTime": 218866,
         "endTime": 219300,
-        "pinyin": "ryouri"
+        "romaji": "ryouri",
+        "kana": "りょうり"
       },
       {
         "token": "が",
         "startTime": 219300,
         "endTime": 219734,
-        "pinyin": "ga"
+        "romaji": "ga",
+        "kana": "が"
       },
       {
         "token": "決まっ",
         "startTime": 219734,
         "endTime": 220168,
-        "pinyin": "kima"
+        "romaji": "kima",
+        "kana": "きまっ"
       },
       {
         "token": "い",
         "startTime": 220168,
         "endTime": 220602,
-        "pinyin": "i"
+        "romaji": "i",
+        "kana": "い"
       },
       {
         "token": "ます",
         "startTime": 220602,
         "endTime": 221036,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "。",
         "startTime": 221036,
         "endTime": 221470,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       }
     ]
   },
@@ -2705,37 +3060,43 @@
         "token": "自分",
         "startTime": 221470,
         "endTime": 222130,
-        "pinyin": "jibun"
+        "romaji": "jibun",
+        "kana": "じぶん"
       },
       {
         "token": "で",
         "startTime": 222130,
         "endTime": 222790,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       },
       {
         "token": "選び",
         "startTime": 222790,
         "endTime": 223450,
-        "pinyin": "erabi"
+        "romaji": "erabi",
+        "kana": "えらび"
       },
       {
         "token": "ませ",
         "startTime": 223450,
         "endTime": 224110,
-        "pinyin": "mase"
+        "romaji": "mase",
+        "kana": "ませ"
       },
       {
         "token": "ん",
         "startTime": 224110,
         "endTime": 224770,
-        "pinyin": "n"
+        "romaji": "n",
+        "kana": "ん"
       },
       {
         "token": "あー",
         "startTime": 224770,
         "endTime": 225430,
-        "pinyin": "aa"
+        "romaji": "aa",
+        "kana": "あー"
       }
     ]
   },
@@ -2749,31 +3110,36 @@
         "token": "そう",
         "startTime": 225430,
         "endTime": 225874,
-        "pinyin": "sou"
+        "romaji": "sou",
+        "kana": "そう"
       },
       {
         "token": "な",
         "startTime": 225874,
         "endTime": 226318,
-        "pinyin": "na"
+        "romaji": "na",
+        "kana": "な"
       },
       {
         "token": "ん",
         "startTime": 226318,
         "endTime": 226762,
-        "pinyin": "n"
+        "romaji": "n",
+        "kana": "ん"
       },
       {
         "token": "です",
         "startTime": 226762,
         "endTime": 227206,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "ね",
         "startTime": 227206,
         "endTime": 227650,
-        "pinyin": "ne"
+        "romaji": "ne",
+        "kana": "ね"
       }
     ]
   },
@@ -2787,19 +3153,22 @@
         "token": "いくら",
         "startTime": 227650,
         "endTime": 228410,
-        "pinyin": "ikura"
+        "romaji": "ikura",
+        "kana": "いくら"
       },
       {
         "token": "です",
         "startTime": 228410,
         "endTime": 229170,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "か",
         "startTime": 229170,
         "endTime": 229930,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       }
     ]
   },
@@ -2813,31 +3182,36 @@
         "token": "値段",
         "startTime": 229930,
         "endTime": 230646,
-        "pinyin": "nedan"
+        "romaji": "nedan",
+        "kana": "ねだん"
       },
       {
         "token": "は",
         "startTime": 230646,
         "endTime": 231362,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "いくら",
         "startTime": 231362,
         "endTime": 232078,
-        "pinyin": "ikura"
+        "romaji": "ikura",
+        "kana": "いくら"
       },
       {
         "token": "です",
         "startTime": 232078,
         "endTime": 232794,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "か",
         "startTime": 232794,
         "endTime": 233510,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       }
     ]
   },
@@ -2851,43 +3225,50 @@
         "token": "4",
         "startTime": 233510,
         "endTime": 233970,
-        "pinyin": "4"
+        "romaji": "4",
+        "kana": "4"
       },
       {
         "token": "000",
         "startTime": 233970,
         "endTime": 234190,
-        "pinyin": "000"
+        "romaji": "000",
+        "kana": "000"
       },
       {
         "token": "円",
         "startTime": 234190,
         "endTime": 234470,
-        "pinyin": "en"
+        "romaji": "en",
+        "kana": "えん"
       },
       {
         "token": "5000",
         "startTime": 234470,
         "endTime": 235310,
-        "pinyin": "5000"
+        "romaji": "5000",
+        "kana": "5000"
       },
       {
         "token": "円",
         "startTime": 235310,
         "endTime": 235690,
-        "pinyin": "en"
+        "romaji": "en",
+        "kana": "えん"
       },
       {
         "token": "6000",
         "startTime": 235690,
         "endTime": 236890,
-        "pinyin": "6000"
+        "romaji": "6000",
+        "kana": "6000"
       },
       {
         "token": "円",
         "startTime": 236890,
         "endTime": 237250,
-        "pinyin": "en"
+        "romaji": "en",
+        "kana": "えん"
       }
     ]
   },
@@ -2899,37 +3280,43 @@
         "token": "の",
         "startTime": 237250,
         "endTime": 237880,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "3",
         "startTime": 237880,
         "endTime": 238510,
-        "pinyin": "3"
+        "romaji": "3",
+        "kana": "3"
       },
       {
         "token": "つ",
         "startTime": 238510,
         "endTime": 239140,
-        "pinyin": "tsu"
+        "romaji": "tsu",
+        "kana": "つ"
       },
       {
         "token": "が",
         "startTime": 239140,
         "endTime": 239770,
-        "pinyin": "ga"
+        "romaji": "ga",
+        "kana": "が"
       },
       {
         "token": "あり",
         "startTime": 239770,
         "endTime": 240400,
-        "pinyin": "ari"
+        "romaji": "ari",
+        "kana": "あり"
       },
       {
         "token": "ます",
         "startTime": 240400,
         "endTime": 241030,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       }
     ]
   },
@@ -2943,37 +3330,43 @@
         "token": "飲み物",
         "startTime": 241030,
         "endTime": 241667,
-        "pinyin": "nomimono"
+        "romaji": "nomimono",
+        "kana": "のみもの"
       },
       {
         "token": "は",
         "startTime": 241667,
         "endTime": 242303,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "つき",
         "startTime": 242303,
         "endTime": 242940,
-        "pinyin": "tsuki"
+        "romaji": "tsuki",
+        "kana": "つき"
       },
       {
         "token": "ます",
         "startTime": 242940,
         "endTime": 243577,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "か",
         "startTime": 243577,
         "endTime": 244213,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "その",
         "startTime": 244213,
         "endTime": 244850,
-        "pinyin": "sono"
+        "romaji": "sono",
+        "kana": "その"
       }
     ]
   },
@@ -2987,43 +3380,50 @@
         "token": "値段",
         "startTime": 244850,
         "endTime": 245230,
-        "pinyin": "nedan"
+        "romaji": "nedan",
+        "kana": "ねだん"
       },
       {
         "token": "で",
         "startTime": 245230,
         "endTime": 245470,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       },
       {
         "token": "飲み物",
         "startTime": 245470,
         "endTime": 246710,
-        "pinyin": "nomimono"
+        "romaji": "nomimono",
+        "kana": "のみもの"
       },
       {
         "token": "も",
         "startTime": 246710,
         "endTime": 246950,
-        "pinyin": "mo"
+        "romaji": "mo",
+        "kana": "も"
       },
       {
         "token": "飲め",
         "startTime": 246950,
         "endTime": 247690,
-        "pinyin": "nome"
+        "romaji": "nome",
+        "kana": "のめ"
       },
       {
         "token": "ます",
         "startTime": 247690,
         "endTime": 247890,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "か",
         "startTime": 247890,
         "endTime": 249210,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       }
     ]
   },
@@ -3037,61 +3437,71 @@
         "token": "飲み",
         "startTime": 249210,
         "endTime": 249670,
-        "pinyin": "nomi"
+        "romaji": "nomi",
+        "kana": "のみ"
       },
       {
         "token": "放題",
         "startTime": 249670,
         "endTime": 250130,
-        "pinyin": "houdai"
+        "romaji": "houdai",
+        "kana": "ほうだい"
       },
       {
         "token": "は",
         "startTime": 250130,
         "endTime": 250590,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "プラス",
         "startTime": 250590,
         "endTime": 251050,
-        "pinyin": "purasu"
+        "romaji": "purasu",
+        "kana": "ぷらす"
       },
       {
         "token": "15",
         "startTime": 251050,
         "endTime": 251510,
-        "pinyin": "15"
+        "romaji": "15",
+        "kana": "15"
       },
       {
         "token": "00",
         "startTime": 251510,
         "endTime": 251970,
-        "pinyin": "00"
+        "romaji": "00",
+        "kana": "00"
       },
       {
         "token": "円",
         "startTime": 251970,
         "endTime": 252430,
-        "pinyin": "en"
+        "romaji": "en",
+        "kana": "えん"
       },
       {
         "token": "です",
         "startTime": 252430,
         "endTime": 252890,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "ね",
         "startTime": 252890,
         "endTime": 253350,
-        "pinyin": "ne"
+        "romaji": "ne",
+        "kana": "ね"
       },
       {
         "token": "。",
         "startTime": 253350,
         "endTime": 253810,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       }
     ]
   },
@@ -3105,43 +3515,50 @@
         "token": "1",
         "startTime": 253810,
         "endTime": 254430,
-        "pinyin": "1"
+        "romaji": "1",
+        "kana": "1"
       },
       {
         "token": "時間",
         "startTime": 254430,
         "endTime": 255050,
-        "pinyin": "jikan"
+        "romaji": "jikan",
+        "kana": "じかん"
       },
       {
         "token": "半",
         "startTime": 255050,
         "endTime": 255670,
-        "pinyin": "han"
+        "romaji": "han",
+        "kana": "はん"
       },
       {
         "token": "たくさん",
         "startTime": 255670,
         "endTime": 256290,
-        "pinyin": "takusan"
+        "romaji": "takusan",
+        "kana": "たくさん"
       },
       {
         "token": "飲め",
         "startTime": 256290,
         "endTime": 256910,
-        "pinyin": "nome"
+        "romaji": "nome",
+        "kana": "のめ"
       },
       {
         "token": "ます",
         "startTime": 256910,
         "endTime": 257530,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "。",
         "startTime": 257530,
         "endTime": 258150,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       }
     ]
   },
@@ -3155,43 +3572,50 @@
         "token": "そう",
         "startTime": 258150,
         "endTime": 258559,
-        "pinyin": "sou"
+        "romaji": "sou",
+        "kana": "そう"
       },
       {
         "token": "な",
         "startTime": 258559,
         "endTime": 258967,
-        "pinyin": "na"
+        "romaji": "na",
+        "kana": "な"
       },
       {
         "token": "です",
         "startTime": 258967,
         "endTime": 259376,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "ね",
         "startTime": 259376,
         "endTime": 259784,
-        "pinyin": "ne"
+        "romaji": "ne",
+        "kana": "ね"
       },
       {
         "token": "。",
         "startTime": 259784,
         "endTime": 260193,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       },
       {
         "token": "うーん",
         "startTime": 260193,
         "endTime": 260601,
-        "pinyin": "uun"
+        "romaji": "uun",
+        "kana": "うーん"
       },
       {
         "token": "、",
         "startTime": 260601,
         "endTime": 261010,
-        "pinyin": ","
+        "romaji": ",",
+        "kana": "*"
       }
     ]
   },
@@ -3205,49 +3629,57 @@
         "token": "どう",
         "startTime": 261010,
         "endTime": 261415,
-        "pinyin": "dou"
+        "romaji": "dou",
+        "kana": "どう"
       },
       {
         "token": "する",
         "startTime": 261415,
         "endTime": 261820,
-        "pinyin": "suru"
+        "romaji": "suru",
+        "kana": "する"
       },
       {
         "token": "の",
         "startTime": 261820,
         "endTime": 262225,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "が",
         "startTime": 262225,
         "endTime": 262630,
-        "pinyin": "ga"
+        "romaji": "ga",
+        "kana": "が"
       },
       {
         "token": "いい",
         "startTime": 262630,
         "endTime": 263035,
-        "pinyin": "ii"
+        "romaji": "ii",
+        "kana": "いい"
       },
       {
         "token": "です",
         "startTime": 263035,
         "endTime": 263440,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "か",
         "startTime": 263440,
         "endTime": 263845,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "?",
         "startTime": 263845,
         "endTime": 264250,
-        "pinyin": "?"
+        "romaji": "?",
+        "kana": "*"
       }
     ]
   },
@@ -3261,55 +3693,64 @@
         "token": "コース",
         "startTime": 264250,
         "endTime": 264601,
-        "pinyin": "koosu"
+        "romaji": "koosu",
+        "kana": "こーす"
       },
       {
         "token": "なら",
         "startTime": 264601,
         "endTime": 264952,
-        "pinyin": "nara"
+        "romaji": "nara",
+        "kana": "なら"
       },
       {
         "token": "飲み",
         "startTime": 264952,
         "endTime": 265303,
-        "pinyin": "nomi"
+        "romaji": "nomi",
+        "kana": "のみ"
       },
       {
         "token": "放題",
         "startTime": 265303,
         "endTime": 265654,
-        "pinyin": "houdai"
+        "romaji": "houdai",
+        "kana": "ほうだい"
       },
       {
         "token": "が",
         "startTime": 265654,
         "endTime": 266006,
-        "pinyin": "ga"
+        "romaji": "ga",
+        "kana": "が"
       },
       {
         "token": "お",
         "startTime": 266006,
         "endTime": 266357,
-        "pinyin": "o"
+        "romaji": "o",
+        "kana": "お"
       },
       {
         "token": "すすめ",
         "startTime": 266357,
         "endTime": 266708,
-        "pinyin": "susume"
+        "romaji": "susume",
+        "kana": "すすめ"
       },
       {
         "token": "です",
         "startTime": 266708,
         "endTime": 267059,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "。",
         "startTime": 267059,
         "endTime": 267410,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       }
     ]
   },
@@ -3323,19 +3764,22 @@
         "token": "それ",
         "startTime": 267410,
         "endTime": 268370,
-        "pinyin": "sore"
+        "romaji": "sore",
+        "kana": "それ"
       },
       {
         "token": "か",
         "startTime": 268370,
         "endTime": 268750,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "、",
         "startTime": 268750,
         "endTime": 269510,
-        "pinyin": ","
+        "romaji": ",",
+        "kana": "*"
       }
     ]
   },
@@ -3349,37 +3793,43 @@
         "token": "席",
         "startTime": 269510,
         "endTime": 270140,
-        "pinyin": "seki"
+        "romaji": "seki",
+        "kana": "せき"
       },
       {
         "token": "だけ",
         "startTime": 270140,
         "endTime": 270770,
-        "pinyin": "dake"
+        "romaji": "dake",
+        "kana": "だけ"
       },
       {
         "token": "予約",
         "startTime": 270770,
         "endTime": 271400,
-        "pinyin": "yoyaku"
+        "romaji": "yoyaku",
+        "kana": "よやく"
       },
       {
         "token": "き",
         "startTime": 271400,
         "endTime": 272030,
-        "pinyin": "ki"
+        "romaji": "ki",
+        "kana": "き"
       },
       {
         "token": "ます",
         "startTime": 272030,
         "endTime": 272660,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "。",
         "startTime": 272660,
         "endTime": 273290,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       }
     ]
   },
@@ -3393,49 +3843,57 @@
         "token": "席",
         "startTime": 273290,
         "endTime": 273740,
-        "pinyin": "seki"
+        "romaji": "seki",
+        "kana": "せき"
       },
       {
         "token": "だけ",
         "startTime": 273740,
         "endTime": 274190,
-        "pinyin": "dake"
+        "romaji": "dake",
+        "kana": "だけ"
       },
       {
         "token": "予約",
         "startTime": 274190,
         "endTime": 274640,
-        "pinyin": "yoyaku"
+        "romaji": "yoyaku",
+        "kana": "よやく"
       },
       {
         "token": "は",
         "startTime": 274640,
         "endTime": 275090,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "どう",
         "startTime": 275090,
         "endTime": 275540,
-        "pinyin": "dou"
+        "romaji": "dou",
+        "kana": "どう"
       },
       {
         "token": "なり",
         "startTime": 275540,
         "endTime": 275990,
-        "pinyin": "nari"
+        "romaji": "nari",
+        "kana": "なり"
       },
       {
         "token": "ます",
         "startTime": 275990,
         "endTime": 276440,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "か",
         "startTime": 276440,
         "endTime": 276890,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       }
     ]
   },
@@ -3449,43 +3907,50 @@
         "token": "その",
         "startTime": 276890,
         "endTime": 278470,
-        "pinyin": "sono"
+        "romaji": "sono",
+        "kana": "その"
       },
       {
         "token": "日",
         "startTime": 278470,
         "endTime": 278550,
-        "pinyin": "hi"
+        "romaji": "hi",
+        "kana": "ひ"
       },
       {
         "token": "は",
         "startTime": 278550,
         "endTime": 278790,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "6",
         "startTime": 278790,
         "endTime": 279470,
-        "pinyin": "6"
+        "romaji": "6",
+        "kana": "6"
       },
       {
         "token": "人",
         "startTime": 279470,
         "endTime": 279770,
-        "pinyin": "hito"
+        "romaji": "hito",
+        "kana": "ひと"
       },
       {
         "token": "で",
         "startTime": 279770,
         "endTime": 280010,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       },
       {
         "token": "来",
         "startTime": 280010,
         "endTime": 280430,
-        "pinyin": "rai"
+        "romaji": "rai",
+        "kana": "らい"
       }
     ]
   },
@@ -3499,49 +3964,57 @@
         "token": "て",
         "startTime": 280430,
         "endTime": 280530,
-        "pinyin": "te"
+        "romaji": "te",
+        "kana": "て"
       },
       {
         "token": "ください",
         "startTime": 280530,
         "endTime": 281510,
-        "pinyin": "kudasai"
+        "romaji": "kudasai",
+        "kana": "ください"
       },
       {
         "token": "料理",
         "startTime": 281510,
         "endTime": 282330,
-        "pinyin": "ryouri"
+        "romaji": "ryouri",
+        "kana": "りょうり"
       },
       {
         "token": "は",
         "startTime": 282330,
         "endTime": 282510,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "お",
         "startTime": 282510,
         "endTime": 283130,
-        "pinyin": "o"
+        "romaji": "o",
+        "kana": "お"
       },
       {
         "token": "店",
         "startTime": 283130,
         "endTime": 283270,
-        "pinyin": "ten"
+        "romaji": "ten",
+        "kana": "てん"
       },
       {
         "token": "で",
         "startTime": 283270,
         "endTime": 283550,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       },
       {
         "token": "選び",
         "startTime": 283550,
         "endTime": 284430,
-        "pinyin": "erabi"
+        "romaji": "erabi",
+        "kana": "えらび"
       }
     ]
   },
@@ -3555,25 +4028,29 @@
         "token": "ます",
         "startTime": 284430,
         "endTime": 284810,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "その",
         "startTime": 284810,
         "endTime": 287770,
-        "pinyin": "sono"
+        "romaji": "sono",
+        "kana": "その"
       },
       {
         "token": "日",
         "startTime": 287770,
         "endTime": 287890,
-        "pinyin": "hi"
+        "romaji": "hi",
+        "kana": "ひ"
       },
       {
         "token": "に",
         "startTime": 287890,
         "endTime": 288150,
-        "pinyin": "ni"
+        "romaji": "ni",
+        "kana": "に"
       }
     ]
   },
@@ -3587,37 +4064,43 @@
         "token": "飲み",
         "startTime": 288150,
         "endTime": 288690,
-        "pinyin": "nomi"
+        "romaji": "nomi",
+        "kana": "のみ"
       },
       {
         "token": "放題",
         "startTime": 288690,
         "endTime": 289230,
-        "pinyin": "houdai"
+        "romaji": "houdai",
+        "kana": "ほうだい"
       },
       {
         "token": "も",
         "startTime": 289230,
         "endTime": 289770,
-        "pinyin": "mo"
+        "romaji": "mo",
+        "kana": "も"
       },
       {
         "token": "でき",
         "startTime": 289770,
         "endTime": 290310,
-        "pinyin": "deki"
+        "romaji": "deki",
+        "kana": "でき"
       },
       {
         "token": "ます",
         "startTime": 290310,
         "endTime": 290850,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "か",
         "startTime": 290850,
         "endTime": 291390,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       }
     ]
   },
@@ -3631,43 +4114,50 @@
         "token": "飲み",
         "startTime": 291390,
         "endTime": 292190,
-        "pinyin": "nomi"
+        "romaji": "nomi",
+        "kana": "のみ"
       },
       {
         "token": "放題",
         "startTime": 292190,
         "endTime": 292510,
-        "pinyin": "houdai"
+        "romaji": "houdai",
+        "kana": "ほうだい"
       },
       {
         "token": "も",
         "startTime": 292510,
         "endTime": 292730,
-        "pinyin": "mo"
+        "romaji": "mo",
+        "kana": "も"
       },
       {
         "token": "その",
         "startTime": 292730,
         "endTime": 293590,
-        "pinyin": "sono"
+        "romaji": "sono",
+        "kana": "その"
       },
       {
         "token": "日",
         "startTime": 293590,
         "endTime": 293730,
-        "pinyin": "hi"
+        "romaji": "hi",
+        "kana": "ひ"
       },
       {
         "token": "に",
         "startTime": 293730,
         "endTime": 293890,
-        "pinyin": "ni"
+        "romaji": "ni",
+        "kana": "に"
       },
       {
         "token": "注文",
         "startTime": 293890,
         "endTime": 294990,
-        "pinyin": "chuumon"
+        "romaji": "chuumon",
+        "kana": "ちゅうもん"
       }
     ]
   },
@@ -3681,49 +4171,57 @@
         "token": "でき",
         "startTime": 294990,
         "endTime": 295285,
-        "pinyin": "deki"
+        "romaji": "deki",
+        "kana": "でき"
       },
       {
         "token": "ます",
         "startTime": 295285,
         "endTime": 295580,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "か",
         "startTime": 295580,
         "endTime": 295875,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "はい",
         "startTime": 295875,
         "endTime": 296170,
-        "pinyin": "hai"
+        "romaji": "hai",
+        "kana": "はい"
       },
       {
         "token": "でき",
         "startTime": 296170,
         "endTime": 296465,
-        "pinyin": "deki"
+        "romaji": "deki",
+        "kana": "でき"
       },
       {
         "token": "ます",
         "startTime": 296465,
         "endTime": 296760,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "か",
         "startTime": 296760,
         "endTime": 297055,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "?",
         "startTime": 297055,
         "endTime": 297350,
-        "pinyin": "?"
+        "romaji": "?",
+        "kana": "*"
       }
     ]
   },
@@ -3737,37 +4235,43 @@
         "token": "か",
         "startTime": 297350,
         "endTime": 297739,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "はい",
         "startTime": 297739,
         "endTime": 298128,
-        "pinyin": "hai"
+        "romaji": "hai",
+        "kana": "はい"
       },
       {
         "token": "、",
         "startTime": 298128,
         "endTime": 298518,
-        "pinyin": ","
+        "romaji": ",",
+        "kana": "*"
       },
       {
         "token": "でき",
         "startTime": 298518,
         "endTime": 298907,
-        "pinyin": "deki"
+        "romaji": "deki",
+        "kana": "でき"
       },
       {
         "token": "ます",
         "startTime": 298907,
         "endTime": 299296,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "。",
         "startTime": 299296,
         "endTime": 299685,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       }
     ]
   },
@@ -3781,43 +4285,50 @@
         "token": "当日",
         "startTime": 299685,
         "endTime": 300202,
-        "pinyin": "toujitsu"
+        "romaji": "toujitsu",
+        "kana": "とうじつ"
       },
       {
         "token": "に",
         "startTime": 300202,
         "endTime": 300719,
-        "pinyin": "ni"
+        "romaji": "ni",
+        "kana": "に"
       },
       {
         "token": "注文",
         "startTime": 300719,
         "endTime": 301236,
-        "pinyin": "chuumon"
+        "romaji": "chuumon",
+        "kana": "ちゅうもん"
       },
       {
         "token": "も",
         "startTime": 301236,
         "endTime": 301754,
-        "pinyin": "mo"
+        "romaji": "mo",
+        "kana": "も"
       },
       {
         "token": "でき",
         "startTime": 301754,
         "endTime": 302271,
-        "pinyin": "deki"
+        "romaji": "deki",
+        "kana": "でき"
       },
       {
         "token": "ます",
         "startTime": 302271,
         "endTime": 302788,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "よ",
         "startTime": 302788,
         "endTime": 303305,
-        "pinyin": "yo"
+        "romaji": "yo",
+        "kana": "よ"
       }
     ]
   },
@@ -3831,55 +4342,64 @@
         "token": "1",
         "startTime": 303305,
         "endTime": 303772,
-        "pinyin": "1"
+        "romaji": "1",
+        "kana": "1"
       },
       {
         "token": "時間",
         "startTime": 303772,
         "endTime": 304238,
-        "pinyin": "jikan"
+        "romaji": "jikan",
+        "kana": "じかん"
       },
       {
         "token": "半",
         "startTime": 304238,
         "endTime": 304705,
-        "pinyin": "han"
+        "romaji": "han",
+        "kana": "はん"
       },
       {
         "token": "で",
         "startTime": 304705,
         "endTime": 305172,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       },
       {
         "token": "15",
         "startTime": 305172,
         "endTime": 305638,
-        "pinyin": "15"
+        "romaji": "15",
+        "kana": "15"
       },
       {
         "token": "00",
         "startTime": 305638,
         "endTime": 306105,
-        "pinyin": "00"
+        "romaji": "00",
+        "kana": "00"
       },
       {
         "token": "円",
         "startTime": 306105,
         "endTime": 306572,
-        "pinyin": "en"
+        "romaji": "en",
+        "kana": "えん"
       },
       {
         "token": "です",
         "startTime": 306572,
         "endTime": 307038,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "。",
         "startTime": 307038,
         "endTime": 307505,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       }
     ]
   },
@@ -3893,67 +4413,78 @@
         "token": "あ",
         "startTime": 307505,
         "endTime": 307994,
-        "pinyin": "a"
+        "romaji": "a",
+        "kana": "あ"
       },
       {
         "token": "じゃあ",
         "startTime": 307994,
         "endTime": 308483,
-        "pinyin": "jaa"
+        "romaji": "jaa",
+        "kana": "じゃあ"
       },
       {
         "token": "席",
         "startTime": 308483,
         "endTime": 308972,
-        "pinyin": "seki"
+        "romaji": "seki",
+        "kana": "せき"
       },
       {
         "token": "だけ",
         "startTime": 308972,
         "endTime": 309461,
-        "pinyin": "dake"
+        "romaji": "dake",
+        "kana": "だけ"
       },
       {
         "token": "予約",
         "startTime": 309461,
         "endTime": 309950,
-        "pinyin": "yoyaku"
+        "romaji": "yoyaku",
+        "kana": "よやく"
       },
       {
         "token": "で",
         "startTime": 309950,
         "endTime": 310440,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       },
       {
         "token": "お",
         "startTime": 310440,
         "endTime": 310929,
-        "pinyin": "o"
+        "romaji": "o",
+        "kana": "お"
       },
       {
         "token": "願い",
         "startTime": 310929,
         "endTime": 311418,
-        "pinyin": "negai"
+        "romaji": "negai",
+        "kana": "ねがい"
       },
       {
         "token": "し",
         "startTime": 311418,
         "endTime": 311907,
-        "pinyin": "shi"
+        "romaji": "shi",
+        "kana": "し"
       },
       {
         "token": "ます",
         "startTime": 311907,
         "endTime": 312396,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "。",
         "startTime": 312396,
         "endTime": 312885,
-        "pinyin": "."
+        "romaji": ".",
+        "kana": "*"
       }
     ]
   },
@@ -3967,31 +4498,36 @@
         "token": "友達",
         "startTime": 312885,
         "endTime": 313325,
-        "pinyin": "tomodachi"
+        "romaji": "tomodachi",
+        "kana": "ともだち"
       },
       {
         "token": "と",
         "startTime": 313325,
         "endTime": 313545,
-        "pinyin": "to"
+        "romaji": "to",
+        "kana": "と"
       },
       {
         "token": "話し",
         "startTime": 313545,
         "endTime": 314345,
-        "pinyin": "hanashi"
+        "romaji": "hanashi",
+        "kana": "はなし"
       },
       {
         "token": "て",
         "startTime": 314345,
         "endTime": 315205,
-        "pinyin": "te"
+        "romaji": "te",
+        "kana": "て"
       },
       {
         "token": "決め",
         "startTime": 315205,
         "endTime": 317285,
-        "pinyin": "kime"
+        "romaji": "kime",
+        "kana": "きめ"
       }
     ]
   },
@@ -4005,43 +4541,50 @@
         "token": "ます",
         "startTime": 317285,
         "endTime": 317705,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "何",
         "startTime": 317705,
         "endTime": 317965,
-        "pinyin": "nan"
+        "romaji": "nan",
+        "kana": "なん"
       },
       {
         "token": "を",
         "startTime": 317965,
         "endTime": 318265,
-        "pinyin": "wo"
+        "romaji": "wo",
+        "kana": "を"
       },
       {
         "token": "食べ",
         "startTime": 318265,
         "endTime": 319185,
-        "pinyin": "tabe"
+        "romaji": "tabe",
+        "kana": "たべ"
       },
       {
         "token": "たい",
         "startTime": 319185,
         "endTime": 319685,
-        "pinyin": "tai"
+        "romaji": "tai",
+        "kana": "たい"
       },
       {
         "token": "か",
         "startTime": 319685,
         "endTime": 320065,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "友達",
         "startTime": 320065,
         "endTime": 321705,
-        "pinyin": "tomodachi"
+        "romaji": "tomodachi",
+        "kana": "ともだち"
       }
     ]
   },
@@ -4055,43 +4598,50 @@
         "token": "と",
         "startTime": 321705,
         "endTime": 322265,
-        "pinyin": "to"
+        "romaji": "to",
+        "kana": "と"
       },
       {
         "token": "当日",
         "startTime": 322265,
         "endTime": 322825,
-        "pinyin": "toujitsu"
+        "romaji": "toujitsu",
+        "kana": "とうじつ"
       },
       {
         "token": "話し",
         "startTime": 322825,
         "endTime": 323385,
-        "pinyin": "hanashi"
+        "romaji": "hanashi",
+        "kana": "はなし"
       },
       {
         "token": "た",
         "startTime": 323385,
         "endTime": 323945,
-        "pinyin": "ta"
+        "romaji": "ta",
+        "kana": "た"
       },
       {
         "token": "いり",
         "startTime": 323945,
         "endTime": 324505,
-        "pinyin": "iri"
+        "romaji": "iri",
+        "kana": "いり"
       },
       {
         "token": "まし",
         "startTime": 324505,
         "endTime": 325065,
-        "pinyin": "mashi"
+        "romaji": "mashi",
+        "kana": "まし"
       },
       {
         "token": "た",
         "startTime": 325065,
         "endTime": 325625,
-        "pinyin": "ta"
+        "romaji": "ta",
+        "kana": "た"
       }
     ]
   },
@@ -4105,37 +4655,43 @@
         "token": "で",
         "startTime": 325625,
         "endTime": 325965,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       },
       {
         "token": "は",
         "startTime": 325965,
         "endTime": 326705,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "来週",
         "startTime": 326705,
         "endTime": 327245,
-        "pinyin": "raishuu"
+        "romaji": "raishuu",
+        "kana": "らいしゅう"
       },
       {
         "token": "の",
         "startTime": 327245,
         "endTime": 327625,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "金曜",
         "startTime": 327625,
         "endTime": 328185,
-        "pinyin": "kin'you"
+        "romaji": "kin'you",
+        "kana": "きんよう"
       },
       {
         "token": "18",
         "startTime": 328185,
         "endTime": 329185,
-        "pinyin": "18"
+        "romaji": "18",
+        "kana": "18"
       }
     ]
   },
@@ -4149,55 +4705,64 @@
         "token": "時",
         "startTime": 329185,
         "endTime": 329596,
-        "pinyin": "toki"
+        "romaji": "toki",
+        "kana": "とき"
       },
       {
         "token": "6",
         "startTime": 329596,
         "endTime": 330007,
-        "pinyin": "6"
+        "romaji": "6",
+        "kana": "6"
       },
       {
         "token": "人",
         "startTime": 330007,
         "endTime": 330418,
-        "pinyin": "hito"
+        "romaji": "hito",
+        "kana": "ひと"
       },
       {
         "token": "で",
         "startTime": 330418,
         "endTime": 330829,
-        "pinyin": "de"
+        "romaji": "de",
+        "kana": "で"
       },
       {
         "token": "席",
         "startTime": 330829,
         "endTime": 331241,
-        "pinyin": "seki"
+        "romaji": "seki",
+        "kana": "せき"
       },
       {
         "token": "の",
         "startTime": 331241,
         "endTime": 331652,
-        "pinyin": "no"
+        "romaji": "no",
+        "kana": "の"
       },
       {
         "token": "予約",
         "startTime": 331652,
         "endTime": 332063,
-        "pinyin": "yoyaku"
+        "romaji": "yoyaku",
+        "kana": "よやく"
       },
       {
         "token": "です",
         "startTime": 332063,
         "endTime": 332474,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "ね",
         "startTime": 332474,
         "endTime": 332885,
-        "pinyin": "ne"
+        "romaji": "ne",
+        "kana": "ね"
       }
     ]
   },
@@ -4211,31 +4776,36 @@
         "token": "15",
         "startTime": 332885,
         "endTime": 334565,
-        "pinyin": "15"
+        "romaji": "15",
+        "kana": "15"
       },
       {
         "token": "分",
         "startTime": 334565,
         "endTime": 334925,
-        "pinyin": "bun"
+        "romaji": "bun",
+        "kana": "ぶん"
       },
       {
         "token": "遅れる",
         "startTime": 334925,
         "endTime": 335765,
-        "pinyin": "okureru"
+        "romaji": "okureru",
+        "kana": "おくれる"
       },
       {
         "token": "と",
         "startTime": 335765,
         "endTime": 336045,
-        "pinyin": "to"
+        "romaji": "to",
+        "kana": "と"
       },
       {
         "token": "キャンセル",
         "startTime": 336045,
         "endTime": 337105,
-        "pinyin": "kyanseru"
+        "romaji": "kyanseru",
+        "kana": "きゃんせる"
       }
     ]
   },
@@ -4249,19 +4819,22 @@
         "token": "に",
         "startTime": 337105,
         "endTime": 337852,
-        "pinyin": "ni"
+        "romaji": "ni",
+        "kana": "に"
       },
       {
         "token": "り",
         "startTime": 337852,
         "endTime": 338598,
-        "pinyin": "ri"
+        "romaji": "ri",
+        "kana": "り"
       },
       {
         "token": "ます",
         "startTime": 338598,
         "endTime": 339345,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       }
     ]
   },
@@ -4275,43 +4848,50 @@
         "token": "どう",
         "startTime": 339345,
         "endTime": 339876,
-        "pinyin": "dou"
+        "romaji": "dou",
+        "kana": "どう"
       },
       {
         "token": "いう",
         "startTime": 339876,
         "endTime": 340408,
-        "pinyin": "iu"
+        "romaji": "iu",
+        "kana": "いう"
       },
       {
         "token": "こと",
         "startTime": 340408,
         "endTime": 340939,
-        "pinyin": "koto"
+        "romaji": "koto",
+        "kana": "こと"
       },
       {
         "token": "です",
         "startTime": 340939,
         "endTime": 341471,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "か",
         "startTime": 341471,
         "endTime": 342002,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "15",
         "startTime": 342002,
         "endTime": 342534,
-        "pinyin": "15"
+        "romaji": "15",
+        "kana": "15"
       },
       {
         "token": "分",
         "startTime": 342534,
         "endTime": 343065,
-        "pinyin": "bun"
+        "romaji": "bun",
+        "kana": "ぶん"
       }
     ]
   },
@@ -4325,25 +4905,29 @@
         "token": "遅れる",
         "startTime": 343065,
         "endTime": 343865,
-        "pinyin": "okureru"
+        "romaji": "okureru",
+        "kana": "おくれる"
       },
       {
         "token": "と",
         "startTime": 343865,
         "endTime": 344185,
-        "pinyin": "to"
+        "romaji": "to",
+        "kana": "と"
       },
       {
         "token": "予約",
         "startTime": 344185,
         "endTime": 345445,
-        "pinyin": "yoyaku"
+        "romaji": "yoyaku",
+        "kana": "よやく"
       },
       {
         "token": "は",
         "startTime": 345445,
         "endTime": 346625,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       }
     ]
   },
@@ -4357,49 +4941,57 @@
         "token": "なく",
         "startTime": 346625,
         "endTime": 347240,
-        "pinyin": "naku"
+        "romaji": "naku",
+        "kana": "なく"
       },
       {
         "token": "なり",
         "startTime": 347240,
         "endTime": 347855,
-        "pinyin": "nari"
+        "romaji": "nari",
+        "kana": "なり"
       },
       {
         "token": "ます",
         "startTime": 347855,
         "endTime": 348470,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "か",
         "startTime": 348470,
         "endTime": 349085,
-        "pinyin": "ka"
+        "romaji": "ka",
+        "kana": "か"
       },
       {
         "token": "はい",
         "startTime": 349085,
         "endTime": 349700,
-        "pinyin": "hai"
+        "romaji": "hai",
+        "kana": "はい"
       },
       {
         "token": "そう",
         "startTime": 349700,
         "endTime": 350315,
-        "pinyin": "sou"
+        "romaji": "sou",
+        "kana": "そう"
       },
       {
         "token": "です",
         "startTime": 350315,
         "endTime": 350930,
-        "pinyin": "desu"
+        "romaji": "desu",
+        "kana": "です"
       },
       {
         "token": "時間",
         "startTime": 350930,
         "endTime": 351545,
-        "pinyin": "jikan"
+        "romaji": "jikan",
+        "kana": "じかん"
       }
     ]
   },
@@ -4413,37 +5005,43 @@
         "token": "通り",
         "startTime": 351545,
         "endTime": 352065,
-        "pinyin": "toori"
+        "romaji": "toori",
+        "kana": "とおり"
       },
       {
         "token": "に",
         "startTime": 352065,
         "endTime": 352245,
-        "pinyin": "ni"
+        "romaji": "ni",
+        "kana": "に"
       },
       {
         "token": "来",
         "startTime": 352245,
         "endTime": 352625,
-        "pinyin": "rai"
+        "romaji": "rai",
+        "kana": "らい"
       },
       {
         "token": "て",
         "startTime": 352625,
         "endTime": 352725,
-        "pinyin": "te"
+        "romaji": "te",
+        "kana": "て"
       },
       {
         "token": "ください",
         "startTime": 352725,
         "endTime": 353185,
-        "pinyin": "kudasai"
+        "romaji": "kudasai",
+        "kana": "ください"
       },
       {
         "token": "あっ",
         "startTime": 353185,
         "endTime": 355185,
-        "pinyin": "a"
+        "romaji": "a",
+        "kana": "あっ"
       }
     ]
   },
@@ -4457,19 +5055,22 @@
         "token": "わかり",
         "startTime": 355185,
         "endTime": 355765,
-        "pinyin": "wakari"
+        "romaji": "wakari",
+        "kana": "わかり"
       },
       {
         "token": "まし",
         "startTime": 355765,
         "endTime": 356345,
-        "pinyin": "mashi"
+        "romaji": "mashi",
+        "kana": "まし"
       },
       {
         "token": "た",
         "startTime": 356345,
         "endTime": 356925,
-        "pinyin": "ta"
+        "romaji": "ta",
+        "kana": "た"
       }
     ]
   },
@@ -4483,55 +5084,64 @@
         "token": "よろしく",
         "startTime": 356925,
         "endTime": 357341,
-        "pinyin": "yoroshiku"
+        "romaji": "yoroshiku",
+        "kana": "よろしく"
       },
       {
         "token": "お",
         "startTime": 357341,
         "endTime": 357756,
-        "pinyin": "o"
+        "romaji": "o",
+        "kana": "お"
       },
       {
         "token": "願い",
         "startTime": 357756,
         "endTime": 358172,
-        "pinyin": "negai"
+        "romaji": "negai",
+        "kana": "ねがい"
       },
       {
         "token": "し",
         "startTime": 358172,
         "endTime": 358587,
-        "pinyin": "shi"
+        "romaji": "shi",
+        "kana": "し"
       },
       {
         "token": "ます",
         "startTime": 358587,
         "endTime": 359003,
-        "pinyin": "masu"
+        "romaji": "masu",
+        "kana": "ます"
       },
       {
         "token": "はい",
         "startTime": 359003,
         "endTime": 359418,
-        "pinyin": "hai"
+        "romaji": "hai",
+        "kana": "はい"
       },
       {
         "token": "お",
         "startTime": 359418,
         "endTime": 359834,
-        "pinyin": "o"
+        "romaji": "o",
+        "kana": "お"
       },
       {
         "token": "待ち",
         "startTime": 359834,
         "endTime": 360249,
-        "pinyin": "machi"
+        "romaji": "machi",
+        "kana": "まち"
       },
       {
         "token": "し",
         "startTime": 360249,
         "endTime": 360665,
-        "pinyin": "shi"
+        "romaji": "shi",
+        "kana": "し"
       }
     ]
   },
@@ -4545,43 +5155,50 @@
         "token": "て",
         "startTime": 360665,
         "endTime": 361216,
-        "pinyin": "te"
+        "romaji": "te",
+        "kana": "て"
       },
       {
         "token": "ありがとう",
         "startTime": 361216,
         "endTime": 361768,
-        "pinyin": "arigatou"
+        "romaji": "arigatou",
+        "kana": "ありがとう"
       },
       {
         "token": "ござい",
         "startTime": 361768,
         "endTime": 362319,
-        "pinyin": "gozai"
+        "romaji": "gozai",
+        "kana": "ござい"
       },
       {
         "token": "まし",
         "startTime": 362319,
         "endTime": 362871,
-        "pinyin": "mashi"
+        "romaji": "mashi",
+        "kana": "まし"
       },
       {
         "token": "た",
         "startTime": 362871,
         "endTime": 363422,
-        "pinyin": "ta"
+        "romaji": "ta",
+        "kana": "た"
       },
       {
         "token": "ありがとう",
         "startTime": 363422,
         "endTime": 363974,
-        "pinyin": "arigatou"
+        "romaji": "arigatou",
+        "kana": "ありがとう"
       },
       {
         "token": "ござ",
         "startTime": 363974,
         "endTime": 364525,
-        "pinyin": "goza"
+        "romaji": "goza",
+        "kana": "ござ"
       }
     ]
   },
@@ -4595,19 +5212,22 @@
         "token": "い",
         "startTime": 364525,
         "endTime": 365292,
-        "pinyin": "i"
+        "romaji": "i",
+        "kana": "い"
       },
       {
         "token": "まし",
         "startTime": 365292,
         "endTime": 366058,
-        "pinyin": "mashi"
+        "romaji": "mashi",
+        "kana": "まし"
       },
       {
         "token": "た",
         "startTime": 366058,
         "endTime": 366825,
-        "pinyin": "ta"
+        "romaji": "ta",
+        "kana": "た"
       }
     ]
   },
@@ -4621,37 +5241,43 @@
         "token": "よし",
         "startTime": 366825,
         "endTime": 367225,
-        "pinyin": "yoshi"
+        "romaji": "yoshi",
+        "kana": "よし"
       },
       {
         "token": "予約",
         "startTime": 367225,
         "endTime": 367885,
-        "pinyin": "yoyaku"
+        "romaji": "yoyaku",
+        "kana": "よやく"
       },
       {
         "token": "が",
         "startTime": 367885,
         "endTime": 368085,
-        "pinyin": "ga"
+        "romaji": "ga",
+        "kana": "が"
       },
       {
         "token": "でき",
         "startTime": 368085,
         "endTime": 368525,
-        "pinyin": "deki"
+        "romaji": "deki",
+        "kana": "でき"
       },
       {
         "token": "た",
         "startTime": 368525,
         "endTime": 368685,
-        "pinyin": "ta"
+        "romaji": "ta",
+        "kana": "た"
       },
       {
         "token": "ぞ",
         "startTime": 368685,
         "endTime": 370165,
-        "pinyin": "zo"
+        "romaji": "zo",
+        "kana": "ぞ"
       }
     ]
   },
@@ -4665,37 +5291,43 @@
         "token": "金曜",
         "startTime": 370165,
         "endTime": 370585,
-        "pinyin": "kin'you"
+        "romaji": "kin'you",
+        "kana": "きんよう"
       },
       {
         "token": "日",
         "startTime": 370585,
         "endTime": 370705,
-        "pinyin": "hi"
+        "romaji": "hi",
+        "kana": "ひ"
       },
       {
         "token": "は",
         "startTime": 370705,
         "endTime": 370925,
-        "pinyin": "wa"
+        "romaji": "wa",
+        "kana": "は"
       },
       {
         "token": "楽しみ",
         "startTime": 370925,
         "endTime": 371705,
-        "pinyin": "tanoshimi"
+        "romaji": "tanoshimi",
+        "kana": "たのしみ"
       },
       {
         "token": "だ",
         "startTime": 371705,
         "endTime": 371825,
-        "pinyin": "da"
+        "romaji": "da",
+        "kana": "だ"
       },
       {
         "token": "なぁ",
         "startTime": 371825,
         "endTime": 372325,
-        "pinyin": "na"
+        "romaji": "na",
+        "kana": "なぁ"
       }
     ]
   }
