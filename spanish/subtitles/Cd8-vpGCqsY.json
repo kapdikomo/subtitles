@@ -1,0 +1,5953 @@
+[
+  {
+    "sentence_text": "Estás en un café en México.",
+    "translations": {
+      "en": "You're at a café in Mexico."
+    },
+    "segments": [
+      {
+        "token": "Estás",
+        "startTime": 40,
+        "endTime": 380
+      },
+      {
+        "token": "en",
+        "startTime": 380,
+        "endTime": 580
+      },
+      {
+        "token": "un",
+        "startTime": 580,
+        "endTime": 720
+      },
+      {
+        "token": "café",
+        "startTime": 720,
+        "endTime": 1020
+      },
+      {
+        "token": "en",
+        "startTime": 1020,
+        "endTime": 1480
+      },
+      {
+        "token": "México.",
+        "startTime": 1480,
+        "endTime": 2640
+      }
+    ]
+  },
+  {
+    "sentence_text": "Llega el mesero, te mira y te dice ¿Qué le damos, joven?",
+    "translations": {
+      "en": "The waiter arrives, looks at you, and says, What can we get you, young man?"
+    },
+    "segments": [
+      {
+        "token": "Llega",
+        "startTime": 2640,
+        "endTime": 2960
+      },
+      {
+        "token": "el",
+        "startTime": 2960,
+        "endTime": 3120
+      },
+      {
+        "token": "mesero,",
+        "startTime": 3120,
+        "endTime": 4220
+      },
+      {
+        "token": "te",
+        "startTime": 4220,
+        "endTime": 4320
+      },
+      {
+        "token": "mira",
+        "startTime": 4320,
+        "endTime": 4620
+      },
+      {
+        "token": "y",
+        "startTime": 4620,
+        "endTime": 5380
+      },
+      {
+        "token": "te",
+        "startTime": 5380,
+        "endTime": 5560
+      },
+      {
+        "token": "dice",
+        "startTime": 5560,
+        "endTime": 5920
+      },
+      {
+        "token": "¿Qué",
+        "startTime": 5920,
+        "endTime": 6300
+      },
+      {
+        "token": "le",
+        "startTime": 6300,
+        "endTime": 6480
+      },
+      {
+        "token": "damos,",
+        "startTime": 6480,
+        "endTime": 7040
+      },
+      {
+        "token": "joven?",
+        "startTime": 7040,
+        "endTime": 7900
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y te empiezas a trabar.",
+    "translations": {
+      "en": "And you start to freeze up."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 7900,
+        "endTime": 8100
+      },
+      {
+        "token": "te",
+        "startTime": 8100,
+        "endTime": 8260
+      },
+      {
+        "token": "empiezas",
+        "startTime": 8260,
+        "endTime": 8700
+      },
+      {
+        "token": "a",
+        "startTime": 8700,
+        "endTime": 8960
+      },
+      {
+        "token": "trabar.",
+        "startTime": 8960,
+        "endTime": 9900
+      }
+    ]
+  },
+  {
+    "sentence_text": "Entiendes las palabras, pero no sabes qué contestar.",
+    "translations": {
+      "en": "You understand the words, but you don't know what to say."
+    },
+    "segments": [
+      {
+        "token": "Entiendes",
+        "startTime": 9900,
+        "endTime": 10560
+      },
+      {
+        "token": "las",
+        "startTime": 10560,
+        "endTime": 10780
+      },
+      {
+        "token": "palabras,",
+        "startTime": 10780,
+        "endTime": 11300
+      },
+      {
+        "token": "pero",
+        "startTime": 11300,
+        "endTime": 11900
+      },
+      {
+        "token": "no",
+        "startTime": 11900,
+        "endTime": 12140
+      },
+      {
+        "token": "sabes",
+        "startTime": 12140,
+        "endTime": 12540
+      },
+      {
+        "token": "qué",
+        "startTime": 12540,
+        "endTime": 12860
+      },
+      {
+        "token": "contestar.",
+        "startTime": 12860,
+        "endTime": 14140
+      }
+    ]
+  },
+  {
+    "sentence_text": "Porque en un café en México no se habla como en los libros.",
+    "translations": {
+      "en": "Because at a café in Mexico, they don't speak like in the books."
+    },
+    "segments": [
+      {
+        "token": "Porque",
+        "startTime": 14140,
+        "endTime": 14440
+      },
+      {
+        "token": "en",
+        "startTime": 14440,
+        "endTime": 14660
+      },
+      {
+        "token": "un",
+        "startTime": 14660,
+        "endTime": 14740
+      },
+      {
+        "token": "café",
+        "startTime": 14740,
+        "endTime": 15000
+      },
+      {
+        "token": "en",
+        "startTime": 15000,
+        "endTime": 15240
+      },
+      {
+        "token": "México",
+        "startTime": 15240,
+        "endTime": 15560
+      },
+      {
+        "token": "no",
+        "startTime": 15560,
+        "endTime": 16239
+      },
+      {
+        "token": "se",
+        "startTime": 16239,
+        "endTime": 16600
+      },
+      {
+        "token": "habla",
+        "startTime": 16600,
+        "endTime": 17100
+      },
+      {
+        "token": "como",
+        "startTime": 17100,
+        "endTime": 17520
+      },
+      {
+        "token": "en",
+        "startTime": 17520,
+        "endTime": 17700
+      },
+      {
+        "token": "los",
+        "startTime": 17700,
+        "endTime": 17900
+      },
+      {
+        "token": "libros.",
+        "startTime": 17900,
+        "endTime": 17940
+      }
+    ]
+  },
+  {
+    "sentence_text": "Lo que aprendiste en los libros no es español real.",
+    "translations": {
+      "en": "What you learned from books isn't real Spanish."
+    },
+    "segments": [
+      {
+        "token": "Lo",
+        "startTime": 17940,
+        "endTime": 18940
+      },
+      {
+        "token": "que",
+        "startTime": 18940,
+        "endTime": 19100
+      },
+      {
+        "token": "aprendiste",
+        "startTime": 19100,
+        "endTime": 19780
+      },
+      {
+        "token": "en",
+        "startTime": 19780,
+        "endTime": 20220
+      },
+      {
+        "token": "los",
+        "startTime": 20220,
+        "endTime": 20500
+      },
+      {
+        "token": "libros",
+        "startTime": 20500,
+        "endTime": 20940
+      },
+      {
+        "token": "no",
+        "startTime": 20940,
+        "endTime": 21460
+      },
+      {
+        "token": "es",
+        "startTime": 21460,
+        "endTime": 21920
+      },
+      {
+        "token": "español",
+        "startTime": 21920,
+        "endTime": 22460
+      },
+      {
+        "token": "real.",
+        "startTime": 22460,
+        "endTime": 23660
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hoy voy a enseñarte 15",
+    "translations": {
+      "en": "Today I'm going to teach you 15"
+    },
+    "segments": [
+      {
+        "token": "Hoy",
+        "startTime": 23660,
+        "endTime": 23880
+      },
+      {
+        "token": "voy",
+        "startTime": 23880,
+        "endTime": 24440
+      },
+      {
+        "token": "a",
+        "startTime": 24440,
+        "endTime": 24520
+      },
+      {
+        "token": "enseñarte",
+        "startTime": 24520,
+        "endTime": 25100
+      },
+      {
+        "token": "15",
+        "startTime": 25100,
+        "endTime": 25880
+      }
+    ]
+  },
+  {
+    "sentence_text": "frases que de verdad vas a escuchar en una cafetería mexicana",
+    "translations": {
+      "en": "phrases you'll actually hear in a Mexican coffee shop"
+    },
+    "segments": [
+      {
+        "token": "frases",
+        "startTime": 25880,
+        "endTime": 26460
+      },
+      {
+        "token": "que",
+        "startTime": 26460,
+        "endTime": 26900
+      },
+      {
+        "token": "de",
+        "startTime": 26900,
+        "endTime": 27060
+      },
+      {
+        "token": "verdad",
+        "startTime": 27060,
+        "endTime": 27340
+      },
+      {
+        "token": "vas",
+        "startTime": 27340,
+        "endTime": 28020
+      },
+      {
+        "token": "a",
+        "startTime": 28020,
+        "endTime": 28160
+      },
+      {
+        "token": "escuchar",
+        "startTime": 28160,
+        "endTime": 28800
+      },
+      {
+        "token": "en",
+        "startTime": 28800,
+        "endTime": 29300
+      },
+      {
+        "token": "una",
+        "startTime": 29300,
+        "endTime": 29560
+      },
+      {
+        "token": "cafetería",
+        "startTime": 29560,
+        "endTime": 30280
+      },
+      {
+        "token": "mexicana",
+        "startTime": 30280,
+        "endTime": 31080
+      }
+    ]
+  },
+  {
+    "sentence_text": "para que contestes con naturalidad.",
+    "translations": {
+      "en": "so you can respond naturally."
+    },
+    "segments": [
+      {
+        "token": "para",
+        "startTime": 31080,
+        "endTime": 31660
+      },
+      {
+        "token": "que",
+        "startTime": 31660,
+        "endTime": 31880
+      },
+      {
+        "token": "contestes",
+        "startTime": 31880,
+        "endTime": 32600
+      },
+      {
+        "token": "con",
+        "startTime": 32600,
+        "endTime": 32960
+      },
+      {
+        "token": "naturalidad.",
+        "startTime": 32960,
+        "endTime": 34320
+      }
+    ]
+  },
+  {
+    "sentence_text": "Que se note que no estás traduciendo del inglés.",
+    "translations": {
+      "en": "So it's clear you're not translating from English."
+    },
+    "segments": [
+      {
+        "token": "Que",
+        "startTime": 34320,
+        "endTime": 34500
+      },
+      {
+        "token": "se",
+        "startTime": 34500,
+        "endTime": 34720
+      },
+      {
+        "token": "note",
+        "startTime": 34720,
+        "endTime": 35040
+      },
+      {
+        "token": "que",
+        "startTime": 35040,
+        "endTime": 35400
+      },
+      {
+        "token": "no",
+        "startTime": 35400,
+        "endTime": 35740
+      },
+      {
+        "token": "estás",
+        "startTime": 35740,
+        "endTime": 36360
+      },
+      {
+        "token": "traduciendo",
+        "startTime": 36360,
+        "endTime": 37440
+      },
+      {
+        "token": "del",
+        "startTime": 37440,
+        "endTime": 37880
+      },
+      {
+        "token": "inglés.",
+        "startTime": 37880,
+        "endTime": 41620
+      }
+    ]
+  },
+  {
+    "sentence_text": "Uno. ¿Qué le damos?",
+    "translations": {
+      "en": "One. What can we get you?"
+    },
+    "segments": [
+      {
+        "token": "Uno.",
+        "startTime": 41620,
+        "endTime": 42080
+      },
+      {
+        "token": "¿Qué",
+        "startTime": 42080,
+        "endTime": 42600
+      },
+      {
+        "token": "le",
+        "startTime": 42600,
+        "endTime": 42800
+      },
+      {
+        "token": "damos?",
+        "startTime": 42800,
+        "endTime": 43740
+      }
+    ]
+  },
+  {
+    "sentence_text": "O ¿Qué va a querer?",
+    "translations": {
+      "en": "Or, What would you like?"
+    },
+    "segments": [
+      {
+        "token": "O",
+        "startTime": 43740,
+        "endTime": 43980
+      },
+      {
+        "token": "¿Qué",
+        "startTime": 43980,
+        "endTime": 44620
+      },
+      {
+        "token": "va",
+        "startTime": 44620,
+        "endTime": 44780
+      },
+      {
+        "token": "a",
+        "startTime": 44780,
+        "endTime": 44860
+      },
+      {
+        "token": "querer?",
+        "startTime": 44860,
+        "endTime": 45820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Así los reciben.",
+    "translations": {
+      "en": "That's how they greet you."
+    },
+    "segments": [
+      {
+        "token": "Así",
+        "startTime": 45820,
+        "endTime": 46200
+      },
+      {
+        "token": "los",
+        "startTime": 46200,
+        "endTime": 46580
+      },
+      {
+        "token": "reciben.",
+        "startTime": 46580,
+        "endTime": 47520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Fíjense bien.",
+    "translations": {
+      "en": "Pay close attention."
+    },
+    "segments": [
+      {
+        "token": "Fíjense",
+        "startTime": 47520,
+        "endTime": 48100
+      },
+      {
+        "token": "bien.",
+        "startTime": 48100,
+        "endTime": 48560
+      }
+    ]
+  },
+  {
+    "sentence_text": "No dice. ¿Qué quiere ordenar?",
+    "translations": {
+      "en": "They don't say, What would you like to order?"
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 48560,
+        "endTime": 49160
+      },
+      {
+        "token": "dice.",
+        "startTime": 49160,
+        "endTime": 50160
+      },
+      {
+        "token": "¿Qué",
+        "startTime": 50160,
+        "endTime": 50360
+      },
+      {
+        "token": "quiere",
+        "startTime": 50360,
+        "endTime": 50780
+      },
+      {
+        "token": "ordenar?",
+        "startTime": 50780,
+        "endTime": 52040
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dicen, ¿qué le damos?",
+    "translations": {
+      "en": "They say, What can we get you?"
+    },
+    "segments": [
+      {
+        "token": "Dicen,",
+        "startTime": 52040,
+        "endTime": 53180
+      },
+      {
+        "token": "¿qué",
+        "startTime": 53180,
+        "endTime": 53280
+      },
+      {
+        "token": "le",
+        "startTime": 53280,
+        "endTime": 53480
+      },
+      {
+        "token": "damos?",
+        "startTime": 53480,
+        "endTime": 54860
+      }
+    ]
+  },
+  {
+    "sentence_text": "Esta forma de hablar es amable, directa, no es agresiva.",
+    "translations": {
+      "en": "This way of speaking is friendly, direct, not aggressive."
+    },
+    "segments": [
+      {
+        "token": "Esta",
+        "startTime": 54860,
+        "endTime": 55140
+      },
+      {
+        "token": "forma",
+        "startTime": 55140,
+        "endTime": 55520
+      },
+      {
+        "token": "de",
+        "startTime": 55520,
+        "endTime": 55780
+      },
+      {
+        "token": "hablar",
+        "startTime": 55780,
+        "endTime": 56160
+      },
+      {
+        "token": "es",
+        "startTime": 56160,
+        "endTime": 56920
+      },
+      {
+        "token": "amable,",
+        "startTime": 56920,
+        "endTime": 57880
+      },
+      {
+        "token": "directa,",
+        "startTime": 57880,
+        "endTime": 58900
+      },
+      {
+        "token": "no",
+        "startTime": 58900,
+        "endTime": 59160
+      },
+      {
+        "token": "es",
+        "startTime": 59160,
+        "endTime": 59520
+      },
+      {
+        "token": "agresiva.",
+        "startTime": 59520,
+        "endTime": 60720
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dos, ¿me das un café, por favor?",
+    "translations": {
+      "en": "Two, can I get a coffee, please?"
+    },
+    "segments": [
+      {
+        "token": "Dos,",
+        "startTime": 60720,
+        "endTime": 61280
+      },
+      {
+        "token": "¿me",
+        "startTime": 61280,
+        "endTime": 61520
+      },
+      {
+        "token": "das",
+        "startTime": 61520,
+        "endTime": 61760
+      },
+      {
+        "token": "un",
+        "startTime": 61760,
+        "endTime": 61980
+      },
+      {
+        "token": "café,",
+        "startTime": 61980,
+        "endTime": 62420
+      },
+      {
+        "token": "por",
+        "startTime": 62420,
+        "endTime": 62540
+      },
+      {
+        "token": "favor?",
+        "startTime": 62540,
+        "endTime": 63700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Así se contesta.",
+    "translations": {
+      "en": "That's how you respond."
+    },
+    "segments": [
+      {
+        "token": "Así",
+        "startTime": 63700,
+        "endTime": 64019
+      },
+      {
+        "token": "se",
+        "startTime": 64019,
+        "endTime": 64200
+      },
+      {
+        "token": "contesta.",
+        "startTime": 64200,
+        "endTime": 65700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Atención aquí, decimos, me das.",
+    "translations": {
+      "en": "Pay attention here, we say, can I get."
+    },
+    "segments": [
+      {
+        "token": "Atención",
+        "startTime": 65700,
+        "endTime": 66360
+      },
+      {
+        "token": "aquí,",
+        "startTime": 66360,
+        "endTime": 67080
+      },
+      {
+        "token": "decimos,",
+        "startTime": 67080,
+        "endTime": 67840
+      },
+      {
+        "token": "me",
+        "startTime": 67840,
+        "endTime": 68320
+      },
+      {
+        "token": "das.",
+        "startTime": 68320,
+        "endTime": 69800
+      }
+    ]
+  },
+  {
+    "sentence_text": "No quisiera o me gustaría tener...",
+    "translations": {
+      "en": "I wouldn't want to, or I'd like to have..."
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 69800,
+        "endTime": 70100
+      },
+      {
+        "token": "quisiera",
+        "startTime": 70100,
+        "endTime": 71140
+      },
+      {
+        "token": "o",
+        "startTime": 71140,
+        "endTime": 71680
+      },
+      {
+        "token": "me",
+        "startTime": 71680,
+        "endTime": 72100
+      },
+      {
+        "token": "gustaría",
+        "startTime": 72100,
+        "endTime": 72540
+      },
+      {
+        "token": "tener...",
+        "startTime": 72540,
+        "endTime": 74260
+      }
+    ]
+  },
+  {
+    "sentence_text": "Eso huele a Google Translate a tres cuadras. ¿Me das un café, por favor?",
+    "translations": {
+      "en": "That smells like Google Translate from three blocks away. Can I get a coffee, please?"
+    },
+    "segments": [
+      {
+        "token": "Eso",
+        "startTime": 74260,
+        "endTime": 74620
+      },
+      {
+        "token": "huele",
+        "startTime": 74620,
+        "endTime": 75060
+      },
+      {
+        "token": "a",
+        "startTime": 75060,
+        "endTime": 75260
+      },
+      {
+        "token": "Google",
+        "startTime": 75260,
+        "endTime": 75560
+      },
+      {
+        "token": "Translate",
+        "startTime": 75560,
+        "endTime": 76240
+      },
+      {
+        "token": "a",
+        "startTime": 76240,
+        "endTime": 76600
+      },
+      {
+        "token": "tres",
+        "startTime": 76600,
+        "endTime": 77060
+      },
+      {
+        "token": "cuadras.",
+        "startTime": 77060,
+        "endTime": 77180
+      },
+      {
+        "token": "¿Me",
+        "startTime": 77180,
+        "endTime": 78400
+      },
+      {
+        "token": "das",
+        "startTime": 78400,
+        "endTime": 78840
+      },
+      {
+        "token": "un",
+        "startTime": 78840,
+        "endTime": 79200
+      },
+      {
+        "token": "café,",
+        "startTime": 79200,
+        "endTime": 79900
+      },
+      {
+        "token": "por",
+        "startTime": 79900,
+        "endTime": 80040
+      },
+      {
+        "token": "favor?",
+        "startTime": 80040,
+        "endTime": 81380
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ya, simple.",
+    "translations": {
+      "en": "Okay, simple."
+    },
+    "segments": [
+      {
+        "token": "Ya,",
+        "startTime": 81380,
+        "endTime": 82260
+      },
+      {
+        "token": "simple.",
+        "startTime": 82260,
+        "endTime": 83260
+      }
+    ]
+  },
+  {
+    "sentence_text": "El por favor no es decoración.",
+    "translations": {
+      "en": "The 'please' isn't decoration."
+    },
+    "segments": [
+      {
+        "token": "El",
+        "startTime": 83260,
+        "endTime": 83700
+      },
+      {
+        "token": "por",
+        "startTime": 83700,
+        "endTime": 83920
+      },
+      {
+        "token": "favor",
+        "startTime": 83920,
+        "endTime": 84180
+      },
+      {
+        "token": "no",
+        "startTime": 84180,
+        "endTime": 84680
+      },
+      {
+        "token": "es",
+        "startTime": 84680,
+        "endTime": 85060
+      },
+      {
+        "token": "decoración.",
+        "startTime": 85060,
+        "endTime": 85980
+      }
+    ]
+  },
+  {
+    "sentence_text": "Siempre lo decimos, por favor.",
+    "translations": {
+      "en": "We always say it, please."
+    },
+    "segments": [
+      {
+        "token": "Siempre",
+        "startTime": 85980,
+        "endTime": 86760
+      },
+      {
+        "token": "lo",
+        "startTime": 86760,
+        "endTime": 87020
+      },
+      {
+        "token": "decimos,",
+        "startTime": 87020,
+        "endTime": 88300
+      },
+      {
+        "token": "por",
+        "startTime": 88300,
+        "endTime": 88440
+      },
+      {
+        "token": "favor.",
+        "startTime": 88440,
+        "endTime": 89560
+      }
+    ]
+  },
+  {
+    "sentence_text": "Tres, ¿para aquí o para llevar?",
+    "translations": {
+      "en": "Three, for here or to go?"
+    },
+    "segments": [
+      {
+        "token": "Tres,",
+        "startTime": 89560,
+        "endTime": 90300
+      },
+      {
+        "token": "¿para",
+        "startTime": 90300,
+        "endTime": 90540
+      },
+      {
+        "token": "aquí",
+        "startTime": 90540,
+        "endTime": 90860
+      },
+      {
+        "token": "o",
+        "startTime": 90860,
+        "endTime": 91260
+      },
+      {
+        "token": "para",
+        "startTime": 91260,
+        "endTime": 91600
+      },
+      {
+        "token": "llevar?",
+        "startTime": 91600,
+        "endTime": 92540
+      }
+    ]
+  },
+  {
+    "sentence_text": "Casi siempre esta es la segunda pregunta que te van a hacer al ordenar algo.",
+    "translations": {
+      "en": "Almost always this is the second question they'll ask you when ordering something."
+    },
+    "segments": [
+      {
+        "token": "Casi",
+        "startTime": 92540,
+        "endTime": 92880
+      },
+      {
+        "token": "siempre",
+        "startTime": 92880,
+        "endTime": 93380
+      },
+      {
+        "token": "esta",
+        "startTime": 93380,
+        "endTime": 93900
+      },
+      {
+        "token": "es",
+        "startTime": 93900,
+        "endTime": 94260
+      },
+      {
+        "token": "la",
+        "startTime": 94260,
+        "endTime": 94560
+      },
+      {
+        "token": "segunda",
+        "startTime": 94560,
+        "endTime": 94980
+      },
+      {
+        "token": "pregunta",
+        "startTime": 94980,
+        "endTime": 95500
+      },
+      {
+        "token": "que",
+        "startTime": 95500,
+        "endTime": 95860
+      },
+      {
+        "token": "te",
+        "startTime": 95860,
+        "endTime": 96040
+      },
+      {
+        "token": "van",
+        "startTime": 96040,
+        "endTime": 96180
+      },
+      {
+        "token": "a",
+        "startTime": 96180,
+        "endTime": 96340
+      },
+      {
+        "token": "hacer",
+        "startTime": 96340,
+        "endTime": 96580
+      },
+      {
+        "token": "al",
+        "startTime": 96580,
+        "endTime": 96920
+      },
+      {
+        "token": "ordenar",
+        "startTime": 96920,
+        "endTime": 97500
+      },
+      {
+        "token": "algo.",
+        "startTime": 97500,
+        "endTime": 98280
+      }
+    ]
+  },
+  {
+    "sentence_text": "Para aquí significa que vas a tomar ahí el café.",
+    "translations": {
+      "en": "For here means you'll drink the coffee there."
+    },
+    "segments": [
+      {
+        "token": "Para",
+        "startTime": 98280,
+        "endTime": 98540
+      },
+      {
+        "token": "aquí",
+        "startTime": 98540,
+        "endTime": 98840
+      },
+      {
+        "token": "significa",
+        "startTime": 98840,
+        "endTime": 99740
+      },
+      {
+        "token": "que",
+        "startTime": 99740,
+        "endTime": 100260
+      },
+      {
+        "token": "vas",
+        "startTime": 100260,
+        "endTime": 100880
+      },
+      {
+        "token": "a",
+        "startTime": 100880,
+        "endTime": 101000
+      },
+      {
+        "token": "tomar",
+        "startTime": 101000,
+        "endTime": 101400
+      },
+      {
+        "token": "ahí",
+        "startTime": 101400,
+        "endTime": 102240
+      },
+      {
+        "token": "el",
+        "startTime": 102240,
+        "endTime": 102740
+      },
+      {
+        "token": "café.",
+        "startTime": 102740,
+        "endTime": 102740
+      }
+    ]
+  },
+  {
+    "sentence_text": "Para llevar te dan un vaso de cartón y es para tomarlo fuera.",
+    "translations": {
+      "en": "To go gives you a paper cup and it's for drinking outside."
+    },
+    "segments": [
+      {
+        "token": "Para",
+        "startTime": 102740,
+        "endTime": 103800
+      },
+      {
+        "token": "llevar",
+        "startTime": 103800,
+        "endTime": 104400
+      },
+      {
+        "token": "te",
+        "startTime": 104400,
+        "endTime": 105280
+      },
+      {
+        "token": "dan",
+        "startTime": 105280,
+        "endTime": 105480
+      },
+      {
+        "token": "un",
+        "startTime": 105480,
+        "endTime": 105700
+      },
+      {
+        "token": "vaso",
+        "startTime": 105700,
+        "endTime": 106120
+      },
+      {
+        "token": "de",
+        "startTime": 106120,
+        "endTime": 106300
+      },
+      {
+        "token": "cartón",
+        "startTime": 106300,
+        "endTime": 106800
+      },
+      {
+        "token": "y",
+        "startTime": 106800,
+        "endTime": 107560
+      },
+      {
+        "token": "es",
+        "startTime": 107560,
+        "endTime": 107780
+      },
+      {
+        "token": "para",
+        "startTime": 107780,
+        "endTime": 108020
+      },
+      {
+        "token": "tomarlo",
+        "startTime": 108020,
+        "endTime": 108660
+      },
+      {
+        "token": "fuera.",
+        "startTime": 108660,
+        "endTime": 109060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Fuera.",
+    "translations": {
+      "en": "Outside."
+    },
+    "segments": [
+      {
+        "token": "Fuera.",
+        "startTime": 109060,
+        "endTime": 110240
+      }
+    ]
+  },
+  {
+    "sentence_text": "En otro lado.",
+    "translations": {
+      "en": "Somewhere else."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 110240,
+        "endTime": 110540
+      },
+      {
+        "token": "otro",
+        "startTime": 110540,
+        "endTime": 111120
+      },
+      {
+        "token": "lado.",
+        "startTime": 111120,
+        "endTime": 112700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Así que puedes contestar para aquí, por favor.",
+    "translations": {
+      "en": "So you can answer 'for here, please.'"
+    },
+    "segments": [
+      {
+        "token": "Así",
+        "startTime": 112700,
+        "endTime": 112980
+      },
+      {
+        "token": "que",
+        "startTime": 112980,
+        "endTime": 113220
+      },
+      {
+        "token": "puedes",
+        "startTime": 113220,
+        "endTime": 113640
+      },
+      {
+        "token": "contestar",
+        "startTime": 113640,
+        "endTime": 114460
+      },
+      {
+        "token": "para",
+        "startTime": 114460,
+        "endTime": 114920
+      },
+      {
+        "token": "aquí,",
+        "startTime": 114920,
+        "endTime": 115320
+      },
+      {
+        "token": "por",
+        "startTime": 115320,
+        "endTime": 115400
+      },
+      {
+        "token": "favor.",
+        "startTime": 115400,
+        "endTime": 116440
+      }
+    ]
+  },
+  {
+    "sentence_text": "Listo.",
+    "translations": {
+      "en": "Done."
+    },
+    "segments": [
+      {
+        "token": "Listo.",
+        "startTime": 116440,
+        "endTime": 116520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Fin.",
+    "translations": {
+      "en": "End."
+    },
+    "segments": [
+      {
+        "token": "Fin.",
+        "startTime": 116520,
+        "endTime": 117520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Cuatro.",
+    "translations": {
+      "en": "Four."
+    },
+    "segments": [
+      {
+        "token": "Cuatro.",
+        "startTime": 117520,
+        "endTime": 118520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Un americano.",
+    "translations": {
+      "en": "An Americano."
+    },
+    "segments": [
+      {
+        "token": "Un",
+        "startTime": 118520,
+        "endTime": 119040
+      },
+      {
+        "token": "americano.",
+        "startTime": 119040,
+        "endTime": 120960
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es un espresso con agua caliente.",
+    "translations": {
+      "en": "It's an espresso with hot water."
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 120960,
+        "endTime": 121240
+      },
+      {
+        "token": "un",
+        "startTime": 121240,
+        "endTime": 121540
+      },
+      {
+        "token": "espresso",
+        "startTime": 121540,
+        "endTime": 122020
+      },
+      {
+        "token": "con",
+        "startTime": 122020,
+        "endTime": 122540
+      },
+      {
+        "token": "agua",
+        "startTime": 122540,
+        "endTime": 122825
+      },
+      {
+        "token": "caliente.",
+        "startTime": 122825,
+        "endTime": 123365
+      }
+    ]
+  },
+  {
+    "sentence_text": "En muchos lugares de México este es el café por default.",
+    "translations": {
+      "en": "In many places in Mexico, this is the default coffee."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 123365,
+        "endTime": 123685
+      },
+      {
+        "token": "muchos",
+        "startTime": 123685,
+        "endTime": 124025
+      },
+      {
+        "token": "lugares",
+        "startTime": 124025,
+        "endTime": 124445
+      },
+      {
+        "token": "de",
+        "startTime": 124445,
+        "endTime": 124645
+      },
+      {
+        "token": "México",
+        "startTime": 124645,
+        "endTime": 124965
+      },
+      {
+        "token": "este",
+        "startTime": 124965,
+        "endTime": 125605
+      },
+      {
+        "token": "es",
+        "startTime": 125605,
+        "endTime": 125985
+      },
+      {
+        "token": "el",
+        "startTime": 125985,
+        "endTime": 126165
+      },
+      {
+        "token": "café",
+        "startTime": 126165,
+        "endTime": 126465
+      },
+      {
+        "token": "por",
+        "startTime": 126465,
+        "endTime": 126905
+      },
+      {
+        "token": "default.",
+        "startTime": 126905,
+        "endTime": 128125
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y esto les van a servir si no especifican nada más. ¿Me das un americano,",
+    "translations": {
+      "en": "And this is what they'll serve you if you don't specify anything else. Can I get an Americano,"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 128125,
+        "endTime": 128345
+      },
+      {
+        "token": "esto",
+        "startTime": 128345,
+        "endTime": 128865
+      },
+      {
+        "token": "les",
+        "startTime": 128865,
+        "endTime": 129045
+      },
+      {
+        "token": "van",
+        "startTime": 129045,
+        "endTime": 129205
+      },
+      {
+        "token": "a",
+        "startTime": 129205,
+        "endTime": 129325
+      },
+      {
+        "token": "servir",
+        "startTime": 129325,
+        "endTime": 129645
+      },
+      {
+        "token": "si",
+        "startTime": 129645,
+        "endTime": 130045
+      },
+      {
+        "token": "no",
+        "startTime": 130045,
+        "endTime": 130225
+      },
+      {
+        "token": "especifican",
+        "startTime": 130225,
+        "endTime": 131245
+      },
+      {
+        "token": "nada",
+        "startTime": 131245,
+        "endTime": 131665
+      },
+      {
+        "token": "más.",
+        "startTime": 131665,
+        "endTime": 132525
+      },
+      {
+        "token": "¿Me",
+        "startTime": 132525,
+        "endTime": 132765
+      },
+      {
+        "token": "das",
+        "startTime": 132765,
+        "endTime": 133145
+      },
+      {
+        "token": "un",
+        "startTime": 133145,
+        "endTime": 133505
+      },
+      {
+        "token": "americano,",
+        "startTime": 133505,
+        "endTime": 134285
+      }
+    ]
+  },
+  {
+    "sentence_text": "por favor?",
+    "translations": {
+      "en": "please?"
+    },
+    "segments": [
+      {
+        "token": "por",
+        "startTime": 134285,
+        "endTime": 134385
+      },
+      {
+        "token": "favor?",
+        "startTime": 134385,
+        "endTime": 135325
+      }
+    ]
+  },
+  {
+    "sentence_text": "Cinco, un café de olla.",
+    "translations": {
+      "en": "Five, a café de olla."
+    },
+    "segments": [
+      {
+        "token": "Cinco,",
+        "startTime": 135325,
+        "endTime": 136445
+      },
+      {
+        "token": "un",
+        "startTime": 136445,
+        "endTime": 136625
+      },
+      {
+        "token": "café",
+        "startTime": 136625,
+        "endTime": 136985
+      },
+      {
+        "token": "de",
+        "startTime": 136985,
+        "endTime": 137385
+      },
+      {
+        "token": "olla.",
+        "startTime": 137385,
+        "endTime": 138425
+      }
+    ]
+  },
+  {
+    "sentence_text": "Si quieren probar algo 100% mexicano, pidan un café de olla.",
+    "translations": {
+      "en": "If you want to try something 100% Mexican, order a café de olla."
+    },
+    "segments": [
+      {
+        "token": "Si",
+        "startTime": 138425,
+        "endTime": 138605
+      },
+      {
+        "token": "quieren",
+        "startTime": 138605,
+        "endTime": 139005
+      },
+      {
+        "token": "probar",
+        "startTime": 139005,
+        "endTime": 139425
+      },
+      {
+        "token": "algo",
+        "startTime": 139425,
+        "endTime": 139705
+      },
+      {
+        "token": "100%",
+        "startTime": 139705,
+        "endTime": 140505
+      },
+      {
+        "token": "mexicano,",
+        "startTime": 140505,
+        "endTime": 141325
+      },
+      {
+        "token": "pidan",
+        "startTime": 141325,
+        "endTime": 141705
+      },
+      {
+        "token": "un",
+        "startTime": 141705,
+        "endTime": 142025
+      },
+      {
+        "token": "café",
+        "startTime": 142025,
+        "endTime": 142405
+      },
+      {
+        "token": "de",
+        "startTime": 142405,
+        "endTime": 142845
+      },
+      {
+        "token": "olla.",
+        "startTime": 142845,
+        "endTime": 143665
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es un café con canela y piloncillo.",
+    "translations": {
+      "en": "It's coffee with cinnamon and piloncillo."
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 143665,
+        "endTime": 143905
+      },
+      {
+        "token": "un",
+        "startTime": 143905,
+        "endTime": 144125
+      },
+      {
+        "token": "café",
+        "startTime": 144125,
+        "endTime": 144505
+      },
+      {
+        "token": "con",
+        "startTime": 144505,
+        "endTime": 145005
+      },
+      {
+        "token": "canela",
+        "startTime": 145005,
+        "endTime": 145505
+      },
+      {
+        "token": "y",
+        "startTime": 145505,
+        "endTime": 145945
+      },
+      {
+        "token": "piloncillo.",
+        "startTime": 145945,
+        "endTime": 147605
+      }
+    ]
+  },
+  {
+    "sentence_text": "El piloncillo es azúcar morena en forma de cono que usamos mucho en México.",
+    "translations": {
+      "en": "Piloncillo is brown sugar in a cone shape that we use a lot in Mexico."
+    },
+    "segments": [
+      {
+        "token": "El",
+        "startTime": 147605,
+        "endTime": 147865
+      },
+      {
+        "token": "piloncillo",
+        "startTime": 147865,
+        "endTime": 148545
+      },
+      {
+        "token": "es",
+        "startTime": 148545,
+        "endTime": 148925
+      },
+      {
+        "token": "azúcar",
+        "startTime": 148925,
+        "endTime": 149525
+      },
+      {
+        "token": "morena",
+        "startTime": 149525,
+        "endTime": 150105
+      },
+      {
+        "token": "en",
+        "startTime": 150105,
+        "endTime": 150425
+      },
+      {
+        "token": "forma",
+        "startTime": 150425,
+        "endTime": 150705
+      },
+      {
+        "token": "de",
+        "startTime": 150705,
+        "endTime": 150965
+      },
+      {
+        "token": "cono",
+        "startTime": 150965,
+        "endTime": 151345
+      },
+      {
+        "token": "que",
+        "startTime": 151345,
+        "endTime": 151845
+      },
+      {
+        "token": "usamos",
+        "startTime": 151845,
+        "endTime": 152365
+      },
+      {
+        "token": "mucho",
+        "startTime": 152365,
+        "endTime": 152665
+      },
+      {
+        "token": "en",
+        "startTime": 152665,
+        "endTime": 152845
+      },
+      {
+        "token": "México.",
+        "startTime": 152845,
+        "endTime": 153805
+      }
+    ]
+  },
+  {
+    "sentence_text": "El café de olla se sirve en un jarrito de barro.",
+    "translations": {
+      "en": "Café de olla is served in a clay mug."
+    },
+    "segments": [
+      {
+        "token": "El",
+        "startTime": 153805,
+        "endTime": 154025
+      },
+      {
+        "token": "café",
+        "startTime": 154025,
+        "endTime": 154325
+      },
+      {
+        "token": "de",
+        "startTime": 154325,
+        "endTime": 154565
+      },
+      {
+        "token": "olla",
+        "startTime": 154565,
+        "endTime": 154725
+      },
+      {
+        "token": "se",
+        "startTime": 154725,
+        "endTime": 155025
+      },
+      {
+        "token": "sirve",
+        "startTime": 155025,
+        "endTime": 155425
+      },
+      {
+        "token": "en",
+        "startTime": 155425,
+        "endTime": 155785
+      },
+      {
+        "token": "un",
+        "startTime": 155785,
+        "endTime": 156025
+      },
+      {
+        "token": "jarrito",
+        "startTime": 156025,
+        "endTime": 156665
+      },
+      {
+        "token": "de",
+        "startTime": 156665,
+        "endTime": 157045
+      },
+      {
+        "token": "barro.",
+        "startTime": 157045,
+        "endTime": 157045
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es dulce, con especies y",
+    "translations": {
+      "en": "It's sweet, with spices and"
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 157045,
+        "endTime": 158025
+      },
+      {
+        "token": "dulce,",
+        "startTime": 158025,
+        "endTime": 158865
+      },
+      {
+        "token": "con",
+        "startTime": 158865,
+        "endTime": 159045
+      },
+      {
+        "token": "especies",
+        "startTime": 159045,
+        "endTime": 159745
+      },
+      {
+        "token": "y",
+        "startTime": 159745,
+        "endTime": 160625
+      }
+    ]
+  },
+  {
+    "sentence_text": "no se parece a nada que encontrarías en una cafetería de cadena como Starbucks.",
+    "translations": {
+      "en": "nothing like what you'd find at a chain coffee shop like Starbucks."
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 160625,
+        "endTime": 160825
+      },
+      {
+        "token": "se",
+        "startTime": 160825,
+        "endTime": 161025
+      },
+      {
+        "token": "parece",
+        "startTime": 161025,
+        "endTime": 161265
+      },
+      {
+        "token": "a",
+        "startTime": 161265,
+        "endTime": 161505
+      },
+      {
+        "token": "nada",
+        "startTime": 161505,
+        "endTime": 161785
+      },
+      {
+        "token": "que",
+        "startTime": 161785,
+        "endTime": 161965
+      },
+      {
+        "token": "encontrarías",
+        "startTime": 161965,
+        "endTime": 162565
+      },
+      {
+        "token": "en",
+        "startTime": 162565,
+        "endTime": 162785
+      },
+      {
+        "token": "una",
+        "startTime": 162785,
+        "endTime": 162985
+      },
+      {
+        "token": "cafetería",
+        "startTime": 162985,
+        "endTime": 163645
+      },
+      {
+        "token": "de",
+        "startTime": 163645,
+        "endTime": 163865
+      },
+      {
+        "token": "cadena",
+        "startTime": 163865,
+        "endTime": 164245
+      },
+      {
+        "token": "como",
+        "startTime": 164245,
+        "endTime": 164585
+      },
+      {
+        "token": "Starbucks.",
+        "startTime": 164585,
+        "endTime": 165725
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿Me das un café de olla, por favor? 6.",
+    "translations": {
+      "en": "Can I have a café de olla, please? 6."
+    },
+    "segments": [
+      {
+        "token": "¿Me",
+        "startTime": 165725,
+        "endTime": 165925
+      },
+      {
+        "token": "das",
+        "startTime": 165925,
+        "endTime": 166165
+      },
+      {
+        "token": "un",
+        "startTime": 166165,
+        "endTime": 166445
+      },
+      {
+        "token": "café",
+        "startTime": 166445,
+        "endTime": 166705
+      },
+      {
+        "token": "de",
+        "startTime": 166705,
+        "endTime": 166925
+      },
+      {
+        "token": "olla,",
+        "startTime": 166925,
+        "endTime": 167305
+      },
+      {
+        "token": "por",
+        "startTime": 167305,
+        "endTime": 167425
+      },
+      {
+        "token": "favor?",
+        "startTime": 167425,
+        "endTime": 168265
+      },
+      {
+        "token": "6.",
+        "startTime": 168265,
+        "endTime": 168905
+      }
+    ]
+  },
+  {
+    "sentence_text": "Un cappuccino o un latte.",
+    "translations": {
+      "en": "A cappuccino or a latte."
+    },
+    "segments": [
+      {
+        "token": "Un",
+        "startTime": 168905,
+        "endTime": 169325
+      },
+      {
+        "token": "cappuccino",
+        "startTime": 169325,
+        "endTime": 169945
+      },
+      {
+        "token": "o",
+        "startTime": 169945,
+        "endTime": 170385
+      },
+      {
+        "token": "un",
+        "startTime": 170385,
+        "endTime": 170925
+      },
+      {
+        "token": "latte.",
+        "startTime": 170925,
+        "endTime": 171925
+      }
+    ]
+  },
+  {
+    "sentence_text": "Estos existen en todos lados.",
+    "translations": {
+      "en": "These exist everywhere."
+    },
+    "segments": [
+      {
+        "token": "Estos",
+        "startTime": 171925,
+        "endTime": 172205
+      },
+      {
+        "token": "existen",
+        "startTime": 172205,
+        "endTime": 172805
+      },
+      {
+        "token": "en",
+        "startTime": 172805,
+        "endTime": 172985
+      },
+      {
+        "token": "todos",
+        "startTime": 172985,
+        "endTime": 173325
+      },
+      {
+        "token": "lados.",
+        "startTime": 173325,
+        "endTime": 174325
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pero ojo con la pronunciación.",
+    "translations": {
+      "en": "But watch your pronunciation."
+    },
+    "segments": [
+      {
+        "token": "Pero",
+        "startTime": 174325,
+        "endTime": 174605
+      },
+      {
+        "token": "ojo",
+        "startTime": 174605,
+        "endTime": 174945
+      },
+      {
+        "token": "con",
+        "startTime": 174945,
+        "endTime": 175205
+      },
+      {
+        "token": "la",
+        "startTime": 175205,
+        "endTime": 175405
+      },
+      {
+        "token": "pronunciación.",
+        "startTime": 175405,
+        "endTime": 177245
+      }
+    ]
+  },
+  {
+    "sentence_text": "Se dice ca-pu-chi-no.",
+    "translations": {
+      "en": "It's said ca-pu-chi-no."
+    },
+    "segments": [
+      {
+        "token": "Se",
+        "startTime": 177245,
+        "endTime": 177425
+      },
+      {
+        "token": "dice",
+        "startTime": 177425,
+        "endTime": 177685
+      },
+      {
+        "token": "ca-pu-chi-no.",
+        "startTime": 177685,
+        "endTime": 180345
+      }
+    ]
+  },
+  {
+    "sentence_text": "Capuchino.",
+    "translations": {
+      "en": "Cappuccino."
+    },
+    "segments": [
+      {
+        "token": "Capuchino.",
+        "startTime": 180345,
+        "endTime": 181625
+      }
+    ]
+  },
+  {
+    "sentence_text": "Con la ch bien marcada.",
+    "translations": {
+      "en": "With the 'ch' clearly pronounced."
+    },
+    "segments": [
+      {
+        "token": "Con",
+        "startTime": 181625,
+        "endTime": 181905
+      },
+      {
+        "token": "la",
+        "startTime": 181905,
+        "endTime": 182205
+      },
+      {
+        "token": "ch",
+        "startTime": 182205,
+        "endTime": 182685
+      },
+      {
+        "token": "bien",
+        "startTime": 182685,
+        "endTime": 183405
+      },
+      {
+        "token": "marcada.",
+        "startTime": 183405,
+        "endTime": 184845
+      }
+    ]
+  },
+  {
+    "sentence_text": "Siete. ¿Lo quieres con azúcar?",
+    "translations": {
+      "en": "Seven. Do you want it with sugar?"
+    },
+    "segments": [
+      {
+        "token": "Siete.",
+        "startTime": 184845,
+        "endTime": 185665
+      },
+      {
+        "token": "¿Lo",
+        "startTime": 185665,
+        "endTime": 185865
+      },
+      {
+        "token": "quieres",
+        "startTime": 185865,
+        "endTime": 186285
+      },
+      {
+        "token": "con",
+        "startTime": 186285,
+        "endTime": 186625
+      },
+      {
+        "token": "azúcar?",
+        "startTime": 186625,
+        "endTime": 187785
+      }
+    ]
+  },
+  {
+    "sentence_text": "Esto les pueden preguntar muchas veces.",
+    "translations": {
+      "en": "They might ask you this often."
+    },
+    "segments": [
+      {
+        "token": "Esto",
+        "startTime": 187785,
+        "endTime": 188105
+      },
+      {
+        "token": "les",
+        "startTime": 188105,
+        "endTime": 188345
+      },
+      {
+        "token": "pueden",
+        "startTime": 188345,
+        "endTime": 188665
+      },
+      {
+        "token": "preguntar",
+        "startTime": 188665,
+        "endTime": 189325
+      },
+      {
+        "token": "muchas",
+        "startTime": 189325,
+        "endTime": 189625
+      },
+      {
+        "token": "veces.",
+        "startTime": 189625,
+        "endTime": 191025
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y hay dos respuestas.",
+    "translations": {
+      "en": "And there are two answers."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 191025,
+        "endTime": 191265
+      },
+      {
+        "token": "hay",
+        "startTime": 191265,
+        "endTime": 191745
+      },
+      {
+        "token": "dos",
+        "startTime": 191745,
+        "endTime": 192005
+      },
+      {
+        "token": "respuestas.",
+        "startTime": 192005,
+        "endTime": 193285
+      }
+    ]
+  },
+  {
+    "sentence_text": "Sí, por favor.",
+    "translations": {
+      "en": "Yes, please."
+    },
+    "segments": [
+      {
+        "token": "Sí,",
+        "startTime": 193285,
+        "endTime": 193885
+      },
+      {
+        "token": "por",
+        "startTime": 193885,
+        "endTime": 194005
+      },
+      {
+        "token": "favor.",
+        "startTime": 194005,
+        "endTime": 195805
+      }
+    ]
+  },
+  {
+    "sentence_text": "O no.",
+    "translations": {
+      "en": "Or no."
+    },
+    "segments": [
+      {
+        "token": "O",
+        "startTime": 195805,
+        "endTime": 196025
+      },
+      {
+        "token": "no.",
+        "startTime": 196025,
+        "endTime": 197265
+      }
+    ]
+  },
+  {
+    "sentence_text": "Así está bien.",
+    "translations": {
+      "en": "That's fine."
+    },
+    "segments": [
+      {
+        "token": "Así",
+        "startTime": 197265,
+        "endTime": 197525
+      },
+      {
+        "token": "está",
+        "startTime": 197525,
+        "endTime": 197785
+      },
+      {
+        "token": "bien.",
+        "startTime": 197785,
+        "endTime": 198665
+      }
+    ]
+  },
+  {
+    "sentence_text": "Grábense bien esta frase.",
+    "translations": {
+      "en": "Remember this phrase well."
+    },
+    "segments": [
+      {
+        "token": "Grábense",
+        "startTime": 198665,
+        "endTime": 199165
+      },
+      {
+        "token": "bien",
+        "startTime": 199165,
+        "endTime": 199585
+      },
+      {
+        "token": "esta",
+        "startTime": 199585,
+        "endTime": 200065
+      },
+      {
+        "token": "frase.",
+        "startTime": 200065,
+        "endTime": 200885
+      }
+    ]
+  },
+  {
+    "sentence_text": "Así está bien.",
+    "translations": {
+      "en": "That's fine."
+    },
+    "segments": [
+      {
+        "token": "Así",
+        "startTime": 200885,
+        "endTime": 201065
+      },
+      {
+        "token": "está",
+        "startTime": 201065,
+        "endTime": 201645
+      },
+      {
+        "token": "bien.",
+        "startTime": 201645,
+        "endTime": 202145
+      }
+    ]
+  },
+  {
+    "sentence_text": "La van a usar muchísimo, no solo para pedir cafés. 8.",
+    "translations": {
+      "en": "You'll use it a lot, not just to order coffees. 8."
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 202145,
+        "endTime": 202605
+      },
+      {
+        "token": "van",
+        "startTime": 202605,
+        "endTime": 202825
+      },
+      {
+        "token": "a",
+        "startTime": 202825,
+        "endTime": 202945
+      },
+      {
+        "token": "usar",
+        "startTime": 202945,
+        "endTime": 203145
+      },
+      {
+        "token": "muchísimo,",
+        "startTime": 203145,
+        "endTime": 204165
+      },
+      {
+        "token": "no",
+        "startTime": 204165,
+        "endTime": 204265
+      },
+      {
+        "token": "solo",
+        "startTime": 204265,
+        "endTime": 204605
+      },
+      {
+        "token": "para",
+        "startTime": 204605,
+        "endTime": 204865
+      },
+      {
+        "token": "pedir",
+        "startTime": 204865,
+        "endTime": 205165
+      },
+      {
+        "token": "cafés.",
+        "startTime": 205165,
+        "endTime": 206625
+      },
+      {
+        "token": "8.",
+        "startTime": 206625,
+        "endTime": 207685
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ahorita se lo traigo.",
+    "translations": {
+      "en": "I'll bring it to you in a bit."
+    },
+    "segments": [
+      {
+        "token": "Ahorita",
+        "startTime": 207685,
+        "endTime": 208165
+      },
+      {
+        "token": "se",
+        "startTime": 208165,
+        "endTime": 208445
+      },
+      {
+        "token": "lo",
+        "startTime": 208445,
+        "endTime": 208565
+      },
+      {
+        "token": "traigo.",
+        "startTime": 208565,
+        "endTime": 209825
+      }
+    ]
+  },
+  {
+    "sentence_text": "El famoso ahorita.",
+    "translations": {
+      "en": "The famous 'ahorita'."
+    },
+    "segments": [
+      {
+        "token": "El",
+        "startTime": 209825,
+        "endTime": 210005
+      },
+      {
+        "token": "famoso",
+        "startTime": 210005,
+        "endTime": 210445
+      },
+      {
+        "token": "ahorita.",
+        "startTime": 210445,
+        "endTime": 211605
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y aquí viene la mala noticia.",
+    "translations": {
+      "en": "And here comes the bad news."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 211605,
+        "endTime": 211785
+      },
+      {
+        "token": "aquí",
+        "startTime": 211785,
+        "endTime": 212125
+      },
+      {
+        "token": "viene",
+        "startTime": 212125,
+        "endTime": 212445
+      },
+      {
+        "token": "la",
+        "startTime": 212445,
+        "endTime": 212705
+      },
+      {
+        "token": "mala",
+        "startTime": 212705,
+        "endTime": 212905
+      },
+      {
+        "token": "noticia.",
+        "startTime": 212905,
+        "endTime": 213725
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ahorita no significa right now.",
+    "translations": {
+      "en": "'Ahorita' doesn't mean 'right now'."
+    },
+    "segments": [
+      {
+        "token": "Ahorita",
+        "startTime": 213725,
+        "endTime": 214225
+      },
+      {
+        "token": "no",
+        "startTime": 214225,
+        "endTime": 214565
+      },
+      {
+        "token": "significa",
+        "startTime": 214565,
+        "endTime": 215145
+      },
+      {
+        "token": "right",
+        "startTime": 215145,
+        "endTime": 215705
+      },
+      {
+        "token": "now.",
+        "startTime": 215705,
+        "endTime": 216165
+      }
+    ]
+  },
+  {
+    "sentence_text": "Significa en algún momento, en el futuro.",
+    "translations": {
+      "en": "It means at some point, in the future."
+    },
+    "segments": [
+      {
+        "token": "Significa",
+        "startTime": 216165,
+        "endTime": 216845
+      },
+      {
+        "token": "en",
+        "startTime": 216845,
+        "endTime": 217585
+      },
+      {
+        "token": "algún",
+        "startTime": 217585,
+        "endTime": 217925
+      },
+      {
+        "token": "momento,",
+        "startTime": 217925,
+        "endTime": 218545
+      },
+      {
+        "token": "en",
+        "startTime": 218545,
+        "endTime": 219465
+      },
+      {
+        "token": "el",
+        "startTime": 219465,
+        "endTime": 219665
+      },
+      {
+        "token": "futuro.",
+        "startTime": 219665,
+        "endTime": 220845
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pueden ser dos minutos, pueden ser quince.",
+    "translations": {
+      "en": "Could be two minutes, could be fifteen."
+    },
+    "segments": [
+      {
+        "token": "Pueden",
+        "startTime": 220845,
+        "endTime": 221205
+      },
+      {
+        "token": "ser",
+        "startTime": 221205,
+        "endTime": 221465
+      },
+      {
+        "token": "dos",
+        "startTime": 221465,
+        "endTime": 221705
+      },
+      {
+        "token": "minutos,",
+        "startTime": 221705,
+        "endTime": 222585
+      },
+      {
+        "token": "pueden",
+        "startTime": 222585,
+        "endTime": 222725
+      },
+      {
+        "token": "ser",
+        "startTime": 222725,
+        "endTime": 222985
+      },
+      {
+        "token": "quince.",
+        "startTime": 222985,
+        "endTime": 224165
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nadie sabe.",
+    "translations": {
+      "en": "Nobody knows."
+    },
+    "segments": [
+      {
+        "token": "Nadie",
+        "startTime": 224165,
+        "endTime": 224585
+      },
+      {
+        "token": "sabe.",
+        "startTime": 224585,
+        "endTime": 224945
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nadie sabe lo que significa ahorita.",
+    "translations": {
+      "en": "Nobody knows what 'ahorita' means."
+    },
+    "segments": [
+      {
+        "token": "Nadie",
+        "startTime": 224945,
+        "endTime": 226105
+      },
+      {
+        "token": "sabe",
+        "startTime": 226105,
+        "endTime": 226465
+      },
+      {
+        "token": "lo",
+        "startTime": 226465,
+        "endTime": 226685
+      },
+      {
+        "token": "que",
+        "startTime": 226685,
+        "endTime": 226785
+      },
+      {
+        "token": "significa",
+        "startTime": 226785,
+        "endTime": 227365
+      },
+      {
+        "token": "ahorita.",
+        "startTime": 227365,
+        "endTime": 227485
+      }
+    ]
+  },
+  {
+    "sentence_text": "ahorita cuando escuchen ahorita se lo traigo respiren y sean pacientes ya llegará nueve",
+    "translations": {
+      "en": "When you hear 'ahorita' as in 'I'll bring it to you in a bit', breathe and be patient; it'll come eventually."
+    },
+    "segments": [
+      {
+        "token": "ahorita",
+        "startTime": 227485,
+        "endTime": 228005
+      },
+      {
+        "token": "cuando",
+        "startTime": 228005,
+        "endTime": 228485
+      },
+      {
+        "token": "escuchen",
+        "startTime": 228485,
+        "endTime": 229045
+      },
+      {
+        "token": "ahorita",
+        "startTime": 229045,
+        "endTime": 229625
+      },
+      {
+        "token": "se",
+        "startTime": 229625,
+        "endTime": 229825
+      },
+      {
+        "token": "lo",
+        "startTime": 229825,
+        "endTime": 229945
+      },
+      {
+        "token": "traigo",
+        "startTime": 229945,
+        "endTime": 230345
+      },
+      {
+        "token": "respiren",
+        "startTime": 230345,
+        "endTime": 231325
+      },
+      {
+        "token": "y",
+        "startTime": 231325,
+        "endTime": 232125
+      },
+      {
+        "token": "sean",
+        "startTime": 232125,
+        "endTime": 232565
+      },
+      {
+        "token": "pacientes",
+        "startTime": 232565,
+        "endTime": 233245
+      },
+      {
+        "token": "ya",
+        "startTime": 233245,
+        "endTime": 234025
+      },
+      {
+        "token": "llegará",
+        "startTime": 234025,
+        "endTime": 234645
+      },
+      {
+        "token": "nueve",
+        "startTime": 234645,
+        "endTime": 235565
+      }
+    ]
+  },
+  {
+    "sentence_text": "gracias o muchas gracias cuando les traigan el café decir gracias no es opcional.",
+    "translations": {
+      "en": "Say 'thank you' or 'thanks a lot' when they bring your coffee; saying thanks is not optional."
+    },
+    "segments": [
+      {
+        "token": "gracias",
+        "startTime": 235565,
+        "endTime": 235905
+      },
+      {
+        "token": "o",
+        "startTime": 235905,
+        "endTime": 237085
+      },
+      {
+        "token": "muchas",
+        "startTime": 237085,
+        "endTime": 237705
+      },
+      {
+        "token": "gracias",
+        "startTime": 237705,
+        "endTime": 238205
+      },
+      {
+        "token": "cuando",
+        "startTime": 238205,
+        "endTime": 238925
+      },
+      {
+        "token": "les",
+        "startTime": 238925,
+        "endTime": 239165
+      },
+      {
+        "token": "traigan",
+        "startTime": 239165,
+        "endTime": 239505
+      },
+      {
+        "token": "el",
+        "startTime": 239505,
+        "endTime": 239725
+      },
+      {
+        "token": "café",
+        "startTime": 239725,
+        "endTime": 240045
+      },
+      {
+        "token": "decir",
+        "startTime": 240045,
+        "endTime": 241265
+      },
+      {
+        "token": "gracias",
+        "startTime": 241265,
+        "endTime": 241725
+      },
+      {
+        "token": "no",
+        "startTime": 241725,
+        "endTime": 242170
+      },
+      {
+        "token": "es",
+        "startTime": 242170,
+        "endTime": 242470
+      },
+      {
+        "token": "opcional.",
+        "startTime": 242470,
+        "endTime": 243750
+      }
+    ]
+  },
+  {
+    "sentence_text": "En México, la persona que no da las gracias se ve mal.",
+    "translations": {
+      "en": "In Mexico, someone who doesn't say thanks looks bad."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 243750,
+        "endTime": 243970
+      },
+      {
+        "token": "México,",
+        "startTime": 243970,
+        "endTime": 244450
+      },
+      {
+        "token": "la",
+        "startTime": 244450,
+        "endTime": 244550
+      },
+      {
+        "token": "persona",
+        "startTime": 244550,
+        "endTime": 244910
+      },
+      {
+        "token": "que",
+        "startTime": 244910,
+        "endTime": 245230
+      },
+      {
+        "token": "no",
+        "startTime": 245230,
+        "endTime": 245410
+      },
+      {
+        "token": "da",
+        "startTime": 245410,
+        "endTime": 245530
+      },
+      {
+        "token": "las",
+        "startTime": 245530,
+        "endTime": 245770
+      },
+      {
+        "token": "gracias",
+        "startTime": 245770,
+        "endTime": 245770
+      },
+      {
+        "token": "se",
+        "startTime": 245770,
+        "endTime": 247450
+      },
+      {
+        "token": "ve",
+        "startTime": 247450,
+        "endTime": 247630
+      },
+      {
+        "token": "mal.",
+        "startTime": 247630,
+        "endTime": 248570
+      }
+    ]
+  },
+  {
+    "sentence_text": "Luego, luego saben que no eres de ahí.",
+    "translations": {
+      "en": "They immediately know you're not from there."
+    },
+    "segments": [
+      {
+        "token": "Luego,",
+        "startTime": 248570,
+        "endTime": 248930
+      },
+      {
+        "token": "luego",
+        "startTime": 248930,
+        "endTime": 249330
+      },
+      {
+        "token": "saben",
+        "startTime": 249330,
+        "endTime": 249930
+      },
+      {
+        "token": "que",
+        "startTime": 249930,
+        "endTime": 250410
+      },
+      {
+        "token": "no",
+        "startTime": 250410,
+        "endTime": 250630
+      },
+      {
+        "token": "eres",
+        "startTime": 250630,
+        "endTime": 251010
+      },
+      {
+        "token": "de",
+        "startTime": 251010,
+        "endTime": 251250
+      },
+      {
+        "token": "ahí.",
+        "startTime": 251250,
+        "endTime": 252410
+      }
+    ]
+  },
+  {
+    "sentence_text": "Los mexicanos somos muy agradecidos, muy amables.",
+    "translations": {
+      "en": "Mexicans are very grateful, very polite."
+    },
+    "segments": [
+      {
+        "token": "Los",
+        "startTime": 252410,
+        "endTime": 252650
+      },
+      {
+        "token": "mexicanos",
+        "startTime": 252650,
+        "endTime": 253230
+      },
+      {
+        "token": "somos",
+        "startTime": 253230,
+        "endTime": 253570
+      },
+      {
+        "token": "muy",
+        "startTime": 253570,
+        "endTime": 253970
+      },
+      {
+        "token": "agradecidos,",
+        "startTime": 253970,
+        "endTime": 255150
+      },
+      {
+        "token": "muy",
+        "startTime": 255150,
+        "endTime": 255450
+      },
+      {
+        "token": "amables.",
+        "startTime": 255450,
+        "endTime": 256450
+      }
+    ]
+  },
+  {
+    "sentence_text": "Siempre decimos por favor y gracias.",
+    "translations": {
+      "en": "We always say please and thank you."
+    },
+    "segments": [
+      {
+        "token": "Siempre",
+        "startTime": 256450,
+        "endTime": 257050
+      },
+      {
+        "token": "decimos",
+        "startTime": 257050,
+        "endTime": 257630
+      },
+      {
+        "token": "por",
+        "startTime": 257630,
+        "endTime": 257890
+      },
+      {
+        "token": "favor",
+        "startTime": 257890,
+        "endTime": 258230
+      },
+      {
+        "token": "y",
+        "startTime": 258230,
+        "endTime": 258650
+      },
+      {
+        "token": "gracias.",
+        "startTime": 258650,
+        "endTime": 259890
+      }
+    ]
+  },
+  {
+    "sentence_text": "Diez. ¿Me pasas la carta o me das el menú para ver qué más hay?",
+    "translations": {
+      "en": "Ten. Can you pass me the menu to see what else there is?"
+    },
+    "segments": [
+      {
+        "token": "Diez.",
+        "startTime": 259890,
+        "endTime": 259890
+      },
+      {
+        "token": "¿Me",
+        "startTime": 259890,
+        "endTime": 261090
+      },
+      {
+        "token": "pasas",
+        "startTime": 261090,
+        "endTime": 261410
+      },
+      {
+        "token": "la",
+        "startTime": 261410,
+        "endTime": 261570
+      },
+      {
+        "token": "carta",
+        "startTime": 261570,
+        "endTime": 261890
+      },
+      {
+        "token": "o",
+        "startTime": 261890,
+        "endTime": 262430
+      },
+      {
+        "token": "me",
+        "startTime": 262430,
+        "endTime": 262890
+      },
+      {
+        "token": "das",
+        "startTime": 262890,
+        "endTime": 263010
+      },
+      {
+        "token": "el",
+        "startTime": 263010,
+        "endTime": 263250
+      },
+      {
+        "token": "menú",
+        "startTime": 263250,
+        "endTime": 263590
+      },
+      {
+        "token": "para",
+        "startTime": 263590,
+        "endTime": 264350
+      },
+      {
+        "token": "ver",
+        "startTime": 264350,
+        "endTime": 264750
+      },
+      {
+        "token": "qué",
+        "startTime": 264750,
+        "endTime": 265050
+      },
+      {
+        "token": "más",
+        "startTime": 265050,
+        "endTime": 265410
+      },
+      {
+        "token": "hay?",
+        "startTime": 265410,
+        "endTime": 266290
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pide el menú.",
+    "translations": {
+      "en": "Ask for the menu."
+    },
+    "segments": [
+      {
+        "token": "Pide",
+        "startTime": 266290,
+        "endTime": 266590
+      },
+      {
+        "token": "el",
+        "startTime": 266590,
+        "endTime": 266810
+      },
+      {
+        "token": "menú.",
+        "startTime": 266810,
+        "endTime": 267550
+      }
+    ]
+  },
+  {
+    "sentence_text": "Las dos palabras funcionan bien.",
+    "translations": {
+      "en": "Both words work fine."
+    },
+    "segments": [
+      {
+        "token": "Las",
+        "startTime": 267550,
+        "endTime": 267750
+      },
+      {
+        "token": "dos",
+        "startTime": 267750,
+        "endTime": 267930
+      },
+      {
+        "token": "palabras",
+        "startTime": 267930,
+        "endTime": 268390
+      },
+      {
+        "token": "funcionan",
+        "startTime": 268390,
+        "endTime": 268970
+      },
+      {
+        "token": "bien.",
+        "startTime": 268970,
+        "endTime": 269350
+      }
+    ]
+  },
+  {
+    "sentence_text": "Menú y carta. ¿Me pasas la carta, por favor?",
+    "translations": {
+      "en": "Menu and menu. Can you pass me the menu, please?"
+    },
+    "segments": [
+      {
+        "token": "Menú",
+        "startTime": 269350,
+        "endTime": 269690
+      },
+      {
+        "token": "y",
+        "startTime": 269690,
+        "endTime": 269950
+      },
+      {
+        "token": "carta.",
+        "startTime": 269950,
+        "endTime": 271050
+      },
+      {
+        "token": "¿Me",
+        "startTime": 271050,
+        "endTime": 271230
+      },
+      {
+        "token": "pasas",
+        "startTime": 271230,
+        "endTime": 271750
+      },
+      {
+        "token": "la",
+        "startTime": 271750,
+        "endTime": 271970
+      },
+      {
+        "token": "carta,",
+        "startTime": 271970,
+        "endTime": 272450
+      },
+      {
+        "token": "por",
+        "startTime": 272450,
+        "endTime": 272570
+      },
+      {
+        "token": "favor?",
+        "startTime": 272570,
+        "endTime": 273190
+      }
+    ]
+  },
+  {
+    "sentence_text": "Once. ¿Me cobras, por favor?",
+    "translations": {
+      "en": "Check, please. Can you charge me, please?"
+    },
+    "segments": [
+      {
+        "token": "Once.",
+        "startTime": 273190,
+        "endTime": 274570
+      },
+      {
+        "token": "¿Me",
+        "startTime": 274570,
+        "endTime": 274750
+      },
+      {
+        "token": "cobras,",
+        "startTime": 274750,
+        "endTime": 275290
+      },
+      {
+        "token": "por",
+        "startTime": 275290,
+        "endTime": 275370
+      },
+      {
+        "token": "favor?",
+        "startTime": 275370,
+        "endTime": 276590
+      }
+    ]
+  },
+  {
+    "sentence_text": "Atención aquí.",
+    "translations": {
+      "en": "Attention here."
+    },
+    "segments": [
+      {
+        "token": "Atención",
+        "startTime": 276590,
+        "endTime": 277090
+      },
+      {
+        "token": "aquí.",
+        "startTime": 277090,
+        "endTime": 277830
+      }
+    ]
+  },
+  {
+    "sentence_text": "Esto es importante.",
+    "translations": {
+      "en": "This is important."
+    },
+    "segments": [
+      {
+        "token": "Esto",
+        "startTime": 277830,
+        "endTime": 278110
+      },
+      {
+        "token": "es",
+        "startTime": 278110,
+        "endTime": 278250
+      },
+      {
+        "token": "importante.",
+        "startTime": 278250,
+        "endTime": 279350
+      }
+    ]
+  },
+  {
+    "sentence_text": "En México, el mesero usualmente",
+    "translations": {
+      "en": "In Mexico, the waiter usually"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 279350,
+        "endTime": 279570
+      },
+      {
+        "token": "México,",
+        "startTime": 279570,
+        "endTime": 279990
+      },
+      {
+        "token": "el",
+        "startTime": 279990,
+        "endTime": 280370
+      },
+      {
+        "token": "mesero",
+        "startTime": 280370,
+        "endTime": 280810
+      },
+      {
+        "token": "usualmente",
+        "startTime": 280810,
+        "endTime": 281530
+      }
+    ]
+  },
+  {
+    "sentence_text": "no te va a traer la carta o la cuenta solo.",
+    "translations": {
+      "en": "won't bring you the menu or the check on their own."
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 281530,
+        "endTime": 281870
+      },
+      {
+        "token": "te",
+        "startTime": 281870,
+        "endTime": 282110
+      },
+      {
+        "token": "va",
+        "startTime": 282110,
+        "endTime": 282210
+      },
+      {
+        "token": "a",
+        "startTime": 282210,
+        "endTime": 282270
+      },
+      {
+        "token": "traer",
+        "startTime": 282270,
+        "endTime": 282730
+      },
+      {
+        "token": "la",
+        "startTime": 282730,
+        "endTime": 283110
+      },
+      {
+        "token": "carta",
+        "startTime": 283110,
+        "endTime": 283490
+      },
+      {
+        "token": "o",
+        "startTime": 283490,
+        "endTime": 283850
+      },
+      {
+        "token": "la",
+        "startTime": 283850,
+        "endTime": 283970
+      },
+      {
+        "token": "cuenta",
+        "startTime": 283970,
+        "endTime": 284350
+      },
+      {
+        "token": "solo.",
+        "startTime": 284350,
+        "endTime": 285030
+      }
+    ]
+  },
+  {
+    "sentence_text": "Se la tienes que pedir.",
+    "translations": {
+      "en": "You have to ask for it."
+    },
+    "segments": [
+      {
+        "token": "Se",
+        "startTime": 285030,
+        "endTime": 285230
+      },
+      {
+        "token": "la",
+        "startTime": 285230,
+        "endTime": 285390
+      },
+      {
+        "token": "tienes",
+        "startTime": 285390,
+        "endTime": 285750
+      },
+      {
+        "token": "que",
+        "startTime": 285750,
+        "endTime": 285970
+      },
+      {
+        "token": "pedir.",
+        "startTime": 285970,
+        "endTime": 285970
+      }
+    ]
+  },
+  {
+    "sentence_text": "Si se quedan esperando a que la traigan, pueden esperar hasta que cierren. ¿Me cobras,",
+    "translations": {
+      "en": "If they wait for it to be brought, they can wait until closing time. Can you charge me,"
+    },
+    "segments": [
+      {
+        "token": "Si",
+        "startTime": 285970,
+        "endTime": 286850
+      },
+      {
+        "token": "se",
+        "startTime": 286850,
+        "endTime": 287050
+      },
+      {
+        "token": "quedan",
+        "startTime": 287050,
+        "endTime": 287530
+      },
+      {
+        "token": "esperando",
+        "startTime": 287530,
+        "endTime": 287990
+      },
+      {
+        "token": "a",
+        "startTime": 287990,
+        "endTime": 288330
+      },
+      {
+        "token": "que",
+        "startTime": 288330,
+        "endTime": 288490
+      },
+      {
+        "token": "la",
+        "startTime": 288490,
+        "endTime": 288630
+      },
+      {
+        "token": "traigan,",
+        "startTime": 288630,
+        "endTime": 289430
+      },
+      {
+        "token": "pueden",
+        "startTime": 289430,
+        "endTime": 289690
+      },
+      {
+        "token": "esperar",
+        "startTime": 289690,
+        "endTime": 290170
+      },
+      {
+        "token": "hasta",
+        "startTime": 290170,
+        "endTime": 290690
+      },
+      {
+        "token": "que",
+        "startTime": 290690,
+        "endTime": 290890
+      },
+      {
+        "token": "cierren.",
+        "startTime": 290890,
+        "endTime": 291910
+      },
+      {
+        "token": "¿Me",
+        "startTime": 291910,
+        "endTime": 292070
+      },
+      {
+        "token": "cobras,",
+        "startTime": 292070,
+        "endTime": 292650
+      }
+    ]
+  },
+  {
+    "sentence_text": "por favor?",
+    "translations": {
+      "en": "please?"
+    },
+    "segments": [
+      {
+        "token": "por",
+        "startTime": 292650,
+        "endTime": 292750
+      },
+      {
+        "token": "favor?",
+        "startTime": 292750,
+        "endTime": 293690
+      }
+    ]
+  },
+  {
+    "sentence_text": "Esa es la frase para usar.",
+    "translations": {
+      "en": "That's the phrase to use."
+    },
+    "segments": [
+      {
+        "token": "Esa",
+        "startTime": 293690,
+        "endTime": 293990
+      },
+      {
+        "token": "es",
+        "startTime": 293990,
+        "endTime": 294090
+      },
+      {
+        "token": "la",
+        "startTime": 294090,
+        "endTime": 294210
+      },
+      {
+        "token": "frase",
+        "startTime": 294210,
+        "endTime": 294530
+      },
+      {
+        "token": "para",
+        "startTime": 294530,
+        "endTime": 294830
+      },
+      {
+        "token": "usar.",
+        "startTime": 294830,
+        "endTime": 295610
+      }
+    ]
+  },
+  {
+    "sentence_text": "Literal es decir, charge me.",
+    "translations": {
+      "en": "Literally it means, charge me."
+    },
+    "segments": [
+      {
+        "token": "Literal",
+        "startTime": 295610,
+        "endTime": 296070
+      },
+      {
+        "token": "es",
+        "startTime": 296070,
+        "endTime": 296630
+      },
+      {
+        "token": "decir,",
+        "startTime": 296630,
+        "endTime": 297670
+      },
+      {
+        "token": "charge",
+        "startTime": 297670,
+        "endTime": 298030
+      },
+      {
+        "token": "me.",
+        "startTime": 298030,
+        "endTime": 299430
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es lo que todos decimos.",
+    "translations": {
+      "en": "It's what we all say."
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 299430,
+        "endTime": 299690
+      },
+      {
+        "token": "lo",
+        "startTime": 299690,
+        "endTime": 299850
+      },
+      {
+        "token": "que",
+        "startTime": 299850,
+        "endTime": 299970
+      },
+      {
+        "token": "todos",
+        "startTime": 299970,
+        "endTime": 300250
+      },
+      {
+        "token": "decimos.",
+        "startTime": 300250,
+        "endTime": 301330
+      }
+    ]
+  },
+  {
+    "sentence_text": "Doce.",
+    "translations": {
+      "en": "Twelve."
+    },
+    "segments": [
+      {
+        "token": "Doce.",
+        "startTime": 301330,
+        "endTime": 302350
+      }
+    ]
+  },
+  {
+    "sentence_text": "La cuenta, por favor.",
+    "translations": {
+      "en": "The check, please."
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 302350,
+        "endTime": 302510
+      },
+      {
+        "token": "cuenta,",
+        "startTime": 302510,
+        "endTime": 303010
+      },
+      {
+        "token": "por",
+        "startTime": 303010,
+        "endTime": 303090
+      },
+      {
+        "token": "favor.",
+        "startTime": 303090,
+        "endTime": 304090
+      }
+    ]
+  },
+  {
+    "sentence_text": "Esta es igual a la anterior.",
+    "translations": {
+      "en": "This one is the same as the previous one."
+    },
+    "segments": [
+      {
+        "token": "Esta",
+        "startTime": 304090,
+        "endTime": 304410
+      },
+      {
+        "token": "es",
+        "startTime": 304410,
+        "endTime": 305070
+      },
+      {
+        "token": "igual",
+        "startTime": 305070,
+        "endTime": 305990
+      },
+      {
+        "token": "a",
+        "startTime": 305990,
+        "endTime": 306170
+      },
+      {
+        "token": "la",
+        "startTime": 306170,
+        "endTime": 306230
+      },
+      {
+        "token": "anterior.",
+        "startTime": 306230,
+        "endTime": 307430
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es un poco más formal. ¿Me cobras?",
+    "translations": {
+      "en": "It's a bit more formal. Can you charge me?"
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 307430,
+        "endTime": 307690
+      },
+      {
+        "token": "un",
+        "startTime": 307690,
+        "endTime": 307850
+      },
+      {
+        "token": "poco",
+        "startTime": 307850,
+        "endTime": 308050
+      },
+      {
+        "token": "más",
+        "startTime": 308050,
+        "endTime": 308370
+      },
+      {
+        "token": "formal.",
+        "startTime": 308370,
+        "endTime": 309330
+      },
+      {
+        "token": "¿Me",
+        "startTime": 309330,
+        "endTime": 309490
+      },
+      {
+        "token": "cobras?",
+        "startTime": 309490,
+        "endTime": 310030
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es como que hay más confianza.",
+    "translations": {
+      "en": "It's like there's more familiarity."
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 310030,
+        "endTime": 310410
+      },
+      {
+        "token": "como",
+        "startTime": 310410,
+        "endTime": 310670
+      },
+      {
+        "token": "que",
+        "startTime": 310670,
+        "endTime": 310950
+      },
+      {
+        "token": "hay",
+        "startTime": 310950,
+        "endTime": 311270
+      },
+      {
+        "token": "más",
+        "startTime": 311270,
+        "endTime": 311510
+      },
+      {
+        "token": "confianza.",
+        "startTime": 311510,
+        "endTime": 312450
+      }
+    ]
+  },
+  {
+    "sentence_text": "La cuenta, por favor, es más neutral.",
+    "translations": {
+      "en": "The check, please, is more neutral."
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 312450,
+        "endTime": 312730
+      },
+      {
+        "token": "cuenta,",
+        "startTime": 312730,
+        "endTime": 313270
+      },
+      {
+        "token": "por",
+        "startTime": 313270,
+        "endTime": 313390
+      },
+      {
+        "token": "favor,",
+        "startTime": 313390,
+        "endTime": 313690
+      },
+      {
+        "token": "es",
+        "startTime": 313690,
+        "endTime": 314250
+      },
+      {
+        "token": "más",
+        "startTime": 314250,
+        "endTime": 314650
+      },
+      {
+        "token": "neutral.",
+        "startTime": 314650,
+        "endTime": 315830
+      }
+    ]
+  },
+  {
+    "sentence_text": "Las dos sirven igual.",
+    "translations": {
+      "en": "Both work the same."
+    },
+    "segments": [
+      {
+        "token": "Las",
+        "startTime": 315830,
+        "endTime": 316090
+      },
+      {
+        "token": "dos",
+        "startTime": 316090,
+        "endTime": 316370
+      },
+      {
+        "token": "sirven",
+        "startTime": 316370,
+        "endTime": 317030
+      },
+      {
+        "token": "igual.",
+        "startTime": 317030,
+        "endTime": 317870
+      }
+    ]
+  },
+  {
+    "sentence_text": "Trece.",
+    "translations": {
+      "en": "Thirteen."
+    },
+    "segments": [
+      {
+        "token": "Trece.",
+        "startTime": 317870,
+        "endTime": 318810
+      }
+    ]
+  },
+  {
+    "sentence_text": "Yo invito.",
+    "translations": {
+      "en": "It's on me."
+    },
+    "segments": [
+      {
+        "token": "Yo",
+        "startTime": 318810,
+        "endTime": 319070
+      },
+      {
+        "token": "invito.",
+        "startTime": 319070,
+        "endTime": 320870
+      }
+    ]
+  },
+  {
+    "sentence_text": "Si estás con amigos, con una chica, con una pareja que quieres impresionar,",
+    "translations": {
+      "en": "If you're with friends, with a girl, with a partner you want to impress,"
+    },
+    "segments": [
+      {
+        "token": "Si",
+        "startTime": 320870,
+        "endTime": 320970
+      },
+      {
+        "token": "estás",
+        "startTime": 320970,
+        "endTime": 321270
+      },
+      {
+        "token": "con",
+        "startTime": 321270,
+        "endTime": 321570
+      },
+      {
+        "token": "amigos,",
+        "startTime": 321570,
+        "endTime": 322550
+      },
+      {
+        "token": "con",
+        "startTime": 322550,
+        "endTime": 322650
+      },
+      {
+        "token": "una",
+        "startTime": 322650,
+        "endTime": 322890
+      },
+      {
+        "token": "chica,",
+        "startTime": 322890,
+        "endTime": 323730
+      },
+      {
+        "token": "con",
+        "startTime": 323730,
+        "endTime": 323850
+      },
+      {
+        "token": "una",
+        "startTime": 323850,
+        "endTime": 324030
+      },
+      {
+        "token": "pareja",
+        "startTime": 324030,
+        "endTime": 324570
+      },
+      {
+        "token": "que",
+        "startTime": 324570,
+        "endTime": 324810
+      },
+      {
+        "token": "quieres",
+        "startTime": 324810,
+        "endTime": 325070
+      },
+      {
+        "token": "impresionar,",
+        "startTime": 325070,
+        "endTime": 326010
+      }
+    ]
+  },
+  {
+    "sentence_text": "puedes decir esta frase.",
+    "translations": {
+      "en": "you can say this phrase."
+    },
+    "segments": [
+      {
+        "token": "puedes",
+        "startTime": 326010,
+        "endTime": 326570
+      },
+      {
+        "token": "decir",
+        "startTime": 326570,
+        "endTime": 326910
+      },
+      {
+        "token": "esta",
+        "startTime": 326910,
+        "endTime": 327210
+      },
+      {
+        "token": "frase.",
+        "startTime": 327210,
+        "endTime": 327730
+      }
+    ]
+  },
+  {
+    "sentence_text": "Yo invito para pagar.",
+    "translations": {
+      "en": "\"Yo invito\" to pay."
+    },
+    "segments": [
+      {
+        "token": "Yo",
+        "startTime": 327730,
+        "endTime": 327990
+      },
+      {
+        "token": "invito",
+        "startTime": 327990,
+        "endTime": 328630
+      },
+      {
+        "token": "para",
+        "startTime": 328630,
+        "endTime": 329350
+      },
+      {
+        "token": "pagar.",
+        "startTime": 329350,
+        "endTime": 330590
+      }
+    ]
+  },
+  {
+    "sentence_text": "Literal, estás diciendo I invite,",
+    "translations": {
+      "en": "Literally, you're saying \"I invite,\""
+    },
+    "segments": [
+      {
+        "token": "Literal,",
+        "startTime": 330590,
+        "endTime": 331330
+      },
+      {
+        "token": "estás",
+        "startTime": 331330,
+        "endTime": 332010
+      },
+      {
+        "token": "diciendo",
+        "startTime": 332010,
+        "endTime": 332470
+      },
+      {
+        "token": "I",
+        "startTime": 332470,
+        "endTime": 333170
+      },
+      {
+        "token": "invite,",
+        "startTime": 333170,
+        "endTime": 333970
+      }
+    ]
+  },
+  {
+    "sentence_text": "pero el uso o la traducción real es it's on me.",
+    "translations": {
+      "en": "but the actual use or translation is \"it's on me.\""
+    },
+    "segments": [
+      {
+        "token": "pero",
+        "startTime": 333970,
+        "endTime": 334690
+      },
+      {
+        "token": "el",
+        "startTime": 334690,
+        "endTime": 335470
+      },
+      {
+        "token": "uso",
+        "startTime": 335470,
+        "endTime": 335730
+      },
+      {
+        "token": "o",
+        "startTime": 335730,
+        "endTime": 335910
+      },
+      {
+        "token": "la",
+        "startTime": 335910,
+        "endTime": 336030
+      },
+      {
+        "token": "traducción",
+        "startTime": 336030,
+        "endTime": 336610
+      },
+      {
+        "token": "real",
+        "startTime": 336610,
+        "endTime": 336970
+      },
+      {
+        "token": "es",
+        "startTime": 336970,
+        "endTime": 337710
+      },
+      {
+        "token": "it's",
+        "startTime": 337710,
+        "endTime": 338270
+      },
+      {
+        "token": "on",
+        "startTime": 338270,
+        "endTime": 338470
+      },
+      {
+        "token": "me.",
+        "startTime": 338470,
+        "endTime": 338870
+      }
+    ]
+  },
+  {
+    "sentence_text": "Como, no, no, hoy yo invito.",
+    "translations": {
+      "en": "Like, no, no, today it's on me."
+    },
+    "segments": [
+      {
+        "token": "Como,",
+        "startTime": 338870,
+        "endTime": 339810
+      },
+      {
+        "token": "no,",
+        "startTime": 339810,
+        "endTime": 340150
+      },
+      {
+        "token": "no,",
+        "startTime": 340150,
+        "endTime": 340550
+      },
+      {
+        "token": "hoy",
+        "startTime": 340550,
+        "endTime": 340850
+      },
+      {
+        "token": "yo",
+        "startTime": 340850,
+        "endTime": 341270
+      },
+      {
+        "token": "invito.",
+        "startTime": 341270,
+        "endTime": 342450
+      }
+    ]
+  },
+  {
+    "sentence_text": "Advertencia, si estás con mexicanos, esta situación de invitar se convierte en una guerra.",
+    "translations": {
+      "en": "Warning: if you're with Mexicans, this inviting situation turns into a war."
+    },
+    "segments": [
+      {
+        "token": "Advertencia,",
+        "startTime": 342450,
+        "endTime": 343350
+      },
+      {
+        "token": "si",
+        "startTime": 343350,
+        "endTime": 343490
+      },
+      {
+        "token": "estás",
+        "startTime": 343490,
+        "endTime": 343730
+      },
+      {
+        "token": "con",
+        "startTime": 343730,
+        "endTime": 343970
+      },
+      {
+        "token": "mexicanos,",
+        "startTime": 343970,
+        "endTime": 344830
+      },
+      {
+        "token": "esta",
+        "startTime": 344830,
+        "endTime": 345510
+      },
+      {
+        "token": "situación",
+        "startTime": 345510,
+        "endTime": 345910
+      },
+      {
+        "token": "de",
+        "startTime": 345910,
+        "endTime": 346270
+      },
+      {
+        "token": "invitar",
+        "startTime": 346270,
+        "endTime": 346690
+      },
+      {
+        "token": "se",
+        "startTime": 346690,
+        "endTime": 347030
+      },
+      {
+        "token": "convierte",
+        "startTime": 347030,
+        "endTime": 347410
+      },
+      {
+        "token": "en",
+        "startTime": 347410,
+        "endTime": 347550
+      },
+      {
+        "token": "una",
+        "startTime": 347550,
+        "endTime": 347710
+      },
+      {
+        "token": "guerra.",
+        "startTime": 347710,
+        "endTime": 348130
+      }
+    ]
+  },
+  {
+    "sentence_text": "prepárate para que te arrebaten la cuenta.",
+    "translations": {
+      "en": "Get ready for them to snatch the bill from you."
+    },
+    "segments": [
+      {
+        "token": "prepárate",
+        "startTime": 348130,
+        "endTime": 349070
+      },
+      {
+        "token": "para",
+        "startTime": 349070,
+        "endTime": 349330
+      },
+      {
+        "token": "que",
+        "startTime": 349330,
+        "endTime": 349490
+      },
+      {
+        "token": "te",
+        "startTime": 349490,
+        "endTime": 349650
+      },
+      {
+        "token": "arrebaten",
+        "startTime": 349650,
+        "endTime": 350270
+      },
+      {
+        "token": "la",
+        "startTime": 350270,
+        "endTime": 350710
+      },
+      {
+        "token": "cuenta.",
+        "startTime": 350710,
+        "endTime": 351530
+      }
+    ]
+  },
+  {
+    "sentence_text": "En mi familia todo el tiempo se pelean con yo invito, no, no, no,",
+    "translations": {
+      "en": "In my family, they're always fighting over \"it's on me,\" no, no, no,"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 351530,
+        "endTime": 351710
+      },
+      {
+        "token": "mi",
+        "startTime": 351710,
+        "endTime": 351830
+      },
+      {
+        "token": "familia",
+        "startTime": 351830,
+        "endTime": 352270
+      },
+      {
+        "token": "todo",
+        "startTime": 352270,
+        "endTime": 352770
+      },
+      {
+        "token": "el",
+        "startTime": 352770,
+        "endTime": 352970
+      },
+      {
+        "token": "tiempo",
+        "startTime": 352970,
+        "endTime": 353410
+      },
+      {
+        "token": "se",
+        "startTime": 353410,
+        "endTime": 353630
+      },
+      {
+        "token": "pelean",
+        "startTime": 353630,
+        "endTime": 354010
+      },
+      {
+        "token": "con",
+        "startTime": 354010,
+        "endTime": 354190
+      },
+      {
+        "token": "yo",
+        "startTime": 354190,
+        "endTime": 354490
+      },
+      {
+        "token": "invito,",
+        "startTime": 354490,
+        "endTime": 355010
+      },
+      {
+        "token": "no,",
+        "startTime": 355010,
+        "endTime": 355350
+      },
+      {
+        "token": "no,",
+        "startTime": 355350,
+        "endTime": 355370
+      },
+      {
+        "token": "no,",
+        "startTime": 355370,
+        "endTime": 355670
+      }
+    ]
+  },
+  {
+    "sentence_text": "yo invito, no, dame la cuenta.",
+    "translations": {
+      "en": "it's on me, no, give me the check."
+    },
+    "segments": [
+      {
+        "token": "yo",
+        "startTime": 355670,
+        "endTime": 355730
+      },
+      {
+        "token": "invito,",
+        "startTime": 355730,
+        "endTime": 356390
+      },
+      {
+        "token": "no,",
+        "startTime": 356390,
+        "endTime": 356730
+      },
+      {
+        "token": "dame",
+        "startTime": 356730,
+        "endTime": 356910
+      },
+      {
+        "token": "la",
+        "startTime": 356910,
+        "endTime": 357070
+      },
+      {
+        "token": "cuenta.",
+        "startTime": 357070,
+        "endTime": 358190
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es todo un tema. 14. ¿Me regalas un vaso de agua?",
+    "translations": {
+      "en": "It's a whole thing. 14. Can you give me a glass of water?"
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 358190,
+        "endTime": 358350
+      },
+      {
+        "token": "todo",
+        "startTime": 358350,
+        "endTime": 358590
+      },
+      {
+        "token": "un",
+        "startTime": 358590,
+        "endTime": 358750
+      },
+      {
+        "token": "tema.",
+        "startTime": 358750,
+        "endTime": 359490
+      },
+      {
+        "token": "14.",
+        "startTime": 359490,
+        "endTime": 360330
+      },
+      {
+        "token": "¿Me",
+        "startTime": 360330,
+        "endTime": 360670
+      },
+      {
+        "token": "regalas",
+        "startTime": 360670,
+        "endTime": 361130
+      },
+      {
+        "token": "un",
+        "startTime": 361130,
+        "endTime": 361310
+      },
+      {
+        "token": "vaso",
+        "startTime": 361310,
+        "endTime": 361590
+      },
+      {
+        "token": "de",
+        "startTime": 361590,
+        "endTime": 361730
+      },
+      {
+        "token": "agua?",
+        "startTime": 361730,
+        "endTime": 362690
+      }
+    ]
+  },
+  {
+    "sentence_text": "Esta es mi favorita y es la frase que más uso",
+    "translations": {
+      "en": "This is my favorite and the phrase I use the most"
+    },
+    "segments": [
+      {
+        "token": "Esta",
+        "startTime": 362690,
+        "endTime": 363055
+      },
+      {
+        "token": "es",
+        "startTime": 363055,
+        "endTime": 363415
+      },
+      {
+        "token": "mi",
+        "startTime": 363415,
+        "endTime": 363555
+      },
+      {
+        "token": "favorita",
+        "startTime": 363555,
+        "endTime": 364095
+      },
+      {
+        "token": "y",
+        "startTime": 364095,
+        "endTime": 364575
+      },
+      {
+        "token": "es",
+        "startTime": 364575,
+        "endTime": 364975
+      },
+      {
+        "token": "la",
+        "startTime": 364975,
+        "endTime": 365055
+      },
+      {
+        "token": "frase",
+        "startTime": 365055,
+        "endTime": 365255
+      },
+      {
+        "token": "que",
+        "startTime": 365255,
+        "endTime": 365475
+      },
+      {
+        "token": "más",
+        "startTime": 365475,
+        "endTime": 365475
+      },
+      {
+        "token": "uso",
+        "startTime": 365475,
+        "endTime": 365975
+      }
+    ]
+  },
+  {
+    "sentence_text": "en general para pedir cosas.",
+    "translations": {
+      "en": "in general to ask for things."
+    },
+    "segments": [
+      {
+        "token": "en",
+        "startTime": 365975,
+        "endTime": 366115
+      },
+      {
+        "token": "general",
+        "startTime": 366115,
+        "endTime": 366455
+      },
+      {
+        "token": "para",
+        "startTime": 366455,
+        "endTime": 366755
+      },
+      {
+        "token": "pedir",
+        "startTime": 366755,
+        "endTime": 367035
+      },
+      {
+        "token": "cosas.",
+        "startTime": 367035,
+        "endTime": 367655
+      }
+    ]
+  },
+  {
+    "sentence_text": "Me regalas.",
+    "translations": {
+      "en": "\"Me regalas.\""
+    },
+    "segments": [
+      {
+        "token": "Me",
+        "startTime": 367655,
+        "endTime": 367895
+      },
+      {
+        "token": "regalas.",
+        "startTime": 367895,
+        "endTime": 368715
+      }
+    ]
+  },
+  {
+    "sentence_text": "Me regalas un algo.",
+    "translations": {
+      "en": "Can you give me a something."
+    },
+    "segments": [
+      {
+        "token": "Me",
+        "startTime": 368715,
+        "endTime": 369155
+      },
+      {
+        "token": "regalas",
+        "startTime": 369155,
+        "endTime": 369835
+      },
+      {
+        "token": "un",
+        "startTime": 369835,
+        "endTime": 370295
+      },
+      {
+        "token": "algo.",
+        "startTime": 370295,
+        "endTime": 371375
+      }
+    ]
+  },
+  {
+    "sentence_text": "Me regalas una servilleta.",
+    "translations": {
+      "en": "Can you give me a napkin."
+    },
+    "segments": [
+      {
+        "token": "Me",
+        "startTime": 371375,
+        "endTime": 371635
+      },
+      {
+        "token": "regalas",
+        "startTime": 371635,
+        "endTime": 372275
+      },
+      {
+        "token": "una",
+        "startTime": 372275,
+        "endTime": 372555
+      },
+      {
+        "token": "servilleta.",
+        "startTime": 372555,
+        "endTime": 373375
+      }
+    ]
+  },
+  {
+    "sentence_text": "Me regalas un tenedor.",
+    "translations": {
+      "en": "Can you give me a fork."
+    },
+    "segments": [
+      {
+        "token": "Me",
+        "startTime": 373375,
+        "endTime": 373375
+      },
+      {
+        "token": "regalas",
+        "startTime": 373375,
+        "endTime": 374555
+      },
+      {
+        "token": "un",
+        "startTime": 374555,
+        "endTime": 375175
+      },
+      {
+        "token": "tenedor.",
+        "startTime": 375175,
+        "endTime": 375955
+      }
+    ]
+  },
+  {
+    "sentence_text": "Me regalas una cuchara.",
+    "translations": {
+      "en": "Can you give me a spoon."
+    },
+    "segments": [
+      {
+        "token": "Me",
+        "startTime": 375955,
+        "endTime": 376075
+      },
+      {
+        "token": "regalas",
+        "startTime": 376075,
+        "endTime": 376755
+      },
+      {
+        "token": "una",
+        "startTime": 376755,
+        "endTime": 377035
+      },
+      {
+        "token": "cuchara.",
+        "startTime": 377035,
+        "endTime": 377975
+      }
+    ]
+  },
+  {
+    "sentence_text": "Otra vez, los mexicanos súper amables.",
+    "translations": {
+      "en": "Again, Mexicans are super polite."
+    },
+    "segments": [
+      {
+        "token": "Otra",
+        "startTime": 377975,
+        "endTime": 378715
+      },
+      {
+        "token": "vez,",
+        "startTime": 378715,
+        "endTime": 379035
+      },
+      {
+        "token": "los",
+        "startTime": 379035,
+        "endTime": 379155
+      },
+      {
+        "token": "mexicanos",
+        "startTime": 379155,
+        "endTime": 379755
+      },
+      {
+        "token": "súper",
+        "startTime": 379755,
+        "endTime": 380035
+      },
+      {
+        "token": "amables.",
+        "startTime": 380035,
+        "endTime": 380835
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es nuestro Could I have 15?",
+    "translations": {
+      "en": "It's our... Could I have 15?"
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 380835,
+        "endTime": 381415
+      },
+      {
+        "token": "nuestro",
+        "startTime": 381415,
+        "endTime": 382195
+      },
+      {
+        "token": "Could",
+        "startTime": 382195,
+        "endTime": 382335
+      },
+      {
+        "token": "I",
+        "startTime": 382335,
+        "endTime": 382555
+      },
+      {
+        "token": "have",
+        "startTime": 382555,
+        "endTime": 383115
+      },
+      {
+        "token": "15?",
+        "startTime": 383115,
+        "endTime": 384475
+      }
+    ]
+  },
+  {
+    "sentence_text": "Gracias, que tenga un buen día.",
+    "translations": {
+      "en": "Thank you, have a nice day."
+    },
+    "segments": [
+      {
+        "token": "Gracias,",
+        "startTime": 384475,
+        "endTime": 385375
+      },
+      {
+        "token": "que",
+        "startTime": 385375,
+        "endTime": 385435
+      },
+      {
+        "token": "tenga",
+        "startTime": 385435,
+        "endTime": 385735
+      },
+      {
+        "token": "un",
+        "startTime": 385735,
+        "endTime": 386155
+      },
+      {
+        "token": "buen",
+        "startTime": 386155,
+        "endTime": 386275
+      },
+      {
+        "token": "día.",
+        "startTime": 386275,
+        "endTime": 387335
+      }
+    ]
+  },
+  {
+    "sentence_text": "Al salir, gracias, que tenga un buen día, incluye la mano.",
+    "translations": {
+      "en": "As you leave, thank you, have a nice day, including the hand."
+    },
+    "segments": [
+      {
+        "token": "Al",
+        "startTime": 387335,
+        "endTime": 387515
+      },
+      {
+        "token": "salir,",
+        "startTime": 387515,
+        "endTime": 387935
+      },
+      {
+        "token": "gracias,",
+        "startTime": 387935,
+        "endTime": 388695
+      },
+      {
+        "token": "que",
+        "startTime": 388695,
+        "endTime": 388755
+      },
+      {
+        "token": "tenga",
+        "startTime": 388755,
+        "endTime": 388915
+      },
+      {
+        "token": "un",
+        "startTime": 388915,
+        "endTime": 389015
+      },
+      {
+        "token": "buen",
+        "startTime": 389015,
+        "endTime": 389175
+      },
+      {
+        "token": "día,",
+        "startTime": 389175,
+        "endTime": 389515
+      },
+      {
+        "token": "incluye",
+        "startTime": 389515,
+        "endTime": 391255
+      },
+      {
+        "token": "la",
+        "startTime": 391255,
+        "endTime": 391395
+      },
+      {
+        "token": "mano.",
+        "startTime": 391395,
+        "endTime": 391695
+      }
+    ]
+  },
+  {
+    "sentence_text": "Gracias.",
+    "translations": {
+      "en": "Thanks."
+    },
+    "segments": [
+      {
+        "token": "Gracias.",
+        "startTime": 391695,
+        "endTime": 393315
+      }
+    ]
+  },
+  {
+    "sentence_text": "Siempre, aunque ya hayas pagado, aunque no vayas a volver ese café en tu vida,",
+    "translations": {
+      "en": "Always, even if you've already paid, even if you'll never come back for that coffee in your life,"
+    },
+    "segments": [
+      {
+        "token": "Siempre,",
+        "startTime": 393315,
+        "endTime": 393775
+      },
+      {
+        "token": "aunque",
+        "startTime": 393775,
+        "endTime": 394175
+      },
+      {
+        "token": "ya",
+        "startTime": 394175,
+        "endTime": 394395
+      },
+      {
+        "token": "hayas",
+        "startTime": 394395,
+        "endTime": 394595
+      },
+      {
+        "token": "pagado,",
+        "startTime": 394595,
+        "endTime": 395335
+      },
+      {
+        "token": "aunque",
+        "startTime": 395335,
+        "endTime": 395455
+      },
+      {
+        "token": "no",
+        "startTime": 395455,
+        "endTime": 395675
+      },
+      {
+        "token": "vayas",
+        "startTime": 395675,
+        "endTime": 395895
+      },
+      {
+        "token": "a",
+        "startTime": 395895,
+        "endTime": 396015
+      },
+      {
+        "token": "volver",
+        "startTime": 396015,
+        "endTime": 396195
+      },
+      {
+        "token": "ese",
+        "startTime": 396195,
+        "endTime": 396455
+      },
+      {
+        "token": "café",
+        "startTime": 396455,
+        "endTime": 396675
+      },
+      {
+        "token": "en",
+        "startTime": 396675,
+        "endTime": 396855
+      },
+      {
+        "token": "tu",
+        "startTime": 396855,
+        "endTime": 396975
+      },
+      {
+        "token": "vida,",
+        "startTime": 396975,
+        "endTime": 397755
+      }
+    ]
+  },
+  {
+    "sentence_text": "despídete y da las gracias.",
+    "translations": {
+      "en": "say goodbye and say thank you."
+    },
+    "segments": [
+      {
+        "token": "despídete",
+        "startTime": 397755,
+        "endTime": 398435
+      },
+      {
+        "token": "y",
+        "startTime": 398435,
+        "endTime": 398595
+      },
+      {
+        "token": "da",
+        "startTime": 398595,
+        "endTime": 398775
+      },
+      {
+        "token": "las",
+        "startTime": 398775,
+        "endTime": 399075
+      },
+      {
+        "token": "gracias.",
+        "startTime": 399075,
+        "endTime": 400055
+      }
+    ]
+  },
+  {
+    "sentence_text": "Eso es lo que hace un local.",
+    "translations": {
+      "en": "That's what makes a local place."
+    },
+    "segments": [
+      {
+        "token": "Eso",
+        "startTime": 400055,
+        "endTime": 400375
+      },
+      {
+        "token": "es",
+        "startTime": 400375,
+        "endTime": 400615
+      },
+      {
+        "token": "lo",
+        "startTime": 400615,
+        "endTime": 400755
+      },
+      {
+        "token": "que",
+        "startTime": 400755,
+        "endTime": 400895
+      },
+      {
+        "token": "hace",
+        "startTime": 400895,
+        "endTime": 401115
+      },
+      {
+        "token": "un",
+        "startTime": 401115,
+        "endTime": 401515
+      },
+      {
+        "token": "local.",
+        "startTime": 401515,
+        "endTime": 402675
+      }
+    ]
+  },
+  {
+    "sentence_text": "Una cosa rápida sobre la propina.",
+    "translations": {
+      "en": "A quick thing about tipping."
+    },
+    "segments": [
+      {
+        "token": "Una",
+        "startTime": 402675,
+        "endTime": 402895
+      },
+      {
+        "token": "cosa",
+        "startTime": 402895,
+        "endTime": 403175
+      },
+      {
+        "token": "rápida",
+        "startTime": 403175,
+        "endTime": 403635
+      },
+      {
+        "token": "sobre",
+        "startTime": 403635,
+        "endTime": 404035
+      },
+      {
+        "token": "la",
+        "startTime": 404035,
+        "endTime": 404235
+      },
+      {
+        "token": "propina.",
+        "startTime": 404235,
+        "endTime": 405195
+      }
+    ]
+  },
+  {
+    "sentence_text": "En México sí se deja propina.",
+    "translations": {
+      "en": "In Mexico, tipping is expected."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 405195,
+        "endTime": 405375
+      },
+      {
+        "token": "México",
+        "startTime": 405375,
+        "endTime": 405715
+      },
+      {
+        "token": "sí",
+        "startTime": 405715,
+        "endTime": 406155
+      },
+      {
+        "token": "se",
+        "startTime": 406155,
+        "endTime": 406375
+      },
+      {
+        "token": "deja",
+        "startTime": 406375,
+        "endTime": 406615
+      },
+      {
+        "token": "propina.",
+        "startTime": 406615,
+        "endTime": 406675
+      }
+    ]
+  },
+  {
+    "sentence_text": "Lo normal es dejar entre un 10 y 15%.",
+    "translations": {
+      "en": "The norm is to leave between 10 and 15%."
+    },
+    "segments": [
+      {
+        "token": "Lo",
+        "startTime": 406675,
+        "endTime": 407655
+      },
+      {
+        "token": "normal",
+        "startTime": 407655,
+        "endTime": 407995
+      },
+      {
+        "token": "es",
+        "startTime": 407995,
+        "endTime": 408415
+      },
+      {
+        "token": "dejar",
+        "startTime": 408415,
+        "endTime": 408695
+      },
+      {
+        "token": "entre",
+        "startTime": 408695,
+        "endTime": 408995
+      },
+      {
+        "token": "un",
+        "startTime": 408995,
+        "endTime": 409355
+      },
+      {
+        "token": "10",
+        "startTime": 409355,
+        "endTime": 409675
+      },
+      {
+        "token": "y",
+        "startTime": 409675,
+        "endTime": 410135
+      },
+      {
+        "token": "15%.",
+        "startTime": 410135,
+        "endTime": 411655
+      }
+    ]
+  },
+  {
+    "sentence_text": "La propina no viene incluida en la cuenta como en otros países.",
+    "translations": {
+      "en": "The tip is not included in the bill like in other countries."
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 411655,
+        "endTime": 411755
+      },
+      {
+        "token": "propina",
+        "startTime": 411755,
+        "endTime": 412235
+      },
+      {
+        "token": "no",
+        "startTime": 412235,
+        "endTime": 412555
+      },
+      {
+        "token": "viene",
+        "startTime": 412555,
+        "endTime": 412895
+      },
+      {
+        "token": "incluida",
+        "startTime": 412895,
+        "endTime": 413535
+      },
+      {
+        "token": "en",
+        "startTime": 413535,
+        "endTime": 413855
+      },
+      {
+        "token": "la",
+        "startTime": 413855,
+        "endTime": 413995
+      },
+      {
+        "token": "cuenta",
+        "startTime": 413995,
+        "endTime": 414375
+      },
+      {
+        "token": "como",
+        "startTime": 414375,
+        "endTime": 414815
+      },
+      {
+        "token": "en",
+        "startTime": 414815,
+        "endTime": 414975
+      },
+      {
+        "token": "otros",
+        "startTime": 414975,
+        "endTime": 415235
+      },
+      {
+        "token": "países.",
+        "startTime": 415235,
+        "endTime": 416275
+      }
+    ]
+  },
+  {
+    "sentence_text": "El mesero cuenta con esta propina.",
+    "translations": {
+      "en": "The waiter counts on this tip."
+    },
+    "segments": [
+      {
+        "token": "El",
+        "startTime": 416275,
+        "endTime": 416435
+      },
+      {
+        "token": "mesero",
+        "startTime": 416435,
+        "endTime": 416855
+      },
+      {
+        "token": "cuenta",
+        "startTime": 416855,
+        "endTime": 417415
+      },
+      {
+        "token": "con",
+        "startTime": 417415,
+        "endTime": 417615
+      },
+      {
+        "token": "esta",
+        "startTime": 417615,
+        "endTime": 417855
+      },
+      {
+        "token": "propina.",
+        "startTime": 417855,
+        "endTime": 418515
+      }
+    ]
+  },
+  {
+    "sentence_text": "Muchas veces los salarios de los meseros no son suficientes para sustentar la vida.",
+    "translations": {
+      "en": "Often, waiters' salaries aren't enough to sustain a living."
+    },
+    "segments": [
+      {
+        "token": "Muchas",
+        "startTime": 418515,
+        "endTime": 418835
+      },
+      {
+        "token": "veces",
+        "startTime": 418835,
+        "endTime": 419315
+      },
+      {
+        "token": "los",
+        "startTime": 419315,
+        "endTime": 419755
+      },
+      {
+        "token": "salarios",
+        "startTime": 419755,
+        "endTime": 420215
+      },
+      {
+        "token": "de",
+        "startTime": 420215,
+        "endTime": 420395
+      },
+      {
+        "token": "los",
+        "startTime": 420395,
+        "endTime": 420555
+      },
+      {
+        "token": "meseros",
+        "startTime": 420555,
+        "endTime": 420975
+      },
+      {
+        "token": "no",
+        "startTime": 420975,
+        "endTime": 421335
+      },
+      {
+        "token": "son",
+        "startTime": 421335,
+        "endTime": 421655
+      },
+      {
+        "token": "suficientes",
+        "startTime": 421655,
+        "endTime": 422395
+      },
+      {
+        "token": "para",
+        "startTime": 422395,
+        "endTime": 422775
+      },
+      {
+        "token": "sustentar",
+        "startTime": 422775,
+        "endTime": 423475
+      },
+      {
+        "token": "la",
+        "startTime": 423475,
+        "endTime": 424155
+      },
+      {
+        "token": "vida.",
+        "startTime": 424155,
+        "endTime": 424875
+      }
+    ]
+  },
+  {
+    "sentence_text": "Entonces, dependen mucho de las propinas.",
+    "translations": {
+      "en": "So, they depend a lot on tips."
+    },
+    "segments": [
+      {
+        "token": "Entonces,",
+        "startTime": 424875,
+        "endTime": 425315
+      },
+      {
+        "token": "dependen",
+        "startTime": 425315,
+        "endTime": 426075
+      },
+      {
+        "token": "mucho",
+        "startTime": 426075,
+        "endTime": 426395
+      },
+      {
+        "token": "de",
+        "startTime": 426395,
+        "endTime": 426615
+      },
+      {
+        "token": "las",
+        "startTime": 426615,
+        "endTime": 426775
+      },
+      {
+        "token": "propinas.",
+        "startTime": 426775,
+        "endTime": 427395
+      }
+    ]
+  },
+  {
+    "sentence_text": "Al pagar con tarjeta, de hecho, te preguntan, ¿le cargo propina?",
+    "translations": {
+      "en": "When paying by card, in fact, they ask you, should I add the tip?"
+    },
+    "segments": [
+      {
+        "token": "Al",
+        "startTime": 427395,
+        "endTime": 427575
+      },
+      {
+        "token": "pagar",
+        "startTime": 427575,
+        "endTime": 427815
+      },
+      {
+        "token": "con",
+        "startTime": 427815,
+        "endTime": 428035
+      },
+      {
+        "token": "tarjeta,",
+        "startTime": 428035,
+        "endTime": 428615
+      },
+      {
+        "token": "de",
+        "startTime": 428615,
+        "endTime": 428715
+      },
+      {
+        "token": "hecho,",
+        "startTime": 428715,
+        "endTime": 428975
+      },
+      {
+        "token": "te",
+        "startTime": 428975,
+        "endTime": 429095
+      },
+      {
+        "token": "preguntan,",
+        "startTime": 429095,
+        "endTime": 429795
+      },
+      {
+        "token": "¿le",
+        "startTime": 429795,
+        "endTime": 430195
+      },
+      {
+        "token": "cargo",
+        "startTime": 430195,
+        "endTime": 430715
+      },
+      {
+        "token": "propina?",
+        "startTime": 430715,
+        "endTime": 431315
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y ustedes dicen, sí, el 10%. 15 frases.",
+    "translations": {
+      "en": "And you say, yes, 10%. 15 phrases."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 431315,
+        "endTime": 431595
+      },
+      {
+        "token": "ustedes",
+        "startTime": 431595,
+        "endTime": 431995
+      },
+      {
+        "token": "dicen,",
+        "startTime": 431995,
+        "endTime": 433135
+      },
+      {
+        "token": "sí,",
+        "startTime": 433135,
+        "endTime": 433735
+      },
+      {
+        "token": "el",
+        "startTime": 433735,
+        "endTime": 434095
+      },
+      {
+        "token": "10%.",
+        "startTime": 434095,
+        "endTime": 435775
+      },
+      {
+        "token": "15",
+        "startTime": 435775,
+        "endTime": 436195
+      },
+      {
+        "token": "frases.",
+        "startTime": 436195,
+        "endTime": 436995
+      }
+    ]
+  },
+  {
+    "sentence_text": "Con esto sobreviven en cualquier cafetería en México.",
+    "translations": {
+      "en": "With this, you can survive in any café in Mexico."
+    },
+    "segments": [
+      {
+        "token": "Con",
+        "startTime": 436995,
+        "endTime": 437235
+      },
+      {
+        "token": "esto",
+        "startTime": 437235,
+        "endTime": 437595
+      },
+      {
+        "token": "sobreviven",
+        "startTime": 437595,
+        "endTime": 438335
+      },
+      {
+        "token": "en",
+        "startTime": 438335,
+        "endTime": 438615
+      },
+      {
+        "token": "cualquier",
+        "startTime": 438615,
+        "endTime": 439015
+      },
+      {
+        "token": "cafetería",
+        "startTime": 439015,
+        "endTime": 439695
+      },
+      {
+        "token": "en",
+        "startTime": 439695,
+        "endTime": 440055
+      },
+      {
+        "token": "México.",
+        "startTime": 440055,
+        "endTime": 440955
+      }
+    ]
+  },
+  {
+    "sentence_text": "En mi comunidad de school puedes practicar este tipo de vocabulario y más.",
+    "translations": {
+      "en": "In my school community, you can practice this kind of vocabulary and more."
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 440955,
+        "endTime": 441095
+      },
+      {
+        "token": "mi",
+        "startTime": 441095,
+        "endTime": 441255
+      },
+      {
+        "token": "comunidad",
+        "startTime": 441255,
+        "endTime": 441635
+      },
+      {
+        "token": "de",
+        "startTime": 441635,
+        "endTime": 441895
+      },
+      {
+        "token": "school",
+        "startTime": 441895,
+        "endTime": 442115
+      },
+      {
+        "token": "puedes",
+        "startTime": 442115,
+        "endTime": 442755
+      },
+      {
+        "token": "practicar",
+        "startTime": 442755,
+        "endTime": 443295
+      },
+      {
+        "token": "este",
+        "startTime": 443295,
+        "endTime": 443615
+      },
+      {
+        "token": "tipo",
+        "startTime": 443615,
+        "endTime": 443915
+      },
+      {
+        "token": "de",
+        "startTime": 443915,
+        "endTime": 444075
+      },
+      {
+        "token": "vocabulario",
+        "startTime": 444075,
+        "endTime": 444775
+      },
+      {
+        "token": "y",
+        "startTime": 444775,
+        "endTime": 445035
+      },
+      {
+        "token": "más.",
+        "startTime": 445035,
+        "endTime": 446015
+      }
+    ]
+  },
+  {
+    "sentence_text": "También tengo un club de conversación cada semana para que practiques conversación",
+    "translations": {
+      "en": "I also have a weekly conversation club so you can practice speaking"
+    },
+    "segments": [
+      {
+        "token": "También",
+        "startTime": 446015,
+        "endTime": 446295
+      },
+      {
+        "token": "tengo",
+        "startTime": 446295,
+        "endTime": 446735
+      },
+      {
+        "token": "un",
+        "startTime": 446735,
+        "endTime": 447055
+      },
+      {
+        "token": "club",
+        "startTime": 447055,
+        "endTime": 447315
+      },
+      {
+        "token": "de",
+        "startTime": 447315,
+        "endTime": 447535
+      },
+      {
+        "token": "conversación",
+        "startTime": 447535,
+        "endTime": 448235
+      },
+      {
+        "token": "cada",
+        "startTime": 448235,
+        "endTime": 448675
+      },
+      {
+        "token": "semana",
+        "startTime": 448675,
+        "endTime": 449055
+      },
+      {
+        "token": "para",
+        "startTime": 449055,
+        "endTime": 449395
+      },
+      {
+        "token": "que",
+        "startTime": 449395,
+        "endTime": 449575
+      },
+      {
+        "token": "practiques",
+        "startTime": 449575,
+        "endTime": 450075
+      },
+      {
+        "token": "conversación",
+        "startTime": 450075,
+        "endTime": 451015
+      }
+    ]
+  },
+  {
+    "sentence_text": "conmigo y con otros estudiantes de español de todo el mundo.",
+    "translations": {
+      "en": "with me and other Spanish students from around the world."
+    },
+    "segments": [
+      {
+        "token": "conmigo",
+        "startTime": 451015,
+        "endTime": 451655
+      },
+      {
+        "token": "y",
+        "startTime": 451655,
+        "endTime": 451995
+      },
+      {
+        "token": "con",
+        "startTime": 451995,
+        "endTime": 452235
+      },
+      {
+        "token": "otros",
+        "startTime": 452235,
+        "endTime": 452595
+      },
+      {
+        "token": "estudiantes",
+        "startTime": 452595,
+        "endTime": 453235
+      },
+      {
+        "token": "de",
+        "startTime": 453235,
+        "endTime": 453475
+      },
+      {
+        "token": "español",
+        "startTime": 453475,
+        "endTime": 453755
+      },
+      {
+        "token": "de",
+        "startTime": 453755,
+        "endTime": 454195
+      },
+      {
+        "token": "todo",
+        "startTime": 454195,
+        "endTime": 454775
+      },
+      {
+        "token": "el",
+        "startTime": 454775,
+        "endTime": 455035
+      },
+      {
+        "token": "mundo.",
+        "startTime": 455035,
+        "endTime": 456255
+      }
+    ]
+  },
+  {
+    "sentence_text": "Si quieres checarlo, te dejo el link en la descripción.",
+    "translations": {
+      "en": "If you want to check it out, I'll leave the link in the description."
+    },
+    "segments": [
+      {
+        "token": "Si",
+        "startTime": 456255,
+        "endTime": 456435
+      },
+      {
+        "token": "quieres",
+        "startTime": 456435,
+        "endTime": 456735
+      },
+      {
+        "token": "checarlo,",
+        "startTime": 456735,
+        "endTime": 457455
+      },
+      {
+        "token": "te",
+        "startTime": 457455,
+        "endTime": 457575
+      },
+      {
+        "token": "dejo",
+        "startTime": 457575,
+        "endTime": 457815
+      },
+      {
+        "token": "el",
+        "startTime": 457815,
+        "endTime": 457975
+      },
+      {
+        "token": "link",
+        "startTime": 457975,
+        "endTime": 458135
+      },
+      {
+        "token": "en",
+        "startTime": 458135,
+        "endTime": 458455
+      },
+      {
+        "token": "la",
+        "startTime": 458455,
+        "endTime": 458615
+      },
+      {
+        "token": "descripción.",
+        "startTime": 458615,
+        "endTime": 459595
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nos vemos a la próxima. ¡Adiós! ¡Suscríbete al canal!",
+    "translations": {
+      "en": "See you next time. Bye! Subscribe to the channel!"
+    },
+    "segments": [
+      {
+        "token": "Nos",
+        "startTime": 459595,
+        "endTime": 459795
+      },
+      {
+        "token": "vemos",
+        "startTime": 459795,
+        "endTime": 460055
+      },
+      {
+        "token": "a",
+        "startTime": 460055,
+        "endTime": 460435
+      },
+      {
+        "token": "la",
+        "startTime": 460435,
+        "endTime": 460495
+      },
+      {
+        "token": "próxima.",
+        "startTime": 460495,
+        "endTime": 460775
+      },
+      {
+        "token": "¡Adiós!",
+        "startTime": 460775,
+        "endTime": 470435
+      },
+      {
+        "token": "¡Suscríbete",
+        "startTime": 470435,
+        "endTime": 474295
+      },
+      {
+        "token": "al",
+        "startTime": 474295,
+        "endTime": 474795
+      },
+      {
+        "token": "canal!",
+        "startTime": 474795,
+        "endTime": 474815
+      }
+    ]
+  }
+]
