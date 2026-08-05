@@ -1,0 +1,9412 @@
+[
+  {
+    "sentence_text": "Hola chicos, hola,",
+    "translations": {
+      "en": "Hey guys, hey,"
+    },
+    "segments": [
+      {
+        "token": "Hola",
+        "startTime": 280,
+        "endTime": 560
+      },
+      {
+        "token": "chicos,",
+        "startTime": 560,
+        "endTime": 1580
+      },
+      {
+        "token": "hola,",
+        "startTime": 1580,
+        "endTime": 1880
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿qué tal? Soy yo,",
+    "translations": {
+      "en": "how's it going? It's me,"
+    },
+    "segments": [
+      {
+        "token": "¿qué",
+        "startTime": 1880,
+        "endTime": 1920
+      },
+      {
+        "token": "tal?",
+        "startTime": 1920,
+        "endTime": 2100
+      },
+      {
+        "token": "Soy",
+        "startTime": 2100,
+        "endTime": 2460
+      },
+      {
+        "token": "yo,",
+        "startTime": 2460,
+        "endTime": 2740
+      }
+    ]
+  },
+  {
+    "sentence_text": "soy yo Juan. Mira, me",
+    "translations": {
+      "en": "it's me Juan. Look, I"
+    },
+    "segments": [
+      {
+        "token": "soy",
+        "startTime": 2740,
+        "endTime": 2940
+      },
+      {
+        "token": "yo",
+        "startTime": 2940,
+        "endTime": 3140
+      },
+      {
+        "token": "Juan.",
+        "startTime": 3140,
+        "endTime": 3700
+      },
+      {
+        "token": "Mira,",
+        "startTime": 3700,
+        "endTime": 6260
+      },
+      {
+        "token": "me",
+        "startTime": 6260,
+        "endTime": 6300
+      }
+    ]
+  },
+  {
+    "sentence_text": "he comprado esta gorra.",
+    "translations": {
+      "en": "bought this cap."
+    },
+    "segments": [
+      {
+        "token": "he",
+        "startTime": 6300,
+        "endTime": 6400
+      },
+      {
+        "token": "comprado",
+        "startTime": 6400,
+        "endTime": 6760
+      },
+      {
+        "token": "esta",
+        "startTime": 6760,
+        "endTime": 7100
+      },
+      {
+        "token": "gorra.",
+        "startTime": 7100,
+        "endTime": 7920
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mira qué gorra tan chula,",
+    "translations": {
+      "en": "Look how cool this cap is,"
+    },
+    "segments": [
+      {
+        "token": "Mira",
+        "startTime": 7920,
+        "endTime": 8140
+      },
+      {
+        "token": "qué",
+        "startTime": 8140,
+        "endTime": 8260
+      },
+      {
+        "token": "gorra",
+        "startTime": 8260,
+        "endTime": 8480
+      },
+      {
+        "token": "tan",
+        "startTime": 8480,
+        "endTime": 8680
+      },
+      {
+        "token": "chula,",
+        "startTime": 8680,
+        "endTime": 9300
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿eh? ¿Te gusta? ¿Cómo me queda? ¿Cómo me",
+    "translations": {
+      "en": "huh? Do you like it? How does it look on me? How does it"
+    },
+    "segments": [
+      {
+        "token": "¿eh?",
+        "startTime": 9300,
+        "endTime": 9340
+      },
+      {
+        "token": "¿Te",
+        "startTime": 9340,
+        "endTime": 9600
+      },
+      {
+        "token": "gusta?",
+        "startTime": 9600,
+        "endTime": 10140
+      },
+      {
+        "token": "¿Cómo",
+        "startTime": 10140,
+        "endTime": 10560
+      },
+      {
+        "token": "me",
+        "startTime": 10560,
+        "endTime": 10720
+      },
+      {
+        "token": "queda?",
+        "startTime": 10720,
+        "endTime": 11160
+      },
+      {
+        "token": "¿Cómo",
+        "startTime": 11160,
+        "endTime": 11860
+      },
+      {
+        "token": "me",
+        "startTime": 11860,
+        "endTime": 12080
+      }
+    ]
+  },
+  {
+    "sentence_text": "queda? ¿Me queda bien?",
+    "translations": {
+      "en": "look? Does it suit me?"
+    },
+    "segments": [
+      {
+        "token": "queda?",
+        "startTime": 12080,
+        "endTime": 12460
+      },
+      {
+        "token": "¿Me",
+        "startTime": 12460,
+        "endTime": 12600
+      },
+      {
+        "token": "queda",
+        "startTime": 12600,
+        "endTime": 12760
+      },
+      {
+        "token": "bien?",
+        "startTime": 12760,
+        "endTime": 13620
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿Me queda bien o me queda mal? Yo",
+    "translations": {
+      "en": "Does it look good on me or bad? I"
+    },
+    "segments": [
+      {
+        "token": "¿Me",
+        "startTime": 13620,
+        "endTime": 14240
+      },
+      {
+        "token": "queda",
+        "startTime": 14240,
+        "endTime": 14420
+      },
+      {
+        "token": "bien",
+        "startTime": 14420,
+        "endTime": 14600
+      },
+      {
+        "token": "o",
+        "startTime": 14600,
+        "endTime": 14920
+      },
+      {
+        "token": "me",
+        "startTime": 14920,
+        "endTime": 15040
+      },
+      {
+        "token": "queda",
+        "startTime": 15040,
+        "endTime": 15260
+      },
+      {
+        "token": "mal?",
+        "startTime": 15260,
+        "endTime": 15460
+      },
+      {
+        "token": "Yo",
+        "startTime": 15460,
+        "endTime": 15680
+      }
+    ]
+  },
+  {
+    "sentence_text": "creo que me queda muy bien,",
+    "translations": {
+      "en": "think it looks really good on me,"
+    },
+    "segments": [
+      {
+        "token": "creo",
+        "startTime": 15680,
+        "endTime": 15860
+      },
+      {
+        "token": "que",
+        "startTime": 15860,
+        "endTime": 16000
+      },
+      {
+        "token": "me",
+        "startTime": 16000,
+        "endTime": 16160
+      },
+      {
+        "token": "queda",
+        "startTime": 16160,
+        "endTime": 16379
+      },
+      {
+        "token": "muy",
+        "startTime": 16379,
+        "endTime": 16660
+      },
+      {
+        "token": "bien,",
+        "startTime": 16660,
+        "endTime": 17340
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿no? Me hace,",
+    "translations": {
+      "en": "right? It makes me,"
+    },
+    "segments": [
+      {
+        "token": "¿no?",
+        "startTime": 17340,
+        "endTime": 17400
+      },
+      {
+        "token": "Me",
+        "startTime": 17400,
+        "endTime": 17580
+      },
+      {
+        "token": "hace,",
+        "startTime": 17580,
+        "endTime": 18100
+      }
+    ]
+  },
+  {
+    "sentence_text": "me hace más joven. Parezco,",
+    "translations": {
+      "en": "it makes me look younger. I seem,"
+    },
+    "segments": [
+      {
+        "token": "me",
+        "startTime": 18100,
+        "endTime": 18600
+      },
+      {
+        "token": "hace",
+        "startTime": 18600,
+        "endTime": 18900
+      },
+      {
+        "token": "más",
+        "startTime": 18900,
+        "endTime": 19180
+      },
+      {
+        "token": "joven.",
+        "startTime": 19180,
+        "endTime": 20000
+      },
+      {
+        "token": "Parezco,",
+        "startTime": 20000,
+        "endTime": 20700
+      }
+    ]
+  },
+  {
+    "sentence_text": "parezco más guapo. ¿Tú qué piensas? Es",
+    "translations": {
+      "en": "I seem more handsome. What do you think? It's"
+    },
+    "segments": [
+      {
+        "token": "parezco",
+        "startTime": 20700,
+        "endTime": 21460
+      },
+      {
+        "token": "más",
+        "startTime": 21460,
+        "endTime": 21740
+      },
+      {
+        "token": "guapo.",
+        "startTime": 21740,
+        "endTime": 22440
+      },
+      {
+        "token": "¿Tú",
+        "startTime": 22440,
+        "endTime": 23060
+      },
+      {
+        "token": "qué",
+        "startTime": 23060,
+        "endTime": 23140
+      },
+      {
+        "token": "piensas?",
+        "startTime": 23140,
+        "endTime": 23600
+      },
+      {
+        "token": "Es",
+        "startTime": 23600,
+        "endTime": 24500
+      }
+    ]
+  },
+  {
+    "sentence_text": "que yo,",
+    "translations": {
+      "en": "just that I,"
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 24500,
+        "endTime": 24640
+      },
+      {
+        "token": "yo,",
+        "startTime": 24640,
+        "endTime": 24880
+      }
+    ]
+  },
+  {
+    "sentence_text": "yo normalmente no llevo,",
+    "translations": {
+      "en": "I usually don't wear,"
+    },
+    "segments": [
+      {
+        "token": "yo",
+        "startTime": 24880,
+        "endTime": 25760
+      },
+      {
+        "token": "normalmente",
+        "startTime": 25760,
+        "endTime": 26320
+      },
+      {
+        "token": "no",
+        "startTime": 26320,
+        "endTime": 27320
+      },
+      {
+        "token": "llevo,",
+        "startTime": 27320,
+        "endTime": 27720
+      }
+    ]
+  },
+  {
+    "sentence_text": "no llevo gorra. No me gustan los sombreros,",
+    "translations": {
+      "en": "don't wear caps. I don't like hats,"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 27720,
+        "endTime": 28140
+      },
+      {
+        "token": "llevo",
+        "startTime": 28140,
+        "endTime": 28400
+      },
+      {
+        "token": "gorra.",
+        "startTime": 28400,
+        "endTime": 28860
+      },
+      {
+        "token": "No",
+        "startTime": 28860,
+        "endTime": 29140
+      },
+      {
+        "token": "me",
+        "startTime": 29140,
+        "endTime": 30460
+      },
+      {
+        "token": "gustan",
+        "startTime": 30460,
+        "endTime": 30720
+      },
+      {
+        "token": "los",
+        "startTime": 30720,
+        "endTime": 30880
+      },
+      {
+        "token": "sombreros,",
+        "startTime": 30880,
+        "endTime": 31500
+      }
+    ]
+  },
+  {
+    "sentence_text": "no me gusta ponerme nada en la cabeza,",
+    "translations": {
+      "en": "I don't like putting anything on my head,"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 31500,
+        "endTime": 31580
+      },
+      {
+        "token": "me",
+        "startTime": 31580,
+        "endTime": 31700
+      },
+      {
+        "token": "gusta",
+        "startTime": 31700,
+        "endTime": 31900
+      },
+      {
+        "token": "ponerme",
+        "startTime": 31900,
+        "endTime": 32380
+      },
+      {
+        "token": "nada",
+        "startTime": 32380,
+        "endTime": 33620
+      },
+      {
+        "token": "en",
+        "startTime": 33620,
+        "endTime": 33820
+      },
+      {
+        "token": "la",
+        "startTime": 33820,
+        "endTime": 33960
+      },
+      {
+        "token": "cabeza,",
+        "startTime": 33960,
+        "endTime": 34580
+      }
+    ]
+  },
+  {
+    "sentence_text": "no me gustan los gorros en invierno, no",
+    "translations": {
+      "en": "I don't like beanies in winter, I"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 34580,
+        "endTime": 34660
+      },
+      {
+        "token": "me",
+        "startTime": 34660,
+        "endTime": 34820
+      },
+      {
+        "token": "gustan",
+        "startTime": 34820,
+        "endTime": 35140
+      },
+      {
+        "token": "los",
+        "startTime": 35140,
+        "endTime": 35320
+      },
+      {
+        "token": "gorros",
+        "startTime": 35320,
+        "endTime": 35720
+      },
+      {
+        "token": "en",
+        "startTime": 35720,
+        "endTime": 35900
+      },
+      {
+        "token": "invierno,",
+        "startTime": 35900,
+        "endTime": 36840
+      },
+      {
+        "token": "no",
+        "startTime": 36840,
+        "endTime": 36940
+      }
+    ]
+  },
+  {
+    "sentence_text": "me gustan los sombreros en verano y las",
+    "translations": {
+      "en": "don't like hats in summer, and"
+    },
+    "segments": [
+      {
+        "token": "me",
+        "startTime": 36940,
+        "endTime": 37080
+      },
+      {
+        "token": "gustan",
+        "startTime": 37080,
+        "endTime": 37340
+      },
+      {
+        "token": "los",
+        "startTime": 37340,
+        "endTime": 37500
+      },
+      {
+        "token": "sombreros",
+        "startTime": 37500,
+        "endTime": 38020
+      },
+      {
+        "token": "en",
+        "startTime": 38020,
+        "endTime": 38260
+      },
+      {
+        "token": "verano",
+        "startTime": 38260,
+        "endTime": 38600
+      },
+      {
+        "token": "y",
+        "startTime": 38600,
+        "endTime": 39140
+      },
+      {
+        "token": "las",
+        "startTime": 39140,
+        "endTime": 39340
+      }
+    ]
+  },
+  {
+    "sentence_text": "gorras pues tampoco,",
+    "translations": {
+      "en": "caps well neither,"
+    },
+    "segments": [
+      {
+        "token": "gorras",
+        "startTime": 39340,
+        "endTime": 39880
+      },
+      {
+        "token": "pues",
+        "startTime": 39880,
+        "endTime": 40160
+      },
+      {
+        "token": "tampoco,",
+        "startTime": 40160,
+        "endTime": 41100
+      }
+    ]
+  },
+  {
+    "sentence_text": "tampoco me gustan. Pero el problema,",
+    "translations": {
+      "en": "I don't like them either. But the problem,"
+    },
+    "segments": [
+      {
+        "token": "tampoco",
+        "startTime": 41100,
+        "endTime": 41500
+      },
+      {
+        "token": "me",
+        "startTime": 41500,
+        "endTime": 41700
+      },
+      {
+        "token": "gustan.",
+        "startTime": 41700,
+        "endTime": 42360
+      },
+      {
+        "token": "Pero",
+        "startTime": 42360,
+        "endTime": 42740
+      },
+      {
+        "token": "el",
+        "startTime": 42740,
+        "endTime": 43300
+      },
+      {
+        "token": "problema,",
+        "startTime": 43300,
+        "endTime": 44120
+      }
+    ]
+  },
+  {
+    "sentence_text": "el problema, ¿sabes cuál es el problema?",
+    "translations": {
+      "en": "the problem, you know what the problem is?"
+    },
+    "segments": [
+      {
+        "token": "el",
+        "startTime": 44120,
+        "endTime": 44320
+      },
+      {
+        "token": "problema,",
+        "startTime": 44320,
+        "endTime": 44920
+      },
+      {
+        "token": "¿sabes",
+        "startTime": 44920,
+        "endTime": 45080
+      },
+      {
+        "token": "cuál",
+        "startTime": 45080,
+        "endTime": 45560
+      },
+      {
+        "token": "es",
+        "startTime": 45560,
+        "endTime": 45660
+      },
+      {
+        "token": "el",
+        "startTime": 45660,
+        "endTime": 45800
+      },
+      {
+        "token": "problema?",
+        "startTime": 45800,
+        "endTime": 46880
+      }
+    ]
+  },
+  {
+    "sentence_text": "El problema es que hace mucho calor, tío,",
+    "translations": {
+      "en": "The problem is it's really hot, man,"
+    },
+    "segments": [
+      {
+        "token": "El",
+        "startTime": 46880,
+        "endTime": 47160
+      },
+      {
+        "token": "problema",
+        "startTime": 47160,
+        "endTime": 47680
+      },
+      {
+        "token": "es",
+        "startTime": 47680,
+        "endTime": 48200
+      },
+      {
+        "token": "que",
+        "startTime": 48200,
+        "endTime": 48420
+      },
+      {
+        "token": "hace",
+        "startTime": 48420,
+        "endTime": 48840
+      },
+      {
+        "token": "mucho",
+        "startTime": 48840,
+        "endTime": 49100
+      },
+      {
+        "token": "calor,",
+        "startTime": 49100,
+        "endTime": 49760
+      },
+      {
+        "token": "tío,",
+        "startTime": 49760,
+        "endTime": 50060
+      }
+    ]
+  },
+  {
+    "sentence_text": "hace mucho calor.",
+    "translations": {
+      "en": "it's really hot."
+    },
+    "segments": [
+      {
+        "token": "hace",
+        "startTime": 50060,
+        "endTime": 50320
+      },
+      {
+        "token": "mucho",
+        "startTime": 50320,
+        "endTime": 50740
+      },
+      {
+        "token": "calor.",
+        "startTime": 50740,
+        "endTime": 52060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Estos días hay una ola,",
+    "translations": {
+      "en": "These days there's a heatwave,"
+    },
+    "segments": [
+      {
+        "token": "Estos",
+        "startTime": 52060,
+        "endTime": 52460
+      },
+      {
+        "token": "días",
+        "startTime": 52460,
+        "endTime": 52720
+      },
+      {
+        "token": "hay",
+        "startTime": 52720,
+        "endTime": 53180
+      },
+      {
+        "token": "una",
+        "startTime": 53180,
+        "endTime": 53640
+      },
+      {
+        "token": "ola,",
+        "startTime": 53640,
+        "endTime": 54140
+      }
+    ]
+  },
+  {
+    "sentence_text": "una ola de calor en Inglaterra",
+    "translations": {
+      "en": "a heatwave in England"
+    },
+    "segments": [
+      {
+        "token": "una",
+        "startTime": 54140,
+        "endTime": 54600
+      },
+      {
+        "token": "ola",
+        "startTime": 54600,
+        "endTime": 54880
+      },
+      {
+        "token": "de",
+        "startTime": 54880,
+        "endTime": 55040
+      },
+      {
+        "token": "calor",
+        "startTime": 55040,
+        "endTime": 55320
+      },
+      {
+        "token": "en",
+        "startTime": 55320,
+        "endTime": 56620
+      },
+      {
+        "token": "Inglaterra",
+        "startTime": 56620,
+        "endTime": 57880
+      }
+    ]
+  },
+  {
+    "sentence_text": "y en otros países de Europa y el",
+    "translations": {
+      "en": "and in other European countries, and the"
+    },
+    "segments": [
+      {
+        "token": "y",
+        "startTime": 57880,
+        "endTime": 58180
+      },
+      {
+        "token": "en",
+        "startTime": 58180,
+        "endTime": 58660
+      },
+      {
+        "token": "otros",
+        "startTime": 58660,
+        "endTime": 58860
+      },
+      {
+        "token": "países",
+        "startTime": 58860,
+        "endTime": 59720
+      },
+      {
+        "token": "de",
+        "startTime": 59720,
+        "endTime": 60040
+      },
+      {
+        "token": "Europa",
+        "startTime": 60040,
+        "endTime": 60040
+      },
+      {
+        "token": "y",
+        "startTime": 60040,
+        "endTime": 61040
+      },
+      {
+        "token": "el",
+        "startTime": 61040,
+        "endTime": 62740
+      }
+    ]
+  },
+  {
+    "sentence_text": "sol calienta mucho,",
+    "translations": {
+      "en": "sun is blazing,"
+    },
+    "segments": [
+      {
+        "token": "sol",
+        "startTime": 62740,
+        "endTime": 63160
+      },
+      {
+        "token": "calienta",
+        "startTime": 63160,
+        "endTime": 65040
+      },
+      {
+        "token": "mucho,",
+        "startTime": 65040,
+        "endTime": 65720
+      }
+    ]
+  },
+  {
+    "sentence_text": "el sol calienta mucho,",
+    "translations": {
+      "en": "the sun is blazing,"
+    },
+    "segments": [
+      {
+        "token": "el",
+        "startTime": 65720,
+        "endTime": 65960
+      },
+      {
+        "token": "sol",
+        "startTime": 65960,
+        "endTime": 66180
+      },
+      {
+        "token": "calienta",
+        "startTime": 66180,
+        "endTime": 66620
+      },
+      {
+        "token": "mucho,",
+        "startTime": 66620,
+        "endTime": 67480
+      }
+    ]
+  },
+  {
+    "sentence_text": "pega muy fuerte. Por eso me he venido",
+    "translations": {
+      "en": "hitting really hard. That's why I came"
+    },
+    "segments": [
+      {
+        "token": "pega",
+        "startTime": 67480,
+        "endTime": 67720
+      },
+      {
+        "token": "muy",
+        "startTime": 67720,
+        "endTime": 68220
+      },
+      {
+        "token": "fuerte.",
+        "startTime": 68220,
+        "endTime": 68860
+      },
+      {
+        "token": "Por",
+        "startTime": 68860,
+        "endTime": 69280
+      },
+      {
+        "token": "eso",
+        "startTime": 69280,
+        "endTime": 69640
+      },
+      {
+        "token": "me",
+        "startTime": 69640,
+        "endTime": 70420
+      },
+      {
+        "token": "he",
+        "startTime": 70420,
+        "endTime": 70580
+      },
+      {
+        "token": "venido",
+        "startTime": 70580,
+        "endTime": 70980
+      }
+    ]
+  },
+  {
+    "sentence_text": "aquí, al bosque. Estoy",
+    "translations": {
+      "en": "here, to the woods. I'm"
+    },
+    "segments": [
+      {
+        "token": "aquí,",
+        "startTime": 70980,
+        "endTime": 73080
+      },
+      {
+        "token": "al",
+        "startTime": 73080,
+        "endTime": 73240
+      },
+      {
+        "token": "bosque.",
+        "startTime": 73240,
+        "endTime": 74180
+      },
+      {
+        "token": "Estoy",
+        "startTime": 74180,
+        "endTime": 74560
+      }
+    ]
+  },
+  {
+    "sentence_text": "aquí dando un paseo,",
+    "translations": {
+      "en": "here taking a walk,"
+    },
+    "segments": [
+      {
+        "token": "aquí",
+        "startTime": 74560,
+        "endTime": 74840
+      },
+      {
+        "token": "dando",
+        "startTime": 74840,
+        "endTime": 77040
+      },
+      {
+        "token": "un",
+        "startTime": 77040,
+        "endTime": 77760
+      },
+      {
+        "token": "paseo,",
+        "startTime": 77760,
+        "endTime": 78980
+      }
+    ]
+  },
+  {
+    "sentence_text": "haciendo una caminata. Fijaos",
+    "translations": {
+      "en": "going for a hike. Notice"
+    },
+    "segments": [
+      {
+        "token": "haciendo",
+        "startTime": 78980,
+        "endTime": 79280
+      },
+      {
+        "token": "una",
+        "startTime": 79280,
+        "endTime": 80660
+      },
+      {
+        "token": "caminata.",
+        "startTime": 80660,
+        "endTime": 82120
+      },
+      {
+        "token": "Fijaos",
+        "startTime": 82120,
+        "endTime": 83180
+      }
+    ]
+  },
+  {
+    "sentence_text": "que no es demasiado difícil caminar",
+    "translations": {
+      "en": "it's not too hard to walk"
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 83180,
+        "endTime": 83400
+      },
+      {
+        "token": "no",
+        "startTime": 83400,
+        "endTime": 85220
+      },
+      {
+        "token": "es",
+        "startTime": 85220,
+        "endTime": 85360
+      },
+      {
+        "token": "demasiado",
+        "startTime": 85360,
+        "endTime": 85680
+      },
+      {
+        "token": "difícil",
+        "startTime": 85680,
+        "endTime": 86200
+      },
+      {
+        "token": "caminar",
+        "startTime": 86200,
+        "endTime": 87840
+      }
+    ]
+  },
+  {
+    "sentence_text": "por aquí. No está mal. No está mal.",
+    "translations": {
+      "en": "around here. Not bad. Not bad."
+    },
+    "segments": [
+      {
+        "token": "por",
+        "startTime": 87840,
+        "endTime": 88100
+      },
+      {
+        "token": "aquí.",
+        "startTime": 88100,
+        "endTime": 88420
+      },
+      {
+        "token": "No",
+        "startTime": 88420,
+        "endTime": 88520
+      },
+      {
+        "token": "está",
+        "startTime": 88520,
+        "endTime": 88760
+      },
+      {
+        "token": "mal.",
+        "startTime": 88760,
+        "endTime": 88980
+      },
+      {
+        "token": "No",
+        "startTime": 88980,
+        "endTime": 89300
+      },
+      {
+        "token": "está",
+        "startTime": 89300,
+        "endTime": 89520
+      },
+      {
+        "token": "mal.",
+        "startTime": 89520,
+        "endTime": 89760
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es un camino,",
+    "translations": {
+      "en": "It's a path,"
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 89760,
+        "endTime": 89780
+      },
+      {
+        "token": "un",
+        "startTime": 89780,
+        "endTime": 90680
+      },
+      {
+        "token": "camino,",
+        "startTime": 90680,
+        "endTime": 91280
+      }
+    ]
+  },
+  {
+    "sentence_text": "es un sendero aquí",
+    "translations": {
+      "en": "it's a trail here"
+    },
+    "segments": [
+      {
+        "token": "es",
+        "startTime": 91280,
+        "endTime": 91860
+      },
+      {
+        "token": "un",
+        "startTime": 91860,
+        "endTime": 92680
+      },
+      {
+        "token": "sendero",
+        "startTime": 92680,
+        "endTime": 93620
+      },
+      {
+        "token": "aquí",
+        "startTime": 93620,
+        "endTime": 96400
+      }
+    ]
+  },
+  {
+    "sentence_text": "al lado del río. Aquí",
+    "translations": {
+      "en": "next to the river. Here"
+    },
+    "segments": [
+      {
+        "token": "al",
+        "startTime": 96400,
+        "endTime": 96740
+      },
+      {
+        "token": "lado",
+        "startTime": 96740,
+        "endTime": 97160
+      },
+      {
+        "token": "del",
+        "startTime": 97160,
+        "endTime": 98480
+      },
+      {
+        "token": "río.",
+        "startTime": 98480,
+        "endTime": 99780
+      },
+      {
+        "token": "Aquí",
+        "startTime": 99780,
+        "endTime": 99940
+      }
+    ]
+  },
+  {
+    "sentence_text": "hay un río que va a lo largo",
+    "translations": {
+      "en": "there's a river that runs along"
+    },
+    "segments": [
+      {
+        "token": "hay",
+        "startTime": 99940,
+        "endTime": 100120
+      },
+      {
+        "token": "un",
+        "startTime": 100120,
+        "endTime": 100280
+      },
+      {
+        "token": "río",
+        "startTime": 100280,
+        "endTime": 100560
+      },
+      {
+        "token": "que",
+        "startTime": 100560,
+        "endTime": 102620
+      },
+      {
+        "token": "va",
+        "startTime": 102620,
+        "endTime": 102880
+      },
+      {
+        "token": "a",
+        "startTime": 102880,
+        "endTime": 103260
+      },
+      {
+        "token": "lo",
+        "startTime": 103260,
+        "endTime": 103420
+      },
+      {
+        "token": "largo",
+        "startTime": 103420,
+        "endTime": 103820
+      }
+    ]
+  },
+  {
+    "sentence_text": "de todo este bosque.",
+    "translations": {
+      "en": "this whole forest."
+    },
+    "segments": [
+      {
+        "token": "de",
+        "startTime": 103820,
+        "endTime": 104980
+      },
+      {
+        "token": "todo",
+        "startTime": 104980,
+        "endTime": 105240
+      },
+      {
+        "token": "este",
+        "startTime": 105240,
+        "endTime": 107260
+      },
+      {
+        "token": "bosque.",
+        "startTime": 107260,
+        "endTime": 110380
+      }
+    ]
+  },
+  {
+    "sentence_text": "Allí hay unos patitos,",
+    "translations": {
+      "en": "Over there are some little ducks,"
+    },
+    "segments": [
+      {
+        "token": "Allí",
+        "startTime": 110380,
+        "endTime": 110600
+      },
+      {
+        "token": "hay",
+        "startTime": 110600,
+        "endTime": 110760
+      },
+      {
+        "token": "unos",
+        "startTime": 110760,
+        "endTime": 111040
+      },
+      {
+        "token": "patitos,",
+        "startTime": 111040,
+        "endTime": 112060
+      }
+    ]
+  },
+  {
+    "sentence_text": "no sé si los podéis ver,",
+    "translations": {
+      "en": "I don't know if you can see them,"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 112060,
+        "endTime": 112260
+      },
+      {
+        "token": "sé",
+        "startTime": 112260,
+        "endTime": 112380
+      },
+      {
+        "token": "si",
+        "startTime": 112380,
+        "endTime": 113200
+      },
+      {
+        "token": "los",
+        "startTime": 113200,
+        "endTime": 113320
+      },
+      {
+        "token": "podéis",
+        "startTime": 113320,
+        "endTime": 113640
+      },
+      {
+        "token": "ver,",
+        "startTime": 113640,
+        "endTime": 113920
+      }
+    ]
+  },
+  {
+    "sentence_text": "hay unos patos.",
+    "translations": {
+      "en": "there are some ducks."
+    },
+    "segments": [
+      {
+        "token": "hay",
+        "startTime": 113920,
+        "endTime": 114040
+      },
+      {
+        "token": "unos",
+        "startTime": 114040,
+        "endTime": 114220
+      },
+      {
+        "token": "patos.",
+        "startTime": 114220,
+        "endTime": 115480
+      }
+    ]
+  },
+  {
+    "sentence_text": "Aquí se está muy bien,",
+    "translations": {
+      "en": "It's really nice here,"
+    },
+    "segments": [
+      {
+        "token": "Aquí",
+        "startTime": 115480,
+        "endTime": 115600
+      },
+      {
+        "token": "se",
+        "startTime": 115600,
+        "endTime": 116100
+      },
+      {
+        "token": "está",
+        "startTime": 116100,
+        "endTime": 116480
+      },
+      {
+        "token": "muy",
+        "startTime": 116480,
+        "endTime": 117040
+      },
+      {
+        "token": "bien,",
+        "startTime": 117040,
+        "endTime": 118120
+      }
+    ]
+  },
+  {
+    "sentence_text": "porque al sol no se puede",
+    "translations": {
+      "en": "because you can't be"
+    },
+    "segments": [
+      {
+        "token": "porque",
+        "startTime": 118120,
+        "endTime": 118280
+      },
+      {
+        "token": "al",
+        "startTime": 118280,
+        "endTime": 119780
+      },
+      {
+        "token": "sol",
+        "startTime": 119780,
+        "endTime": 120160
+      },
+      {
+        "token": "no",
+        "startTime": 120160,
+        "endTime": 121380
+      },
+      {
+        "token": "se",
+        "startTime": 121380,
+        "endTime": 121620
+      },
+      {
+        "token": "puede",
+        "startTime": 121620,
+        "endTime": 121940
+      }
+    ]
+  },
+  {
+    "sentence_text": "estar.",
+    "translations": {
+      "en": "in the sun."
+    },
+    "segments": [
+      {
+        "token": "estar.",
+        "startTime": 121940,
+        "endTime": 124700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hace demasiado calor. Entonces,",
+    "translations": {
+      "en": "It's too hot. So,"
+    },
+    "segments": [
+      {
+        "token": "Hace",
+        "startTime": 124700,
+        "endTime": 125060
+      },
+      {
+        "token": "demasiado",
+        "startTime": 125060,
+        "endTime": 126760
+      },
+      {
+        "token": "calor.",
+        "startTime": 126760,
+        "endTime": 127320
+      },
+      {
+        "token": "Entonces,",
+        "startTime": 127320,
+        "endTime": 127960
+      }
+    ]
+  },
+  {
+    "sentence_text": "aquí sí,",
+    "translations": {
+      "en": "here it's fine,"
+    },
+    "segments": [
+      {
+        "token": "aquí",
+        "startTime": 127960,
+        "endTime": 128120
+      },
+      {
+        "token": "sí,",
+        "startTime": 128120,
+        "endTime": 128620
+      }
+    ]
+  },
+  {
+    "sentence_text": "porque estoy a la sombra,",
+    "translations": {
+      "en": "because I'm in the shade,"
+    },
+    "segments": [
+      {
+        "token": "porque",
+        "startTime": 128620,
+        "endTime": 128720
+      },
+      {
+        "token": "estoy",
+        "startTime": 128720,
+        "endTime": 129060
+      },
+      {
+        "token": "a",
+        "startTime": 129060,
+        "endTime": 130020
+      },
+      {
+        "token": "la",
+        "startTime": 130020,
+        "endTime": 130680
+      },
+      {
+        "token": "sombra,",
+        "startTime": 130680,
+        "endTime": 131160
+      }
+    ]
+  },
+  {
+    "sentence_text": "estoy a la sombra. Aquí estoy muy fresco",
+    "translations": {
+      "en": "I'm in the shade. Here I'm very cool"
+    },
+    "segments": [
+      {
+        "token": "estoy",
+        "startTime": 131160,
+        "endTime": 131600
+      },
+      {
+        "token": "a",
+        "startTime": 131600,
+        "endTime": 131740
+      },
+      {
+        "token": "la",
+        "startTime": 131740,
+        "endTime": 131860
+      },
+      {
+        "token": "sombra.",
+        "startTime": 131860,
+        "endTime": 132160
+      },
+      {
+        "token": "Aquí",
+        "startTime": 132160,
+        "endTime": 132440
+      },
+      {
+        "token": "estoy",
+        "startTime": 132440,
+        "endTime": 133220
+      },
+      {
+        "token": "muy",
+        "startTime": 133220,
+        "endTime": 134020
+      },
+      {
+        "token": "fresco",
+        "startTime": 134020,
+        "endTime": 134720
+      }
+    ]
+  },
+  {
+    "sentence_text": "y, además,",
+    "translations": {
+      "en": "and, besides,"
+    },
+    "segments": [
+      {
+        "token": "y,",
+        "startTime": 134720,
+        "endTime": 135420
+      },
+      {
+        "token": "además,",
+        "startTime": 135420,
+        "endTime": 136660
+      }
+    ]
+  },
+  {
+    "sentence_text": "no hay nadie,",
+    "translations": {
+      "en": "there's no one,"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 136660,
+        "endTime": 136780
+      },
+      {
+        "token": "hay",
+        "startTime": 136780,
+        "endTime": 137020
+      },
+      {
+        "token": "nadie,",
+        "startTime": 137020,
+        "endTime": 137740
+      }
+    ]
+  },
+  {
+    "sentence_text": "porque ya sabéis que a mí me gustan",
+    "translations": {
+      "en": "because you know I like"
+    },
+    "segments": [
+      {
+        "token": "porque",
+        "startTime": 137740,
+        "endTime": 138420
+      },
+      {
+        "token": "ya",
+        "startTime": 138420,
+        "endTime": 138640
+      },
+      {
+        "token": "sabéis",
+        "startTime": 138640,
+        "endTime": 138980
+      },
+      {
+        "token": "que",
+        "startTime": 138980,
+        "endTime": 139200
+      },
+      {
+        "token": "a",
+        "startTime": 139200,
+        "endTime": 139320
+      },
+      {
+        "token": "mí",
+        "startTime": 139320,
+        "endTime": 139400
+      },
+      {
+        "token": "me",
+        "startTime": 139400,
+        "endTime": 140120
+      },
+      {
+        "token": "gustan",
+        "startTime": 140120,
+        "endTime": 140120
+      }
+    ]
+  },
+  {
+    "sentence_text": "los lugares tranquilos. los lugares tranquilos.",
+    "translations": {
+      "en": "quiet places. quiet places."
+    },
+    "segments": [
+      {
+        "token": "los",
+        "startTime": 140120,
+        "endTime": 140880
+      },
+      {
+        "token": "lugares",
+        "startTime": 140880,
+        "endTime": 141220
+      },
+      {
+        "token": "tranquilos.",
+        "startTime": 141220,
+        "endTime": 142620
+      },
+      {
+        "token": "los",
+        "startTime": 142620,
+        "endTime": 142720
+      },
+      {
+        "token": "lugares",
+        "startTime": 142720,
+        "endTime": 142960
+      },
+      {
+        "token": "tranquilos.",
+        "startTime": 142960,
+        "endTime": 143360
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y aquí no he visto,",
+    "translations": {
+      "en": "And here I haven't seen,"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 143360,
+        "endTime": 143420
+      },
+      {
+        "token": "aquí",
+        "startTime": 143420,
+        "endTime": 143560
+      },
+      {
+        "token": "no",
+        "startTime": 143560,
+        "endTime": 144480
+      },
+      {
+        "token": "he",
+        "startTime": 144480,
+        "endTime": 144640
+      },
+      {
+        "token": "visto,",
+        "startTime": 144640,
+        "endTime": 145020
+      }
+    ]
+  },
+  {
+    "sentence_text": "no he visto a nadie todavía,",
+    "translations": {
+      "en": "I haven't seen anyone yet,"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 145020,
+        "endTime": 145220
+      },
+      {
+        "token": "he",
+        "startTime": 145220,
+        "endTime": 145340
+      },
+      {
+        "token": "visto",
+        "startTime": 145340,
+        "endTime": 145660
+      },
+      {
+        "token": "a",
+        "startTime": 145660,
+        "endTime": 145900
+      },
+      {
+        "token": "nadie",
+        "startTime": 145900,
+        "endTime": 146280
+      },
+      {
+        "token": "todavía,",
+        "startTime": 146280,
+        "endTime": 146720
+      }
+    ]
+  },
+  {
+    "sentence_text": "todavía, todavía no he visto a nadie,",
+    "translations": {
+      "en": "yet, yet I haven't seen anyone,"
+    },
+    "segments": [
+      {
+        "token": "todavía,",
+        "startTime": 146720,
+        "endTime": 147600
+      },
+      {
+        "token": "todavía",
+        "startTime": 147600,
+        "endTime": 147800
+      },
+      {
+        "token": "no",
+        "startTime": 147800,
+        "endTime": 148020
+      },
+      {
+        "token": "he",
+        "startTime": 148020,
+        "endTime": 148080
+      },
+      {
+        "token": "visto",
+        "startTime": 148080,
+        "endTime": 148340
+      },
+      {
+        "token": "a",
+        "startTime": 148340,
+        "endTime": 148480
+      },
+      {
+        "token": "nadie,",
+        "startTime": 148480,
+        "endTime": 149800
+      }
+    ]
+  },
+  {
+    "sentence_text": "lo cual me encanta porque soy",
+    "translations": {
+      "en": "which I love because I'm"
+    },
+    "segments": [
+      {
+        "token": "lo",
+        "startTime": 149800,
+        "endTime": 150080
+      },
+      {
+        "token": "cual",
+        "startTime": 150080,
+        "endTime": 150340
+      },
+      {
+        "token": "me",
+        "startTime": 150340,
+        "endTime": 150700
+      },
+      {
+        "token": "encanta",
+        "startTime": 150700,
+        "endTime": 151400
+      },
+      {
+        "token": "porque",
+        "startTime": 151400,
+        "endTime": 151840
+      },
+      {
+        "token": "soy",
+        "startTime": 151840,
+        "endTime": 153440
+      }
+    ]
+  },
+  {
+    "sentence_text": "un poco,",
+    "translations": {
+      "en": "a bit,"
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 153440,
+        "endTime": 153620
+      },
+      {
+        "token": "poco,",
+        "startTime": 153620,
+        "endTime": 153780
+      }
+    ]
+  },
+  {
+    "sentence_text": "soy un poco introvertido. Soy un poco introvertido",
+    "translations": {
+      "en": "I'm a bit introverted. I'm a bit introverted"
+    },
+    "segments": [
+      {
+        "token": "soy",
+        "startTime": 153780,
+        "endTime": 154000
+      },
+      {
+        "token": "un",
+        "startTime": 154000,
+        "endTime": 154140
+      },
+      {
+        "token": "poco",
+        "startTime": 154140,
+        "endTime": 154320
+      },
+      {
+        "token": "introvertido.",
+        "startTime": 154320,
+        "endTime": 155980
+      },
+      {
+        "token": "Soy",
+        "startTime": 155980,
+        "endTime": 156120
+      },
+      {
+        "token": "un",
+        "startTime": 156120,
+        "endTime": 156260
+      },
+      {
+        "token": "poco",
+        "startTime": 156260,
+        "endTime": 156420
+      },
+      {
+        "token": "introvertido",
+        "startTime": 156420,
+        "endTime": 156940
+      }
+    ]
+  },
+  {
+    "sentence_text": "a pesar de,",
+    "translations": {
+      "en": "despite,"
+    },
+    "segments": [
+      {
+        "token": "a",
+        "startTime": 156940,
+        "endTime": 157160
+      },
+      {
+        "token": "pesar",
+        "startTime": 157160,
+        "endTime": 157460
+      },
+      {
+        "token": "de,",
+        "startTime": 157460,
+        "endTime": 157820
+      }
+    ]
+  },
+  {
+    "sentence_text": "a pesar de los vídeos que hago, así",
+    "translations": {
+      "en": "Despite the videos I make, where"
+    },
+    "segments": [
+      {
+        "token": "a",
+        "startTime": 157820,
+        "endTime": 158400
+      },
+      {
+        "token": "pesar",
+        "startTime": 158400,
+        "endTime": 158560
+      },
+      {
+        "token": "de",
+        "startTime": 158560,
+        "endTime": 158700
+      },
+      {
+        "token": "los",
+        "startTime": 158700,
+        "endTime": 158860
+      },
+      {
+        "token": "vídeos",
+        "startTime": 158860,
+        "endTime": 159100
+      },
+      {
+        "token": "que",
+        "startTime": 159100,
+        "endTime": 159400
+      },
+      {
+        "token": "hago,",
+        "startTime": 159400,
+        "endTime": 159840
+      },
+      {
+        "token": "así",
+        "startTime": 159840,
+        "endTime": 160660
+      }
+    ]
+  },
+  {
+    "sentence_text": "donde yo salto y bailo y hago",
+    "translations": {
+      "en": "I jump and dance and do"
+    },
+    "segments": [
+      {
+        "token": "donde",
+        "startTime": 160660,
+        "endTime": 161100
+      },
+      {
+        "token": "yo",
+        "startTime": 161100,
+        "endTime": 161500
+      },
+      {
+        "token": "salto",
+        "startTime": 161500,
+        "endTime": 162240
+      },
+      {
+        "token": "y",
+        "startTime": 162240,
+        "endTime": 162820
+      },
+      {
+        "token": "bailo",
+        "startTime": 162820,
+        "endTime": 163500
+      },
+      {
+        "token": "y",
+        "startTime": 163500,
+        "endTime": 164020
+      },
+      {
+        "token": "hago",
+        "startTime": 164020,
+        "endTime": 164680
+      }
+    ]
+  },
+  {
+    "sentence_text": "muchas tonterías, Espero, pero, pero...",
+    "translations": {
+      "en": "a lot of silly things, I hope, but, but..."
+    },
+    "segments": [
+      {
+        "token": "muchas",
+        "startTime": 164680,
+        "endTime": 165060
+      },
+      {
+        "token": "tonterías,",
+        "startTime": 165060,
+        "endTime": 165840
+      },
+      {
+        "token": "Espero,",
+        "startTime": 165840,
+        "endTime": 166480
+      },
+      {
+        "token": "pero,",
+        "startTime": 166480,
+        "endTime": 166840
+      },
+      {
+        "token": "pero...",
+        "startTime": 166840,
+        "endTime": 168780
+      }
+    ]
+  },
+  {
+    "sentence_text": "Soy, en realidad,",
+    "translations": {
+      "en": "I am, actually,"
+    },
+    "segments": [
+      {
+        "token": "Soy,",
+        "startTime": 168780,
+        "endTime": 168940
+      },
+      {
+        "token": "en",
+        "startTime": 168940,
+        "endTime": 169140
+      },
+      {
+        "token": "realidad,",
+        "startTime": 169140,
+        "endTime": 169520
+      }
+    ]
+  },
+  {
+    "sentence_text": "soy muy introvertido. Voy a seguir,",
+    "translations": {
+      "en": "I am very introverted. I'm going to keep,"
+    },
+    "segments": [
+      {
+        "token": "soy",
+        "startTime": 169520,
+        "endTime": 169680
+      },
+      {
+        "token": "muy",
+        "startTime": 169680,
+        "endTime": 169860
+      },
+      {
+        "token": "introvertido.",
+        "startTime": 169860,
+        "endTime": 170600
+      },
+      {
+        "token": "Voy",
+        "startTime": 170600,
+        "endTime": 170940
+      },
+      {
+        "token": "a",
+        "startTime": 170940,
+        "endTime": 171080
+      },
+      {
+        "token": "seguir,",
+        "startTime": 171080,
+        "endTime": 171350
+      }
+    ]
+  },
+  {
+    "sentence_text": "voy a seguir caminando por aquí,",
+    "translations": {
+      "en": "I'm going to keep walking around here,"
+    },
+    "segments": [
+      {
+        "token": "voy",
+        "startTime": 171350,
+        "endTime": 171510
+      },
+      {
+        "token": "a",
+        "startTime": 171510,
+        "endTime": 171590
+      },
+      {
+        "token": "seguir",
+        "startTime": 171590,
+        "endTime": 171770
+      },
+      {
+        "token": "caminando",
+        "startTime": 171770,
+        "endTime": 171810
+      },
+      {
+        "token": "por",
+        "startTime": 171810,
+        "endTime": 172450
+      },
+      {
+        "token": "aquí,",
+        "startTime": 172450,
+        "endTime": 173030
+      }
+    ]
+  },
+  {
+    "sentence_text": "voy a seguir caminando por aquí. Espero, espero",
+    "translations": {
+      "en": "I'm going to keep walking around here. I hope, I hope"
+    },
+    "segments": [
+      {
+        "token": "voy",
+        "startTime": 173030,
+        "endTime": 173190
+      },
+      {
+        "token": "a",
+        "startTime": 173190,
+        "endTime": 173270
+      },
+      {
+        "token": "seguir",
+        "startTime": 173270,
+        "endTime": 173450
+      },
+      {
+        "token": "caminando",
+        "startTime": 173450,
+        "endTime": 173830
+      },
+      {
+        "token": "por",
+        "startTime": 173830,
+        "endTime": 173970
+      },
+      {
+        "token": "aquí.",
+        "startTime": 173970,
+        "endTime": 174330
+      },
+      {
+        "token": "Espero,",
+        "startTime": 174330,
+        "endTime": 175330
+      },
+      {
+        "token": "espero",
+        "startTime": 175330,
+        "endTime": 175950
+      }
+    ]
+  },
+  {
+    "sentence_text": "que no haya,",
+    "translations": {
+      "en": "there aren't any,"
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 175950,
+        "endTime": 176330
+      },
+      {
+        "token": "no",
+        "startTime": 176330,
+        "endTime": 177230
+      },
+      {
+        "token": "haya,",
+        "startTime": 177230,
+        "endTime": 177670
+      }
+    ]
+  },
+  {
+    "sentence_text": "espero que no haya ningún animal salvaje.",
+    "translations": {
+      "en": "I hope there aren't any wild animals."
+    },
+    "segments": [
+      {
+        "token": "espero",
+        "startTime": 177670,
+        "endTime": 179170
+      },
+      {
+        "token": "que",
+        "startTime": 179170,
+        "endTime": 179410
+      },
+      {
+        "token": "no",
+        "startTime": 179410,
+        "endTime": 179530
+      },
+      {
+        "token": "haya",
+        "startTime": 179530,
+        "endTime": 179530
+      },
+      {
+        "token": "ningún",
+        "startTime": 179530,
+        "endTime": 180130
+      },
+      {
+        "token": "animal",
+        "startTime": 180130,
+        "endTime": 180530
+      },
+      {
+        "token": "salvaje.",
+        "startTime": 180530,
+        "endTime": 181690
+      }
+    ]
+  },
+  {
+    "sentence_text": "Yo creo que aquí en Inglaterra, aquí",
+    "translations": {
+      "en": "I think here in England, here"
+    },
+    "segments": [
+      {
+        "token": "Yo",
+        "startTime": 181690,
+        "endTime": 182570
+      },
+      {
+        "token": "creo",
+        "startTime": 182570,
+        "endTime": 182750
+      },
+      {
+        "token": "que",
+        "startTime": 182750,
+        "endTime": 182890
+      },
+      {
+        "token": "aquí",
+        "startTime": 182890,
+        "endTime": 183090
+      },
+      {
+        "token": "en",
+        "startTime": 183090,
+        "endTime": 183290
+      },
+      {
+        "token": "Inglaterra,",
+        "startTime": 183290,
+        "endTime": 183970
+      },
+      {
+        "token": "aquí",
+        "startTime": 183970,
+        "endTime": 185310
+      }
+    ]
+  },
+  {
+    "sentence_text": "en Inglaterra no hay,",
+    "translations": {
+      "en": "in England there aren't,"
+    },
+    "segments": [
+      {
+        "token": "en",
+        "startTime": 185310,
+        "endTime": 185450
+      },
+      {
+        "token": "Inglaterra",
+        "startTime": 185450,
+        "endTime": 185850
+      },
+      {
+        "token": "no",
+        "startTime": 185850,
+        "endTime": 186030
+      },
+      {
+        "token": "hay,",
+        "startTime": 186030,
+        "endTime": 186430
+      }
+    ]
+  },
+  {
+    "sentence_text": "no hay animales peligrosos así normalmente en",
+    "translations": {
+      "en": "there aren't dangerous animals like that normally in"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 186430,
+        "endTime": 187110
+      },
+      {
+        "token": "hay",
+        "startTime": 187110,
+        "endTime": 187350
+      },
+      {
+        "token": "animales",
+        "startTime": 187350,
+        "endTime": 187650
+      },
+      {
+        "token": "peligrosos",
+        "startTime": 187650,
+        "endTime": 188670
+      },
+      {
+        "token": "así",
+        "startTime": 188670,
+        "endTime": 189110
+      },
+      {
+        "token": "normalmente",
+        "startTime": 189110,
+        "endTime": 189890
+      },
+      {
+        "token": "en",
+        "startTime": 189890,
+        "endTime": 191310
+      }
+    ]
+  },
+  {
+    "sentence_text": "los bosques. No sé.",
+    "translations": {
+      "en": "the woods. I don't know."
+    },
+    "segments": [
+      {
+        "token": "los",
+        "startTime": 191310,
+        "endTime": 192150
+      },
+      {
+        "token": "bosques.",
+        "startTime": 192150,
+        "endTime": 194210
+      },
+      {
+        "token": "No",
+        "startTime": 194210,
+        "endTime": 194670
+      },
+      {
+        "token": "sé.",
+        "startTime": 194670,
+        "endTime": 195770
+      }
+    ]
+  },
+  {
+    "sentence_text": "Espero que no haya osos. No,",
+    "translations": {
+      "en": "I hope there aren't any bears. No,"
+    },
+    "segments": [
+      {
+        "token": "Espero",
+        "startTime": 195770,
+        "endTime": 195870
+      },
+      {
+        "token": "que",
+        "startTime": 195870,
+        "endTime": 196270
+      },
+      {
+        "token": "no",
+        "startTime": 196270,
+        "endTime": 196470
+      },
+      {
+        "token": "haya",
+        "startTime": 196470,
+        "endTime": 196690
+      },
+      {
+        "token": "osos.",
+        "startTime": 196690,
+        "endTime": 197510
+      },
+      {
+        "token": "No,",
+        "startTime": 197510,
+        "endTime": 198730
+      }
+    ]
+  },
+  {
+    "sentence_text": "creo que aquí no hay osos. Aquí no",
+    "translations": {
+      "en": "I think there are no bears here. Here there"
+    },
+    "segments": [
+      {
+        "token": "creo",
+        "startTime": 198730,
+        "endTime": 198990
+      },
+      {
+        "token": "que",
+        "startTime": 198990,
+        "endTime": 199690
+      },
+      {
+        "token": "aquí",
+        "startTime": 199690,
+        "endTime": 199910
+      },
+      {
+        "token": "no",
+        "startTime": 199910,
+        "endTime": 200090
+      },
+      {
+        "token": "hay",
+        "startTime": 200090,
+        "endTime": 200270
+      },
+      {
+        "token": "osos.",
+        "startTime": 200270,
+        "endTime": 200270
+      },
+      {
+        "token": "Aquí",
+        "startTime": 200270,
+        "endTime": 200810
+      },
+      {
+        "token": "no",
+        "startTime": 200810,
+        "endTime": 200930
+      }
+    ]
+  },
+  {
+    "sentence_text": "hay osos. Tengo que tener un poco de",
+    "translations": {
+      "en": "are no bears. I have to be a bit"
+    },
+    "segments": [
+      {
+        "token": "hay",
+        "startTime": 200930,
+        "endTime": 201090
+      },
+      {
+        "token": "osos.",
+        "startTime": 201090,
+        "endTime": 201650
+      },
+      {
+        "token": "Tengo",
+        "startTime": 201650,
+        "endTime": 202210
+      },
+      {
+        "token": "que",
+        "startTime": 202210,
+        "endTime": 202670
+      },
+      {
+        "token": "tener",
+        "startTime": 202670,
+        "endTime": 202890
+      },
+      {
+        "token": "un",
+        "startTime": 202890,
+        "endTime": 203050
+      },
+      {
+        "token": "poco",
+        "startTime": 203050,
+        "endTime": 203230
+      },
+      {
+        "token": "de",
+        "startTime": 203230,
+        "endTime": 203410
+      }
+    ]
+  },
+  {
+    "sentence_text": "cuidado al caminar por aquí porque yo no",
+    "translations": {
+      "en": "careful walking around here because I'm not"
+    },
+    "segments": [
+      {
+        "token": "cuidado",
+        "startTime": 203410,
+        "endTime": 203870
+      },
+      {
+        "token": "al",
+        "startTime": 203870,
+        "endTime": 204490
+      },
+      {
+        "token": "caminar",
+        "startTime": 204490,
+        "endTime": 204930
+      },
+      {
+        "token": "por",
+        "startTime": 204930,
+        "endTime": 205250
+      },
+      {
+        "token": "aquí",
+        "startTime": 205250,
+        "endTime": 205250
+      },
+      {
+        "token": "porque",
+        "startTime": 205250,
+        "endTime": 205790
+      },
+      {
+        "token": "yo",
+        "startTime": 205790,
+        "endTime": 205970
+      },
+      {
+        "token": "no",
+        "startTime": 205970,
+        "endTime": 206050
+      }
+    ]
+  },
+  {
+    "sentence_text": "estoy acostumbrado a caminar por estos",
+    "translations": {
+      "en": "used to walking through these"
+    },
+    "segments": [
+      {
+        "token": "estoy",
+        "startTime": 206050,
+        "endTime": 206330
+      },
+      {
+        "token": "acostumbrado",
+        "startTime": 206330,
+        "endTime": 207290
+      },
+      {
+        "token": "a",
+        "startTime": 207290,
+        "endTime": 207950
+      },
+      {
+        "token": "caminar",
+        "startTime": 207950,
+        "endTime": 209190
+      },
+      {
+        "token": "por",
+        "startTime": 209190,
+        "endTime": 209410
+      },
+      {
+        "token": "estos",
+        "startTime": 209410,
+        "endTime": 209410
+      }
+    ]
+  },
+  {
+    "sentence_text": "lugares así,",
+    "translations": {
+      "en": "kinds of places,"
+    },
+    "segments": [
+      {
+        "token": "lugares",
+        "startTime": 209410,
+        "endTime": 210470
+      },
+      {
+        "token": "así,",
+        "startTime": 210470,
+        "endTime": 211330
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿vale? Porque yo soy un hombre de ciudad.",
+    "translations": {
+      "en": "okay? Because I'm a city man."
+    },
+    "segments": [
+      {
+        "token": "¿vale?",
+        "startTime": 211330,
+        "endTime": 211570
+      },
+      {
+        "token": "Porque",
+        "startTime": 211570,
+        "endTime": 212510
+      },
+      {
+        "token": "yo",
+        "startTime": 212510,
+        "endTime": 212670
+      },
+      {
+        "token": "soy",
+        "startTime": 212670,
+        "endTime": 212830
+      },
+      {
+        "token": "un",
+        "startTime": 212830,
+        "endTime": 212950
+      },
+      {
+        "token": "hombre",
+        "startTime": 212950,
+        "endTime": 213150
+      },
+      {
+        "token": "de",
+        "startTime": 213150,
+        "endTime": 213350
+      },
+      {
+        "token": "ciudad.",
+        "startTime": 213350,
+        "endTime": 213910
+      }
+    ]
+  },
+  {
+    "sentence_text": "Soy un hombre de ciudad.",
+    "translations": {
+      "en": "I'm a city man."
+    },
+    "segments": [
+      {
+        "token": "Soy",
+        "startTime": 213910,
+        "endTime": 214130
+      },
+      {
+        "token": "un",
+        "startTime": 214130,
+        "endTime": 214290
+      },
+      {
+        "token": "hombre",
+        "startTime": 214290,
+        "endTime": 214430
+      },
+      {
+        "token": "de",
+        "startTime": 214430,
+        "endTime": 214650
+      },
+      {
+        "token": "ciudad.",
+        "startTime": 214650,
+        "endTime": 216970
+      }
+    ]
+  },
+  {
+    "sentence_text": "A ver,",
+    "translations": {
+      "en": "Let's see,"
+    },
+    "segments": [
+      {
+        "token": "A",
+        "startTime": 216970,
+        "endTime": 217030
+      },
+      {
+        "token": "ver,",
+        "startTime": 217030,
+        "endTime": 218070
+      }
+    ]
+  },
+  {
+    "sentence_text": "espero que todo vaya bien. ¿Y ahora por",
+    "translations": {
+      "en": "I hope everything goes well. And now which"
+    },
+    "segments": [
+      {
+        "token": "espero",
+        "startTime": 218070,
+        "endTime": 218550
+      },
+      {
+        "token": "que",
+        "startTime": 218550,
+        "endTime": 219270
+      },
+      {
+        "token": "todo",
+        "startTime": 219270,
+        "endTime": 219550
+      },
+      {
+        "token": "vaya",
+        "startTime": 219550,
+        "endTime": 220210
+      },
+      {
+        "token": "bien.",
+        "startTime": 220210,
+        "endTime": 221090
+      },
+      {
+        "token": "¿Y",
+        "startTime": 221090,
+        "endTime": 221250
+      },
+      {
+        "token": "ahora",
+        "startTime": 221250,
+        "endTime": 221470
+      },
+      {
+        "token": "por",
+        "startTime": 221470,
+        "endTime": 221810
+      }
+    ]
+  },
+  {
+    "sentence_text": "dónde voy? ¿Por allí? ¿Por allí? ¿O",
+    "translations": {
+      "en": "way do I go? That way? That way? Or"
+    },
+    "segments": [
+      {
+        "token": "dónde",
+        "startTime": 221810,
+        "endTime": 222050
+      },
+      {
+        "token": "voy?",
+        "startTime": 222050,
+        "endTime": 222370
+      },
+      {
+        "token": "¿Por",
+        "startTime": 222370,
+        "endTime": 222970
+      },
+      {
+        "token": "allí?",
+        "startTime": 222970,
+        "endTime": 223210
+      },
+      {
+        "token": "¿Por",
+        "startTime": 223210,
+        "endTime": 224430
+      },
+      {
+        "token": "allí?",
+        "startTime": 224430,
+        "endTime": 224930
+      },
+      {
+        "token": "¿O",
+        "startTime": 224930,
+        "endTime": 225910
+      }
+    ]
+  },
+  {
+    "sentence_text": "por allí?",
+    "translations": {
+      "en": "that way?"
+    },
+    "segments": [
+      {
+        "token": "por",
+        "startTime": 225910,
+        "endTime": 226150
+      },
+      {
+        "token": "allí?",
+        "startTime": 226150,
+        "endTime": 227450
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ahí hay mucho barro,",
+    "translations": {
+      "en": "There's a lot of mud there,"
+    },
+    "segments": [
+      {
+        "token": "Ahí",
+        "startTime": 227450,
+        "endTime": 227710
+      },
+      {
+        "token": "hay",
+        "startTime": 227710,
+        "endTime": 227910
+      },
+      {
+        "token": "mucho",
+        "startTime": 227910,
+        "endTime": 228230
+      },
+      {
+        "token": "barro,",
+        "startTime": 228230,
+        "endTime": 228850
+      }
+    ]
+  },
+  {
+    "sentence_text": "así que voy a continuar por aquí.",
+    "translations": {
+      "en": "so I'll continue this way."
+    },
+    "segments": [
+      {
+        "token": "así",
+        "startTime": 228850,
+        "endTime": 228930
+      },
+      {
+        "token": "que",
+        "startTime": 228930,
+        "endTime": 229270
+      },
+      {
+        "token": "voy",
+        "startTime": 229270,
+        "endTime": 229790
+      },
+      {
+        "token": "a",
+        "startTime": 229790,
+        "endTime": 230250
+      },
+      {
+        "token": "continuar",
+        "startTime": 230250,
+        "endTime": 230470
+      },
+      {
+        "token": "por",
+        "startTime": 230470,
+        "endTime": 230770
+      },
+      {
+        "token": "aquí.",
+        "startTime": 230770,
+        "endTime": 232850
+      }
+    ]
+  },
+  {
+    "sentence_text": "Yo soy un hombre de ciudad,",
+    "translations": {
+      "en": "I'm a city man,"
+    },
+    "segments": [
+      {
+        "token": "Yo",
+        "startTime": 232850,
+        "endTime": 233050
+      },
+      {
+        "token": "soy",
+        "startTime": 233050,
+        "endTime": 233290
+      },
+      {
+        "token": "un",
+        "startTime": 233290,
+        "endTime": 233470
+      },
+      {
+        "token": "hombre",
+        "startTime": 233470,
+        "endTime": 233830
+      },
+      {
+        "token": "de",
+        "startTime": 233830,
+        "endTime": 235390
+      },
+      {
+        "token": "ciudad,",
+        "startTime": 235390,
+        "endTime": 236150
+      }
+    ]
+  },
+  {
+    "sentence_text": "soy un hombre muy urbano.",
+    "translations": {
+      "en": "I'm a very urban man."
+    },
+    "segments": [
+      {
+        "token": "soy",
+        "startTime": 236150,
+        "endTime": 236290
+      },
+      {
+        "token": "un",
+        "startTime": 236290,
+        "endTime": 236430
+      },
+      {
+        "token": "hombre",
+        "startTime": 236430,
+        "endTime": 236570
+      },
+      {
+        "token": "muy",
+        "startTime": 236570,
+        "endTime": 236850
+      },
+      {
+        "token": "urbano.",
+        "startTime": 236850,
+        "endTime": 238310
+      }
+    ]
+  },
+  {
+    "sentence_text": "No estoy acostumbrado a caminar por el",
+    "translations": {
+      "en": "I'm not used to walking through the"
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 238310,
+        "endTime": 238450
+      },
+      {
+        "token": "estoy",
+        "startTime": 238450,
+        "endTime": 238750
+      },
+      {
+        "token": "acostumbrado",
+        "startTime": 238750,
+        "endTime": 239670
+      },
+      {
+        "token": "a",
+        "startTime": 239670,
+        "endTime": 240050
+      },
+      {
+        "token": "caminar",
+        "startTime": 240050,
+        "endTime": 240430
+      },
+      {
+        "token": "por",
+        "startTime": 240430,
+        "endTime": 240850
+      },
+      {
+        "token": "el",
+        "startTime": 240850,
+        "endTime": 242130
+      }
+    ]
+  },
+  {
+    "sentence_text": "campo, por la montaña, por el bosque.",
+    "translations": {
+      "en": "countryside, the mountains, the forest."
+    },
+    "segments": [
+      {
+        "token": "campo,",
+        "startTime": 242130,
+        "endTime": 242590
+      },
+      {
+        "token": "por",
+        "startTime": 242590,
+        "endTime": 242810
+      },
+      {
+        "token": "la",
+        "startTime": 242810,
+        "endTime": 242930
+      },
+      {
+        "token": "montaña,",
+        "startTime": 242930,
+        "endTime": 243410
+      },
+      {
+        "token": "por",
+        "startTime": 243410,
+        "endTime": 243550
+      },
+      {
+        "token": "el",
+        "startTime": 243550,
+        "endTime": 243670
+      },
+      {
+        "token": "bosque.",
+        "startTime": 243670,
+        "endTime": 245050
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y entonces, en fin,",
+    "translations": {
+      "en": "And so, well,"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 245050,
+        "endTime": 245130
+      },
+      {
+        "token": "entonces,",
+        "startTime": 245130,
+        "endTime": 245890
+      },
+      {
+        "token": "en",
+        "startTime": 245890,
+        "endTime": 245970
+      },
+      {
+        "token": "fin,",
+        "startTime": 245970,
+        "endTime": 246490
+      }
+    ]
+  },
+  {
+    "sentence_text": "tengo que tener un poco de cuidado. Pero",
+    "translations": {
+      "en": "I have to be a bit careful. But"
+    },
+    "segments": [
+      {
+        "token": "tengo",
+        "startTime": 246490,
+        "endTime": 246570
+      },
+      {
+        "token": "que",
+        "startTime": 246570,
+        "endTime": 247050
+      },
+      {
+        "token": "tener",
+        "startTime": 247050,
+        "endTime": 247190
+      },
+      {
+        "token": "un",
+        "startTime": 247190,
+        "endTime": 247370
+      },
+      {
+        "token": "poco",
+        "startTime": 247370,
+        "endTime": 247570
+      },
+      {
+        "token": "de",
+        "startTime": 247570,
+        "endTime": 248250
+      },
+      {
+        "token": "cuidado.",
+        "startTime": 248250,
+        "endTime": 248790
+      },
+      {
+        "token": "Pero",
+        "startTime": 248790,
+        "endTime": 248870
+      }
+    ]
+  },
+  {
+    "sentence_text": "aquí, vamos,",
+    "translations": {
+      "en": "here, come on,"
+    },
+    "segments": [
+      {
+        "token": "aquí,",
+        "startTime": 248870,
+        "endTime": 249150
+      },
+      {
+        "token": "vamos,",
+        "startTime": 249150,
+        "endTime": 250330
+      }
+    ]
+  },
+  {
+    "sentence_text": "es un poco difícil caminar,",
+    "translations": {
+      "en": "it's a bit hard to walk,"
+    },
+    "segments": [
+      {
+        "token": "es",
+        "startTime": 250330,
+        "endTime": 250410
+      },
+      {
+        "token": "un",
+        "startTime": 250410,
+        "endTime": 250530
+      },
+      {
+        "token": "poco",
+        "startTime": 250530,
+        "endTime": 250730
+      },
+      {
+        "token": "difícil",
+        "startTime": 250730,
+        "endTime": 253030
+      },
+      {
+        "token": "caminar,",
+        "startTime": 253030,
+        "endTime": 254350
+      }
+    ]
+  },
+  {
+    "sentence_text": "pero no demasiado. A ver,",
+    "translations": {
+      "en": "but not too much. Let's see,"
+    },
+    "segments": [
+      {
+        "token": "pero",
+        "startTime": 254350,
+        "endTime": 254590
+      },
+      {
+        "token": "no",
+        "startTime": 254590,
+        "endTime": 255770
+      },
+      {
+        "token": "demasiado.",
+        "startTime": 255770,
+        "endTime": 256810
+      },
+      {
+        "token": "A",
+        "startTime": 256810,
+        "endTime": 256890
+      },
+      {
+        "token": "ver,",
+        "startTime": 256890,
+        "endTime": 256990
+      }
+    ]
+  },
+  {
+    "sentence_text": "un momento,",
+    "translations": {
+      "en": "one moment,"
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 256990,
+        "endTime": 257110
+      },
+      {
+        "token": "momento,",
+        "startTime": 257110,
+        "endTime": 257430
+      }
+    ]
+  },
+  {
+    "sentence_text": "que no quiero matarme. A ver, un momento.",
+    "translations": {
+      "en": "I don't want to kill myself. Let's see, one moment."
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 257430,
+        "endTime": 257450
+      },
+      {
+        "token": "no",
+        "startTime": 257450,
+        "endTime": 257570
+      },
+      {
+        "token": "quiero",
+        "startTime": 257570,
+        "endTime": 257970
+      },
+      {
+        "token": "matarme.",
+        "startTime": 257970,
+        "endTime": 259190
+      },
+      {
+        "token": "A",
+        "startTime": 259190,
+        "endTime": 259330
+      },
+      {
+        "token": "ver,",
+        "startTime": 259330,
+        "endTime": 259590
+      },
+      {
+        "token": "un",
+        "startTime": 259590,
+        "endTime": 259690
+      },
+      {
+        "token": "momento.",
+        "startTime": 259690,
+        "endTime": 261850
+      }
+    ]
+  },
+  {
+    "sentence_text": "Uy, espérate, espérate,",
+    "translations": {
+      "en": "Oh, wait, wait,"
+    },
+    "segments": [
+      {
+        "token": "Uy,",
+        "startTime": 261850,
+        "endTime": 262370
+      },
+      {
+        "token": "espérate,",
+        "startTime": 262370,
+        "endTime": 262770
+      },
+      {
+        "token": "espérate,",
+        "startTime": 262770,
+        "endTime": 263070
+      }
+    ]
+  },
+  {
+    "sentence_text": "espérate. ¿Cómo? Espérate. ¡Ay! Ahora, venga.",
+    "translations": {
+      "en": "wait. What? Wait. Ouch! Now, come on."
+    },
+    "segments": [
+      {
+        "token": "espérate.",
+        "startTime": 263070,
+        "endTime": 263310
+      },
+      {
+        "token": "¿Cómo?",
+        "startTime": 263310,
+        "endTime": 263550
+      },
+      {
+        "token": "Espérate.",
+        "startTime": 263550,
+        "endTime": 263550
+      },
+      {
+        "token": "¡Ay!",
+        "startTime": 263550,
+        "endTime": 264490
+      },
+      {
+        "token": "Ahora,",
+        "startTime": 264490,
+        "endTime": 266110
+      },
+      {
+        "token": "venga.",
+        "startTime": 266110,
+        "endTime": 266970
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ahora creo que viene alguien,",
+    "translations": {
+      "en": "Now I think someone is coming,"
+    },
+    "segments": [
+      {
+        "token": "Ahora",
+        "startTime": 266970,
+        "endTime": 267370
+      },
+      {
+        "token": "creo",
+        "startTime": 267370,
+        "endTime": 267650
+      },
+      {
+        "token": "que",
+        "startTime": 267650,
+        "endTime": 267810
+      },
+      {
+        "token": "viene",
+        "startTime": 267810,
+        "endTime": 268230
+      },
+      {
+        "token": "alguien,",
+        "startTime": 268230,
+        "endTime": 268750
+      }
+    ]
+  },
+  {
+    "sentence_text": "así que me voy a callar un poco.",
+    "translations": {
+      "en": "so I'm going to be quiet for a bit."
+    },
+    "segments": [
+      {
+        "token": "así",
+        "startTime": 268750,
+        "endTime": 268830
+      },
+      {
+        "token": "que",
+        "startTime": 268830,
+        "endTime": 268930
+      },
+      {
+        "token": "me",
+        "startTime": 268930,
+        "endTime": 269070
+      },
+      {
+        "token": "voy",
+        "startTime": 269070,
+        "endTime": 269210
+      },
+      {
+        "token": "a",
+        "startTime": 269210,
+        "endTime": 269310
+      },
+      {
+        "token": "callar",
+        "startTime": 269310,
+        "endTime": 269590
+      },
+      {
+        "token": "un",
+        "startTime": 269590,
+        "endTime": 269730
+      },
+      {
+        "token": "poco.",
+        "startTime": 269730,
+        "endTime": 269910
+      }
+    ]
+  },
+  {
+    "sentence_text": "Me voy a callar porque creo que viene",
+    "translations": {
+      "en": "I'm going to be quiet because I think someone"
+    },
+    "segments": [
+      {
+        "token": "Me",
+        "startTime": 269910,
+        "endTime": 270310
+      },
+      {
+        "token": "voy",
+        "startTime": 270310,
+        "endTime": 270450
+      },
+      {
+        "token": "a",
+        "startTime": 270450,
+        "endTime": 270550
+      },
+      {
+        "token": "callar",
+        "startTime": 270550,
+        "endTime": 270810
+      },
+      {
+        "token": "porque",
+        "startTime": 270810,
+        "endTime": 270990
+      },
+      {
+        "token": "creo",
+        "startTime": 270990,
+        "endTime": 271210
+      },
+      {
+        "token": "que",
+        "startTime": 271210,
+        "endTime": 271370
+      },
+      {
+        "token": "viene",
+        "startTime": 271370,
+        "endTime": 271530
+      }
+    ]
+  },
+  {
+    "sentence_text": "alguien.",
+    "translations": {
+      "en": "is coming."
+    },
+    "segments": [
+      {
+        "token": "alguien.",
+        "startTime": 271530,
+        "endTime": 276010
+      }
+    ]
+  },
+  {
+    "sentence_text": "Oh, sorry.",
+    "translations": {
+      "en": "Oh, sorry."
+    },
+    "segments": [
+      {
+        "token": "Oh,",
+        "startTime": 276010,
+        "endTime": 276630
+      },
+      {
+        "token": "sorry.",
+        "startTime": 276630,
+        "endTime": 280570
+      }
+    ]
+  },
+  {
+    "sentence_text": "Claro, es que aquí es",
+    "translations": {
+      "en": "Of course, this is"
+    },
+    "segments": [
+      {
+        "token": "Claro,",
+        "startTime": 280570,
+        "endTime": 280990
+      },
+      {
+        "token": "es",
+        "startTime": 280990,
+        "endTime": 281030
+      },
+      {
+        "token": "que",
+        "startTime": 281030,
+        "endTime": 281190
+      },
+      {
+        "token": "aquí",
+        "startTime": 281190,
+        "endTime": 282710
+      },
+      {
+        "token": "es",
+        "startTime": 282710,
+        "endTime": 284090
+      }
+    ]
+  },
+  {
+    "sentence_text": "un lugar muy tranquilo. No hay nadie.",
+    "translations": {
+      "en": "a very quiet place. There's no one around."
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 284090,
+        "endTime": 284230
+      },
+      {
+        "token": "lugar",
+        "startTime": 284230,
+        "endTime": 284430
+      },
+      {
+        "token": "muy",
+        "startTime": 284430,
+        "endTime": 284770
+      },
+      {
+        "token": "tranquilo.",
+        "startTime": 284770,
+        "endTime": 285550
+      },
+      {
+        "token": "No",
+        "startTime": 285550,
+        "endTime": 286430
+      },
+      {
+        "token": "hay",
+        "startTime": 286430,
+        "endTime": 286770
+      },
+      {
+        "token": "nadie.",
+        "startTime": 286770,
+        "endTime": 289070
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y la gente viene aquí a estar en",
+    "translations": {
+      "en": "And people come here to be in"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 289070,
+        "endTime": 289250
+      },
+      {
+        "token": "la",
+        "startTime": 289250,
+        "endTime": 290270
+      },
+      {
+        "token": "gente",
+        "startTime": 290270,
+        "endTime": 290470
+      },
+      {
+        "token": "viene",
+        "startTime": 290470,
+        "endTime": 290750
+      },
+      {
+        "token": "aquí",
+        "startTime": 290750,
+        "endTime": 290950
+      },
+      {
+        "token": "a",
+        "startTime": 290950,
+        "endTime": 291130
+      },
+      {
+        "token": "estar",
+        "startTime": 291130,
+        "endTime": 291270
+      },
+      {
+        "token": "en",
+        "startTime": 291270,
+        "endTime": 291470
+      }
+    ]
+  },
+  {
+    "sentence_text": "silencio y no quiero estar aquí dando voces",
+    "translations": {
+      "en": "silence, and I don't want to be here shouting"
+    },
+    "segments": [
+      {
+        "token": "silencio",
+        "startTime": 291470,
+        "endTime": 291950
+      },
+      {
+        "token": "y",
+        "startTime": 291950,
+        "endTime": 292170
+      },
+      {
+        "token": "no",
+        "startTime": 292170,
+        "endTime": 292310
+      },
+      {
+        "token": "quiero",
+        "startTime": 292310,
+        "endTime": 292610
+      },
+      {
+        "token": "estar",
+        "startTime": 292610,
+        "endTime": 293790
+      },
+      {
+        "token": "aquí",
+        "startTime": 293790,
+        "endTime": 294010
+      },
+      {
+        "token": "dando",
+        "startTime": 294010,
+        "endTime": 294350
+      },
+      {
+        "token": "voces",
+        "startTime": 294350,
+        "endTime": 294850
+      }
+    ]
+  },
+  {
+    "sentence_text": "en español.",
+    "translations": {
+      "en": "in Spanish."
+    },
+    "segments": [
+      {
+        "token": "en",
+        "startTime": 294850,
+        "endTime": 295350
+      },
+      {
+        "token": "español.",
+        "startTime": 295350,
+        "endTime": 299490
+      }
+    ]
+  },
+  {
+    "sentence_text": "En fin,",
+    "translations": {
+      "en": "Anyway,"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 299490,
+        "endTime": 299570
+      },
+      {
+        "token": "fin,",
+        "startTime": 299570,
+        "endTime": 299750
+      }
+    ]
+  },
+  {
+    "sentence_text": "no me gusta la gente que hace ruido.",
+    "translations": {
+      "en": "I don't like people who make noise."
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 299750,
+        "endTime": 299870
+      },
+      {
+        "token": "me",
+        "startTime": 299870,
+        "endTime": 299950
+      },
+      {
+        "token": "gusta",
+        "startTime": 299950,
+        "endTime": 300170
+      },
+      {
+        "token": "la",
+        "startTime": 300170,
+        "endTime": 301070
+      },
+      {
+        "token": "gente",
+        "startTime": 301070,
+        "endTime": 301190
+      },
+      {
+        "token": "que",
+        "startTime": 301190,
+        "endTime": 301370
+      },
+      {
+        "token": "hace",
+        "startTime": 301370,
+        "endTime": 301530
+      },
+      {
+        "token": "ruido.",
+        "startTime": 301530,
+        "endTime": 303850
+      }
+    ]
+  },
+  {
+    "sentence_text": "No me gusta molestar y no me gusta",
+    "translations": {
+      "en": "I don't like to bother, and I don't like"
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 303850,
+        "endTime": 304270
+      },
+      {
+        "token": "me",
+        "startTime": 304270,
+        "endTime": 304690
+      },
+      {
+        "token": "gusta",
+        "startTime": 304690,
+        "endTime": 304950
+      },
+      {
+        "token": "molestar",
+        "startTime": 304950,
+        "endTime": 305350
+      },
+      {
+        "token": "y",
+        "startTime": 305350,
+        "endTime": 305510
+      },
+      {
+        "token": "no",
+        "startTime": 305510,
+        "endTime": 305530
+      },
+      {
+        "token": "me",
+        "startTime": 305530,
+        "endTime": 305650
+      },
+      {
+        "token": "gusta",
+        "startTime": 305650,
+        "endTime": 305790
+      }
+    ]
+  },
+  {
+    "sentence_text": "que me molesten.",
+    "translations": {
+      "en": "being bothered."
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 305790,
+        "endTime": 305930
+      },
+      {
+        "token": "me",
+        "startTime": 305930,
+        "endTime": 306050
+      },
+      {
+        "token": "molesten.",
+        "startTime": 306050,
+        "endTime": 307730
+      }
+    ]
+  },
+  {
+    "sentence_text": "Los pajaritos, los pajaritos que se escuchan.",
+    "translations": {
+      "en": "The little birds, the little birds you can hear."
+    },
+    "segments": [
+      {
+        "token": "Los",
+        "startTime": 307730,
+        "endTime": 308170
+      },
+      {
+        "token": "pajaritos,",
+        "startTime": 308170,
+        "endTime": 309130
+      },
+      {
+        "token": "los",
+        "startTime": 309130,
+        "endTime": 309290
+      },
+      {
+        "token": "pajaritos",
+        "startTime": 309290,
+        "endTime": 309750
+      },
+      {
+        "token": "que",
+        "startTime": 309750,
+        "endTime": 309890
+      },
+      {
+        "token": "se",
+        "startTime": 309890,
+        "endTime": 310050
+      },
+      {
+        "token": "escuchan.",
+        "startTime": 310050,
+        "endTime": 310790
+      }
+    ]
+  },
+  {
+    "sentence_text": "Bueno, este es un sitio fantástico, ¿no?",
+    "translations": {
+      "en": "Well, this is a fantastic spot, isn't it?"
+    },
+    "segments": [
+      {
+        "token": "Bueno,",
+        "startTime": 310790,
+        "endTime": 311070
+      },
+      {
+        "token": "este",
+        "startTime": 311070,
+        "endTime": 311170
+      },
+      {
+        "token": "es",
+        "startTime": 311170,
+        "endTime": 311590
+      },
+      {
+        "token": "un",
+        "startTime": 311590,
+        "endTime": 311670
+      },
+      {
+        "token": "sitio",
+        "startTime": 311670,
+        "endTime": 311830
+      },
+      {
+        "token": "fantástico,",
+        "startTime": 311830,
+        "endTime": 312390
+      },
+      {
+        "token": "¿no?",
+        "startTime": 312390,
+        "endTime": 312850
+      }
+    ]
+  },
+  {
+    "sentence_text": "Este es un sitio fantástico para caminar,",
+    "translations": {
+      "en": "This is a fantastic place to walk,"
+    },
+    "segments": [
+      {
+        "token": "Este",
+        "startTime": 312850,
+        "endTime": 312970
+      },
+      {
+        "token": "es",
+        "startTime": 312970,
+        "endTime": 313070
+      },
+      {
+        "token": "un",
+        "startTime": 313070,
+        "endTime": 313150
+      },
+      {
+        "token": "sitio",
+        "startTime": 313150,
+        "endTime": 313330
+      },
+      {
+        "token": "fantástico",
+        "startTime": 313330,
+        "endTime": 313770
+      },
+      {
+        "token": "para",
+        "startTime": 313770,
+        "endTime": 314010
+      },
+      {
+        "token": "caminar,",
+        "startTime": 314010,
+        "endTime": 316430
+      }
+    ]
+  },
+  {
+    "sentence_text": "para relajarse, para dar un paseo.",
+    "translations": {
+      "en": "to relax, to take a stroll."
+    },
+    "segments": [
+      {
+        "token": "para",
+        "startTime": 316430,
+        "endTime": 316530
+      },
+      {
+        "token": "relajarse,",
+        "startTime": 316530,
+        "endTime": 318490
+      },
+      {
+        "token": "para",
+        "startTime": 318490,
+        "endTime": 318630
+      },
+      {
+        "token": "dar",
+        "startTime": 318630,
+        "endTime": 318770
+      },
+      {
+        "token": "un",
+        "startTime": 318770,
+        "endTime": 318910
+      },
+      {
+        "token": "paseo.",
+        "startTime": 318910,
+        "endTime": 320870
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es un sitio ideal para",
+    "translations": {
+      "en": "It's an ideal place to"
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 320870,
+        "endTime": 321150
+      },
+      {
+        "token": "un",
+        "startTime": 321150,
+        "endTime": 321290
+      },
+      {
+        "token": "sitio",
+        "startTime": 321290,
+        "endTime": 321690
+      },
+      {
+        "token": "ideal",
+        "startTime": 321690,
+        "endTime": 323010
+      },
+      {
+        "token": "para",
+        "startTime": 323010,
+        "endTime": 324630
+      }
+    ]
+  },
+  {
+    "sentence_text": "pasar aquí unas horas, ¿no?",
+    "translations": {
+      "en": "spend a few hours here, isn't it?"
+    },
+    "segments": [
+      {
+        "token": "pasar",
+        "startTime": 324630,
+        "endTime": 325570
+      },
+      {
+        "token": "aquí",
+        "startTime": 325570,
+        "endTime": 325830
+      },
+      {
+        "token": "unas",
+        "startTime": 325830,
+        "endTime": 326090
+      },
+      {
+        "token": "horas,",
+        "startTime": 326090,
+        "endTime": 326470
+      },
+      {
+        "token": "¿no?",
+        "startTime": 326470,
+        "endTime": 327550
+      }
+    ]
+  },
+  {
+    "sentence_text": "Al lado del río.",
+    "translations": {
+      "en": "By the river."
+    },
+    "segments": [
+      {
+        "token": "Al",
+        "startTime": 327550,
+        "endTime": 327830
+      },
+      {
+        "token": "lado",
+        "startTime": 327830,
+        "endTime": 328110
+      },
+      {
+        "token": "del",
+        "startTime": 328110,
+        "endTime": 329870
+      },
+      {
+        "token": "río.",
+        "startTime": 329870,
+        "endTime": 333090
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pero esto, claro,",
+    "translations": {
+      "en": "But this, of course,"
+    },
+    "segments": [
+      {
+        "token": "Pero",
+        "startTime": 333090,
+        "endTime": 333450
+      },
+      {
+        "token": "esto,",
+        "startTime": 333450,
+        "endTime": 334230
+      },
+      {
+        "token": "claro,",
+        "startTime": 334230,
+        "endTime": 334570
+      }
+    ]
+  },
+  {
+    "sentence_text": "esto es en verano. En",
+    "translations": {
+      "en": "is in summer. In"
+    },
+    "segments": [
+      {
+        "token": "esto",
+        "startTime": 334570,
+        "endTime": 334750
+      },
+      {
+        "token": "es",
+        "startTime": 334750,
+        "endTime": 335010
+      },
+      {
+        "token": "en",
+        "startTime": 335010,
+        "endTime": 336050
+      },
+      {
+        "token": "verano.",
+        "startTime": 336050,
+        "endTime": 337810
+      },
+      {
+        "token": "En",
+        "startTime": 337810,
+        "endTime": 338750
+      }
+    ]
+  },
+  {
+    "sentence_text": "verano, hoy, por ejemplo,",
+    "translations": {
+      "en": "summer, like today, for example,"
+    },
+    "segments": [
+      {
+        "token": "verano,",
+        "startTime": 338750,
+        "endTime": 339310
+      },
+      {
+        "token": "hoy,",
+        "startTime": 339310,
+        "endTime": 339730
+      },
+      {
+        "token": "por",
+        "startTime": 339730,
+        "endTime": 339810
+      },
+      {
+        "token": "ejemplo,",
+        "startTime": 339810,
+        "endTime": 340420
+      }
+    ]
+  },
+  {
+    "sentence_text": "que hace mucho calor,",
+    "translations": {
+      "en": "when it's very hot,"
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 340420,
+        "endTime": 340460
+      },
+      {
+        "token": "hace",
+        "startTime": 340460,
+        "endTime": 340840
+      },
+      {
+        "token": "mucho",
+        "startTime": 340840,
+        "endTime": 341520
+      },
+      {
+        "token": "calor,",
+        "startTime": 341520,
+        "endTime": 342100
+      }
+    ]
+  },
+  {
+    "sentence_text": "pero en invierno, en",
+    "translations": {
+      "en": "but in winter, in"
+    },
+    "segments": [
+      {
+        "token": "pero",
+        "startTime": 342100,
+        "endTime": 342520
+      },
+      {
+        "token": "en",
+        "startTime": 342520,
+        "endTime": 343320
+      },
+      {
+        "token": "invierno,",
+        "startTime": 343320,
+        "endTime": 344360
+      },
+      {
+        "token": "en",
+        "startTime": 344360,
+        "endTime": 345960
+      }
+    ]
+  },
+  {
+    "sentence_text": "invierno, cuando hace frío aquí en Inglaterra,",
+    "translations": {
+      "en": "winter, when it's cold here in England,"
+    },
+    "segments": [
+      {
+        "token": "invierno,",
+        "startTime": 345960,
+        "endTime": 346120
+      },
+      {
+        "token": "cuando",
+        "startTime": 346120,
+        "endTime": 347200
+      },
+      {
+        "token": "hace",
+        "startTime": 347200,
+        "endTime": 347580
+      },
+      {
+        "token": "frío",
+        "startTime": 347580,
+        "endTime": 348060
+      },
+      {
+        "token": "aquí",
+        "startTime": 348060,
+        "endTime": 348260
+      },
+      {
+        "token": "en",
+        "startTime": 348260,
+        "endTime": 348500
+      },
+      {
+        "token": "Inglaterra,",
+        "startTime": 348500,
+        "endTime": 349220
+      }
+    ]
+  },
+  {
+    "sentence_text": "cuando llueve y todos los días son grises",
+    "translations": {
+      "en": "when it rains and every day is gray"
+    },
+    "segments": [
+      {
+        "token": "cuando",
+        "startTime": 349220,
+        "endTime": 349480
+      },
+      {
+        "token": "llueve",
+        "startTime": 349480,
+        "endTime": 351320
+      },
+      {
+        "token": "y",
+        "startTime": 351320,
+        "endTime": 351760
+      },
+      {
+        "token": "todos",
+        "startTime": 351760,
+        "endTime": 351940
+      },
+      {
+        "token": "los",
+        "startTime": 351940,
+        "endTime": 352120
+      },
+      {
+        "token": "días",
+        "startTime": 352120,
+        "endTime": 352300
+      },
+      {
+        "token": "son",
+        "startTime": 352300,
+        "endTime": 352560
+      },
+      {
+        "token": "grises",
+        "startTime": 352560,
+        "endTime": 354440
+      }
+    ]
+  },
+  {
+    "sentence_text": "y está siempre nublado, en fin,",
+    "translations": {
+      "en": "and it's always cloudy, well,"
+    },
+    "segments": [
+      {
+        "token": "y",
+        "startTime": 354440,
+        "endTime": 354640
+      },
+      {
+        "token": "está",
+        "startTime": 354640,
+        "endTime": 354840
+      },
+      {
+        "token": "siempre",
+        "startTime": 354840,
+        "endTime": 355640
+      },
+      {
+        "token": "nublado,",
+        "startTime": 355640,
+        "endTime": 356540
+      },
+      {
+        "token": "en",
+        "startTime": 356540,
+        "endTime": 356600
+      },
+      {
+        "token": "fin,",
+        "startTime": 356600,
+        "endTime": 357380
+      }
+    ]
+  },
+  {
+    "sentence_text": "entonces yo aquí, aquí,",
+    "translations": {
+      "en": "then I, here, here,"
+    },
+    "segments": [
+      {
+        "token": "entonces",
+        "startTime": 357380,
+        "endTime": 357920
+      },
+      {
+        "token": "yo",
+        "startTime": 357920,
+        "endTime": 358280
+      },
+      {
+        "token": "aquí,",
+        "startTime": 358280,
+        "endTime": 358820
+      },
+      {
+        "token": "aquí,",
+        "startTime": 358820,
+        "endTime": 359280
+      }
+    ]
+  },
+  {
+    "sentence_text": "no sé si vendría,",
+    "translations": {
+      "en": "I don't know if I'd come,"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 359280,
+        "endTime": 360640
+      },
+      {
+        "token": "sé",
+        "startTime": 360640,
+        "endTime": 360800
+      },
+      {
+        "token": "si",
+        "startTime": 360800,
+        "endTime": 360960
+      },
+      {
+        "token": "vendría,",
+        "startTime": 360960,
+        "endTime": 361800
+      }
+    ]
+  },
+  {
+    "sentence_text": "porque todo esto,",
+    "translations": {
+      "en": "because all this,"
+    },
+    "segments": [
+      {
+        "token": "porque",
+        "startTime": 361800,
+        "endTime": 361960
+      },
+      {
+        "token": "todo",
+        "startTime": 361960,
+        "endTime": 362220
+      },
+      {
+        "token": "esto,",
+        "startTime": 362220,
+        "endTime": 362560
+      }
+    ]
+  },
+  {
+    "sentence_text": "todo esto debe de estar muy mal",
+    "translations": {
+      "en": "all this must be really bad"
+    },
+    "segments": [
+      {
+        "token": "todo",
+        "startTime": 362560,
+        "endTime": 362700
+      },
+      {
+        "token": "esto",
+        "startTime": 362700,
+        "endTime": 362960
+      },
+      {
+        "token": "debe",
+        "startTime": 362960,
+        "endTime": 363260
+      },
+      {
+        "token": "de",
+        "startTime": 363260,
+        "endTime": 365060
+      },
+      {
+        "token": "estar",
+        "startTime": 365060,
+        "endTime": 365440
+      },
+      {
+        "token": "muy",
+        "startTime": 365440,
+        "endTime": 365840
+      },
+      {
+        "token": "mal",
+        "startTime": 365840,
+        "endTime": 366160
+      }
+    ]
+  },
+  {
+    "sentence_text": "para caminar,",
+    "translations": {
+      "en": "for walking,"
+    },
+    "segments": [
+      {
+        "token": "para",
+        "startTime": 366160,
+        "endTime": 366440
+      },
+      {
+        "token": "caminar,",
+        "startTime": 366440,
+        "endTime": 367680
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿no? Debe de haber por",
+    "translations": {
+      "en": "right? There must be"
+    },
+    "segments": [
+      {
+        "token": "¿no?",
+        "startTime": 367680,
+        "endTime": 367720
+      },
+      {
+        "token": "Debe",
+        "startTime": 367720,
+        "endTime": 367980
+      },
+      {
+        "token": "de",
+        "startTime": 367980,
+        "endTime": 370540
+      },
+      {
+        "token": "haber",
+        "startTime": 370540,
+        "endTime": 370840
+      },
+      {
+        "token": "por",
+        "startTime": 370840,
+        "endTime": 371720
+      }
+    ]
+  },
+  {
+    "sentence_text": "aquí muchos charcos y mucho barro",
+    "translations": {
+      "en": "lots of puddles and mud around here"
+    },
+    "segments": [
+      {
+        "token": "aquí",
+        "startTime": 371720,
+        "endTime": 371900
+      },
+      {
+        "token": "muchos",
+        "startTime": 371900,
+        "endTime": 372260
+      },
+      {
+        "token": "charcos",
+        "startTime": 372260,
+        "endTime": 373180
+      },
+      {
+        "token": "y",
+        "startTime": 373180,
+        "endTime": 374120
+      },
+      {
+        "token": "mucho",
+        "startTime": 374120,
+        "endTime": 374560
+      },
+      {
+        "token": "barro",
+        "startTime": 374560,
+        "endTime": 376080
+      }
+    ]
+  },
+  {
+    "sentence_text": "también, caminar por el barro y, en",
+    "translations": {
+      "en": "too, walking through mud and, well,"
+    },
+    "segments": [
+      {
+        "token": "también,",
+        "startTime": 376080,
+        "endTime": 376820
+      },
+      {
+        "token": "caminar",
+        "startTime": 376820,
+        "endTime": 377220
+      },
+      {
+        "token": "por",
+        "startTime": 377220,
+        "endTime": 377440
+      },
+      {
+        "token": "el",
+        "startTime": 377440,
+        "endTime": 377600
+      },
+      {
+        "token": "barro",
+        "startTime": 377600,
+        "endTime": 377960
+      },
+      {
+        "token": "y,",
+        "startTime": 377960,
+        "endTime": 378780
+      },
+      {
+        "token": "en",
+        "startTime": 378780,
+        "endTime": 380000
+      }
+    ]
+  },
+  {
+    "sentence_text": "fin, por las zonas donde hay muchos charcos,",
+    "translations": {
+      "en": "through areas with lots of puddles,"
+    },
+    "segments": [
+      {
+        "token": "fin,",
+        "startTime": 380000,
+        "endTime": 380160
+      },
+      {
+        "token": "por",
+        "startTime": 380160,
+        "endTime": 380280
+      },
+      {
+        "token": "las",
+        "startTime": 380280,
+        "endTime": 380740
+      },
+      {
+        "token": "zonas",
+        "startTime": 380740,
+        "endTime": 380940
+      },
+      {
+        "token": "donde",
+        "startTime": 380940,
+        "endTime": 381180
+      },
+      {
+        "token": "hay",
+        "startTime": 381180,
+        "endTime": 381320
+      },
+      {
+        "token": "muchos",
+        "startTime": 381320,
+        "endTime": 381660
+      },
+      {
+        "token": "charcos,",
+        "startTime": 381660,
+        "endTime": 382260
+      }
+    ]
+  },
+  {
+    "sentence_text": "pues no es ideal, ¿no?",
+    "translations": {
+      "en": "it's not ideal, is it?"
+    },
+    "segments": [
+      {
+        "token": "pues",
+        "startTime": 382260,
+        "endTime": 383340
+      },
+      {
+        "token": "no",
+        "startTime": 383340,
+        "endTime": 383580
+      },
+      {
+        "token": "es",
+        "startTime": 383580,
+        "endTime": 384600
+      },
+      {
+        "token": "ideal,",
+        "startTime": 384600,
+        "endTime": 385380
+      },
+      {
+        "token": "¿no?",
+        "startTime": 385380,
+        "endTime": 386520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Creo que estamos llegando al final,",
+    "translations": {
+      "en": "I think we're reaching the end,"
+    },
+    "segments": [
+      {
+        "token": "Creo",
+        "startTime": 386520,
+        "endTime": 386600
+      },
+      {
+        "token": "que",
+        "startTime": 386600,
+        "endTime": 386780
+      },
+      {
+        "token": "estamos",
+        "startTime": 386780,
+        "endTime": 387100
+      },
+      {
+        "token": "llegando",
+        "startTime": 387100,
+        "endTime": 387520
+      },
+      {
+        "token": "al",
+        "startTime": 387520,
+        "endTime": 387680
+      },
+      {
+        "token": "final,",
+        "startTime": 387680,
+        "endTime": 388240
+      }
+    ]
+  },
+  {
+    "sentence_text": "al final de este sendero. Vamos",
+    "translations": {
+      "en": "at the end of this path. Let's"
+    },
+    "segments": [
+      {
+        "token": "al",
+        "startTime": 388240,
+        "endTime": 388960
+      },
+      {
+        "token": "final",
+        "startTime": 388960,
+        "endTime": 389240
+      },
+      {
+        "token": "de",
+        "startTime": 389240,
+        "endTime": 389520
+      },
+      {
+        "token": "este",
+        "startTime": 389520,
+        "endTime": 389800
+      },
+      {
+        "token": "sendero.",
+        "startTime": 389800,
+        "endTime": 391000
+      },
+      {
+        "token": "Vamos",
+        "startTime": 391000,
+        "endTime": 392420
+      }
+    ]
+  },
+  {
+    "sentence_text": "a ver. Aquí",
+    "translations": {
+      "en": "see. Here"
+    },
+    "segments": [
+      {
+        "token": "a",
+        "startTime": 392420,
+        "endTime": 392660
+      },
+      {
+        "token": "ver.",
+        "startTime": 392660,
+        "endTime": 395220
+      },
+      {
+        "token": "Aquí",
+        "startTime": 395220,
+        "endTime": 396460
+      }
+    ]
+  },
+  {
+    "sentence_text": "creo que hay un puente. ¿Qué es esto?",
+    "translations": {
+      "en": "I think there's a bridge. What is this?"
+    },
+    "segments": [
+      {
+        "token": "creo",
+        "startTime": 396460,
+        "endTime": 396820
+      },
+      {
+        "token": "que",
+        "startTime": 396820,
+        "endTime": 397020
+      },
+      {
+        "token": "hay",
+        "startTime": 397020,
+        "endTime": 397180
+      },
+      {
+        "token": "un",
+        "startTime": 397180,
+        "endTime": 397340
+      },
+      {
+        "token": "puente.",
+        "startTime": 397340,
+        "endTime": 398060
+      },
+      {
+        "token": "¿Qué",
+        "startTime": 398060,
+        "endTime": 398160
+      },
+      {
+        "token": "es",
+        "startTime": 398160,
+        "endTime": 398340
+      },
+      {
+        "token": "esto?",
+        "startTime": 398340,
+        "endTime": 399860
+      }
+    ]
+  },
+  {
+    "sentence_text": "No sé. Hay un puente,",
+    "translations": {
+      "en": "I don't know. There's a bridge,"
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 399860,
+        "endTime": 400340
+      },
+      {
+        "token": "sé.",
+        "startTime": 400340,
+        "endTime": 401980
+      },
+      {
+        "token": "Hay",
+        "startTime": 401980,
+        "endTime": 402220
+      },
+      {
+        "token": "un",
+        "startTime": 402220,
+        "endTime": 402380
+      },
+      {
+        "token": "puente,",
+        "startTime": 402380,
+        "endTime": 402800
+      }
+    ]
+  },
+  {
+    "sentence_text": "hay un puente muy estrecho, tío.",
+    "translations": {
+      "en": "there's a very narrow bridge, dude."
+    },
+    "segments": [
+      {
+        "token": "hay",
+        "startTime": 402800,
+        "endTime": 403300
+      },
+      {
+        "token": "un",
+        "startTime": 403300,
+        "endTime": 403440
+      },
+      {
+        "token": "puente",
+        "startTime": 403440,
+        "endTime": 403700
+      },
+      {
+        "token": "muy",
+        "startTime": 403700,
+        "endTime": 404220
+      },
+      {
+        "token": "estrecho,",
+        "startTime": 404220,
+        "endTime": 405000
+      },
+      {
+        "token": "tío.",
+        "startTime": 405000,
+        "endTime": 407460
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hay un puente muy estrecho, menos mal que...",
+    "translations": {
+      "en": "There's a very narrow bridge, luckily..."
+    },
+    "segments": [
+      {
+        "token": "Hay",
+        "startTime": 407460,
+        "endTime": 407580
+      },
+      {
+        "token": "un",
+        "startTime": 407580,
+        "endTime": 407740
+      },
+      {
+        "token": "puente",
+        "startTime": 407740,
+        "endTime": 407960
+      },
+      {
+        "token": "muy",
+        "startTime": 407960,
+        "endTime": 408160
+      },
+      {
+        "token": "estrecho,",
+        "startTime": 408160,
+        "endTime": 408700
+      },
+      {
+        "token": "menos",
+        "startTime": 408700,
+        "endTime": 408780
+      },
+      {
+        "token": "mal",
+        "startTime": 408780,
+        "endTime": 409020
+      },
+      {
+        "token": "que...",
+        "startTime": 409020,
+        "endTime": 410180
+      }
+    ]
+  },
+  {
+    "sentence_text": "En fin,",
+    "translations": {
+      "en": "Anyway,"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 410180,
+        "endTime": 410340
+      },
+      {
+        "token": "fin,",
+        "startTime": 410340,
+        "endTime": 410400
+      }
+    ]
+  },
+  {
+    "sentence_text": "yo es que soy muy miedoso,",
+    "translations": {
+      "en": "I'm really scared,"
+    },
+    "segments": [
+      {
+        "token": "yo",
+        "startTime": 410400,
+        "endTime": 410520
+      },
+      {
+        "token": "es",
+        "startTime": 410520,
+        "endTime": 410560
+      },
+      {
+        "token": "que",
+        "startTime": 410560,
+        "endTime": 410660
+      },
+      {
+        "token": "soy",
+        "startTime": 410660,
+        "endTime": 410900
+      },
+      {
+        "token": "muy",
+        "startTime": 410900,
+        "endTime": 411180
+      },
+      {
+        "token": "miedoso,",
+        "startTime": 411180,
+        "endTime": 411920
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿eh? Soy muy miedoso.",
+    "translations": {
+      "en": "huh? I'm really scared."
+    },
+    "segments": [
+      {
+        "token": "¿eh?",
+        "startTime": 411920,
+        "endTime": 411980
+      },
+      {
+        "token": "Soy",
+        "startTime": 411980,
+        "endTime": 412160
+      },
+      {
+        "token": "muy",
+        "startTime": 412160,
+        "endTime": 412480
+      },
+      {
+        "token": "miedoso.",
+        "startTime": 412480,
+        "endTime": 413820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Me da todo mucho miedo,",
+    "translations": {
+      "en": "Everything scares me a lot,"
+    },
+    "segments": [
+      {
+        "token": "Me",
+        "startTime": 413820,
+        "endTime": 414000
+      },
+      {
+        "token": "da",
+        "startTime": 414000,
+        "endTime": 414140
+      },
+      {
+        "token": "todo",
+        "startTime": 414140,
+        "endTime": 414800
+      },
+      {
+        "token": "mucho",
+        "startTime": 414800,
+        "endTime": 415100
+      },
+      {
+        "token": "miedo,",
+        "startTime": 415100,
+        "endTime": 415720
+      }
+    ]
+  },
+  {
+    "sentence_text": "me da todo mucho miedo.",
+    "translations": {
+      "en": "everything scares me a lot."
+    },
+    "segments": [
+      {
+        "token": "me",
+        "startTime": 415720,
+        "endTime": 416040
+      },
+      {
+        "token": "da",
+        "startTime": 416040,
+        "endTime": 416140
+      },
+      {
+        "token": "todo",
+        "startTime": 416140,
+        "endTime": 416340
+      },
+      {
+        "token": "mucho",
+        "startTime": 416340,
+        "endTime": 416600
+      },
+      {
+        "token": "miedo.",
+        "startTime": 416600,
+        "endTime": 417780
+      }
+    ]
+  },
+  {
+    "sentence_text": "A ver,",
+    "translations": {
+      "en": "Let's see,"
+    },
+    "segments": [
+      {
+        "token": "A",
+        "startTime": 417780,
+        "endTime": 417940
+      },
+      {
+        "token": "ver,",
+        "startTime": 417940,
+        "endTime": 418380
+      }
+    ]
+  },
+  {
+    "sentence_text": "voy a cruzar este puente, espero que...",
+    "translations": {
+      "en": "I'm going to cross this bridge, I hope..."
+    },
+    "segments": [
+      {
+        "token": "voy",
+        "startTime": 418380,
+        "endTime": 418540
+      },
+      {
+        "token": "a",
+        "startTime": 418540,
+        "endTime": 419000
+      },
+      {
+        "token": "cruzar",
+        "startTime": 419000,
+        "endTime": 419320
+      },
+      {
+        "token": "este",
+        "startTime": 419320,
+        "endTime": 419640
+      },
+      {
+        "token": "puente,",
+        "startTime": 419640,
+        "endTime": 420140
+      },
+      {
+        "token": "espero",
+        "startTime": 420140,
+        "endTime": 420400
+      },
+      {
+        "token": "que...",
+        "startTime": 420400,
+        "endTime": 421380
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿Lo estoy haciendo bien o lo estoy haciendo",
+    "translations": {
+      "en": "Am I doing it right or am I doing it"
+    },
+    "segments": [
+      {
+        "token": "¿Lo",
+        "startTime": 421380,
+        "endTime": 421540
+      },
+      {
+        "token": "estoy",
+        "startTime": 421540,
+        "endTime": 421720
+      },
+      {
+        "token": "haciendo",
+        "startTime": 421720,
+        "endTime": 422000
+      },
+      {
+        "token": "bien",
+        "startTime": 422000,
+        "endTime": 422220
+      },
+      {
+        "token": "o",
+        "startTime": 422220,
+        "endTime": 422320
+      },
+      {
+        "token": "lo",
+        "startTime": 422320,
+        "endTime": 422400
+      },
+      {
+        "token": "estoy",
+        "startTime": 422400,
+        "endTime": 422560
+      },
+      {
+        "token": "haciendo",
+        "startTime": 422560,
+        "endTime": 422800
+      }
+    ]
+  },
+  {
+    "sentence_text": "mal? Lo estoy haciendo bien,",
+    "translations": {
+      "en": "wrong? I'm doing it right,"
+    },
+    "segments": [
+      {
+        "token": "mal?",
+        "startTime": 422800,
+        "endTime": 423100
+      },
+      {
+        "token": "Lo",
+        "startTime": 423100,
+        "endTime": 423200
+      },
+      {
+        "token": "estoy",
+        "startTime": 423200,
+        "endTime": 423300
+      },
+      {
+        "token": "haciendo",
+        "startTime": 423300,
+        "endTime": 423540
+      },
+      {
+        "token": "bien,",
+        "startTime": 423540,
+        "endTime": 423980
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿no? Es que no quiero caerme,",
+    "translations": {
+      "en": "right? I just don't want to fall,"
+    },
+    "segments": [
+      {
+        "token": "¿no?",
+        "startTime": 423980,
+        "endTime": 424080
+      },
+      {
+        "token": "Es",
+        "startTime": 424080,
+        "endTime": 424260
+      },
+      {
+        "token": "que",
+        "startTime": 424260,
+        "endTime": 424340
+      },
+      {
+        "token": "no",
+        "startTime": 424340,
+        "endTime": 424460
+      },
+      {
+        "token": "quiero",
+        "startTime": 424460,
+        "endTime": 424680
+      },
+      {
+        "token": "caerme,",
+        "startTime": 424680,
+        "endTime": 426260
+      }
+    ]
+  },
+  {
+    "sentence_text": "no quiero caerme al río. A ver, este",
+    "translations": {
+      "en": "I don't want to fall into the river. Let's see, this"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 426260,
+        "endTime": 426500
+      },
+      {
+        "token": "quiero",
+        "startTime": 426500,
+        "endTime": 426720
+      },
+      {
+        "token": "caerme",
+        "startTime": 426720,
+        "endTime": 427220
+      },
+      {
+        "token": "al",
+        "startTime": 427220,
+        "endTime": 427640
+      },
+      {
+        "token": "río.",
+        "startTime": 427640,
+        "endTime": 428820
+      },
+      {
+        "token": "A",
+        "startTime": 428820,
+        "endTime": 428960
+      },
+      {
+        "token": "ver,",
+        "startTime": 428960,
+        "endTime": 429160
+      },
+      {
+        "token": "este",
+        "startTime": 429160,
+        "endTime": 429280
+      }
+    ]
+  },
+  {
+    "sentence_text": "puente... ¡Ay, ay,",
+    "translations": {
+      "en": "bridge... Oh, oh,"
+    },
+    "segments": [
+      {
+        "token": "puente...",
+        "startTime": 429280,
+        "endTime": 429720
+      },
+      {
+        "token": "¡Ay,",
+        "startTime": 429720,
+        "endTime": 430140
+      },
+      {
+        "token": "ay,",
+        "startTime": 430140,
+        "endTime": 430220
+      }
+    ]
+  },
+  {
+    "sentence_text": "ay! Yo escucho... ¡Ay! Esto se mueve mucho,",
+    "translations": {
+      "en": "oh! I hear... Oh! This moves a lot,"
+    },
+    "segments": [
+      {
+        "token": "ay!",
+        "startTime": 430220,
+        "endTime": 430480
+      },
+      {
+        "token": "Yo",
+        "startTime": 430480,
+        "endTime": 430660
+      },
+      {
+        "token": "escucho...",
+        "startTime": 430660,
+        "endTime": 431640
+      },
+      {
+        "token": "¡Ay!",
+        "startTime": 431640,
+        "endTime": 431860
+      },
+      {
+        "token": "Esto",
+        "startTime": 431860,
+        "endTime": 432200
+      },
+      {
+        "token": "se",
+        "startTime": 432200,
+        "endTime": 432340
+      },
+      {
+        "token": "mueve",
+        "startTime": 432340,
+        "endTime": 432580
+      },
+      {
+        "token": "mucho,",
+        "startTime": 432580,
+        "endTime": 432960
+      }
+    ]
+  },
+  {
+    "sentence_text": "tío.",
+    "translations": {
+      "en": "dude."
+    },
+    "segments": [
+      {
+        "token": "tío.",
+        "startTime": 432960,
+        "endTime": 433300
+      }
+    ]
+  },
+  {
+    "sentence_text": "Esto se mueve mucho. Estoy muy gordo. Estoy",
+    "translations": {
+      "en": "This moves a lot. I'm very fat. I'm"
+    },
+    "segments": [
+      {
+        "token": "Esto",
+        "startTime": 433300,
+        "endTime": 433420
+      },
+      {
+        "token": "se",
+        "startTime": 433420,
+        "endTime": 433560
+      },
+      {
+        "token": "mueve",
+        "startTime": 433560,
+        "endTime": 433780
+      },
+      {
+        "token": "mucho.",
+        "startTime": 433780,
+        "endTime": 434560
+      },
+      {
+        "token": "Estoy",
+        "startTime": 434560,
+        "endTime": 435120
+      },
+      {
+        "token": "muy",
+        "startTime": 435120,
+        "endTime": 435360
+      },
+      {
+        "token": "gordo.",
+        "startTime": 435360,
+        "endTime": 436580
+      },
+      {
+        "token": "Estoy",
+        "startTime": 436580,
+        "endTime": 436880
+      }
+    ]
+  },
+  {
+    "sentence_text": "muy gordo. A ver,",
+    "translations": {
+      "en": "very fat. Let's see,"
+    },
+    "segments": [
+      {
+        "token": "muy",
+        "startTime": 436880,
+        "endTime": 437180
+      },
+      {
+        "token": "gordo.",
+        "startTime": 437180,
+        "endTime": 439040
+      },
+      {
+        "token": "A",
+        "startTime": 439040,
+        "endTime": 440320
+      },
+      {
+        "token": "ver,",
+        "startTime": 440320,
+        "endTime": 440680
+      }
+    ]
+  },
+  {
+    "sentence_text": "a ver. Esto ya está. Me gusta mucho,",
+    "translations": {
+      "en": "let's see. This is done. I really like,"
+    },
+    "segments": [
+      {
+        "token": "a",
+        "startTime": 440680,
+        "endTime": 440800
+      },
+      {
+        "token": "ver.",
+        "startTime": 440800,
+        "endTime": 441540
+      },
+      {
+        "token": "Esto",
+        "startTime": 441540,
+        "endTime": 441860
+      },
+      {
+        "token": "ya",
+        "startTime": 441860,
+        "endTime": 442260
+      },
+      {
+        "token": "está.",
+        "startTime": 442260,
+        "endTime": 442700
+      },
+      {
+        "token": "Me",
+        "startTime": 442700,
+        "endTime": 443320
+      },
+      {
+        "token": "gusta",
+        "startTime": 443320,
+        "endTime": 443560
+      },
+      {
+        "token": "mucho,",
+        "startTime": 443560,
+        "endTime": 443860
+      }
+    ]
+  },
+  {
+    "sentence_text": "me gusta mucho pasear. Me gusta",
+    "translations": {
+      "en": "I really like walking. I like"
+    },
+    "segments": [
+      {
+        "token": "me",
+        "startTime": 443860,
+        "endTime": 444060
+      },
+      {
+        "token": "gusta",
+        "startTime": 444060,
+        "endTime": 444320
+      },
+      {
+        "token": "mucho",
+        "startTime": 444320,
+        "endTime": 444520
+      },
+      {
+        "token": "pasear.",
+        "startTime": 444520,
+        "endTime": 445120
+      },
+      {
+        "token": "Me",
+        "startTime": 445120,
+        "endTime": 447240
+      },
+      {
+        "token": "gusta",
+        "startTime": 447240,
+        "endTime": 447480
+      }
+    ]
+  },
+  {
+    "sentence_text": "mucho pasear. Me gusta mucho pasear por el",
+    "translations": {
+      "en": "walking a lot. I really like walking through the"
+    },
+    "segments": [
+      {
+        "token": "mucho",
+        "startTime": 447480,
+        "endTime": 447760
+      },
+      {
+        "token": "pasear.",
+        "startTime": 447760,
+        "endTime": 448420
+      },
+      {
+        "token": "Me",
+        "startTime": 448420,
+        "endTime": 449020
+      },
+      {
+        "token": "gusta",
+        "startTime": 449020,
+        "endTime": 449280
+      },
+      {
+        "token": "mucho",
+        "startTime": 449280,
+        "endTime": 449560
+      },
+      {
+        "token": "pasear",
+        "startTime": 449560,
+        "endTime": 450180
+      },
+      {
+        "token": "por",
+        "startTime": 450180,
+        "endTime": 450660
+      },
+      {
+        "token": "el",
+        "startTime": 450660,
+        "endTime": 451040
+      }
+    ]
+  },
+  {
+    "sentence_text": "campo en Inglaterra porque es, es,",
+    "translations": {
+      "en": "countryside in England because it's, it's,"
+    },
+    "segments": [
+      {
+        "token": "campo",
+        "startTime": 451040,
+        "endTime": 451540
+      },
+      {
+        "token": "en",
+        "startTime": 451540,
+        "endTime": 452320
+      },
+      {
+        "token": "Inglaterra",
+        "startTime": 452320,
+        "endTime": 453480
+      },
+      {
+        "token": "porque",
+        "startTime": 453480,
+        "endTime": 453820
+      },
+      {
+        "token": "es,",
+        "startTime": 453820,
+        "endTime": 454420
+      },
+      {
+        "token": "es,",
+        "startTime": 454420,
+        "endTime": 455220
+      }
+    ]
+  },
+  {
+    "sentence_text": "es muy bonito. Es muy bonito.",
+    "translations": {
+      "en": "it's very beautiful. It's very beautiful."
+    },
+    "segments": [
+      {
+        "token": "es",
+        "startTime": 455220,
+        "endTime": 455420
+      },
+      {
+        "token": "muy",
+        "startTime": 455420,
+        "endTime": 455800
+      },
+      {
+        "token": "bonito.",
+        "startTime": 455800,
+        "endTime": 456380
+      },
+      {
+        "token": "Es",
+        "startTime": 456380,
+        "endTime": 456560
+      },
+      {
+        "token": "muy",
+        "startTime": 456560,
+        "endTime": 456740
+      },
+      {
+        "token": "bonito.",
+        "startTime": 456740,
+        "endTime": 458560
+      }
+    ]
+  },
+  {
+    "sentence_text": "En fin, no sé,",
+    "translations": {
+      "en": "Anyway, I don't know,"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 458560,
+        "endTime": 458620
+      },
+      {
+        "token": "fin,",
+        "startTime": 458620,
+        "endTime": 459380
+      },
+      {
+        "token": "no",
+        "startTime": 459380,
+        "endTime": 459560
+      },
+      {
+        "token": "sé,",
+        "startTime": 459560,
+        "endTime": 459780
+      }
+    ]
+  },
+  {
+    "sentence_text": "es todo muy verde en verano, en",
+    "translations": {
+      "en": "everything is very green in summer, in"
+    },
+    "segments": [
+      {
+        "token": "es",
+        "startTime": 459780,
+        "endTime": 460740
+      },
+      {
+        "token": "todo",
+        "startTime": 460740,
+        "endTime": 460960
+      },
+      {
+        "token": "muy",
+        "startTime": 460960,
+        "endTime": 461240
+      },
+      {
+        "token": "verde",
+        "startTime": 461240,
+        "endTime": 461780
+      },
+      {
+        "token": "en",
+        "startTime": 461780,
+        "endTime": 462420
+      },
+      {
+        "token": "verano,",
+        "startTime": 462420,
+        "endTime": 463100
+      },
+      {
+        "token": "en",
+        "startTime": 463100,
+        "endTime": 463300
+      }
+    ]
+  },
+  {
+    "sentence_text": "verano, en verano, en primavera, en otoño también.",
+    "translations": {
+      "en": "summer, in summer, in spring, in autumn too."
+    },
+    "segments": [
+      {
+        "token": "verano,",
+        "startTime": 463300,
+        "endTime": 463880
+      },
+      {
+        "token": "en",
+        "startTime": 463880,
+        "endTime": 464360
+      },
+      {
+        "token": "verano,",
+        "startTime": 464360,
+        "endTime": 464900
+      },
+      {
+        "token": "en",
+        "startTime": 464900,
+        "endTime": 464920
+      },
+      {
+        "token": "primavera,",
+        "startTime": 464920,
+        "endTime": 465780
+      },
+      {
+        "token": "en",
+        "startTime": 465780,
+        "endTime": 465920
+      },
+      {
+        "token": "otoño",
+        "startTime": 465920,
+        "endTime": 466320
+      },
+      {
+        "token": "también.",
+        "startTime": 466320,
+        "endTime": 467980
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y en fin,",
+    "translations": {
+      "en": "And anyway,"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 467980,
+        "endTime": 468060
+      },
+      {
+        "token": "en",
+        "startTime": 468060,
+        "endTime": 468180
+      },
+      {
+        "token": "fin,",
+        "startTime": 468180,
+        "endTime": 468520
+      }
+    ]
+  },
+  {
+    "sentence_text": "es también muy tranquilo porque no suele haber",
+    "translations": {
+      "en": "it's also very quiet because there usually aren't"
+    },
+    "segments": [
+      {
+        "token": "es",
+        "startTime": 468520,
+        "endTime": 469160
+      },
+      {
+        "token": "también",
+        "startTime": 469160,
+        "endTime": 470380
+      },
+      {
+        "token": "muy",
+        "startTime": 470380,
+        "endTime": 470580
+      },
+      {
+        "token": "tranquilo",
+        "startTime": 470580,
+        "endTime": 470980
+      },
+      {
+        "token": "porque",
+        "startTime": 470980,
+        "endTime": 471240
+      },
+      {
+        "token": "no",
+        "startTime": 471240,
+        "endTime": 471440
+      },
+      {
+        "token": "suele",
+        "startTime": 471440,
+        "endTime": 471960
+      },
+      {
+        "token": "haber",
+        "startTime": 471960,
+        "endTime": 472120
+      }
+    ]
+  },
+  {
+    "sentence_text": "mucha gente.",
+    "translations": {
+      "en": "many people."
+    },
+    "segments": [
+      {
+        "token": "mucha",
+        "startTime": 472120,
+        "endTime": 472980
+      },
+      {
+        "token": "gente.",
+        "startTime": 472980,
+        "endTime": 473940
+      }
+    ]
+  },
+  {
+    "sentence_text": "Fijaos, qué chulo, ¿eh?",
+    "translations": {
+      "en": "Look, how cool, huh?"
+    },
+    "segments": [
+      {
+        "token": "Fijaos,",
+        "startTime": 473940,
+        "endTime": 475640
+      },
+      {
+        "token": "qué",
+        "startTime": 475640,
+        "endTime": 475760
+      },
+      {
+        "token": "chulo,",
+        "startTime": 475760,
+        "endTime": 476260
+      },
+      {
+        "token": "¿eh?",
+        "startTime": 476260,
+        "endTime": 478480
+      }
+    ]
+  },
+  {
+    "sentence_text": "No está mal, ¿eh?",
+    "translations": {
+      "en": "Not bad, huh?"
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 478480,
+        "endTime": 478640
+      },
+      {
+        "token": "está",
+        "startTime": 478640,
+        "endTime": 478840
+      },
+      {
+        "token": "mal,",
+        "startTime": 478840,
+        "endTime": 479120
+      },
+      {
+        "token": "¿eh?",
+        "startTime": 479120,
+        "endTime": 480560
+      }
+    ]
+  },
+  {
+    "sentence_text": "No está mal.",
+    "translations": {
+      "en": "Not bad."
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 480560,
+        "endTime": 480760
+      },
+      {
+        "token": "está",
+        "startTime": 480760,
+        "endTime": 480980
+      },
+      {
+        "token": "mal.",
+        "startTime": 480980,
+        "endTime": 482340
+      }
+    ]
+  },
+  {
+    "sentence_text": "Bueno, llevo, llevo... Uy,",
+    "translations": {
+      "en": "Well, I've been, I've been... Oh,"
+    },
+    "segments": [
+      {
+        "token": "Bueno,",
+        "startTime": 482340,
+        "endTime": 483820
+      },
+      {
+        "token": "llevo,",
+        "startTime": 483820,
+        "endTime": 484520
+      },
+      {
+        "token": "llevo...",
+        "startTime": 484520,
+        "endTime": 484520
+      },
+      {
+        "token": "Uy,",
+        "startTime": 484520,
+        "endTime": 485020
+      }
+    ]
+  },
+  {
+    "sentence_text": "aquí hay muchos mosquitos, ¿eh?",
+    "translations": {
+      "en": "there are a lot of mosquitoes here, huh?"
+    },
+    "segments": [
+      {
+        "token": "aquí",
+        "startTime": 485020,
+        "endTime": 485140
+      },
+      {
+        "token": "hay",
+        "startTime": 485140,
+        "endTime": 485580
+      },
+      {
+        "token": "muchos",
+        "startTime": 485580,
+        "endTime": 485880
+      },
+      {
+        "token": "mosquitos,",
+        "startTime": 485880,
+        "endTime": 486440
+      },
+      {
+        "token": "¿eh?",
+        "startTime": 486440,
+        "endTime": 487220
+      }
+    ]
+  },
+  {
+    "sentence_text": "que hay muchos mosquitos.",
+    "translations": {
+      "en": "there are a lot of mosquitoes."
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 487220,
+        "endTime": 487420
+      },
+      {
+        "token": "hay",
+        "startTime": 487420,
+        "endTime": 487520
+      },
+      {
+        "token": "muchos",
+        "startTime": 487520,
+        "endTime": 487740
+      },
+      {
+        "token": "mosquitos.",
+        "startTime": 487740,
+        "endTime": 488860
+      }
+    ]
+  },
+  {
+    "sentence_text": "Llevo un buen rato caminando por este,",
+    "translations": {
+      "en": "I've been walking for a while through this,"
+    },
+    "segments": [
+      {
+        "token": "Llevo",
+        "startTime": 488860,
+        "endTime": 489460
+      },
+      {
+        "token": "un",
+        "startTime": 489460,
+        "endTime": 490080
+      },
+      {
+        "token": "buen",
+        "startTime": 490080,
+        "endTime": 490340
+      },
+      {
+        "token": "rato",
+        "startTime": 490340,
+        "endTime": 490780
+      },
+      {
+        "token": "caminando",
+        "startTime": 490780,
+        "endTime": 491840
+      },
+      {
+        "token": "por",
+        "startTime": 491840,
+        "endTime": 492120
+      },
+      {
+        "token": "este,",
+        "startTime": 492120,
+        "endTime": 492700
+      }
+    ]
+  },
+  {
+    "sentence_text": "por este camino, por este sendero,",
+    "translations": {
+      "en": "along this path, along this trail,"
+    },
+    "segments": [
+      {
+        "token": "por",
+        "startTime": 492700,
+        "endTime": 492920
+      },
+      {
+        "token": "este",
+        "startTime": 492920,
+        "endTime": 493120
+      },
+      {
+        "token": "camino,",
+        "startTime": 493120,
+        "endTime": 494100
+      },
+      {
+        "token": "por",
+        "startTime": 494100,
+        "endTime": 494220
+      },
+      {
+        "token": "este",
+        "startTime": 494220,
+        "endTime": 494420
+      },
+      {
+        "token": "sendero,",
+        "startTime": 494420,
+        "endTime": 494840
+      }
+    ]
+  },
+  {
+    "sentence_text": "todo, todo recto,",
+    "translations": {
+      "en": "all, all straight,"
+    },
+    "segments": [
+      {
+        "token": "todo,",
+        "startTime": 494840,
+        "endTime": 495940
+      },
+      {
+        "token": "todo",
+        "startTime": 495940,
+        "endTime": 496380
+      },
+      {
+        "token": "recto,",
+        "startTime": 496380,
+        "endTime": 497080
+      }
+    ]
+  },
+  {
+    "sentence_text": "todo recto,",
+    "translations": {
+      "en": "all straight,"
+    },
+    "segments": [
+      {
+        "token": "todo",
+        "startTime": 497080,
+        "endTime": 497380
+      },
+      {
+        "token": "recto,",
+        "startTime": 497380,
+        "endTime": 498040
+      }
+    ]
+  },
+  {
+    "sentence_text": "y ahora la verdad es que es",
+    "translations": {
+      "en": "and now the truth is it's"
+    },
+    "segments": [
+      {
+        "token": "y",
+        "startTime": 498040,
+        "endTime": 498960
+      },
+      {
+        "token": "ahora",
+        "startTime": 498960,
+        "endTime": 499260
+      },
+      {
+        "token": "la",
+        "startTime": 499260,
+        "endTime": 499460
+      },
+      {
+        "token": "verdad",
+        "startTime": 499460,
+        "endTime": 499700
+      },
+      {
+        "token": "es",
+        "startTime": 499700,
+        "endTime": 500180
+      },
+      {
+        "token": "que",
+        "startTime": 500180,
+        "endTime": 500460
+      },
+      {
+        "token": "es",
+        "startTime": 500460,
+        "endTime": 501740
+      }
+    ]
+  },
+  {
+    "sentence_text": "un poco aburrido,",
+    "translations": {
+      "en": "a bit boring,"
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 501740,
+        "endTime": 502440
+      },
+      {
+        "token": "poco",
+        "startTime": 502440,
+        "endTime": 502560
+      },
+      {
+        "token": "aburrido,",
+        "startTime": 502560,
+        "endTime": 503280
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿no? Es un poco aburrido porque es todo",
+    "translations": {
+      "en": "isn't it? It's a bit boring because it's all"
+    },
+    "segments": [
+      {
+        "token": "¿no?",
+        "startTime": 503280,
+        "endTime": 503280
+      },
+      {
+        "token": "Es",
+        "startTime": 503280,
+        "endTime": 503620
+      },
+      {
+        "token": "un",
+        "startTime": 503620,
+        "endTime": 503740
+      },
+      {
+        "token": "poco",
+        "startTime": 503740,
+        "endTime": 503860
+      },
+      {
+        "token": "aburrido",
+        "startTime": 503860,
+        "endTime": 504240
+      },
+      {
+        "token": "porque",
+        "startTime": 504240,
+        "endTime": 504480
+      },
+      {
+        "token": "es",
+        "startTime": 504480,
+        "endTime": 505840
+      },
+      {
+        "token": "todo",
+        "startTime": 505840,
+        "endTime": 506000
+      }
+    ]
+  },
+  {
+    "sentence_text": "recto, en fin,",
+    "translations": {
+      "en": "straight, anyway,"
+    },
+    "segments": [
+      {
+        "token": "recto,",
+        "startTime": 506000,
+        "endTime": 507000
+      },
+      {
+        "token": "en",
+        "startTime": 507000,
+        "endTime": 507360
+      },
+      {
+        "token": "fin,",
+        "startTime": 507360,
+        "endTime": 507540
+      }
+    ]
+  },
+  {
+    "sentence_text": "aquí al lado el río, sí,",
+    "translations": {
+      "en": "here beside the river, yes,"
+    },
+    "segments": [
+      {
+        "token": "aquí",
+        "startTime": 507540,
+        "endTime": 507760
+      },
+      {
+        "token": "al",
+        "startTime": 507760,
+        "endTime": 507980
+      },
+      {
+        "token": "lado",
+        "startTime": 507980,
+        "endTime": 508100
+      },
+      {
+        "token": "el",
+        "startTime": 508100,
+        "endTime": 508320
+      },
+      {
+        "token": "río,",
+        "startTime": 508320,
+        "endTime": 508940
+      },
+      {
+        "token": "sí,",
+        "startTime": 508940,
+        "endTime": 509100
+      }
+    ]
+  },
+  {
+    "sentence_text": "bonito, muy bonito el río. Pero",
+    "translations": {
+      "en": "nice, very nice the river. But"
+    },
+    "segments": [
+      {
+        "token": "bonito,",
+        "startTime": 509100,
+        "endTime": 509740
+      },
+      {
+        "token": "muy",
+        "startTime": 509740,
+        "endTime": 509940
+      },
+      {
+        "token": "bonito",
+        "startTime": 509940,
+        "endTime": 510260
+      },
+      {
+        "token": "el",
+        "startTime": 510260,
+        "endTime": 510610
+      },
+      {
+        "token": "río.",
+        "startTime": 510610,
+        "endTime": 511070
+      },
+      {
+        "token": "Pero",
+        "startTime": 511070,
+        "endTime": 512670
+      }
+    ]
+  },
+  {
+    "sentence_text": "bueno, es un poco...",
+    "translations": {
+      "en": "well, it's a bit..."
+    },
+    "segments": [
+      {
+        "token": "bueno,",
+        "startTime": 512670,
+        "endTime": 514070
+      },
+      {
+        "token": "es",
+        "startTime": 514070,
+        "endTime": 514130
+      },
+      {
+        "token": "un",
+        "startTime": 514130,
+        "endTime": 514470
+      },
+      {
+        "token": "poco...",
+        "startTime": 514470,
+        "endTime": 515670
+      }
+    ]
+  },
+  {
+    "sentence_text": "Después de un rato,",
+    "translations": {
+      "en": "After a while,"
+    },
+    "segments": [
+      {
+        "token": "Después",
+        "startTime": 515670,
+        "endTime": 516070
+      },
+      {
+        "token": "de",
+        "startTime": 516070,
+        "endTime": 516290
+      },
+      {
+        "token": "un",
+        "startTime": 516290,
+        "endTime": 516430
+      },
+      {
+        "token": "rato,",
+        "startTime": 516430,
+        "endTime": 516830
+      }
+    ]
+  },
+  {
+    "sentence_text": "después de un rato se hace un poco",
+    "translations": {
+      "en": "after a while it gets a bit"
+    },
+    "segments": [
+      {
+        "token": "después",
+        "startTime": 516830,
+        "endTime": 517470
+      },
+      {
+        "token": "de",
+        "startTime": 517470,
+        "endTime": 517650
+      },
+      {
+        "token": "un",
+        "startTime": 517650,
+        "endTime": 517750
+      },
+      {
+        "token": "rato",
+        "startTime": 517750,
+        "endTime": 517990
+      },
+      {
+        "token": "se",
+        "startTime": 517990,
+        "endTime": 519150
+      },
+      {
+        "token": "hace",
+        "startTime": 519150,
+        "endTime": 519370
+      },
+      {
+        "token": "un",
+        "startTime": 519370,
+        "endTime": 519530
+      },
+      {
+        "token": "poco",
+        "startTime": 519530,
+        "endTime": 519770
+      }
+    ]
+  },
+  {
+    "sentence_text": "aburrido caminar siempre en línea recta por",
+    "translations": {
+      "en": "boring walking always in a straight line through"
+    },
+    "segments": [
+      {
+        "token": "aburrido",
+        "startTime": 519770,
+        "endTime": 520470
+      },
+      {
+        "token": "caminar",
+        "startTime": 520470,
+        "endTime": 521370
+      },
+      {
+        "token": "siempre",
+        "startTime": 521370,
+        "endTime": 521930
+      },
+      {
+        "token": "en",
+        "startTime": 521930,
+        "endTime": 522210
+      },
+      {
+        "token": "línea",
+        "startTime": 522210,
+        "endTime": 522450
+      },
+      {
+        "token": "recta",
+        "startTime": 522450,
+        "endTime": 523130
+      },
+      {
+        "token": "por",
+        "startTime": 523130,
+        "endTime": 524250
+      }
+    ]
+  },
+  {
+    "sentence_text": "un lugar así muy fácil, ¿no?",
+    "translations": {
+      "en": "such an easy place, right?"
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 524250,
+        "endTime": 524410
+      },
+      {
+        "token": "lugar",
+        "startTime": 524410,
+        "endTime": 524630
+      },
+      {
+        "token": "así",
+        "startTime": 524630,
+        "endTime": 524910
+      },
+      {
+        "token": "muy",
+        "startTime": 524910,
+        "endTime": 525250
+      },
+      {
+        "token": "fácil,",
+        "startTime": 525250,
+        "endTime": 526010
+      },
+      {
+        "token": "¿no?",
+        "startTime": 526010,
+        "endTime": 527590
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es un lugar bastante fácil para caminar. No",
+    "translations": {
+      "en": "It's a fairly easy place to walk. No"
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 527590,
+        "endTime": 527950
+      },
+      {
+        "token": "un",
+        "startTime": 527950,
+        "endTime": 528050
+      },
+      {
+        "token": "lugar",
+        "startTime": 528050,
+        "endTime": 528250
+      },
+      {
+        "token": "bastante",
+        "startTime": 528250,
+        "endTime": 529010
+      },
+      {
+        "token": "fácil",
+        "startTime": 529010,
+        "endTime": 529450
+      },
+      {
+        "token": "para",
+        "startTime": 529450,
+        "endTime": 529910
+      },
+      {
+        "token": "caminar.",
+        "startTime": 529910,
+        "endTime": 530710
+      },
+      {
+        "token": "No",
+        "startTime": 530710,
+        "endTime": 531150
+      }
+    ]
+  },
+  {
+    "sentence_text": "hay nadie. Se está muy cómodo, muy tranquilo.",
+    "translations": {
+      "en": "one is there. It's very comfortable, very peaceful."
+    },
+    "segments": [
+      {
+        "token": "hay",
+        "startTime": 531150,
+        "endTime": 531290
+      },
+      {
+        "token": "nadie.",
+        "startTime": 531290,
+        "endTime": 532210
+      },
+      {
+        "token": "Se",
+        "startTime": 532210,
+        "endTime": 532610
+      },
+      {
+        "token": "está",
+        "startTime": 532610,
+        "endTime": 532810
+      },
+      {
+        "token": "muy",
+        "startTime": 532810,
+        "endTime": 533030
+      },
+      {
+        "token": "cómodo,",
+        "startTime": 533030,
+        "endTime": 533750
+      },
+      {
+        "token": "muy",
+        "startTime": 533750,
+        "endTime": 533870
+      },
+      {
+        "token": "tranquilo.",
+        "startTime": 533870,
+        "endTime": 534890
+      }
+    ]
+  },
+  {
+    "sentence_text": "pero después de un poco,",
+    "translations": {
+      "en": "but after a bit,"
+    },
+    "segments": [
+      {
+        "token": "pero",
+        "startTime": 534890,
+        "endTime": 534990
+      },
+      {
+        "token": "después",
+        "startTime": 534990,
+        "endTime": 535290
+      },
+      {
+        "token": "de",
+        "startTime": 535290,
+        "endTime": 535510
+      },
+      {
+        "token": "un",
+        "startTime": 535510,
+        "endTime": 535610
+      },
+      {
+        "token": "poco,",
+        "startTime": 535610,
+        "endTime": 536150
+      }
+    ]
+  },
+  {
+    "sentence_text": "después de un poco de tiempo,",
+    "translations": {
+      "en": "after a bit of time,"
+    },
+    "segments": [
+      {
+        "token": "después",
+        "startTime": 536150,
+        "endTime": 536470
+      },
+      {
+        "token": "de",
+        "startTime": 536470,
+        "endTime": 536670
+      },
+      {
+        "token": "un",
+        "startTime": 536670,
+        "endTime": 537990
+      },
+      {
+        "token": "poco",
+        "startTime": 537990,
+        "endTime": 538130
+      },
+      {
+        "token": "de",
+        "startTime": 538130,
+        "endTime": 538290
+      },
+      {
+        "token": "tiempo,",
+        "startTime": 538290,
+        "endTime": 539410
+      }
+    ]
+  },
+  {
+    "sentence_text": "se hace un poco aburrido, ¿no?",
+    "translations": {
+      "en": "it gets a bit boring, doesn't it?"
+    },
+    "segments": [
+      {
+        "token": "se",
+        "startTime": 539410,
+        "endTime": 539450
+      },
+      {
+        "token": "hace",
+        "startTime": 539450,
+        "endTime": 541270
+      },
+      {
+        "token": "un",
+        "startTime": 541270,
+        "endTime": 541410
+      },
+      {
+        "token": "poco",
+        "startTime": 541410,
+        "endTime": 541570
+      },
+      {
+        "token": "aburrido,",
+        "startTime": 541570,
+        "endTime": 542190
+      },
+      {
+        "token": "¿no?",
+        "startTime": 542190,
+        "endTime": 543090
+      }
+    ]
+  },
+  {
+    "sentence_text": "Uy, aquí,",
+    "translations": {
+      "en": "Oh, here,"
+    },
+    "segments": [
+      {
+        "token": "Uy,",
+        "startTime": 543090,
+        "endTime": 543350
+      },
+      {
+        "token": "aquí,",
+        "startTime": 543350,
+        "endTime": 543570
+      }
+    ]
+  },
+  {
+    "sentence_text": "aquí hace sol,",
+    "translations": {
+      "en": "It's sunny here,"
+    },
+    "segments": [
+      {
+        "token": "aquí",
+        "startTime": 543570,
+        "endTime": 544250
+      },
+      {
+        "token": "hace",
+        "startTime": 544250,
+        "endTime": 544910
+      },
+      {
+        "token": "sol,",
+        "startTime": 544910,
+        "endTime": 546730
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿eh? Menos mal,",
+    "translations": {
+      "en": "huh? Good thing,"
+    },
+    "segments": [
+      {
+        "token": "¿eh?",
+        "startTime": 546730,
+        "endTime": 546750
+      },
+      {
+        "token": "Menos",
+        "startTime": 546750,
+        "endTime": 547010
+      },
+      {
+        "token": "mal,",
+        "startTime": 547010,
+        "endTime": 547270
+      }
+    ]
+  },
+  {
+    "sentence_text": "menos mal que llevo la gorra, porque",
+    "translations": {
+      "en": "good thing I brought my cap, because"
+    },
+    "segments": [
+      {
+        "token": "menos",
+        "startTime": 547270,
+        "endTime": 547910
+      },
+      {
+        "token": "mal",
+        "startTime": 547910,
+        "endTime": 548150
+      },
+      {
+        "token": "que",
+        "startTime": 548150,
+        "endTime": 548370
+      },
+      {
+        "token": "llevo",
+        "startTime": 548370,
+        "endTime": 548710
+      },
+      {
+        "token": "la",
+        "startTime": 548710,
+        "endTime": 549610
+      },
+      {
+        "token": "gorra,",
+        "startTime": 549610,
+        "endTime": 550250
+      },
+      {
+        "token": "porque",
+        "startTime": 550250,
+        "endTime": 552270
+      }
+    ]
+  },
+  {
+    "sentence_text": "no me quiero quemar. Me he puesto mucha",
+    "translations": {
+      "en": "I don't want to get burned. I put on a lot of"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 552270,
+        "endTime": 552570
+      },
+      {
+        "token": "me",
+        "startTime": 552570,
+        "endTime": 552890
+      },
+      {
+        "token": "quiero",
+        "startTime": 552890,
+        "endTime": 553030
+      },
+      {
+        "token": "quemar.",
+        "startTime": 553030,
+        "endTime": 553390
+      },
+      {
+        "token": "Me",
+        "startTime": 553390,
+        "endTime": 553530
+      },
+      {
+        "token": "he",
+        "startTime": 553530,
+        "endTime": 553590
+      },
+      {
+        "token": "puesto",
+        "startTime": 553590,
+        "endTime": 553770
+      },
+      {
+        "token": "mucha",
+        "startTime": 553770,
+        "endTime": 554070
+      }
+    ]
+  },
+  {
+    "sentence_text": "crema, ¿eh? Me he puesto mucha crema, pero",
+    "translations": {
+      "en": "sunscreen, you know? I put on a lot of sunscreen, but"
+    },
+    "segments": [
+      {
+        "token": "crema,",
+        "startTime": 554070,
+        "endTime": 554550
+      },
+      {
+        "token": "¿eh?",
+        "startTime": 554550,
+        "endTime": 554590
+      },
+      {
+        "token": "Me",
+        "startTime": 554590,
+        "endTime": 554710
+      },
+      {
+        "token": "he",
+        "startTime": 554710,
+        "endTime": 554750
+      },
+      {
+        "token": "puesto",
+        "startTime": 554750,
+        "endTime": 554970
+      },
+      {
+        "token": "mucha",
+        "startTime": 554970,
+        "endTime": 555210
+      },
+      {
+        "token": "crema,",
+        "startTime": 555210,
+        "endTime": 556010
+      },
+      {
+        "token": "pero",
+        "startTime": 556010,
+        "endTime": 556130
+      }
+    ]
+  },
+  {
+    "sentence_text": "de todas formas,",
+    "translations": {
+      "en": "anyway,"
+    },
+    "segments": [
+      {
+        "token": "de",
+        "startTime": 556130,
+        "endTime": 556270
+      },
+      {
+        "token": "todas",
+        "startTime": 556270,
+        "endTime": 556430
+      },
+      {
+        "token": "formas,",
+        "startTime": 556430,
+        "endTime": 556750
+      }
+    ]
+  },
+  {
+    "sentence_text": "no quiero estar mucho tiempo al sol, ¿vale?",
+    "translations": {
+      "en": "I don't want to stay in the sun too long, okay?"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 556750,
+        "endTime": 557870
+      },
+      {
+        "token": "quiero",
+        "startTime": 557870,
+        "endTime": 558090
+      },
+      {
+        "token": "estar",
+        "startTime": 558090,
+        "endTime": 558310
+      },
+      {
+        "token": "mucho",
+        "startTime": 558310,
+        "endTime": 558570
+      },
+      {
+        "token": "tiempo",
+        "startTime": 558570,
+        "endTime": 558870
+      },
+      {
+        "token": "al",
+        "startTime": 558870,
+        "endTime": 559110
+      },
+      {
+        "token": "sol,",
+        "startTime": 559110,
+        "endTime": 559570
+      },
+      {
+        "token": "¿vale?",
+        "startTime": 559570,
+        "endTime": 559570
+      }
+    ]
+  },
+  {
+    "sentence_text": "No es bueno,",
+    "translations": {
+      "en": "It's not good,"
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 559570,
+        "endTime": 559890
+      },
+      {
+        "token": "es",
+        "startTime": 559890,
+        "endTime": 560050
+      },
+      {
+        "token": "bueno,",
+        "startTime": 560050,
+        "endTime": 560330
+      }
+    ]
+  },
+  {
+    "sentence_text": "no es bueno estar mucho tiempo al sol.",
+    "translations": {
+      "en": "it's not good to stay in the sun too long."
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 560330,
+        "endTime": 560450
+      },
+      {
+        "token": "es",
+        "startTime": 560450,
+        "endTime": 560550
+      },
+      {
+        "token": "bueno",
+        "startTime": 560550,
+        "endTime": 560670
+      },
+      {
+        "token": "estar",
+        "startTime": 560670,
+        "endTime": 560930
+      },
+      {
+        "token": "mucho",
+        "startTime": 560930,
+        "endTime": 561150
+      },
+      {
+        "token": "tiempo",
+        "startTime": 561150,
+        "endTime": 561470
+      },
+      {
+        "token": "al",
+        "startTime": 561470,
+        "endTime": 561690
+      },
+      {
+        "token": "sol.",
+        "startTime": 561690,
+        "endTime": 563430
+      }
+    ]
+  },
+  {
+    "sentence_text": "Para mí,",
+    "translations": {
+      "en": "For me,"
+    },
+    "segments": [
+      {
+        "token": "Para",
+        "startTime": 563430,
+        "endTime": 563530
+      },
+      {
+        "token": "mí,",
+        "startTime": 563530,
+        "endTime": 564050
+      }
+    ]
+  },
+  {
+    "sentence_text": "para mí ponerme esta gorra es un reto,",
+    "translations": {
+      "en": "for me, wearing this cap is a challenge,"
+    },
+    "segments": [
+      {
+        "token": "para",
+        "startTime": 564050,
+        "endTime": 564750
+      },
+      {
+        "token": "mí",
+        "startTime": 564750,
+        "endTime": 564950
+      },
+      {
+        "token": "ponerme",
+        "startTime": 564950,
+        "endTime": 565830
+      },
+      {
+        "token": "esta",
+        "startTime": 565830,
+        "endTime": 566690
+      },
+      {
+        "token": "gorra",
+        "startTime": 566690,
+        "endTime": 566970
+      },
+      {
+        "token": "es",
+        "startTime": 566970,
+        "endTime": 567250
+      },
+      {
+        "token": "un",
+        "startTime": 567250,
+        "endTime": 567390
+      },
+      {
+        "token": "reto,",
+        "startTime": 567390,
+        "endTime": 568070
+      }
+    ]
+  },
+  {
+    "sentence_text": "es un reto porque me da vergüenza, me",
+    "translations": {
+      "en": "it's a challenge because I'm embarrassed, I"
+    },
+    "segments": [
+      {
+        "token": "es",
+        "startTime": 568070,
+        "endTime": 568190
+      },
+      {
+        "token": "un",
+        "startTime": 568190,
+        "endTime": 568290
+      },
+      {
+        "token": "reto",
+        "startTime": 568290,
+        "endTime": 568490
+      },
+      {
+        "token": "porque",
+        "startTime": 568490,
+        "endTime": 568690
+      },
+      {
+        "token": "me",
+        "startTime": 568690,
+        "endTime": 568830
+      },
+      {
+        "token": "da",
+        "startTime": 568830,
+        "endTime": 568930
+      },
+      {
+        "token": "vergüenza,",
+        "startTime": 568930,
+        "endTime": 569630
+      },
+      {
+        "token": "me",
+        "startTime": 569630,
+        "endTime": 569710
+      }
+    ]
+  },
+  {
+    "sentence_text": "da vergüenza.",
+    "translations": {
+      "en": "am embarrassed."
+    },
+    "segments": [
+      {
+        "token": "da",
+        "startTime": 569710,
+        "endTime": 569790
+      },
+      {
+        "token": "vergüenza.",
+        "startTime": 569790,
+        "endTime": 570570
+      }
+    ]
+  },
+  {
+    "sentence_text": "Creo que me hace más mayor o que",
+    "translations": {
+      "en": "I think it makes me look older or"
+    },
+    "segments": [
+      {
+        "token": "Creo",
+        "startTime": 570570,
+        "endTime": 570770
+      },
+      {
+        "token": "que",
+        "startTime": 570770,
+        "endTime": 570930
+      },
+      {
+        "token": "me",
+        "startTime": 570930,
+        "endTime": 571050
+      },
+      {
+        "token": "hace",
+        "startTime": 571050,
+        "endTime": 571410
+      },
+      {
+        "token": "más",
+        "startTime": 571410,
+        "endTime": 572110
+      },
+      {
+        "token": "mayor",
+        "startTime": 572110,
+        "endTime": 572570
+      },
+      {
+        "token": "o",
+        "startTime": 572570,
+        "endTime": 572950
+      },
+      {
+        "token": "que",
+        "startTime": 572950,
+        "endTime": 573090
+      }
+    ]
+  },
+  {
+    "sentence_text": "me hace más feo,",
+    "translations": {
+      "en": "it makes me look uglier,"
+    },
+    "segments": [
+      {
+        "token": "me",
+        "startTime": 573090,
+        "endTime": 573550
+      },
+      {
+        "token": "hace",
+        "startTime": 573550,
+        "endTime": 573810
+      },
+      {
+        "token": "más",
+        "startTime": 573810,
+        "endTime": 574150
+      },
+      {
+        "token": "feo,",
+        "startTime": 574150,
+        "endTime": 575370
+      }
+    ]
+  },
+  {
+    "sentence_text": "no sé. Algunas personas me han dicho que",
+    "translations": {
+      "en": "I don't know. Some people have told me that"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 575370,
+        "endTime": 575450
+      },
+      {
+        "token": "sé.",
+        "startTime": 575450,
+        "endTime": 575450
+      },
+      {
+        "token": "Algunas",
+        "startTime": 575450,
+        "endTime": 576150
+      },
+      {
+        "token": "personas",
+        "startTime": 576150,
+        "endTime": 576450
+      },
+      {
+        "token": "me",
+        "startTime": 576450,
+        "endTime": 576630
+      },
+      {
+        "token": "han",
+        "startTime": 576630,
+        "endTime": 576730
+      },
+      {
+        "token": "dicho",
+        "startTime": 576730,
+        "endTime": 576910
+      },
+      {
+        "token": "que",
+        "startTime": 576910,
+        "endTime": 577050
+      }
+    ]
+  },
+  {
+    "sentence_text": "me hace más joven o que me hace",
+    "translations": {
+      "en": "it makes me look younger or that it makes me"
+    },
+    "segments": [
+      {
+        "token": "me",
+        "startTime": 577050,
+        "endTime": 577130
+      },
+      {
+        "token": "hace",
+        "startTime": 577130,
+        "endTime": 577390
+      },
+      {
+        "token": "más",
+        "startTime": 577390,
+        "endTime": 577830
+      },
+      {
+        "token": "joven",
+        "startTime": 577830,
+        "endTime": 578250
+      },
+      {
+        "token": "o",
+        "startTime": 578250,
+        "endTime": 578990
+      },
+      {
+        "token": "que",
+        "startTime": 578990,
+        "endTime": 579190
+      },
+      {
+        "token": "me",
+        "startTime": 579190,
+        "endTime": 579310
+      },
+      {
+        "token": "hace",
+        "startTime": 579310,
+        "endTime": 579670
+      }
+    ]
+  },
+  {
+    "sentence_text": "más guapo,",
+    "translations": {
+      "en": "more handsome,"
+    },
+    "segments": [
+      {
+        "token": "más",
+        "startTime": 579670,
+        "endTime": 581210
+      },
+      {
+        "token": "guapo,",
+        "startTime": 581210,
+        "endTime": 581570
+      }
+    ]
+  },
+  {
+    "sentence_text": "que estoy más guapo con la gorra. No",
+    "translations": {
+      "en": "that I look better with the cap. I"
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 581570,
+        "endTime": 581670
+      },
+      {
+        "token": "estoy",
+        "startTime": 581670,
+        "endTime": 581810
+      },
+      {
+        "token": "más",
+        "startTime": 581810,
+        "endTime": 581990
+      },
+      {
+        "token": "guapo",
+        "startTime": 581990,
+        "endTime": 582210
+      },
+      {
+        "token": "con",
+        "startTime": 582210,
+        "endTime": 582390
+      },
+      {
+        "token": "la",
+        "startTime": 582390,
+        "endTime": 582770
+      },
+      {
+        "token": "gorra.",
+        "startTime": 582770,
+        "endTime": 583610
+      },
+      {
+        "token": "No",
+        "startTime": 583610,
+        "endTime": 584270
+      }
+    ]
+  },
+  {
+    "sentence_text": "lo sé, no lo sé.",
+    "translations": {
+      "en": "don't know, I don't know."
+    },
+    "segments": [
+      {
+        "token": "lo",
+        "startTime": 584270,
+        "endTime": 584450
+      },
+      {
+        "token": "sé,",
+        "startTime": 584450,
+        "endTime": 584990
+      },
+      {
+        "token": "no",
+        "startTime": 584990,
+        "endTime": 585150
+      },
+      {
+        "token": "lo",
+        "startTime": 585150,
+        "endTime": 585350
+      },
+      {
+        "token": "sé.",
+        "startTime": 585350,
+        "endTime": 587490
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pero es algo nuevo,",
+    "translations": {
+      "en": "But it's something new,"
+    },
+    "segments": [
+      {
+        "token": "Pero",
+        "startTime": 587490,
+        "endTime": 587590
+      },
+      {
+        "token": "es",
+        "startTime": 587590,
+        "endTime": 588210
+      },
+      {
+        "token": "algo",
+        "startTime": 588210,
+        "endTime": 588390
+      },
+      {
+        "token": "nuevo,",
+        "startTime": 588390,
+        "endTime": 588890
+      }
+    ]
+  },
+  {
+    "sentence_text": "es algo nuevo y cuando voy por la",
+    "translations": {
+      "en": "it's something new and when I go down the"
+    },
+    "segments": [
+      {
+        "token": "es",
+        "startTime": 588890,
+        "endTime": 588990
+      },
+      {
+        "token": "algo",
+        "startTime": 588990,
+        "endTime": 589150
+      },
+      {
+        "token": "nuevo",
+        "startTime": 589150,
+        "endTime": 589410
+      },
+      {
+        "token": "y",
+        "startTime": 589410,
+        "endTime": 589630
+      },
+      {
+        "token": "cuando",
+        "startTime": 589630,
+        "endTime": 589810
+      },
+      {
+        "token": "voy",
+        "startTime": 589810,
+        "endTime": 590010
+      },
+      {
+        "token": "por",
+        "startTime": 590010,
+        "endTime": 590170
+      },
+      {
+        "token": "la",
+        "startTime": 590170,
+        "endTime": 590350
+      }
+    ]
+  },
+  {
+    "sentence_text": "calle, cuando voy por la calle estoy un",
+    "translations": {
+      "en": "street, when I go down the street I'm a"
+    },
+    "segments": [
+      {
+        "token": "calle,",
+        "startTime": 590350,
+        "endTime": 590750
+      },
+      {
+        "token": "cuando",
+        "startTime": 590750,
+        "endTime": 591270
+      },
+      {
+        "token": "voy",
+        "startTime": 591270,
+        "endTime": 591430
+      },
+      {
+        "token": "por",
+        "startTime": 591430,
+        "endTime": 591570
+      },
+      {
+        "token": "la",
+        "startTime": 591570,
+        "endTime": 591630
+      },
+      {
+        "token": "calle",
+        "startTime": 591630,
+        "endTime": 591770
+      },
+      {
+        "token": "estoy",
+        "startTime": 591770,
+        "endTime": 592310
+      },
+      {
+        "token": "un",
+        "startTime": 592310,
+        "endTime": 592490
+      }
+    ]
+  },
+  {
+    "sentence_text": "poco pendiente,",
+    "translations": {
+      "en": "bit on edge,"
+    },
+    "segments": [
+      {
+        "token": "poco",
+        "startTime": 592490,
+        "endTime": 592670
+      },
+      {
+        "token": "pendiente,",
+        "startTime": 592670,
+        "endTime": 593670
+      }
+    ]
+  },
+  {
+    "sentence_text": "estoy un poco pendiente porque pienso que la",
+    "translations": {
+      "en": "I'm a bit on edge because I think"
+    },
+    "segments": [
+      {
+        "token": "estoy",
+        "startTime": 593670,
+        "endTime": 593970
+      },
+      {
+        "token": "un",
+        "startTime": 593970,
+        "endTime": 594090
+      },
+      {
+        "token": "poco",
+        "startTime": 594090,
+        "endTime": 594210
+      },
+      {
+        "token": "pendiente",
+        "startTime": 594210,
+        "endTime": 594770
+      },
+      {
+        "token": "porque",
+        "startTime": 594770,
+        "endTime": 595270
+      },
+      {
+        "token": "pienso",
+        "startTime": 595270,
+        "endTime": 595650
+      },
+      {
+        "token": "que",
+        "startTime": 595650,
+        "endTime": 595770
+      },
+      {
+        "token": "la",
+        "startTime": 595770,
+        "endTime": 595890
+      }
+    ]
+  },
+  {
+    "sentence_text": "gente se va a reír de mí, ¿no?",
+    "translations": {
+      "en": "people are going to laugh at me, right?"
+    },
+    "segments": [
+      {
+        "token": "gente",
+        "startTime": 595890,
+        "endTime": 596110
+      },
+      {
+        "token": "se",
+        "startTime": 596110,
+        "endTime": 596870
+      },
+      {
+        "token": "va",
+        "startTime": 596870,
+        "endTime": 596990
+      },
+      {
+        "token": "a",
+        "startTime": 596990,
+        "endTime": 597110
+      },
+      {
+        "token": "reír",
+        "startTime": 597110,
+        "endTime": 597370
+      },
+      {
+        "token": "de",
+        "startTime": 597370,
+        "endTime": 597590
+      },
+      {
+        "token": "mí,",
+        "startTime": 597590,
+        "endTime": 597870
+      },
+      {
+        "token": "¿no?",
+        "startTime": 597870,
+        "endTime": 597870
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mira, mira ese tío con la gorra, qué",
+    "translations": {
+      "en": "Look, look at that guy with the cap, how"
+    },
+    "segments": [
+      {
+        "token": "Mira,",
+        "startTime": 597870,
+        "endTime": 598170
+      },
+      {
+        "token": "mira",
+        "startTime": 598170,
+        "endTime": 598250
+      },
+      {
+        "token": "ese",
+        "startTime": 598250,
+        "endTime": 598510
+      },
+      {
+        "token": "tío",
+        "startTime": 598510,
+        "endTime": 598710
+      },
+      {
+        "token": "con",
+        "startTime": 598710,
+        "endTime": 599010
+      },
+      {
+        "token": "la",
+        "startTime": 599010,
+        "endTime": 599210
+      },
+      {
+        "token": "gorra,",
+        "startTime": 599210,
+        "endTime": 599570
+      },
+      {
+        "token": "qué",
+        "startTime": 599570,
+        "endTime": 599610
+      }
+    ]
+  },
+  {
+    "sentence_text": "feo, ¿no? Pero por el momento no, por",
+    "translations": {
+      "en": "ugly, right? But so far no,"
+    },
+    "segments": [
+      {
+        "token": "feo,",
+        "startTime": 599610,
+        "endTime": 600050
+      },
+      {
+        "token": "¿no?",
+        "startTime": 600050,
+        "endTime": 600130
+      },
+      {
+        "token": "Pero",
+        "startTime": 600130,
+        "endTime": 600970
+      },
+      {
+        "token": "por",
+        "startTime": 600970,
+        "endTime": 601210
+      },
+      {
+        "token": "el",
+        "startTime": 601210,
+        "endTime": 601310
+      },
+      {
+        "token": "momento",
+        "startTime": 601310,
+        "endTime": 601550
+      },
+      {
+        "token": "no,",
+        "startTime": 601550,
+        "endTime": 601910
+      },
+      {
+        "token": "por",
+        "startTime": 601910,
+        "endTime": 602070
+      }
+    ]
+  },
+  {
+    "sentence_text": "el momento no,",
+    "translations": {
+      "en": "so far no,"
+    },
+    "segments": [
+      {
+        "token": "el",
+        "startTime": 602070,
+        "endTime": 602150
+      },
+      {
+        "token": "momento",
+        "startTime": 602150,
+        "endTime": 602290
+      },
+      {
+        "token": "no,",
+        "startTime": 602290,
+        "endTime": 602570
+      }
+    ]
+  },
+  {
+    "sentence_text": "porque en Inglaterra todo el mundo lleva gorra.",
+    "translations": {
+      "en": "because in England everyone wears a cap."
+    },
+    "segments": [
+      {
+        "token": "porque",
+        "startTime": 602570,
+        "endTime": 602650
+      },
+      {
+        "token": "en",
+        "startTime": 602650,
+        "endTime": 602810
+      },
+      {
+        "token": "Inglaterra",
+        "startTime": 602810,
+        "endTime": 603210
+      },
+      {
+        "token": "todo",
+        "startTime": 603210,
+        "endTime": 603410
+      },
+      {
+        "token": "el",
+        "startTime": 603410,
+        "endTime": 603530
+      },
+      {
+        "token": "mundo",
+        "startTime": 603530,
+        "endTime": 603610
+      },
+      {
+        "token": "lleva",
+        "startTime": 603610,
+        "endTime": 603830
+      },
+      {
+        "token": "gorra.",
+        "startTime": 603830,
+        "endTime": 604190
+      }
+    ]
+  },
+  {
+    "sentence_text": "Bueno, todo el mundo no,",
+    "translations": {
+      "en": "Well, not everyone,"
+    },
+    "segments": [
+      {
+        "token": "Bueno,",
+        "startTime": 604190,
+        "endTime": 604510
+      },
+      {
+        "token": "todo",
+        "startTime": 604510,
+        "endTime": 604630
+      },
+      {
+        "token": "el",
+        "startTime": 604630,
+        "endTime": 604730
+      },
+      {
+        "token": "mundo",
+        "startTime": 604730,
+        "endTime": 604890
+      },
+      {
+        "token": "no,",
+        "startTime": 604890,
+        "endTime": 605110
+      }
+    ]
+  },
+  {
+    "sentence_text": "pero es muy normal,",
+    "translations": {
+      "en": "but it's very normal,"
+    },
+    "segments": [
+      {
+        "token": "pero",
+        "startTime": 605110,
+        "endTime": 605190
+      },
+      {
+        "token": "es",
+        "startTime": 605190,
+        "endTime": 605670
+      },
+      {
+        "token": "muy",
+        "startTime": 605670,
+        "endTime": 605810
+      },
+      {
+        "token": "normal,",
+        "startTime": 605810,
+        "endTime": 606290
+      }
+    ]
+  },
+  {
+    "sentence_text": "es muy normal que los hombres lleven gorra.",
+    "translations": {
+      "en": "it's very normal for men to wear caps."
+    },
+    "segments": [
+      {
+        "token": "es",
+        "startTime": 606290,
+        "endTime": 606410
+      },
+      {
+        "token": "muy",
+        "startTime": 606410,
+        "endTime": 606510
+      },
+      {
+        "token": "normal",
+        "startTime": 606510,
+        "endTime": 606770
+      },
+      {
+        "token": "que",
+        "startTime": 606770,
+        "endTime": 608110
+      },
+      {
+        "token": "los",
+        "startTime": 608110,
+        "endTime": 608270
+      },
+      {
+        "token": "hombres",
+        "startTime": 608270,
+        "endTime": 608570
+      },
+      {
+        "token": "lleven",
+        "startTime": 608570,
+        "endTime": 609270
+      },
+      {
+        "token": "gorra.",
+        "startTime": 609270,
+        "endTime": 609790
+      }
+    ]
+  },
+  {
+    "sentence_text": "En España no tanto,",
+    "translations": {
+      "en": "In Spain not so much,"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 609790,
+        "endTime": 609950
+      },
+      {
+        "token": "España",
+        "startTime": 609950,
+        "endTime": 610190
+      },
+      {
+        "token": "no",
+        "startTime": 610190,
+        "endTime": 610350
+      },
+      {
+        "token": "tanto,",
+        "startTime": 610350,
+        "endTime": 610930
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿eh? En España yo creo que los hombres",
+    "translations": {
+      "en": "huh? In Spain I think men"
+    },
+    "segments": [
+      {
+        "token": "¿eh?",
+        "startTime": 610930,
+        "endTime": 610950
+      },
+      {
+        "token": "En",
+        "startTime": 610950,
+        "endTime": 611270
+      },
+      {
+        "token": "España",
+        "startTime": 611270,
+        "endTime": 611630
+      },
+      {
+        "token": "yo",
+        "startTime": 611630,
+        "endTime": 611830
+      },
+      {
+        "token": "creo",
+        "startTime": 611830,
+        "endTime": 612010
+      },
+      {
+        "token": "que",
+        "startTime": 612010,
+        "endTime": 612130
+      },
+      {
+        "token": "los",
+        "startTime": 612130,
+        "endTime": 612250
+      },
+      {
+        "token": "hombres",
+        "startTime": 612250,
+        "endTime": 612550
+      }
+    ]
+  },
+  {
+    "sentence_text": "no solemos llevar gorra, ¿no?",
+    "translations": {
+      "en": "usually don't wear caps, right?"
+    },
+    "segments": [
+      {
+        "token": "no",
+        "startTime": 612550,
+        "endTime": 613990
+      },
+      {
+        "token": "solemos",
+        "startTime": 613990,
+        "endTime": 614430
+      },
+      {
+        "token": "llevar",
+        "startTime": 614430,
+        "endTime": 614730
+      },
+      {
+        "token": "gorra,",
+        "startTime": 614730,
+        "endTime": 615890
+      },
+      {
+        "token": "¿no?",
+        "startTime": 615890,
+        "endTime": 617030
+      }
+    ]
+  },
+  {
+    "sentence_text": "A veces sombrero,",
+    "translations": {
+      "en": "Sometimes a hat,"
+    },
+    "segments": [
+      {
+        "token": "A",
+        "startTime": 617030,
+        "endTime": 617170
+      },
+      {
+        "token": "veces",
+        "startTime": 617170,
+        "endTime": 617410
+      },
+      {
+        "token": "sombrero,",
+        "startTime": 617410,
+        "endTime": 618490
+      }
+    ]
+  },
+  {
+    "sentence_text": "pero gorra no. Normalmente. Es algo para, en",
+    "translations": {
+      "en": "but not a cap. Normally. It's something for, in"
+    },
+    "segments": [
+      {
+        "token": "pero",
+        "startTime": 618490,
+        "endTime": 618610
+      },
+      {
+        "token": "gorra",
+        "startTime": 618610,
+        "endTime": 618990
+      },
+      {
+        "token": "no.",
+        "startTime": 618990,
+        "endTime": 619150
+      },
+      {
+        "token": "Normalmente.",
+        "startTime": 619150,
+        "endTime": 620590
+      },
+      {
+        "token": "Es",
+        "startTime": 620590,
+        "endTime": 620790
+      },
+      {
+        "token": "algo",
+        "startTime": 620790,
+        "endTime": 620990
+      },
+      {
+        "token": "para,",
+        "startTime": 620990,
+        "endTime": 621250
+      },
+      {
+        "token": "en",
+        "startTime": 621250,
+        "endTime": 621710
+      }
+    ]
+  },
+  {
+    "sentence_text": "fin, para trabajar en el campo,",
+    "translations": {
+      "en": "short, for working in the fields,"
+    },
+    "segments": [
+      {
+        "token": "fin,",
+        "startTime": 621710,
+        "endTime": 621830
+      },
+      {
+        "token": "para",
+        "startTime": 621830,
+        "endTime": 621950
+      },
+      {
+        "token": "trabajar",
+        "startTime": 621950,
+        "endTime": 622250
+      },
+      {
+        "token": "en",
+        "startTime": 622250,
+        "endTime": 622490
+      },
+      {
+        "token": "el",
+        "startTime": 622490,
+        "endTime": 622610
+      },
+      {
+        "token": "campo,",
+        "startTime": 622610,
+        "endTime": 623190
+      }
+    ]
+  },
+  {
+    "sentence_text": "por ejemplo. Sí,",
+    "translations": {
+      "en": "for example. Yes,"
+    },
+    "segments": [
+      {
+        "token": "por",
+        "startTime": 623190,
+        "endTime": 623250
+      },
+      {
+        "token": "ejemplo.",
+        "startTime": 623250,
+        "endTime": 623590
+      },
+      {
+        "token": "Sí,",
+        "startTime": 623590,
+        "endTime": 623710
+      }
+    ]
+  },
+  {
+    "sentence_text": "los hombres que trabajan en el campo o,",
+    "translations": {
+      "en": "Men who work in the fields or,"
+    },
+    "segments": [
+      {
+        "token": "los",
+        "startTime": 623710,
+        "endTime": 623830
+      },
+      {
+        "token": "hombres",
+        "startTime": 623830,
+        "endTime": 624050
+      },
+      {
+        "token": "que",
+        "startTime": 624050,
+        "endTime": 624190
+      },
+      {
+        "token": "trabajan",
+        "startTime": 624190,
+        "endTime": 624530
+      },
+      {
+        "token": "en",
+        "startTime": 624530,
+        "endTime": 624670
+      },
+      {
+        "token": "el",
+        "startTime": 624670,
+        "endTime": 624770
+      },
+      {
+        "token": "campo",
+        "startTime": 624770,
+        "endTime": 625130
+      },
+      {
+        "token": "o,",
+        "startTime": 625130,
+        "endTime": 625770
+      }
+    ]
+  },
+  {
+    "sentence_text": "en fin,",
+    "translations": {
+      "en": "well,"
+    },
+    "segments": [
+      {
+        "token": "en",
+        "startTime": 625770,
+        "endTime": 626670
+      },
+      {
+        "token": "fin,",
+        "startTime": 626670,
+        "endTime": 626850
+      }
+    ]
+  },
+  {
+    "sentence_text": "que trabajan así en la calle al sol,",
+    "translations": {
+      "en": "who work out on the street in the sun,"
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 626850,
+        "endTime": 626950
+      },
+      {
+        "token": "trabajan",
+        "startTime": 626950,
+        "endTime": 627370
+      },
+      {
+        "token": "así",
+        "startTime": 627370,
+        "endTime": 627570
+      },
+      {
+        "token": "en",
+        "startTime": 627570,
+        "endTime": 628250
+      },
+      {
+        "token": "la",
+        "startTime": 628250,
+        "endTime": 628390
+      },
+      {
+        "token": "calle",
+        "startTime": 628390,
+        "endTime": 628630
+      },
+      {
+        "token": "al",
+        "startTime": 628630,
+        "endTime": 628850
+      },
+      {
+        "token": "sol,",
+        "startTime": 628850,
+        "endTime": 629370
+      }
+    ]
+  },
+  {
+    "sentence_text": "quizás llevan gorra,",
+    "translations": {
+      "en": "maybe they wear a cap,"
+    },
+    "segments": [
+      {
+        "token": "quizás",
+        "startTime": 629370,
+        "endTime": 631490
+      },
+      {
+        "token": "llevan",
+        "startTime": 631490,
+        "endTime": 631850
+      },
+      {
+        "token": "gorra,",
+        "startTime": 631850,
+        "endTime": 633290
+      }
+    ]
+  },
+  {
+    "sentence_text": "sí.",
+    "translations": {
+      "en": "yeah."
+    },
+    "segments": [
+      {
+        "token": "sí.",
+        "startTime": 633290,
+        "endTime": 633730
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pero digamos que un tío como yo, normal,",
+    "translations": {
+      "en": "But let's say a regular guy like me,"
+    },
+    "segments": [
+      {
+        "token": "Pero",
+        "startTime": 633730,
+        "endTime": 633830
+      },
+      {
+        "token": "digamos",
+        "startTime": 633830,
+        "endTime": 634070
+      },
+      {
+        "token": "que",
+        "startTime": 634070,
+        "endTime": 634330
+      },
+      {
+        "token": "un",
+        "startTime": 634330,
+        "endTime": 634650
+      },
+      {
+        "token": "tío",
+        "startTime": 634650,
+        "endTime": 634910
+      },
+      {
+        "token": "como",
+        "startTime": 634910,
+        "endTime": 635130
+      },
+      {
+        "token": "yo,",
+        "startTime": 635130,
+        "endTime": 635430
+      },
+      {
+        "token": "normal,",
+        "startTime": 635430,
+        "endTime": 635930
+      }
+    ]
+  },
+  {
+    "sentence_text": "un turista, pues creo que no,",
+    "translations": {
+      "en": "a tourist, I don't think so,"
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 635930,
+        "endTime": 636010
+      },
+      {
+        "token": "turista,",
+        "startTime": 636010,
+        "endTime": 636630
+      },
+      {
+        "token": "pues",
+        "startTime": 636630,
+        "endTime": 636670
+      },
+      {
+        "token": "creo",
+        "startTime": 636670,
+        "endTime": 637150
+      },
+      {
+        "token": "que",
+        "startTime": 637150,
+        "endTime": 637290
+      },
+      {
+        "token": "no,",
+        "startTime": 637290,
+        "endTime": 637630
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿eh? No sé,",
+    "translations": {
+      "en": "huh? I don't know,"
+    },
+    "segments": [
+      {
+        "token": "¿eh?",
+        "startTime": 637630,
+        "endTime": 637650
+      },
+      {
+        "token": "No",
+        "startTime": 637650,
+        "endTime": 637770
+      },
+      {
+        "token": "sé,",
+        "startTime": 637770,
+        "endTime": 638070
+      }
+    ]
+  },
+  {
+    "sentence_text": "quizás estoy equivocado,",
+    "translations": {
+      "en": "maybe I'm wrong,"
+    },
+    "segments": [
+      {
+        "token": "quizás",
+        "startTime": 638070,
+        "endTime": 638290
+      },
+      {
+        "token": "estoy",
+        "startTime": 638290,
+        "endTime": 638530
+      },
+      {
+        "token": "equivocado,",
+        "startTime": 638530,
+        "endTime": 639130
+      }
+    ]
+  },
+  {
+    "sentence_text": "quizás estoy equivocado, no lo sé.",
+    "translations": {
+      "en": "maybe I'm wrong, I don't know."
+    },
+    "segments": [
+      {
+        "token": "quizás",
+        "startTime": 639130,
+        "endTime": 639290
+      },
+      {
+        "token": "estoy",
+        "startTime": 639290,
+        "endTime": 640190
+      },
+      {
+        "token": "equivocado,",
+        "startTime": 640190,
+        "endTime": 641130
+      },
+      {
+        "token": "no",
+        "startTime": 641130,
+        "endTime": 641210
+      },
+      {
+        "token": "lo",
+        "startTime": 641210,
+        "endTime": 641350
+      },
+      {
+        "token": "sé.",
+        "startTime": 641350,
+        "endTime": 641910
+      }
+    ]
+  },
+  {
+    "sentence_text": "Decidme, decidme en los comentarios qué tal",
+    "translations": {
+      "en": "Tell me, tell me in the comments how"
+    },
+    "segments": [
+      {
+        "token": "Decidme,",
+        "startTime": 641910,
+        "endTime": 642230
+      },
+      {
+        "token": "decidme",
+        "startTime": 642230,
+        "endTime": 642550
+      },
+      {
+        "token": "en",
+        "startTime": 642550,
+        "endTime": 642650
+      },
+      {
+        "token": "los",
+        "startTime": 642650,
+        "endTime": 642730
+      },
+      {
+        "token": "comentarios",
+        "startTime": 642730,
+        "endTime": 643210
+      },
+      {
+        "token": "qué",
+        "startTime": 643210,
+        "endTime": 644710
+      },
+      {
+        "token": "tal",
+        "startTime": 644710,
+        "endTime": 645050
+      }
+    ]
+  },
+  {
+    "sentence_text": "me queda,",
+    "translations": {
+      "en": "it looks on me,"
+    },
+    "segments": [
+      {
+        "token": "me",
+        "startTime": 645050,
+        "endTime": 645230
+      },
+      {
+        "token": "queda,",
+        "startTime": 645230,
+        "endTime": 645470
+      }
+    ]
+  },
+  {
+    "sentence_text": "qué tal me queda la gorra,",
+    "translations": {
+      "en": "how the cap looks on me,"
+    },
+    "segments": [
+      {
+        "token": "qué",
+        "startTime": 645470,
+        "endTime": 646770
+      },
+      {
+        "token": "tal",
+        "startTime": 646770,
+        "endTime": 646910
+      },
+      {
+        "token": "me",
+        "startTime": 646910,
+        "endTime": 647030
+      },
+      {
+        "token": "queda",
+        "startTime": 647030,
+        "endTime": 647190
+      },
+      {
+        "token": "la",
+        "startTime": 647190,
+        "endTime": 647330
+      },
+      {
+        "token": "gorra,",
+        "startTime": 647330,
+        "endTime": 647630
+      }
+    ]
+  },
+  {
+    "sentence_text": "si me queda bien,",
+    "translations": {
+      "en": "if it suits me,"
+    },
+    "segments": [
+      {
+        "token": "si",
+        "startTime": 647630,
+        "endTime": 647750
+      },
+      {
+        "token": "me",
+        "startTime": 647750,
+        "endTime": 647850
+      },
+      {
+        "token": "queda",
+        "startTime": 647850,
+        "endTime": 648010
+      },
+      {
+        "token": "bien,",
+        "startTime": 648010,
+        "endTime": 648210
+      }
+    ]
+  },
+  {
+    "sentence_text": "si me queda mal,",
+    "translations": {
+      "en": "if it doesn't suit me,"
+    },
+    "segments": [
+      {
+        "token": "si",
+        "startTime": 648210,
+        "endTime": 648850
+      },
+      {
+        "token": "me",
+        "startTime": 648850,
+        "endTime": 648970
+      },
+      {
+        "token": "queda",
+        "startTime": 648970,
+        "endTime": 649110
+      },
+      {
+        "token": "mal,",
+        "startTime": 649110,
+        "endTime": 649490
+      }
+    ]
+  },
+  {
+    "sentence_text": "si me hace mayor,",
+    "translations": {
+      "en": "if it makes me look older,"
+    },
+    "segments": [
+      {
+        "token": "si",
+        "startTime": 649490,
+        "endTime": 650110
+      },
+      {
+        "token": "me",
+        "startTime": 650110,
+        "endTime": 650210
+      },
+      {
+        "token": "hace",
+        "startTime": 650210,
+        "endTime": 650450
+      },
+      {
+        "token": "mayor,",
+        "startTime": 650450,
+        "endTime": 651170
+      }
+    ]
+  },
+  {
+    "sentence_text": "si me hace más joven o si no",
+    "translations": {
+      "en": "if it makes me look younger or if it"
+    },
+    "segments": [
+      {
+        "token": "si",
+        "startTime": 651170,
+        "endTime": 651290
+      },
+      {
+        "token": "me",
+        "startTime": 651290,
+        "endTime": 651410
+      },
+      {
+        "token": "hace",
+        "startTime": 651410,
+        "endTime": 651650
+      },
+      {
+        "token": "más",
+        "startTime": 651650,
+        "endTime": 651850
+      },
+      {
+        "token": "joven",
+        "startTime": 651850,
+        "endTime": 652130
+      },
+      {
+        "token": "o",
+        "startTime": 652130,
+        "endTime": 652950
+      },
+      {
+        "token": "si",
+        "startTime": 652950,
+        "endTime": 653150
+      },
+      {
+        "token": "no",
+        "startTime": 653150,
+        "endTime": 653290
+      }
+    ]
+  },
+  {
+    "sentence_text": "cambia nada.",
+    "translations": {
+      "en": "doesn't change anything."
+    },
+    "segments": [
+      {
+        "token": "cambia",
+        "startTime": 653290,
+        "endTime": 653670
+      },
+      {
+        "token": "nada.",
+        "startTime": 653670,
+        "endTime": 656090
+      }
+    ]
+  },
+  {
+    "sentence_text": "Bueno, chicos, voy a continuar,",
+    "translations": {
+      "en": "Okay, guys, I'll keep going,"
+    },
+    "segments": [
+      {
+        "token": "Bueno,",
+        "startTime": 656090,
+        "endTime": 656370
+      },
+      {
+        "token": "chicos,",
+        "startTime": 656370,
+        "endTime": 656670
+      },
+      {
+        "token": "voy",
+        "startTime": 656670,
+        "endTime": 656770
+      },
+      {
+        "token": "a",
+        "startTime": 656770,
+        "endTime": 656870
+      },
+      {
+        "token": "continuar,",
+        "startTime": 656870,
+        "endTime": 657470
+      }
+    ]
+  },
+  {
+    "sentence_text": "voy a continuar por este camino todo recto,",
+    "translations": {
+      "en": "I'll keep going straight down this path,"
+    },
+    "segments": [
+      {
+        "token": "voy",
+        "startTime": 657470,
+        "endTime": 657570
+      },
+      {
+        "token": "a",
+        "startTime": 657570,
+        "endTime": 657650
+      },
+      {
+        "token": "continuar",
+        "startTime": 657650,
+        "endTime": 657910
+      },
+      {
+        "token": "por",
+        "startTime": 657910,
+        "endTime": 658190
+      },
+      {
+        "token": "este",
+        "startTime": 658190,
+        "endTime": 658490
+      },
+      {
+        "token": "camino",
+        "startTime": 658490,
+        "endTime": 658810
+      },
+      {
+        "token": "todo",
+        "startTime": 658810,
+        "endTime": 659110
+      },
+      {
+        "token": "recto,",
+        "startTime": 659110,
+        "endTime": 659690
+      }
+    ]
+  },
+  {
+    "sentence_text": "todo recto.",
+    "translations": {
+      "en": "all straight."
+    },
+    "segments": [
+      {
+        "token": "todo",
+        "startTime": 659690,
+        "endTime": 659790
+      },
+      {
+        "token": "recto.",
+        "startTime": 659790,
+        "endTime": 660630
+      }
+    ]
+  },
+  {
+    "sentence_text": "Espero que,",
+    "translations": {
+      "en": "I hope that,"
+    },
+    "segments": [
+      {
+        "token": "Espero",
+        "startTime": 660630,
+        "endTime": 661110
+      },
+      {
+        "token": "que,",
+        "startTime": 661110,
+        "endTime": 661410
+      }
+    ]
+  },
+  {
+    "sentence_text": "espero que os haya gustado pasear conmigo aquí,",
+    "translations": {
+      "en": "I hope you enjoyed walking with me here,"
+    },
+    "segments": [
+      {
+        "token": "espero",
+        "startTime": 661410,
+        "endTime": 661930
+      },
+      {
+        "token": "que",
+        "startTime": 661930,
+        "endTime": 662110
+      },
+      {
+        "token": "os",
+        "startTime": 662110,
+        "endTime": 662230
+      },
+      {
+        "token": "haya",
+        "startTime": 662230,
+        "endTime": 662390
+      },
+      {
+        "token": "gustado",
+        "startTime": 662390,
+        "endTime": 662730
+      },
+      {
+        "token": "pasear",
+        "startTime": 662730,
+        "endTime": 663950
+      },
+      {
+        "token": "conmigo",
+        "startTime": 663950,
+        "endTime": 664510
+      },
+      {
+        "token": "aquí,",
+        "startTime": 664510,
+        "endTime": 666110
+      }
+    ]
+  },
+  {
+    "sentence_text": "al lado, al lado del río, en",
+    "translations": {
+      "en": "beside, beside the river, in"
+    },
+    "segments": [
+      {
+        "token": "al",
+        "startTime": 666110,
+        "endTime": 666270
+      },
+      {
+        "token": "lado,",
+        "startTime": 666270,
+        "endTime": 666670
+      },
+      {
+        "token": "al",
+        "startTime": 666670,
+        "endTime": 667110
+      },
+      {
+        "token": "lado",
+        "startTime": 667110,
+        "endTime": 667250
+      },
+      {
+        "token": "del",
+        "startTime": 667250,
+        "endTime": 667590
+      },
+      {
+        "token": "río,",
+        "startTime": 667590,
+        "endTime": 669170
+      },
+      {
+        "token": "en",
+        "startTime": 669170,
+        "endTime": 670790
+      }
+    ]
+  },
+  {
+    "sentence_text": "este bosque inglés tan bonito.",
+    "translations": {
+      "en": "this beautiful English forest."
+    },
+    "segments": [
+      {
+        "token": "este",
+        "startTime": 670790,
+        "endTime": 671270
+      },
+      {
+        "token": "bosque",
+        "startTime": 671270,
+        "endTime": 671830
+      },
+      {
+        "token": "inglés",
+        "startTime": 671830,
+        "endTime": 672230
+      },
+      {
+        "token": "tan",
+        "startTime": 672230,
+        "endTime": 672570
+      },
+      {
+        "token": "bonito.",
+        "startTime": 672570,
+        "endTime": 673690
+      }
+    ]
+  },
+  {
+    "sentence_text": "Me estoy enrollando,",
+    "translations": {
+      "en": "I'm rambling,"
+    },
+    "segments": [
+      {
+        "token": "Me",
+        "startTime": 673690,
+        "endTime": 674090
+      },
+      {
+        "token": "estoy",
+        "startTime": 674090,
+        "endTime": 674270
+      },
+      {
+        "token": "enrollando,",
+        "startTime": 674270,
+        "endTime": 674990
+      }
+    ]
+  },
+  {
+    "sentence_text": "¿eh? Me estoy enrollando,",
+    "translations": {
+      "en": "aren't I? I'm rambling,"
+    },
+    "segments": [
+      {
+        "token": "¿eh?",
+        "startTime": 674990,
+        "endTime": 674990
+      },
+      {
+        "token": "Me",
+        "startTime": 674990,
+        "endTime": 675150
+      },
+      {
+        "token": "estoy",
+        "startTime": 675150,
+        "endTime": 675290
+      },
+      {
+        "token": "enrollando,",
+        "startTime": 675290,
+        "endTime": 675950
+      }
+    ]
+  },
+  {
+    "sentence_text": "me estoy enrollando mucho,",
+    "translations": {
+      "en": "I'm rambling a lot,"
+    },
+    "segments": [
+      {
+        "token": "me",
+        "startTime": 675950,
+        "endTime": 676090
+      },
+      {
+        "token": "estoy",
+        "startTime": 676090,
+        "endTime": 676230
+      },
+      {
+        "token": "enrollando",
+        "startTime": 676230,
+        "endTime": 676490
+      },
+      {
+        "token": "mucho,",
+        "startTime": 676490,
+        "endTime": 677530
+      }
+    ]
+  },
+  {
+    "sentence_text": "así que lo vamos a dejar,",
+    "translations": {
+      "en": "so we'll leave it,"
+    },
+    "segments": [
+      {
+        "token": "así",
+        "startTime": 677530,
+        "endTime": 677630
+      },
+      {
+        "token": "que",
+        "startTime": 677630,
+        "endTime": 677770
+      },
+      {
+        "token": "lo",
+        "startTime": 677770,
+        "endTime": 677850
+      },
+      {
+        "token": "vamos",
+        "startTime": 677850,
+        "endTime": 677970
+      },
+      {
+        "token": "a",
+        "startTime": 677970,
+        "endTime": 678130
+      },
+      {
+        "token": "dejar,",
+        "startTime": 678130,
+        "endTime": 678930
+      }
+    ]
+  },
+  {
+    "sentence_text": "lo vamos a dejar por hoy.",
+    "translations": {
+      "en": "we'll leave it for today."
+    },
+    "segments": [
+      {
+        "token": "lo",
+        "startTime": 678930,
+        "endTime": 680110
+      },
+      {
+        "token": "vamos",
+        "startTime": 680110,
+        "endTime": 680550
+      },
+      {
+        "token": "a",
+        "startTime": 680550,
+        "endTime": 680690
+      },
+      {
+        "token": "dejar",
+        "startTime": 680690,
+        "endTime": 680690
+      },
+      {
+        "token": "por",
+        "startTime": 680690,
+        "endTime": 681070
+      },
+      {
+        "token": "hoy.",
+        "startTime": 681070,
+        "endTime": 682530
+      }
+    ]
+  }
+]
