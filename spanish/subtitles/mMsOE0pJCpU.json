@@ -1,0 +1,5244 @@
+[
+  {
+    "sentence_text": "Hoy vamos a ir al supermercado",
+    "translations": {
+      "en": "Today we're going to the supermarket"
+    },
+    "segments": [
+      {
+        "token": "Hoy",
+        "startTime": 460,
+        "endTime": 740
+      },
+      {
+        "token": "vamos",
+        "startTime": 740,
+        "endTime": 1260
+      },
+      {
+        "token": "a",
+        "startTime": 1260,
+        "endTime": 1600
+      },
+      {
+        "token": "ir",
+        "startTime": 1600,
+        "endTime": 1960
+      },
+      {
+        "token": "al",
+        "startTime": 1960,
+        "endTime": 2360
+      },
+      {
+        "token": "supermercado",
+        "startTime": 2360,
+        "endTime": 3200
+      }
+    ]
+  },
+  {
+    "sentence_text": "en México para que tengan la experiencia de qué productos hay, cómo comprar y...",
+    "translations": {
+      "en": "in Mexico so you can experience what products are available, how to shop, and..."
+    },
+    "segments": [
+      {
+        "token": "en",
+        "startTime": 3200,
+        "endTime": 3600
+      },
+      {
+        "token": "México",
+        "startTime": 3600,
+        "endTime": 4059
+      },
+      {
+        "token": "para",
+        "startTime": 4059,
+        "endTime": 4700
+      },
+      {
+        "token": "que",
+        "startTime": 4700,
+        "endTime": 4960
+      },
+      {
+        "token": "tengan",
+        "startTime": 4960,
+        "endTime": 5300
+      },
+      {
+        "token": "la",
+        "startTime": 5300,
+        "endTime": 5680
+      },
+      {
+        "token": "experiencia",
+        "startTime": 5680,
+        "endTime": 6340
+      },
+      {
+        "token": "de",
+        "startTime": 6340,
+        "endTime": 7060
+      },
+      {
+        "token": "qué",
+        "startTime": 7060,
+        "endTime": 7340
+      },
+      {
+        "token": "productos",
+        "startTime": 7340,
+        "endTime": 7760
+      },
+      {
+        "token": "hay,",
+        "startTime": 7760,
+        "endTime": 9060
+      },
+      {
+        "token": "cómo",
+        "startTime": 9060,
+        "endTime": 9200
+      },
+      {
+        "token": "comprar",
+        "startTime": 9200,
+        "endTime": 9760
+      },
+      {
+        "token": "y...",
+        "startTime": 9760,
+        "endTime": 10900
+      }
+    ]
+  },
+  {
+    "sentence_text": "¡Sí! ¡Vamos!",
+    "translations": {
+      "en": "Yes! Let's go!"
+    },
+    "segments": [
+      {
+        "token": "¡Sí!",
+        "startTime": 10900,
+        "endTime": 11540
+      },
+      {
+        "token": "¡Vamos!",
+        "startTime": 11540,
+        "endTime": 21860
+      }
+    ]
+  },
+  {
+    "sentence_text": "Estamos en la sección de las papas",
+    "translations": {
+      "en": "We're in the potato chip section"
+    },
+    "segments": [
+      {
+        "token": "Estamos",
+        "startTime": 21860,
+        "endTime": 21960
+      },
+      {
+        "token": "en",
+        "startTime": 21960,
+        "endTime": 22540
+      },
+      {
+        "token": "la",
+        "startTime": 22540,
+        "endTime": 22640
+      },
+      {
+        "token": "sección",
+        "startTime": 22640,
+        "endTime": 23080
+      },
+      {
+        "token": "de",
+        "startTime": 23080,
+        "endTime": 23260
+      },
+      {
+        "token": "las",
+        "startTime": 23260,
+        "endTime": 23560
+      },
+      {
+        "token": "papas",
+        "startTime": 23560,
+        "endTime": 25540
+      }
+    ]
+  },
+  {
+    "sentence_text": "Aquí tenemos muchísima variedad Pero yo creo que las más destacadas",
+    "translations": {
+      "en": "Here we have a huge variety, but I think the most notable"
+    },
+    "segments": [
+      {
+        "token": "Aquí",
+        "startTime": 25540,
+        "endTime": 25940
+      },
+      {
+        "token": "tenemos",
+        "startTime": 25940,
+        "endTime": 26660
+      },
+      {
+        "token": "muchísima",
+        "startTime": 26660,
+        "endTime": 27380
+      },
+      {
+        "token": "variedad",
+        "startTime": 27380,
+        "endTime": 28520
+      },
+      {
+        "token": "Pero",
+        "startTime": 28520,
+        "endTime": 28820
+      },
+      {
+        "token": "yo",
+        "startTime": 28820,
+        "endTime": 29160
+      },
+      {
+        "token": "creo",
+        "startTime": 29160,
+        "endTime": 29300
+      },
+      {
+        "token": "que",
+        "startTime": 29300,
+        "endTime": 29420
+      },
+      {
+        "token": "las",
+        "startTime": 29420,
+        "endTime": 29620
+      },
+      {
+        "token": "más",
+        "startTime": 29620,
+        "endTime": 29820
+      },
+      {
+        "token": "destacadas",
+        "startTime": 29820,
+        "endTime": 30580
+      }
+    ]
+  },
+  {
+    "sentence_text": "son estas de chicharrón Que se utilizan mucho aquí en México Con salsa valentina,",
+    "translations": {
+      "en": "are these chicharrón ones, which are very popular here in Mexico with Valentina sauce,"
+    },
+    "segments": [
+      {
+        "token": "son",
+        "startTime": 30580,
+        "endTime": 31280
+      },
+      {
+        "token": "estas",
+        "startTime": 31280,
+        "endTime": 31600
+      },
+      {
+        "token": "de",
+        "startTime": 31600,
+        "endTime": 31800
+      },
+      {
+        "token": "chicharrón",
+        "startTime": 31800,
+        "endTime": 31960
+      },
+      {
+        "token": "Que",
+        "startTime": 31960,
+        "endTime": 32980
+      },
+      {
+        "token": "se",
+        "startTime": 32980,
+        "endTime": 33200
+      },
+      {
+        "token": "utilizan",
+        "startTime": 33200,
+        "endTime": 33620
+      },
+      {
+        "token": "mucho",
+        "startTime": 33620,
+        "endTime": 34040
+      },
+      {
+        "token": "aquí",
+        "startTime": 34040,
+        "endTime": 34520
+      },
+      {
+        "token": "en",
+        "startTime": 34520,
+        "endTime": 34700
+      },
+      {
+        "token": "México",
+        "startTime": 34700,
+        "endTime": 34700
+      },
+      {
+        "token": "Con",
+        "startTime": 34700,
+        "endTime": 35580
+      },
+      {
+        "token": "salsa",
+        "startTime": 35580,
+        "endTime": 36460
+      },
+      {
+        "token": "valentina,",
+        "startTime": 36460,
+        "endTime": 37300
+      }
+    ]
+  },
+  {
+    "sentence_text": "que es un chile limón o para botanas Yo no soy tan fan,",
+    "translations": {
+      "en": "which is a chili-lime sauce, or for snacks. I'm not a huge fan,"
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 37300,
+        "endTime": 37340
+      },
+      {
+        "token": "es",
+        "startTime": 37340,
+        "endTime": 37440
+      },
+      {
+        "token": "un",
+        "startTime": 37440,
+        "endTime": 37680
+      },
+      {
+        "token": "chile",
+        "startTime": 37680,
+        "endTime": 38080
+      },
+      {
+        "token": "limón",
+        "startTime": 38080,
+        "endTime": 39060
+      },
+      {
+        "token": "o",
+        "startTime": 39060,
+        "endTime": 39420
+      },
+      {
+        "token": "para",
+        "startTime": 39420,
+        "endTime": 39600
+      },
+      {
+        "token": "botanas",
+        "startTime": 39600,
+        "endTime": 40580
+      },
+      {
+        "token": "Yo",
+        "startTime": 40580,
+        "endTime": 40780
+      },
+      {
+        "token": "no",
+        "startTime": 40780,
+        "endTime": 40960
+      },
+      {
+        "token": "soy",
+        "startTime": 40960,
+        "endTime": 41100
+      },
+      {
+        "token": "tan",
+        "startTime": 41100,
+        "endTime": 41380
+      },
+      {
+        "token": "fan,",
+        "startTime": 41380,
+        "endTime": 41860
+      }
+    ]
+  },
+  {
+    "sentence_text": "pero son famosas.",
+    "translations": {
+      "en": "but they're famous."
+    },
+    "segments": [
+      {
+        "token": "pero",
+        "startTime": 41860,
+        "endTime": 41960
+      },
+      {
+        "token": "son",
+        "startTime": 41960,
+        "endTime": 42120
+      },
+      {
+        "token": "famosas.",
+        "startTime": 42120,
+        "endTime": 43200
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y también están estos, los tostitos.",
+    "translations": {
+      "en": "And there are also these, the Tostitos."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 43200,
+        "endTime": 43380
+      },
+      {
+        "token": "también",
+        "startTime": 43380,
+        "endTime": 43780
+      },
+      {
+        "token": "están",
+        "startTime": 43780,
+        "endTime": 44060
+      },
+      {
+        "token": "estos,",
+        "startTime": 44060,
+        "endTime": 44880
+      },
+      {
+        "token": "los",
+        "startTime": 44880,
+        "endTime": 45020
+      },
+      {
+        "token": "tostitos.",
+        "startTime": 45020,
+        "endTime": 46100
+      }
+    ]
+  },
+  {
+    "sentence_text": "Se utilizan mucho para hacer papas preparadas.",
+    "translations": {
+      "en": "They're often used to make prepared potatoes."
+    },
+    "segments": [
+      {
+        "token": "Se",
+        "startTime": 46100,
+        "endTime": 46280
+      },
+      {
+        "token": "utilizan",
+        "startTime": 46280,
+        "endTime": 46760
+      },
+      {
+        "token": "mucho",
+        "startTime": 46760,
+        "endTime": 47120
+      },
+      {
+        "token": "para",
+        "startTime": 47120,
+        "endTime": 47420
+      },
+      {
+        "token": "hacer",
+        "startTime": 47420,
+        "endTime": 47660
+      },
+      {
+        "token": "papas",
+        "startTime": 47660,
+        "endTime": 48060
+      },
+      {
+        "token": "preparadas.",
+        "startTime": 48060,
+        "endTime": 49420
+      }
+    ]
+  },
+  {
+    "sentence_text": "Que le echas igual salsas, limón, clamato, que es una bebida a base de tomate.",
+    "translations": {
+      "en": "You add sauces, lime, clamato, which is a tomato-based drink."
+    },
+    "segments": [
+      {
+        "token": "Que",
+        "startTime": 49420,
+        "endTime": 49620
+      },
+      {
+        "token": "le",
+        "startTime": 49620,
+        "endTime": 50240
+      },
+      {
+        "token": "echas",
+        "startTime": 50240,
+        "endTime": 50540
+      },
+      {
+        "token": "igual",
+        "startTime": 50540,
+        "endTime": 50800
+      },
+      {
+        "token": "salsas,",
+        "startTime": 50800,
+        "endTime": 51560
+      },
+      {
+        "token": "limón,",
+        "startTime": 51560,
+        "endTime": 52180
+      },
+      {
+        "token": "clamato,",
+        "startTime": 52180,
+        "endTime": 52960
+      },
+      {
+        "token": "que",
+        "startTime": 52960,
+        "endTime": 53040
+      },
+      {
+        "token": "es",
+        "startTime": 53040,
+        "endTime": 53160
+      },
+      {
+        "token": "una",
+        "startTime": 53160,
+        "endTime": 53300
+      },
+      {
+        "token": "bebida",
+        "startTime": 53300,
+        "endTime": 53660
+      },
+      {
+        "token": "a",
+        "startTime": 53660,
+        "endTime": 53860
+      },
+      {
+        "token": "base",
+        "startTime": 53860,
+        "endTime": 53960
+      },
+      {
+        "token": "de",
+        "startTime": 53960,
+        "endTime": 54140
+      },
+      {
+        "token": "tomate.",
+        "startTime": 54140,
+        "endTime": 55180
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y son muy ricas.",
+    "translations": {
+      "en": "And they're really tasty."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 55180,
+        "endTime": 55320
+      },
+      {
+        "token": "son",
+        "startTime": 55320,
+        "endTime": 55460
+      },
+      {
+        "token": "muy",
+        "startTime": 55460,
+        "endTime": 55660
+      },
+      {
+        "token": "ricas.",
+        "startTime": 55660,
+        "endTime": 56040
+      }
+    ]
+  },
+  {
+    "sentence_text": "Yo creo que en un video voy a prepararles las papas que se llaman tostilocos,",
+    "translations": {
+      "en": "I think in a video I'll prepare the potatoes called tostilocos,"
+    },
+    "segments": [
+      {
+        "token": "Yo",
+        "startTime": 56040,
+        "endTime": 56220
+      },
+      {
+        "token": "creo",
+        "startTime": 56220,
+        "endTime": 56320
+      },
+      {
+        "token": "que",
+        "startTime": 56320,
+        "endTime": 56480
+      },
+      {
+        "token": "en",
+        "startTime": 56480,
+        "endTime": 57160
+      },
+      {
+        "token": "un",
+        "startTime": 57160,
+        "endTime": 57260
+      },
+      {
+        "token": "video",
+        "startTime": 57260,
+        "endTime": 57500
+      },
+      {
+        "token": "voy",
+        "startTime": 57500,
+        "endTime": 57820
+      },
+      {
+        "token": "a",
+        "startTime": 57820,
+        "endTime": 57900
+      },
+      {
+        "token": "prepararles",
+        "startTime": 57900,
+        "endTime": 58660
+      },
+      {
+        "token": "las",
+        "startTime": 58660,
+        "endTime": 59220
+      },
+      {
+        "token": "papas",
+        "startTime": 59220,
+        "endTime": 59660
+      },
+      {
+        "token": "que",
+        "startTime": 59660,
+        "endTime": 60160
+      },
+      {
+        "token": "se",
+        "startTime": 60160,
+        "endTime": 60280
+      },
+      {
+        "token": "llaman",
+        "startTime": 60280,
+        "endTime": 60500
+      },
+      {
+        "token": "tostilocos,",
+        "startTime": 60500,
+        "endTime": 61600
+      }
+    ]
+  },
+  {
+    "sentence_text": "que son esas.",
+    "translations": {
+      "en": "which are those."
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 61600,
+        "endTime": 61660
+      },
+      {
+        "token": "son",
+        "startTime": 61660,
+        "endTime": 61820
+      },
+      {
+        "token": "esas.",
+        "startTime": 61820,
+        "endTime": 62380
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mis favoritas son estas.",
+    "translations": {
+      "en": "My favorites are these."
+    },
+    "segments": [
+      {
+        "token": "Mis",
+        "startTime": 62380,
+        "endTime": 62600
+      },
+      {
+        "token": "favoritas",
+        "startTime": 62600,
+        "endTime": 63200
+      },
+      {
+        "token": "son",
+        "startTime": 63200,
+        "endTime": 63460
+      },
+      {
+        "token": "estas.",
+        "startTime": 63460,
+        "endTime": 68400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Chips fuego Son mis papas favoritas Hasta se me hace agua la boca",
+    "translations": {
+      "en": "Chips Fuego. They're my favorite chips. My mouth is watering just thinking about them."
+    },
+    "segments": [
+      {
+        "token": "Chips",
+        "startTime": 68400,
+        "endTime": 68680
+      },
+      {
+        "token": "fuego",
+        "startTime": 68680,
+        "endTime": 68840
+      },
+      {
+        "token": "Son",
+        "startTime": 68840,
+        "endTime": 69680
+      },
+      {
+        "token": "mis",
+        "startTime": 69680,
+        "endTime": 70220
+      },
+      {
+        "token": "papas",
+        "startTime": 70220,
+        "endTime": 70620
+      },
+      {
+        "token": "favoritas",
+        "startTime": 70620,
+        "endTime": 71160
+      },
+      {
+        "token": "Hasta",
+        "startTime": 71160,
+        "endTime": 71520
+      },
+      {
+        "token": "se",
+        "startTime": 71520,
+        "endTime": 72140
+      },
+      {
+        "token": "me",
+        "startTime": 72140,
+        "endTime": 72280
+      },
+      {
+        "token": "hace",
+        "startTime": 72280,
+        "endTime": 72540
+      },
+      {
+        "token": "agua",
+        "startTime": 72540,
+        "endTime": 73200
+      },
+      {
+        "token": "la",
+        "startTime": 73200,
+        "endTime": 73380
+      },
+      {
+        "token": "boca",
+        "startTime": 73380,
+        "endTime": 74320
+      }
+    ]
+  },
+  {
+    "sentence_text": "Tienen muchísimo chile Si no estás acostumbrado Te pican mucho Pero son deliciosas Saben aciditas,",
+    "translations": {
+      "en": "They have a ton of chili. If you're not used to it, they're really spicy. But they're delicious. They taste a bit tangy,"
+    },
+    "segments": [
+      {
+        "token": "Tienen",
+        "startTime": 74320,
+        "endTime": 75120
+      },
+      {
+        "token": "muchísimo",
+        "startTime": 75120,
+        "endTime": 75460
+      },
+      {
+        "token": "chile",
+        "startTime": 75460,
+        "endTime": 75960
+      },
+      {
+        "token": "Si",
+        "startTime": 75960,
+        "endTime": 76200
+      },
+      {
+        "token": "no",
+        "startTime": 76200,
+        "endTime": 76360
+      },
+      {
+        "token": "estás",
+        "startTime": 76360,
+        "endTime": 76540
+      },
+      {
+        "token": "acostumbrado",
+        "startTime": 76540,
+        "endTime": 77300
+      },
+      {
+        "token": "Te",
+        "startTime": 77300,
+        "endTime": 77580
+      },
+      {
+        "token": "pican",
+        "startTime": 77580,
+        "endTime": 77860
+      },
+      {
+        "token": "mucho",
+        "startTime": 77860,
+        "endTime": 78820
+      },
+      {
+        "token": "Pero",
+        "startTime": 78820,
+        "endTime": 79100
+      },
+      {
+        "token": "son",
+        "startTime": 79100,
+        "endTime": 79460
+      },
+      {
+        "token": "deliciosas",
+        "startTime": 79460,
+        "endTime": 80040
+      },
+      {
+        "token": "Saben",
+        "startTime": 80040,
+        "endTime": 80460
+      },
+      {
+        "token": "aciditas,",
+        "startTime": 80460,
+        "endTime": 81300
+      }
+    ]
+  },
+  {
+    "sentence_text": "picositas, limoncito Rico Vamos a agarrar cilantro Porque",
+    "translations": {
+      "en": "spicy, with a hint of lime. Yum. Let's grab some cilantro because"
+    },
+    "segments": [
+      {
+        "token": "picositas,",
+        "startTime": 81300,
+        "endTime": 82040
+      },
+      {
+        "token": "limoncito",
+        "startTime": 82040,
+        "endTime": 82740
+      },
+      {
+        "token": "Rico",
+        "startTime": 82740,
+        "endTime": 84820
+      },
+      {
+        "token": "Vamos",
+        "startTime": 84820,
+        "endTime": 85060
+      },
+      {
+        "token": "a",
+        "startTime": 85060,
+        "endTime": 85160
+      },
+      {
+        "token": "agarrar",
+        "startTime": 85160,
+        "endTime": 85840
+      },
+      {
+        "token": "cilantro",
+        "startTime": 85840,
+        "endTime": 86800
+      },
+      {
+        "token": "Porque",
+        "startTime": 86800,
+        "endTime": 87760
+      }
+    ]
+  },
+  {
+    "sentence_text": "es lo que le ponemos a los tacos",
+    "translations": {
+      "en": "that's what we put on tacos."
+    },
+    "segments": [
+      {
+        "token": "es",
+        "startTime": 87760,
+        "endTime": 87960
+      },
+      {
+        "token": "lo",
+        "startTime": 87960,
+        "endTime": 88040
+      },
+      {
+        "token": "que",
+        "startTime": 88040,
+        "endTime": 88140
+      },
+      {
+        "token": "le",
+        "startTime": 88140,
+        "endTime": 88280
+      },
+      {
+        "token": "ponemos",
+        "startTime": 88280,
+        "endTime": 88540
+      },
+      {
+        "token": "a",
+        "startTime": 88540,
+        "endTime": 88740
+      },
+      {
+        "token": "los",
+        "startTime": 88740,
+        "endTime": 88940
+      },
+      {
+        "token": "tacos",
+        "startTime": 88940,
+        "endTime": 89260
+      }
+    ]
+  },
+  {
+    "sentence_text": "A mí lo uso a veces para cocinar Me",
+    "translations": {
+      "en": "I sometimes use it for cooking. I"
+    },
+    "segments": [
+      {
+        "token": "A",
+        "startTime": 89260,
+        "endTime": 89580
+      },
+      {
+        "token": "mí",
+        "startTime": 89580,
+        "endTime": 89600
+      },
+      {
+        "token": "lo",
+        "startTime": 89600,
+        "endTime": 89760
+      },
+      {
+        "token": "uso",
+        "startTime": 89760,
+        "endTime": 89920
+      },
+      {
+        "token": "a",
+        "startTime": 89920,
+        "endTime": 90060
+      },
+      {
+        "token": "veces",
+        "startTime": 90060,
+        "endTime": 90160
+      },
+      {
+        "token": "para",
+        "startTime": 90160,
+        "endTime": 90580
+      },
+      {
+        "token": "cocinar",
+        "startTime": 90580,
+        "endTime": 91280
+      },
+      {
+        "token": "Me",
+        "startTime": 91280,
+        "endTime": 92300
+      }
+    ]
+  },
+  {
+    "sentence_text": "gusta ponerle al pollo y a salsas, es muy rico. ¿De qué color quieres?",
+    "translations": {
+      "en": "I like to put it on chicken and sauces, it's really tasty. What color do you want?"
+    },
+    "segments": [
+      {
+        "token": "gusta",
+        "startTime": 92300,
+        "endTime": 92620
+      },
+      {
+        "token": "ponerle",
+        "startTime": 92620,
+        "endTime": 93440
+      },
+      {
+        "token": "al",
+        "startTime": 93440,
+        "endTime": 93660
+      },
+      {
+        "token": "pollo",
+        "startTime": 93660,
+        "endTime": 94200
+      },
+      {
+        "token": "y",
+        "startTime": 94200,
+        "endTime": 94580
+      },
+      {
+        "token": "a",
+        "startTime": 94580,
+        "endTime": 94700
+      },
+      {
+        "token": "salsas,",
+        "startTime": 94700,
+        "endTime": 95960
+      },
+      {
+        "token": "es",
+        "startTime": 95960,
+        "endTime": 96080
+      },
+      {
+        "token": "muy",
+        "startTime": 96080,
+        "endTime": 96260
+      },
+      {
+        "token": "rico.",
+        "startTime": 96260,
+        "endTime": 102540
+      },
+      {
+        "token": "¿De",
+        "startTime": 102540,
+        "endTime": 102760
+      },
+      {
+        "token": "qué",
+        "startTime": 102760,
+        "endTime": 102860
+      },
+      {
+        "token": "color",
+        "startTime": 102860,
+        "endTime": 103140
+      },
+      {
+        "token": "quieres?",
+        "startTime": 103140,
+        "endTime": 103640
+      }
+    ]
+  },
+  {
+    "sentence_text": "Amarillo, naranja, rojo, verde.",
+    "translations": {
+      "en": "Yellow, orange, red, green."
+    },
+    "segments": [
+      {
+        "token": "Amarillo,",
+        "startTime": 103640,
+        "endTime": 104600
+      },
+      {
+        "token": "naranja,",
+        "startTime": 104600,
+        "endTime": 105960
+      },
+      {
+        "token": "rojo,",
+        "startTime": 105960,
+        "endTime": 106500
+      },
+      {
+        "token": "verde.",
+        "startTime": 106500,
+        "endTime": 107600
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vamos a agarrar un chile morrón,",
+    "translations": {
+      "en": "Let's grab a bell pepper,"
+    },
+    "segments": [
+      {
+        "token": "Vamos",
+        "startTime": 107600,
+        "endTime": 107760
+      },
+      {
+        "token": "a",
+        "startTime": 107760,
+        "endTime": 107820
+      },
+      {
+        "token": "agarrar",
+        "startTime": 107820,
+        "endTime": 108120
+      },
+      {
+        "token": "un",
+        "startTime": 108120,
+        "endTime": 108420
+      },
+      {
+        "token": "chile",
+        "startTime": 108420,
+        "endTime": 108680
+      },
+      {
+        "token": "morrón,",
+        "startTime": 108680,
+        "endTime": 109520
+      }
+    ]
+  },
+  {
+    "sentence_text": "que me gusta ponerle a los huevitos o a la ensalada, es rico también.",
+    "translations": {
+      "en": "which I like to put on eggs or salad, it's tasty too."
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 109520,
+        "endTime": 109820
+      },
+      {
+        "token": "me",
+        "startTime": 109820,
+        "endTime": 109940
+      },
+      {
+        "token": "gusta",
+        "startTime": 109940,
+        "endTime": 110340
+      },
+      {
+        "token": "ponerle",
+        "startTime": 110340,
+        "endTime": 110805
+      },
+      {
+        "token": "a",
+        "startTime": 110805,
+        "endTime": 110905
+      },
+      {
+        "token": "los",
+        "startTime": 110905,
+        "endTime": 111025
+      },
+      {
+        "token": "huevitos",
+        "startTime": 111025,
+        "endTime": 111805
+      },
+      {
+        "token": "o",
+        "startTime": 111805,
+        "endTime": 112245
+      },
+      {
+        "token": "a",
+        "startTime": 112245,
+        "endTime": 112345
+      },
+      {
+        "token": "la",
+        "startTime": 112345,
+        "endTime": 112445
+      },
+      {
+        "token": "ensalada,",
+        "startTime": 112445,
+        "endTime": 113865
+      },
+      {
+        "token": "es",
+        "startTime": 113865,
+        "endTime": 114045
+      },
+      {
+        "token": "rico",
+        "startTime": 114045,
+        "endTime": 114245
+      },
+      {
+        "token": "también.",
+        "startTime": 114245,
+        "endTime": 119845
+      }
+    ]
+  },
+  {
+    "sentence_text": "Estos son los más típicos, siempre hay en todos lados, que son las conchitas.",
+    "translations": {
+      "en": "These are the most typical ones, they're everywhere, which are the shell-shaped cookies."
+    },
+    "segments": [
+      {
+        "token": "Estos",
+        "startTime": 119845,
+        "endTime": 120085
+      },
+      {
+        "token": "son",
+        "startTime": 120085,
+        "endTime": 120245
+      },
+      {
+        "token": "los",
+        "startTime": 120245,
+        "endTime": 120365
+      },
+      {
+        "token": "más",
+        "startTime": 120365,
+        "endTime": 120525
+      },
+      {
+        "token": "típicos,",
+        "startTime": 120525,
+        "endTime": 121205
+      },
+      {
+        "token": "siempre",
+        "startTime": 121205,
+        "endTime": 121425
+      },
+      {
+        "token": "hay",
+        "startTime": 121425,
+        "endTime": 121825
+      },
+      {
+        "token": "en",
+        "startTime": 121825,
+        "endTime": 122105
+      },
+      {
+        "token": "todos",
+        "startTime": 122105,
+        "endTime": 122345
+      },
+      {
+        "token": "lados,",
+        "startTime": 122345,
+        "endTime": 122945
+      },
+      {
+        "token": "que",
+        "startTime": 122945,
+        "endTime": 123025
+      },
+      {
+        "token": "son",
+        "startTime": 123025,
+        "endTime": 123185
+      },
+      {
+        "token": "las",
+        "startTime": 123185,
+        "endTime": 123545
+      },
+      {
+        "token": "conchitas.",
+        "startTime": 123545,
+        "endTime": 124465
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hay de vainilla y de chocolate.",
+    "translations": {
+      "en": "There are vanilla and chocolate."
+    },
+    "segments": [
+      {
+        "token": "Hay",
+        "startTime": 124465,
+        "endTime": 124685
+      },
+      {
+        "token": "de",
+        "startTime": 124685,
+        "endTime": 124825
+      },
+      {
+        "token": "vainilla",
+        "startTime": 124825,
+        "endTime": 125405
+      },
+      {
+        "token": "y",
+        "startTime": 125405,
+        "endTime": 125605
+      },
+      {
+        "token": "de",
+        "startTime": 125605,
+        "endTime": 125745
+      },
+      {
+        "token": "chocolate.",
+        "startTime": 125745,
+        "endTime": 127405
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mis favoritas son estas de vainilla.",
+    "translations": {
+      "en": "My favorites are these vanilla ones."
+    },
+    "segments": [
+      {
+        "token": "Mis",
+        "startTime": 127405,
+        "endTime": 127605
+      },
+      {
+        "token": "favoritas",
+        "startTime": 127605,
+        "endTime": 128025
+      },
+      {
+        "token": "son",
+        "startTime": 128025,
+        "endTime": 128245
+      },
+      {
+        "token": "estas",
+        "startTime": 128245,
+        "endTime": 128485
+      },
+      {
+        "token": "de",
+        "startTime": 128485,
+        "endTime": 128665
+      },
+      {
+        "token": "vainilla.",
+        "startTime": 128665,
+        "endTime": 130305
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y fun fact, yo de chiquita me comía solo lo de arriba,",
+    "translations": {
+      "en": "And fun fact, as a kid I only ate the top part,"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 130305,
+        "endTime": 130525
+      },
+      {
+        "token": "fun",
+        "startTime": 130525,
+        "endTime": 130825
+      },
+      {
+        "token": "fact,",
+        "startTime": 130825,
+        "endTime": 131405
+      },
+      {
+        "token": "yo",
+        "startTime": 131405,
+        "endTime": 131585
+      },
+      {
+        "token": "de",
+        "startTime": 131585,
+        "endTime": 131825
+      },
+      {
+        "token": "chiquita",
+        "startTime": 131825,
+        "endTime": 132405
+      },
+      {
+        "token": "me",
+        "startTime": 132405,
+        "endTime": 132945
+      },
+      {
+        "token": "comía",
+        "startTime": 132945,
+        "endTime": 133305
+      },
+      {
+        "token": "solo",
+        "startTime": 133305,
+        "endTime": 133685
+      },
+      {
+        "token": "lo",
+        "startTime": 133685,
+        "endTime": 133945
+      },
+      {
+        "token": "de",
+        "startTime": 133945,
+        "endTime": 134065
+      },
+      {
+        "token": "arriba,",
+        "startTime": 134065,
+        "endTime": 134445
+      }
+    ]
+  },
+  {
+    "sentence_text": "lo azucarado sabor vainilla y dejaba el pan.",
+    "translations": {
+      "en": "the sugary vanilla-flavored part, and left the bread."
+    },
+    "segments": [
+      {
+        "token": "lo",
+        "startTime": 134445,
+        "endTime": 134525
+      },
+      {
+        "token": "azucarado",
+        "startTime": 134525,
+        "endTime": 135105
+      },
+      {
+        "token": "sabor",
+        "startTime": 135105,
+        "endTime": 135385
+      },
+      {
+        "token": "vainilla",
+        "startTime": 135385,
+        "endTime": 135925
+      },
+      {
+        "token": "y",
+        "startTime": 135925,
+        "endTime": 136105
+      },
+      {
+        "token": "dejaba",
+        "startTime": 136105,
+        "endTime": 136425
+      },
+      {
+        "token": "el",
+        "startTime": 136425,
+        "endTime": 136625
+      },
+      {
+        "token": "pan.",
+        "startTime": 136625,
+        "endTime": 137665
+      }
+    ]
+  },
+  {
+    "sentence_text": "porque no soy tan fan del puro pan.",
+    "translations": {
+      "en": "because I'm not a big fan of plain bread."
+    },
+    "segments": [
+      {
+        "token": "porque",
+        "startTime": 137665,
+        "endTime": 137825
+      },
+      {
+        "token": "no",
+        "startTime": 137825,
+        "endTime": 138045
+      },
+      {
+        "token": "soy",
+        "startTime": 138045,
+        "endTime": 138265
+      },
+      {
+        "token": "tan",
+        "startTime": 138265,
+        "endTime": 138505
+      },
+      {
+        "token": "fan",
+        "startTime": 138505,
+        "endTime": 138745
+      },
+      {
+        "token": "del",
+        "startTime": 138745,
+        "endTime": 139105
+      },
+      {
+        "token": "puro",
+        "startTime": 139105,
+        "endTime": 139525
+      },
+      {
+        "token": "pan.",
+        "startTime": 139525,
+        "endTime": 140885
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vean lo que encontré.",
+    "translations": {
+      "en": "Look what I found."
+    },
+    "segments": [
+      {
+        "token": "Vean",
+        "startTime": 140885,
+        "endTime": 141345
+      },
+      {
+        "token": "lo",
+        "startTime": 141345,
+        "endTime": 141645
+      },
+      {
+        "token": "que",
+        "startTime": 141645,
+        "endTime": 141865
+      },
+      {
+        "token": "encontré.",
+        "startTime": 141865,
+        "endTime": 142965
+      }
+    ]
+  },
+  {
+    "sentence_text": "Esto no me había tocado tanto verlo en un mercado normal,",
+    "translations": {
+      "en": "I haven't seen this much in a regular market,"
+    },
+    "segments": [
+      {
+        "token": "Esto",
+        "startTime": 142965,
+        "endTime": 143205
+      },
+      {
+        "token": "no",
+        "startTime": 143205,
+        "endTime": 143405
+      },
+      {
+        "token": "me",
+        "startTime": 143405,
+        "endTime": 143565
+      },
+      {
+        "token": "había",
+        "startTime": 143565,
+        "endTime": 143725
+      },
+      {
+        "token": "tocado",
+        "startTime": 143725,
+        "endTime": 144085
+      },
+      {
+        "token": "tanto",
+        "startTime": 144085,
+        "endTime": 144365
+      },
+      {
+        "token": "verlo",
+        "startTime": 144365,
+        "endTime": 144825
+      },
+      {
+        "token": "en",
+        "startTime": 144825,
+        "endTime": 144945
+      },
+      {
+        "token": "un",
+        "startTime": 144945,
+        "endTime": 145065
+      },
+      {
+        "token": "mercado",
+        "startTime": 145065,
+        "endTime": 145385
+      },
+      {
+        "token": "normal,",
+        "startTime": 145385,
+        "endTime": 146545
+      }
+    ]
+  },
+  {
+    "sentence_text": "pero son manitas de cerdo, o sea, literal, son las patitas.",
+    "translations": {
+      "en": "but these are pig's feet, literally, they're the little feet."
+    },
+    "segments": [
+      {
+        "token": "pero",
+        "startTime": 146545,
+        "endTime": 146765
+      },
+      {
+        "token": "son",
+        "startTime": 146765,
+        "endTime": 147245
+      },
+      {
+        "token": "manitas",
+        "startTime": 147245,
+        "endTime": 148425
+      },
+      {
+        "token": "de",
+        "startTime": 148425,
+        "endTime": 148985
+      },
+      {
+        "token": "cerdo,",
+        "startTime": 148985,
+        "endTime": 149625
+      },
+      {
+        "token": "o",
+        "startTime": 149625,
+        "endTime": 149645
+      },
+      {
+        "token": "sea,",
+        "startTime": 149645,
+        "endTime": 149665
+      },
+      {
+        "token": "literal,",
+        "startTime": 149665,
+        "endTime": 150345
+      },
+      {
+        "token": "son",
+        "startTime": 150345,
+        "endTime": 150465
+      },
+      {
+        "token": "las",
+        "startTime": 150465,
+        "endTime": 150705
+      },
+      {
+        "token": "patitas.",
+        "startTime": 150705,
+        "endTime": 152165
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y aquí a veces mucha gente le gusta comer eso y",
+    "translations": {
+      "en": "And here sometimes a lot of people like to eat that and"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 152165,
+        "endTime": 152285
+      },
+      {
+        "token": "aquí",
+        "startTime": 152285,
+        "endTime": 152525
+      },
+      {
+        "token": "a",
+        "startTime": 152525,
+        "endTime": 152685
+      },
+      {
+        "token": "veces",
+        "startTime": 152685,
+        "endTime": 152845
+      },
+      {
+        "token": "mucha",
+        "startTime": 152845,
+        "endTime": 153325
+      },
+      {
+        "token": "gente",
+        "startTime": 153325,
+        "endTime": 153565
+      },
+      {
+        "token": "le",
+        "startTime": 153565,
+        "endTime": 153805
+      },
+      {
+        "token": "gusta",
+        "startTime": 153805,
+        "endTime": 154025
+      },
+      {
+        "token": "comer",
+        "startTime": 154025,
+        "endTime": 154365
+      },
+      {
+        "token": "eso",
+        "startTime": 154365,
+        "endTime": 154685
+      },
+      {
+        "token": "y",
+        "startTime": 154685,
+        "endTime": 155505
+      }
+    ]
+  },
+  {
+    "sentence_text": "hacer guisados con eso en salsa verde y cosas así.",
+    "translations": {
+      "en": "make stews with it in green sauce and things like that."
+    },
+    "segments": [
+      {
+        "token": "hacer",
+        "startTime": 155505,
+        "endTime": 155685
+      },
+      {
+        "token": "guisados",
+        "startTime": 155685,
+        "endTime": 156265
+      },
+      {
+        "token": "con",
+        "startTime": 156265,
+        "endTime": 156625
+      },
+      {
+        "token": "eso",
+        "startTime": 156625,
+        "endTime": 156865
+      },
+      {
+        "token": "en",
+        "startTime": 156865,
+        "endTime": 156985
+      },
+      {
+        "token": "salsa",
+        "startTime": 156985,
+        "endTime": 157185
+      },
+      {
+        "token": "verde",
+        "startTime": 157185,
+        "endTime": 157585
+      },
+      {
+        "token": "y",
+        "startTime": 157585,
+        "endTime": 157865
+      },
+      {
+        "token": "cosas",
+        "startTime": 157865,
+        "endTime": 158105
+      },
+      {
+        "token": "así.",
+        "startTime": 158105,
+        "endTime": 158665
+      }
+    ]
+  },
+  {
+    "sentence_text": "También tienen el cuerito, este es cuerito que también se usa mucho en comidas.",
+    "translations": {
+      "en": "They also have the skin, this is skin that's also used a lot in cooking."
+    },
+    "segments": [
+      {
+        "token": "También",
+        "startTime": 158665,
+        "endTime": 158925
+      },
+      {
+        "token": "tienen",
+        "startTime": 158925,
+        "endTime": 159245
+      },
+      {
+        "token": "el",
+        "startTime": 159245,
+        "endTime": 159605
+      },
+      {
+        "token": "cuerito,",
+        "startTime": 159605,
+        "endTime": 160905
+      },
+      {
+        "token": "este",
+        "startTime": 160905,
+        "endTime": 161085
+      },
+      {
+        "token": "es",
+        "startTime": 161085,
+        "endTime": 161225
+      },
+      {
+        "token": "cuerito",
+        "startTime": 161225,
+        "endTime": 161625
+      },
+      {
+        "token": "que",
+        "startTime": 161625,
+        "endTime": 161805
+      },
+      {
+        "token": "también",
+        "startTime": 161805,
+        "endTime": 162005
+      },
+      {
+        "token": "se",
+        "startTime": 162005,
+        "endTime": 162225
+      },
+      {
+        "token": "usa",
+        "startTime": 162225,
+        "endTime": 162405
+      },
+      {
+        "token": "mucho",
+        "startTime": 162405,
+        "endTime": 162645
+      },
+      {
+        "token": "en",
+        "startTime": 162645,
+        "endTime": 162865
+      },
+      {
+        "token": "comidas.",
+        "startTime": 162865,
+        "endTime": 165045
+      }
+    ]
+  },
+  {
+    "sentence_text": "lomo de cerdo relleno eso sí creo que es un poquito más normal y",
+    "translations": {
+      "en": "stuffed pork loin, that one I think is a bit more normal and"
+    },
+    "segments": [
+      {
+        "token": "lomo",
+        "startTime": 165045,
+        "endTime": 165205
+      },
+      {
+        "token": "de",
+        "startTime": 165205,
+        "endTime": 165385
+      },
+      {
+        "token": "cerdo",
+        "startTime": 165385,
+        "endTime": 165725
+      },
+      {
+        "token": "relleno",
+        "startTime": 165725,
+        "endTime": 166245
+      },
+      {
+        "token": "eso",
+        "startTime": 166245,
+        "endTime": 166525
+      },
+      {
+        "token": "sí",
+        "startTime": 166525,
+        "endTime": 166685
+      },
+      {
+        "token": "creo",
+        "startTime": 166685,
+        "endTime": 166945
+      },
+      {
+        "token": "que",
+        "startTime": 166945,
+        "endTime": 167125
+      },
+      {
+        "token": "es",
+        "startTime": 167125,
+        "endTime": 167225
+      },
+      {
+        "token": "un",
+        "startTime": 167225,
+        "endTime": 167325
+      },
+      {
+        "token": "poquito",
+        "startTime": 167325,
+        "endTime": 167485
+      },
+      {
+        "token": "más",
+        "startTime": 167485,
+        "endTime": 167745
+      },
+      {
+        "token": "normal",
+        "startTime": 167745,
+        "endTime": 167745
+      },
+      {
+        "token": "y",
+        "startTime": 167745,
+        "endTime": 168845
+      }
+    ]
+  },
+  {
+    "sentence_text": "ya tenemos cosas más normales las alitas que son las wings que",
+    "translations": {
+      "en": "now we have more normal things, the wings, which are the wings that"
+    },
+    "segments": [
+      {
+        "token": "ya",
+        "startTime": 168845,
+        "endTime": 168965
+      },
+      {
+        "token": "tenemos",
+        "startTime": 168965,
+        "endTime": 169285
+      },
+      {
+        "token": "cosas",
+        "startTime": 169285,
+        "endTime": 169725
+      },
+      {
+        "token": "más",
+        "startTime": 169725,
+        "endTime": 169985
+      },
+      {
+        "token": "normales",
+        "startTime": 169985,
+        "endTime": 170145
+      },
+      {
+        "token": "las",
+        "startTime": 170145,
+        "endTime": 170865
+      },
+      {
+        "token": "alitas",
+        "startTime": 170865,
+        "endTime": 171265
+      },
+      {
+        "token": "que",
+        "startTime": 171265,
+        "endTime": 171605
+      },
+      {
+        "token": "son",
+        "startTime": 171605,
+        "endTime": 171745
+      },
+      {
+        "token": "las",
+        "startTime": 171745,
+        "endTime": 172065
+      },
+      {
+        "token": "wings",
+        "startTime": 172065,
+        "endTime": 172525
+      },
+      {
+        "token": "que",
+        "startTime": 172525,
+        "endTime": 174565
+      }
+    ]
+  },
+  {
+    "sentence_text": "están muy ricas el adobo",
+    "translations": {
+      "en": "are really tasty with the adobo"
+    },
+    "segments": [
+      {
+        "token": "están",
+        "startTime": 174565,
+        "endTime": 174705
+      },
+      {
+        "token": "muy",
+        "startTime": 174705,
+        "endTime": 174945
+      },
+      {
+        "token": "ricas",
+        "startTime": 174945,
+        "endTime": 175205
+      },
+      {
+        "token": "el",
+        "startTime": 175205,
+        "endTime": 175445
+      },
+      {
+        "token": "adobo",
+        "startTime": 175445,
+        "endTime": 177185
+      }
+    ]
+  },
+  {
+    "sentence_text": "y ya pechuga de pollo para hacer guisados normales o platillos más normalones",
+    "translations": {
+      "en": "and then chicken breast for making normal stews or more everyday dishes."
+    },
+    "segments": [
+      {
+        "token": "y",
+        "startTime": 177185,
+        "endTime": 177305
+      },
+      {
+        "token": "ya",
+        "startTime": 177305,
+        "endTime": 177405
+      },
+      {
+        "token": "pechuga",
+        "startTime": 177405,
+        "endTime": 177805
+      },
+      {
+        "token": "de",
+        "startTime": 177805,
+        "endTime": 177965
+      },
+      {
+        "token": "pollo",
+        "startTime": 177965,
+        "endTime": 177965
+      },
+      {
+        "token": "para",
+        "startTime": 177965,
+        "endTime": 178565
+      },
+      {
+        "token": "hacer",
+        "startTime": 178565,
+        "endTime": 178785
+      },
+      {
+        "token": "guisados",
+        "startTime": 178785,
+        "endTime": 179185
+      },
+      {
+        "token": "normales",
+        "startTime": 179185,
+        "endTime": 179365
+      },
+      {
+        "token": "o",
+        "startTime": 179365,
+        "endTime": 179965
+      },
+      {
+        "token": "platillos",
+        "startTime": 179965,
+        "endTime": 180365
+      },
+      {
+        "token": "más",
+        "startTime": 180365,
+        "endTime": 180705
+      },
+      {
+        "token": "normalones",
+        "startTime": 180705,
+        "endTime": 181505
+      }
+    ]
+  },
+  {
+    "sentence_text": "que yo creo que nos vamos a llevar una pechuga de pollo",
+    "translations": {
+      "en": "I think we're going to get a chicken breast"
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 181505,
+        "endTime": 182245
+      },
+      {
+        "token": "yo",
+        "startTime": 182245,
+        "endTime": 182325
+      },
+      {
+        "token": "creo",
+        "startTime": 182325,
+        "endTime": 182425
+      },
+      {
+        "token": "que",
+        "startTime": 182425,
+        "endTime": 182525
+      },
+      {
+        "token": "nos",
+        "startTime": 182525,
+        "endTime": 182665
+      },
+      {
+        "token": "vamos",
+        "startTime": 182665,
+        "endTime": 182765
+      },
+      {
+        "token": "a",
+        "startTime": 182765,
+        "endTime": 182885
+      },
+      {
+        "token": "llevar",
+        "startTime": 182885,
+        "endTime": 182985
+      },
+      {
+        "token": "una",
+        "startTime": 182985,
+        "endTime": 183185
+      },
+      {
+        "token": "pechuga",
+        "startTime": 183185,
+        "endTime": 183565
+      },
+      {
+        "token": "de",
+        "startTime": 183565,
+        "endTime": 184225
+      },
+      {
+        "token": "pollo",
+        "startTime": 184225,
+        "endTime": 185465
+      }
+    ]
+  },
+  {
+    "sentence_text": "estoy viendo estos para hacer tus micheladas se ve rico escarchador",
+    "translations": {
+      "en": "I'm looking at these to make your micheladas, that rim salt looks tasty"
+    },
+    "segments": [
+      {
+        "token": "estoy",
+        "startTime": 185465,
+        "endTime": 185825
+      },
+      {
+        "token": "viendo",
+        "startTime": 185825,
+        "endTime": 186065
+      },
+      {
+        "token": "estos",
+        "startTime": 186065,
+        "endTime": 186065
+      },
+      {
+        "token": "para",
+        "startTime": 186065,
+        "endTime": 187085
+      },
+      {
+        "token": "hacer",
+        "startTime": 187085,
+        "endTime": 187365
+      },
+      {
+        "token": "tus",
+        "startTime": 187365,
+        "endTime": 187585
+      },
+      {
+        "token": "micheladas",
+        "startTime": 187585,
+        "endTime": 188645
+      },
+      {
+        "token": "se",
+        "startTime": 188645,
+        "endTime": 188865
+      },
+      {
+        "token": "ve",
+        "startTime": 188865,
+        "endTime": 188965
+      },
+      {
+        "token": "rico",
+        "startTime": 188965,
+        "endTime": 188965
+      },
+      {
+        "token": "escarchador",
+        "startTime": 188965,
+        "endTime": 190905
+      }
+    ]
+  },
+  {
+    "sentence_text": "en pasta con mango Debe ser como un tipo chilito, yo creo.",
+    "translations": {
+      "en": "in paste with mango, it must be like a type of chili, I think."
+    },
+    "segments": [
+      {
+        "token": "en",
+        "startTime": 190905,
+        "endTime": 191145
+      },
+      {
+        "token": "pasta",
+        "startTime": 191145,
+        "endTime": 191425
+      },
+      {
+        "token": "con",
+        "startTime": 191425,
+        "endTime": 191765
+      },
+      {
+        "token": "mango",
+        "startTime": 191765,
+        "endTime": 192325
+      },
+      {
+        "token": "Debe",
+        "startTime": 192325,
+        "endTime": 192525
+      },
+      {
+        "token": "ser",
+        "startTime": 192525,
+        "endTime": 192685
+      },
+      {
+        "token": "como",
+        "startTime": 192685,
+        "endTime": 192945
+      },
+      {
+        "token": "un",
+        "startTime": 192945,
+        "endTime": 193025
+      },
+      {
+        "token": "tipo",
+        "startTime": 193025,
+        "endTime": 193245
+      },
+      {
+        "token": "chilito,",
+        "startTime": 193245,
+        "endTime": 194025
+      },
+      {
+        "token": "yo",
+        "startTime": 194025,
+        "endTime": 194105
+      },
+      {
+        "token": "creo.",
+        "startTime": 194105,
+        "endTime": 195785
+      }
+    ]
+  },
+  {
+    "sentence_text": "Para micheladas.",
+    "translations": {
+      "en": "For micheladas."
+    },
+    "segments": [
+      {
+        "token": "Para",
+        "startTime": 195785,
+        "endTime": 196025
+      },
+      {
+        "token": "micheladas.",
+        "startTime": 196025,
+        "endTime": 197605
+      }
+    ]
+  },
+  {
+    "sentence_text": "Que es una bebida muy típica aquí en México.",
+    "translations": {
+      "en": "Which is a very typical drink here in Mexico."
+    },
+    "segments": [
+      {
+        "token": "Que",
+        "startTime": 197605,
+        "endTime": 197785
+      },
+      {
+        "token": "es",
+        "startTime": 197785,
+        "endTime": 197945
+      },
+      {
+        "token": "una",
+        "startTime": 197945,
+        "endTime": 198085
+      },
+      {
+        "token": "bebida",
+        "startTime": 198085,
+        "endTime": 198485
+      },
+      {
+        "token": "muy",
+        "startTime": 198485,
+        "endTime": 198805
+      },
+      {
+        "token": "típica",
+        "startTime": 198805,
+        "endTime": 199285
+      },
+      {
+        "token": "aquí",
+        "startTime": 199285,
+        "endTime": 199485
+      },
+      {
+        "token": "en",
+        "startTime": 199485,
+        "endTime": 199625
+      },
+      {
+        "token": "México.",
+        "startTime": 199625,
+        "endTime": 200105
+      }
+    ]
+  },
+  {
+    "sentence_text": "A base de cerveza, chamoy, chile, limón y otras cosas.",
+    "translations": {
+      "en": "Based on beer, chamoy, chili, lime, and other things."
+    },
+    "segments": [
+      {
+        "token": "A",
+        "startTime": 200105,
+        "endTime": 200305
+      },
+      {
+        "token": "base",
+        "startTime": 200305,
+        "endTime": 200505
+      },
+      {
+        "token": "de",
+        "startTime": 200505,
+        "endTime": 200705
+      },
+      {
+        "token": "cerveza,",
+        "startTime": 200705,
+        "endTime": 201765
+      },
+      {
+        "token": "chamoy,",
+        "startTime": 201765,
+        "endTime": 202325
+      },
+      {
+        "token": "chile,",
+        "startTime": 202325,
+        "endTime": 202785
+      },
+      {
+        "token": "limón",
+        "startTime": 202785,
+        "endTime": 203005
+      },
+      {
+        "token": "y",
+        "startTime": 203005,
+        "endTime": 203245
+      },
+      {
+        "token": "otras",
+        "startTime": 203245,
+        "endTime": 203525
+      },
+      {
+        "token": "cosas.",
+        "startTime": 203525,
+        "endTime": 204525
+      }
+    ]
+  },
+  {
+    "sentence_text": "Se ve bueno.",
+    "translations": {
+      "en": "Looks good."
+    },
+    "segments": [
+      {
+        "token": "Se",
+        "startTime": 204525,
+        "endTime": 204705
+      },
+      {
+        "token": "ve",
+        "startTime": 204705,
+        "endTime": 204805
+      },
+      {
+        "token": "bueno.",
+        "startTime": 204805,
+        "endTime": 205585
+      }
+    ]
+  },
+  {
+    "sentence_text": "Como chilito.",
+    "translations": {
+      "en": "Like chili."
+    },
+    "segments": [
+      {
+        "token": "Como",
+        "startTime": 205585,
+        "endTime": 205865
+      },
+      {
+        "token": "chilito.",
+        "startTime": 205865,
+        "endTime": 207105
+      }
+    ]
+  },
+  {
+    "sentence_text": "Este es de tamarindo.",
+    "translations": {
+      "en": "This one is tamarind."
+    },
+    "segments": [
+      {
+        "token": "Este",
+        "startTime": 207105,
+        "endTime": 207345
+      },
+      {
+        "token": "es",
+        "startTime": 207345,
+        "endTime": 207445
+      },
+      {
+        "token": "de",
+        "startTime": 207445,
+        "endTime": 207585
+      },
+      {
+        "token": "tamarindo.",
+        "startTime": 207585,
+        "endTime": 209365
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hasta te venden el limón para ponerle la michelada.",
+    "translations": {
+      "en": "They even sell you the lime to make the michelada."
+    },
+    "segments": [
+      {
+        "token": "Hasta",
+        "startTime": 209365,
+        "endTime": 209585
+      },
+      {
+        "token": "te",
+        "startTime": 209585,
+        "endTime": 209745
+      },
+      {
+        "token": "venden",
+        "startTime": 209745,
+        "endTime": 209925
+      },
+      {
+        "token": "el",
+        "startTime": 209925,
+        "endTime": 210085
+      },
+      {
+        "token": "limón",
+        "startTime": 210085,
+        "endTime": 210485
+      },
+      {
+        "token": "para",
+        "startTime": 210485,
+        "endTime": 211025
+      },
+      {
+        "token": "ponerle",
+        "startTime": 211025,
+        "endTime": 211445
+      },
+      {
+        "token": "la",
+        "startTime": 211445,
+        "endTime": 211585
+      },
+      {
+        "token": "michelada.",
+        "startTime": 211585,
+        "endTime": 215005
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y esta que, mira.",
+    "translations": {
+      "en": "And this one, look."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 215005,
+        "endTime": 215185
+      },
+      {
+        "token": "esta",
+        "startTime": 215185,
+        "endTime": 215385
+      },
+      {
+        "token": "que,",
+        "startTime": 215385,
+        "endTime": 215705
+      },
+      {
+        "token": "mira.",
+        "startTime": 215705,
+        "endTime": 218405
+      }
+    ]
+  },
+  {
+    "sentence_text": "Michelista. es el vaso ya preparado para la michelada",
+    "translations": {
+      "en": "Michelista. It's the glass already prepared for the michelada"
+    },
+    "segments": [
+      {
+        "token": "Michelista.",
+        "startTime": 218405,
+        "endTime": 220065
+      },
+      {
+        "token": "es",
+        "startTime": 220065,
+        "endTime": 220205
+      },
+      {
+        "token": "el",
+        "startTime": 220205,
+        "endTime": 220405
+      },
+      {
+        "token": "vaso",
+        "startTime": 220405,
+        "endTime": 220645
+      },
+      {
+        "token": "ya",
+        "startTime": 220645,
+        "endTime": 220785
+      },
+      {
+        "token": "preparado",
+        "startTime": 220785,
+        "endTime": 221325
+      },
+      {
+        "token": "para",
+        "startTime": 221325,
+        "endTime": 221525
+      },
+      {
+        "token": "la",
+        "startTime": 221525,
+        "endTime": 221665
+      },
+      {
+        "token": "michelada",
+        "startTime": 221665,
+        "endTime": 222625
+      }
+    ]
+  },
+  {
+    "sentence_text": "le pone un chilito casi siempre alrededor para que cuando des el trago,",
+    "translations": {
+      "en": "they put a little chili almost always around it so when you take a sip,"
+    },
+    "segments": [
+      {
+        "token": "le",
+        "startTime": 222625,
+        "endTime": 222805
+      },
+      {
+        "token": "pone",
+        "startTime": 222805,
+        "endTime": 222945
+      },
+      {
+        "token": "un",
+        "startTime": 222945,
+        "endTime": 223085
+      },
+      {
+        "token": "chilito",
+        "startTime": 223085,
+        "endTime": 223385
+      },
+      {
+        "token": "casi",
+        "startTime": 223385,
+        "endTime": 223565
+      },
+      {
+        "token": "siempre",
+        "startTime": 223565,
+        "endTime": 223865
+      },
+      {
+        "token": "alrededor",
+        "startTime": 223865,
+        "endTime": 223865
+      },
+      {
+        "token": "para",
+        "startTime": 223865,
+        "endTime": 224465
+      },
+      {
+        "token": "que",
+        "startTime": 224465,
+        "endTime": 224550
+      },
+      {
+        "token": "cuando",
+        "startTime": 224550,
+        "endTime": 224730
+      },
+      {
+        "token": "des",
+        "startTime": 224730,
+        "endTime": 224910
+      },
+      {
+        "token": "el",
+        "startTime": 224910,
+        "endTime": 225090
+      },
+      {
+        "token": "trago,",
+        "startTime": 225090,
+        "endTime": 225570
+      }
+    ]
+  },
+  {
+    "sentence_text": "pues te quede el saborcito del chilito.",
+    "translations": {
+      "en": "you get that little chili flavor."
+    },
+    "segments": [
+      {
+        "token": "pues",
+        "startTime": 225570,
+        "endTime": 226150
+      },
+      {
+        "token": "te",
+        "startTime": 226150,
+        "endTime": 226330
+      },
+      {
+        "token": "quede",
+        "startTime": 226330,
+        "endTime": 226430
+      },
+      {
+        "token": "el",
+        "startTime": 226430,
+        "endTime": 226570
+      },
+      {
+        "token": "saborcito",
+        "startTime": 226570,
+        "endTime": 227090
+      },
+      {
+        "token": "del",
+        "startTime": 227090,
+        "endTime": 227210
+      },
+      {
+        "token": "chilito.",
+        "startTime": 227210,
+        "endTime": 228290
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y debe de tener ya todo aquí para nomás echarle la cerveza",
+    "translations": {
+      "en": "And it must have everything here to just add the beer"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 228290,
+        "endTime": 228430
+      },
+      {
+        "token": "debe",
+        "startTime": 228430,
+        "endTime": 228570
+      },
+      {
+        "token": "de",
+        "startTime": 228570,
+        "endTime": 228690
+      },
+      {
+        "token": "tener",
+        "startTime": 228690,
+        "endTime": 228890
+      },
+      {
+        "token": "ya",
+        "startTime": 228890,
+        "endTime": 229130
+      },
+      {
+        "token": "todo",
+        "startTime": 229130,
+        "endTime": 229430
+      },
+      {
+        "token": "aquí",
+        "startTime": 229430,
+        "endTime": 229710
+      },
+      {
+        "token": "para",
+        "startTime": 229710,
+        "endTime": 230010
+      },
+      {
+        "token": "nomás",
+        "startTime": 230010,
+        "endTime": 230350
+      },
+      {
+        "token": "echarle",
+        "startTime": 230350,
+        "endTime": 230750
+      },
+      {
+        "token": "la",
+        "startTime": 230750,
+        "endTime": 230870
+      },
+      {
+        "token": "cerveza",
+        "startTime": 230870,
+        "endTime": 231430
+      }
+    ]
+  },
+  {
+    "sentence_text": "y las salsas y el esto.",
+    "translations": {
+      "en": "and the sauces and stuff."
+    },
+    "segments": [
+      {
+        "token": "y",
+        "startTime": 231430,
+        "endTime": 231870
+      },
+      {
+        "token": "las",
+        "startTime": 231870,
+        "endTime": 232210
+      },
+      {
+        "token": "salsas",
+        "startTime": 232210,
+        "endTime": 232650
+      },
+      {
+        "token": "y",
+        "startTime": 232650,
+        "endTime": 232810
+      },
+      {
+        "token": "el",
+        "startTime": 232810,
+        "endTime": 232970
+      },
+      {
+        "token": "esto.",
+        "startTime": 232970,
+        "endTime": 236510
+      }
+    ]
+  },
+  {
+    "sentence_text": "Estamos en el pasillo de dulces deliciosos.",
+    "translations": {
+      "en": "We're in the delicious candy aisle."
+    },
+    "segments": [
+      {
+        "token": "Estamos",
+        "startTime": 236510,
+        "endTime": 236890
+      },
+      {
+        "token": "en",
+        "startTime": 236890,
+        "endTime": 237190
+      },
+      {
+        "token": "el",
+        "startTime": 237190,
+        "endTime": 237270
+      },
+      {
+        "token": "pasillo",
+        "startTime": 237270,
+        "endTime": 237950
+      },
+      {
+        "token": "de",
+        "startTime": 237950,
+        "endTime": 238310
+      },
+      {
+        "token": "dulces",
+        "startTime": 238310,
+        "endTime": 239090
+      },
+      {
+        "token": "deliciosos.",
+        "startTime": 239090,
+        "endTime": 240930
+      }
+    ]
+  },
+  {
+    "sentence_text": "Este, por ejemplo, es uno muy famoso mexicano.",
+    "translations": {
+      "en": "This one, for example, is a very famous Mexican one."
+    },
+    "segments": [
+      {
+        "token": "Este,",
+        "startTime": 240930,
+        "endTime": 241410
+      },
+      {
+        "token": "por",
+        "startTime": 241410,
+        "endTime": 241530
+      },
+      {
+        "token": "ejemplo,",
+        "startTime": 241530,
+        "endTime": 242810
+      },
+      {
+        "token": "es",
+        "startTime": 242810,
+        "endTime": 243030
+      },
+      {
+        "token": "uno",
+        "startTime": 243030,
+        "endTime": 243170
+      },
+      {
+        "token": "muy",
+        "startTime": 243170,
+        "endTime": 243430
+      },
+      {
+        "token": "famoso",
+        "startTime": 243430,
+        "endTime": 243750
+      },
+      {
+        "token": "mexicano.",
+        "startTime": 243750,
+        "endTime": 244430
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es el pulparindo.",
+    "translations": {
+      "en": "It's the pulparindo."
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 244430,
+        "endTime": 244610
+      },
+      {
+        "token": "el",
+        "startTime": 244610,
+        "endTime": 244770
+      },
+      {
+        "token": "pulparindo.",
+        "startTime": 244770,
+        "endTime": 246090
+      }
+    ]
+  },
+  {
+    "sentence_text": "Está hecho de tamarindo. y es enchiloso, dulce, es delicioso.",
+    "translations": {
+      "en": "It's made of tamarind, and it's spicy, sweet, it's delicious."
+    },
+    "segments": [
+      {
+        "token": "Está",
+        "startTime": 246090,
+        "endTime": 246350
+      },
+      {
+        "token": "hecho",
+        "startTime": 246350,
+        "endTime": 246610
+      },
+      {
+        "token": "de",
+        "startTime": 246610,
+        "endTime": 247130
+      },
+      {
+        "token": "tamarindo.",
+        "startTime": 247130,
+        "endTime": 249310
+      },
+      {
+        "token": "y",
+        "startTime": 249310,
+        "endTime": 249450
+      },
+      {
+        "token": "es",
+        "startTime": 249450,
+        "endTime": 250390
+      },
+      {
+        "token": "enchiloso,",
+        "startTime": 250390,
+        "endTime": 251390
+      },
+      {
+        "token": "dulce,",
+        "startTime": 251390,
+        "endTime": 252150
+      },
+      {
+        "token": "es",
+        "startTime": 252150,
+        "endTime": 252230
+      },
+      {
+        "token": "delicioso.",
+        "startTime": 252230,
+        "endTime": 253770
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ahí viene gente.",
+    "translations": {
+      "en": "Here come people."
+    },
+    "segments": [
+      {
+        "token": "Ahí",
+        "startTime": 253770,
+        "endTime": 253930
+      },
+      {
+        "token": "viene",
+        "startTime": 253930,
+        "endTime": 254170
+      },
+      {
+        "token": "gente.",
+        "startTime": 254170,
+        "endTime": 260130
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ahora estamos en la sección de las sodas.",
+    "translations": {
+      "en": "Now we're in the soda section."
+    },
+    "segments": [
+      {
+        "token": "Ahora",
+        "startTime": 260130,
+        "endTime": 260410
+      },
+      {
+        "token": "estamos",
+        "startTime": 260410,
+        "endTime": 260930
+      },
+      {
+        "token": "en",
+        "startTime": 260930,
+        "endTime": 261290
+      },
+      {
+        "token": "la",
+        "startTime": 261290,
+        "endTime": 261390
+      },
+      {
+        "token": "sección",
+        "startTime": 261390,
+        "endTime": 262030
+      },
+      {
+        "token": "de",
+        "startTime": 262030,
+        "endTime": 262330
+      },
+      {
+        "token": "las",
+        "startTime": 262330,
+        "endTime": 262530
+      },
+      {
+        "token": "sodas.",
+        "startTime": 262530,
+        "endTime": 263730
+      }
+    ]
+  },
+  {
+    "sentence_text": "Como pueden ver, yo creo que las que más hay es Coca-Cola y",
+    "translations": {
+      "en": "As you can see, I think the most common one is Coca-Cola and"
+    },
+    "segments": [
+      {
+        "token": "Como",
+        "startTime": 263730,
+        "endTime": 263950
+      },
+      {
+        "token": "pueden",
+        "startTime": 263950,
+        "endTime": 264290
+      },
+      {
+        "token": "ver,",
+        "startTime": 264290,
+        "endTime": 265010
+      },
+      {
+        "token": "yo",
+        "startTime": 265010,
+        "endTime": 265770
+      },
+      {
+        "token": "creo",
+        "startTime": 265770,
+        "endTime": 265890
+      },
+      {
+        "token": "que",
+        "startTime": 265890,
+        "endTime": 266030
+      },
+      {
+        "token": "las",
+        "startTime": 266030,
+        "endTime": 266290
+      },
+      {
+        "token": "que",
+        "startTime": 266290,
+        "endTime": 266510
+      },
+      {
+        "token": "más",
+        "startTime": 266510,
+        "endTime": 266670
+      },
+      {
+        "token": "hay",
+        "startTime": 266670,
+        "endTime": 267070
+      },
+      {
+        "token": "es",
+        "startTime": 267070,
+        "endTime": 267410
+      },
+      {
+        "token": "Coca-Cola",
+        "startTime": 267410,
+        "endTime": 267650
+      },
+      {
+        "token": "y",
+        "startTime": 267650,
+        "endTime": 269170
+      }
+    ]
+  },
+  {
+    "sentence_text": "eso es porque siempre el mexicano come muchísimo con Coca.",
+    "translations": {
+      "en": "that's because Mexicans always eat a lot with Coke."
+    },
+    "segments": [
+      {
+        "token": "eso",
+        "startTime": 269170,
+        "endTime": 269970
+      },
+      {
+        "token": "es",
+        "startTime": 269970,
+        "endTime": 270090
+      },
+      {
+        "token": "porque",
+        "startTime": 270090,
+        "endTime": 270390
+      },
+      {
+        "token": "siempre",
+        "startTime": 270390,
+        "endTime": 271030
+      },
+      {
+        "token": "el",
+        "startTime": 271030,
+        "endTime": 271230
+      },
+      {
+        "token": "mexicano",
+        "startTime": 271230,
+        "endTime": 271890
+      },
+      {
+        "token": "come",
+        "startTime": 271890,
+        "endTime": 272430
+      },
+      {
+        "token": "muchísimo",
+        "startTime": 272430,
+        "endTime": 273010
+      },
+      {
+        "token": "con",
+        "startTime": 273010,
+        "endTime": 273970
+      },
+      {
+        "token": "Coca.",
+        "startTime": 273970,
+        "endTime": 274570
+      }
+    ]
+  },
+  {
+    "sentence_text": "Siempre las bebidas en la mesa, no falta el refresco, sobre todo la coca.",
+    "translations": {
+      "en": "Drinks are always on the table, soda is never missing, especially Coke."
+    },
+    "segments": [
+      {
+        "token": "Siempre",
+        "startTime": 274570,
+        "endTime": 274830
+      },
+      {
+        "token": "las",
+        "startTime": 274830,
+        "endTime": 275090
+      },
+      {
+        "token": "bebidas",
+        "startTime": 275090,
+        "endTime": 275570
+      },
+      {
+        "token": "en",
+        "startTime": 275570,
+        "endTime": 276550
+      },
+      {
+        "token": "la",
+        "startTime": 276550,
+        "endTime": 276730
+      },
+      {
+        "token": "mesa,",
+        "startTime": 276730,
+        "endTime": 277450
+      },
+      {
+        "token": "no",
+        "startTime": 277450,
+        "endTime": 277550
+      },
+      {
+        "token": "falta",
+        "startTime": 277550,
+        "endTime": 277850
+      },
+      {
+        "token": "el",
+        "startTime": 277850,
+        "endTime": 278010
+      },
+      {
+        "token": "refresco,",
+        "startTime": 278010,
+        "endTime": 278910
+      },
+      {
+        "token": "sobre",
+        "startTime": 278910,
+        "endTime": 279050
+      },
+      {
+        "token": "todo",
+        "startTime": 279050,
+        "endTime": 279510
+      },
+      {
+        "token": "la",
+        "startTime": 279510,
+        "endTime": 279870
+      },
+      {
+        "token": "coca.",
+        "startTime": 279870,
+        "endTime": 281150
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y fun fact, creo que aquí en México tiene",
+    "translations": {
+      "en": "And fun fact, I think here in Mexico,"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 281150,
+        "endTime": 281590
+      },
+      {
+        "token": "fun",
+        "startTime": 281590,
+        "endTime": 282150
+      },
+      {
+        "token": "fact,",
+        "startTime": 282150,
+        "endTime": 282910
+      },
+      {
+        "token": "creo",
+        "startTime": 282910,
+        "endTime": 283310
+      },
+      {
+        "token": "que",
+        "startTime": 283310,
+        "endTime": 283670
+      },
+      {
+        "token": "aquí",
+        "startTime": 283670,
+        "endTime": 283910
+      },
+      {
+        "token": "en",
+        "startTime": 283910,
+        "endTime": 284090
+      },
+      {
+        "token": "México",
+        "startTime": 284090,
+        "endTime": 284410
+      },
+      {
+        "token": "tiene",
+        "startTime": 284410,
+        "endTime": 285590
+      }
+    ]
+  },
+  {
+    "sentence_text": "más azúcar la Coca-Cola que en otras partes del mundo.",
+    "translations": {
+      "en": "Coca-Cola has more sugar than in other parts of the world."
+    },
+    "segments": [
+      {
+        "token": "más",
+        "startTime": 285590,
+        "endTime": 285930
+      },
+      {
+        "token": "azúcar",
+        "startTime": 285930,
+        "endTime": 286430
+      },
+      {
+        "token": "la",
+        "startTime": 286430,
+        "endTime": 286990
+      },
+      {
+        "token": "Coca-Cola",
+        "startTime": 286990,
+        "endTime": 287470
+      },
+      {
+        "token": "que",
+        "startTime": 287470,
+        "endTime": 287750
+      },
+      {
+        "token": "en",
+        "startTime": 287750,
+        "endTime": 287870
+      },
+      {
+        "token": "otras",
+        "startTime": 287870,
+        "endTime": 288030
+      },
+      {
+        "token": "partes",
+        "startTime": 288030,
+        "endTime": 288430
+      },
+      {
+        "token": "del",
+        "startTime": 288430,
+        "endTime": 288830
+      },
+      {
+        "token": "mundo.",
+        "startTime": 288830,
+        "endTime": 289730
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pero sí, tiene los sellos de México de exceso de calorías y exceso de azúcar.",
+    "translations": {
+      "en": "But yes, it has Mexico's warning labels for excess calories and excess sugar."
+    },
+    "segments": [
+      {
+        "token": "Pero",
+        "startTime": 289730,
+        "endTime": 289970
+      },
+      {
+        "token": "sí,",
+        "startTime": 289970,
+        "endTime": 290250
+      },
+      {
+        "token": "tiene",
+        "startTime": 290250,
+        "endTime": 290390
+      },
+      {
+        "token": "los",
+        "startTime": 290390,
+        "endTime": 290590
+      },
+      {
+        "token": "sellos",
+        "startTime": 290590,
+        "endTime": 290870
+      },
+      {
+        "token": "de",
+        "startTime": 290870,
+        "endTime": 291010
+      },
+      {
+        "token": "México",
+        "startTime": 291010,
+        "endTime": 291350
+      },
+      {
+        "token": "de",
+        "startTime": 291350,
+        "endTime": 291630
+      },
+      {
+        "token": "exceso",
+        "startTime": 291630,
+        "endTime": 291970
+      },
+      {
+        "token": "de",
+        "startTime": 291970,
+        "endTime": 292050
+      },
+      {
+        "token": "calorías",
+        "startTime": 292050,
+        "endTime": 292450
+      },
+      {
+        "token": "y",
+        "startTime": 292450,
+        "endTime": 292610
+      },
+      {
+        "token": "exceso",
+        "startTime": 292610,
+        "endTime": 292970
+      },
+      {
+        "token": "de",
+        "startTime": 292970,
+        "endTime": 293050
+      },
+      {
+        "token": "azúcar.",
+        "startTime": 293050,
+        "endTime": 293910
+      }
+    ]
+  },
+  {
+    "sentence_text": "Contiene edu colorantes, no recomendable en niños, contiene cafeína, evitar en niños.",
+    "translations": {
+      "en": "It contains artificial colors, not recommended for children, contains caffeine, avoid in children."
+    },
+    "segments": [
+      {
+        "token": "Contiene",
+        "startTime": 293910,
+        "endTime": 294370
+      },
+      {
+        "token": "edu",
+        "startTime": 294370,
+        "endTime": 294590
+      },
+      {
+        "token": "colorantes,",
+        "startTime": 294590,
+        "endTime": 296590
+      },
+      {
+        "token": "no",
+        "startTime": 296590,
+        "endTime": 296630
+      },
+      {
+        "token": "recomendable",
+        "startTime": 296630,
+        "endTime": 297470
+      },
+      {
+        "token": "en",
+        "startTime": 297470,
+        "endTime": 297630
+      },
+      {
+        "token": "niños,",
+        "startTime": 297630,
+        "endTime": 298190
+      },
+      {
+        "token": "contiene",
+        "startTime": 298190,
+        "endTime": 298510
+      },
+      {
+        "token": "cafeína,",
+        "startTime": 298510,
+        "endTime": 299210
+      },
+      {
+        "token": "evitar",
+        "startTime": 299210,
+        "endTime": 299450
+      },
+      {
+        "token": "en",
+        "startTime": 299450,
+        "endTime": 299610
+      },
+      {
+        "token": "niños.",
+        "startTime": 299610,
+        "endTime": 300570
+      }
+    ]
+  },
+  {
+    "sentence_text": "Obvio esto les vale a las personas y los niños y adultos,",
+    "translations": {
+      "en": "Obviously people don't care, and kids and adults,"
+    },
+    "segments": [
+      {
+        "token": "Obvio",
+        "startTime": 300570,
+        "endTime": 300790
+      },
+      {
+        "token": "esto",
+        "startTime": 300790,
+        "endTime": 300990
+      },
+      {
+        "token": "les",
+        "startTime": 300990,
+        "endTime": 301190
+      },
+      {
+        "token": "vale",
+        "startTime": 301190,
+        "endTime": 301430
+      },
+      {
+        "token": "a",
+        "startTime": 301430,
+        "endTime": 301570
+      },
+      {
+        "token": "las",
+        "startTime": 301570,
+        "endTime": 301670
+      },
+      {
+        "token": "personas",
+        "startTime": 301670,
+        "endTime": 302070
+      },
+      {
+        "token": "y",
+        "startTime": 302070,
+        "endTime": 302370
+      },
+      {
+        "token": "los",
+        "startTime": 302370,
+        "endTime": 302510
+      },
+      {
+        "token": "niños",
+        "startTime": 302510,
+        "endTime": 302930
+      },
+      {
+        "token": "y",
+        "startTime": 302930,
+        "endTime": 303150
+      },
+      {
+        "token": "adultos,",
+        "startTime": 303150,
+        "endTime": 303630
+      }
+    ]
+  },
+  {
+    "sentence_text": "todo el mundo lo toma También esta es una muy popular,",
+    "translations": {
+      "en": "everyone drinks it. This one is also very popular,"
+    },
+    "segments": [
+      {
+        "token": "todo",
+        "startTime": 303630,
+        "endTime": 303750
+      },
+      {
+        "token": "el",
+        "startTime": 303750,
+        "endTime": 303850
+      },
+      {
+        "token": "mundo",
+        "startTime": 303850,
+        "endTime": 303950
+      },
+      {
+        "token": "lo",
+        "startTime": 303950,
+        "endTime": 304130
+      },
+      {
+        "token": "toma",
+        "startTime": 304130,
+        "endTime": 305810
+      },
+      {
+        "token": "También",
+        "startTime": 305810,
+        "endTime": 306310
+      },
+      {
+        "token": "esta",
+        "startTime": 306310,
+        "endTime": 306870
+      },
+      {
+        "token": "es",
+        "startTime": 306870,
+        "endTime": 307110
+      },
+      {
+        "token": "una",
+        "startTime": 307110,
+        "endTime": 307470
+      },
+      {
+        "token": "muy",
+        "startTime": 307470,
+        "endTime": 307730
+      },
+      {
+        "token": "popular,",
+        "startTime": 307730,
+        "endTime": 308430
+      }
+    ]
+  },
+  {
+    "sentence_text": "la Sprite Es yo creo siempre en",
+    "translations": {
+      "en": "Sprite. I think always at"
+    },
+    "segments": [
+      {
+        "token": "la",
+        "startTime": 308430,
+        "endTime": 308530
+      },
+      {
+        "token": "Sprite",
+        "startTime": 308530,
+        "endTime": 309770
+      },
+      {
+        "token": "Es",
+        "startTime": 309770,
+        "endTime": 310190
+      },
+      {
+        "token": "yo",
+        "startTime": 310190,
+        "endTime": 310610
+      },
+      {
+        "token": "creo",
+        "startTime": 310610,
+        "endTime": 310910
+      },
+      {
+        "token": "siempre",
+        "startTime": 310910,
+        "endTime": 311410
+      },
+      {
+        "token": "en",
+        "startTime": 311410,
+        "endTime": 312110
+      }
+    ]
+  },
+  {
+    "sentence_text": "las fiestas en donde vayas siempre vas a encontrar coca o Sprite",
+    "translations": {
+      "en": "parties wherever you go, you'll always find Coke or Sprite."
+    },
+    "segments": [
+      {
+        "token": "las",
+        "startTime": 312110,
+        "endTime": 312250
+      },
+      {
+        "token": "fiestas",
+        "startTime": 312250,
+        "endTime": 312730
+      },
+      {
+        "token": "en",
+        "startTime": 312730,
+        "endTime": 313050
+      },
+      {
+        "token": "donde",
+        "startTime": 313050,
+        "endTime": 313270
+      },
+      {
+        "token": "vayas",
+        "startTime": 313270,
+        "endTime": 313690
+      },
+      {
+        "token": "siempre",
+        "startTime": 313690,
+        "endTime": 313990
+      },
+      {
+        "token": "vas",
+        "startTime": 313990,
+        "endTime": 314310
+      },
+      {
+        "token": "a",
+        "startTime": 314310,
+        "endTime": 314410
+      },
+      {
+        "token": "encontrar",
+        "startTime": 314410,
+        "endTime": 314690
+      },
+      {
+        "token": "coca",
+        "startTime": 314690,
+        "endTime": 315190
+      },
+      {
+        "token": "o",
+        "startTime": 315190,
+        "endTime": 315470
+      },
+      {
+        "token": "Sprite",
+        "startTime": 315470,
+        "endTime": 316350
+      }
+    ]
+  },
+  {
+    "sentence_text": "Es otro refresco famoso de México Hicimos una pausa comercial para comprar aceite",
+    "translations": {
+      "en": "It's another famous soda from Mexico. We took a commercial break to buy avocado oil"
+    },
+    "segments": [
+      {
+        "token": "Es",
+        "startTime": 316350,
+        "endTime": 316570
+      },
+      {
+        "token": "otro",
+        "startTime": 316570,
+        "endTime": 316710
+      },
+      {
+        "token": "refresco",
+        "startTime": 316710,
+        "endTime": 317170
+      },
+      {
+        "token": "famoso",
+        "startTime": 317170,
+        "endTime": 317510
+      },
+      {
+        "token": "de",
+        "startTime": 317510,
+        "endTime": 317990
+      },
+      {
+        "token": "México",
+        "startTime": 317990,
+        "endTime": 318830
+      },
+      {
+        "token": "Hicimos",
+        "startTime": 318830,
+        "endTime": 319250
+      },
+      {
+        "token": "una",
+        "startTime": 319250,
+        "endTime": 319790
+      },
+      {
+        "token": "pausa",
+        "startTime": 319790,
+        "endTime": 320150
+      },
+      {
+        "token": "comercial",
+        "startTime": 320150,
+        "endTime": 320690
+      },
+      {
+        "token": "para",
+        "startTime": 320690,
+        "endTime": 321250
+      },
+      {
+        "token": "comprar",
+        "startTime": 321250,
+        "endTime": 321690
+      },
+      {
+        "token": "aceite",
+        "startTime": 321690,
+        "endTime": 322950
+      }
+    ]
+  },
+  {
+    "sentence_text": "de aguacate porque escuché que es",
+    "translations": {
+      "en": "because I heard it's"
+    },
+    "segments": [
+      {
+        "token": "de",
+        "startTime": 322950,
+        "endTime": 323350
+      },
+      {
+        "token": "aguacate",
+        "startTime": 323350,
+        "endTime": 324150
+      },
+      {
+        "token": "porque",
+        "startTime": 324150,
+        "endTime": 324630
+      },
+      {
+        "token": "escuché",
+        "startTime": 324630,
+        "endTime": 325530
+      },
+      {
+        "token": "que",
+        "startTime": 325530,
+        "endTime": 325970
+      },
+      {
+        "token": "es",
+        "startTime": 325970,
+        "endTime": 326730
+      }
+    ]
+  },
+  {
+    "sentence_text": "más saludable cocinar con este que con el de oliva,",
+    "translations": {
+      "en": "healthier to cook with this than with olive oil,"
+    },
+    "segments": [
+      {
+        "token": "más",
+        "startTime": 326730,
+        "endTime": 326970
+      },
+      {
+        "token": "saludable",
+        "startTime": 326970,
+        "endTime": 327590
+      },
+      {
+        "token": "cocinar",
+        "startTime": 327590,
+        "endTime": 328110
+      },
+      {
+        "token": "con",
+        "startTime": 328110,
+        "endTime": 328550
+      },
+      {
+        "token": "este",
+        "startTime": 328550,
+        "endTime": 328950
+      },
+      {
+        "token": "que",
+        "startTime": 328950,
+        "endTime": 329610
+      },
+      {
+        "token": "con",
+        "startTime": 329610,
+        "endTime": 329870
+      },
+      {
+        "token": "el",
+        "startTime": 329870,
+        "endTime": 330050
+      },
+      {
+        "token": "de",
+        "startTime": 330050,
+        "endTime": 330150
+      },
+      {
+        "token": "oliva,",
+        "startTime": 330150,
+        "endTime": 330950
+      }
+    ]
+  },
+  {
+    "sentence_text": "que con el de canola u otras cosas, que este es el mejor.",
+    "translations": {
+      "en": "or canola or other things, that this one is the best."
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 330950,
+        "endTime": 330970
+      },
+      {
+        "token": "con",
+        "startTime": 330970,
+        "endTime": 331190
+      },
+      {
+        "token": "el",
+        "startTime": 331190,
+        "endTime": 331470
+      },
+      {
+        "token": "de",
+        "startTime": 331470,
+        "endTime": 331710
+      },
+      {
+        "token": "canola",
+        "startTime": 331710,
+        "endTime": 332530
+      },
+      {
+        "token": "u",
+        "startTime": 332530,
+        "endTime": 332750
+      },
+      {
+        "token": "otras",
+        "startTime": 332750,
+        "endTime": 333070
+      },
+      {
+        "token": "cosas,",
+        "startTime": 333070,
+        "endTime": 334070
+      },
+      {
+        "token": "que",
+        "startTime": 334070,
+        "endTime": 334170
+      },
+      {
+        "token": "este",
+        "startTime": 334170,
+        "endTime": 334430
+      },
+      {
+        "token": "es",
+        "startTime": 334430,
+        "endTime": 334570
+      },
+      {
+        "token": "el",
+        "startTime": 334570,
+        "endTime": 334670
+      },
+      {
+        "token": "mejor.",
+        "startTime": 334670,
+        "endTime": 335270
+      }
+    ]
+  },
+  {
+    "sentence_text": "Así que vamos a probar",
+    "translations": {
+      "en": "So we're going to try it"
+    },
+    "segments": [
+      {
+        "token": "Así",
+        "startTime": 335270,
+        "endTime": 335450
+      },
+      {
+        "token": "que",
+        "startTime": 335450,
+        "endTime": 335595
+      },
+      {
+        "token": "vamos",
+        "startTime": 335595,
+        "endTime": 335795
+      },
+      {
+        "token": "a",
+        "startTime": 335795,
+        "endTime": 335955
+      },
+      {
+        "token": "probar",
+        "startTime": 335955,
+        "endTime": 338535
+      }
+    ]
+  },
+  {
+    "sentence_text": "y este es el pasillo de las salsas no puede faltar",
+    "translations": {
+      "en": "and this is the sauce aisle. You can't miss"
+    },
+    "segments": [
+      {
+        "token": "y",
+        "startTime": 338535,
+        "endTime": 338775
+      },
+      {
+        "token": "este",
+        "startTime": 338775,
+        "endTime": 339395
+      },
+      {
+        "token": "es",
+        "startTime": 339395,
+        "endTime": 339915
+      },
+      {
+        "token": "el",
+        "startTime": 339915,
+        "endTime": 340515
+      },
+      {
+        "token": "pasillo",
+        "startTime": 340515,
+        "endTime": 341375
+      },
+      {
+        "token": "de",
+        "startTime": 341375,
+        "endTime": 341575
+      },
+      {
+        "token": "las",
+        "startTime": 341575,
+        "endTime": 341975
+      },
+      {
+        "token": "salsas",
+        "startTime": 341975,
+        "endTime": 342915
+      },
+      {
+        "token": "no",
+        "startTime": 342915,
+        "endTime": 343415
+      },
+      {
+        "token": "puede",
+        "startTime": 343415,
+        "endTime": 343635
+      },
+      {
+        "token": "faltar",
+        "startTime": 343635,
+        "endTime": 344355
+      }
+    ]
+  },
+  {
+    "sentence_text": "en méxico un pasillo en el súper de",
+    "translations": {
+      "en": "in Mexico an aisle in the supermarket for"
+    },
+    "segments": [
+      {
+        "token": "en",
+        "startTime": 344355,
+        "endTime": 344655
+      },
+      {
+        "token": "méxico",
+        "startTime": 344655,
+        "endTime": 345115
+      },
+      {
+        "token": "un",
+        "startTime": 345115,
+        "endTime": 345455
+      },
+      {
+        "token": "pasillo",
+        "startTime": 345455,
+        "endTime": 345975
+      },
+      {
+        "token": "en",
+        "startTime": 345975,
+        "endTime": 346155
+      },
+      {
+        "token": "el",
+        "startTime": 346155,
+        "endTime": 346155
+      },
+      {
+        "token": "súper",
+        "startTime": 346155,
+        "endTime": 346715
+      },
+      {
+        "token": "de",
+        "startTime": 346715,
+        "endTime": 347655
+      }
+    ]
+  },
+  {
+    "sentence_text": "puras salsas o sea vean toda la variedad hay",
+    "translations": {
+      "en": "Just sauces, I mean, look at all the variety there is."
+    },
+    "segments": [
+      {
+        "token": "puras",
+        "startTime": 347655,
+        "endTime": 348075
+      },
+      {
+        "token": "salsas",
+        "startTime": 348075,
+        "endTime": 348655
+      },
+      {
+        "token": "o",
+        "startTime": 348655,
+        "endTime": 348755
+      },
+      {
+        "token": "sea",
+        "startTime": 348755,
+        "endTime": 348815
+      },
+      {
+        "token": "vean",
+        "startTime": 348815,
+        "endTime": 349135
+      },
+      {
+        "token": "toda",
+        "startTime": 349135,
+        "endTime": 349375
+      },
+      {
+        "token": "la",
+        "startTime": 349375,
+        "endTime": 349555
+      },
+      {
+        "token": "variedad",
+        "startTime": 349555,
+        "endTime": 351095
+      },
+      {
+        "token": "hay",
+        "startTime": 351095,
+        "endTime": 352675
+      }
+    ]
+  },
+  {
+    "sentence_text": "de todo tenemos muchísimos tipos de salsa o sea estos les llama salsa tlaquera,",
+    "translations": {
+      "en": "We have everything, tons of types of sauce, like these are called tlaquera sauce,"
+    },
+    "segments": [
+      {
+        "token": "de",
+        "startTime": 352675,
+        "endTime": 352835
+      },
+      {
+        "token": "todo",
+        "startTime": 352835,
+        "endTime": 353235
+      },
+      {
+        "token": "tenemos",
+        "startTime": 353235,
+        "endTime": 353735
+      },
+      {
+        "token": "muchísimos",
+        "startTime": 353735,
+        "endTime": 354895
+      },
+      {
+        "token": "tipos",
+        "startTime": 354895,
+        "endTime": 355135
+      },
+      {
+        "token": "de",
+        "startTime": 355135,
+        "endTime": 355335
+      },
+      {
+        "token": "salsa",
+        "startTime": 355335,
+        "endTime": 355655
+      },
+      {
+        "token": "o",
+        "startTime": 355655,
+        "endTime": 355835
+      },
+      {
+        "token": "sea",
+        "startTime": 355835,
+        "endTime": 355875
+      },
+      {
+        "token": "estos",
+        "startTime": 355875,
+        "endTime": 356195
+      },
+      {
+        "token": "les",
+        "startTime": 356195,
+        "endTime": 356475
+      },
+      {
+        "token": "llama",
+        "startTime": 356475,
+        "endTime": 356715
+      },
+      {
+        "token": "salsa",
+        "startTime": 356715,
+        "endTime": 357095
+      },
+      {
+        "token": "tlaquera,",
+        "startTime": 357095,
+        "endTime": 358315
+      }
+    ]
+  },
+  {
+    "sentence_text": "pero hay salsa verde es de todo tipo o sea con el tomate verde chiquito,",
+    "translations": {
+      "en": "but there's green sauce, all kinds, with the small green tomato,"
+    },
+    "segments": [
+      {
+        "token": "pero",
+        "startTime": 358315,
+        "endTime": 358335
+      },
+      {
+        "token": "hay",
+        "startTime": 358335,
+        "endTime": 358455
+      },
+      {
+        "token": "salsa",
+        "startTime": 358455,
+        "endTime": 358755
+      },
+      {
+        "token": "verde",
+        "startTime": 358755,
+        "endTime": 359195
+      },
+      {
+        "token": "es",
+        "startTime": 359195,
+        "endTime": 359775
+      },
+      {
+        "token": "de",
+        "startTime": 359775,
+        "endTime": 360375
+      },
+      {
+        "token": "todo",
+        "startTime": 360375,
+        "endTime": 360635
+      },
+      {
+        "token": "tipo",
+        "startTime": 360635,
+        "endTime": 360995
+      },
+      {
+        "token": "o",
+        "startTime": 360995,
+        "endTime": 361315
+      },
+      {
+        "token": "sea",
+        "startTime": 361315,
+        "endTime": 361335
+      },
+      {
+        "token": "con",
+        "startTime": 361335,
+        "endTime": 362675
+      },
+      {
+        "token": "el",
+        "startTime": 362675,
+        "endTime": 363055
+      },
+      {
+        "token": "tomate",
+        "startTime": 363055,
+        "endTime": 363355
+      },
+      {
+        "token": "verde",
+        "startTime": 363355,
+        "endTime": 363655
+      },
+      {
+        "token": "chiquito,",
+        "startTime": 363655,
+        "endTime": 364635
+      }
+    ]
+  },
+  {
+    "sentence_text": "chile, cebolla ajo, hay salsas",
+    "translations": {
+      "en": "chile, onion, garlic, there are red"
+    },
+    "segments": [
+      {
+        "token": "chile,",
+        "startTime": 364635,
+        "endTime": 365055
+      },
+      {
+        "token": "cebolla",
+        "startTime": 365055,
+        "endTime": 365055
+      },
+      {
+        "token": "ajo,",
+        "startTime": 365055,
+        "endTime": 366695
+      },
+      {
+        "token": "hay",
+        "startTime": 366695,
+        "endTime": 366695
+      },
+      {
+        "token": "salsas",
+        "startTime": 366695,
+        "endTime": 367635
+      }
+    ]
+  },
+  {
+    "sentence_text": "rojas que son como estas de jitomate también hay con chipotle,",
+    "translations": {
+      "en": "sauces like these made with tomato, also with chipotle,"
+    },
+    "segments": [
+      {
+        "token": "rojas",
+        "startTime": 367635,
+        "endTime": 368215
+      },
+      {
+        "token": "que",
+        "startTime": 368215,
+        "endTime": 368935
+      },
+      {
+        "token": "son",
+        "startTime": 368935,
+        "endTime": 368935
+      },
+      {
+        "token": "como",
+        "startTime": 368935,
+        "endTime": 369375
+      },
+      {
+        "token": "estas",
+        "startTime": 369375,
+        "endTime": 369775
+      },
+      {
+        "token": "de",
+        "startTime": 369775,
+        "endTime": 370135
+      },
+      {
+        "token": "jitomate",
+        "startTime": 370135,
+        "endTime": 370975
+      },
+      {
+        "token": "también",
+        "startTime": 370975,
+        "endTime": 371655
+      },
+      {
+        "token": "hay",
+        "startTime": 371655,
+        "endTime": 371975
+      },
+      {
+        "token": "con",
+        "startTime": 371975,
+        "endTime": 372155
+      },
+      {
+        "token": "chipotle,",
+        "startTime": 372155,
+        "endTime": 372815
+      }
+    ]
+  },
+  {
+    "sentence_text": "cacahuate de guacamole picante taqueras que utilizan también otro tipo de chile,",
+    "translations": {
+      "en": "peanut, spicy guacamole, taquera sauces that use another type of chile,"
+    },
+    "segments": [
+      {
+        "token": "cacahuate",
+        "startTime": 372815,
+        "endTime": 373635
+      },
+      {
+        "token": "de",
+        "startTime": 373635,
+        "endTime": 375775
+      },
+      {
+        "token": "guacamole",
+        "startTime": 375775,
+        "endTime": 376235
+      },
+      {
+        "token": "picante",
+        "startTime": 376235,
+        "endTime": 377015
+      },
+      {
+        "token": "taqueras",
+        "startTime": 377015,
+        "endTime": 377895
+      },
+      {
+        "token": "que",
+        "startTime": 377895,
+        "endTime": 378115
+      },
+      {
+        "token": "utilizan",
+        "startTime": 378115,
+        "endTime": 378515
+      },
+      {
+        "token": "también",
+        "startTime": 378515,
+        "endTime": 378755
+      },
+      {
+        "token": "otro",
+        "startTime": 378755,
+        "endTime": 378755
+      },
+      {
+        "token": "tipo",
+        "startTime": 378755,
+        "endTime": 379315
+      },
+      {
+        "token": "de",
+        "startTime": 379315,
+        "endTime": 379515
+      },
+      {
+        "token": "chile,",
+        "startTime": 379515,
+        "endTime": 380075
+      }
+    ]
+  },
+  {
+    "sentence_text": "este es el de árbol creo, pero seco aquí en México, no sé por qué,",
+    "translations": {
+      "en": "this one is árbol, I think, but dried here in Mexico, I don't know why,"
+    },
+    "segments": [
+      {
+        "token": "este",
+        "startTime": 380075,
+        "endTime": 380175
+      },
+      {
+        "token": "es",
+        "startTime": 380175,
+        "endTime": 380495
+      },
+      {
+        "token": "el",
+        "startTime": 380495,
+        "endTime": 380775
+      },
+      {
+        "token": "de",
+        "startTime": 380775,
+        "endTime": 380915
+      },
+      {
+        "token": "árbol",
+        "startTime": 380915,
+        "endTime": 380915
+      },
+      {
+        "token": "creo,",
+        "startTime": 380915,
+        "endTime": 381775
+      },
+      {
+        "token": "pero",
+        "startTime": 381775,
+        "endTime": 381895
+      },
+      {
+        "token": "seco",
+        "startTime": 381895,
+        "endTime": 381935
+      },
+      {
+        "token": "aquí",
+        "startTime": 381935,
+        "endTime": 383255
+      },
+      {
+        "token": "en",
+        "startTime": 383255,
+        "endTime": 383495
+      },
+      {
+        "token": "México,",
+        "startTime": 383495,
+        "endTime": 384515
+      },
+      {
+        "token": "no",
+        "startTime": 384515,
+        "endTime": 384615
+      },
+      {
+        "token": "sé",
+        "startTime": 384615,
+        "endTime": 384615
+      },
+      {
+        "token": "por",
+        "startTime": 384615,
+        "endTime": 385395
+      },
+      {
+        "token": "qué,",
+        "startTime": 385395,
+        "endTime": 386075
+      }
+    ]
+  },
+  {
+    "sentence_text": "pero venden leche en bolsa.",
+    "translations": {
+      "en": "but they sell milk in bags."
+    },
+    "segments": [
+      {
+        "token": "pero",
+        "startTime": 386075,
+        "endTime": 386335
+      },
+      {
+        "token": "venden",
+        "startTime": 386335,
+        "endTime": 387715
+      },
+      {
+        "token": "leche",
+        "startTime": 387715,
+        "endTime": 388015
+      },
+      {
+        "token": "en",
+        "startTime": 388015,
+        "endTime": 388435
+      },
+      {
+        "token": "bolsa.",
+        "startTime": 388435,
+        "endTime": 388875
+      }
+    ]
+  },
+  {
+    "sentence_text": "Yo creo que voy a agarrar esta que es más individual para",
+    "translations": {
+      "en": "I think I'll grab this one, it's more individual so"
+    },
+    "segments": [
+      {
+        "token": "Yo",
+        "startTime": 388875,
+        "endTime": 388895
+      },
+      {
+        "token": "creo",
+        "startTime": 388895,
+        "endTime": 388995
+      },
+      {
+        "token": "que",
+        "startTime": 388995,
+        "endTime": 389075
+      },
+      {
+        "token": "voy",
+        "startTime": 389075,
+        "endTime": 389175
+      },
+      {
+        "token": "a",
+        "startTime": 389175,
+        "endTime": 389215
+      },
+      {
+        "token": "agarrar",
+        "startTime": 389215,
+        "endTime": 389475
+      },
+      {
+        "token": "esta",
+        "startTime": 389475,
+        "endTime": 389475
+      },
+      {
+        "token": "que",
+        "startTime": 389475,
+        "endTime": 389795
+      },
+      {
+        "token": "es",
+        "startTime": 389795,
+        "endTime": 389895
+      },
+      {
+        "token": "más",
+        "startTime": 389895,
+        "endTime": 389995
+      },
+      {
+        "token": "individual",
+        "startTime": 389995,
+        "endTime": 390335
+      },
+      {
+        "token": "para",
+        "startTime": 390335,
+        "endTime": 390715
+      }
+    ]
+  },
+  {
+    "sentence_text": "que se vea mejor.",
+    "translations": {
+      "en": "it looks better."
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 390715,
+        "endTime": 390835
+      },
+      {
+        "token": "se",
+        "startTime": 390835,
+        "endTime": 390975
+      },
+      {
+        "token": "vea",
+        "startTime": 390975,
+        "endTime": 391155
+      },
+      {
+        "token": "mejor.",
+        "startTime": 391155,
+        "endTime": 392295
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vean.",
+    "translations": {
+      "en": "Look."
+    },
+    "segments": [
+      {
+        "token": "Vean.",
+        "startTime": 392295,
+        "endTime": 393855
+      }
+    ]
+  },
+  {
+    "sentence_text": "O sea, aquí adentro está la leche.",
+    "translations": {
+      "en": "I mean, the milk is in here."
+    },
+    "segments": [
+      {
+        "token": "O",
+        "startTime": 393855,
+        "endTime": 393995
+      },
+      {
+        "token": "sea,",
+        "startTime": 393995,
+        "endTime": 394235
+      },
+      {
+        "token": "aquí",
+        "startTime": 394235,
+        "endTime": 394495
+      },
+      {
+        "token": "adentro",
+        "startTime": 394495,
+        "endTime": 394875
+      },
+      {
+        "token": "está",
+        "startTime": 394875,
+        "endTime": 395795
+      },
+      {
+        "token": "la",
+        "startTime": 395795,
+        "endTime": 395955
+      },
+      {
+        "token": "leche.",
+        "startTime": 395955,
+        "endTime": 397415
+      }
+    ]
+  },
+  {
+    "sentence_text": "Qué raro, ¿no?",
+    "translations": {
+      "en": "Weird, right?"
+    },
+    "segments": [
+      {
+        "token": "Qué",
+        "startTime": 397415,
+        "endTime": 397575
+      },
+      {
+        "token": "raro,",
+        "startTime": 397575,
+        "endTime": 397955
+      },
+      {
+        "token": "¿no?",
+        "startTime": 397955,
+        "endTime": 398075
+      }
+    ]
+  },
+  {
+    "sentence_text": "No sé por qué hacen eso.",
+    "translations": {
+      "en": "I don't know why they do that."
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 398075,
+        "endTime": 398715
+      },
+      {
+        "token": "sé",
+        "startTime": 398715,
+        "endTime": 398855
+      },
+      {
+        "token": "por",
+        "startTime": 398855,
+        "endTime": 399055
+      },
+      {
+        "token": "qué",
+        "startTime": 399055,
+        "endTime": 399135
+      },
+      {
+        "token": "hacen",
+        "startTime": 399135,
+        "endTime": 399335
+      },
+      {
+        "token": "eso.",
+        "startTime": 399335,
+        "endTime": 400795
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hoy voy a hacer yo su cajera.",
+    "translations": {
+      "en": "Today I'll be your cashier."
+    },
+    "segments": [
+      {
+        "token": "Hoy",
+        "startTime": 400795,
+        "endTime": 401035
+      },
+      {
+        "token": "voy",
+        "startTime": 401035,
+        "endTime": 401275
+      },
+      {
+        "token": "a",
+        "startTime": 401275,
+        "endTime": 401415
+      },
+      {
+        "token": "hacer",
+        "startTime": 401415,
+        "endTime": 401415
+      },
+      {
+        "token": "yo",
+        "startTime": 401415,
+        "endTime": 401835
+      },
+      {
+        "token": "su",
+        "startTime": 401835,
+        "endTime": 402135
+      },
+      {
+        "token": "cajera.",
+        "startTime": 402135,
+        "endTime": 403495
+      }
+    ]
+  },
+  {
+    "sentence_text": "Así que cumplamos mis sueños con niñas.",
+    "translations": {
+      "en": "So let's fulfill my dreams with girls."
+    },
+    "segments": [
+      {
+        "token": "Así",
+        "startTime": 403495,
+        "endTime": 403735
+      },
+      {
+        "token": "que",
+        "startTime": 403735,
+        "endTime": 406035
+      },
+      {
+        "token": "cumplamos",
+        "startTime": 406035,
+        "endTime": 406595
+      },
+      {
+        "token": "mis",
+        "startTime": 406595,
+        "endTime": 406895
+      },
+      {
+        "token": "sueños",
+        "startTime": 406895,
+        "endTime": 407675
+      },
+      {
+        "token": "con",
+        "startTime": 407675,
+        "endTime": 408035
+      },
+      {
+        "token": "niñas.",
+        "startTime": 408035,
+        "endTime": 414135
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ok, falta el agua. el total",
+    "translations": {
+      "en": "Okay, still need water. The total"
+    },
+    "segments": [
+      {
+        "token": "Ok,",
+        "startTime": 414135,
+        "endTime": 414555
+      },
+      {
+        "token": "falta",
+        "startTime": 414555,
+        "endTime": 414915
+      },
+      {
+        "token": "el",
+        "startTime": 414915,
+        "endTime": 415455
+      },
+      {
+        "token": "agua.",
+        "startTime": 415455,
+        "endTime": 416955
+      },
+      {
+        "token": "el",
+        "startTime": 416955,
+        "endTime": 418175
+      },
+      {
+        "token": "total",
+        "startTime": 418175,
+        "endTime": 426235
+      }
+    ]
+  },
+  {
+    "sentence_text": "es el total es 74 pesos tienes tu tarjeta listo,",
+    "translations": {
+      "en": "is 74 pesos, do you have your card? Ready,"
+    },
+    "segments": [
+      {
+        "token": "es",
+        "startTime": 426235,
+        "endTime": 426535
+      },
+      {
+        "token": "el",
+        "startTime": 426535,
+        "endTime": 428075
+      },
+      {
+        "token": "total",
+        "startTime": 428075,
+        "endTime": 431055
+      },
+      {
+        "token": "es",
+        "startTime": 431055,
+        "endTime": 431615
+      },
+      {
+        "token": "74",
+        "startTime": 431615,
+        "endTime": 432215
+      },
+      {
+        "token": "pesos",
+        "startTime": 432215,
+        "endTime": 434855
+      },
+      {
+        "token": "tienes",
+        "startTime": 434855,
+        "endTime": 435975
+      },
+      {
+        "token": "tu",
+        "startTime": 435975,
+        "endTime": 436415
+      },
+      {
+        "token": "tarjeta",
+        "startTime": 436415,
+        "endTime": 439755
+      },
+      {
+        "token": "listo,",
+        "startTime": 439755,
+        "endTime": 440455
+      }
+    ]
+  },
+  {
+    "sentence_text": "tienes un ticket y hasta luego vamos Gracias por ver el video.",
+    "translations": {
+      "en": "you have a receipt, and see you later. Let's go. Thanks for watching the video."
+    },
+    "segments": [
+      {
+        "token": "tienes",
+        "startTime": 440455,
+        "endTime": 440835
+      },
+      {
+        "token": "un",
+        "startTime": 440835,
+        "endTime": 441075
+      },
+      {
+        "token": "ticket",
+        "startTime": 441075,
+        "endTime": 441075
+      },
+      {
+        "token": "y",
+        "startTime": 441075,
+        "endTime": 441895
+      },
+      {
+        "token": "hasta",
+        "startTime": 441895,
+        "endTime": 442315
+      },
+      {
+        "token": "luego",
+        "startTime": 442315,
+        "endTime": 442315
+      },
+      {
+        "token": "vamos",
+        "startTime": 442315,
+        "endTime": 446975
+      },
+      {
+        "token": "Gracias",
+        "startTime": 446975,
+        "endTime": 448355
+      },
+      {
+        "token": "por",
+        "startTime": 448355,
+        "endTime": 448375
+      },
+      {
+        "token": "ver",
+        "startTime": 448375,
+        "endTime": 448395
+      },
+      {
+        "token": "el",
+        "startTime": 448395,
+        "endTime": 448415
+      },
+      {
+        "token": "video.",
+        "startTime": 448415,
+        "endTime": 448435
+      }
+    ]
+  }
+]
