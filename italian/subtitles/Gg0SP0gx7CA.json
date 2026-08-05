@@ -1,0 +1,8170 @@
+[
+  {
+    "sentence_text": "Ciao a tutti e bentornati in un nuovo video di Comprehensible Input.",
+    "translations": {
+      "en": "Hello everyone and welcome back to a new Comprehensible Input video."
+    },
+    "segments": [
+      {
+        "token": "Ciao",
+        "startTime": 0,
+        "endTime": 200
+      },
+      {
+        "token": "a",
+        "startTime": 200,
+        "endTime": 380
+      },
+      {
+        "token": "tutti",
+        "startTime": 380,
+        "endTime": 520
+      },
+      {
+        "token": "e",
+        "startTime": 520,
+        "endTime": 660
+      },
+      {
+        "token": "bentornati",
+        "startTime": 660,
+        "endTime": 1260
+      },
+      {
+        "token": "in",
+        "startTime": 1260,
+        "endTime": 1440
+      },
+      {
+        "token": "un",
+        "startTime": 1440,
+        "endTime": 1540
+      },
+      {
+        "token": "nuovo",
+        "startTime": 1540,
+        "endTime": 1700
+      },
+      {
+        "token": "video",
+        "startTime": 1700,
+        "endTime": 2040
+      },
+      {
+        "token": "di",
+        "startTime": 2040,
+        "endTime": 2220
+      },
+      {
+        "token": "Comprehensible",
+        "startTime": 2220,
+        "endTime": 2860
+      },
+      {
+        "token": "Input.",
+        "startTime": 2860,
+        "endTime": 3700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Se non l'avete visto, ho già fatto un video di questo tipo,",
+    "translations": {
+      "en": "If you haven't seen it, I've already made a video of this type,"
+    },
+    "segments": [
+      {
+        "token": "Se",
+        "startTime": 3700,
+        "endTime": 3820
+      },
+      {
+        "token": "non",
+        "startTime": 3820,
+        "endTime": 3960
+      },
+      {
+        "token": "l'avete",
+        "startTime": 3960,
+        "endTime": 4240
+      },
+      {
+        "token": "visto,",
+        "startTime": 4240,
+        "endTime": 4700
+      },
+      {
+        "token": "ho",
+        "startTime": 4700,
+        "endTime": 5120
+      },
+      {
+        "token": "già",
+        "startTime": 5120,
+        "endTime": 5200
+      },
+      {
+        "token": "fatto",
+        "startTime": 5200,
+        "endTime": 5520
+      },
+      {
+        "token": "un",
+        "startTime": 5520,
+        "endTime": 5680
+      },
+      {
+        "token": "video",
+        "startTime": 5680,
+        "endTime": 5860
+      },
+      {
+        "token": "di",
+        "startTime": 5860,
+        "endTime": 6000
+      },
+      {
+        "token": "questo",
+        "startTime": 6000,
+        "endTime": 6240
+      },
+      {
+        "token": "tipo,",
+        "startTime": 6240,
+        "endTime": 6780
+      }
+    ]
+  },
+  {
+    "sentence_text": "lo potete trovare qui.",
+    "translations": {
+      "en": "you can find it here."
+    },
+    "segments": [
+      {
+        "token": "lo",
+        "startTime": 6780,
+        "endTime": 6860
+      },
+      {
+        "token": "potete",
+        "startTime": 6860,
+        "endTime": 7180
+      },
+      {
+        "token": "trovare",
+        "startTime": 7180,
+        "endTime": 7540
+      },
+      {
+        "token": "qui.",
+        "startTime": 7540,
+        "endTime": 7960
+      }
+    ]
+  },
+  {
+    "sentence_text": "Siamo andati in spiaggia.",
+    "translations": {
+      "en": "We went to the beach."
+    },
+    "segments": [
+      {
+        "token": "Siamo",
+        "startTime": 7960,
+        "endTime": 8280
+      },
+      {
+        "token": "andati",
+        "startTime": 8280,
+        "endTime": 8560
+      },
+      {
+        "token": "in",
+        "startTime": 8560,
+        "endTime": 8680
+      },
+      {
+        "token": "spiaggia.",
+        "startTime": 8680,
+        "endTime": 9360
+      }
+    ]
+  },
+  {
+    "sentence_text": "Che cos'è il Comprehensible Input?",
+    "translations": {
+      "en": "What is Comprehensible Input?"
+    },
+    "segments": [
+      {
+        "token": "Che",
+        "startTime": 9360,
+        "endTime": 9540
+      },
+      {
+        "token": "cos'è",
+        "startTime": 9540,
+        "endTime": 9860
+      },
+      {
+        "token": "il",
+        "startTime": 9860,
+        "endTime": 9960
+      },
+      {
+        "token": "Comprehensible",
+        "startTime": 9960,
+        "endTime": 10640
+      },
+      {
+        "token": "Input?",
+        "startTime": 10640,
+        "endTime": 11820
+      }
+    ]
+  },
+  {
+    "sentence_text": "È un modo di imparare una lingua attraverso delle immagini, dei gesti, delle foto.",
+    "translations": {
+      "en": "It's a way of learning a language through images, gestures, and photos."
+    },
+    "segments": [
+      {
+        "token": "È",
+        "startTime": 11820,
+        "endTime": 11920
+      },
+      {
+        "token": "un",
+        "startTime": 11920,
+        "endTime": 12220
+      },
+      {
+        "token": "modo",
+        "startTime": 12220,
+        "endTime": 12500
+      },
+      {
+        "token": "di",
+        "startTime": 12500,
+        "endTime": 12700
+      },
+      {
+        "token": "imparare",
+        "startTime": 12700,
+        "endTime": 13080
+      },
+      {
+        "token": "una",
+        "startTime": 13080,
+        "endTime": 13280
+      },
+      {
+        "token": "lingua",
+        "startTime": 13280,
+        "endTime": 13800
+      },
+      {
+        "token": "attraverso",
+        "startTime": 13800,
+        "endTime": 14800
+      },
+      {
+        "token": "delle",
+        "startTime": 14800,
+        "endTime": 15240
+      },
+      {
+        "token": "immagini,",
+        "startTime": 15240,
+        "endTime": 16000
+      },
+      {
+        "token": "dei",
+        "startTime": 16000,
+        "endTime": 16460
+      },
+      {
+        "token": "gesti,",
+        "startTime": 16460,
+        "endTime": 17520
+      },
+      {
+        "token": "delle",
+        "startTime": 17520,
+        "endTime": 17760
+      },
+      {
+        "token": "foto.",
+        "startTime": 17760,
+        "endTime": 18480
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quindi io oggi vi insegnerò delle nuove parole portandovi",
+    "translations": {
+      "en": "So today I will teach you some new words by taking you"
+    },
+    "segments": [
+      {
+        "token": "Quindi",
+        "startTime": 18480,
+        "endTime": 18720
+      },
+      {
+        "token": "io",
+        "startTime": 18720,
+        "endTime": 19120
+      },
+      {
+        "token": "oggi",
+        "startTime": 19120,
+        "endTime": 19820
+      },
+      {
+        "token": "vi",
+        "startTime": 19820,
+        "endTime": 20400
+      },
+      {
+        "token": "insegnerò",
+        "startTime": 20400,
+        "endTime": 21180
+      },
+      {
+        "token": "delle",
+        "startTime": 21180,
+        "endTime": 21500
+      },
+      {
+        "token": "nuove",
+        "startTime": 21500,
+        "endTime": 21680
+      },
+      {
+        "token": "parole",
+        "startTime": 21680,
+        "endTime": 21980
+      },
+      {
+        "token": "portandovi",
+        "startTime": 21980,
+        "endTime": 23580
+      }
+    ]
+  },
+  {
+    "sentence_text": "in giro qui nel centro di Malaga.",
+    "translations": {
+      "en": "around here in the center of Malaga."
+    },
+    "segments": [
+      {
+        "token": "in",
+        "startTime": 23580,
+        "endTime": 23880
+      },
+      {
+        "token": "giro",
+        "startTime": 23880,
+        "endTime": 24160
+      },
+      {
+        "token": "qui",
+        "startTime": 24160,
+        "endTime": 24600
+      },
+      {
+        "token": "nel",
+        "startTime": 24600,
+        "endTime": 25080
+      },
+      {
+        "token": "centro",
+        "startTime": 25080,
+        "endTime": 25540
+      },
+      {
+        "token": "di",
+        "startTime": 25540,
+        "endTime": 25720
+      },
+      {
+        "token": "Malaga.",
+        "startTime": 25720,
+        "endTime": 26960
+      }
+    ]
+  },
+  {
+    "sentence_text": "impareremo in particolare delle parole relative alla strada quindi ci focalizzeremo",
+    "translations": {
+      "en": "We will especially learn words related to the street, so we'll focus"
+    },
+    "segments": [
+      {
+        "token": "impareremo",
+        "startTime": 26960,
+        "endTime": 27480
+      },
+      {
+        "token": "in",
+        "startTime": 27480,
+        "endTime": 27600
+      },
+      {
+        "token": "particolare",
+        "startTime": 27600,
+        "endTime": 28200
+      },
+      {
+        "token": "delle",
+        "startTime": 28200,
+        "endTime": 28540
+      },
+      {
+        "token": "parole",
+        "startTime": 28540,
+        "endTime": 28860
+      },
+      {
+        "token": "relative",
+        "startTime": 28860,
+        "endTime": 29640
+      },
+      {
+        "token": "alla",
+        "startTime": 29640,
+        "endTime": 30060
+      },
+      {
+        "token": "strada",
+        "startTime": 30060,
+        "endTime": 30680
+      },
+      {
+        "token": "quindi",
+        "startTime": 30680,
+        "endTime": 31280
+      },
+      {
+        "token": "ci",
+        "startTime": 31280,
+        "endTime": 31520
+      },
+      {
+        "token": "focalizzeremo",
+        "startTime": 31520,
+        "endTime": 32340
+      }
+    ]
+  },
+  {
+    "sentence_text": "soprattutto su quelle parole anche",
+    "translations": {
+      "en": "mainly on those words,"
+    },
+    "segments": [
+      {
+        "token": "soprattutto",
+        "startTime": 32340,
+        "endTime": 32400
+      },
+      {
+        "token": "su",
+        "startTime": 32400,
+        "endTime": 33100
+      },
+      {
+        "token": "quelle",
+        "startTime": 33100,
+        "endTime": 33340
+      },
+      {
+        "token": "parole",
+        "startTime": 33340,
+        "endTime": 33680
+      },
+      {
+        "token": "anche",
+        "startTime": 33680,
+        "endTime": 34480
+      }
+    ]
+  },
+  {
+    "sentence_text": "se in realtà ce ne sono molte altre ma farò",
+    "translations": {
+      "en": "although there are actually many others, but I will"
+    },
+    "segments": [
+      {
+        "token": "se",
+        "startTime": 34480,
+        "endTime": 34700
+      },
+      {
+        "token": "in",
+        "startTime": 34700,
+        "endTime": 34920
+      },
+      {
+        "token": "realtà",
+        "startTime": 34920,
+        "endTime": 35200
+      },
+      {
+        "token": "ce",
+        "startTime": 35200,
+        "endTime": 35540
+      },
+      {
+        "token": "ne",
+        "startTime": 35540,
+        "endTime": 35620
+      },
+      {
+        "token": "sono",
+        "startTime": 35620,
+        "endTime": 35820
+      },
+      {
+        "token": "molte",
+        "startTime": 35820,
+        "endTime": 36180
+      },
+      {
+        "token": "altre",
+        "startTime": 36180,
+        "endTime": 36600
+      },
+      {
+        "token": "ma",
+        "startTime": 36600,
+        "endTime": 37220
+      },
+      {
+        "token": "farò",
+        "startTime": 37220,
+        "endTime": 37640
+      }
+    ]
+  },
+  {
+    "sentence_text": "molti altri video di questo tipo adesso",
+    "translations": {
+      "en": "make many more videos of this type. Now"
+    },
+    "segments": [
+      {
+        "token": "molti",
+        "startTime": 37640,
+        "endTime": 37980
+      },
+      {
+        "token": "altri",
+        "startTime": 37980,
+        "endTime": 38220
+      },
+      {
+        "token": "video",
+        "startTime": 38220,
+        "endTime": 38460
+      },
+      {
+        "token": "di",
+        "startTime": 38460,
+        "endTime": 38640
+      },
+      {
+        "token": "questo",
+        "startTime": 38640,
+        "endTime": 38640
+      },
+      {
+        "token": "tipo",
+        "startTime": 38640,
+        "endTime": 39160
+      },
+      {
+        "token": "adesso",
+        "startTime": 39160,
+        "endTime": 39920
+      }
+    ]
+  },
+  {
+    "sentence_text": "vi mostrerò le parole che noi impareremo e voi fate attenzione perché nel corso",
+    "translations": {
+      "en": "I'll show you the words we will learn, and you pay attention because during"
+    },
+    "segments": [
+      {
+        "token": "vi",
+        "startTime": 39920,
+        "endTime": 40140
+      },
+      {
+        "token": "mostrerò",
+        "startTime": 40140,
+        "endTime": 40580
+      },
+      {
+        "token": "le",
+        "startTime": 40580,
+        "endTime": 40820
+      },
+      {
+        "token": "parole",
+        "startTime": 40820,
+        "endTime": 41320
+      },
+      {
+        "token": "che",
+        "startTime": 41320,
+        "endTime": 41660
+      },
+      {
+        "token": "noi",
+        "startTime": 41660,
+        "endTime": 41820
+      },
+      {
+        "token": "impareremo",
+        "startTime": 41820,
+        "endTime": 42560
+      },
+      {
+        "token": "e",
+        "startTime": 42560,
+        "endTime": 43000
+      },
+      {
+        "token": "voi",
+        "startTime": 43000,
+        "endTime": 43180
+      },
+      {
+        "token": "fate",
+        "startTime": 43180,
+        "endTime": 43500
+      },
+      {
+        "token": "attenzione",
+        "startTime": 43500,
+        "endTime": 44080
+      },
+      {
+        "token": "perché",
+        "startTime": 44080,
+        "endTime": 44500
+      },
+      {
+        "token": "nel",
+        "startTime": 44500,
+        "endTime": 44500
+      },
+      {
+        "token": "corso",
+        "startTime": 44500,
+        "endTime": 45220
+      }
+    ]
+  },
+  {
+    "sentence_text": "del video ovviamente le sentirete dunque se siete pronti per iniziare cominciamo",
+    "translations": {
+      "en": "the video you will obviously hear them, so if you're ready to start, let's begin."
+    },
+    "segments": [
+      {
+        "token": "del",
+        "startTime": 45220,
+        "endTime": 45400
+      },
+      {
+        "token": "video",
+        "startTime": 45400,
+        "endTime": 45760
+      },
+      {
+        "token": "ovviamente",
+        "startTime": 45760,
+        "endTime": 46420
+      },
+      {
+        "token": "le",
+        "startTime": 46420,
+        "endTime": 46600
+      },
+      {
+        "token": "sentirete",
+        "startTime": 46600,
+        "endTime": 47240
+      },
+      {
+        "token": "dunque",
+        "startTime": 47240,
+        "endTime": 47820
+      },
+      {
+        "token": "se",
+        "startTime": 47820,
+        "endTime": 48000
+      },
+      {
+        "token": "siete",
+        "startTime": 48000,
+        "endTime": 48160
+      },
+      {
+        "token": "pronti",
+        "startTime": 48160,
+        "endTime": 48420
+      },
+      {
+        "token": "per",
+        "startTime": 48420,
+        "endTime": 48580
+      },
+      {
+        "token": "iniziare",
+        "startTime": 48580,
+        "endTime": 48980
+      },
+      {
+        "token": "cominciamo",
+        "startTime": 48980,
+        "endTime": 49700
+      }
+    ]
+  },
+  {
+    "sentence_text": "anche se non sembra sono nel centro città di Malaga.",
+    "translations": {
+      "en": "Even though it doesn't look like it, I'm in the city center of Malaga."
+    },
+    "segments": [
+      {
+        "token": "anche",
+        "startTime": 49700,
+        "endTime": 50140
+      },
+      {
+        "token": "se",
+        "startTime": 50140,
+        "endTime": 50280
+      },
+      {
+        "token": "non",
+        "startTime": 50280,
+        "endTime": 50440
+      },
+      {
+        "token": "sembra",
+        "startTime": 50440,
+        "endTime": 51060
+      },
+      {
+        "token": "sono",
+        "startTime": 51060,
+        "endTime": 51440
+      },
+      {
+        "token": "nel",
+        "startTime": 51440,
+        "endTime": 51780
+      },
+      {
+        "token": "centro",
+        "startTime": 51780,
+        "endTime": 52300
+      },
+      {
+        "token": "città",
+        "startTime": 52300,
+        "endTime": 52780
+      },
+      {
+        "token": "di",
+        "startTime": 52780,
+        "endTime": 53020
+      },
+      {
+        "token": "Malaga.",
+        "startTime": 53020,
+        "endTime": 53760
+      }
+    ]
+  },
+  {
+    "sentence_text": "Come vedete adesso sono seduta, seduta, essere in piedi, e questo è essere seduti.",
+    "translations": {
+      "en": "As you can see, I'm now sitting, sitting, to be standing, and this is being seated."
+    },
+    "segments": [
+      {
+        "token": "Come",
+        "startTime": 53760,
+        "endTime": 54300
+      },
+      {
+        "token": "vedete",
+        "startTime": 54300,
+        "endTime": 54720
+      },
+      {
+        "token": "adesso",
+        "startTime": 54720,
+        "endTime": 55260
+      },
+      {
+        "token": "sono",
+        "startTime": 55260,
+        "endTime": 55620
+      },
+      {
+        "token": "seduta,",
+        "startTime": 55620,
+        "endTime": 56580
+      },
+      {
+        "token": "seduta,",
+        "startTime": 56580,
+        "endTime": 57840
+      },
+      {
+        "token": "essere",
+        "startTime": 57840,
+        "endTime": 58180
+      },
+      {
+        "token": "in",
+        "startTime": 58180,
+        "endTime": 58400
+      },
+      {
+        "token": "piedi,",
+        "startTime": 58400,
+        "endTime": 58400
+      },
+      {
+        "token": "e",
+        "startTime": 58400,
+        "endTime": 59160
+      },
+      {
+        "token": "questo",
+        "startTime": 59160,
+        "endTime": 59440
+      },
+      {
+        "token": "è",
+        "startTime": 59440,
+        "endTime": 59680
+      },
+      {
+        "token": "essere",
+        "startTime": 59680,
+        "endTime": 60160
+      },
+      {
+        "token": "seduti.",
+        "startTime": 60160,
+        "endTime": 61120
+      }
+    ]
+  },
+  {
+    "sentence_text": "Questa è una panchina di legno.",
+    "translations": {
+      "en": "This is a wooden bench."
+    },
+    "segments": [
+      {
+        "token": "Questa",
+        "startTime": 61120,
+        "endTime": 61760
+      },
+      {
+        "token": "è",
+        "startTime": 61760,
+        "endTime": 62520
+      },
+      {
+        "token": "una",
+        "startTime": 62520,
+        "endTime": 62740
+      },
+      {
+        "token": "panchina",
+        "startTime": 62740,
+        "endTime": 63240
+      },
+      {
+        "token": "di",
+        "startTime": 63240,
+        "endTime": 63560
+      },
+      {
+        "token": "legno.",
+        "startTime": 63560,
+        "endTime": 64239
+      }
+    ]
+  },
+  {
+    "sentence_text": "Adesso io mi alzo e ci addentriamo",
+    "translations": {
+      "en": "Now I get up and we head"
+    },
+    "segments": [
+      {
+        "token": "Adesso",
+        "startTime": 64239,
+        "endTime": 65340
+      },
+      {
+        "token": "io",
+        "startTime": 65340,
+        "endTime": 65640
+      },
+      {
+        "token": "mi",
+        "startTime": 65640,
+        "endTime": 66340
+      },
+      {
+        "token": "alzo",
+        "startTime": 66340,
+        "endTime": 66800
+      },
+      {
+        "token": "e",
+        "startTime": 66800,
+        "endTime": 68200
+      },
+      {
+        "token": "ci",
+        "startTime": 68200,
+        "endTime": 68600
+      },
+      {
+        "token": "addentriamo",
+        "startTime": 68600,
+        "endTime": 70020
+      }
+    ]
+  },
+  {
+    "sentence_text": "nel centro dove vi mostro un po' di cose più relative alla strada.",
+    "translations": {
+      "en": "into the center where I show you some things more related to the street."
+    },
+    "segments": [
+      {
+        "token": "nel",
+        "startTime": 70020,
+        "endTime": 70600
+      },
+      {
+        "token": "centro",
+        "startTime": 70600,
+        "endTime": 71260
+      },
+      {
+        "token": "dove",
+        "startTime": 71260,
+        "endTime": 71620
+      },
+      {
+        "token": "vi",
+        "startTime": 71620,
+        "endTime": 71840
+      },
+      {
+        "token": "mostro",
+        "startTime": 71840,
+        "endTime": 72240
+      },
+      {
+        "token": "un",
+        "startTime": 72240,
+        "endTime": 72380
+      },
+      {
+        "token": "po'",
+        "startTime": 72380,
+        "endTime": 72520
+      },
+      {
+        "token": "di",
+        "startTime": 72520,
+        "endTime": 72640
+      },
+      {
+        "token": "cose",
+        "startTime": 72640,
+        "endTime": 73100
+      },
+      {
+        "token": "più",
+        "startTime": 73100,
+        "endTime": 73500
+      },
+      {
+        "token": "relative",
+        "startTime": 73500,
+        "endTime": 74240
+      },
+      {
+        "token": "alla",
+        "startTime": 74240,
+        "endTime": 74700
+      },
+      {
+        "token": "strada.",
+        "startTime": 74700,
+        "endTime": 75400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Per esempio qui se vedete, anche se non si capisce bene ma abbiamo un lampione.",
+    "translations": {
+      "en": "For example, here if you see, even though you can't tell clearly, we have a street lamp."
+    },
+    "segments": [
+      {
+        "token": "Per",
+        "startTime": 75400,
+        "endTime": 75860
+      },
+      {
+        "token": "esempio",
+        "startTime": 75860,
+        "endTime": 76260
+      },
+      {
+        "token": "qui",
+        "startTime": 76260,
+        "endTime": 76700
+      },
+      {
+        "token": "se",
+        "startTime": 76700,
+        "endTime": 77360
+      },
+      {
+        "token": "vedete,",
+        "startTime": 77360,
+        "endTime": 78680
+      },
+      {
+        "token": "anche",
+        "startTime": 78680,
+        "endTime": 78880
+      },
+      {
+        "token": "se",
+        "startTime": 78880,
+        "endTime": 79120
+      },
+      {
+        "token": "non",
+        "startTime": 79120,
+        "endTime": 79340
+      },
+      {
+        "token": "si",
+        "startTime": 79340,
+        "endTime": 79540
+      },
+      {
+        "token": "capisce",
+        "startTime": 79540,
+        "endTime": 79880
+      },
+      {
+        "token": "bene",
+        "startTime": 79880,
+        "endTime": 80260
+      },
+      {
+        "token": "ma",
+        "startTime": 80260,
+        "endTime": 80580
+      },
+      {
+        "token": "abbiamo",
+        "startTime": 80580,
+        "endTime": 81260
+      },
+      {
+        "token": "un",
+        "startTime": 81260,
+        "endTime": 81680
+      },
+      {
+        "token": "lampione.",
+        "startTime": 81680,
+        "endTime": 82420
+      }
+    ]
+  },
+  {
+    "sentence_text": "Il lampione è ciò che illumina le strade.",
+    "translations": {
+      "en": "The streetlight is what illuminates the streets."
+    },
+    "segments": [
+      {
+        "token": "Il",
+        "startTime": 82420,
+        "endTime": 82900
+      },
+      {
+        "token": "lampione",
+        "startTime": 82900,
+        "endTime": 83520
+      },
+      {
+        "token": "è",
+        "startTime": 83520,
+        "endTime": 83860
+      },
+      {
+        "token": "ciò",
+        "startTime": 83860,
+        "endTime": 84100
+      },
+      {
+        "token": "che",
+        "startTime": 84100,
+        "endTime": 84340
+      },
+      {
+        "token": "illumina",
+        "startTime": 84340,
+        "endTime": 84820
+      },
+      {
+        "token": "le",
+        "startTime": 84820,
+        "endTime": 84960
+      },
+      {
+        "token": "strade.",
+        "startTime": 84960,
+        "endTime": 85580
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ora se avete visto il mio video della spiaggia sapete",
+    "translations": {
+      "en": "Now if you've seen my beach video, you know"
+    },
+    "segments": [
+      {
+        "token": "Ora",
+        "startTime": 85580,
+        "endTime": 85960
+      },
+      {
+        "token": "se",
+        "startTime": 85960,
+        "endTime": 86200
+      },
+      {
+        "token": "avete",
+        "startTime": 86200,
+        "endTime": 86540
+      },
+      {
+        "token": "visto",
+        "startTime": 86540,
+        "endTime": 86900
+      },
+      {
+        "token": "il",
+        "startTime": 86900,
+        "endTime": 87060
+      },
+      {
+        "token": "mio",
+        "startTime": 87060,
+        "endTime": 87120
+      },
+      {
+        "token": "video",
+        "startTime": 87120,
+        "endTime": 87540
+      },
+      {
+        "token": "della",
+        "startTime": 87540,
+        "endTime": 87960
+      },
+      {
+        "token": "spiaggia",
+        "startTime": 87960,
+        "endTime": 88640
+      },
+      {
+        "token": "sapete",
+        "startTime": 88640,
+        "endTime": 90140
+      }
+    ]
+  },
+  {
+    "sentence_text": "che sono in ombra ma se io adesso vado qui sono",
+    "translations": {
+      "en": "that I'm in the shade, but if I go over here now, I'm"
+    },
+    "segments": [
+      {
+        "token": "che",
+        "startTime": 90140,
+        "endTime": 90600
+      },
+      {
+        "token": "sono",
+        "startTime": 90600,
+        "endTime": 91800
+      },
+      {
+        "token": "in",
+        "startTime": 91800,
+        "endTime": 92400
+      },
+      {
+        "token": "ombra",
+        "startTime": 92400,
+        "endTime": 92940
+      },
+      {
+        "token": "ma",
+        "startTime": 92940,
+        "endTime": 93860
+      },
+      {
+        "token": "se",
+        "startTime": 93860,
+        "endTime": 94060
+      },
+      {
+        "token": "io",
+        "startTime": 94060,
+        "endTime": 94200
+      },
+      {
+        "token": "adesso",
+        "startTime": 94200,
+        "endTime": 94400
+      },
+      {
+        "token": "vado",
+        "startTime": 94400,
+        "endTime": 94960
+      },
+      {
+        "token": "qui",
+        "startTime": 94960,
+        "endTime": 94960
+      },
+      {
+        "token": "sono",
+        "startTime": 94960,
+        "endTime": 99160
+      }
+    ]
+  },
+  {
+    "sentence_text": "sotto la luce del sole quindi",
+    "translations": {
+      "en": "under the sunlight, so"
+    },
+    "segments": [
+      {
+        "token": "sotto",
+        "startTime": 99160,
+        "endTime": 99940
+      },
+      {
+        "token": "la",
+        "startTime": 99940,
+        "endTime": 100780
+      },
+      {
+        "token": "luce",
+        "startTime": 100780,
+        "endTime": 101160
+      },
+      {
+        "token": "del",
+        "startTime": 101160,
+        "endTime": 101440
+      },
+      {
+        "token": "sole",
+        "startTime": 101440,
+        "endTime": 101860
+      },
+      {
+        "token": "quindi",
+        "startTime": 101860,
+        "endTime": 102920
+      }
+    ]
+  },
+  {
+    "sentence_text": "il lampione durante la sera ci serve a illuminare la",
+    "translations": {
+      "en": "the streetlight in the evening serves to light up the"
+    },
+    "segments": [
+      {
+        "token": "il",
+        "startTime": 102920,
+        "endTime": 103280
+      },
+      {
+        "token": "lampione",
+        "startTime": 103280,
+        "endTime": 103940
+      },
+      {
+        "token": "durante",
+        "startTime": 103940,
+        "endTime": 104520
+      },
+      {
+        "token": "la",
+        "startTime": 104520,
+        "endTime": 104720
+      },
+      {
+        "token": "sera",
+        "startTime": 104720,
+        "endTime": 104940
+      },
+      {
+        "token": "ci",
+        "startTime": 104940,
+        "endTime": 105220
+      },
+      {
+        "token": "serve",
+        "startTime": 105220,
+        "endTime": 105620
+      },
+      {
+        "token": "a",
+        "startTime": 105620,
+        "endTime": 105780
+      },
+      {
+        "token": "illuminare",
+        "startTime": 105780,
+        "endTime": 106600
+      },
+      {
+        "token": "la",
+        "startTime": 106600,
+        "endTime": 107460
+      }
+    ]
+  },
+  {
+    "sentence_text": "strada o il sentiero o dove siamo.",
+    "translations": {
+      "en": "street or the path or wherever we are."
+    },
+    "segments": [
+      {
+        "token": "strada",
+        "startTime": 107460,
+        "endTime": 108180
+      },
+      {
+        "token": "o",
+        "startTime": 108180,
+        "endTime": 108340
+      },
+      {
+        "token": "il",
+        "startTime": 108340,
+        "endTime": 108420
+      },
+      {
+        "token": "sentiero",
+        "startTime": 108420,
+        "endTime": 109020
+      },
+      {
+        "token": "o",
+        "startTime": 109020,
+        "endTime": 109320
+      },
+      {
+        "token": "dove",
+        "startTime": 109320,
+        "endTime": 109540
+      },
+      {
+        "token": "siamo.",
+        "startTime": 109540,
+        "endTime": 110040
+      }
+    ]
+  },
+  {
+    "sentence_text": "Qui per esempio è un po' più visibile che abbiamo un altro lampione",
+    "translations": {
+      "en": "Here, for example, it's a bit more visible that we have another streetlight"
+    },
+    "segments": [
+      {
+        "token": "Qui",
+        "startTime": 110040,
+        "endTime": 110520
+      },
+      {
+        "token": "per",
+        "startTime": 110520,
+        "endTime": 110640
+      },
+      {
+        "token": "esempio",
+        "startTime": 110640,
+        "endTime": 111040
+      },
+      {
+        "token": "è",
+        "startTime": 111040,
+        "endTime": 111300
+      },
+      {
+        "token": "un",
+        "startTime": 111300,
+        "endTime": 111380
+      },
+      {
+        "token": "po'",
+        "startTime": 111380,
+        "endTime": 111500
+      },
+      {
+        "token": "più",
+        "startTime": 111500,
+        "endTime": 111560
+      },
+      {
+        "token": "visibile",
+        "startTime": 111560,
+        "endTime": 112240
+      },
+      {
+        "token": "che",
+        "startTime": 112240,
+        "endTime": 112600
+      },
+      {
+        "token": "abbiamo",
+        "startTime": 112600,
+        "endTime": 112800
+      },
+      {
+        "token": "un",
+        "startTime": 112800,
+        "endTime": 112960
+      },
+      {
+        "token": "altro",
+        "startTime": 112960,
+        "endTime": 113260
+      },
+      {
+        "token": "lampione",
+        "startTime": 113260,
+        "endTime": 114500
+      }
+    ]
+  },
+  {
+    "sentence_text": "che illumina il marciapiede.",
+    "translations": {
+      "en": "that lights the sidewalk."
+    },
+    "segments": [
+      {
+        "token": "che",
+        "startTime": 114500,
+        "endTime": 114960
+      },
+      {
+        "token": "illumina",
+        "startTime": 114960,
+        "endTime": 115940
+      },
+      {
+        "token": "il",
+        "startTime": 115940,
+        "endTime": 116560
+      },
+      {
+        "token": "marciapiede.",
+        "startTime": 116560,
+        "endTime": 117980
+      }
+    ]
+  },
+  {
+    "sentence_text": "Il marciapiede è dove i pedoni, io sono un pedone, i pedoni camminano,",
+    "translations": {
+      "en": "The sidewalk is where pedestrians—I am a pedestrian—pedestrians walk,"
+    },
+    "segments": [
+      {
+        "token": "Il",
+        "startTime": 117980,
+        "endTime": 118840
+      },
+      {
+        "token": "marciapiede",
+        "startTime": 118840,
+        "endTime": 119600
+      },
+      {
+        "token": "è",
+        "startTime": 119600,
+        "endTime": 119760
+      },
+      {
+        "token": "dove",
+        "startTime": 119760,
+        "endTime": 120100
+      },
+      {
+        "token": "i",
+        "startTime": 120100,
+        "endTime": 120420
+      },
+      {
+        "token": "pedoni,",
+        "startTime": 120420,
+        "endTime": 121080
+      },
+      {
+        "token": "io",
+        "startTime": 121080,
+        "endTime": 122000
+      },
+      {
+        "token": "sono",
+        "startTime": 122000,
+        "endTime": 122280
+      },
+      {
+        "token": "un",
+        "startTime": 122280,
+        "endTime": 122460
+      },
+      {
+        "token": "pedone,",
+        "startTime": 122460,
+        "endTime": 123800
+      },
+      {
+        "token": "i",
+        "startTime": 123800,
+        "endTime": 123920
+      },
+      {
+        "token": "pedoni",
+        "startTime": 123920,
+        "endTime": 124220
+      },
+      {
+        "token": "camminano,",
+        "startTime": 124220,
+        "endTime": 124580
+      }
+    ]
+  },
+  {
+    "sentence_text": "mentre invece lì noi abbiamo la strada dove passano le macchine.",
+    "translations": {
+      "en": "whereas over there we have the road where cars go."
+    },
+    "segments": [
+      {
+        "token": "mentre",
+        "startTime": 124580,
+        "endTime": 125600
+      },
+      {
+        "token": "invece",
+        "startTime": 125600,
+        "endTime": 126240
+      },
+      {
+        "token": "lì",
+        "startTime": 126240,
+        "endTime": 127460
+      },
+      {
+        "token": "noi",
+        "startTime": 127460,
+        "endTime": 128400
+      },
+      {
+        "token": "abbiamo",
+        "startTime": 128400,
+        "endTime": 128759
+      },
+      {
+        "token": "la",
+        "startTime": 128759,
+        "endTime": 129039
+      },
+      {
+        "token": "strada",
+        "startTime": 129039,
+        "endTime": 129560
+      },
+      {
+        "token": "dove",
+        "startTime": 129560,
+        "endTime": 130680
+      },
+      {
+        "token": "passano",
+        "startTime": 130680,
+        "endTime": 131300
+      },
+      {
+        "token": "le",
+        "startTime": 131300,
+        "endTime": 131700
+      },
+      {
+        "token": "macchine.",
+        "startTime": 131700,
+        "endTime": 132400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ora ve la mostrerò meglio.",
+    "translations": {
+      "en": "Now I'll show you better."
+    },
+    "segments": [
+      {
+        "token": "Ora",
+        "startTime": 132400,
+        "endTime": 133680
+      },
+      {
+        "token": "ve",
+        "startTime": 133680,
+        "endTime": 133860
+      },
+      {
+        "token": "la",
+        "startTime": 133860,
+        "endTime": 133960
+      },
+      {
+        "token": "mostrerò",
+        "startTime": 133960,
+        "endTime": 134420
+      },
+      {
+        "token": "meglio.",
+        "startTime": 134420,
+        "endTime": 135240
+      }
+    ]
+  },
+  {
+    "sentence_text": "Questo marciapiede è abbastanza grande come vedete, i pedoni, le persone possono camminare qui.",
+    "translations": {
+      "en": "This sidewalk is quite large, as you can see; pedestrians, people can walk here."
+    },
+    "segments": [
+      {
+        "token": "Questo",
+        "startTime": 135240,
+        "endTime": 135440
+      },
+      {
+        "token": "marciapiede",
+        "startTime": 135440,
+        "endTime": 136060
+      },
+      {
+        "token": "è",
+        "startTime": 136060,
+        "endTime": 136220
+      },
+      {
+        "token": "abbastanza",
+        "startTime": 136220,
+        "endTime": 136760
+      },
+      {
+        "token": "grande",
+        "startTime": 136760,
+        "endTime": 137220
+      },
+      {
+        "token": "come",
+        "startTime": 137220,
+        "endTime": 137560
+      },
+      {
+        "token": "vedete,",
+        "startTime": 137560,
+        "endTime": 139620
+      },
+      {
+        "token": "i",
+        "startTime": 139620,
+        "endTime": 139640
+      },
+      {
+        "token": "pedoni,",
+        "startTime": 139640,
+        "endTime": 140140
+      },
+      {
+        "token": "le",
+        "startTime": 140140,
+        "endTime": 140240
+      },
+      {
+        "token": "persone",
+        "startTime": 140240,
+        "endTime": 140800
+      },
+      {
+        "token": "possono",
+        "startTime": 140800,
+        "endTime": 142220
+      },
+      {
+        "token": "camminare",
+        "startTime": 142220,
+        "endTime": 143180
+      },
+      {
+        "token": "qui.",
+        "startTime": 143180,
+        "endTime": 145040
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ci sono molte palme, come vi dicevo non sembra di essere in centro.",
+    "translations": {
+      "en": "There are many palm trees, as I was saying, it doesn't feel like you're downtown."
+    },
+    "segments": [
+      {
+        "token": "Ci",
+        "startTime": 145040,
+        "endTime": 145280
+      },
+      {
+        "token": "sono",
+        "startTime": 145280,
+        "endTime": 145360
+      },
+      {
+        "token": "molte",
+        "startTime": 145360,
+        "endTime": 145760
+      },
+      {
+        "token": "palme,",
+        "startTime": 145760,
+        "endTime": 146700
+      },
+      {
+        "token": "come",
+        "startTime": 146700,
+        "endTime": 146820
+      },
+      {
+        "token": "vi",
+        "startTime": 146820,
+        "endTime": 146940
+      },
+      {
+        "token": "dicevo",
+        "startTime": 146940,
+        "endTime": 147360
+      },
+      {
+        "token": "non",
+        "startTime": 147360,
+        "endTime": 147500
+      },
+      {
+        "token": "sembra",
+        "startTime": 147500,
+        "endTime": 147900
+      },
+      {
+        "token": "di",
+        "startTime": 147900,
+        "endTime": 148060
+      },
+      {
+        "token": "essere",
+        "startTime": 148060,
+        "endTime": 148420
+      },
+      {
+        "token": "in",
+        "startTime": 148420,
+        "endTime": 148580
+      },
+      {
+        "token": "centro.",
+        "startTime": 148580,
+        "endTime": 149520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Adesso qui di fronte a me vi mostro c'è un cestino della spazzatura.",
+    "translations": {
+      "en": "Now here in front of me, I'll show you, there's a trash can."
+    },
+    "segments": [
+      {
+        "token": "Adesso",
+        "startTime": 149520,
+        "endTime": 149960
+      },
+      {
+        "token": "qui",
+        "startTime": 149960,
+        "endTime": 150260
+      },
+      {
+        "token": "di",
+        "startTime": 150260,
+        "endTime": 150420
+      },
+      {
+        "token": "fronte",
+        "startTime": 150420,
+        "endTime": 150760
+      },
+      {
+        "token": "a",
+        "startTime": 150760,
+        "endTime": 150860
+      },
+      {
+        "token": "me",
+        "startTime": 150860,
+        "endTime": 150960
+      },
+      {
+        "token": "vi",
+        "startTime": 150960,
+        "endTime": 151240
+      },
+      {
+        "token": "mostro",
+        "startTime": 151240,
+        "endTime": 151740
+      },
+      {
+        "token": "c'è",
+        "startTime": 151740,
+        "endTime": 152500
+      },
+      {
+        "token": "un",
+        "startTime": 152500,
+        "endTime": 152740
+      },
+      {
+        "token": "cestino",
+        "startTime": 152740,
+        "endTime": 153460
+      },
+      {
+        "token": "della",
+        "startTime": 153460,
+        "endTime": 155000
+      },
+      {
+        "token": "spazzatura.",
+        "startTime": 155000,
+        "endTime": 159160
+      }
+    ]
+  },
+  {
+    "sentence_text": "In realtà ci sono due cestini della spazzatura.",
+    "translations": {
+      "en": "Actually, there are two trash cans."
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 159160,
+        "endTime": 159280
+      },
+      {
+        "token": "realtà",
+        "startTime": 159280,
+        "endTime": 159440
+      },
+      {
+        "token": "ci",
+        "startTime": 159440,
+        "endTime": 159660
+      },
+      {
+        "token": "sono",
+        "startTime": 159660,
+        "endTime": 159820
+      },
+      {
+        "token": "due",
+        "startTime": 159820,
+        "endTime": 160600
+      },
+      {
+        "token": "cestini",
+        "startTime": 160600,
+        "endTime": 161740
+      },
+      {
+        "token": "della",
+        "startTime": 161740,
+        "endTime": 162220
+      },
+      {
+        "token": "spazzatura.",
+        "startTime": 162220,
+        "endTime": 163340
+      }
+    ]
+  },
+  {
+    "sentence_text": "Questo è il cestino della spazzatura della plastica e",
+    "translations": {
+      "en": "This is the trash can for plastic, and"
+    },
+    "segments": [
+      {
+        "token": "Questo",
+        "startTime": 163340,
+        "endTime": 163620
+      },
+      {
+        "token": "è",
+        "startTime": 163620,
+        "endTime": 163800
+      },
+      {
+        "token": "il",
+        "startTime": 163800,
+        "endTime": 163860
+      },
+      {
+        "token": "cestino",
+        "startTime": 163860,
+        "endTime": 164220
+      },
+      {
+        "token": "della",
+        "startTime": 164220,
+        "endTime": 164420
+      },
+      {
+        "token": "spazzatura",
+        "startTime": 164420,
+        "endTime": 164920
+      },
+      {
+        "token": "della",
+        "startTime": 164920,
+        "endTime": 165120
+      },
+      {
+        "token": "plastica",
+        "startTime": 165120,
+        "endTime": 165760
+      },
+      {
+        "token": "e",
+        "startTime": 165760,
+        "endTime": 166800
+      }
+    ]
+  },
+  {
+    "sentence_text": "questo è il cestino della spazzatura della carta.",
+    "translations": {
+      "en": "this is the trash can for paper."
+    },
+    "segments": [
+      {
+        "token": "questo",
+        "startTime": 166800,
+        "endTime": 167540
+      },
+      {
+        "token": "è",
+        "startTime": 167540,
+        "endTime": 167880
+      },
+      {
+        "token": "il",
+        "startTime": 167880,
+        "endTime": 167960
+      },
+      {
+        "token": "cestino",
+        "startTime": 167960,
+        "endTime": 168480
+      },
+      {
+        "token": "della",
+        "startTime": 168480,
+        "endTime": 168640
+      },
+      {
+        "token": "spazzatura",
+        "startTime": 168640,
+        "endTime": 169260
+      },
+      {
+        "token": "della",
+        "startTime": 169260,
+        "endTime": 169620
+      },
+      {
+        "token": "carta.",
+        "startTime": 169620,
+        "endTime": 170580
+      }
+    ]
+  },
+  {
+    "sentence_text": "Adesso attraversiamo la strada ma vediamo prima il semaforo se ce lo permette.",
+    "translations": {
+      "en": "Now let's cross the street, but first let's see if the traffic light allows us."
+    },
+    "segments": [
+      {
+        "token": "Adesso",
+        "startTime": 170580,
+        "endTime": 171120
+      },
+      {
+        "token": "attraversiamo",
+        "startTime": 171120,
+        "endTime": 172000
+      },
+      {
+        "token": "la",
+        "startTime": 172000,
+        "endTime": 172220
+      },
+      {
+        "token": "strada",
+        "startTime": 172220,
+        "endTime": 172760
+      },
+      {
+        "token": "ma",
+        "startTime": 172760,
+        "endTime": 173380
+      },
+      {
+        "token": "vediamo",
+        "startTime": 173380,
+        "endTime": 173860
+      },
+      {
+        "token": "prima",
+        "startTime": 173860,
+        "endTime": 174260
+      },
+      {
+        "token": "il",
+        "startTime": 174260,
+        "endTime": 174720
+      },
+      {
+        "token": "semaforo",
+        "startTime": 174720,
+        "endTime": 175400
+      },
+      {
+        "token": "se",
+        "startTime": 175400,
+        "endTime": 176155
+      },
+      {
+        "token": "ce",
+        "startTime": 176155,
+        "endTime": 176295
+      },
+      {
+        "token": "lo",
+        "startTime": 176295,
+        "endTime": 176395
+      },
+      {
+        "token": "permette.",
+        "startTime": 176395,
+        "endTime": 177335
+      }
+    ]
+  },
+  {
+    "sentence_text": "Adesso il semaforo è verde, quindi non possiamo passare.",
+    "translations": {
+      "en": "Now the traffic light is green, so we can't cross."
+    },
+    "segments": [
+      {
+        "token": "Adesso",
+        "startTime": 177335,
+        "endTime": 177715
+      },
+      {
+        "token": "il",
+        "startTime": 177715,
+        "endTime": 177895
+      },
+      {
+        "token": "semaforo",
+        "startTime": 177895,
+        "endTime": 178495
+      },
+      {
+        "token": "è",
+        "startTime": 178495,
+        "endTime": 178675
+      },
+      {
+        "token": "verde,",
+        "startTime": 178675,
+        "endTime": 179395
+      },
+      {
+        "token": "quindi",
+        "startTime": 179395,
+        "endTime": 180075
+      },
+      {
+        "token": "non",
+        "startTime": 180075,
+        "endTime": 180395
+      },
+      {
+        "token": "possiamo",
+        "startTime": 180395,
+        "endTime": 180995
+      },
+      {
+        "token": "passare.",
+        "startTime": 180995,
+        "endTime": 181755
+      }
+    ]
+  },
+  {
+    "sentence_text": "Possono passare solo le moto, un'altra moto, una macchina, un'altra macchina, un camioncino.",
+    "translations": {
+      "en": "Only motorcycles can pass, another motorcycle, a car, another car, a small truck."
+    },
+    "segments": [
+      {
+        "token": "Possono",
+        "startTime": 181755,
+        "endTime": 182915
+      },
+      {
+        "token": "passare",
+        "startTime": 182915,
+        "endTime": 183655
+      },
+      {
+        "token": "solo",
+        "startTime": 183655,
+        "endTime": 184715
+      },
+      {
+        "token": "le",
+        "startTime": 184715,
+        "endTime": 185255
+      },
+      {
+        "token": "moto,",
+        "startTime": 185255,
+        "endTime": 186315
+      },
+      {
+        "token": "un'altra",
+        "startTime": 186315,
+        "endTime": 186635
+      },
+      {
+        "token": "moto,",
+        "startTime": 186635,
+        "endTime": 187395
+      },
+      {
+        "token": "una",
+        "startTime": 187395,
+        "endTime": 187695
+      },
+      {
+        "token": "macchina,",
+        "startTime": 187695,
+        "endTime": 190155
+      },
+      {
+        "token": "un'altra",
+        "startTime": 190155,
+        "endTime": 190455
+      },
+      {
+        "token": "macchina,",
+        "startTime": 190455,
+        "endTime": 191235
+      },
+      {
+        "token": "un",
+        "startTime": 191235,
+        "endTime": 191675
+      },
+      {
+        "token": "camioncino.",
+        "startTime": 191675,
+        "endTime": 193155
+      }
+    ]
+  },
+  {
+    "sentence_text": "E tra poco potrà passare anche l'autobus.",
+    "translations": {
+      "en": "And soon the bus will be able to pass too."
+    },
+    "segments": [
+      {
+        "token": "E",
+        "startTime": 193155,
+        "endTime": 193275
+      },
+      {
+        "token": "tra",
+        "startTime": 193275,
+        "endTime": 193395
+      },
+      {
+        "token": "poco",
+        "startTime": 193395,
+        "endTime": 193695
+      },
+      {
+        "token": "potrà",
+        "startTime": 193695,
+        "endTime": 194395
+      },
+      {
+        "token": "passare",
+        "startTime": 194395,
+        "endTime": 194995
+      },
+      {
+        "token": "anche",
+        "startTime": 194995,
+        "endTime": 195495
+      },
+      {
+        "token": "l'autobus.",
+        "startTime": 195495,
+        "endTime": 198735
+      }
+    ]
+  },
+  {
+    "sentence_text": "Questo è un autobus.",
+    "translations": {
+      "en": "This is a bus."
+    },
+    "segments": [
+      {
+        "token": "Questo",
+        "startTime": 198735,
+        "endTime": 199035
+      },
+      {
+        "token": "è",
+        "startTime": 199035,
+        "endTime": 199415
+      },
+      {
+        "token": "un",
+        "startTime": 199415,
+        "endTime": 199635
+      },
+      {
+        "token": "autobus.",
+        "startTime": 199635,
+        "endTime": 200495
+      }
+    ]
+  },
+  {
+    "sentence_text": "Per esempio possiamo premere questo pulsante per accelerare il cambio del colore.",
+    "translations": {
+      "en": "For example, we can press this button to speed up the color change."
+    },
+    "segments": [
+      {
+        "token": "Per",
+        "startTime": 200495,
+        "endTime": 200675
+      },
+      {
+        "token": "esempio",
+        "startTime": 200675,
+        "endTime": 201035
+      },
+      {
+        "token": "possiamo",
+        "startTime": 201035,
+        "endTime": 201515
+      },
+      {
+        "token": "premere",
+        "startTime": 201515,
+        "endTime": 202115
+      },
+      {
+        "token": "questo",
+        "startTime": 202115,
+        "endTime": 202415
+      },
+      {
+        "token": "pulsante",
+        "startTime": 202415,
+        "endTime": 203115
+      },
+      {
+        "token": "per",
+        "startTime": 203115,
+        "endTime": 204755
+      },
+      {
+        "token": "accelerare",
+        "startTime": 204755,
+        "endTime": 206095
+      },
+      {
+        "token": "il",
+        "startTime": 206095,
+        "endTime": 206715
+      },
+      {
+        "token": "cambio",
+        "startTime": 206715,
+        "endTime": 207155
+      },
+      {
+        "token": "del",
+        "startTime": 207155,
+        "endTime": 207355
+      },
+      {
+        "token": "colore.",
+        "startTime": 207355,
+        "endTime": 208415
+      }
+    ]
+  },
+  {
+    "sentence_text": "Non ho mai capito se realmente funziona o no.",
+    "translations": {
+      "en": "I've never understood if it actually works or not."
+    },
+    "segments": [
+      {
+        "token": "Non",
+        "startTime": 208415,
+        "endTime": 208575
+      },
+      {
+        "token": "ho",
+        "startTime": 208575,
+        "endTime": 208655
+      },
+      {
+        "token": "mai",
+        "startTime": 208655,
+        "endTime": 208775
+      },
+      {
+        "token": "capito",
+        "startTime": 208775,
+        "endTime": 209195
+      },
+      {
+        "token": "se",
+        "startTime": 209195,
+        "endTime": 209495
+      },
+      {
+        "token": "realmente",
+        "startTime": 209495,
+        "endTime": 210195
+      },
+      {
+        "token": "funziona",
+        "startTime": 210195,
+        "endTime": 210975
+      },
+      {
+        "token": "o",
+        "startTime": 210975,
+        "endTime": 211275
+      },
+      {
+        "token": "no.",
+        "startTime": 211275,
+        "endTime": 212095
+      }
+    ]
+  },
+  {
+    "sentence_text": "Comunque adesso è arancione e adesso è rosso.",
+    "translations": {
+      "en": "Anyway, now it's orange and now it's red."
+    },
+    "segments": [
+      {
+        "token": "Comunque",
+        "startTime": 212095,
+        "endTime": 212395
+      },
+      {
+        "token": "adesso",
+        "startTime": 212395,
+        "endTime": 212995
+      },
+      {
+        "token": "è",
+        "startTime": 212995,
+        "endTime": 213415
+      },
+      {
+        "token": "arancione",
+        "startTime": 213415,
+        "endTime": 214275
+      },
+      {
+        "token": "e",
+        "startTime": 214275,
+        "endTime": 214595
+      },
+      {
+        "token": "adesso",
+        "startTime": 214595,
+        "endTime": 214895
+      },
+      {
+        "token": "è",
+        "startTime": 214895,
+        "endTime": 215075
+      },
+      {
+        "token": "rosso.",
+        "startTime": 215075,
+        "endTime": 215075
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quindi le persone, i pedoni, possono passare.",
+    "translations": {
+      "en": "So people, pedestrians, can cross."
+    },
+    "segments": [
+      {
+        "token": "Quindi",
+        "startTime": 215075,
+        "endTime": 216655
+      },
+      {
+        "token": "le",
+        "startTime": 216655,
+        "endTime": 217255
+      },
+      {
+        "token": "persone,",
+        "startTime": 217255,
+        "endTime": 217775
+      },
+      {
+        "token": "i",
+        "startTime": 217775,
+        "endTime": 218535
+      },
+      {
+        "token": "pedoni,",
+        "startTime": 218535,
+        "endTime": 219075
+      },
+      {
+        "token": "possono",
+        "startTime": 219075,
+        "endTime": 219955
+      },
+      {
+        "token": "passare.",
+        "startTime": 219955,
+        "endTime": 221495
+      }
+    ]
+  },
+  {
+    "sentence_text": "E stiamo passando sopra le strisce pedonali.",
+    "translations": {
+      "en": "And we're driving over the crosswalk."
+    },
+    "segments": [
+      {
+        "token": "E",
+        "startTime": 221495,
+        "endTime": 221615
+      },
+      {
+        "token": "stiamo",
+        "startTime": 221615,
+        "endTime": 222055
+      },
+      {
+        "token": "passando",
+        "startTime": 222055,
+        "endTime": 222795
+      },
+      {
+        "token": "sopra",
+        "startTime": 222795,
+        "endTime": 223415
+      },
+      {
+        "token": "le",
+        "startTime": 223415,
+        "endTime": 224455
+      },
+      {
+        "token": "strisce",
+        "startTime": 224455,
+        "endTime": 225015
+      },
+      {
+        "token": "pedonali.",
+        "startTime": 225015,
+        "endTime": 226275
+      }
+    ]
+  },
+  {
+    "sentence_text": "stiamo attraversando la strada in realtà le strisce pedonali non sono molto chiare",
+    "translations": {
+      "en": "We're crossing the road, actually the crosswalk stripes aren't very clear"
+    },
+    "segments": [
+      {
+        "token": "stiamo",
+        "startTime": 226275,
+        "endTime": 226615
+      },
+      {
+        "token": "attraversando",
+        "startTime": 226615,
+        "endTime": 228215
+      },
+      {
+        "token": "la",
+        "startTime": 228215,
+        "endTime": 229935
+      },
+      {
+        "token": "strada",
+        "startTime": 229935,
+        "endTime": 230415
+      },
+      {
+        "token": "in",
+        "startTime": 230415,
+        "endTime": 231315
+      },
+      {
+        "token": "realtà",
+        "startTime": 231315,
+        "endTime": 231555
+      },
+      {
+        "token": "le",
+        "startTime": 231555,
+        "endTime": 231775
+      },
+      {
+        "token": "strisce",
+        "startTime": 231775,
+        "endTime": 232155
+      },
+      {
+        "token": "pedonali",
+        "startTime": 232155,
+        "endTime": 232695
+      },
+      {
+        "token": "non",
+        "startTime": 232695,
+        "endTime": 233075
+      },
+      {
+        "token": "sono",
+        "startTime": 233075,
+        "endTime": 233415
+      },
+      {
+        "token": "molto",
+        "startTime": 233415,
+        "endTime": 233955
+      },
+      {
+        "token": "chiare",
+        "startTime": 233955,
+        "endTime": 234655
+      }
+    ]
+  },
+  {
+    "sentence_text": "e visibili ci dovrebbe essere bianco bianco ma no oggi",
+    "translations": {
+      "en": "and visible, they should be white, white, but no, today"
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 234655,
+        "endTime": 234875
+      },
+      {
+        "token": "visibili",
+        "startTime": 234875,
+        "endTime": 235475
+      },
+      {
+        "token": "ci",
+        "startTime": 235475,
+        "endTime": 235915
+      },
+      {
+        "token": "dovrebbe",
+        "startTime": 235915,
+        "endTime": 236235
+      },
+      {
+        "token": "essere",
+        "startTime": 236235,
+        "endTime": 236615
+      },
+      {
+        "token": "bianco",
+        "startTime": 236615,
+        "endTime": 237335
+      },
+      {
+        "token": "bianco",
+        "startTime": 237335,
+        "endTime": 238155
+      },
+      {
+        "token": "ma",
+        "startTime": 238155,
+        "endTime": 238435
+      },
+      {
+        "token": "no",
+        "startTime": 238435,
+        "endTime": 238755
+      },
+      {
+        "token": "oggi",
+        "startTime": 238755,
+        "endTime": 239895
+      }
+    ]
+  },
+  {
+    "sentence_text": "non so se perché fa molto caldo ma non vedo bici però",
+    "translations": {
+      "en": "I don't know if it's because it's very hot, but I don't see bikes though"
+    },
+    "segments": [
+      {
+        "token": "non",
+        "startTime": 239895,
+        "endTime": 240275
+      },
+      {
+        "token": "so",
+        "startTime": 240275,
+        "endTime": 240455
+      },
+      {
+        "token": "se",
+        "startTime": 240455,
+        "endTime": 240635
+      },
+      {
+        "token": "perché",
+        "startTime": 240635,
+        "endTime": 240895
+      },
+      {
+        "token": "fa",
+        "startTime": 240895,
+        "endTime": 241195
+      },
+      {
+        "token": "molto",
+        "startTime": 241195,
+        "endTime": 241495
+      },
+      {
+        "token": "caldo",
+        "startTime": 241495,
+        "endTime": 242115
+      },
+      {
+        "token": "ma",
+        "startTime": 242115,
+        "endTime": 242615
+      },
+      {
+        "token": "non",
+        "startTime": 242615,
+        "endTime": 243275
+      },
+      {
+        "token": "vedo",
+        "startTime": 243275,
+        "endTime": 244115
+      },
+      {
+        "token": "bici",
+        "startTime": 244115,
+        "endTime": 244595
+      },
+      {
+        "token": "però",
+        "startTime": 244595,
+        "endTime": 246835
+      }
+    ]
+  },
+  {
+    "sentence_text": "abbiamo una pista ciclabile.",
+    "translations": {
+      "en": "we have a bike lane."
+    },
+    "segments": [
+      {
+        "token": "abbiamo",
+        "startTime": 246835,
+        "endTime": 246995
+      },
+      {
+        "token": "una",
+        "startTime": 246995,
+        "endTime": 247715
+      },
+      {
+        "token": "pista",
+        "startTime": 247715,
+        "endTime": 248195
+      },
+      {
+        "token": "ciclabile.",
+        "startTime": 248195,
+        "endTime": 250635
+      }
+    ]
+  },
+  {
+    "sentence_text": "Questa in realtà sarebbe una bicicletta, tutta questa è una pista ciclabile.",
+    "translations": {
+      "en": "This actually would be a bicycle, all of this is a bike lane."
+    },
+    "segments": [
+      {
+        "token": "Questa",
+        "startTime": 250635,
+        "endTime": 251015
+      },
+      {
+        "token": "in",
+        "startTime": 251015,
+        "endTime": 251775
+      },
+      {
+        "token": "realtà",
+        "startTime": 251775,
+        "endTime": 252055
+      },
+      {
+        "token": "sarebbe",
+        "startTime": 252055,
+        "endTime": 252915
+      },
+      {
+        "token": "una",
+        "startTime": 252915,
+        "endTime": 253095
+      },
+      {
+        "token": "bicicletta,",
+        "startTime": 253095,
+        "endTime": 254075
+      },
+      {
+        "token": "tutta",
+        "startTime": 254075,
+        "endTime": 254315
+      },
+      {
+        "token": "questa",
+        "startTime": 254315,
+        "endTime": 254775
+      },
+      {
+        "token": "è",
+        "startTime": 254775,
+        "endTime": 255515
+      },
+      {
+        "token": "una",
+        "startTime": 255515,
+        "endTime": 255655
+      },
+      {
+        "token": "pista",
+        "startTime": 255655,
+        "endTime": 255775
+      },
+      {
+        "token": "ciclabile.",
+        "startTime": 255775,
+        "endTime": 257775
+      }
+    ]
+  },
+  {
+    "sentence_text": "Qui possono passare le bici così non rischiano il pericolo delle macchine o delle moto.",
+    "translations": {
+      "en": "Bikes can pass here so they don't risk the danger of cars or motorcycles."
+    },
+    "segments": [
+      {
+        "token": "Qui",
+        "startTime": 257775,
+        "endTime": 257795
+      },
+      {
+        "token": "possono",
+        "startTime": 257795,
+        "endTime": 258155
+      },
+      {
+        "token": "passare",
+        "startTime": 258155,
+        "endTime": 258615
+      },
+      {
+        "token": "le",
+        "startTime": 258615,
+        "endTime": 258775
+      },
+      {
+        "token": "bici",
+        "startTime": 258775,
+        "endTime": 259115
+      },
+      {
+        "token": "così",
+        "startTime": 259115,
+        "endTime": 260515
+      },
+      {
+        "token": "non",
+        "startTime": 260515,
+        "endTime": 261595
+      },
+      {
+        "token": "rischiano",
+        "startTime": 261595,
+        "endTime": 262335
+      },
+      {
+        "token": "il",
+        "startTime": 262335,
+        "endTime": 263095
+      },
+      {
+        "token": "pericolo",
+        "startTime": 263095,
+        "endTime": 263575
+      },
+      {
+        "token": "delle",
+        "startTime": 263575,
+        "endTime": 263815
+      },
+      {
+        "token": "macchine",
+        "startTime": 263815,
+        "endTime": 264335
+      },
+      {
+        "token": "o",
+        "startTime": 264335,
+        "endTime": 264515
+      },
+      {
+        "token": "delle",
+        "startTime": 264515,
+        "endTime": 264635
+      },
+      {
+        "token": "moto.",
+        "startTime": 264635,
+        "endTime": 265515
+      }
+    ]
+  },
+  {
+    "sentence_text": "Qui per esempio sono più visibili le strisce pedonali, vedete bianco, questa è bianca.",
+    "translations": {
+      "en": "Here, for example, the crosswalk stripes are more visible, see white, this one is white."
+    },
+    "segments": [
+      {
+        "token": "Qui",
+        "startTime": 265515,
+        "endTime": 265715
+      },
+      {
+        "token": "per",
+        "startTime": 265715,
+        "endTime": 265915
+      },
+      {
+        "token": "esempio",
+        "startTime": 265915,
+        "endTime": 266175
+      },
+      {
+        "token": "sono",
+        "startTime": 266175,
+        "endTime": 266455
+      },
+      {
+        "token": "più",
+        "startTime": 266455,
+        "endTime": 266655
+      },
+      {
+        "token": "visibili",
+        "startTime": 266655,
+        "endTime": 267215
+      },
+      {
+        "token": "le",
+        "startTime": 267215,
+        "endTime": 267415
+      },
+      {
+        "token": "strisce",
+        "startTime": 267415,
+        "endTime": 267755
+      },
+      {
+        "token": "pedonali,",
+        "startTime": 267755,
+        "endTime": 268795
+      },
+      {
+        "token": "vedete",
+        "startTime": 268795,
+        "endTime": 269035
+      },
+      {
+        "token": "bianco,",
+        "startTime": 269035,
+        "endTime": 270115
+      },
+      {
+        "token": "questa",
+        "startTime": 270115,
+        "endTime": 270255
+      },
+      {
+        "token": "è",
+        "startTime": 270255,
+        "endTime": 270315
+      },
+      {
+        "token": "bianca.",
+        "startTime": 270315,
+        "endTime": 270855
+      }
+    ]
+  },
+  {
+    "sentence_text": "Adoro il centro di Malaga perché sembra",
+    "translations": {
+      "en": "I love the center of Malaga because it seems"
+    },
+    "segments": [
+      {
+        "token": "Adoro",
+        "startTime": 270855,
+        "endTime": 271315
+      },
+      {
+        "token": "il",
+        "startTime": 271315,
+        "endTime": 271435
+      },
+      {
+        "token": "centro",
+        "startTime": 271435,
+        "endTime": 271675
+      },
+      {
+        "token": "di",
+        "startTime": 271675,
+        "endTime": 271855
+      },
+      {
+        "token": "Malaga",
+        "startTime": 271855,
+        "endTime": 272255
+      },
+      {
+        "token": "perché",
+        "startTime": 272255,
+        "endTime": 272755
+      },
+      {
+        "token": "sembra",
+        "startTime": 272755,
+        "endTime": 274175
+      }
+    ]
+  },
+  {
+    "sentence_text": "di essere appunto in un parco più che nel centro.",
+    "translations": {
+      "en": "like you're in a park rather than in the center."
+    },
+    "segments": [
+      {
+        "token": "di",
+        "startTime": 274175,
+        "endTime": 274355
+      },
+      {
+        "token": "essere",
+        "startTime": 274355,
+        "endTime": 274675
+      },
+      {
+        "token": "appunto",
+        "startTime": 274675,
+        "endTime": 275055
+      },
+      {
+        "token": "in",
+        "startTime": 275055,
+        "endTime": 275335
+      },
+      {
+        "token": "un",
+        "startTime": 275335,
+        "endTime": 275455
+      },
+      {
+        "token": "parco",
+        "startTime": 275455,
+        "endTime": 275875
+      },
+      {
+        "token": "più",
+        "startTime": 275875,
+        "endTime": 276135
+      },
+      {
+        "token": "che",
+        "startTime": 276135,
+        "endTime": 276275
+      },
+      {
+        "token": "nel",
+        "startTime": 276275,
+        "endTime": 276415
+      },
+      {
+        "token": "centro.",
+        "startTime": 276415,
+        "endTime": 277135
+      }
+    ]
+  },
+  {
+    "sentence_text": "Guardate quanto verde, c'è un sacco di verde, c'è anche questa specie di fontana,",
+    "translations": {
+      "en": "Look how much green there is, there's a lot of green, there's also this kind of fountain,"
+    },
+    "segments": [
+      {
+        "token": "Guardate",
+        "startTime": 277135,
+        "endTime": 277995
+      },
+      {
+        "token": "quanto",
+        "startTime": 277995,
+        "endTime": 278775
+      },
+      {
+        "token": "verde,",
+        "startTime": 278775,
+        "endTime": 279735
+      },
+      {
+        "token": "c'è",
+        "startTime": 279735,
+        "endTime": 279795
+      },
+      {
+        "token": "un",
+        "startTime": 279795,
+        "endTime": 279895
+      },
+      {
+        "token": "sacco",
+        "startTime": 279895,
+        "endTime": 280135
+      },
+      {
+        "token": "di",
+        "startTime": 280135,
+        "endTime": 280295
+      },
+      {
+        "token": "verde,",
+        "startTime": 280295,
+        "endTime": 281655
+      },
+      {
+        "token": "c'è",
+        "startTime": 281655,
+        "endTime": 283875
+      },
+      {
+        "token": "anche",
+        "startTime": 283875,
+        "endTime": 284075
+      },
+      {
+        "token": "questa",
+        "startTime": 284075,
+        "endTime": 284515
+      },
+      {
+        "token": "specie",
+        "startTime": 284515,
+        "endTime": 285275
+      },
+      {
+        "token": "di",
+        "startTime": 285275,
+        "endTime": 285415
+      },
+      {
+        "token": "fontana,",
+        "startTime": 285415,
+        "endTime": 286235
+      }
+    ]
+  },
+  {
+    "sentence_text": "è super tranquillo.",
+    "translations": {
+      "en": "it's super peaceful."
+    },
+    "segments": [
+      {
+        "token": "è",
+        "startTime": 286235,
+        "endTime": 289335
+      },
+      {
+        "token": "super",
+        "startTime": 289335,
+        "endTime": 289655
+      },
+      {
+        "token": "tranquillo.",
+        "startTime": 289655,
+        "endTime": 291255
+      }
+    ]
+  },
+  {
+    "sentence_text": "Lì, adesso vi mostrerò, si possono posteggiare le macchine.",
+    "translations": {
+      "en": "There, now I'll show you, cars can be parked."
+    },
+    "segments": [
+      {
+        "token": "Lì,",
+        "startTime": 291255,
+        "endTime": 292335
+      },
+      {
+        "token": "adesso",
+        "startTime": 292335,
+        "endTime": 292695
+      },
+      {
+        "token": "vi",
+        "startTime": 292695,
+        "endTime": 292935
+      },
+      {
+        "token": "mostrerò,",
+        "startTime": 292935,
+        "endTime": 293555
+      },
+      {
+        "token": "si",
+        "startTime": 293555,
+        "endTime": 294935
+      },
+      {
+        "token": "possono",
+        "startTime": 294935,
+        "endTime": 295435
+      },
+      {
+        "token": "posteggiare",
+        "startTime": 295435,
+        "endTime": 297475
+      },
+      {
+        "token": "le",
+        "startTime": 297475,
+        "endTime": 297635
+      },
+      {
+        "token": "macchine.",
+        "startTime": 297635,
+        "endTime": 298535
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ci sono due verbi che noi usiamo per dire to park,",
+    "translations": {
+      "en": "There are two verbs we use to say to park,"
+    },
+    "segments": [
+      {
+        "token": "Ci",
+        "startTime": 298535,
+        "endTime": 298615
+      },
+      {
+        "token": "sono",
+        "startTime": 298615,
+        "endTime": 298695
+      },
+      {
+        "token": "due",
+        "startTime": 298695,
+        "endTime": 298895
+      },
+      {
+        "token": "verbi",
+        "startTime": 298895,
+        "endTime": 299175
+      },
+      {
+        "token": "che",
+        "startTime": 299175,
+        "endTime": 299335
+      },
+      {
+        "token": "noi",
+        "startTime": 299335,
+        "endTime": 299515
+      },
+      {
+        "token": "usiamo",
+        "startTime": 299515,
+        "endTime": 300075
+      },
+      {
+        "token": "per",
+        "startTime": 300075,
+        "endTime": 300515
+      },
+      {
+        "token": "dire",
+        "startTime": 300515,
+        "endTime": 300815
+      },
+      {
+        "token": "to",
+        "startTime": 300815,
+        "endTime": 301255
+      },
+      {
+        "token": "park,",
+        "startTime": 301255,
+        "endTime": 302475
+      }
+    ]
+  },
+  {
+    "sentence_text": "uno è posteggiare e uno è parcheggiare.",
+    "translations": {
+      "en": "one is 'posteggiare' and one is 'parcheggiare'."
+    },
+    "segments": [
+      {
+        "token": "uno",
+        "startTime": 302475,
+        "endTime": 302495
+      },
+      {
+        "token": "è",
+        "startTime": 302495,
+        "endTime": 302735
+      },
+      {
+        "token": "posteggiare",
+        "startTime": 302735,
+        "endTime": 303435
+      },
+      {
+        "token": "e",
+        "startTime": 303435,
+        "endTime": 303755
+      },
+      {
+        "token": "uno",
+        "startTime": 303755,
+        "endTime": 303955
+      },
+      {
+        "token": "è",
+        "startTime": 303955,
+        "endTime": 304195
+      },
+      {
+        "token": "parcheggiare.",
+        "startTime": 304195,
+        "endTime": 305235
+      }
+    ]
+  },
+  {
+    "sentence_text": "Per esempio qui ci sono delle macchine, come vedete macchina, macchina,",
+    "translations": {
+      "en": "For example, here there are some cars, as you can see car, car,"
+    },
+    "segments": [
+      {
+        "token": "Per",
+        "startTime": 305235,
+        "endTime": 305675
+      },
+      {
+        "token": "esempio",
+        "startTime": 305675,
+        "endTime": 306175
+      },
+      {
+        "token": "qui",
+        "startTime": 306175,
+        "endTime": 306535
+      },
+      {
+        "token": "ci",
+        "startTime": 306535,
+        "endTime": 308235
+      },
+      {
+        "token": "sono",
+        "startTime": 308235,
+        "endTime": 308595
+      },
+      {
+        "token": "delle",
+        "startTime": 308595,
+        "endTime": 309355
+      },
+      {
+        "token": "macchine,",
+        "startTime": 309355,
+        "endTime": 311135
+      },
+      {
+        "token": "come",
+        "startTime": 311135,
+        "endTime": 311315
+      },
+      {
+        "token": "vedete",
+        "startTime": 311315,
+        "endTime": 311635
+      },
+      {
+        "token": "macchina,",
+        "startTime": 311635,
+        "endTime": 312535
+      },
+      {
+        "token": "macchina,",
+        "startTime": 312535,
+        "endTime": 313995
+      }
+    ]
+  },
+  {
+    "sentence_text": "un'altra macchina e come vedete le macchine sono posteggiate nella striscia blu,",
+    "translations": {
+      "en": "another car, and as you can see the cars are parked in the blue zone,"
+    },
+    "segments": [
+      {
+        "token": "un'altra",
+        "startTime": 313995,
+        "endTime": 314215
+      },
+      {
+        "token": "macchina",
+        "startTime": 314215,
+        "endTime": 314655
+      },
+      {
+        "token": "e",
+        "startTime": 314655,
+        "endTime": 314995
+      },
+      {
+        "token": "come",
+        "startTime": 314995,
+        "endTime": 315175
+      },
+      {
+        "token": "vedete",
+        "startTime": 315175,
+        "endTime": 315555
+      },
+      {
+        "token": "le",
+        "startTime": 315555,
+        "endTime": 315875
+      },
+      {
+        "token": "macchine",
+        "startTime": 315875,
+        "endTime": 316315
+      },
+      {
+        "token": "sono",
+        "startTime": 316315,
+        "endTime": 316555
+      },
+      {
+        "token": "posteggiate",
+        "startTime": 316555,
+        "endTime": 317475
+      },
+      {
+        "token": "nella",
+        "startTime": 317475,
+        "endTime": 318395
+      },
+      {
+        "token": "striscia",
+        "startTime": 318395,
+        "endTime": 319175
+      },
+      {
+        "token": "blu,",
+        "startTime": 319175,
+        "endTime": 319575
+      }
+    ]
+  },
+  {
+    "sentence_text": "significa che le macchine devono pagare per stare qui.",
+    "translations": {
+      "en": "which means the cars have to pay to stay here."
+    },
+    "segments": [
+      {
+        "token": "significa",
+        "startTime": 319575,
+        "endTime": 320995
+      },
+      {
+        "token": "che",
+        "startTime": 320995,
+        "endTime": 321495
+      },
+      {
+        "token": "le",
+        "startTime": 321495,
+        "endTime": 322295
+      },
+      {
+        "token": "macchine",
+        "startTime": 322295,
+        "endTime": 322735
+      },
+      {
+        "token": "devono",
+        "startTime": 322735,
+        "endTime": 323155
+      },
+      {
+        "token": "pagare",
+        "startTime": 323155,
+        "endTime": 323815
+      },
+      {
+        "token": "per",
+        "startTime": 323815,
+        "endTime": 324815
+      },
+      {
+        "token": "stare",
+        "startTime": 324815,
+        "endTime": 325075
+      },
+      {
+        "token": "qui.",
+        "startTime": 325075,
+        "endTime": 325435
+      }
+    ]
+  },
+  {
+    "sentence_text": "Questo qui invece è un cartello ci",
+    "translations": {
+      "en": "This here instead is a sign that"
+    },
+    "segments": [
+      {
+        "token": "Questo",
+        "startTime": 325435,
+        "endTime": 325715
+      },
+      {
+        "token": "qui",
+        "startTime": 325715,
+        "endTime": 325955
+      },
+      {
+        "token": "invece",
+        "startTime": 325955,
+        "endTime": 326315
+      },
+      {
+        "token": "è",
+        "startTime": 326315,
+        "endTime": 326975
+      },
+      {
+        "token": "un",
+        "startTime": 326975,
+        "endTime": 327415
+      },
+      {
+        "token": "cartello",
+        "startTime": 327415,
+        "endTime": 328015
+      },
+      {
+        "token": "ci",
+        "startTime": 328015,
+        "endTime": 329795
+      }
+    ]
+  },
+  {
+    "sentence_text": "dice che qui c'è il parcheggio delle moto questo è spagnolo quindi non memorizzate",
+    "translations": {
+      "en": "tells us that here is the motorcycle parking. This is Spanish, so don't memorize"
+    },
+    "segments": [
+      {
+        "token": "dice",
+        "startTime": 329795,
+        "endTime": 330135
+      },
+      {
+        "token": "che",
+        "startTime": 330135,
+        "endTime": 330315
+      },
+      {
+        "token": "qui",
+        "startTime": 330315,
+        "endTime": 330555
+      },
+      {
+        "token": "c'è",
+        "startTime": 330555,
+        "endTime": 330895
+      },
+      {
+        "token": "il",
+        "startTime": 330895,
+        "endTime": 331035
+      },
+      {
+        "token": "parcheggio",
+        "startTime": 331035,
+        "endTime": 331675
+      },
+      {
+        "token": "delle",
+        "startTime": 331675,
+        "endTime": 331935
+      },
+      {
+        "token": "moto",
+        "startTime": 331935,
+        "endTime": 332235
+      },
+      {
+        "token": "questo",
+        "startTime": 332235,
+        "endTime": 333035
+      },
+      {
+        "token": "è",
+        "startTime": 333035,
+        "endTime": 333115
+      },
+      {
+        "token": "spagnolo",
+        "startTime": 333115,
+        "endTime": 333475
+      },
+      {
+        "token": "quindi",
+        "startTime": 333475,
+        "endTime": 333735
+      },
+      {
+        "token": "non",
+        "startTime": 333735,
+        "endTime": 334075
+      },
+      {
+        "token": "memorizzate",
+        "startTime": 334075,
+        "endTime": 335055
+      }
+    ]
+  },
+  {
+    "sentence_text": "questa parola noi diciamo le moto e questa è una moto o una motocicletta",
+    "translations": {
+      "en": "that word. We say 'le moto', and this is a motorcycle or a motorbike."
+    },
+    "segments": [
+      {
+        "token": "questa",
+        "startTime": 335055,
+        "endTime": 335255
+      },
+      {
+        "token": "parola",
+        "startTime": 335255,
+        "endTime": 336515
+      },
+      {
+        "token": "noi",
+        "startTime": 336515,
+        "endTime": 336655
+      },
+      {
+        "token": "diciamo",
+        "startTime": 336655,
+        "endTime": 337095
+      },
+      {
+        "token": "le",
+        "startTime": 337095,
+        "endTime": 337575
+      },
+      {
+        "token": "moto",
+        "startTime": 337575,
+        "endTime": 338115
+      },
+      {
+        "token": "e",
+        "startTime": 338115,
+        "endTime": 338455
+      },
+      {
+        "token": "questa",
+        "startTime": 338455,
+        "endTime": 338735
+      },
+      {
+        "token": "è",
+        "startTime": 338735,
+        "endTime": 339415
+      },
+      {
+        "token": "una",
+        "startTime": 339415,
+        "endTime": 339815
+      },
+      {
+        "token": "moto",
+        "startTime": 339815,
+        "endTime": 340115
+      },
+      {
+        "token": "o",
+        "startTime": 340115,
+        "endTime": 340795
+      },
+      {
+        "token": "una",
+        "startTime": 340795,
+        "endTime": 341155
+      },
+      {
+        "token": "motocicletta",
+        "startTime": 341155,
+        "endTime": 341995
+      }
+    ]
+  },
+  {
+    "sentence_text": "devo essere sincera mi è venuto un po' un dubbio qui perché",
+    "translations": {
+      "en": "I have to be honest, I got a bit of a doubt here because"
+    },
+    "segments": [
+      {
+        "token": "devo",
+        "startTime": 341995,
+        "endTime": 342915
+      },
+      {
+        "token": "essere",
+        "startTime": 342915,
+        "endTime": 343215
+      },
+      {
+        "token": "sincera",
+        "startTime": 343215,
+        "endTime": 343735
+      },
+      {
+        "token": "mi",
+        "startTime": 343735,
+        "endTime": 343955
+      },
+      {
+        "token": "è",
+        "startTime": 343955,
+        "endTime": 343975
+      },
+      {
+        "token": "venuto",
+        "startTime": 343975,
+        "endTime": 344195
+      },
+      {
+        "token": "un",
+        "startTime": 344195,
+        "endTime": 344315
+      },
+      {
+        "token": "po'",
+        "startTime": 344315,
+        "endTime": 344455
+      },
+      {
+        "token": "un",
+        "startTime": 344455,
+        "endTime": 344555
+      },
+      {
+        "token": "dubbio",
+        "startTime": 344555,
+        "endTime": 344895
+      },
+      {
+        "token": "qui",
+        "startTime": 344895,
+        "endTime": 344915
+      },
+      {
+        "token": "perché",
+        "startTime": 344915,
+        "endTime": 345455
+      }
+    ]
+  },
+  {
+    "sentence_text": "ho detto io ho sempre usato posteggiare",
+    "translations": {
+      "en": "I said I've always used 'posteggiare',"
+    },
+    "segments": [
+      {
+        "token": "ho",
+        "startTime": 345455,
+        "endTime": 345575
+      },
+      {
+        "token": "detto",
+        "startTime": 345575,
+        "endTime": 345855
+      },
+      {
+        "token": "io",
+        "startTime": 345855,
+        "endTime": 346655
+      },
+      {
+        "token": "ho",
+        "startTime": 346655,
+        "endTime": 346755
+      },
+      {
+        "token": "sempre",
+        "startTime": 346755,
+        "endTime": 346995
+      },
+      {
+        "token": "usato",
+        "startTime": 346995,
+        "endTime": 347375
+      },
+      {
+        "token": "posteggiare",
+        "startTime": 347375,
+        "endTime": 348355
+      }
+    ]
+  },
+  {
+    "sentence_text": "però si può usare anche parcheggiare ovviamente ho",
+    "translations": {
+      "en": "but you can also use 'parcheggiare', obviously. I've"
+    },
+    "segments": [
+      {
+        "token": "però",
+        "startTime": 348355,
+        "endTime": 348715
+      },
+      {
+        "token": "si",
+        "startTime": 348715,
+        "endTime": 348915
+      },
+      {
+        "token": "può",
+        "startTime": 348915,
+        "endTime": 349035
+      },
+      {
+        "token": "usare",
+        "startTime": 349035,
+        "endTime": 349355
+      },
+      {
+        "token": "anche",
+        "startTime": 349355,
+        "endTime": 349695
+      },
+      {
+        "token": "parcheggiare",
+        "startTime": 349695,
+        "endTime": 350575
+      },
+      {
+        "token": "ovviamente",
+        "startTime": 350575,
+        "endTime": 350735
+      },
+      {
+        "token": "ho",
+        "startTime": 350735,
+        "endTime": 351515
+      }
+    ]
+  },
+  {
+    "sentence_text": "sentito entrambe le versioni e mi è venuto il dubbio ma ci sarà qualche",
+    "translations": {
+      "en": "heard both versions, and I wondered if there might be some"
+    },
+    "segments": [
+      {
+        "token": "sentito",
+        "startTime": 351515,
+        "endTime": 351910
+      },
+      {
+        "token": "entrambe",
+        "startTime": 351910,
+        "endTime": 352530
+      },
+      {
+        "token": "le",
+        "startTime": 352530,
+        "endTime": 352670
+      },
+      {
+        "token": "versioni",
+        "startTime": 352670,
+        "endTime": 353250
+      },
+      {
+        "token": "e",
+        "startTime": 353250,
+        "endTime": 353810
+      },
+      {
+        "token": "mi",
+        "startTime": 353810,
+        "endTime": 354010
+      },
+      {
+        "token": "è",
+        "startTime": 354010,
+        "endTime": 354070
+      },
+      {
+        "token": "venuto",
+        "startTime": 354070,
+        "endTime": 354250
+      },
+      {
+        "token": "il",
+        "startTime": 354250,
+        "endTime": 354410
+      },
+      {
+        "token": "dubbio",
+        "startTime": 354410,
+        "endTime": 354650
+      },
+      {
+        "token": "ma",
+        "startTime": 354650,
+        "endTime": 354850
+      },
+      {
+        "token": "ci",
+        "startTime": 354850,
+        "endTime": 355010
+      },
+      {
+        "token": "sarà",
+        "startTime": 355010,
+        "endTime": 355230
+      },
+      {
+        "token": "qualche",
+        "startTime": 355230,
+        "endTime": 355510
+      }
+    ]
+  },
+  {
+    "sentence_text": "differenza fra i due verbi?",
+    "translations": {
+      "en": "difference between the two verbs?"
+    },
+    "segments": [
+      {
+        "token": "differenza",
+        "startTime": 355510,
+        "endTime": 356150
+      },
+      {
+        "token": "fra",
+        "startTime": 356150,
+        "endTime": 356370
+      },
+      {
+        "token": "i",
+        "startTime": 356370,
+        "endTime": 356470
+      },
+      {
+        "token": "due",
+        "startTime": 356470,
+        "endTime": 356530
+      },
+      {
+        "token": "verbi?",
+        "startTime": 356530,
+        "endTime": 357490
+      }
+    ]
+  },
+  {
+    "sentence_text": "E a quanto pare posteggiare",
+    "translations": {
+      "en": "And apparently 'posteggiare'"
+    },
+    "segments": [
+      {
+        "token": "E",
+        "startTime": 357490,
+        "endTime": 357630
+      },
+      {
+        "token": "a",
+        "startTime": 357630,
+        "endTime": 357770
+      },
+      {
+        "token": "quanto",
+        "startTime": 357770,
+        "endTime": 358030
+      },
+      {
+        "token": "pare",
+        "startTime": 358030,
+        "endTime": 358410
+      },
+      {
+        "token": "posteggiare",
+        "startTime": 358410,
+        "endTime": 359590
+      }
+    ]
+  },
+  {
+    "sentence_text": "si usa molto in Liguria perché come sapete sono di Genova e",
+    "translations": {
+      "en": "is used a lot in Liguria because, as you know, I'm from Genoa, and"
+    },
+    "segments": [
+      {
+        "token": "si",
+        "startTime": 359590,
+        "endTime": 359870
+      },
+      {
+        "token": "usa",
+        "startTime": 359870,
+        "endTime": 360170
+      },
+      {
+        "token": "molto",
+        "startTime": 360170,
+        "endTime": 360590
+      },
+      {
+        "token": "in",
+        "startTime": 360590,
+        "endTime": 361010
+      },
+      {
+        "token": "Liguria",
+        "startTime": 361010,
+        "endTime": 361430
+      },
+      {
+        "token": "perché",
+        "startTime": 361430,
+        "endTime": 361850
+      },
+      {
+        "token": "come",
+        "startTime": 361850,
+        "endTime": 362070
+      },
+      {
+        "token": "sapete",
+        "startTime": 362070,
+        "endTime": 362430
+      },
+      {
+        "token": "sono",
+        "startTime": 362430,
+        "endTime": 362650
+      },
+      {
+        "token": "di",
+        "startTime": 362650,
+        "endTime": 362910
+      },
+      {
+        "token": "Genova",
+        "startTime": 362910,
+        "endTime": 363390
+      },
+      {
+        "token": "e",
+        "startTime": 363390,
+        "endTime": 364010
+      }
+    ]
+  },
+  {
+    "sentence_text": "quindi ecco perché vi ho insegnato anche posteggiare.",
+    "translations": {
+      "en": "so that's why I also taught you 'posteggiare'."
+    },
+    "segments": [
+      {
+        "token": "quindi",
+        "startTime": 364010,
+        "endTime": 364310
+      },
+      {
+        "token": "ecco",
+        "startTime": 364310,
+        "endTime": 364670
+      },
+      {
+        "token": "perché",
+        "startTime": 364670,
+        "endTime": 364990
+      },
+      {
+        "token": "vi",
+        "startTime": 364990,
+        "endTime": 365450
+      },
+      {
+        "token": "ho",
+        "startTime": 365450,
+        "endTime": 365470
+      },
+      {
+        "token": "insegnato",
+        "startTime": 365470,
+        "endTime": 366010
+      },
+      {
+        "token": "anche",
+        "startTime": 366010,
+        "endTime": 366350
+      },
+      {
+        "token": "posteggiare.",
+        "startTime": 366350,
+        "endTime": 367090
+      }
+    ]
+  },
+  {
+    "sentence_text": "Semplicemente perché io l'ho usato di più ma potete usare entrambi i verbi.",
+    "translations": {
+      "en": "Simply because I've used it more, but you can use both verbs."
+    },
+    "segments": [
+      {
+        "token": "Semplicemente",
+        "startTime": 367090,
+        "endTime": 367670
+      },
+      {
+        "token": "perché",
+        "startTime": 367670,
+        "endTime": 367950
+      },
+      {
+        "token": "io",
+        "startTime": 367950,
+        "endTime": 368230
+      },
+      {
+        "token": "l'ho",
+        "startTime": 368230,
+        "endTime": 368390
+      },
+      {
+        "token": "usato",
+        "startTime": 368390,
+        "endTime": 368770
+      },
+      {
+        "token": "di",
+        "startTime": 368770,
+        "endTime": 368950
+      },
+      {
+        "token": "più",
+        "startTime": 368950,
+        "endTime": 369150
+      },
+      {
+        "token": "ma",
+        "startTime": 369150,
+        "endTime": 369510
+      },
+      {
+        "token": "potete",
+        "startTime": 369510,
+        "endTime": 370170
+      },
+      {
+        "token": "usare",
+        "startTime": 370170,
+        "endTime": 370470
+      },
+      {
+        "token": "entrambi",
+        "startTime": 370470,
+        "endTime": 370870
+      },
+      {
+        "token": "i",
+        "startTime": 370870,
+        "endTime": 370950
+      },
+      {
+        "token": "verbi.",
+        "startTime": 370950,
+        "endTime": 370950
+      }
+    ]
+  },
+  {
+    "sentence_text": "Però posteggiare è un po' più comune in alcune regioni del nord Italia.",
+    "translations": {
+      "en": "However, 'posteggiare' is a bit more common in some regions of northern Italy."
+    },
+    "segments": [
+      {
+        "token": "Però",
+        "startTime": 370950,
+        "endTime": 371650
+      },
+      {
+        "token": "posteggiare",
+        "startTime": 371650,
+        "endTime": 372410
+      },
+      {
+        "token": "è",
+        "startTime": 372410,
+        "endTime": 372510
+      },
+      {
+        "token": "un",
+        "startTime": 372510,
+        "endTime": 372570
+      },
+      {
+        "token": "po'",
+        "startTime": 372570,
+        "endTime": 372690
+      },
+      {
+        "token": "più",
+        "startTime": 372690,
+        "endTime": 372770
+      },
+      {
+        "token": "comune",
+        "startTime": 372770,
+        "endTime": 373090
+      },
+      {
+        "token": "in",
+        "startTime": 373090,
+        "endTime": 373250
+      },
+      {
+        "token": "alcune",
+        "startTime": 373250,
+        "endTime": 373650
+      },
+      {
+        "token": "regioni",
+        "startTime": 373650,
+        "endTime": 374090
+      },
+      {
+        "token": "del",
+        "startTime": 374090,
+        "endTime": 374290
+      },
+      {
+        "token": "nord",
+        "startTime": 374290,
+        "endTime": 374490
+      },
+      {
+        "token": "Italia.",
+        "startTime": 374490,
+        "endTime": 375450
+      }
+    ]
+  },
+  {
+    "sentence_text": "parcheggiare invece si usa in tutta Italia.",
+    "translations": {
+      "en": "'parcheggiare', on the other hand, is used throughout Italy."
+    },
+    "segments": [
+      {
+        "token": "parcheggiare",
+        "startTime": 375450,
+        "endTime": 375950
+      },
+      {
+        "token": "invece",
+        "startTime": 375950,
+        "endTime": 376250
+      },
+      {
+        "token": "si",
+        "startTime": 376250,
+        "endTime": 376630
+      },
+      {
+        "token": "usa",
+        "startTime": 376630,
+        "endTime": 377030
+      },
+      {
+        "token": "in",
+        "startTime": 377030,
+        "endTime": 377310
+      },
+      {
+        "token": "tutta",
+        "startTime": 377310,
+        "endTime": 377590
+      },
+      {
+        "token": "Italia.",
+        "startTime": 377590,
+        "endTime": 378170
+      }
+    ]
+  },
+  {
+    "sentence_text": "Se avete parcheggiato nelle strisce blu, come vi dicevo queste sono le strisce blu,",
+    "translations": {
+      "en": "If you've parked in the blue zones, as I was saying, these are the blue zones,"
+    },
+    "segments": [
+      {
+        "token": "Se",
+        "startTime": 378170,
+        "endTime": 378450
+      },
+      {
+        "token": "avete",
+        "startTime": 378450,
+        "endTime": 378770
+      },
+      {
+        "token": "parcheggiato",
+        "startTime": 378770,
+        "endTime": 379750
+      },
+      {
+        "token": "nelle",
+        "startTime": 379750,
+        "endTime": 380490
+      },
+      {
+        "token": "strisce",
+        "startTime": 380490,
+        "endTime": 381190
+      },
+      {
+        "token": "blu,",
+        "startTime": 381190,
+        "endTime": 381190
+      },
+      {
+        "token": "come",
+        "startTime": 381190,
+        "endTime": 382430
+      },
+      {
+        "token": "vi",
+        "startTime": 382430,
+        "endTime": 382570
+      },
+      {
+        "token": "dicevo",
+        "startTime": 382570,
+        "endTime": 382950
+      },
+      {
+        "token": "queste",
+        "startTime": 382950,
+        "endTime": 383330
+      },
+      {
+        "token": "sono",
+        "startTime": 383330,
+        "endTime": 383650
+      },
+      {
+        "token": "le",
+        "startTime": 383650,
+        "endTime": 383890
+      },
+      {
+        "token": "strisce",
+        "startTime": 383890,
+        "endTime": 385210
+      },
+      {
+        "token": "blu,",
+        "startTime": 385210,
+        "endTime": 385810
+      }
+    ]
+  },
+  {
+    "sentence_text": "probabilmente dovete pagare.",
+    "translations": {
+      "en": "you probably have to pay."
+    },
+    "segments": [
+      {
+        "token": "probabilmente",
+        "startTime": 385810,
+        "endTime": 387030
+      },
+      {
+        "token": "dovete",
+        "startTime": 387030,
+        "endTime": 387610
+      },
+      {
+        "token": "pagare.",
+        "startTime": 387610,
+        "endTime": 388210
+      }
+    ]
+  },
+  {
+    "sentence_text": "In alcune fasce orarie non è necessario pagare ma",
+    "translations": {
+      "en": "In some time slots it's not necessary to pay, but"
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 388210,
+        "endTime": 388290
+      },
+      {
+        "token": "alcune",
+        "startTime": 388290,
+        "endTime": 388550
+      },
+      {
+        "token": "fasce",
+        "startTime": 388550,
+        "endTime": 388610
+      },
+      {
+        "token": "orarie",
+        "startTime": 388610,
+        "endTime": 389290
+      },
+      {
+        "token": "non",
+        "startTime": 389290,
+        "endTime": 389490
+      },
+      {
+        "token": "è",
+        "startTime": 389490,
+        "endTime": 389610
+      },
+      {
+        "token": "necessario",
+        "startTime": 389610,
+        "endTime": 390130
+      },
+      {
+        "token": "pagare",
+        "startTime": 390130,
+        "endTime": 390590
+      },
+      {
+        "token": "ma",
+        "startTime": 390590,
+        "endTime": 391490
+      }
+    ]
+  },
+  {
+    "sentence_text": "nella maggior parte delle fasce orarie è necessario pagare e per pagare dobbiamo andare qui.",
+    "translations": {
+      "en": "in most time slots you need to pay, and to pay we have to go here."
+    },
+    "segments": [
+      {
+        "token": "nella",
+        "startTime": 391490,
+        "endTime": 392170
+      },
+      {
+        "token": "maggior",
+        "startTime": 392170,
+        "endTime": 392510
+      },
+      {
+        "token": "parte",
+        "startTime": 392510,
+        "endTime": 392990
+      },
+      {
+        "token": "delle",
+        "startTime": 392990,
+        "endTime": 393230
+      },
+      {
+        "token": "fasce",
+        "startTime": 393230,
+        "endTime": 393510
+      },
+      {
+        "token": "orarie",
+        "startTime": 393510,
+        "endTime": 393950
+      },
+      {
+        "token": "è",
+        "startTime": 393950,
+        "endTime": 394110
+      },
+      {
+        "token": "necessario",
+        "startTime": 394110,
+        "endTime": 394630
+      },
+      {
+        "token": "pagare",
+        "startTime": 394630,
+        "endTime": 395050
+      },
+      {
+        "token": "e",
+        "startTime": 395050,
+        "endTime": 395750
+      },
+      {
+        "token": "per",
+        "startTime": 395750,
+        "endTime": 396210
+      },
+      {
+        "token": "pagare",
+        "startTime": 396210,
+        "endTime": 397010
+      },
+      {
+        "token": "dobbiamo",
+        "startTime": 397010,
+        "endTime": 397950
+      },
+      {
+        "token": "andare",
+        "startTime": 397950,
+        "endTime": 398530
+      },
+      {
+        "token": "qui.",
+        "startTime": 398530,
+        "endTime": 400610
+      }
+    ]
+  },
+  {
+    "sentence_text": "Questo è un parchimetro, voi inserite il biglietto,",
+    "translations": {
+      "en": "This is a parking meter, you insert the ticket,"
+    },
+    "segments": [
+      {
+        "token": "Questo",
+        "startTime": 400610,
+        "endTime": 401810
+      },
+      {
+        "token": "è",
+        "startTime": 401810,
+        "endTime": 402050
+      },
+      {
+        "token": "un",
+        "startTime": 402050,
+        "endTime": 402350
+      },
+      {
+        "token": "parchimetro,",
+        "startTime": 402350,
+        "endTime": 404230
+      },
+      {
+        "token": "voi",
+        "startTime": 404230,
+        "endTime": 404370
+      },
+      {
+        "token": "inserite",
+        "startTime": 404370,
+        "endTime": 405070
+      },
+      {
+        "token": "il",
+        "startTime": 405070,
+        "endTime": 405370
+      },
+      {
+        "token": "biglietto,",
+        "startTime": 405370,
+        "endTime": 405450
+      }
+    ]
+  },
+  {
+    "sentence_text": "inserite i soldi e pagate la sosta della vostra macchina.",
+    "translations": {
+      "en": "insert the money and pay for your car's parking."
+    },
+    "segments": [
+      {
+        "token": "inserite",
+        "startTime": 405450,
+        "endTime": 407130
+      },
+      {
+        "token": "i",
+        "startTime": 407130,
+        "endTime": 407410
+      },
+      {
+        "token": "soldi",
+        "startTime": 407410,
+        "endTime": 408050
+      },
+      {
+        "token": "e",
+        "startTime": 408050,
+        "endTime": 408430
+      },
+      {
+        "token": "pagate",
+        "startTime": 408430,
+        "endTime": 408910
+      },
+      {
+        "token": "la",
+        "startTime": 408910,
+        "endTime": 409110
+      },
+      {
+        "token": "sosta",
+        "startTime": 409110,
+        "endTime": 409470
+      },
+      {
+        "token": "della",
+        "startTime": 409470,
+        "endTime": 409630
+      },
+      {
+        "token": "vostra",
+        "startTime": 409630,
+        "endTime": 409990
+      },
+      {
+        "token": "macchina.",
+        "startTime": 409990,
+        "endTime": 410550
+      }
+    ]
+  },
+  {
+    "sentence_text": "Queste sono delle strisce bianche, vuol dire che qui si può parcheggiare senza pagare niente,",
+    "translations": {
+      "en": "These are white lines, meaning you can park here for free,"
+    },
+    "segments": [
+      {
+        "token": "Queste",
+        "startTime": 410550,
+        "endTime": 410970
+      },
+      {
+        "token": "sono",
+        "startTime": 410970,
+        "endTime": 411210
+      },
+      {
+        "token": "delle",
+        "startTime": 411210,
+        "endTime": 411470
+      },
+      {
+        "token": "strisce",
+        "startTime": 411470,
+        "endTime": 411870
+      },
+      {
+        "token": "bianche,",
+        "startTime": 411870,
+        "endTime": 413550
+      },
+      {
+        "token": "vuol",
+        "startTime": 413550,
+        "endTime": 413810
+      },
+      {
+        "token": "dire",
+        "startTime": 413810,
+        "endTime": 414090
+      },
+      {
+        "token": "che",
+        "startTime": 414090,
+        "endTime": 414370
+      },
+      {
+        "token": "qui",
+        "startTime": 414370,
+        "endTime": 414670
+      },
+      {
+        "token": "si",
+        "startTime": 414670,
+        "endTime": 415310
+      },
+      {
+        "token": "può",
+        "startTime": 415310,
+        "endTime": 415710
+      },
+      {
+        "token": "parcheggiare",
+        "startTime": 415710,
+        "endTime": 417010
+      },
+      {
+        "token": "senza",
+        "startTime": 417010,
+        "endTime": 417770
+      },
+      {
+        "token": "pagare",
+        "startTime": 417770,
+        "endTime": 418570
+      },
+      {
+        "token": "niente,",
+        "startTime": 418570,
+        "endTime": 419190
+      }
+    ]
+  },
+  {
+    "sentence_text": "non è necessario pagare per parcheggiare nelle stisce bianche.",
+    "translations": {
+      "en": "it's not necessary to pay to park in the white lines."
+    },
+    "segments": [
+      {
+        "token": "non",
+        "startTime": 419190,
+        "endTime": 419410
+      },
+      {
+        "token": "è",
+        "startTime": 419410,
+        "endTime": 419510
+      },
+      {
+        "token": "necessario",
+        "startTime": 419510,
+        "endTime": 420150
+      },
+      {
+        "token": "pagare",
+        "startTime": 420150,
+        "endTime": 420790
+      },
+      {
+        "token": "per",
+        "startTime": 420790,
+        "endTime": 421070
+      },
+      {
+        "token": "parcheggiare",
+        "startTime": 421070,
+        "endTime": 421910
+      },
+      {
+        "token": "nelle",
+        "startTime": 421910,
+        "endTime": 422550
+      },
+      {
+        "token": "stisce",
+        "startTime": 422550,
+        "endTime": 422810
+      },
+      {
+        "token": "bianche.",
+        "startTime": 422810,
+        "endTime": 423870
+      }
+    ]
+  },
+  {
+    "sentence_text": "Qui invece c'è un altro cestino dalla spazzatura.",
+    "translations": {
+      "en": "Here there's another trash bin."
+    },
+    "segments": [
+      {
+        "token": "Qui",
+        "startTime": 423870,
+        "endTime": 423890
+      },
+      {
+        "token": "invece",
+        "startTime": 423890,
+        "endTime": 424270
+      },
+      {
+        "token": "c'è",
+        "startTime": 424270,
+        "endTime": 424570
+      },
+      {
+        "token": "un",
+        "startTime": 424570,
+        "endTime": 424710
+      },
+      {
+        "token": "altro",
+        "startTime": 424710,
+        "endTime": 424930
+      },
+      {
+        "token": "cestino",
+        "startTime": 424930,
+        "endTime": 425450
+      },
+      {
+        "token": "dalla",
+        "startTime": 425450,
+        "endTime": 425610
+      },
+      {
+        "token": "spazzatura.",
+        "startTime": 425610,
+        "endTime": 426390
+      }
+    ]
+  },
+  {
+    "sentence_text": "In teoria qui si può buttare tutto quello che noi vogliamo, ovviamente senza esagerare.",
+    "translations": {
+      "en": "In theory, you can throw away anything you want here, obviously without overdoing it."
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 426390,
+        "endTime": 428530
+      },
+      {
+        "token": "teoria",
+        "startTime": 428530,
+        "endTime": 428830
+      },
+      {
+        "token": "qui",
+        "startTime": 428830,
+        "endTime": 428830
+      },
+      {
+        "token": "si",
+        "startTime": 428830,
+        "endTime": 429590
+      },
+      {
+        "token": "può",
+        "startTime": 429590,
+        "endTime": 429770
+      },
+      {
+        "token": "buttare",
+        "startTime": 429770,
+        "endTime": 430330
+      },
+      {
+        "token": "tutto",
+        "startTime": 430330,
+        "endTime": 431270
+      },
+      {
+        "token": "quello",
+        "startTime": 431270,
+        "endTime": 431570
+      },
+      {
+        "token": "che",
+        "startTime": 431570,
+        "endTime": 431690
+      },
+      {
+        "token": "noi",
+        "startTime": 431690,
+        "endTime": 431810
+      },
+      {
+        "token": "vogliamo,",
+        "startTime": 431810,
+        "endTime": 432470
+      },
+      {
+        "token": "ovviamente",
+        "startTime": 432470,
+        "endTime": 434970
+      },
+      {
+        "token": "senza",
+        "startTime": 434970,
+        "endTime": 435290
+      },
+      {
+        "token": "esagerare.",
+        "startTime": 435290,
+        "endTime": 436150
+      }
+    ]
+  },
+  {
+    "sentence_text": "Adesso in realtà non c'è molto traffico,",
+    "translations": {
+      "en": "Right now there isn't much traffic actually,"
+    },
+    "segments": [
+      {
+        "token": "Adesso",
+        "startTime": 436150,
+        "endTime": 437010
+      },
+      {
+        "token": "in",
+        "startTime": 437010,
+        "endTime": 437150
+      },
+      {
+        "token": "realtà",
+        "startTime": 437150,
+        "endTime": 437390
+      },
+      {
+        "token": "non",
+        "startTime": 437390,
+        "endTime": 437890
+      },
+      {
+        "token": "c'è",
+        "startTime": 437890,
+        "endTime": 438390
+      },
+      {
+        "token": "molto",
+        "startTime": 438390,
+        "endTime": 438790
+      },
+      {
+        "token": "traffico,",
+        "startTime": 438790,
+        "endTime": 439470
+      }
+    ]
+  },
+  {
+    "sentence_text": "non ci sono molte macchine o molte moto perché sono uscita nell'ora di punta,",
+    "translations": {
+      "en": "there aren't many cars or motorcycles because I went out during rush hour,"
+    },
+    "segments": [
+      {
+        "token": "non",
+        "startTime": 439470,
+        "endTime": 439550
+      },
+      {
+        "token": "ci",
+        "startTime": 439550,
+        "endTime": 439670
+      },
+      {
+        "token": "sono",
+        "startTime": 439670,
+        "endTime": 439850
+      },
+      {
+        "token": "molte",
+        "startTime": 439850,
+        "endTime": 440430
+      },
+      {
+        "token": "macchine",
+        "startTime": 440430,
+        "endTime": 441070
+      },
+      {
+        "token": "o",
+        "startTime": 441070,
+        "endTime": 441490
+      },
+      {
+        "token": "molte",
+        "startTime": 441490,
+        "endTime": 441810
+      },
+      {
+        "token": "moto",
+        "startTime": 441810,
+        "endTime": 442170
+      },
+      {
+        "token": "perché",
+        "startTime": 442170,
+        "endTime": 443330
+      },
+      {
+        "token": "sono",
+        "startTime": 443330,
+        "endTime": 443750
+      },
+      {
+        "token": "uscita",
+        "startTime": 443750,
+        "endTime": 444310
+      },
+      {
+        "token": "nell'ora",
+        "startTime": 444310,
+        "endTime": 444970
+      },
+      {
+        "token": "di",
+        "startTime": 444970,
+        "endTime": 445170
+      },
+      {
+        "token": "punta,",
+        "startTime": 445170,
+        "endTime": 446070
+      }
+    ]
+  },
+  {
+    "sentence_text": "ovvero quella del pranzo in cui fa più caldo.",
+    "translations": {
+      "en": "that is, lunchtime when it's hottest."
+    },
+    "segments": [
+      {
+        "token": "ovvero",
+        "startTime": 446070,
+        "endTime": 446510
+      },
+      {
+        "token": "quella",
+        "startTime": 446510,
+        "endTime": 447250
+      },
+      {
+        "token": "del",
+        "startTime": 447250,
+        "endTime": 447410
+      },
+      {
+        "token": "pranzo",
+        "startTime": 447410,
+        "endTime": 447870
+      },
+      {
+        "token": "in",
+        "startTime": 447870,
+        "endTime": 448150
+      },
+      {
+        "token": "cui",
+        "startTime": 448150,
+        "endTime": 448290
+      },
+      {
+        "token": "fa",
+        "startTime": 448290,
+        "endTime": 448430
+      },
+      {
+        "token": "più",
+        "startTime": 448430,
+        "endTime": 448610
+      },
+      {
+        "token": "caldo.",
+        "startTime": 448610,
+        "endTime": 449070
+      }
+    ]
+  },
+  {
+    "sentence_text": "Infatti è un po' meno rumoroso del solito.",
+    "translations": {
+      "en": "Indeed, it's a bit less noisy than usual."
+    },
+    "segments": [
+      {
+        "token": "Infatti",
+        "startTime": 449070,
+        "endTime": 450450
+      },
+      {
+        "token": "è",
+        "startTime": 450450,
+        "endTime": 451290
+      },
+      {
+        "token": "un",
+        "startTime": 451290,
+        "endTime": 451510
+      },
+      {
+        "token": "po'",
+        "startTime": 451510,
+        "endTime": 451630
+      },
+      {
+        "token": "meno",
+        "startTime": 451630,
+        "endTime": 451930
+      },
+      {
+        "token": "rumoroso",
+        "startTime": 451930,
+        "endTime": 452630
+      },
+      {
+        "token": "del",
+        "startTime": 452630,
+        "endTime": 452790
+      },
+      {
+        "token": "solito.",
+        "startTime": 452790,
+        "endTime": 454110
+      }
+    ]
+  },
+  {
+    "sentence_text": "Però volevo mostrarvi un'altra cosa importante",
+    "translations": {
+      "en": "But I wanted to show you another important thing"
+    },
+    "segments": [
+      {
+        "token": "Però",
+        "startTime": 454110,
+        "endTime": 454270
+      },
+      {
+        "token": "volevo",
+        "startTime": 454270,
+        "endTime": 454750
+      },
+      {
+        "token": "mostrarvi",
+        "startTime": 454750,
+        "endTime": 455470
+      },
+      {
+        "token": "un'altra",
+        "startTime": 455470,
+        "endTime": 455850
+      },
+      {
+        "token": "cosa",
+        "startTime": 455850,
+        "endTime": 456350
+      },
+      {
+        "token": "importante",
+        "startTime": 456350,
+        "endTime": 457090
+      }
+    ]
+  },
+  {
+    "sentence_text": "della strada perché se guidate una macchina è un vocabolo molto importante.",
+    "translations": {
+      "en": "about the road, because if you drive a car, it's a very important word."
+    },
+    "segments": [
+      {
+        "token": "della",
+        "startTime": 457090,
+        "endTime": 457630
+      },
+      {
+        "token": "strada",
+        "startTime": 457630,
+        "endTime": 458150
+      },
+      {
+        "token": "perché",
+        "startTime": 458150,
+        "endTime": 458850
+      },
+      {
+        "token": "se",
+        "startTime": 458850,
+        "endTime": 459010
+      },
+      {
+        "token": "guidate",
+        "startTime": 459010,
+        "endTime": 459230
+      },
+      {
+        "token": "una",
+        "startTime": 459230,
+        "endTime": 459390
+      },
+      {
+        "token": "macchina",
+        "startTime": 459390,
+        "endTime": 459710
+      },
+      {
+        "token": "è",
+        "startTime": 459710,
+        "endTime": 460050
+      },
+      {
+        "token": "un",
+        "startTime": 460050,
+        "endTime": 460050
+      },
+      {
+        "token": "vocabolo",
+        "startTime": 460050,
+        "endTime": 460750
+      },
+      {
+        "token": "molto",
+        "startTime": 460750,
+        "endTime": 461250
+      },
+      {
+        "token": "importante.",
+        "startTime": 461250,
+        "endTime": 462130
+      }
+    ]
+  },
+  {
+    "sentence_text": "Qui c'è un altro autobus.",
+    "translations": {
+      "en": "Here's another bus."
+    },
+    "segments": [
+      {
+        "token": "Qui",
+        "startTime": 462130,
+        "endTime": 462730
+      },
+      {
+        "token": "c'è",
+        "startTime": 462730,
+        "endTime": 462890
+      },
+      {
+        "token": "un",
+        "startTime": 462890,
+        "endTime": 463010
+      },
+      {
+        "token": "altro",
+        "startTime": 463010,
+        "endTime": 463270
+      },
+      {
+        "token": "autobus.",
+        "startTime": 463270,
+        "endTime": 464130
+      }
+    ]
+  },
+  {
+    "sentence_text": "Questa qui è una rotonda,",
+    "translations": {
+      "en": "This here is a roundabout,"
+    },
+    "segments": [
+      {
+        "token": "Questa",
+        "startTime": 464130,
+        "endTime": 465170
+      },
+      {
+        "token": "qui",
+        "startTime": 465170,
+        "endTime": 465410
+      },
+      {
+        "token": "è",
+        "startTime": 465410,
+        "endTime": 465710
+      },
+      {
+        "token": "una",
+        "startTime": 465710,
+        "endTime": 465910
+      },
+      {
+        "token": "rotonda,",
+        "startTime": 465910,
+        "endTime": 466830
+      }
+    ]
+  },
+  {
+    "sentence_text": "quindi arrivano macchine da diverse strade e possono venire in questa direzione",
+    "translations": {
+      "en": "so cars come from different roads and can go in this direction"
+    },
+    "segments": [
+      {
+        "token": "quindi",
+        "startTime": 466830,
+        "endTime": 468310
+      },
+      {
+        "token": "arrivano",
+        "startTime": 468310,
+        "endTime": 469910
+      },
+      {
+        "token": "macchine",
+        "startTime": 469910,
+        "endTime": 470470
+      },
+      {
+        "token": "da",
+        "startTime": 470470,
+        "endTime": 471310
+      },
+      {
+        "token": "diverse",
+        "startTime": 471310,
+        "endTime": 471970
+      },
+      {
+        "token": "strade",
+        "startTime": 471970,
+        "endTime": 472750
+      },
+      {
+        "token": "e",
+        "startTime": 472750,
+        "endTime": 474410
+      },
+      {
+        "token": "possono",
+        "startTime": 474410,
+        "endTime": 474770
+      },
+      {
+        "token": "venire",
+        "startTime": 474770,
+        "endTime": 475130
+      },
+      {
+        "token": "in",
+        "startTime": 475130,
+        "endTime": 475270
+      },
+      {
+        "token": "questa",
+        "startTime": 475270,
+        "endTime": 475450
+      },
+      {
+        "token": "direzione",
+        "startTime": 475450,
+        "endTime": 476270
+      }
+    ]
+  },
+  {
+    "sentence_text": "o possono andare in quest'altra direzione.",
+    "translations": {
+      "en": "or they can go in that other direction."
+    },
+    "segments": [
+      {
+        "token": "o",
+        "startTime": 476270,
+        "endTime": 476730
+      },
+      {
+        "token": "possono",
+        "startTime": 476730,
+        "endTime": 477150
+      },
+      {
+        "token": "andare",
+        "startTime": 477150,
+        "endTime": 477610
+      },
+      {
+        "token": "in",
+        "startTime": 477610,
+        "endTime": 478010
+      },
+      {
+        "token": "quest'altra",
+        "startTime": 478010,
+        "endTime": 478050
+      },
+      {
+        "token": "direzione.",
+        "startTime": 478050,
+        "endTime": 480310
+      }
+    ]
+  },
+  {
+    "sentence_text": "È rotonda, come un cerchio.",
+    "translations": {
+      "en": "It's round, like a circle."
+    },
+    "segments": [
+      {
+        "token": "È",
+        "startTime": 480310,
+        "endTime": 480330
+      },
+      {
+        "token": "rotonda,",
+        "startTime": 480330,
+        "endTime": 481010
+      },
+      {
+        "token": "come",
+        "startTime": 481010,
+        "endTime": 481970
+      },
+      {
+        "token": "un",
+        "startTime": 481970,
+        "endTime": 482150
+      },
+      {
+        "token": "cerchio.",
+        "startTime": 482150,
+        "endTime": 482750
+      }
+    ]
+  },
+  {
+    "sentence_text": "Tra l'altro io spero che voi possiate ascoltare bene tutto,",
+    "translations": {
+      "en": "By the way, I hope you can hear everything well,"
+    },
+    "segments": [
+      {
+        "token": "Tra",
+        "startTime": 482750,
+        "endTime": 484090
+      },
+      {
+        "token": "l'altro",
+        "startTime": 484090,
+        "endTime": 484570
+      },
+      {
+        "token": "io",
+        "startTime": 484570,
+        "endTime": 485090
+      },
+      {
+        "token": "spero",
+        "startTime": 485090,
+        "endTime": 485610
+      },
+      {
+        "token": "che",
+        "startTime": 485610,
+        "endTime": 485770
+      },
+      {
+        "token": "voi",
+        "startTime": 485770,
+        "endTime": 485910
+      },
+      {
+        "token": "possiate",
+        "startTime": 485910,
+        "endTime": 486650
+      },
+      {
+        "token": "ascoltare",
+        "startTime": 486650,
+        "endTime": 487770
+      },
+      {
+        "token": "bene",
+        "startTime": 487770,
+        "endTime": 488030
+      },
+      {
+        "token": "tutto,",
+        "startTime": 488030,
+        "endTime": 488030
+      }
+    ]
+  },
+  {
+    "sentence_text": "perché essendo comunque in mezzo alla strada, anche se non c'è molto traffico,",
+    "translations": {
+      "en": "because being in the middle of the road anyway, even if there isn't much traffic,"
+    },
+    "segments": [
+      {
+        "token": "perché",
+        "startTime": 488030,
+        "endTime": 489450
+      },
+      {
+        "token": "essendo",
+        "startTime": 489450,
+        "endTime": 489790
+      },
+      {
+        "token": "comunque",
+        "startTime": 489790,
+        "endTime": 490150
+      },
+      {
+        "token": "in",
+        "startTime": 490150,
+        "endTime": 490410
+      },
+      {
+        "token": "mezzo",
+        "startTime": 490410,
+        "endTime": 490530
+      },
+      {
+        "token": "alla",
+        "startTime": 490530,
+        "endTime": 490670
+      },
+      {
+        "token": "strada,",
+        "startTime": 490670,
+        "endTime": 491150
+      },
+      {
+        "token": "anche",
+        "startTime": 491150,
+        "endTime": 491530
+      },
+      {
+        "token": "se",
+        "startTime": 491530,
+        "endTime": 491730
+      },
+      {
+        "token": "non",
+        "startTime": 491730,
+        "endTime": 491850
+      },
+      {
+        "token": "c'è",
+        "startTime": 491850,
+        "endTime": 492070
+      },
+      {
+        "token": "molto",
+        "startTime": 492070,
+        "endTime": 492330
+      },
+      {
+        "token": "traffico,",
+        "startTime": 492330,
+        "endTime": 493050
+      }
+    ]
+  },
+  {
+    "sentence_text": "c'è comunque rumore non è come il video della spiaggia dove potevate",
+    "translations": {
+      "en": "there's still noise, it's not like the beach video where you could"
+    },
+    "segments": [
+      {
+        "token": "c'è",
+        "startTime": 493050,
+        "endTime": 493570
+      },
+      {
+        "token": "comunque",
+        "startTime": 493570,
+        "endTime": 493970
+      },
+      {
+        "token": "rumore",
+        "startTime": 493970,
+        "endTime": 494510
+      },
+      {
+        "token": "non",
+        "startTime": 494510,
+        "endTime": 494670
+      },
+      {
+        "token": "è",
+        "startTime": 494670,
+        "endTime": 494810
+      },
+      {
+        "token": "come",
+        "startTime": 494810,
+        "endTime": 495030
+      },
+      {
+        "token": "il",
+        "startTime": 495030,
+        "endTime": 495230
+      },
+      {
+        "token": "video",
+        "startTime": 495230,
+        "endTime": 495450
+      },
+      {
+        "token": "della",
+        "startTime": 495450,
+        "endTime": 495710
+      },
+      {
+        "token": "spiaggia",
+        "startTime": 495710,
+        "endTime": 496450
+      },
+      {
+        "token": "dove",
+        "startTime": 496450,
+        "endTime": 497270
+      },
+      {
+        "token": "potevate",
+        "startTime": 497270,
+        "endTime": 498430
+      }
+    ]
+  },
+  {
+    "sentence_text": "sentire soltanto il rumore delle onde o il rumore degli uccellini qui",
+    "translations": {
+      "en": "only hear the sound of the waves or the birds here"
+    },
+    "segments": [
+      {
+        "token": "sentire",
+        "startTime": 498430,
+        "endTime": 498930
+      },
+      {
+        "token": "soltanto",
+        "startTime": 498930,
+        "endTime": 499570
+      },
+      {
+        "token": "il",
+        "startTime": 499570,
+        "endTime": 499730
+      },
+      {
+        "token": "rumore",
+        "startTime": 499730,
+        "endTime": 500010
+      },
+      {
+        "token": "delle",
+        "startTime": 500010,
+        "endTime": 500230
+      },
+      {
+        "token": "onde",
+        "startTime": 500230,
+        "endTime": 500750
+      },
+      {
+        "token": "o",
+        "startTime": 500750,
+        "endTime": 500750
+      },
+      {
+        "token": "il",
+        "startTime": 500750,
+        "endTime": 501270
+      },
+      {
+        "token": "rumore",
+        "startTime": 501270,
+        "endTime": 501550
+      },
+      {
+        "token": "degli",
+        "startTime": 501550,
+        "endTime": 501790
+      },
+      {
+        "token": "uccellini",
+        "startTime": 501790,
+        "endTime": 502490
+      },
+      {
+        "token": "qui",
+        "startTime": 502490,
+        "endTime": 503270
+      }
+    ]
+  },
+  {
+    "sentence_text": "in realtà c'è rumore comunque farò del mio meglio per attivare la cancellazione",
+    "translations": {
+      "en": "there's actually noise, but I'll do my best to activate the noise cancellation"
+    },
+    "segments": [
+      {
+        "token": "in",
+        "startTime": 503270,
+        "endTime": 503470
+      },
+      {
+        "token": "realtà",
+        "startTime": 503470,
+        "endTime": 503810
+      },
+      {
+        "token": "c'è",
+        "startTime": 503810,
+        "endTime": 504610
+      },
+      {
+        "token": "rumore",
+        "startTime": 504610,
+        "endTime": 505030
+      },
+      {
+        "token": "comunque",
+        "startTime": 505030,
+        "endTime": 505350
+      },
+      {
+        "token": "farò",
+        "startTime": 505350,
+        "endTime": 505770
+      },
+      {
+        "token": "del",
+        "startTime": 505770,
+        "endTime": 505910
+      },
+      {
+        "token": "mio",
+        "startTime": 505910,
+        "endTime": 506010
+      },
+      {
+        "token": "meglio",
+        "startTime": 506010,
+        "endTime": 506430
+      },
+      {
+        "token": "per",
+        "startTime": 506430,
+        "endTime": 507250
+      },
+      {
+        "token": "attivare",
+        "startTime": 507250,
+        "endTime": 507850
+      },
+      {
+        "token": "la",
+        "startTime": 507850,
+        "endTime": 507850
+      },
+      {
+        "token": "cancellazione",
+        "startTime": 507850,
+        "endTime": 509670
+      }
+    ]
+  },
+  {
+    "sentence_text": "del rumore adesso attraversiamo di nuovo la strada che",
+    "translations": {
+      "en": "now we cross the road again because"
+    },
+    "segments": [
+      {
+        "token": "del",
+        "startTime": 509670,
+        "endTime": 509870
+      },
+      {
+        "token": "rumore",
+        "startTime": 509870,
+        "endTime": 510210
+      },
+      {
+        "token": "adesso",
+        "startTime": 510210,
+        "endTime": 511330
+      },
+      {
+        "token": "attraversiamo",
+        "startTime": 511330,
+        "endTime": 511970
+      },
+      {
+        "token": "di",
+        "startTime": 511970,
+        "endTime": 512130
+      },
+      {
+        "token": "nuovo",
+        "startTime": 512130,
+        "endTime": 512310
+      },
+      {
+        "token": "la",
+        "startTime": 512310,
+        "endTime": 512470
+      },
+      {
+        "token": "strada",
+        "startTime": 512470,
+        "endTime": 512870
+      },
+      {
+        "token": "che",
+        "startTime": 512870,
+        "endTime": 513610
+      }
+    ]
+  },
+  {
+    "sentence_text": "vi voglio mostrare un'altra cosa e poi ritornerò verso casa.",
+    "translations": {
+      "en": "I want to show you something else, and then I'll head back home."
+    },
+    "segments": [
+      {
+        "token": "vi",
+        "startTime": 513610,
+        "endTime": 513750
+      },
+      {
+        "token": "voglio",
+        "startTime": 513750,
+        "endTime": 514050
+      },
+      {
+        "token": "mostrare",
+        "startTime": 514050,
+        "endTime": 514750
+      },
+      {
+        "token": "un'altra",
+        "startTime": 514750,
+        "endTime": 515330
+      },
+      {
+        "token": "cosa",
+        "startTime": 515330,
+        "endTime": 515730
+      },
+      {
+        "token": "e",
+        "startTime": 515730,
+        "endTime": 516530
+      },
+      {
+        "token": "poi",
+        "startTime": 516530,
+        "endTime": 516670
+      },
+      {
+        "token": "ritornerò",
+        "startTime": 516670,
+        "endTime": 517290
+      },
+      {
+        "token": "verso",
+        "startTime": 517290,
+        "endTime": 517810
+      },
+      {
+        "token": "casa.",
+        "startTime": 517810,
+        "endTime": 518370
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ora siamo in mezzo alla strada.",
+    "translations": {
+      "en": "Now we're in the middle of the road."
+    },
+    "segments": [
+      {
+        "token": "Ora",
+        "startTime": 518370,
+        "endTime": 518810
+      },
+      {
+        "token": "siamo",
+        "startTime": 518810,
+        "endTime": 518970
+      },
+      {
+        "token": "in",
+        "startTime": 518970,
+        "endTime": 519170
+      },
+      {
+        "token": "mezzo",
+        "startTime": 519170,
+        "endTime": 519490
+      },
+      {
+        "token": "alla",
+        "startTime": 519490,
+        "endTime": 519810
+      },
+      {
+        "token": "strada.",
+        "startTime": 519810,
+        "endTime": 520490
+      }
+    ]
+  },
+  {
+    "sentence_text": "Queste sono delle corsie.",
+    "translations": {
+      "en": "These are lanes."
+    },
+    "segments": [
+      {
+        "token": "Queste",
+        "startTime": 520490,
+        "endTime": 521390
+      },
+      {
+        "token": "sono",
+        "startTime": 521390,
+        "endTime": 521590
+      },
+      {
+        "token": "delle",
+        "startTime": 521590,
+        "endTime": 522010
+      },
+      {
+        "token": "corsie.",
+        "startTime": 522010,
+        "endTime": 523910
+      }
+    ]
+  },
+  {
+    "sentence_text": "Una corsia, un'altra corsia e",
+    "translations": {
+      "en": "One lane, another lane, and"
+    },
+    "segments": [
+      {
+        "token": "Una",
+        "startTime": 523910,
+        "endTime": 524110
+      },
+      {
+        "token": "corsia,",
+        "startTime": 524110,
+        "endTime": 526590
+      },
+      {
+        "token": "un'altra",
+        "startTime": 526590,
+        "endTime": 527030
+      },
+      {
+        "token": "corsia",
+        "startTime": 527030,
+        "endTime": 527770
+      },
+      {
+        "token": "e",
+        "startTime": 527770,
+        "endTime": 529330
+      }
+    ]
+  },
+  {
+    "sentence_text": "qui invece anche se non si vede bene c'è la corsia degli autobus.",
+    "translations": {
+      "en": "here, even if you can't see it well, there's the bus lane."
+    },
+    "segments": [
+      {
+        "token": "qui",
+        "startTime": 529330,
+        "endTime": 529485
+      },
+      {
+        "token": "invece",
+        "startTime": 529485,
+        "endTime": 529845
+      },
+      {
+        "token": "anche",
+        "startTime": 529845,
+        "endTime": 530085
+      },
+      {
+        "token": "se",
+        "startTime": 530085,
+        "endTime": 530265
+      },
+      {
+        "token": "non",
+        "startTime": 530265,
+        "endTime": 530365
+      },
+      {
+        "token": "si",
+        "startTime": 530365,
+        "endTime": 530525
+      },
+      {
+        "token": "vede",
+        "startTime": 530525,
+        "endTime": 530705
+      },
+      {
+        "token": "bene",
+        "startTime": 530705,
+        "endTime": 530965
+      },
+      {
+        "token": "c'è",
+        "startTime": 530965,
+        "endTime": 531405
+      },
+      {
+        "token": "la",
+        "startTime": 531405,
+        "endTime": 531605
+      },
+      {
+        "token": "corsia",
+        "startTime": 531605,
+        "endTime": 531665
+      },
+      {
+        "token": "degli",
+        "startTime": 531665,
+        "endTime": 532965
+      },
+      {
+        "token": "autobus.",
+        "startTime": 532965,
+        "endTime": 533765
+      }
+    ]
+  },
+  {
+    "sentence_text": "Avete visto quante palme?",
+    "translations": {
+      "en": "Did you see how many palm trees?"
+    },
+    "segments": [
+      {
+        "token": "Avete",
+        "startTime": 533765,
+        "endTime": 534505
+      },
+      {
+        "token": "visto",
+        "startTime": 534505,
+        "endTime": 534945
+      },
+      {
+        "token": "quante",
+        "startTime": 534945,
+        "endTime": 535565
+      },
+      {
+        "token": "palme?",
+        "startTime": 535565,
+        "endTime": 536945
+      }
+    ]
+  },
+  {
+    "sentence_text": "Una palma?",
+    "translations": {
+      "en": "A palm tree?"
+    },
+    "segments": [
+      {
+        "token": "Una",
+        "startTime": 536945,
+        "endTime": 538265
+      },
+      {
+        "token": "palma?",
+        "startTime": 538265,
+        "endTime": 539265
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quante palme ci sono?",
+    "translations": {
+      "en": "How many palm trees are there?"
+    },
+    "segments": [
+      {
+        "token": "Quante",
+        "startTime": 539265,
+        "endTime": 539865
+      },
+      {
+        "token": "palme",
+        "startTime": 539865,
+        "endTime": 540145
+      },
+      {
+        "token": "ci",
+        "startTime": 540145,
+        "endTime": 540305
+      },
+      {
+        "token": "sono?",
+        "startTime": 540305,
+        "endTime": 540805
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ci sono un sacco di alberi, sembra di essere in qualche posto super tropicale.",
+    "translations": {
+      "en": "There are a lot of trees, it feels like being somewhere super tropical."
+    },
+    "segments": [
+      {
+        "token": "Ci",
+        "startTime": 540805,
+        "endTime": 541905
+      },
+      {
+        "token": "sono",
+        "startTime": 541905,
+        "endTime": 542025
+      },
+      {
+        "token": "un",
+        "startTime": 542025,
+        "endTime": 542125
+      },
+      {
+        "token": "sacco",
+        "startTime": 542125,
+        "endTime": 542365
+      },
+      {
+        "token": "di",
+        "startTime": 542365,
+        "endTime": 542485
+      },
+      {
+        "token": "alberi,",
+        "startTime": 542485,
+        "endTime": 544185
+      },
+      {
+        "token": "sembra",
+        "startTime": 544185,
+        "endTime": 544505
+      },
+      {
+        "token": "di",
+        "startTime": 544505,
+        "endTime": 544645
+      },
+      {
+        "token": "essere",
+        "startTime": 544645,
+        "endTime": 545045
+      },
+      {
+        "token": "in",
+        "startTime": 545045,
+        "endTime": 545725
+      },
+      {
+        "token": "qualche",
+        "startTime": 545725,
+        "endTime": 546085
+      },
+      {
+        "token": "posto",
+        "startTime": 546085,
+        "endTime": 547165
+      },
+      {
+        "token": "super",
+        "startTime": 547165,
+        "endTime": 547445
+      },
+      {
+        "token": "tropicale.",
+        "startTime": 547445,
+        "endTime": 549665
+      }
+    ]
+  },
+  {
+    "sentence_text": "Adesso quello che vi mostrerò è qualcosa che noi in Italia chiamiamo edicola,",
+    "translations": {
+      "en": "Now what I'll show you is something we call 'edicola' in Italy,"
+    },
+    "segments": [
+      {
+        "token": "Adesso",
+        "startTime": 549665,
+        "endTime": 550085
+      },
+      {
+        "token": "quello",
+        "startTime": 550085,
+        "endTime": 550445
+      },
+      {
+        "token": "che",
+        "startTime": 550445,
+        "endTime": 550605
+      },
+      {
+        "token": "vi",
+        "startTime": 550605,
+        "endTime": 550725
+      },
+      {
+        "token": "mostrerò",
+        "startTime": 550725,
+        "endTime": 551405
+      },
+      {
+        "token": "è",
+        "startTime": 551405,
+        "endTime": 552065
+      },
+      {
+        "token": "qualcosa",
+        "startTime": 552065,
+        "endTime": 552405
+      },
+      {
+        "token": "che",
+        "startTime": 552405,
+        "endTime": 552665
+      },
+      {
+        "token": "noi",
+        "startTime": 552665,
+        "endTime": 552805
+      },
+      {
+        "token": "in",
+        "startTime": 552805,
+        "endTime": 552945
+      },
+      {
+        "token": "Italia",
+        "startTime": 552945,
+        "endTime": 553205
+      },
+      {
+        "token": "chiamiamo",
+        "startTime": 553205,
+        "endTime": 553905
+      },
+      {
+        "token": "edicola,",
+        "startTime": 553905,
+        "endTime": 555505
+      }
+    ]
+  },
+  {
+    "sentence_text": "che è questa cosa qui.",
+    "translations": {
+      "en": "which is this thing here."
+    },
+    "segments": [
+      {
+        "token": "che",
+        "startTime": 555505,
+        "endTime": 555525
+      },
+      {
+        "token": "è",
+        "startTime": 555525,
+        "endTime": 555525
+      },
+      {
+        "token": "questa",
+        "startTime": 555525,
+        "endTime": 556065
+      },
+      {
+        "token": "cosa",
+        "startTime": 556065,
+        "endTime": 556465
+      },
+      {
+        "token": "qui.",
+        "startTime": 556465,
+        "endTime": 557385
+      }
+    ]
+  },
+  {
+    "sentence_text": "Questa è un'edicola.",
+    "translations": {
+      "en": "This is a newsstand."
+    },
+    "segments": [
+      {
+        "token": "Questa",
+        "startTime": 557385,
+        "endTime": 557685
+      },
+      {
+        "token": "è",
+        "startTime": 557685,
+        "endTime": 557905
+      },
+      {
+        "token": "un'edicola.",
+        "startTime": 557905,
+        "endTime": 558185
+      }
+    ]
+  },
+  {
+    "sentence_text": "In Italia in realtà nell'edicole noi possiamo comprare giornali o riviste.",
+    "translations": {
+      "en": "In Italy, at newsstands, we can buy newspapers or magazines."
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 558185,
+        "endTime": 559025
+      },
+      {
+        "token": "Italia",
+        "startTime": 559025,
+        "endTime": 559365
+      },
+      {
+        "token": "in",
+        "startTime": 559365,
+        "endTime": 559525
+      },
+      {
+        "token": "realtà",
+        "startTime": 559525,
+        "endTime": 559805
+      },
+      {
+        "token": "nell'edicole",
+        "startTime": 559805,
+        "endTime": 560845
+      },
+      {
+        "token": "noi",
+        "startTime": 560845,
+        "endTime": 560965
+      },
+      {
+        "token": "possiamo",
+        "startTime": 560965,
+        "endTime": 561305
+      },
+      {
+        "token": "comprare",
+        "startTime": 561305,
+        "endTime": 561885
+      },
+      {
+        "token": "giornali",
+        "startTime": 561885,
+        "endTime": 562825
+      },
+      {
+        "token": "o",
+        "startTime": 562825,
+        "endTime": 563105
+      },
+      {
+        "token": "riviste.",
+        "startTime": 563105,
+        "endTime": 564205
+      }
+    ]
+  },
+  {
+    "sentence_text": "Qui in Spagna possiamo comprare più cose, per esempio...",
+    "translations": {
+      "en": "Here in Spain, we can buy more things, for example..."
+    },
+    "segments": [
+      {
+        "token": "Qui",
+        "startTime": 564205,
+        "endTime": 564345
+      },
+      {
+        "token": "in",
+        "startTime": 564345,
+        "endTime": 564505
+      },
+      {
+        "token": "Spagna",
+        "startTime": 564505,
+        "endTime": 565005
+      },
+      {
+        "token": "possiamo",
+        "startTime": 565005,
+        "endTime": 565465
+      },
+      {
+        "token": "comprare",
+        "startTime": 565465,
+        "endTime": 565845
+      },
+      {
+        "token": "più",
+        "startTime": 565845,
+        "endTime": 566045
+      },
+      {
+        "token": "cose,",
+        "startTime": 566045,
+        "endTime": 566845
+      },
+      {
+        "token": "per",
+        "startTime": 566845,
+        "endTime": 566925
+      },
+      {
+        "token": "esempio...",
+        "startTime": 566925,
+        "endTime": 571305
+      }
+    ]
+  },
+  {
+    "sentence_text": "Possiamo comprare dei magneti, oppure dei ventagli o anche dei vestiti.",
+    "translations": {
+      "en": "We can buy magnets, or fans, or even clothes."
+    },
+    "segments": [
+      {
+        "token": "Possiamo",
+        "startTime": 571305,
+        "endTime": 571785
+      },
+      {
+        "token": "comprare",
+        "startTime": 571785,
+        "endTime": 572445
+      },
+      {
+        "token": "dei",
+        "startTime": 572445,
+        "endTime": 572705
+      },
+      {
+        "token": "magneti,",
+        "startTime": 572705,
+        "endTime": 574785
+      },
+      {
+        "token": "oppure",
+        "startTime": 574785,
+        "endTime": 574985
+      },
+      {
+        "token": "dei",
+        "startTime": 574985,
+        "endTime": 575185
+      },
+      {
+        "token": "ventagli",
+        "startTime": 575185,
+        "endTime": 576005
+      },
+      {
+        "token": "o",
+        "startTime": 576005,
+        "endTime": 577265
+      },
+      {
+        "token": "anche",
+        "startTime": 577265,
+        "endTime": 577605
+      },
+      {
+        "token": "dei",
+        "startTime": 577605,
+        "endTime": 578965
+      },
+      {
+        "token": "vestiti.",
+        "startTime": 578965,
+        "endTime": 580165
+      }
+    ]
+  },
+  {
+    "sentence_text": "Si può comprare un po' di tutto, anche bevande, una birra.",
+    "translations": {
+      "en": "You can buy almost anything here, even drinks, a beer."
+    },
+    "segments": [
+      {
+        "token": "Si",
+        "startTime": 580165,
+        "endTime": 580305
+      },
+      {
+        "token": "può",
+        "startTime": 580305,
+        "endTime": 580465
+      },
+      {
+        "token": "comprare",
+        "startTime": 580465,
+        "endTime": 580965
+      },
+      {
+        "token": "un",
+        "startTime": 580965,
+        "endTime": 581145
+      },
+      {
+        "token": "po'",
+        "startTime": 581145,
+        "endTime": 581305
+      },
+      {
+        "token": "di",
+        "startTime": 581305,
+        "endTime": 581365
+      },
+      {
+        "token": "tutto,",
+        "startTime": 581365,
+        "endTime": 581945
+      },
+      {
+        "token": "anche",
+        "startTime": 581945,
+        "endTime": 582045
+      },
+      {
+        "token": "bevande,",
+        "startTime": 582045,
+        "endTime": 582925
+      },
+      {
+        "token": "una",
+        "startTime": 582925,
+        "endTime": 583045
+      },
+      {
+        "token": "birra.",
+        "startTime": 583045,
+        "endTime": 583825
+      }
+    ]
+  },
+  {
+    "sentence_text": "In realtà in questa edicola mi sembra che non ci siano giornali,",
+    "translations": {
+      "en": "Actually, in this newsstand it seems there are no newspapers,"
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 583825,
+        "endTime": 584005
+      },
+      {
+        "token": "realtà",
+        "startTime": 584005,
+        "endTime": 584365
+      },
+      {
+        "token": "in",
+        "startTime": 584365,
+        "endTime": 584745
+      },
+      {
+        "token": "questa",
+        "startTime": 584745,
+        "endTime": 585025
+      },
+      {
+        "token": "edicola",
+        "startTime": 585025,
+        "endTime": 585445
+      },
+      {
+        "token": "mi",
+        "startTime": 585445,
+        "endTime": 586305
+      },
+      {
+        "token": "sembra",
+        "startTime": 586305,
+        "endTime": 586685
+      },
+      {
+        "token": "che",
+        "startTime": 586685,
+        "endTime": 586865
+      },
+      {
+        "token": "non",
+        "startTime": 586865,
+        "endTime": 586985
+      },
+      {
+        "token": "ci",
+        "startTime": 586985,
+        "endTime": 587205
+      },
+      {
+        "token": "siano",
+        "startTime": 587205,
+        "endTime": 587485
+      },
+      {
+        "token": "giornali,",
+        "startTime": 587485,
+        "endTime": 588205
+      }
+    ]
+  },
+  {
+    "sentence_text": "però se non l'aveste capito, qui vi mostro un'immagine della classica edicola italiana.",
+    "translations": {
+      "en": "but if you haven't figured it out, here I'm showing you an image of a classic Italian newsstand."
+    },
+    "segments": [
+      {
+        "token": "però",
+        "startTime": 588205,
+        "endTime": 588465
+      },
+      {
+        "token": "se",
+        "startTime": 588465,
+        "endTime": 589045
+      },
+      {
+        "token": "non",
+        "startTime": 589045,
+        "endTime": 589185
+      },
+      {
+        "token": "l'aveste",
+        "startTime": 589185,
+        "endTime": 589485
+      },
+      {
+        "token": "capito,",
+        "startTime": 589485,
+        "endTime": 590485
+      },
+      {
+        "token": "qui",
+        "startTime": 590485,
+        "endTime": 590725
+      },
+      {
+        "token": "vi",
+        "startTime": 590725,
+        "endTime": 591045
+      },
+      {
+        "token": "mostro",
+        "startTime": 591045,
+        "endTime": 591625
+      },
+      {
+        "token": "un'immagine",
+        "startTime": 591625,
+        "endTime": 592525
+      },
+      {
+        "token": "della",
+        "startTime": 592525,
+        "endTime": 593105
+      },
+      {
+        "token": "classica",
+        "startTime": 593105,
+        "endTime": 593785
+      },
+      {
+        "token": "edicola",
+        "startTime": 593785,
+        "endTime": 594645
+      },
+      {
+        "token": "italiana.",
+        "startTime": 594645,
+        "endTime": 596045
+      }
+    ]
+  },
+  {
+    "sentence_text": "Questa è un'edicola un po' più spagnola.",
+    "translations": {
+      "en": "This one is a bit more Spanish-style."
+    },
+    "segments": [
+      {
+        "token": "Questa",
+        "startTime": 596045,
+        "endTime": 596185
+      },
+      {
+        "token": "è",
+        "startTime": 596185,
+        "endTime": 596305
+      },
+      {
+        "token": "un'edicola",
+        "startTime": 596305,
+        "endTime": 596665
+      },
+      {
+        "token": "un",
+        "startTime": 596665,
+        "endTime": 596805
+      },
+      {
+        "token": "po'",
+        "startTime": 596805,
+        "endTime": 596925
+      },
+      {
+        "token": "più",
+        "startTime": 596925,
+        "endTime": 597005
+      },
+      {
+        "token": "spagnola.",
+        "startTime": 597005,
+        "endTime": 597825
+      }
+    ]
+  },
+  {
+    "sentence_text": "Di solito quando vengo in centro vengo in autobus, prendo l'autobus,",
+    "translations": {
+      "en": "Usually when I come downtown, I come by bus, I take the bus,"
+    },
+    "segments": [
+      {
+        "token": "Di",
+        "startTime": 597825,
+        "endTime": 598105
+      },
+      {
+        "token": "solito",
+        "startTime": 598105,
+        "endTime": 598645
+      },
+      {
+        "token": "quando",
+        "startTime": 598645,
+        "endTime": 599065
+      },
+      {
+        "token": "vengo",
+        "startTime": 599065,
+        "endTime": 599505
+      },
+      {
+        "token": "in",
+        "startTime": 599505,
+        "endTime": 599725
+      },
+      {
+        "token": "centro",
+        "startTime": 599725,
+        "endTime": 600285
+      },
+      {
+        "token": "vengo",
+        "startTime": 600285,
+        "endTime": 601545
+      },
+      {
+        "token": "in",
+        "startTime": 601545,
+        "endTime": 602165
+      },
+      {
+        "token": "autobus,",
+        "startTime": 602165,
+        "endTime": 603045
+      },
+      {
+        "token": "prendo",
+        "startTime": 603045,
+        "endTime": 603525
+      },
+      {
+        "token": "l'autobus,",
+        "startTime": 603525,
+        "endTime": 604445
+      }
+    ]
+  },
+  {
+    "sentence_text": "però oggi in realtà come avrete visto alcune",
+    "translations": {
+      "en": "but today, as you may have noticed, some"
+    },
+    "segments": [
+      {
+        "token": "però",
+        "startTime": 604445,
+        "endTime": 605065
+      },
+      {
+        "token": "oggi",
+        "startTime": 605065,
+        "endTime": 605485
+      },
+      {
+        "token": "in",
+        "startTime": 605485,
+        "endTime": 605645
+      },
+      {
+        "token": "realtà",
+        "startTime": 605645,
+        "endTime": 605905
+      },
+      {
+        "token": "come",
+        "startTime": 605905,
+        "endTime": 606445
+      },
+      {
+        "token": "avrete",
+        "startTime": 606445,
+        "endTime": 606705
+      },
+      {
+        "token": "visto",
+        "startTime": 606705,
+        "endTime": 607105
+      },
+      {
+        "token": "alcune",
+        "startTime": 607105,
+        "endTime": 607925
+      }
+    ]
+  },
+  {
+    "sentence_text": "riprese non sono state fatte da me ma sono state fatte da un cameraman",
+    "translations": {
+      "en": "shots weren't taken by me but by a cameraman"
+    },
+    "segments": [
+      {
+        "token": "riprese",
+        "startTime": 607925,
+        "endTime": 608345
+      },
+      {
+        "token": "non",
+        "startTime": 608345,
+        "endTime": 608665
+      },
+      {
+        "token": "sono",
+        "startTime": 608665,
+        "endTime": 608905
+      },
+      {
+        "token": "state",
+        "startTime": 608905,
+        "endTime": 609185
+      },
+      {
+        "token": "fatte",
+        "startTime": 609185,
+        "endTime": 609565
+      },
+      {
+        "token": "da",
+        "startTime": 609565,
+        "endTime": 609725
+      },
+      {
+        "token": "me",
+        "startTime": 609725,
+        "endTime": 609865
+      },
+      {
+        "token": "ma",
+        "startTime": 609865,
+        "endTime": 610145
+      },
+      {
+        "token": "sono",
+        "startTime": 610145,
+        "endTime": 610345
+      },
+      {
+        "token": "state",
+        "startTime": 610345,
+        "endTime": 610605
+      },
+      {
+        "token": "fatte",
+        "startTime": 610605,
+        "endTime": 610965
+      },
+      {
+        "token": "da",
+        "startTime": 610965,
+        "endTime": 611105
+      },
+      {
+        "token": "un",
+        "startTime": 611105,
+        "endTime": 611245
+      },
+      {
+        "token": "cameraman",
+        "startTime": 611245,
+        "endTime": 611665
+      }
+    ]
+  },
+  {
+    "sentence_text": "speciale che è venuto qui con me a registrare.",
+    "translations": {
+      "en": "special who came here with me to record."
+    },
+    "segments": [
+      {
+        "token": "speciale",
+        "startTime": 611665,
+        "endTime": 612945
+      },
+      {
+        "token": "che",
+        "startTime": 612945,
+        "endTime": 613225
+      },
+      {
+        "token": "è",
+        "startTime": 613225,
+        "endTime": 613345
+      },
+      {
+        "token": "venuto",
+        "startTime": 613345,
+        "endTime": 613665
+      },
+      {
+        "token": "qui",
+        "startTime": 613665,
+        "endTime": 613865
+      },
+      {
+        "token": "con",
+        "startTime": 613865,
+        "endTime": 614125
+      },
+      {
+        "token": "me",
+        "startTime": 614125,
+        "endTime": 614285
+      },
+      {
+        "token": "a",
+        "startTime": 614285,
+        "endTime": 614465
+      },
+      {
+        "token": "registrare.",
+        "startTime": 614465,
+        "endTime": 615325
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ecco il nostro cameraman che oggi mi ha aiutata a registrare questo video.",
+    "translations": {
+      "en": "Here's our cameraman who helped me record this video today."
+    },
+    "segments": [
+      {
+        "token": "Ecco",
+        "startTime": 615325,
+        "endTime": 615505
+      },
+      {
+        "token": "il",
+        "startTime": 615505,
+        "endTime": 615685
+      },
+      {
+        "token": "nostro",
+        "startTime": 615685,
+        "endTime": 616045
+      },
+      {
+        "token": "cameraman",
+        "startTime": 616045,
+        "endTime": 616645
+      },
+      {
+        "token": "che",
+        "startTime": 616645,
+        "endTime": 617305
+      },
+      {
+        "token": "oggi",
+        "startTime": 617305,
+        "endTime": 618305
+      },
+      {
+        "token": "mi",
+        "startTime": 618305,
+        "endTime": 618585
+      },
+      {
+        "token": "ha",
+        "startTime": 618585,
+        "endTime": 618705
+      },
+      {
+        "token": "aiutata",
+        "startTime": 618705,
+        "endTime": 619405
+      },
+      {
+        "token": "a",
+        "startTime": 619405,
+        "endTime": 619765
+      },
+      {
+        "token": "registrare",
+        "startTime": 619765,
+        "endTime": 620385
+      },
+      {
+        "token": "questo",
+        "startTime": 620385,
+        "endTime": 620905
+      },
+      {
+        "token": "video.",
+        "startTime": 620905,
+        "endTime": 622025
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quindi normalmente io andrei alla fermata dell'autobus.",
+    "translations": {
+      "en": "So normally I would go to the bus stop."
+    },
+    "segments": [
+      {
+        "token": "Quindi",
+        "startTime": 622025,
+        "endTime": 622165
+      },
+      {
+        "token": "normalmente",
+        "startTime": 622165,
+        "endTime": 622725
+      },
+      {
+        "token": "io",
+        "startTime": 622725,
+        "endTime": 623385
+      },
+      {
+        "token": "andrei",
+        "startTime": 623385,
+        "endTime": 624265
+      },
+      {
+        "token": "alla",
+        "startTime": 624265,
+        "endTime": 625545
+      },
+      {
+        "token": "fermata",
+        "startTime": 625545,
+        "endTime": 627065
+      },
+      {
+        "token": "dell'autobus.",
+        "startTime": 627065,
+        "endTime": 629625
+      }
+    ]
+  },
+  {
+    "sentence_text": "Qui è dove si fermano gli autobus.",
+    "translations": {
+      "en": "This is where the buses stop."
+    },
+    "segments": [
+      {
+        "token": "Qui",
+        "startTime": 629625,
+        "endTime": 629805
+      },
+      {
+        "token": "è",
+        "startTime": 629805,
+        "endTime": 629985
+      },
+      {
+        "token": "dove",
+        "startTime": 629985,
+        "endTime": 630245
+      },
+      {
+        "token": "si",
+        "startTime": 630245,
+        "endTime": 630585
+      },
+      {
+        "token": "fermano",
+        "startTime": 630585,
+        "endTime": 631205
+      },
+      {
+        "token": "gli",
+        "startTime": 631205,
+        "endTime": 632005
+      },
+      {
+        "token": "autobus.",
+        "startTime": 632005,
+        "endTime": 633145
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ora non ci sono autobus, però di solito l'autobus arriva qui,",
+    "translations": {
+      "en": "There are no buses now, but usually the bus arrives here,"
+    },
+    "segments": [
+      {
+        "token": "Ora",
+        "startTime": 633145,
+        "endTime": 633325
+      },
+      {
+        "token": "non",
+        "startTime": 633325,
+        "endTime": 633505
+      },
+      {
+        "token": "ci",
+        "startTime": 633505,
+        "endTime": 633805
+      },
+      {
+        "token": "sono",
+        "startTime": 633805,
+        "endTime": 634105
+      },
+      {
+        "token": "autobus,",
+        "startTime": 634105,
+        "endTime": 634805
+      },
+      {
+        "token": "però",
+        "startTime": 634805,
+        "endTime": 634905
+      },
+      {
+        "token": "di",
+        "startTime": 634905,
+        "endTime": 635065
+      },
+      {
+        "token": "solito",
+        "startTime": 635065,
+        "endTime": 635345
+      },
+      {
+        "token": "l'autobus",
+        "startTime": 635345,
+        "endTime": 636085
+      },
+      {
+        "token": "arriva",
+        "startTime": 636085,
+        "endTime": 636505
+      },
+      {
+        "token": "qui,",
+        "startTime": 636505,
+        "endTime": 636905
+      }
+    ]
+  },
+  {
+    "sentence_text": "si ferma e poi qui possiamo vedere quanto tempo ci vuole prima che arrivi l'autobus.",
+    "translations": {
+      "en": "stops, and then here we can see how long it takes before the bus arrives."
+    },
+    "segments": [
+      {
+        "token": "si",
+        "startTime": 636905,
+        "endTime": 637725
+      },
+      {
+        "token": "ferma",
+        "startTime": 637725,
+        "endTime": 638325
+      },
+      {
+        "token": "e",
+        "startTime": 638325,
+        "endTime": 639085
+      },
+      {
+        "token": "poi",
+        "startTime": 639085,
+        "endTime": 639285
+      },
+      {
+        "token": "qui",
+        "startTime": 639285,
+        "endTime": 639505
+      },
+      {
+        "token": "possiamo",
+        "startTime": 639505,
+        "endTime": 639785
+      },
+      {
+        "token": "vedere",
+        "startTime": 639785,
+        "endTime": 640105
+      },
+      {
+        "token": "quanto",
+        "startTime": 640105,
+        "endTime": 640445
+      },
+      {
+        "token": "tempo",
+        "startTime": 640445,
+        "endTime": 640725
+      },
+      {
+        "token": "ci",
+        "startTime": 640725,
+        "endTime": 640985
+      },
+      {
+        "token": "vuole",
+        "startTime": 640985,
+        "endTime": 641345
+      },
+      {
+        "token": "prima",
+        "startTime": 641345,
+        "endTime": 641725
+      },
+      {
+        "token": "che",
+        "startTime": 641725,
+        "endTime": 642005
+      },
+      {
+        "token": "arrivi",
+        "startTime": 642005,
+        "endTime": 642465
+      },
+      {
+        "token": "l'autobus.",
+        "startTime": 642465,
+        "endTime": 643405
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quindi oggi non sono venuta in autobus",
+    "translations": {
+      "en": "So today I didn't come by bus"
+    },
+    "segments": [
+      {
+        "token": "Quindi",
+        "startTime": 643405,
+        "endTime": 643545
+      },
+      {
+        "token": "oggi",
+        "startTime": 643545,
+        "endTime": 643845
+      },
+      {
+        "token": "non",
+        "startTime": 643845,
+        "endTime": 643985
+      },
+      {
+        "token": "sono",
+        "startTime": 643985,
+        "endTime": 644225
+      },
+      {
+        "token": "venuta",
+        "startTime": 644225,
+        "endTime": 644485
+      },
+      {
+        "token": "in",
+        "startTime": 644485,
+        "endTime": 644605
+      },
+      {
+        "token": "autobus",
+        "startTime": 644605,
+        "endTime": 645125
+      }
+    ]
+  },
+  {
+    "sentence_text": "ma siamo venuti in macchina e adesso ritorniamo dalla macchina.",
+    "translations": {
+      "en": "but we came by car, and now we're heading back to the car."
+    },
+    "segments": [
+      {
+        "token": "ma",
+        "startTime": 645125,
+        "endTime": 645385
+      },
+      {
+        "token": "siamo",
+        "startTime": 645385,
+        "endTime": 645765
+      },
+      {
+        "token": "venuti",
+        "startTime": 645765,
+        "endTime": 646185
+      },
+      {
+        "token": "in",
+        "startTime": 646185,
+        "endTime": 646325
+      },
+      {
+        "token": "macchina",
+        "startTime": 646325,
+        "endTime": 646725
+      },
+      {
+        "token": "e",
+        "startTime": 646725,
+        "endTime": 646945
+      },
+      {
+        "token": "adesso",
+        "startTime": 646945,
+        "endTime": 647145
+      },
+      {
+        "token": "ritorniamo",
+        "startTime": 647145,
+        "endTime": 647585
+      },
+      {
+        "token": "dalla",
+        "startTime": 647585,
+        "endTime": 647765
+      },
+      {
+        "token": "macchina.",
+        "startTime": 647765,
+        "endTime": 648485
+      }
+    ]
+  },
+  {
+    "sentence_text": "Spero che possiate sentire quello che dico perché c'è",
+    "translations": {
+      "en": "I hope you can hear what I'm saying because there's"
+    },
+    "segments": [
+      {
+        "token": "Spero",
+        "startTime": 648485,
+        "endTime": 648725
+      },
+      {
+        "token": "che",
+        "startTime": 648725,
+        "endTime": 648865
+      },
+      {
+        "token": "possiate",
+        "startTime": 648865,
+        "endTime": 649225
+      },
+      {
+        "token": "sentire",
+        "startTime": 649225,
+        "endTime": 649825
+      },
+      {
+        "token": "quello",
+        "startTime": 649825,
+        "endTime": 650105
+      },
+      {
+        "token": "che",
+        "startTime": 650105,
+        "endTime": 650265
+      },
+      {
+        "token": "dico",
+        "startTime": 650265,
+        "endTime": 650485
+      },
+      {
+        "token": "perché",
+        "startTime": 650485,
+        "endTime": 650725
+      },
+      {
+        "token": "c'è",
+        "startTime": 650725,
+        "endTime": 651085
+      }
+    ]
+  },
+  {
+    "sentence_text": "un po' di vento qui ma spero che vi sia piaciuto molto questo video,",
+    "translations": {
+      "en": "a bit of wind here, but I hope you really enjoyed this video,"
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 651085,
+        "endTime": 651225
+      },
+      {
+        "token": "po'",
+        "startTime": 651225,
+        "endTime": 651305
+      },
+      {
+        "token": "di",
+        "startTime": 651305,
+        "endTime": 651425
+      },
+      {
+        "token": "vento",
+        "startTime": 651425,
+        "endTime": 651765
+      },
+      {
+        "token": "qui",
+        "startTime": 651765,
+        "endTime": 651965
+      },
+      {
+        "token": "ma",
+        "startTime": 651965,
+        "endTime": 652705
+      },
+      {
+        "token": "spero",
+        "startTime": 652705,
+        "endTime": 653245
+      },
+      {
+        "token": "che",
+        "startTime": 653245,
+        "endTime": 653365
+      },
+      {
+        "token": "vi",
+        "startTime": 653365,
+        "endTime": 653425
+      },
+      {
+        "token": "sia",
+        "startTime": 653425,
+        "endTime": 653565
+      },
+      {
+        "token": "piaciuto",
+        "startTime": 653565,
+        "endTime": 653905
+      },
+      {
+        "token": "molto",
+        "startTime": 653905,
+        "endTime": 654185
+      },
+      {
+        "token": "questo",
+        "startTime": 654185,
+        "endTime": 654565
+      },
+      {
+        "token": "video,",
+        "startTime": 654565,
+        "endTime": 655425
+      }
+    ]
+  },
+  {
+    "sentence_text": "questo piccolo giro nel centro della città.",
+    "translations": {
+      "en": "this little tour of the city center."
+    },
+    "segments": [
+      {
+        "token": "questo",
+        "startTime": 655425,
+        "endTime": 655605
+      },
+      {
+        "token": "piccolo",
+        "startTime": 655605,
+        "endTime": 656265
+      },
+      {
+        "token": "giro",
+        "startTime": 656265,
+        "endTime": 656705
+      },
+      {
+        "token": "nel",
+        "startTime": 656705,
+        "endTime": 656885
+      },
+      {
+        "token": "centro",
+        "startTime": 656885,
+        "endTime": 657145
+      },
+      {
+        "token": "della",
+        "startTime": 657145,
+        "endTime": 657385
+      },
+      {
+        "token": "città.",
+        "startTime": 657385,
+        "endTime": 657985
+      }
+    ]
+  },
+  {
+    "sentence_text": "Volevo insegnarvi un po' di parole tipiche della strada.",
+    "translations": {
+      "en": "I wanted to teach you some typical street words."
+    },
+    "segments": [
+      {
+        "token": "Volevo",
+        "startTime": 657985,
+        "endTime": 658345
+      },
+      {
+        "token": "insegnarvi",
+        "startTime": 658345,
+        "endTime": 658865
+      },
+      {
+        "token": "un",
+        "startTime": 658865,
+        "endTime": 659025
+      },
+      {
+        "token": "po'",
+        "startTime": 659025,
+        "endTime": 659225
+      },
+      {
+        "token": "di",
+        "startTime": 659225,
+        "endTime": 659325
+      },
+      {
+        "token": "parole",
+        "startTime": 659325,
+        "endTime": 659585
+      },
+      {
+        "token": "tipiche",
+        "startTime": 659585,
+        "endTime": 660885
+      },
+      {
+        "token": "della",
+        "startTime": 660885,
+        "endTime": 661225
+      },
+      {
+        "token": "strada.",
+        "startTime": 661225,
+        "endTime": 661965
+      }
+    ]
+  },
+  {
+    "sentence_text": "È difficile scegliere un tema in particolare perché ovviamente girando",
+    "translations": {
+      "en": "It's hard to pick one specific topic because, of course, while walking around"
+    },
+    "segments": [
+      {
+        "token": "È",
+        "startTime": 661965,
+        "endTime": 662105
+      },
+      {
+        "token": "difficile",
+        "startTime": 662105,
+        "endTime": 662425
+      },
+      {
+        "token": "scegliere",
+        "startTime": 662425,
+        "endTime": 662885
+      },
+      {
+        "token": "un",
+        "startTime": 662885,
+        "endTime": 663005
+      },
+      {
+        "token": "tema",
+        "startTime": 663005,
+        "endTime": 663265
+      },
+      {
+        "token": "in",
+        "startTime": 663265,
+        "endTime": 663445
+      },
+      {
+        "token": "particolare",
+        "startTime": 663445,
+        "endTime": 663945
+      },
+      {
+        "token": "perché",
+        "startTime": 663945,
+        "endTime": 664285
+      },
+      {
+        "token": "ovviamente",
+        "startTime": 664285,
+        "endTime": 665025
+      },
+      {
+        "token": "girando",
+        "startTime": 665025,
+        "endTime": 666025
+      }
+    ]
+  },
+  {
+    "sentence_text": "per la città si vedono tantissime cose e tantissime parole che posso insegnarvi.",
+    "translations": {
+      "en": "Around the city, you see so many things and so many words that I can teach you."
+    },
+    "segments": [
+      {
+        "token": "per",
+        "startTime": 666025,
+        "endTime": 666265
+      },
+      {
+        "token": "la",
+        "startTime": 666265,
+        "endTime": 666345
+      },
+      {
+        "token": "città",
+        "startTime": 666345,
+        "endTime": 666685
+      },
+      {
+        "token": "si",
+        "startTime": 666685,
+        "endTime": 667005
+      },
+      {
+        "token": "vedono",
+        "startTime": 667005,
+        "endTime": 667345
+      },
+      {
+        "token": "tantissime",
+        "startTime": 667345,
+        "endTime": 668145
+      },
+      {
+        "token": "cose",
+        "startTime": 668145,
+        "endTime": 668585
+      },
+      {
+        "token": "e",
+        "startTime": 668585,
+        "endTime": 669145
+      },
+      {
+        "token": "tantissime",
+        "startTime": 669145,
+        "endTime": 669545
+      },
+      {
+        "token": "parole",
+        "startTime": 669545,
+        "endTime": 669785
+      },
+      {
+        "token": "che",
+        "startTime": 669785,
+        "endTime": 670005
+      },
+      {
+        "token": "posso",
+        "startTime": 670005,
+        "endTime": 670265
+      },
+      {
+        "token": "insegnarvi.",
+        "startTime": 670265,
+        "endTime": 671245
+      }
+    ]
+  },
+  {
+    "sentence_text": "ma ho preferito focalizzarmi sul vocabolario della strada",
+    "translations": {
+      "en": "but I preferred to focus on street vocabulary"
+    },
+    "segments": [
+      {
+        "token": "ma",
+        "startTime": 671245,
+        "endTime": 671385
+      },
+      {
+        "token": "ho",
+        "startTime": 671385,
+        "endTime": 671425
+      },
+      {
+        "token": "preferito",
+        "startTime": 671425,
+        "endTime": 671765
+      },
+      {
+        "token": "focalizzarmi",
+        "startTime": 671765,
+        "endTime": 672525
+      },
+      {
+        "token": "sul",
+        "startTime": 672525,
+        "endTime": 672725
+      },
+      {
+        "token": "vocabolario",
+        "startTime": 672725,
+        "endTime": 673265
+      },
+      {
+        "token": "della",
+        "startTime": 673265,
+        "endTime": 673485
+      },
+      {
+        "token": "strada",
+        "startTime": 673485,
+        "endTime": 674405
+      }
+    ]
+  },
+  {
+    "sentence_text": "e termino qui questo video di fronte al porto di Malaga",
+    "translations": {
+      "en": "and I end this video here in front of the port of Malaga"
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 674405,
+        "endTime": 674505
+      },
+      {
+        "token": "termino",
+        "startTime": 674505,
+        "endTime": 675005
+      },
+      {
+        "token": "qui",
+        "startTime": 675005,
+        "endTime": 675185
+      },
+      {
+        "token": "questo",
+        "startTime": 675185,
+        "endTime": 675465
+      },
+      {
+        "token": "video",
+        "startTime": 675465,
+        "endTime": 675805
+      },
+      {
+        "token": "di",
+        "startTime": 675805,
+        "endTime": 676185
+      },
+      {
+        "token": "fronte",
+        "startTime": 676185,
+        "endTime": 676565
+      },
+      {
+        "token": "al",
+        "startTime": 676565,
+        "endTime": 676745
+      },
+      {
+        "token": "porto",
+        "startTime": 676745,
+        "endTime": 677305
+      },
+      {
+        "token": "di",
+        "startTime": 677305,
+        "endTime": 677465
+      },
+      {
+        "token": "Malaga",
+        "startTime": 677465,
+        "endTime": 678965
+      }
+    ]
+  },
+  {
+    "sentence_text": "e di fronte al turistissimo Hard Rock Café spero che vi sia piaciuto il video,",
+    "translations": {
+      "en": "and in front of the very touristy Hard Rock Café, I hope you liked the video,"
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 678965,
+        "endTime": 679145
+      },
+      {
+        "token": "di",
+        "startTime": 679145,
+        "endTime": 679405
+      },
+      {
+        "token": "fronte",
+        "startTime": 679405,
+        "endTime": 680005
+      },
+      {
+        "token": "al",
+        "startTime": 680005,
+        "endTime": 680685
+      },
+      {
+        "token": "turistissimo",
+        "startTime": 680685,
+        "endTime": 683785
+      },
+      {
+        "token": "Hard",
+        "startTime": 683785,
+        "endTime": 684205
+      },
+      {
+        "token": "Rock",
+        "startTime": 684205,
+        "endTime": 684425
+      },
+      {
+        "token": "Café",
+        "startTime": 684425,
+        "endTime": 685625
+      },
+      {
+        "token": "spero",
+        "startTime": 685625,
+        "endTime": 686025
+      },
+      {
+        "token": "che",
+        "startTime": 686025,
+        "endTime": 686145
+      },
+      {
+        "token": "vi",
+        "startTime": 686145,
+        "endTime": 686225
+      },
+      {
+        "token": "sia",
+        "startTime": 686225,
+        "endTime": 686365
+      },
+      {
+        "token": "piaciuto",
+        "startTime": 686365,
+        "endTime": 686705
+      },
+      {
+        "token": "il",
+        "startTime": 686705,
+        "endTime": 686845
+      },
+      {
+        "token": "video,",
+        "startTime": 686845,
+        "endTime": 687165
+      }
+    ]
+  },
+  {
+    "sentence_text": "grazie mille per averlo visto e",
+    "translations": {
+      "en": "thank you so much for watching it and"
+    },
+    "segments": [
+      {
+        "token": "grazie",
+        "startTime": 687165,
+        "endTime": 687385
+      },
+      {
+        "token": "mille",
+        "startTime": 687385,
+        "endTime": 687665
+      },
+      {
+        "token": "per",
+        "startTime": 687665,
+        "endTime": 687845
+      },
+      {
+        "token": "averlo",
+        "startTime": 687845,
+        "endTime": 688105
+      },
+      {
+        "token": "visto",
+        "startTime": 688105,
+        "endTime": 688445
+      },
+      {
+        "token": "e",
+        "startTime": 688445,
+        "endTime": 688945
+      }
+    ]
+  },
+  {
+    "sentence_text": "noi ci vediamo molto presto con un altro video ciao Grazie.",
+    "translations": {
+      "en": "we'll see each other very soon with another video, bye, thanks."
+    },
+    "segments": [
+      {
+        "token": "noi",
+        "startTime": 688945,
+        "endTime": 689065
+      },
+      {
+        "token": "ci",
+        "startTime": 689065,
+        "endTime": 689165
+      },
+      {
+        "token": "vediamo",
+        "startTime": 689165,
+        "endTime": 689565
+      },
+      {
+        "token": "molto",
+        "startTime": 689565,
+        "endTime": 689945
+      },
+      {
+        "token": "presto",
+        "startTime": 689945,
+        "endTime": 690425
+      },
+      {
+        "token": "con",
+        "startTime": 690425,
+        "endTime": 690585
+      },
+      {
+        "token": "un",
+        "startTime": 690585,
+        "endTime": 690725
+      },
+      {
+        "token": "altro",
+        "startTime": 690725,
+        "endTime": 690885
+      },
+      {
+        "token": "video",
+        "startTime": 690885,
+        "endTime": 692025
+      },
+      {
+        "token": "ciao",
+        "startTime": 692025,
+        "endTime": 701085
+      },
+      {
+        "token": "Grazie.",
+        "startTime": 701085,
+        "endTime": 702565
+      }
+    ]
+  }
+]
