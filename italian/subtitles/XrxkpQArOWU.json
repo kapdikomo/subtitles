@@ -1,0 +1,6084 @@
+[
+  {
+    "sentence_text": "Immagina, sono le 6 di sera,",
+    "translations": {
+      "en": "Imagine, it's 6 in the evening,"
+    },
+    "segments": [
+      {
+        "token": "Immagina,",
+        "startTime": 100,
+        "endTime": 900
+      },
+      {
+        "token": "sono",
+        "startTime": 900,
+        "endTime": 1600
+      },
+      {
+        "token": "le",
+        "startTime": 1600,
+        "endTime": 1940
+      },
+      {
+        "token": "6",
+        "startTime": 1940,
+        "endTime": 2460
+      },
+      {
+        "token": "di",
+        "startTime": 2460,
+        "endTime": 2840
+      },
+      {
+        "token": "sera,",
+        "startTime": 2840,
+        "endTime": 3680
+      }
+    ]
+  },
+  {
+    "sentence_text": "hai appena finito di lavorare o hai appena finito le tue lezioni all'università?",
+    "translations": {
+      "en": "you've just finished work or just finished your classes at university?"
+    },
+    "segments": [
+      {
+        "token": "hai",
+        "startTime": 3680,
+        "endTime": 3840
+      },
+      {
+        "token": "appena",
+        "startTime": 3840,
+        "endTime": 4300
+      },
+      {
+        "token": "finito",
+        "startTime": 4300,
+        "endTime": 4920
+      },
+      {
+        "token": "di",
+        "startTime": 4920,
+        "endTime": 5260
+      },
+      {
+        "token": "lavorare",
+        "startTime": 5260,
+        "endTime": 6320
+      },
+      {
+        "token": "o",
+        "startTime": 6320,
+        "endTime": 6940
+      },
+      {
+        "token": "hai",
+        "startTime": 6940,
+        "endTime": 7340
+      },
+      {
+        "token": "appena",
+        "startTime": 7340,
+        "endTime": 8039
+      },
+      {
+        "token": "finito",
+        "startTime": 8039,
+        "endTime": 8680
+      },
+      {
+        "token": "le",
+        "startTime": 8680,
+        "endTime": 8920
+      },
+      {
+        "token": "tue",
+        "startTime": 8920,
+        "endTime": 9240
+      },
+      {
+        "token": "lezioni",
+        "startTime": 9240,
+        "endTime": 10020
+      },
+      {
+        "token": "all'università?",
+        "startTime": 10020,
+        "endTime": 11520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Stai tornando a casa e vedi tanti italiani che sono seduti al tavolo,",
+    "translations": {
+      "en": "You're heading home and you see many Italians sitting at the table,"
+    },
+    "segments": [
+      {
+        "token": "Stai",
+        "startTime": 11520,
+        "endTime": 11820
+      },
+      {
+        "token": "tornando",
+        "startTime": 11820,
+        "endTime": 12560
+      },
+      {
+        "token": "a",
+        "startTime": 12560,
+        "endTime": 12720
+      },
+      {
+        "token": "casa",
+        "startTime": 12720,
+        "endTime": 13220
+      },
+      {
+        "token": "e",
+        "startTime": 13220,
+        "endTime": 13620
+      },
+      {
+        "token": "vedi",
+        "startTime": 13620,
+        "endTime": 14180
+      },
+      {
+        "token": "tanti",
+        "startTime": 14180,
+        "endTime": 14880
+      },
+      {
+        "token": "italiani",
+        "startTime": 14880,
+        "endTime": 15860
+      },
+      {
+        "token": "che",
+        "startTime": 15860,
+        "endTime": 16480
+      },
+      {
+        "token": "sono",
+        "startTime": 16480,
+        "endTime": 17280
+      },
+      {
+        "token": "seduti",
+        "startTime": 17280,
+        "endTime": 18240
+      },
+      {
+        "token": "al",
+        "startTime": 18240,
+        "endTime": 18820
+      },
+      {
+        "token": "tavolo,",
+        "startTime": 18820,
+        "endTime": 19700
+      }
+    ]
+  },
+  {
+    "sentence_text": "al tavolino a bere, mangiare, chiacchierare prima di cena.",
+    "translations": {
+      "en": "at the small table drinking, eating, chatting before dinner."
+    },
+    "segments": [
+      {
+        "token": "al",
+        "startTime": 19700,
+        "endTime": 19780
+      },
+      {
+        "token": "tavolino",
+        "startTime": 19780,
+        "endTime": 20620
+      },
+      {
+        "token": "a",
+        "startTime": 20620,
+        "endTime": 21200
+      },
+      {
+        "token": "bere,",
+        "startTime": 21200,
+        "endTime": 21800
+      },
+      {
+        "token": "mangiare,",
+        "startTime": 21800,
+        "endTime": 22660
+      },
+      {
+        "token": "chiacchierare",
+        "startTime": 22660,
+        "endTime": 23580
+      },
+      {
+        "token": "prima",
+        "startTime": 23580,
+        "endTime": 24340
+      },
+      {
+        "token": "di",
+        "startTime": 24340,
+        "endTime": 24860
+      },
+      {
+        "token": "cena.",
+        "startTime": 24860,
+        "endTime": 25500
+      }
+    ]
+  },
+  {
+    "sentence_text": "Che cosa stanno facendo? stanno facendo l'aperitivo",
+    "translations": {
+      "en": "What are they doing? They're having an aperitivo."
+    },
+    "segments": [
+      {
+        "token": "Che",
+        "startTime": 25500,
+        "endTime": 25660
+      },
+      {
+        "token": "cosa",
+        "startTime": 25660,
+        "endTime": 26100
+      },
+      {
+        "token": "stanno",
+        "startTime": 26100,
+        "endTime": 26600
+      },
+      {
+        "token": "facendo?",
+        "startTime": 26600,
+        "endTime": 28220
+      },
+      {
+        "token": "stanno",
+        "startTime": 28220,
+        "endTime": 28580
+      },
+      {
+        "token": "facendo",
+        "startTime": 28580,
+        "endTime": 29260
+      },
+      {
+        "token": "l'aperitivo",
+        "startTime": 29260,
+        "endTime": 30460
+      }
+    ]
+  },
+  {
+    "sentence_text": "ciao e bentornati o benvenuti sul canale di I'm Italish where Italian",
+    "translations": {
+      "en": "Hi and welcome back or welcome to the I'm Italish channel where Italian"
+    },
+    "segments": [
+      {
+        "token": "ciao",
+        "startTime": 30460,
+        "endTime": 30900
+      },
+      {
+        "token": "e",
+        "startTime": 30900,
+        "endTime": 31200
+      },
+      {
+        "token": "bentornati",
+        "startTime": 31200,
+        "endTime": 32259
+      },
+      {
+        "token": "o",
+        "startTime": 32259,
+        "endTime": 32479
+      },
+      {
+        "token": "benvenuti",
+        "startTime": 32479,
+        "endTime": 33360
+      },
+      {
+        "token": "sul",
+        "startTime": 33360,
+        "endTime": 34020
+      },
+      {
+        "token": "canale",
+        "startTime": 34020,
+        "endTime": 34580
+      },
+      {
+        "token": "di",
+        "startTime": 34580,
+        "endTime": 34880
+      },
+      {
+        "token": "I'm",
+        "startTime": 34880,
+        "endTime": 35400
+      },
+      {
+        "token": "Italish",
+        "startTime": 35400,
+        "endTime": 36060
+      },
+      {
+        "token": "where",
+        "startTime": 36060,
+        "endTime": 36280
+      },
+      {
+        "token": "Italian",
+        "startTime": 36280,
+        "endTime": 36980
+      }
+    ]
+  },
+  {
+    "sentence_text": "comes to life dove l'italiano prende vita io sono Giorgia e sono l'insegnante",
+    "translations": {
+      "en": "comes to life, where Italian comes alive. I'm Giorgia and I'm the Italian"
+    },
+    "segments": [
+      {
+        "token": "comes",
+        "startTime": 36980,
+        "endTime": 37460
+      },
+      {
+        "token": "to",
+        "startTime": 37460,
+        "endTime": 37700
+      },
+      {
+        "token": "life",
+        "startTime": 37700,
+        "endTime": 38180
+      },
+      {
+        "token": "dove",
+        "startTime": 38180,
+        "endTime": 39020
+      },
+      {
+        "token": "l'italiano",
+        "startTime": 39020,
+        "endTime": 40160
+      },
+      {
+        "token": "prende",
+        "startTime": 40160,
+        "endTime": 41080
+      },
+      {
+        "token": "vita",
+        "startTime": 41080,
+        "endTime": 41780
+      },
+      {
+        "token": "io",
+        "startTime": 41780,
+        "endTime": 42680
+      },
+      {
+        "token": "sono",
+        "startTime": 42680,
+        "endTime": 43240
+      },
+      {
+        "token": "Giorgia",
+        "startTime": 43240,
+        "endTime": 43980
+      },
+      {
+        "token": "e",
+        "startTime": 43980,
+        "endTime": 44260
+      },
+      {
+        "token": "sono",
+        "startTime": 44260,
+        "endTime": 44660
+      },
+      {
+        "token": "l'insegnante",
+        "startTime": 44660,
+        "endTime": 45880
+      }
+    ]
+  },
+  {
+    "sentence_text": "di italiano di I'm Italish forse",
+    "translations": {
+      "en": "teacher at I'm Italish. Maybe"
+    },
+    "segments": [
+      {
+        "token": "di",
+        "startTime": 45880,
+        "endTime": 45880
+      },
+      {
+        "token": "italiano",
+        "startTime": 45880,
+        "endTime": 46820
+      },
+      {
+        "token": "di",
+        "startTime": 46820,
+        "endTime": 47200
+      },
+      {
+        "token": "I'm",
+        "startTime": 47200,
+        "endTime": 47660
+      },
+      {
+        "token": "Italish",
+        "startTime": 47660,
+        "endTime": 48220
+      },
+      {
+        "token": "forse",
+        "startTime": 48220,
+        "endTime": 49240
+      }
+    ]
+  },
+  {
+    "sentence_text": "ci conosci dalla nostra pagina Instagram se stai studiando l'italiano",
+    "translations": {
+      "en": "you know us from our Instagram page. If you're studying Italian,"
+    },
+    "segments": [
+      {
+        "token": "ci",
+        "startTime": 49240,
+        "endTime": 49500
+      },
+      {
+        "token": "conosci",
+        "startTime": 49500,
+        "endTime": 50120
+      },
+      {
+        "token": "dalla",
+        "startTime": 50120,
+        "endTime": 50400
+      },
+      {
+        "token": "nostra",
+        "startTime": 50400,
+        "endTime": 50840
+      },
+      {
+        "token": "pagina",
+        "startTime": 50840,
+        "endTime": 51480
+      },
+      {
+        "token": "Instagram",
+        "startTime": 51480,
+        "endTime": 52280
+      },
+      {
+        "token": "se",
+        "startTime": 52280,
+        "endTime": 52800
+      },
+      {
+        "token": "stai",
+        "startTime": 52800,
+        "endTime": 53220
+      },
+      {
+        "token": "studiando",
+        "startTime": 53220,
+        "endTime": 53900
+      },
+      {
+        "token": "l'italiano",
+        "startTime": 53900,
+        "endTime": 55000
+      }
+    ]
+  },
+  {
+    "sentence_text": "i nostri video sono perfetti per te perché parliamo insieme in un italiano lento,",
+    "translations": {
+      "en": "our videos are perfect for you because we speak together in slow Italian,"
+    },
+    "segments": [
+      {
+        "token": "i",
+        "startTime": 55000,
+        "endTime": 55020
+      },
+      {
+        "token": "nostri",
+        "startTime": 55020,
+        "endTime": 55560
+      },
+      {
+        "token": "video",
+        "startTime": 55560,
+        "endTime": 55960
+      },
+      {
+        "token": "sono",
+        "startTime": 55960,
+        "endTime": 56780
+      },
+      {
+        "token": "perfetti",
+        "startTime": 56780,
+        "endTime": 57800
+      },
+      {
+        "token": "per",
+        "startTime": 57800,
+        "endTime": 58100
+      },
+      {
+        "token": "te",
+        "startTime": 58100,
+        "endTime": 58300
+      },
+      {
+        "token": "perché",
+        "startTime": 58300,
+        "endTime": 58960
+      },
+      {
+        "token": "parliamo",
+        "startTime": 58960,
+        "endTime": 60280
+      },
+      {
+        "token": "insieme",
+        "startTime": 60280,
+        "endTime": 61000
+      },
+      {
+        "token": "in",
+        "startTime": 61000,
+        "endTime": 61620
+      },
+      {
+        "token": "un",
+        "startTime": 61620,
+        "endTime": 61760
+      },
+      {
+        "token": "italiano",
+        "startTime": 61760,
+        "endTime": 62160
+      },
+      {
+        "token": "lento,",
+        "startTime": 62160,
+        "endTime": 63080
+      }
+    ]
+  },
+  {
+    "sentence_text": "in un italiano semplice ma naturale.",
+    "translations": {
+      "en": "in simple but natural Italian."
+    },
+    "segments": [
+      {
+        "token": "in",
+        "startTime": 63080,
+        "endTime": 66020
+      },
+      {
+        "token": "un",
+        "startTime": 66020,
+        "endTime": 66540
+      },
+      {
+        "token": "italiano",
+        "startTime": 66540,
+        "endTime": 66980
+      },
+      {
+        "token": "semplice",
+        "startTime": 66980,
+        "endTime": 68460
+      },
+      {
+        "token": "ma",
+        "startTime": 68460,
+        "endTime": 68860
+      },
+      {
+        "token": "naturale.",
+        "startTime": 68860,
+        "endTime": 69800
+      }
+    ]
+  },
+  {
+    "sentence_text": "E sono video perfetti per esercitare l'ascolto, testare la tua comprensione e ampliare il vocabolario.",
+    "translations": {
+      "en": "And they're perfect videos for practicing listening, testing your comprehension, and expanding your vocabulary."
+    },
+    "segments": [
+      {
+        "token": "E",
+        "startTime": 69800,
+        "endTime": 69980
+      },
+      {
+        "token": "sono",
+        "startTime": 69980,
+        "endTime": 70420
+      },
+      {
+        "token": "video",
+        "startTime": 70420,
+        "endTime": 70880
+      },
+      {
+        "token": "perfetti",
+        "startTime": 70880,
+        "endTime": 71700
+      },
+      {
+        "token": "per",
+        "startTime": 71700,
+        "endTime": 72040
+      },
+      {
+        "token": "esercitare",
+        "startTime": 72040,
+        "endTime": 73200
+      },
+      {
+        "token": "l'ascolto,",
+        "startTime": 73200,
+        "endTime": 74820
+      },
+      {
+        "token": "testare",
+        "startTime": 74820,
+        "endTime": 75580
+      },
+      {
+        "token": "la",
+        "startTime": 75580,
+        "endTime": 75800
+      },
+      {
+        "token": "tua",
+        "startTime": 75800,
+        "endTime": 76060
+      },
+      {
+        "token": "comprensione",
+        "startTime": 76060,
+        "endTime": 77460
+      },
+      {
+        "token": "e",
+        "startTime": 77460,
+        "endTime": 78020
+      },
+      {
+        "token": "ampliare",
+        "startTime": 78020,
+        "endTime": 79300
+      },
+      {
+        "token": "il",
+        "startTime": 79300,
+        "endTime": 79800
+      },
+      {
+        "token": "vocabolario.",
+        "startTime": 79800,
+        "endTime": 81040
+      }
+    ]
+  },
+  {
+    "sentence_text": "Oggi parliamo insieme di aperitivo, italiano.",
+    "translations": {
+      "en": "Today we talk together about the Italian aperitivo."
+    },
+    "segments": [
+      {
+        "token": "Oggi",
+        "startTime": 81040,
+        "endTime": 81520
+      },
+      {
+        "token": "parliamo",
+        "startTime": 81520,
+        "endTime": 82100
+      },
+      {
+        "token": "insieme",
+        "startTime": 82100,
+        "endTime": 82740
+      },
+      {
+        "token": "di",
+        "startTime": 82740,
+        "endTime": 83200
+      },
+      {
+        "token": "aperitivo,",
+        "startTime": 83200,
+        "endTime": 84460
+      },
+      {
+        "token": "italiano.",
+        "startTime": 84460,
+        "endTime": 90180
+      }
+    ]
+  },
+  {
+    "sentence_text": "Che cos'è l'aperitivo?",
+    "translations": {
+      "en": "What is the aperitivo?"
+    },
+    "segments": [
+      {
+        "token": "Che",
+        "startTime": 90180,
+        "endTime": 90200
+      },
+      {
+        "token": "cos'è",
+        "startTime": 90200,
+        "endTime": 90660
+      },
+      {
+        "token": "l'aperitivo?",
+        "startTime": 90660,
+        "endTime": 91640
+      }
+    ]
+  },
+  {
+    "sentence_text": "L'aperitivo italiano non è una merenda",
+    "translations": {
+      "en": "The Italian aperitivo is not a snack"
+    },
+    "segments": [
+      {
+        "token": "L'aperitivo",
+        "startTime": 91640,
+        "endTime": 92780
+      },
+      {
+        "token": "italiano",
+        "startTime": 92780,
+        "endTime": 93240
+      },
+      {
+        "token": "non",
+        "startTime": 93240,
+        "endTime": 94100
+      },
+      {
+        "token": "è",
+        "startTime": 94100,
+        "endTime": 94460
+      },
+      {
+        "token": "una",
+        "startTime": 94460,
+        "endTime": 95060
+      },
+      {
+        "token": "merenda",
+        "startTime": 95060,
+        "endTime": 96080
+      }
+    ]
+  },
+  {
+    "sentence_text": "e non è neanche un vero e proprio pasto come un pranzo o una cena.",
+    "translations": {
+      "en": "and it's not a real meal like lunch or dinner either."
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 96080,
+        "endTime": 96820
+      },
+      {
+        "token": "non",
+        "startTime": 96820,
+        "endTime": 97000
+      },
+      {
+        "token": "è",
+        "startTime": 97000,
+        "endTime": 97260
+      },
+      {
+        "token": "neanche",
+        "startTime": 97260,
+        "endTime": 97800
+      },
+      {
+        "token": "un",
+        "startTime": 97800,
+        "endTime": 98260
+      },
+      {
+        "token": "vero",
+        "startTime": 98260,
+        "endTime": 98980
+      },
+      {
+        "token": "e",
+        "startTime": 98980,
+        "endTime": 99520
+      },
+      {
+        "token": "proprio",
+        "startTime": 99520,
+        "endTime": 100200
+      },
+      {
+        "token": "pasto",
+        "startTime": 100200,
+        "endTime": 101200
+      },
+      {
+        "token": "come",
+        "startTime": 101200,
+        "endTime": 101680
+      },
+      {
+        "token": "un",
+        "startTime": 101680,
+        "endTime": 102200
+      },
+      {
+        "token": "pranzo",
+        "startTime": 102200,
+        "endTime": 102980
+      },
+      {
+        "token": "o",
+        "startTime": 102980,
+        "endTime": 103280
+      },
+      {
+        "token": "una",
+        "startTime": 103280,
+        "endTime": 103480
+      },
+      {
+        "token": "cena.",
+        "startTime": 103480,
+        "endTime": 104120
+      }
+    ]
+  },
+  {
+    "sentence_text": "E non è solo bere qualcosa.",
+    "translations": {
+      "en": "And it's not just having a drink."
+    },
+    "segments": [
+      {
+        "token": "E",
+        "startTime": 104120,
+        "endTime": 104440
+      },
+      {
+        "token": "non",
+        "startTime": 104440,
+        "endTime": 104600
+      },
+      {
+        "token": "è",
+        "startTime": 104600,
+        "endTime": 104860
+      },
+      {
+        "token": "solo",
+        "startTime": 104860,
+        "endTime": 105480
+      },
+      {
+        "token": "bere",
+        "startTime": 105480,
+        "endTime": 106320
+      },
+      {
+        "token": "qualcosa.",
+        "startTime": 106320,
+        "endTime": 107480
+      }
+    ]
+  },
+  {
+    "sentence_text": "L'aperitivo italiano è un momento sociale.",
+    "translations": {
+      "en": "The Italian aperitivo is a social moment."
+    },
+    "segments": [
+      {
+        "token": "L'aperitivo",
+        "startTime": 107480,
+        "endTime": 108240
+      },
+      {
+        "token": "italiano",
+        "startTime": 108240,
+        "endTime": 108880
+      },
+      {
+        "token": "è",
+        "startTime": 108880,
+        "endTime": 109340
+      },
+      {
+        "token": "un",
+        "startTime": 109340,
+        "endTime": 109740
+      },
+      {
+        "token": "momento",
+        "startTime": 109740,
+        "endTime": 110440
+      },
+      {
+        "token": "sociale.",
+        "startTime": 110440,
+        "endTime": 112000
+      }
+    ]
+  },
+  {
+    "sentence_text": "L'aperitivo è quel momento della giornata dopo il lavoro, dopo la scuola, l'università,",
+    "translations": {
+      "en": "The aperitivo is that time of day after work, after school, university,"
+    },
+    "segments": [
+      {
+        "token": "L'aperitivo",
+        "startTime": 112000,
+        "endTime": 112800
+      },
+      {
+        "token": "è",
+        "startTime": 112800,
+        "endTime": 113240
+      },
+      {
+        "token": "quel",
+        "startTime": 113240,
+        "endTime": 113960
+      },
+      {
+        "token": "momento",
+        "startTime": 113960,
+        "endTime": 114880
+      },
+      {
+        "token": "della",
+        "startTime": 114880,
+        "endTime": 115340
+      },
+      {
+        "token": "giornata",
+        "startTime": 115340,
+        "endTime": 116480
+      },
+      {
+        "token": "dopo",
+        "startTime": 116480,
+        "endTime": 117200
+      },
+      {
+        "token": "il",
+        "startTime": 117200,
+        "endTime": 117400
+      },
+      {
+        "token": "lavoro,",
+        "startTime": 117400,
+        "endTime": 118260
+      },
+      {
+        "token": "dopo",
+        "startTime": 118260,
+        "endTime": 118420
+      },
+      {
+        "token": "la",
+        "startTime": 118420,
+        "endTime": 118660
+      },
+      {
+        "token": "scuola,",
+        "startTime": 118660,
+        "endTime": 119540
+      },
+      {
+        "token": "l'università,",
+        "startTime": 119540,
+        "endTime": 120840
+      }
+    ]
+  },
+  {
+    "sentence_text": "di solito tra le 6 e le 8, 9 di sera,",
+    "translations": {
+      "en": "usually between 6 and 8, 9 in the evening,"
+    },
+    "segments": [
+      {
+        "token": "di",
+        "startTime": 120840,
+        "endTime": 120920
+      },
+      {
+        "token": "solito",
+        "startTime": 120920,
+        "endTime": 121640
+      },
+      {
+        "token": "tra",
+        "startTime": 121640,
+        "endTime": 122140
+      },
+      {
+        "token": "le",
+        "startTime": 122140,
+        "endTime": 122480
+      },
+      {
+        "token": "6",
+        "startTime": 122480,
+        "endTime": 122840
+      },
+      {
+        "token": "e",
+        "startTime": 122840,
+        "endTime": 123360
+      },
+      {
+        "token": "le",
+        "startTime": 123360,
+        "endTime": 123520
+      },
+      {
+        "token": "8,",
+        "startTime": 123520,
+        "endTime": 124020
+      },
+      {
+        "token": "9",
+        "startTime": 124020,
+        "endTime": 124460
+      },
+      {
+        "token": "di",
+        "startTime": 124460,
+        "endTime": 124800
+      },
+      {
+        "token": "sera,",
+        "startTime": 124800,
+        "endTime": 125320
+      }
+    ]
+  },
+  {
+    "sentence_text": "quando gli amici o la famiglia si incontrano per bere qualcosa,",
+    "translations": {
+      "en": "When friends or family get together for a drink,"
+    },
+    "segments": [
+      {
+        "token": "quando",
+        "startTime": 125320,
+        "endTime": 125900
+      },
+      {
+        "token": "gli",
+        "startTime": 125900,
+        "endTime": 126400
+      },
+      {
+        "token": "amici",
+        "startTime": 126400,
+        "endTime": 127000
+      },
+      {
+        "token": "o",
+        "startTime": 127000,
+        "endTime": 127280
+      },
+      {
+        "token": "la",
+        "startTime": 127280,
+        "endTime": 127420
+      },
+      {
+        "token": "famiglia",
+        "startTime": 127420,
+        "endTime": 128080
+      },
+      {
+        "token": "si",
+        "startTime": 128080,
+        "endTime": 128639
+      },
+      {
+        "token": "incontrano",
+        "startTime": 128639,
+        "endTime": 130120
+      },
+      {
+        "token": "per",
+        "startTime": 130120,
+        "endTime": 130460
+      },
+      {
+        "token": "bere",
+        "startTime": 130460,
+        "endTime": 130780
+      },
+      {
+        "token": "qualcosa,",
+        "startTime": 130780,
+        "endTime": 132560
+      }
+    ]
+  },
+  {
+    "sentence_text": "mangiare qualche stuzzichino e soprattutto chiacchierare.",
+    "translations": {
+      "en": "some snacks, and above all, to chat."
+    },
+    "segments": [
+      {
+        "token": "mangiare",
+        "startTime": 132560,
+        "endTime": 133160
+      },
+      {
+        "token": "qualche",
+        "startTime": 133160,
+        "endTime": 133760
+      },
+      {
+        "token": "stuzzichino",
+        "startTime": 133760,
+        "endTime": 134940
+      },
+      {
+        "token": "e",
+        "startTime": 134940,
+        "endTime": 135520
+      },
+      {
+        "token": "soprattutto",
+        "startTime": 135520,
+        "endTime": 136040
+      },
+      {
+        "token": "chiacchierare.",
+        "startTime": 136040,
+        "endTime": 138060
+      }
+    ]
+  },
+  {
+    "sentence_text": "È un momento di socialità che serve per staccare la spina, cioè per rilassarsi.",
+    "translations": {
+      "en": "It's a social moment to unwind, that is, to relax."
+    },
+    "segments": [
+      {
+        "token": "È",
+        "startTime": 138060,
+        "endTime": 138240
+      },
+      {
+        "token": "un",
+        "startTime": 138240,
+        "endTime": 138460
+      },
+      {
+        "token": "momento",
+        "startTime": 138460,
+        "endTime": 138900
+      },
+      {
+        "token": "di",
+        "startTime": 138900,
+        "endTime": 139260
+      },
+      {
+        "token": "socialità",
+        "startTime": 139260,
+        "endTime": 140260
+      },
+      {
+        "token": "che",
+        "startTime": 140260,
+        "endTime": 140940
+      },
+      {
+        "token": "serve",
+        "startTime": 140940,
+        "endTime": 141800
+      },
+      {
+        "token": "per",
+        "startTime": 141800,
+        "endTime": 142360
+      },
+      {
+        "token": "staccare",
+        "startTime": 142360,
+        "endTime": 144020
+      },
+      {
+        "token": "la",
+        "startTime": 144020,
+        "endTime": 144280
+      },
+      {
+        "token": "spina,",
+        "startTime": 144280,
+        "endTime": 145140
+      },
+      {
+        "token": "cioè",
+        "startTime": 145140,
+        "endTime": 145260
+      },
+      {
+        "token": "per",
+        "startTime": 145260,
+        "endTime": 145680
+      },
+      {
+        "token": "rilassarsi.",
+        "startTime": 145680,
+        "endTime": 147400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Perché no, l'aperitivo italiano non serve solo a riempire lo stomaco,",
+    "translations": {
+      "en": "Why not, the Italian aperitif isn't just about filling your stomach,"
+    },
+    "segments": [
+      {
+        "token": "Perché",
+        "startTime": 147400,
+        "endTime": 147720
+      },
+      {
+        "token": "no,",
+        "startTime": 147720,
+        "endTime": 148500
+      },
+      {
+        "token": "l'aperitivo",
+        "startTime": 148500,
+        "endTime": 149320
+      },
+      {
+        "token": "italiano",
+        "startTime": 149320,
+        "endTime": 149940
+      },
+      {
+        "token": "non",
+        "startTime": 149940,
+        "endTime": 150760
+      },
+      {
+        "token": "serve",
+        "startTime": 150760,
+        "endTime": 151480
+      },
+      {
+        "token": "solo",
+        "startTime": 151480,
+        "endTime": 151980
+      },
+      {
+        "token": "a",
+        "startTime": 151980,
+        "endTime": 152320
+      },
+      {
+        "token": "riempire",
+        "startTime": 152320,
+        "endTime": 153180
+      },
+      {
+        "token": "lo",
+        "startTime": 153180,
+        "endTime": 153660
+      },
+      {
+        "token": "stomaco,",
+        "startTime": 153660,
+        "endTime": 154680
+      }
+    ]
+  },
+  {
+    "sentence_text": "serve proprio a stare insieme dove",
+    "translations": {
+      "en": "it's really about being together, and"
+    },
+    "segments": [
+      {
+        "token": "serve",
+        "startTime": 154680,
+        "endTime": 155250
+      },
+      {
+        "token": "proprio",
+        "startTime": 155250,
+        "endTime": 155730
+      },
+      {
+        "token": "a",
+        "startTime": 155730,
+        "endTime": 156250
+      },
+      {
+        "token": "stare",
+        "startTime": 156250,
+        "endTime": 156890
+      },
+      {
+        "token": "insieme",
+        "startTime": 156890,
+        "endTime": 157810
+      },
+      {
+        "token": "dove",
+        "startTime": 157810,
+        "endTime": 163270
+      }
+    ]
+  },
+  {
+    "sentence_text": "si fa l'aperitivo si può fare in diversi posti sicuramente",
+    "translations": {
+      "en": "you can have an aperitif in various places, for sure"
+    },
+    "segments": [
+      {
+        "token": "si",
+        "startTime": 163270,
+        "endTime": 163570
+      },
+      {
+        "token": "fa",
+        "startTime": 163570,
+        "endTime": 163790
+      },
+      {
+        "token": "l'aperitivo",
+        "startTime": 163790,
+        "endTime": 164710
+      },
+      {
+        "token": "si",
+        "startTime": 164710,
+        "endTime": 164710
+      },
+      {
+        "token": "può",
+        "startTime": 164710,
+        "endTime": 165270
+      },
+      {
+        "token": "fare",
+        "startTime": 165270,
+        "endTime": 165630
+      },
+      {
+        "token": "in",
+        "startTime": 165630,
+        "endTime": 165950
+      },
+      {
+        "token": "diversi",
+        "startTime": 165950,
+        "endTime": 166550
+      },
+      {
+        "token": "posti",
+        "startTime": 166550,
+        "endTime": 167210
+      },
+      {
+        "token": "sicuramente",
+        "startTime": 167210,
+        "endTime": 168450
+      }
+    ]
+  },
+  {
+    "sentence_text": "puoi fare l'aperitivo in un bar un classico",
+    "translations": {
+      "en": "you can have it at a bar, a classic"
+    },
+    "segments": [
+      {
+        "token": "puoi",
+        "startTime": 168450,
+        "endTime": 169050
+      },
+      {
+        "token": "fare",
+        "startTime": 169050,
+        "endTime": 169430
+      },
+      {
+        "token": "l'aperitivo",
+        "startTime": 169430,
+        "endTime": 170390
+      },
+      {
+        "token": "in",
+        "startTime": 170390,
+        "endTime": 171010
+      },
+      {
+        "token": "un",
+        "startTime": 171010,
+        "endTime": 171150
+      },
+      {
+        "token": "bar",
+        "startTime": 171150,
+        "endTime": 171670
+      },
+      {
+        "token": "un",
+        "startTime": 171670,
+        "endTime": 171670
+      },
+      {
+        "token": "classico",
+        "startTime": 171670,
+        "endTime": 172810
+      }
+    ]
+  },
+  {
+    "sentence_text": "bar italiano oppure anche in un ristorante perché a volte i ristoranti",
+    "translations": {
+      "en": "Italian bar, or even at a restaurant because sometimes restaurants"
+    },
+    "segments": [
+      {
+        "token": "bar",
+        "startTime": 172810,
+        "endTime": 173170
+      },
+      {
+        "token": "italiano",
+        "startTime": 173170,
+        "endTime": 174050
+      },
+      {
+        "token": "oppure",
+        "startTime": 174050,
+        "endTime": 174790
+      },
+      {
+        "token": "anche",
+        "startTime": 174790,
+        "endTime": 175190
+      },
+      {
+        "token": "in",
+        "startTime": 175190,
+        "endTime": 175950
+      },
+      {
+        "token": "un",
+        "startTime": 175950,
+        "endTime": 176090
+      },
+      {
+        "token": "ristorante",
+        "startTime": 176090,
+        "endTime": 176950
+      },
+      {
+        "token": "perché",
+        "startTime": 176950,
+        "endTime": 177490
+      },
+      {
+        "token": "a",
+        "startTime": 177490,
+        "endTime": 177850
+      },
+      {
+        "token": "volte",
+        "startTime": 177850,
+        "endTime": 178310
+      },
+      {
+        "token": "i",
+        "startTime": 178310,
+        "endTime": 178790
+      },
+      {
+        "token": "ristoranti",
+        "startTime": 178790,
+        "endTime": 180190
+      }
+    ]
+  },
+  {
+    "sentence_text": "offrono anche l'opzione dell'aperitivo prima della cena o prima del pranzo.",
+    "translations": {
+      "en": "also offer the aperitif option before dinner or before lunch."
+    },
+    "segments": [
+      {
+        "token": "offrono",
+        "startTime": 180190,
+        "endTime": 180690
+      },
+      {
+        "token": "anche",
+        "startTime": 180690,
+        "endTime": 181230
+      },
+      {
+        "token": "l'opzione",
+        "startTime": 181230,
+        "endTime": 182550
+      },
+      {
+        "token": "dell'aperitivo",
+        "startTime": 182550,
+        "endTime": 183650
+      },
+      {
+        "token": "prima",
+        "startTime": 183650,
+        "endTime": 184530
+      },
+      {
+        "token": "della",
+        "startTime": 184530,
+        "endTime": 184910
+      },
+      {
+        "token": "cena",
+        "startTime": 184910,
+        "endTime": 185390
+      },
+      {
+        "token": "o",
+        "startTime": 185390,
+        "endTime": 185990
+      },
+      {
+        "token": "prima",
+        "startTime": 185990,
+        "endTime": 186350
+      },
+      {
+        "token": "del",
+        "startTime": 186350,
+        "endTime": 186670
+      },
+      {
+        "token": "pranzo.",
+        "startTime": 186670,
+        "endTime": 187250
+      }
+    ]
+  },
+  {
+    "sentence_text": "Poi ci sono dei posti dove l'offerta principale,",
+    "translations": {
+      "en": "Then there are places where the main offering,"
+    },
+    "segments": [
+      {
+        "token": "Poi",
+        "startTime": 187250,
+        "endTime": 187670
+      },
+      {
+        "token": "ci",
+        "startTime": 187670,
+        "endTime": 187970
+      },
+      {
+        "token": "sono",
+        "startTime": 187970,
+        "endTime": 188450
+      },
+      {
+        "token": "dei",
+        "startTime": 188450,
+        "endTime": 188450
+      },
+      {
+        "token": "posti",
+        "startTime": 188450,
+        "endTime": 189550
+      },
+      {
+        "token": "dove",
+        "startTime": 189550,
+        "endTime": 190130
+      },
+      {
+        "token": "l'offerta",
+        "startTime": 190130,
+        "endTime": 191750
+      },
+      {
+        "token": "principale,",
+        "startTime": 191750,
+        "endTime": 192870
+      }
+    ]
+  },
+  {
+    "sentence_text": "il servizio principale è proprio l'aperitivo e noi chiamiamo comunemente",
+    "translations": {
+      "en": "the main service is the aperitif itself, and we commonly call"
+    },
+    "segments": [
+      {
+        "token": "il",
+        "startTime": 192870,
+        "endTime": 192990
+      },
+      {
+        "token": "servizio",
+        "startTime": 192990,
+        "endTime": 193790
+      },
+      {
+        "token": "principale",
+        "startTime": 193790,
+        "endTime": 194650
+      },
+      {
+        "token": "è",
+        "startTime": 194650,
+        "endTime": 194910
+      },
+      {
+        "token": "proprio",
+        "startTime": 194910,
+        "endTime": 195350
+      },
+      {
+        "token": "l'aperitivo",
+        "startTime": 195350,
+        "endTime": 196310
+      },
+      {
+        "token": "e",
+        "startTime": 196310,
+        "endTime": 196910
+      },
+      {
+        "token": "noi",
+        "startTime": 196910,
+        "endTime": 197350
+      },
+      {
+        "token": "chiamiamo",
+        "startTime": 197350,
+        "endTime": 197590
+      },
+      {
+        "token": "comunemente",
+        "startTime": 197590,
+        "endTime": 199290
+      }
+    ]
+  },
+  {
+    "sentence_text": "questi posti con un nome un po' generico cioè locali, il locale,",
+    "translations": {
+      "en": "these places with a somewhat generic name, that is, locali, il locale,"
+    },
+    "segments": [
+      {
+        "token": "questi",
+        "startTime": 199290,
+        "endTime": 199830
+      },
+      {
+        "token": "posti",
+        "startTime": 199830,
+        "endTime": 200610
+      },
+      {
+        "token": "con",
+        "startTime": 200610,
+        "endTime": 201090
+      },
+      {
+        "token": "un",
+        "startTime": 201090,
+        "endTime": 201250
+      },
+      {
+        "token": "nome",
+        "startTime": 201250,
+        "endTime": 201510
+      },
+      {
+        "token": "un",
+        "startTime": 201510,
+        "endTime": 201690
+      },
+      {
+        "token": "po'",
+        "startTime": 201690,
+        "endTime": 201850
+      },
+      {
+        "token": "generico",
+        "startTime": 201850,
+        "endTime": 202730
+      },
+      {
+        "token": "cioè",
+        "startTime": 202730,
+        "endTime": 203330
+      },
+      {
+        "token": "locali,",
+        "startTime": 203330,
+        "endTime": 205310
+      },
+      {
+        "token": "il",
+        "startTime": 205310,
+        "endTime": 205570
+      },
+      {
+        "token": "locale,",
+        "startTime": 205570,
+        "endTime": 206950
+      }
+    ]
+  },
+  {
+    "sentence_text": "un luogo che che non è proprio un bar classico,",
+    "translations": {
+      "en": "a place that isn't quite a classic bar,"
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 206950,
+        "endTime": 207090
+      },
+      {
+        "token": "luogo",
+        "startTime": 207090,
+        "endTime": 207630
+      },
+      {
+        "token": "che",
+        "startTime": 207630,
+        "endTime": 207830
+      },
+      {
+        "token": "che",
+        "startTime": 207830,
+        "endTime": 207870
+      },
+      {
+        "token": "non",
+        "startTime": 207870,
+        "endTime": 208270
+      },
+      {
+        "token": "è",
+        "startTime": 208270,
+        "endTime": 208510
+      },
+      {
+        "token": "proprio",
+        "startTime": 208510,
+        "endTime": 209110
+      },
+      {
+        "token": "un",
+        "startTime": 209110,
+        "endTime": 209730
+      },
+      {
+        "token": "bar",
+        "startTime": 209730,
+        "endTime": 210090
+      },
+      {
+        "token": "classico,",
+        "startTime": 210090,
+        "endTime": 211090
+      }
+    ]
+  },
+  {
+    "sentence_text": "ma non è neanche un ristorante,",
+    "translations": {
+      "en": "but isn't a restaurant either,"
+    },
+    "segments": [
+      {
+        "token": "ma",
+        "startTime": 211090,
+        "endTime": 211690
+      },
+      {
+        "token": "non",
+        "startTime": 211690,
+        "endTime": 211890
+      },
+      {
+        "token": "è",
+        "startTime": 211890,
+        "endTime": 212110
+      },
+      {
+        "token": "neanche",
+        "startTime": 212110,
+        "endTime": 212750
+      },
+      {
+        "token": "un",
+        "startTime": 212750,
+        "endTime": 213290
+      },
+      {
+        "token": "ristorante,",
+        "startTime": 213290,
+        "endTime": 214790
+      }
+    ]
+  },
+  {
+    "sentence_text": "un po' una via di mezzo dove la cosa principale è proprio l'aperitivo.",
+    "translations": {
+      "en": "a bit of a middle ground where the main thing is the aperitif."
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 214790,
+        "endTime": 214950
+      },
+      {
+        "token": "po'",
+        "startTime": 214950,
+        "endTime": 215170
+      },
+      {
+        "token": "una",
+        "startTime": 215170,
+        "endTime": 215490
+      },
+      {
+        "token": "via",
+        "startTime": 215490,
+        "endTime": 215710
+      },
+      {
+        "token": "di",
+        "startTime": 215710,
+        "endTime": 215970
+      },
+      {
+        "token": "mezzo",
+        "startTime": 215970,
+        "endTime": 216470
+      },
+      {
+        "token": "dove",
+        "startTime": 216470,
+        "endTime": 217250
+      },
+      {
+        "token": "la",
+        "startTime": 217250,
+        "endTime": 217890
+      },
+      {
+        "token": "cosa",
+        "startTime": 217890,
+        "endTime": 218190
+      },
+      {
+        "token": "principale",
+        "startTime": 218190,
+        "endTime": 219070
+      },
+      {
+        "token": "è",
+        "startTime": 219070,
+        "endTime": 219210
+      },
+      {
+        "token": "proprio",
+        "startTime": 219210,
+        "endTime": 219610
+      },
+      {
+        "token": "l'aperitivo.",
+        "startTime": 219610,
+        "endTime": 220930
+      }
+    ]
+  },
+  {
+    "sentence_text": "La sera verso le 6 le piazze, le terrazze, le strade,",
+    "translations": {
+      "en": "In the evening around 6, the squares, terraces, streets,"
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 220930,
+        "endTime": 221230
+      },
+      {
+        "token": "sera",
+        "startTime": 221230,
+        "endTime": 221690
+      },
+      {
+        "token": "verso",
+        "startTime": 221690,
+        "endTime": 222290
+      },
+      {
+        "token": "le",
+        "startTime": 222290,
+        "endTime": 222630
+      },
+      {
+        "token": "6",
+        "startTime": 222630,
+        "endTime": 222950
+      },
+      {
+        "token": "le",
+        "startTime": 222950,
+        "endTime": 223650
+      },
+      {
+        "token": "piazze,",
+        "startTime": 223650,
+        "endTime": 224570
+      },
+      {
+        "token": "le",
+        "startTime": 224570,
+        "endTime": 225130
+      },
+      {
+        "token": "terrazze,",
+        "startTime": 225130,
+        "endTime": 226550
+      },
+      {
+        "token": "le",
+        "startTime": 226550,
+        "endTime": 226630
+      },
+      {
+        "token": "strade,",
+        "startTime": 226630,
+        "endTime": 227690
+      }
+    ]
+  },
+  {
+    "sentence_text": "il lungomare iniziano a riempirsi di tavolini, di persone, di cose da bere,",
+    "translations": {
+      "en": "and seafronts start to fill with tables, people, drinks,"
+    },
+    "segments": [
+      {
+        "token": "il",
+        "startTime": 227690,
+        "endTime": 228230
+      },
+      {
+        "token": "lungomare",
+        "startTime": 228230,
+        "endTime": 229190
+      },
+      {
+        "token": "iniziano",
+        "startTime": 229190,
+        "endTime": 230070
+      },
+      {
+        "token": "a",
+        "startTime": 230070,
+        "endTime": 230450
+      },
+      {
+        "token": "riempirsi",
+        "startTime": 230450,
+        "endTime": 231410
+      },
+      {
+        "token": "di",
+        "startTime": 231410,
+        "endTime": 231730
+      },
+      {
+        "token": "tavolini,",
+        "startTime": 231730,
+        "endTime": 233030
+      },
+      {
+        "token": "di",
+        "startTime": 233030,
+        "endTime": 233070
+      },
+      {
+        "token": "persone,",
+        "startTime": 233070,
+        "endTime": 233610
+      },
+      {
+        "token": "di",
+        "startTime": 233610,
+        "endTime": 234270
+      },
+      {
+        "token": "cose",
+        "startTime": 234270,
+        "endTime": 234550
+      },
+      {
+        "token": "da",
+        "startTime": 234550,
+        "endTime": 234750
+      },
+      {
+        "token": "bere,",
+        "startTime": 234750,
+        "endTime": 235310
+      }
+    ]
+  },
+  {
+    "sentence_text": "di cose da mangiare.",
+    "translations": {
+      "en": "and food."
+    },
+    "segments": [
+      {
+        "token": "di",
+        "startTime": 235310,
+        "endTime": 235430
+      },
+      {
+        "token": "cose",
+        "startTime": 235430,
+        "endTime": 235690
+      },
+      {
+        "token": "da",
+        "startTime": 235690,
+        "endTime": 235850
+      },
+      {
+        "token": "mangiare.",
+        "startTime": 235850,
+        "endTime": 235930
+      }
+    ]
+  },
+  {
+    "sentence_text": "Puoi vedere i camerieri che prendono ordinazioni",
+    "translations": {
+      "en": "You can see waiters taking orders"
+    },
+    "segments": [
+      {
+        "token": "Puoi",
+        "startTime": 235930,
+        "endTime": 236910
+      },
+      {
+        "token": "vedere",
+        "startTime": 236910,
+        "endTime": 237310
+      },
+      {
+        "token": "i",
+        "startTime": 237310,
+        "endTime": 237730
+      },
+      {
+        "token": "camerieri",
+        "startTime": 237730,
+        "endTime": 238430
+      },
+      {
+        "token": "che",
+        "startTime": 238430,
+        "endTime": 238970
+      },
+      {
+        "token": "prendono",
+        "startTime": 238970,
+        "endTime": 239770
+      },
+      {
+        "token": "ordinazioni",
+        "startTime": 239770,
+        "endTime": 240870
+      }
+    ]
+  },
+  {
+    "sentence_text": "e che vanno da un tavolo all'altro servendo cocktail e stuzzichini.",
+    "translations": {
+      "en": "and going from table to table serving cocktails and snacks."
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 240870,
+        "endTime": 241370
+      },
+      {
+        "token": "che",
+        "startTime": 241370,
+        "endTime": 241670
+      },
+      {
+        "token": "vanno",
+        "startTime": 241670,
+        "endTime": 242230
+      },
+      {
+        "token": "da",
+        "startTime": 242230,
+        "endTime": 242550
+      },
+      {
+        "token": "un",
+        "startTime": 242550,
+        "endTime": 242650
+      },
+      {
+        "token": "tavolo",
+        "startTime": 242650,
+        "endTime": 243050
+      },
+      {
+        "token": "all'altro",
+        "startTime": 243050,
+        "endTime": 243770
+      },
+      {
+        "token": "servendo",
+        "startTime": 243770,
+        "endTime": 245090
+      },
+      {
+        "token": "cocktail",
+        "startTime": 245090,
+        "endTime": 245710
+      },
+      {
+        "token": "e",
+        "startTime": 245710,
+        "endTime": 246130
+      },
+      {
+        "token": "stuzzichini.",
+        "startTime": 246130,
+        "endTime": 247070
+      }
+    ]
+  },
+  {
+    "sentence_text": "L'atmosfera è sempre rilassata e a volte c'è anche la musica.",
+    "translations": {
+      "en": "The atmosphere is always relaxed and sometimes there's even music."
+    },
+    "segments": [
+      {
+        "token": "L'atmosfera",
+        "startTime": 247070,
+        "endTime": 247970
+      },
+      {
+        "token": "è",
+        "startTime": 247970,
+        "endTime": 248530
+      },
+      {
+        "token": "sempre",
+        "startTime": 248530,
+        "endTime": 249070
+      },
+      {
+        "token": "rilassata",
+        "startTime": 249070,
+        "endTime": 250350
+      },
+      {
+        "token": "e",
+        "startTime": 250350,
+        "endTime": 250650
+      },
+      {
+        "token": "a",
+        "startTime": 250650,
+        "endTime": 250790
+      },
+      {
+        "token": "volte",
+        "startTime": 250790,
+        "endTime": 251170
+      },
+      {
+        "token": "c'è",
+        "startTime": 251170,
+        "endTime": 251570
+      },
+      {
+        "token": "anche",
+        "startTime": 251570,
+        "endTime": 251970
+      },
+      {
+        "token": "la",
+        "startTime": 251970,
+        "endTime": 252310
+      },
+      {
+        "token": "musica.",
+        "startTime": 252310,
+        "endTime": 257190
+      }
+    ]
+  },
+  {
+    "sentence_text": "Come funziona l'aperitivo?",
+    "translations": {
+      "en": "How does the aperitif work?"
+    },
+    "segments": [
+      {
+        "token": "Come",
+        "startTime": 257190,
+        "endTime": 257490
+      },
+      {
+        "token": "funziona",
+        "startTime": 257490,
+        "endTime": 258370
+      },
+      {
+        "token": "l'aperitivo?",
+        "startTime": 258370,
+        "endTime": 259550
+      }
+    ]
+  },
+  {
+    "sentence_text": "Anche se originariamente il termine aperitivo era legato alla cosa da bere,",
+    "translations": {
+      "en": "Even though originally the term aperitif was linked to the drink,"
+    },
+    "segments": [
+      {
+        "token": "Anche",
+        "startTime": 259550,
+        "endTime": 259890
+      },
+      {
+        "token": "se",
+        "startTime": 259890,
+        "endTime": 260230
+      },
+      {
+        "token": "originariamente",
+        "startTime": 260230,
+        "endTime": 261450
+      },
+      {
+        "token": "il",
+        "startTime": 261450,
+        "endTime": 262250
+      },
+      {
+        "token": "termine",
+        "startTime": 262250,
+        "endTime": 262910
+      },
+      {
+        "token": "aperitivo",
+        "startTime": 262910,
+        "endTime": 264110
+      },
+      {
+        "token": "era",
+        "startTime": 264110,
+        "endTime": 264610
+      },
+      {
+        "token": "legato",
+        "startTime": 264610,
+        "endTime": 265350
+      },
+      {
+        "token": "alla",
+        "startTime": 265350,
+        "endTime": 266090
+      },
+      {
+        "token": "cosa",
+        "startTime": 266090,
+        "endTime": 266610
+      },
+      {
+        "token": "da",
+        "startTime": 266610,
+        "endTime": 266870
+      },
+      {
+        "token": "bere,",
+        "startTime": 266870,
+        "endTime": 267630
+      }
+    ]
+  },
+  {
+    "sentence_text": "alla bibita o alla bevanda, oggi è legato a un concetto un po' più ampio,",
+    "translations": {
+      "en": "to the beverage or the drink, today it's linked to a broader concept,"
+    },
+    "segments": [
+      {
+        "token": "alla",
+        "startTime": 267630,
+        "endTime": 268130
+      },
+      {
+        "token": "bibita",
+        "startTime": 268130,
+        "endTime": 268830
+      },
+      {
+        "token": "o",
+        "startTime": 268830,
+        "endTime": 268990
+      },
+      {
+        "token": "alla",
+        "startTime": 268990,
+        "endTime": 269090
+      },
+      {
+        "token": "bevanda,",
+        "startTime": 269090,
+        "endTime": 270050
+      },
+      {
+        "token": "oggi",
+        "startTime": 270050,
+        "endTime": 270490
+      },
+      {
+        "token": "è",
+        "startTime": 270490,
+        "endTime": 270870
+      },
+      {
+        "token": "legato",
+        "startTime": 270870,
+        "endTime": 271650
+      },
+      {
+        "token": "a",
+        "startTime": 271650,
+        "endTime": 272010
+      },
+      {
+        "token": "un",
+        "startTime": 272010,
+        "endTime": 272210
+      },
+      {
+        "token": "concetto",
+        "startTime": 272210,
+        "endTime": 273150
+      },
+      {
+        "token": "un",
+        "startTime": 273150,
+        "endTime": 273570
+      },
+      {
+        "token": "po'",
+        "startTime": 273570,
+        "endTime": 274170
+      },
+      {
+        "token": "più",
+        "startTime": 274170,
+        "endTime": 274250
+      },
+      {
+        "token": "ampio,",
+        "startTime": 274250,
+        "endTime": 275210
+      }
+    ]
+  },
+  {
+    "sentence_text": "un po' più grande.",
+    "translations": {
+      "en": "a bit bigger."
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 275210,
+        "endTime": 275530
+      },
+      {
+        "token": "po'",
+        "startTime": 275530,
+        "endTime": 275830
+      },
+      {
+        "token": "più",
+        "startTime": 275830,
+        "endTime": 275970
+      },
+      {
+        "token": "grande.",
+        "startTime": 275970,
+        "endTime": 276790
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quando tu ordini un aperitivo non ti portano solo la cosa da bere,",
+    "translations": {
+      "en": "When you order an aperitif, they don't just bring you the drink,"
+    },
+    "segments": [
+      {
+        "token": "Quando",
+        "startTime": 276790,
+        "endTime": 277190
+      },
+      {
+        "token": "tu",
+        "startTime": 277190,
+        "endTime": 277530
+      },
+      {
+        "token": "ordini",
+        "startTime": 277530,
+        "endTime": 278310
+      },
+      {
+        "token": "un",
+        "startTime": 278310,
+        "endTime": 278650
+      },
+      {
+        "token": "aperitivo",
+        "startTime": 278650,
+        "endTime": 279490
+      },
+      {
+        "token": "non",
+        "startTime": 279490,
+        "endTime": 280370
+      },
+      {
+        "token": "ti",
+        "startTime": 280370,
+        "endTime": 280590
+      },
+      {
+        "token": "portano",
+        "startTime": 280590,
+        "endTime": 281310
+      },
+      {
+        "token": "solo",
+        "startTime": 281310,
+        "endTime": 282030
+      },
+      {
+        "token": "la",
+        "startTime": 282030,
+        "endTime": 282650
+      },
+      {
+        "token": "cosa",
+        "startTime": 282650,
+        "endTime": 283070
+      },
+      {
+        "token": "da",
+        "startTime": 283070,
+        "endTime": 283310
+      },
+      {
+        "token": "bere,",
+        "startTime": 283310,
+        "endTime": 283890
+      }
+    ]
+  },
+  {
+    "sentence_text": "ti portano anche gli stuzzichini.",
+    "translations": {
+      "en": "they also bring you snacks."
+    },
+    "segments": [
+      {
+        "token": "ti",
+        "startTime": 283890,
+        "endTime": 284030
+      },
+      {
+        "token": "portano",
+        "startTime": 284030,
+        "endTime": 284570
+      },
+      {
+        "token": "anche",
+        "startTime": 284570,
+        "endTime": 285010
+      },
+      {
+        "token": "gli",
+        "startTime": 285010,
+        "endTime": 285830
+      },
+      {
+        "token": "stuzzichini.",
+        "startTime": 285830,
+        "endTime": 287110
+      }
+    ]
+  },
+  {
+    "sentence_text": "Che cosa sono gli stuzzichini?",
+    "translations": {
+      "en": "What are snacks?"
+    },
+    "segments": [
+      {
+        "token": "Che",
+        "startTime": 287110,
+        "endTime": 287230
+      },
+      {
+        "token": "cosa",
+        "startTime": 287230,
+        "endTime": 287690
+      },
+      {
+        "token": "sono",
+        "startTime": 287690,
+        "endTime": 288110
+      },
+      {
+        "token": "gli",
+        "startTime": 288110,
+        "endTime": 288410
+      },
+      {
+        "token": "stuzzichini?",
+        "startTime": 288410,
+        "endTime": 289850
+      }
+    ]
+  },
+  {
+    "sentence_text": "Sono ad esempio le patatine, le olive o le noccioline.",
+    "translations": {
+      "en": "For example, chips, olives, or peanuts."
+    },
+    "segments": [
+      {
+        "token": "Sono",
+        "startTime": 289850,
+        "endTime": 290690
+      },
+      {
+        "token": "ad",
+        "startTime": 290690,
+        "endTime": 291030
+      },
+      {
+        "token": "esempio",
+        "startTime": 291030,
+        "endTime": 291570
+      },
+      {
+        "token": "le",
+        "startTime": 291570,
+        "endTime": 291990
+      },
+      {
+        "token": "patatine,",
+        "startTime": 291990,
+        "endTime": 293570
+      },
+      {
+        "token": "le",
+        "startTime": 293570,
+        "endTime": 293610
+      },
+      {
+        "token": "olive",
+        "startTime": 293610,
+        "endTime": 293930
+      },
+      {
+        "token": "o",
+        "startTime": 293930,
+        "endTime": 294490
+      },
+      {
+        "token": "le",
+        "startTime": 294490,
+        "endTime": 294630
+      },
+      {
+        "token": "noccioline.",
+        "startTime": 294630,
+        "endTime": 295550
+      }
+    ]
+  },
+  {
+    "sentence_text": "In Italia infatti è molto importante la cultura dell'alcol,",
+    "translations": {
+      "en": "In Italy, in fact, the culture of alcohol is very important,"
+    },
+    "segments": [
+      {
+        "token": "In",
+        "startTime": 295550,
+        "endTime": 295730
+      },
+      {
+        "token": "Italia",
+        "startTime": 295730,
+        "endTime": 296150
+      },
+      {
+        "token": "infatti",
+        "startTime": 296150,
+        "endTime": 297010
+      },
+      {
+        "token": "è",
+        "startTime": 297010,
+        "endTime": 297270
+      },
+      {
+        "token": "molto",
+        "startTime": 297270,
+        "endTime": 297710
+      },
+      {
+        "token": "importante",
+        "startTime": 297710,
+        "endTime": 298270
+      },
+      {
+        "token": "la",
+        "startTime": 298270,
+        "endTime": 298690
+      },
+      {
+        "token": "cultura",
+        "startTime": 298690,
+        "endTime": 299170
+      },
+      {
+        "token": "dell'alcol,",
+        "startTime": 299170,
+        "endTime": 300830
+      }
+    ]
+  },
+  {
+    "sentence_text": "cioè in Italia non beviamo con l'obiettivo di ubriacarci.",
+    "translations": {
+      "en": "meaning in Italy we don't drink with the goal of getting drunk."
+    },
+    "segments": [
+      {
+        "token": "cioè",
+        "startTime": 300830,
+        "endTime": 300990
+      },
+      {
+        "token": "in",
+        "startTime": 300990,
+        "endTime": 301710
+      },
+      {
+        "token": "Italia",
+        "startTime": 301710,
+        "endTime": 302170
+      },
+      {
+        "token": "non",
+        "startTime": 302170,
+        "endTime": 302690
+      },
+      {
+        "token": "beviamo",
+        "startTime": 302690,
+        "endTime": 303570
+      },
+      {
+        "token": "con",
+        "startTime": 303570,
+        "endTime": 304170
+      },
+      {
+        "token": "l'obiettivo",
+        "startTime": 304170,
+        "endTime": 305490
+      },
+      {
+        "token": "di",
+        "startTime": 305490,
+        "endTime": 305950
+      },
+      {
+        "token": "ubriacarci.",
+        "startTime": 305950,
+        "endTime": 308370
+      }
+    ]
+  },
+  {
+    "sentence_text": "certo a volte succede e va bene ma è molto importante in italia bere",
+    "translations": {
+      "en": "Sure, sometimes it happens and that's fine, but it's very important in Italy to drink"
+    },
+    "segments": [
+      {
+        "token": "certo",
+        "startTime": 308370,
+        "endTime": 308710
+      },
+      {
+        "token": "a",
+        "startTime": 308710,
+        "endTime": 309290
+      },
+      {
+        "token": "volte",
+        "startTime": 309290,
+        "endTime": 309550
+      },
+      {
+        "token": "succede",
+        "startTime": 309550,
+        "endTime": 310130
+      },
+      {
+        "token": "e",
+        "startTime": 310130,
+        "endTime": 310710
+      },
+      {
+        "token": "va",
+        "startTime": 310710,
+        "endTime": 310850
+      },
+      {
+        "token": "bene",
+        "startTime": 310850,
+        "endTime": 311030
+      },
+      {
+        "token": "ma",
+        "startTime": 311030,
+        "endTime": 312170
+      },
+      {
+        "token": "è",
+        "startTime": 312170,
+        "endTime": 312960
+      },
+      {
+        "token": "molto",
+        "startTime": 312960,
+        "endTime": 313240
+      },
+      {
+        "token": "importante",
+        "startTime": 313240,
+        "endTime": 314040
+      },
+      {
+        "token": "in",
+        "startTime": 314040,
+        "endTime": 314380
+      },
+      {
+        "token": "italia",
+        "startTime": 314380,
+        "endTime": 314940
+      },
+      {
+        "token": "bere",
+        "startTime": 314940,
+        "endTime": 316140
+      }
+    ]
+  },
+  {
+    "sentence_text": "alcol e mangiare qualcosa e anche 20",
+    "translations": {
+      "en": "alcohol and eat something, and even 20"
+    },
+    "segments": [
+      {
+        "token": "alcol",
+        "startTime": 316140,
+        "endTime": 316820
+      },
+      {
+        "token": "e",
+        "startTime": 316820,
+        "endTime": 317540
+      },
+      {
+        "token": "mangiare",
+        "startTime": 317540,
+        "endTime": 318400
+      },
+      {
+        "token": "qualcosa",
+        "startTime": 318400,
+        "endTime": 318920
+      },
+      {
+        "token": "e",
+        "startTime": 318920,
+        "endTime": 319720
+      },
+      {
+        "token": "anche",
+        "startTime": 319720,
+        "endTime": 319720
+      },
+      {
+        "token": "20",
+        "startTime": 319720,
+        "endTime": 321320
+      }
+    ]
+  },
+  {
+    "sentence_text": "30 40 anni fa se tu ordinavi un aperitivo ti portavano sempre qualche stuzzichino",
+    "translations": {
+      "en": "30, 40 years ago if you ordered an aperitif, they always brought you some snacks,"
+    },
+    "segments": [
+      {
+        "token": "30",
+        "startTime": 321320,
+        "endTime": 321840
+      },
+      {
+        "token": "40",
+        "startTime": 321840,
+        "endTime": 322300
+      },
+      {
+        "token": "anni",
+        "startTime": 322300,
+        "endTime": 323160
+      },
+      {
+        "token": "fa",
+        "startTime": 323160,
+        "endTime": 323520
+      },
+      {
+        "token": "se",
+        "startTime": 323520,
+        "endTime": 324000
+      },
+      {
+        "token": "tu",
+        "startTime": 324000,
+        "endTime": 324380
+      },
+      {
+        "token": "ordinavi",
+        "startTime": 324380,
+        "endTime": 325520
+      },
+      {
+        "token": "un",
+        "startTime": 325520,
+        "endTime": 325700
+      },
+      {
+        "token": "aperitivo",
+        "startTime": 325700,
+        "endTime": 326420
+      },
+      {
+        "token": "ti",
+        "startTime": 326420,
+        "endTime": 326940
+      },
+      {
+        "token": "portavano",
+        "startTime": 326940,
+        "endTime": 327760
+      },
+      {
+        "token": "sempre",
+        "startTime": 327760,
+        "endTime": 328420
+      },
+      {
+        "token": "qualche",
+        "startTime": 328420,
+        "endTime": 329120
+      },
+      {
+        "token": "stuzzichino",
+        "startTime": 329120,
+        "endTime": 330160
+      }
+    ]
+  },
+  {
+    "sentence_text": "qualche patatina o nocciolina da mangiare insieme",
+    "translations": {
+      "en": "some chips or peanuts to eat along with"
+    },
+    "segments": [
+      {
+        "token": "qualche",
+        "startTime": 330160,
+        "endTime": 330880
+      },
+      {
+        "token": "patatina",
+        "startTime": 330880,
+        "endTime": 331820
+      },
+      {
+        "token": "o",
+        "startTime": 331820,
+        "endTime": 331980
+      },
+      {
+        "token": "nocciolina",
+        "startTime": 331980,
+        "endTime": 332700
+      },
+      {
+        "token": "da",
+        "startTime": 332700,
+        "endTime": 333080
+      },
+      {
+        "token": "mangiare",
+        "startTime": 333080,
+        "endTime": 333760
+      },
+      {
+        "token": "insieme",
+        "startTime": 333760,
+        "endTime": 334740
+      }
+    ]
+  },
+  {
+    "sentence_text": "alla tua bibita la tua bevanda e attenzione tu non devi ordinare",
+    "translations": {
+      "en": "your drink, your beverage, and watch out, you don't have to order"
+    },
+    "segments": [
+      {
+        "token": "alla",
+        "startTime": 334740,
+        "endTime": 335160
+      },
+      {
+        "token": "tua",
+        "startTime": 335160,
+        "endTime": 335500
+      },
+      {
+        "token": "bibita",
+        "startTime": 335500,
+        "endTime": 336240
+      },
+      {
+        "token": "la",
+        "startTime": 336240,
+        "endTime": 336440
+      },
+      {
+        "token": "tua",
+        "startTime": 336440,
+        "endTime": 336720
+      },
+      {
+        "token": "bevanda",
+        "startTime": 336720,
+        "endTime": 337400
+      },
+      {
+        "token": "e",
+        "startTime": 337400,
+        "endTime": 337760
+      },
+      {
+        "token": "attenzione",
+        "startTime": 337760,
+        "endTime": 338700
+      },
+      {
+        "token": "tu",
+        "startTime": 338700,
+        "endTime": 339200
+      },
+      {
+        "token": "non",
+        "startTime": 339200,
+        "endTime": 339420
+      },
+      {
+        "token": "devi",
+        "startTime": 339420,
+        "endTime": 339460
+      },
+      {
+        "token": "ordinare",
+        "startTime": 339460,
+        "endTime": 340980
+      }
+    ]
+  },
+  {
+    "sentence_text": "questo cibo arriva automaticamente però come è cambiato",
+    "translations": {
+      "en": "this food; it arrives automatically. But how has it changed"
+    },
+    "segments": [
+      {
+        "token": "questo",
+        "startTime": 340980,
+        "endTime": 341540
+      },
+      {
+        "token": "cibo",
+        "startTime": 341540,
+        "endTime": 342040
+      },
+      {
+        "token": "arriva",
+        "startTime": 342040,
+        "endTime": 343040
+      },
+      {
+        "token": "automaticamente",
+        "startTime": 343040,
+        "endTime": 344360
+      },
+      {
+        "token": "però",
+        "startTime": 344360,
+        "endTime": 344820
+      },
+      {
+        "token": "come",
+        "startTime": 344820,
+        "endTime": 345240
+      },
+      {
+        "token": "è",
+        "startTime": 345240,
+        "endTime": 345380
+      },
+      {
+        "token": "cambiato",
+        "startTime": 345380,
+        "endTime": 346300
+      }
+    ]
+  },
+  {
+    "sentence_text": "nel tempo questo è cambiato che oggi in molti posti l'aperitivo non è accompagnato",
+    "translations": {
+      "en": "over time? This has changed so that today in many places the aperitif is not accompanied"
+    },
+    "segments": [
+      {
+        "token": "nel",
+        "startTime": 346300,
+        "endTime": 346560
+      },
+      {
+        "token": "tempo",
+        "startTime": 346560,
+        "endTime": 347200
+      },
+      {
+        "token": "questo",
+        "startTime": 347200,
+        "endTime": 347760
+      },
+      {
+        "token": "è",
+        "startTime": 347760,
+        "endTime": 348120
+      },
+      {
+        "token": "cambiato",
+        "startTime": 348120,
+        "endTime": 348700
+      },
+      {
+        "token": "che",
+        "startTime": 348700,
+        "endTime": 348700
+      },
+      {
+        "token": "oggi",
+        "startTime": 348700,
+        "endTime": 349620
+      },
+      {
+        "token": "in",
+        "startTime": 349620,
+        "endTime": 350100
+      },
+      {
+        "token": "molti",
+        "startTime": 350100,
+        "endTime": 350460
+      },
+      {
+        "token": "posti",
+        "startTime": 350460,
+        "endTime": 350940
+      },
+      {
+        "token": "l'aperitivo",
+        "startTime": 350940,
+        "endTime": 351980
+      },
+      {
+        "token": "non",
+        "startTime": 351980,
+        "endTime": 352360
+      },
+      {
+        "token": "è",
+        "startTime": 352360,
+        "endTime": 352600
+      },
+      {
+        "token": "accompagnato",
+        "startTime": 352600,
+        "endTime": 353720
+      }
+    ]
+  },
+  {
+    "sentence_text": "solo dai classici stuzzichini un po di olive un un po' di noccioline.",
+    "translations": {
+      "en": "only by the classic snacks, a few olives, a few peanuts."
+    },
+    "segments": [
+      {
+        "token": "solo",
+        "startTime": 353720,
+        "endTime": 354500
+      },
+      {
+        "token": "dai",
+        "startTime": 354500,
+        "endTime": 354920
+      },
+      {
+        "token": "classici",
+        "startTime": 354920,
+        "endTime": 355960
+      },
+      {
+        "token": "stuzzichini",
+        "startTime": 355960,
+        "endTime": 356900
+      },
+      {
+        "token": "un",
+        "startTime": 356900,
+        "endTime": 357520
+      },
+      {
+        "token": "po",
+        "startTime": 357520,
+        "endTime": 357620
+      },
+      {
+        "token": "di",
+        "startTime": 357620,
+        "endTime": 357760
+      },
+      {
+        "token": "olive",
+        "startTime": 357760,
+        "endTime": 358040
+      },
+      {
+        "token": "un",
+        "startTime": 358040,
+        "endTime": 358300
+      },
+      {
+        "token": "un",
+        "startTime": 358300,
+        "endTime": 358440
+      },
+      {
+        "token": "po'",
+        "startTime": 358440,
+        "endTime": 358580
+      },
+      {
+        "token": "di",
+        "startTime": 358580,
+        "endTime": 358680
+      },
+      {
+        "token": "noccioline.",
+        "startTime": 358680,
+        "endTime": 359600
+      }
+    ]
+  },
+  {
+    "sentence_text": "A volte sì, ma normalmente non è accompagnato solo da questi stuzzichini classici,",
+    "translations": {
+      "en": "Sometimes yes, but normally it's not accompanied only by these classic snacks,"
+    },
+    "segments": [
+      {
+        "token": "A",
+        "startTime": 359600,
+        "endTime": 359960
+      },
+      {
+        "token": "volte",
+        "startTime": 359960,
+        "endTime": 360240
+      },
+      {
+        "token": "sì,",
+        "startTime": 360240,
+        "endTime": 361160
+      },
+      {
+        "token": "ma",
+        "startTime": 361160,
+        "endTime": 361180
+      },
+      {
+        "token": "normalmente",
+        "startTime": 361180,
+        "endTime": 361820
+      },
+      {
+        "token": "non",
+        "startTime": 361820,
+        "endTime": 362520
+      },
+      {
+        "token": "è",
+        "startTime": 362520,
+        "endTime": 362760
+      },
+      {
+        "token": "accompagnato",
+        "startTime": 362760,
+        "endTime": 363780
+      },
+      {
+        "token": "solo",
+        "startTime": 363780,
+        "endTime": 364340
+      },
+      {
+        "token": "da",
+        "startTime": 364340,
+        "endTime": 364540
+      },
+      {
+        "token": "questi",
+        "startTime": 364540,
+        "endTime": 365100
+      },
+      {
+        "token": "stuzzichini",
+        "startTime": 365100,
+        "endTime": 365500
+      },
+      {
+        "token": "classici,",
+        "startTime": 365500,
+        "endTime": 367180
+      }
+    ]
+  },
+  {
+    "sentence_text": "ma da tantissimo altro cibo.",
+    "translations": {
+      "en": "but there's also a ton of other food."
+    },
+    "segments": [
+      {
+        "token": "ma",
+        "startTime": 367180,
+        "endTime": 367280
+      },
+      {
+        "token": "da",
+        "startTime": 367280,
+        "endTime": 367640
+      },
+      {
+        "token": "tantissimo",
+        "startTime": 367640,
+        "endTime": 368600
+      },
+      {
+        "token": "altro",
+        "startTime": 368600,
+        "endTime": 369320
+      },
+      {
+        "token": "cibo.",
+        "startTime": 369320,
+        "endTime": 370120
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pizzette, fritti, rustici, riso, couscous, pasta fredda.",
+    "translations": {
+      "en": "Mini pizzas, fried bites, savory pastries, rice, couscous, cold pasta."
+    },
+    "segments": [
+      {
+        "token": "Pizzette,",
+        "startTime": 370120,
+        "endTime": 371220
+      },
+      {
+        "token": "fritti,",
+        "startTime": 371220,
+        "endTime": 372560
+      },
+      {
+        "token": "rustici,",
+        "startTime": 372560,
+        "endTime": 373680
+      },
+      {
+        "token": "riso,",
+        "startTime": 373680,
+        "endTime": 374500
+      },
+      {
+        "token": "couscous,",
+        "startTime": 374500,
+        "endTime": 375500
+      },
+      {
+        "token": "pasta",
+        "startTime": 375500,
+        "endTime": 375760
+      },
+      {
+        "token": "fredda.",
+        "startTime": 375760,
+        "endTime": 376540
+      }
+    ]
+  },
+  {
+    "sentence_text": "A volte trovi proprio un buffet,",
+    "translations": {
+      "en": "Sometimes you'll find a full buffet,"
+    },
+    "segments": [
+      {
+        "token": "A",
+        "startTime": 376540,
+        "endTime": 376680
+      },
+      {
+        "token": "volte",
+        "startTime": 376680,
+        "endTime": 377140
+      },
+      {
+        "token": "trovi",
+        "startTime": 377140,
+        "endTime": 377600
+      },
+      {
+        "token": "proprio",
+        "startTime": 377600,
+        "endTime": 378000
+      },
+      {
+        "token": "un",
+        "startTime": 378000,
+        "endTime": 378460
+      },
+      {
+        "token": "buffet,",
+        "startTime": 378460,
+        "endTime": 379540
+      }
+    ]
+  },
+  {
+    "sentence_text": "tu puoi andare e servirti e prendere tutto il cibo che vuoi.",
+    "translations": {
+      "en": "you can go and help yourself and take all the food you want."
+    },
+    "segments": [
+      {
+        "token": "tu",
+        "startTime": 379540,
+        "endTime": 379640
+      },
+      {
+        "token": "puoi",
+        "startTime": 379640,
+        "endTime": 379900
+      },
+      {
+        "token": "andare",
+        "startTime": 379900,
+        "endTime": 380320
+      },
+      {
+        "token": "e",
+        "startTime": 380320,
+        "endTime": 380760
+      },
+      {
+        "token": "servirti",
+        "startTime": 380760,
+        "endTime": 381560
+      },
+      {
+        "token": "e",
+        "startTime": 381560,
+        "endTime": 381660
+      },
+      {
+        "token": "prendere",
+        "startTime": 381660,
+        "endTime": 382140
+      },
+      {
+        "token": "tutto",
+        "startTime": 382140,
+        "endTime": 382540
+      },
+      {
+        "token": "il",
+        "startTime": 382540,
+        "endTime": 382740
+      },
+      {
+        "token": "cibo",
+        "startTime": 382740,
+        "endTime": 383140
+      },
+      {
+        "token": "che",
+        "startTime": 383140,
+        "endTime": 383360
+      },
+      {
+        "token": "vuoi.",
+        "startTime": 383360,
+        "endTime": 383980
+      }
+    ]
+  },
+  {
+    "sentence_text": "A A volte puoi trovare anche cibo più esotico come ad esempio il sushi.",
+    "translations": {
+      "en": "Sometimes you can also find more exotic food like sushi."
+    },
+    "segments": [
+      {
+        "token": "A",
+        "startTime": 383980,
+        "endTime": 384520
+      },
+      {
+        "token": "A",
+        "startTime": 384520,
+        "endTime": 384680
+      },
+      {
+        "token": "volte",
+        "startTime": 384680,
+        "endTime": 384820
+      },
+      {
+        "token": "puoi",
+        "startTime": 384820,
+        "endTime": 385120
+      },
+      {
+        "token": "trovare",
+        "startTime": 385120,
+        "endTime": 385620
+      },
+      {
+        "token": "anche",
+        "startTime": 385620,
+        "endTime": 386020
+      },
+      {
+        "token": "cibo",
+        "startTime": 386020,
+        "endTime": 386620
+      },
+      {
+        "token": "più",
+        "startTime": 386620,
+        "endTime": 386940
+      },
+      {
+        "token": "esotico",
+        "startTime": 386940,
+        "endTime": 387860
+      },
+      {
+        "token": "come",
+        "startTime": 387860,
+        "endTime": 388460
+      },
+      {
+        "token": "ad",
+        "startTime": 388460,
+        "endTime": 388900
+      },
+      {
+        "token": "esempio",
+        "startTime": 388900,
+        "endTime": 389420
+      },
+      {
+        "token": "il",
+        "startTime": 389420,
+        "endTime": 389800
+      },
+      {
+        "token": "sushi.",
+        "startTime": 389800,
+        "endTime": 390640
+      }
+    ]
+  },
+  {
+    "sentence_text": "Da questo è nato un termine più nuovo, più recente, degli ultimi 15 anni,",
+    "translations": {
+      "en": "From this came a newer, more recent term from the last 15 years,"
+    },
+    "segments": [
+      {
+        "token": "Da",
+        "startTime": 390640,
+        "endTime": 390820
+      },
+      {
+        "token": "questo",
+        "startTime": 390820,
+        "endTime": 391420
+      },
+      {
+        "token": "è",
+        "startTime": 391420,
+        "endTime": 391800
+      },
+      {
+        "token": "nato",
+        "startTime": 391800,
+        "endTime": 392260
+      },
+      {
+        "token": "un",
+        "startTime": 392260,
+        "endTime": 392540
+      },
+      {
+        "token": "termine",
+        "startTime": 392540,
+        "endTime": 393120
+      },
+      {
+        "token": "più",
+        "startTime": 393120,
+        "endTime": 393680
+      },
+      {
+        "token": "nuovo,",
+        "startTime": 393680,
+        "endTime": 394800
+      },
+      {
+        "token": "più",
+        "startTime": 394800,
+        "endTime": 394880
+      },
+      {
+        "token": "recente,",
+        "startTime": 394880,
+        "endTime": 395860
+      },
+      {
+        "token": "degli",
+        "startTime": 395860,
+        "endTime": 396320
+      },
+      {
+        "token": "ultimi",
+        "startTime": 396320,
+        "endTime": 396940
+      },
+      {
+        "token": "15",
+        "startTime": 396940,
+        "endTime": 397520
+      },
+      {
+        "token": "anni,",
+        "startTime": 397520,
+        "endTime": 398180
+      }
+    ]
+  },
+  {
+    "sentence_text": "20 anni circa, che è apericena, cioè un mix tra aperitivo e cena,",
+    "translations": {
+      "en": "about 20 years, which is apericena, a mix between aperitif and dinner,"
+    },
+    "segments": [
+      {
+        "token": "20",
+        "startTime": 398180,
+        "endTime": 398540
+      },
+      {
+        "token": "anni",
+        "startTime": 398540,
+        "endTime": 398880
+      },
+      {
+        "token": "circa,",
+        "startTime": 398880,
+        "endTime": 399060
+      },
+      {
+        "token": "che",
+        "startTime": 399060,
+        "endTime": 400160
+      },
+      {
+        "token": "è",
+        "startTime": 400160,
+        "endTime": 400300
+      },
+      {
+        "token": "apericena,",
+        "startTime": 400300,
+        "endTime": 402220
+      },
+      {
+        "token": "cioè",
+        "startTime": 402220,
+        "endTime": 402720
+      },
+      {
+        "token": "un",
+        "startTime": 402720,
+        "endTime": 403280
+      },
+      {
+        "token": "mix",
+        "startTime": 403280,
+        "endTime": 403880
+      },
+      {
+        "token": "tra",
+        "startTime": 403880,
+        "endTime": 404340
+      },
+      {
+        "token": "aperitivo",
+        "startTime": 404340,
+        "endTime": 405360
+      },
+      {
+        "token": "e",
+        "startTime": 405360,
+        "endTime": 405760
+      },
+      {
+        "token": "cena,",
+        "startTime": 405760,
+        "endTime": 406500
+      }
+    ]
+  },
+  {
+    "sentence_text": "perché a volte c'è talmente tanto cibo che puoi tranquillamente cenare.",
+    "translations": {
+      "en": "because sometimes there's so much food you can easily have dinner."
+    },
+    "segments": [
+      {
+        "token": "perché",
+        "startTime": 406500,
+        "endTime": 406900
+      },
+      {
+        "token": "a",
+        "startTime": 406900,
+        "endTime": 407380
+      },
+      {
+        "token": "volte",
+        "startTime": 407380,
+        "endTime": 407960
+      },
+      {
+        "token": "c'è",
+        "startTime": 407960,
+        "endTime": 408840
+      },
+      {
+        "token": "talmente",
+        "startTime": 408840,
+        "endTime": 409780
+      },
+      {
+        "token": "tanto",
+        "startTime": 409780,
+        "endTime": 410100
+      },
+      {
+        "token": "cibo",
+        "startTime": 410100,
+        "endTime": 410980
+      },
+      {
+        "token": "che",
+        "startTime": 410980,
+        "endTime": 411520
+      },
+      {
+        "token": "puoi",
+        "startTime": 411520,
+        "endTime": 411880
+      },
+      {
+        "token": "tranquillamente",
+        "startTime": 411880,
+        "endTime": 412900
+      },
+      {
+        "token": "cenare.",
+        "startTime": 412900,
+        "endTime": 414100
+      }
+    ]
+  },
+  {
+    "sentence_text": "E ti ricordo che questo è incluso nel prezzo dell'aperitivo che può andare dagli",
+    "translations": {
+      "en": "And remember this is included in the aperitif price, which can range from"
+    },
+    "segments": [
+      {
+        "token": "E",
+        "startTime": 414100,
+        "endTime": 414200
+      },
+      {
+        "token": "ti",
+        "startTime": 414200,
+        "endTime": 414440
+      },
+      {
+        "token": "ricordo",
+        "startTime": 414440,
+        "endTime": 415040
+      },
+      {
+        "token": "che",
+        "startTime": 415040,
+        "endTime": 415260
+      },
+      {
+        "token": "questo",
+        "startTime": 415260,
+        "endTime": 415980
+      },
+      {
+        "token": "è",
+        "startTime": 415980,
+        "endTime": 416360
+      },
+      {
+        "token": "incluso",
+        "startTime": 416360,
+        "endTime": 417120
+      },
+      {
+        "token": "nel",
+        "startTime": 417120,
+        "endTime": 417800
+      },
+      {
+        "token": "prezzo",
+        "startTime": 417800,
+        "endTime": 418340
+      },
+      {
+        "token": "dell'aperitivo",
+        "startTime": 418340,
+        "endTime": 419420
+      },
+      {
+        "token": "che",
+        "startTime": 419420,
+        "endTime": 419940
+      },
+      {
+        "token": "può",
+        "startTime": 419940,
+        "endTime": 420240
+      },
+      {
+        "token": "andare",
+        "startTime": 420240,
+        "endTime": 420920
+      },
+      {
+        "token": "dagli",
+        "startTime": 420920,
+        "endTime": 422200
+      }
+    ]
+  },
+  {
+    "sentence_text": "8 euro ai 15 euro circa in base a quello che prendi",
+    "translations": {
+      "en": "8 euros to about 15 euros depending on what you get"
+    },
+    "segments": [
+      {
+        "token": "8",
+        "startTime": 422200,
+        "endTime": 423080
+      },
+      {
+        "token": "euro",
+        "startTime": 423080,
+        "endTime": 423620
+      },
+      {
+        "token": "ai",
+        "startTime": 423620,
+        "endTime": 423920
+      },
+      {
+        "token": "15",
+        "startTime": 423920,
+        "endTime": 424380
+      },
+      {
+        "token": "euro",
+        "startTime": 424380,
+        "endTime": 425060
+      },
+      {
+        "token": "circa",
+        "startTime": 425060,
+        "endTime": 425620
+      },
+      {
+        "token": "in",
+        "startTime": 425620,
+        "endTime": 426080
+      },
+      {
+        "token": "base",
+        "startTime": 426080,
+        "endTime": 426440
+      },
+      {
+        "token": "a",
+        "startTime": 426440,
+        "endTime": 426580
+      },
+      {
+        "token": "quello",
+        "startTime": 426580,
+        "endTime": 426900
+      },
+      {
+        "token": "che",
+        "startTime": 426900,
+        "endTime": 427080
+      },
+      {
+        "token": "prendi",
+        "startTime": 427080,
+        "endTime": 427780
+      }
+    ]
+  },
+  {
+    "sentence_text": "e a dove sei.",
+    "translations": {
+      "en": "and where you are."
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 427780,
+        "endTime": 428140
+      },
+      {
+        "token": "a",
+        "startTime": 428140,
+        "endTime": 428320
+      },
+      {
+        "token": "dove",
+        "startTime": 428320,
+        "endTime": 428540
+      },
+      {
+        "token": "sei.",
+        "startTime": 428540,
+        "endTime": 429600
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ovviamente ci sono posti più economici, posti più costosi.",
+    "translations": {
+      "en": "Of course, there are cheaper places and more expensive ones."
+    },
+    "segments": [
+      {
+        "token": "Ovviamente",
+        "startTime": 429600,
+        "endTime": 429940
+      },
+      {
+        "token": "ci",
+        "startTime": 429940,
+        "endTime": 430400
+      },
+      {
+        "token": "sono",
+        "startTime": 430400,
+        "endTime": 430720
+      },
+      {
+        "token": "posti",
+        "startTime": 430720,
+        "endTime": 431340
+      },
+      {
+        "token": "più",
+        "startTime": 431340,
+        "endTime": 431620
+      },
+      {
+        "token": "economici,",
+        "startTime": 431620,
+        "endTime": 432980
+      },
+      {
+        "token": "posti",
+        "startTime": 432980,
+        "endTime": 433400
+      },
+      {
+        "token": "più",
+        "startTime": 433400,
+        "endTime": 433620
+      },
+      {
+        "token": "costosi.",
+        "startTime": 433620,
+        "endTime": 440300
+      }
+    ]
+  },
+  {
+    "sentence_text": "Che cosa ordinano gli italiani quando fanno l'aperitivo?",
+    "translations": {
+      "en": "What do Italians order when they have an aperitif?"
+    },
+    "segments": [
+      {
+        "token": "Che",
+        "startTime": 440300,
+        "endTime": 440380
+      },
+      {
+        "token": "cosa",
+        "startTime": 440380,
+        "endTime": 440860
+      },
+      {
+        "token": "ordinano",
+        "startTime": 440860,
+        "endTime": 441860
+      },
+      {
+        "token": "gli",
+        "startTime": 441860,
+        "endTime": 442220
+      },
+      {
+        "token": "italiani",
+        "startTime": 442220,
+        "endTime": 442760
+      },
+      {
+        "token": "quando",
+        "startTime": 442760,
+        "endTime": 443280
+      },
+      {
+        "token": "fanno",
+        "startTime": 443280,
+        "endTime": 443780
+      },
+      {
+        "token": "l'aperitivo?",
+        "startTime": 443780,
+        "endTime": 444780
+      }
+    ]
+  },
+  {
+    "sentence_text": "L'aperitivo si può fare con tante cose diverse.",
+    "translations": {
+      "en": "You can have an aperitif with many different things."
+    },
+    "segments": [
+      {
+        "token": "L'aperitivo",
+        "startTime": 444780,
+        "endTime": 445560
+      },
+      {
+        "token": "si",
+        "startTime": 445560,
+        "endTime": 445840
+      },
+      {
+        "token": "può",
+        "startTime": 445840,
+        "endTime": 446060
+      },
+      {
+        "token": "fare",
+        "startTime": 446060,
+        "endTime": 446500
+      },
+      {
+        "token": "con",
+        "startTime": 446500,
+        "endTime": 446840
+      },
+      {
+        "token": "tante",
+        "startTime": 446840,
+        "endTime": 446960
+      },
+      {
+        "token": "cose",
+        "startTime": 446960,
+        "endTime": 447900
+      },
+      {
+        "token": "diverse.",
+        "startTime": 447900,
+        "endTime": 448660
+      }
+    ]
+  },
+  {
+    "sentence_text": "Puoi ordinare una bevanda alcolica o anche una bevanda analcolica, cioè senza alcol.",
+    "translations": {
+      "en": "You can order an alcoholic drink or a non-alcoholic one, meaning without alcohol."
+    },
+    "segments": [
+      {
+        "token": "Puoi",
+        "startTime": 448660,
+        "endTime": 449220
+      },
+      {
+        "token": "ordinare",
+        "startTime": 449220,
+        "endTime": 450080
+      },
+      {
+        "token": "una",
+        "startTime": 450080,
+        "endTime": 450840
+      },
+      {
+        "token": "bevanda",
+        "startTime": 450840,
+        "endTime": 451540
+      },
+      {
+        "token": "alcolica",
+        "startTime": 451540,
+        "endTime": 452680
+      },
+      {
+        "token": "o",
+        "startTime": 452680,
+        "endTime": 453200
+      },
+      {
+        "token": "anche",
+        "startTime": 453200,
+        "endTime": 453540
+      },
+      {
+        "token": "una",
+        "startTime": 453540,
+        "endTime": 453920
+      },
+      {
+        "token": "bevanda",
+        "startTime": 453920,
+        "endTime": 454500
+      },
+      {
+        "token": "analcolica,",
+        "startTime": 454500,
+        "endTime": 456140
+      },
+      {
+        "token": "cioè",
+        "startTime": 456140,
+        "endTime": 456520
+      },
+      {
+        "token": "senza",
+        "startTime": 456520,
+        "endTime": 457460
+      },
+      {
+        "token": "alcol.",
+        "startTime": 457460,
+        "endTime": 458480
+      }
+    ]
+  },
+  {
+    "sentence_text": "C'è chi prende una birra, chi prende un bicchiere di vino,",
+    "translations": {
+      "en": "Some have a beer, some have a glass of wine,"
+    },
+    "segments": [
+      {
+        "token": "C'è",
+        "startTime": 458480,
+        "endTime": 458560
+      },
+      {
+        "token": "chi",
+        "startTime": 458560,
+        "endTime": 458800
+      },
+      {
+        "token": "prende",
+        "startTime": 458800,
+        "endTime": 459420
+      },
+      {
+        "token": "una",
+        "startTime": 459420,
+        "endTime": 459720
+      },
+      {
+        "token": "birra,",
+        "startTime": 459720,
+        "endTime": 460760
+      },
+      {
+        "token": "chi",
+        "startTime": 460760,
+        "endTime": 460920
+      },
+      {
+        "token": "prende",
+        "startTime": 460920,
+        "endTime": 461660
+      },
+      {
+        "token": "un",
+        "startTime": 461660,
+        "endTime": 461820
+      },
+      {
+        "token": "bicchiere",
+        "startTime": 461820,
+        "endTime": 462600
+      },
+      {
+        "token": "di",
+        "startTime": 462600,
+        "endTime": 462940
+      },
+      {
+        "token": "vino,",
+        "startTime": 462940,
+        "endTime": 463620
+      }
+    ]
+  },
+  {
+    "sentence_text": "chi prende un bicchiere di prosecco",
+    "translations": {
+      "en": "some have a glass of prosecco"
+    },
+    "segments": [
+      {
+        "token": "chi",
+        "startTime": 463620,
+        "endTime": 464240
+      },
+      {
+        "token": "prende",
+        "startTime": 464240,
+        "endTime": 464660
+      },
+      {
+        "token": "un",
+        "startTime": 464660,
+        "endTime": 464760
+      },
+      {
+        "token": "bicchiere",
+        "startTime": 464760,
+        "endTime": 465200
+      },
+      {
+        "token": "di",
+        "startTime": 465200,
+        "endTime": 465400
+      },
+      {
+        "token": "prosecco",
+        "startTime": 465400,
+        "endTime": 468680
+      }
+    ]
+  },
+  {
+    "sentence_text": "o chi prende un cocktail o un cocktail analcolico cioè senza alcol.",
+    "translations": {
+      "en": "or a cocktail or a non-alcoholic cocktail, meaning without alcohol."
+    },
+    "segments": [
+      {
+        "token": "o",
+        "startTime": 468680,
+        "endTime": 468840
+      },
+      {
+        "token": "chi",
+        "startTime": 468840,
+        "endTime": 469140
+      },
+      {
+        "token": "prende",
+        "startTime": 469140,
+        "endTime": 469900
+      },
+      {
+        "token": "un",
+        "startTime": 469900,
+        "endTime": 470080
+      },
+      {
+        "token": "cocktail",
+        "startTime": 470080,
+        "endTime": 470600
+      },
+      {
+        "token": "o",
+        "startTime": 470600,
+        "endTime": 471320
+      },
+      {
+        "token": "un",
+        "startTime": 471320,
+        "endTime": 471410
+      },
+      {
+        "token": "cocktail",
+        "startTime": 471410,
+        "endTime": 471830
+      },
+      {
+        "token": "analcolico",
+        "startTime": 471830,
+        "endTime": 473050
+      },
+      {
+        "token": "cioè",
+        "startTime": 473050,
+        "endTime": 473610
+      },
+      {
+        "token": "senza",
+        "startTime": 473610,
+        "endTime": 474210
+      },
+      {
+        "token": "alcol.",
+        "startTime": 474210,
+        "endTime": 475110
+      }
+    ]
+  },
+  {
+    "sentence_text": "C'è anche chi preferisce una bibita come una coca cola, una limonata, un'acqua tonica,",
+    "translations": {
+      "en": "Some also prefer a soft drink like a Coke, a lemonade, or tonic water,"
+    },
+    "segments": [
+      {
+        "token": "C'è",
+        "startTime": 475110,
+        "endTime": 475170
+      },
+      {
+        "token": "anche",
+        "startTime": 475170,
+        "endTime": 475450
+      },
+      {
+        "token": "chi",
+        "startTime": 475450,
+        "endTime": 475730
+      },
+      {
+        "token": "preferisce",
+        "startTime": 475730,
+        "endTime": 476470
+      },
+      {
+        "token": "una",
+        "startTime": 476470,
+        "endTime": 476910
+      },
+      {
+        "token": "bibita",
+        "startTime": 476910,
+        "endTime": 478130
+      },
+      {
+        "token": "come",
+        "startTime": 478130,
+        "endTime": 478570
+      },
+      {
+        "token": "una",
+        "startTime": 478570,
+        "endTime": 479050
+      },
+      {
+        "token": "coca",
+        "startTime": 479050,
+        "endTime": 479350
+      },
+      {
+        "token": "cola,",
+        "startTime": 479350,
+        "endTime": 480030
+      },
+      {
+        "token": "una",
+        "startTime": 480030,
+        "endTime": 480170
+      },
+      {
+        "token": "limonata,",
+        "startTime": 480170,
+        "endTime": 481370
+      },
+      {
+        "token": "un'acqua",
+        "startTime": 481370,
+        "endTime": 481830
+      },
+      {
+        "token": "tonica,",
+        "startTime": 481830,
+        "endTime": 482910
+      }
+    ]
+  },
+  {
+    "sentence_text": "puoi prendere quello che vuoi.",
+    "translations": {
+      "en": "you can have whatever you want."
+    },
+    "segments": [
+      {
+        "token": "puoi",
+        "startTime": 482910,
+        "endTime": 483030
+      },
+      {
+        "token": "prendere",
+        "startTime": 483030,
+        "endTime": 483450
+      },
+      {
+        "token": "quello",
+        "startTime": 483450,
+        "endTime": 483730
+      },
+      {
+        "token": "che",
+        "startTime": 483730,
+        "endTime": 483910
+      },
+      {
+        "token": "vuoi.",
+        "startTime": 483910,
+        "endTime": 484410
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ovviamente il prezzo cambia ma il cibo è sempre incluso.",
+    "translations": {
+      "en": "Obviously the price changes, but food is always included."
+    },
+    "segments": [
+      {
+        "token": "Ovviamente",
+        "startTime": 484410,
+        "endTime": 484630
+      },
+      {
+        "token": "il",
+        "startTime": 484630,
+        "endTime": 485290
+      },
+      {
+        "token": "prezzo",
+        "startTime": 485290,
+        "endTime": 485870
+      },
+      {
+        "token": "cambia",
+        "startTime": 485870,
+        "endTime": 486770
+      },
+      {
+        "token": "ma",
+        "startTime": 486770,
+        "endTime": 487170
+      },
+      {
+        "token": "il",
+        "startTime": 487170,
+        "endTime": 487370
+      },
+      {
+        "token": "cibo",
+        "startTime": 487370,
+        "endTime": 487810
+      },
+      {
+        "token": "è",
+        "startTime": 487810,
+        "endTime": 488110
+      },
+      {
+        "token": "sempre",
+        "startTime": 488110,
+        "endTime": 488490
+      },
+      {
+        "token": "incluso.",
+        "startTime": 488490,
+        "endTime": 489210
+      }
+    ]
+  },
+  {
+    "sentence_text": "Tra i cocktail più popolari sicuramente troviamo",
+    "translations": {
+      "en": "Among the most popular cocktails, we certainly find"
+    },
+    "segments": [
+      {
+        "token": "Tra",
+        "startTime": 489210,
+        "endTime": 489650
+      },
+      {
+        "token": "i",
+        "startTime": 489650,
+        "endTime": 490010
+      },
+      {
+        "token": "cocktail",
+        "startTime": 490010,
+        "endTime": 490470
+      },
+      {
+        "token": "più",
+        "startTime": 490470,
+        "endTime": 490830
+      },
+      {
+        "token": "popolari",
+        "startTime": 490830,
+        "endTime": 491530
+      },
+      {
+        "token": "sicuramente",
+        "startTime": 491530,
+        "endTime": 492210
+      },
+      {
+        "token": "troviamo",
+        "startTime": 492210,
+        "endTime": 493470
+      }
+    ]
+  },
+  {
+    "sentence_text": "il famoso Negroni o anche il Negroni sbagliato e l'ancora più famoso Aperol",
+    "translations": {
+      "en": "the famous Negroni or the Negroni sbagliato, and the even more famous Aperol"
+    },
+    "segments": [
+      {
+        "token": "il",
+        "startTime": 493470,
+        "endTime": 493610
+      },
+      {
+        "token": "famoso",
+        "startTime": 493610,
+        "endTime": 494170
+      },
+      {
+        "token": "Negroni",
+        "startTime": 494170,
+        "endTime": 495170
+      },
+      {
+        "token": "o",
+        "startTime": 495170,
+        "endTime": 495470
+      },
+      {
+        "token": "anche",
+        "startTime": 495470,
+        "endTime": 495930
+      },
+      {
+        "token": "il",
+        "startTime": 495930,
+        "endTime": 496230
+      },
+      {
+        "token": "Negroni",
+        "startTime": 496230,
+        "endTime": 496810
+      },
+      {
+        "token": "sbagliato",
+        "startTime": 496810,
+        "endTime": 497770
+      },
+      {
+        "token": "e",
+        "startTime": 497770,
+        "endTime": 498470
+      },
+      {
+        "token": "l'ancora",
+        "startTime": 498470,
+        "endTime": 499330
+      },
+      {
+        "token": "più",
+        "startTime": 499330,
+        "endTime": 499630
+      },
+      {
+        "token": "famoso",
+        "startTime": 499630,
+        "endTime": 500410
+      },
+      {
+        "token": "Aperol",
+        "startTime": 500410,
+        "endTime": 501550
+      }
+    ]
+  },
+  {
+    "sentence_text": "Spritz o anche il Campari Spritz, molto popolare, un po' meno dolce dell'Aperol Spritz.",
+    "translations": {
+      "en": "Spritz, or also the Campari Spritz, very popular, a bit less sweet than the Aperol Spritz."
+    },
+    "segments": [
+      {
+        "token": "Spritz",
+        "startTime": 501550,
+        "endTime": 502250
+      },
+      {
+        "token": "o",
+        "startTime": 502250,
+        "endTime": 502850
+      },
+      {
+        "token": "anche",
+        "startTime": 502850,
+        "endTime": 503070
+      },
+      {
+        "token": "il",
+        "startTime": 503070,
+        "endTime": 503070
+      },
+      {
+        "token": "Campari",
+        "startTime": 503070,
+        "endTime": 503730
+      },
+      {
+        "token": "Spritz,",
+        "startTime": 503730,
+        "endTime": 504510
+      },
+      {
+        "token": "molto",
+        "startTime": 504510,
+        "endTime": 504990
+      },
+      {
+        "token": "popolare,",
+        "startTime": 504990,
+        "endTime": 506010
+      },
+      {
+        "token": "un",
+        "startTime": 506010,
+        "endTime": 506130
+      },
+      {
+        "token": "po'",
+        "startTime": 506130,
+        "endTime": 506290
+      },
+      {
+        "token": "meno",
+        "startTime": 506290,
+        "endTime": 506770
+      },
+      {
+        "token": "dolce",
+        "startTime": 506770,
+        "endTime": 507370
+      },
+      {
+        "token": "dell'Aperol",
+        "startTime": 507370,
+        "endTime": 508110
+      },
+      {
+        "token": "Spritz.",
+        "startTime": 508110,
+        "endTime": 508790
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ma gli italiani fanno l'aperitivo tutti i giorni?",
+    "translations": {
+      "en": "But do Italians have aperitivo every day?"
+    },
+    "segments": [
+      {
+        "token": "Ma",
+        "startTime": 508790,
+        "endTime": 515230
+      },
+      {
+        "token": "gli",
+        "startTime": 515230,
+        "endTime": 515530
+      },
+      {
+        "token": "italiani",
+        "startTime": 515530,
+        "endTime": 516170
+      },
+      {
+        "token": "fanno",
+        "startTime": 516170,
+        "endTime": 517070
+      },
+      {
+        "token": "l'aperitivo",
+        "startTime": 517070,
+        "endTime": 517890
+      },
+      {
+        "token": "tutti",
+        "startTime": 517890,
+        "endTime": 518650
+      },
+      {
+        "token": "i",
+        "startTime": 518650,
+        "endTime": 518870
+      },
+      {
+        "token": "giorni?",
+        "startTime": 518870,
+        "endTime": 519570
+      }
+    ]
+  },
+  {
+    "sentence_text": "La risposta è semplice no, magari.",
+    "translations": {
+      "en": "The simple answer is no, unfortunately."
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 519570,
+        "endTime": 519870
+      },
+      {
+        "token": "risposta",
+        "startTime": 519870,
+        "endTime": 520570
+      },
+      {
+        "token": "è",
+        "startTime": 520570,
+        "endTime": 520970
+      },
+      {
+        "token": "semplice",
+        "startTime": 520970,
+        "endTime": 521750
+      },
+      {
+        "token": "no,",
+        "startTime": 521750,
+        "endTime": 523710
+      },
+      {
+        "token": "magari.",
+        "startTime": 523710,
+        "endTime": 524730
+      }
+    ]
+  },
+  {
+    "sentence_text": "Non facciamo l'aperitivo tutti i giorni però",
+    "translations": {
+      "en": "We don't have aperitivo every day, but"
+    },
+    "segments": [
+      {
+        "token": "Non",
+        "startTime": 524730,
+        "endTime": 524950
+      },
+      {
+        "token": "facciamo",
+        "startTime": 524950,
+        "endTime": 525690
+      },
+      {
+        "token": "l'aperitivo",
+        "startTime": 525690,
+        "endTime": 526530
+      },
+      {
+        "token": "tutti",
+        "startTime": 526530,
+        "endTime": 527110
+      },
+      {
+        "token": "i",
+        "startTime": 527110,
+        "endTime": 527430
+      },
+      {
+        "token": "giorni",
+        "startTime": 527430,
+        "endTime": 527630
+      },
+      {
+        "token": "però",
+        "startTime": 527630,
+        "endTime": 528650
+      }
+    ]
+  },
+  {
+    "sentence_text": "siccome è una cosa che è abbastanza economica lo facciamo abbastanza spesso.",
+    "translations": {
+      "en": "since it's something quite affordable, we do it quite often."
+    },
+    "segments": [
+      {
+        "token": "siccome",
+        "startTime": 528650,
+        "endTime": 529430
+      },
+      {
+        "token": "è",
+        "startTime": 529430,
+        "endTime": 529910
+      },
+      {
+        "token": "una",
+        "startTime": 529910,
+        "endTime": 530270
+      },
+      {
+        "token": "cosa",
+        "startTime": 530270,
+        "endTime": 530770
+      },
+      {
+        "token": "che",
+        "startTime": 530770,
+        "endTime": 531030
+      },
+      {
+        "token": "è",
+        "startTime": 531030,
+        "endTime": 531390
+      },
+      {
+        "token": "abbastanza",
+        "startTime": 531390,
+        "endTime": 532350
+      },
+      {
+        "token": "economica",
+        "startTime": 532350,
+        "endTime": 533670
+      },
+      {
+        "token": "lo",
+        "startTime": 533670,
+        "endTime": 534550
+      },
+      {
+        "token": "facciamo",
+        "startTime": 534550,
+        "endTime": 535150
+      },
+      {
+        "token": "abbastanza",
+        "startTime": 535150,
+        "endTime": 536170
+      },
+      {
+        "token": "spesso.",
+        "startTime": 536170,
+        "endTime": 537010
+      }
+    ]
+  },
+  {
+    "sentence_text": "Sicuramente il fine settimana quindi il venerdì il sabato e la domenica",
+    "translations": {
+      "en": "Certainly on weekends, so Friday, Saturday, and Sunday,"
+    },
+    "segments": [
+      {
+        "token": "Sicuramente",
+        "startTime": 537010,
+        "endTime": 538070
+      },
+      {
+        "token": "il",
+        "startTime": 538070,
+        "endTime": 538510
+      },
+      {
+        "token": "fine",
+        "startTime": 538510,
+        "endTime": 538890
+      },
+      {
+        "token": "settimana",
+        "startTime": 538890,
+        "endTime": 539870
+      },
+      {
+        "token": "quindi",
+        "startTime": 539870,
+        "endTime": 540410
+      },
+      {
+        "token": "il",
+        "startTime": 540410,
+        "endTime": 540850
+      },
+      {
+        "token": "venerdì",
+        "startTime": 540850,
+        "endTime": 541490
+      },
+      {
+        "token": "il",
+        "startTime": 541490,
+        "endTime": 541790
+      },
+      {
+        "token": "sabato",
+        "startTime": 541790,
+        "endTime": 542350
+      },
+      {
+        "token": "e",
+        "startTime": 542350,
+        "endTime": 542490
+      },
+      {
+        "token": "la",
+        "startTime": 542490,
+        "endTime": 542590
+      },
+      {
+        "token": "domenica",
+        "startTime": 542590,
+        "endTime": 543250
+      }
+    ]
+  },
+  {
+    "sentence_text": "è un'attività molto popolare ma tante persone",
+    "translations": {
+      "en": "it's a very popular activity, but many people"
+    },
+    "segments": [
+      {
+        "token": "è",
+        "startTime": 543250,
+        "endTime": 543770
+      },
+      {
+        "token": "un'attività",
+        "startTime": 543770,
+        "endTime": 544410
+      },
+      {
+        "token": "molto",
+        "startTime": 544410,
+        "endTime": 544890
+      },
+      {
+        "token": "popolare",
+        "startTime": 544890,
+        "endTime": 545570
+      },
+      {
+        "token": "ma",
+        "startTime": 545570,
+        "endTime": 546310
+      },
+      {
+        "token": "tante",
+        "startTime": 546310,
+        "endTime": 546710
+      },
+      {
+        "token": "persone",
+        "startTime": 546710,
+        "endTime": 547690
+      }
+    ]
+  },
+  {
+    "sentence_text": "lo fanno anche durante la settimana durante l'estate poi ovviamente è un'attività ancora",
+    "translations": {
+      "en": "also do it during the week. In summer, of course, it's an even"
+    },
+    "segments": [
+      {
+        "token": "lo",
+        "startTime": 547690,
+        "endTime": 547950
+      },
+      {
+        "token": "fanno",
+        "startTime": 547950,
+        "endTime": 548290
+      },
+      {
+        "token": "anche",
+        "startTime": 548290,
+        "endTime": 548950
+      },
+      {
+        "token": "durante",
+        "startTime": 548950,
+        "endTime": 549770
+      },
+      {
+        "token": "la",
+        "startTime": 549770,
+        "endTime": 550050
+      },
+      {
+        "token": "settimana",
+        "startTime": 550050,
+        "endTime": 550830
+      },
+      {
+        "token": "durante",
+        "startTime": 550830,
+        "endTime": 551630
+      },
+      {
+        "token": "l'estate",
+        "startTime": 551630,
+        "endTime": 552330
+      },
+      {
+        "token": "poi",
+        "startTime": 552330,
+        "endTime": 552670
+      },
+      {
+        "token": "ovviamente",
+        "startTime": 552670,
+        "endTime": 553210
+      },
+      {
+        "token": "è",
+        "startTime": 553210,
+        "endTime": 553890
+      },
+      {
+        "token": "un'attività",
+        "startTime": 553890,
+        "endTime": 554130
+      },
+      {
+        "token": "ancora",
+        "startTime": 554130,
+        "endTime": 555330
+      }
+    ]
+  },
+  {
+    "sentence_text": "più frequente perché puoi stare fuori",
+    "translations": {
+      "en": "more frequent activity because you can stay outside"
+    },
+    "segments": [
+      {
+        "token": "più",
+        "startTime": 555330,
+        "endTime": 555670
+      },
+      {
+        "token": "frequente",
+        "startTime": 555670,
+        "endTime": 556570
+      },
+      {
+        "token": "perché",
+        "startTime": 556570,
+        "endTime": 557270
+      },
+      {
+        "token": "puoi",
+        "startTime": 557270,
+        "endTime": 557890
+      },
+      {
+        "token": "stare",
+        "startTime": 557890,
+        "endTime": 558410
+      },
+      {
+        "token": "fuori",
+        "startTime": 558410,
+        "endTime": 559550
+      }
+    ]
+  },
+  {
+    "sentence_text": "all'aperto magari con un po d'aria non in questo momento",
+    "translations": {
+      "en": "in the open air, maybe with a bit of breeze—not right now,"
+    },
+    "segments": [
+      {
+        "token": "all'aperto",
+        "startTime": 559550,
+        "endTime": 560550
+      },
+      {
+        "token": "magari",
+        "startTime": 560550,
+        "endTime": 561270
+      },
+      {
+        "token": "con",
+        "startTime": 561270,
+        "endTime": 561570
+      },
+      {
+        "token": "un",
+        "startTime": 561570,
+        "endTime": 561690
+      },
+      {
+        "token": "po",
+        "startTime": 561690,
+        "endTime": 561790
+      },
+      {
+        "token": "d'aria",
+        "startTime": 561790,
+        "endTime": 562310
+      },
+      {
+        "token": "non",
+        "startTime": 562310,
+        "endTime": 563190
+      },
+      {
+        "token": "in",
+        "startTime": 563190,
+        "endTime": 563370
+      },
+      {
+        "token": "questo",
+        "startTime": 563370,
+        "endTime": 563770
+      },
+      {
+        "token": "momento",
+        "startTime": 563770,
+        "endTime": 564310
+      }
+    ]
+  },
+  {
+    "sentence_text": "perché c'è una bella ondata di caldo ma in generale",
+    "translations": {
+      "en": "because there's a big heatwave, but in general"
+    },
+    "segments": [
+      {
+        "token": "perché",
+        "startTime": 564310,
+        "endTime": 564710
+      },
+      {
+        "token": "c'è",
+        "startTime": 564710,
+        "endTime": 565130
+      },
+      {
+        "token": "una",
+        "startTime": 565130,
+        "endTime": 565330
+      },
+      {
+        "token": "bella",
+        "startTime": 565330,
+        "endTime": 565710
+      },
+      {
+        "token": "ondata",
+        "startTime": 565710,
+        "endTime": 566150
+      },
+      {
+        "token": "di",
+        "startTime": 566150,
+        "endTime": 566350
+      },
+      {
+        "token": "caldo",
+        "startTime": 566350,
+        "endTime": 566910
+      },
+      {
+        "token": "ma",
+        "startTime": 566910,
+        "endTime": 567290
+      },
+      {
+        "token": "in",
+        "startTime": 567290,
+        "endTime": 567530
+      },
+      {
+        "token": "generale",
+        "startTime": 567530,
+        "endTime": 568210
+      }
+    ]
+  },
+  {
+    "sentence_text": "puoi stare fuori con una bella atmosfera, gli amici e la famiglia.",
+    "translations": {
+      "en": "you can stay outside with a nice atmosphere, friends, and family."
+    },
+    "segments": [
+      {
+        "token": "puoi",
+        "startTime": 568210,
+        "endTime": 568770
+      },
+      {
+        "token": "stare",
+        "startTime": 568770,
+        "endTime": 569030
+      },
+      {
+        "token": "fuori",
+        "startTime": 569030,
+        "endTime": 569570
+      },
+      {
+        "token": "con",
+        "startTime": 569570,
+        "endTime": 569770
+      },
+      {
+        "token": "una",
+        "startTime": 569770,
+        "endTime": 570010
+      },
+      {
+        "token": "bella",
+        "startTime": 570010,
+        "endTime": 570010
+      },
+      {
+        "token": "atmosfera,",
+        "startTime": 570010,
+        "endTime": 571630
+      },
+      {
+        "token": "gli",
+        "startTime": 571630,
+        "endTime": 571650
+      },
+      {
+        "token": "amici",
+        "startTime": 571650,
+        "endTime": 572190
+      },
+      {
+        "token": "e",
+        "startTime": 572190,
+        "endTime": 572490
+      },
+      {
+        "token": "la",
+        "startTime": 572490,
+        "endTime": 572610
+      },
+      {
+        "token": "famiglia.",
+        "startTime": 572610,
+        "endTime": 573170
+      }
+    ]
+  },
+  {
+    "sentence_text": "C'è chi lo fa molto spesso e chi lo fa più raramente, dipende dalle persone,",
+    "translations": {
+      "en": "Some do it very often, others more rarely; it depends on the person,"
+    },
+    "segments": [
+      {
+        "token": "C'è",
+        "startTime": 573170,
+        "endTime": 573730
+      },
+      {
+        "token": "chi",
+        "startTime": 573730,
+        "endTime": 574070
+      },
+      {
+        "token": "lo",
+        "startTime": 574070,
+        "endTime": 574270
+      },
+      {
+        "token": "fa",
+        "startTime": 574270,
+        "endTime": 574490
+      },
+      {
+        "token": "molto",
+        "startTime": 574490,
+        "endTime": 575090
+      },
+      {
+        "token": "spesso",
+        "startTime": 575090,
+        "endTime": 575810
+      },
+      {
+        "token": "e",
+        "startTime": 575810,
+        "endTime": 576370
+      },
+      {
+        "token": "chi",
+        "startTime": 576370,
+        "endTime": 576570
+      },
+      {
+        "token": "lo",
+        "startTime": 576570,
+        "endTime": 576790
+      },
+      {
+        "token": "fa",
+        "startTime": 576790,
+        "endTime": 576990
+      },
+      {
+        "token": "più",
+        "startTime": 576990,
+        "endTime": 577190
+      },
+      {
+        "token": "raramente,",
+        "startTime": 577190,
+        "endTime": 578470
+      },
+      {
+        "token": "dipende",
+        "startTime": 578470,
+        "endTime": 578830
+      },
+      {
+        "token": "dalle",
+        "startTime": 578830,
+        "endTime": 579090
+      },
+      {
+        "token": "persone,",
+        "startTime": 579090,
+        "endTime": 580250
+      }
+    ]
+  },
+  {
+    "sentence_text": "però no purtroppo non è una cosa che facciamo tutti i giorni.",
+    "translations": {
+      "en": "but unfortunately, no, it's not something we do every day."
+    },
+    "segments": [
+      {
+        "token": "però",
+        "startTime": 580250,
+        "endTime": 580350
+      },
+      {
+        "token": "no",
+        "startTime": 580350,
+        "endTime": 580750
+      },
+      {
+        "token": "purtroppo",
+        "startTime": 580750,
+        "endTime": 581510
+      },
+      {
+        "token": "non",
+        "startTime": 581510,
+        "endTime": 581970
+      },
+      {
+        "token": "è",
+        "startTime": 581970,
+        "endTime": 582130
+      },
+      {
+        "token": "una",
+        "startTime": 582130,
+        "endTime": 582290
+      },
+      {
+        "token": "cosa",
+        "startTime": 582290,
+        "endTime": 582670
+      },
+      {
+        "token": "che",
+        "startTime": 582670,
+        "endTime": 582850
+      },
+      {
+        "token": "facciamo",
+        "startTime": 582850,
+        "endTime": 583470
+      },
+      {
+        "token": "tutti",
+        "startTime": 583470,
+        "endTime": 583930
+      },
+      {
+        "token": "i",
+        "startTime": 583930,
+        "endTime": 584110
+      },
+      {
+        "token": "giorni.",
+        "startTime": 584110,
+        "endTime": 584610
+      }
+    ]
+  },
+  {
+    "sentence_text": "E quindi ora ti chiedo, hai mai provato l'aperitivo italiano?",
+    "translations": {
+      "en": "So now I ask you: have you ever tried the Italian aperitivo?"
+    },
+    "segments": [
+      {
+        "token": "E",
+        "startTime": 584610,
+        "endTime": 584970
+      },
+      {
+        "token": "quindi",
+        "startTime": 584970,
+        "endTime": 585270
+      },
+      {
+        "token": "ora",
+        "startTime": 585270,
+        "endTime": 585690
+      },
+      {
+        "token": "ti",
+        "startTime": 585690,
+        "endTime": 585870
+      },
+      {
+        "token": "chiedo,",
+        "startTime": 585870,
+        "endTime": 586830
+      },
+      {
+        "token": "hai",
+        "startTime": 586830,
+        "endTime": 586930
+      },
+      {
+        "token": "mai",
+        "startTime": 586930,
+        "endTime": 587110
+      },
+      {
+        "token": "provato",
+        "startTime": 587110,
+        "endTime": 587970
+      },
+      {
+        "token": "l'aperitivo",
+        "startTime": 587970,
+        "endTime": 588890
+      },
+      {
+        "token": "italiano?",
+        "startTime": 588890,
+        "endTime": 590090
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hai mai provato un Aperol Spritz?",
+    "translations": {
+      "en": "Have you ever tried an Aperol Spritz?"
+    },
+    "segments": [
+      {
+        "token": "Hai",
+        "startTime": 590090,
+        "endTime": 590550
+      },
+      {
+        "token": "mai",
+        "startTime": 590550,
+        "endTime": 590830
+      },
+      {
+        "token": "provato",
+        "startTime": 590830,
+        "endTime": 591970
+      },
+      {
+        "token": "un",
+        "startTime": 591970,
+        "endTime": 592410
+      },
+      {
+        "token": "Aperol",
+        "startTime": 592410,
+        "endTime": 592850
+      },
+      {
+        "token": "Spritz?",
+        "startTime": 592850,
+        "endTime": 593730
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ti è piaciuto?",
+    "translations": {
+      "en": "Did you like it?"
+    },
+    "segments": [
+      {
+        "token": "Ti",
+        "startTime": 593730,
+        "endTime": 594110
+      },
+      {
+        "token": "è",
+        "startTime": 594110,
+        "endTime": 594210
+      },
+      {
+        "token": "piaciuto?",
+        "startTime": 594210,
+        "endTime": 595410
+      }
+    ]
+  },
+  {
+    "sentence_text": "Lo hai trovato un po' amaro?",
+    "translations": {
+      "en": "Did you find it a bit bitter?"
+    },
+    "segments": [
+      {
+        "token": "Lo",
+        "startTime": 595410,
+        "endTime": 595570
+      },
+      {
+        "token": "hai",
+        "startTime": 595570,
+        "endTime": 595670
+      },
+      {
+        "token": "trovato",
+        "startTime": 595670,
+        "endTime": 596070
+      },
+      {
+        "token": "un",
+        "startTime": 596070,
+        "endTime": 596250
+      },
+      {
+        "token": "po'",
+        "startTime": 596250,
+        "endTime": 596370
+      },
+      {
+        "token": "amaro?",
+        "startTime": 596370,
+        "endTime": 597070
+      }
+    ]
+  },
+  {
+    "sentence_text": "Qual è il tuo cocktail preferito?",
+    "translations": {
+      "en": "What's your favorite cocktail?"
+    },
+    "segments": [
+      {
+        "token": "Qual",
+        "startTime": 597070,
+        "endTime": 597350
+      },
+      {
+        "token": "è",
+        "startTime": 597350,
+        "endTime": 597490
+      },
+      {
+        "token": "il",
+        "startTime": 597490,
+        "endTime": 597710
+      },
+      {
+        "token": "tuo",
+        "startTime": 597710,
+        "endTime": 597850
+      },
+      {
+        "token": "cocktail",
+        "startTime": 597850,
+        "endTime": 598270
+      },
+      {
+        "token": "preferito?",
+        "startTime": 598270,
+        "endTime": 599210
+      }
+    ]
+  },
+  {
+    "sentence_text": "Se tu andassi a fare un aperitivo italiano, cosa ordineresti?",
+    "translations": {
+      "en": "If you went for an Italian aperitivo, what would you order?"
+    },
+    "segments": [
+      {
+        "token": "Se",
+        "startTime": 599210,
+        "endTime": 599670
+      },
+      {
+        "token": "tu",
+        "startTime": 599670,
+        "endTime": 599870
+      },
+      {
+        "token": "andassi",
+        "startTime": 599870,
+        "endTime": 600490
+      },
+      {
+        "token": "a",
+        "startTime": 600490,
+        "endTime": 600610
+      },
+      {
+        "token": "fare",
+        "startTime": 600610,
+        "endTime": 600930
+      },
+      {
+        "token": "un",
+        "startTime": 600930,
+        "endTime": 601150
+      },
+      {
+        "token": "aperitivo",
+        "startTime": 601150,
+        "endTime": 601770
+      },
+      {
+        "token": "italiano,",
+        "startTime": 601770,
+        "endTime": 602550
+      },
+      {
+        "token": "cosa",
+        "startTime": 602550,
+        "endTime": 603270
+      },
+      {
+        "token": "ordineresti?",
+        "startTime": 603270,
+        "endTime": 604910
+      }
+    ]
+  },
+  {
+    "sentence_text": "E c'è qualcosa di simile nel tuo paese?",
+    "translations": {
+      "en": "And is there something similar in your country?"
+    },
+    "segments": [
+      {
+        "token": "E",
+        "startTime": 604910,
+        "endTime": 605650
+      },
+      {
+        "token": "c'è",
+        "startTime": 605650,
+        "endTime": 605790
+      },
+      {
+        "token": "qualcosa",
+        "startTime": 605790,
+        "endTime": 606230
+      },
+      {
+        "token": "di",
+        "startTime": 606230,
+        "endTime": 606610
+      },
+      {
+        "token": "simile",
+        "startTime": 606610,
+        "endTime": 607090
+      },
+      {
+        "token": "nel",
+        "startTime": 607090,
+        "endTime": 607350
+      },
+      {
+        "token": "tuo",
+        "startTime": 607350,
+        "endTime": 607570
+      },
+      {
+        "token": "paese?",
+        "startTime": 607570,
+        "endTime": 608350
+      }
+    ]
+  },
+  {
+    "sentence_text": "Fammi sapere nei commenti Se questo video ti è stato utile e ti è piaciuto,",
+    "translations": {
+      "en": "Let me know in the comments if this video was helpful and you liked it,"
+    },
+    "segments": [
+      {
+        "token": "Fammi",
+        "startTime": 608350,
+        "endTime": 608710
+      },
+      {
+        "token": "sapere",
+        "startTime": 608710,
+        "endTime": 609150
+      },
+      {
+        "token": "nei",
+        "startTime": 609150,
+        "endTime": 609430
+      },
+      {
+        "token": "commenti",
+        "startTime": 609430,
+        "endTime": 610450
+      },
+      {
+        "token": "Se",
+        "startTime": 610450,
+        "endTime": 610610
+      },
+      {
+        "token": "questo",
+        "startTime": 610610,
+        "endTime": 611130
+      },
+      {
+        "token": "video",
+        "startTime": 611130,
+        "endTime": 611550
+      },
+      {
+        "token": "ti",
+        "startTime": 611550,
+        "endTime": 611970
+      },
+      {
+        "token": "è",
+        "startTime": 611970,
+        "endTime": 612090
+      },
+      {
+        "token": "stato",
+        "startTime": 612090,
+        "endTime": 612610
+      },
+      {
+        "token": "utile",
+        "startTime": 612610,
+        "endTime": 613310
+      },
+      {
+        "token": "e",
+        "startTime": 613310,
+        "endTime": 613630
+      },
+      {
+        "token": "ti",
+        "startTime": 613630,
+        "endTime": 613770
+      },
+      {
+        "token": "è",
+        "startTime": 613770,
+        "endTime": 613830
+      },
+      {
+        "token": "piaciuto,",
+        "startTime": 613830,
+        "endTime": 615190
+      }
+    ]
+  },
+  {
+    "sentence_text": "considera di iscriverti al nostro canale per non perderti",
+    "translations": {
+      "en": "consider subscribing to our channel so you don't miss"
+    },
+    "segments": [
+      {
+        "token": "considera",
+        "startTime": 615190,
+        "endTime": 616030
+      },
+      {
+        "token": "di",
+        "startTime": 616030,
+        "endTime": 616330
+      },
+      {
+        "token": "iscriverti",
+        "startTime": 616330,
+        "endTime": 617430
+      },
+      {
+        "token": "al",
+        "startTime": 617430,
+        "endTime": 617770
+      },
+      {
+        "token": "nostro",
+        "startTime": 617770,
+        "endTime": 618190
+      },
+      {
+        "token": "canale",
+        "startTime": 618190,
+        "endTime": 618710
+      },
+      {
+        "token": "per",
+        "startTime": 618710,
+        "endTime": 618990
+      },
+      {
+        "token": "non",
+        "startTime": 618990,
+        "endTime": 619210
+      },
+      {
+        "token": "perderti",
+        "startTime": 619210,
+        "endTime": 619990
+      }
+    ]
+  },
+  {
+    "sentence_text": "i nostri prossimi video in Slow E-Challenge.",
+    "translations": {
+      "en": "our next videos in Slow E-Challenge."
+    },
+    "segments": [
+      {
+        "token": "i",
+        "startTime": 619990,
+        "endTime": 620190
+      },
+      {
+        "token": "nostri",
+        "startTime": 620190,
+        "endTime": 620690
+      },
+      {
+        "token": "prossimi",
+        "startTime": 620690,
+        "endTime": 621370
+      },
+      {
+        "token": "video",
+        "startTime": 621370,
+        "endTime": 621970
+      },
+      {
+        "token": "in",
+        "startTime": 621970,
+        "endTime": 622410
+      },
+      {
+        "token": "Slow",
+        "startTime": 622410,
+        "endTime": 622850
+      },
+      {
+        "token": "E-Challenge.",
+        "startTime": 622850,
+        "endTime": 624010
+      }
+    ]
+  },
+  {
+    "sentence_text": "E noi ci vediamo al prossimo.",
+    "translations": {
+      "en": "And we'll see you in the next one."
+    },
+    "segments": [
+      {
+        "token": "E",
+        "startTime": 624010,
+        "endTime": 624150
+      },
+      {
+        "token": "noi",
+        "startTime": 624150,
+        "endTime": 624330
+      },
+      {
+        "token": "ci",
+        "startTime": 624330,
+        "endTime": 624550
+      },
+      {
+        "token": "vediamo",
+        "startTime": 624550,
+        "endTime": 625030
+      },
+      {
+        "token": "al",
+        "startTime": 625030,
+        "endTime": 625330
+      },
+      {
+        "token": "prossimo.",
+        "startTime": 625330,
+        "endTime": 625950
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ciao ciao!",
+    "translations": {
+      "en": "Bye bye!"
+    },
+    "segments": [
+      {
+        "token": "Ciao",
+        "startTime": 625950,
+        "endTime": 626710
+      },
+      {
+        "token": "ciao!",
+        "startTime": 626710,
+        "endTime": 627010
+      }
+    ]
+  }
+]
