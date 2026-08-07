@@ -1,0 +1,6174 @@
+[
+  {
+    "sentence_text": "Buongiorno in un'altra stanza della mia casa!",
+    "translations": {
+      "en": "Good morning from another room in my house!"
+    },
+    "segments": [
+      {
+        "token": "Buongiorno",
+        "startTime": 320,
+        "endTime": 1300
+      },
+      {
+        "token": "in",
+        "startTime": 1300,
+        "endTime": 1620
+      },
+      {
+        "token": "un'altra",
+        "startTime": 1620,
+        "endTime": 2320
+      },
+      {
+        "token": "stanza",
+        "startTime": 2320,
+        "endTime": 3580
+      },
+      {
+        "token": "della",
+        "startTime": 3580,
+        "endTime": 3900
+      },
+      {
+        "token": "mia",
+        "startTime": 3900,
+        "endTime": 4220
+      },
+      {
+        "token": "casa!",
+        "startTime": 4220,
+        "endTime": 5120
+      }
+    ]
+  },
+  {
+    "sentence_text": "Buongiorno, oggi cuciniamo insieme per imparare tanto vocabolario della cucina in italiano.",
+    "translations": {
+      "en": "Good morning, today we cook together to learn lots of kitchen vocabulary in Italian."
+    },
+    "segments": [
+      {
+        "token": "Buongiorno,",
+        "startTime": 5120,
+        "endTime": 6160
+      },
+      {
+        "token": "oggi",
+        "startTime": 6160,
+        "endTime": 6760
+      },
+      {
+        "token": "cuciniamo",
+        "startTime": 6760,
+        "endTime": 7740
+      },
+      {
+        "token": "insieme",
+        "startTime": 7740,
+        "endTime": 8180
+      },
+      {
+        "token": "per",
+        "startTime": 8180,
+        "endTime": 9520
+      },
+      {
+        "token": "imparare",
+        "startTime": 9520,
+        "endTime": 10320
+      },
+      {
+        "token": "tanto",
+        "startTime": 10320,
+        "endTime": 10860
+      },
+      {
+        "token": "vocabolario",
+        "startTime": 10860,
+        "endTime": 12080
+      },
+      {
+        "token": "della",
+        "startTime": 12080,
+        "endTime": 12740
+      },
+      {
+        "token": "cucina",
+        "startTime": 12740,
+        "endTime": 13760
+      },
+      {
+        "token": "in",
+        "startTime": 13760,
+        "endTime": 14240
+      },
+      {
+        "token": "italiano.",
+        "startTime": 14240,
+        "endTime": 16020
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ciao, sono Valeria e sono un'insegnante di italiano per stranieri.",
+    "translations": {
+      "en": "Hi, I'm Valeria and I'm an Italian teacher for foreigners."
+    },
+    "segments": [
+      {
+        "token": "Ciao,",
+        "startTime": 16020,
+        "endTime": 16500
+      },
+      {
+        "token": "sono",
+        "startTime": 16500,
+        "endTime": 16600
+      },
+      {
+        "token": "Valeria",
+        "startTime": 16600,
+        "endTime": 17100
+      },
+      {
+        "token": "e",
+        "startTime": 17100,
+        "endTime": 17400
+      },
+      {
+        "token": "sono",
+        "startTime": 17400,
+        "endTime": 17680
+      },
+      {
+        "token": "un'insegnante",
+        "startTime": 17680,
+        "endTime": 18560
+      },
+      {
+        "token": "di",
+        "startTime": 18560,
+        "endTime": 18740
+      },
+      {
+        "token": "italiano",
+        "startTime": 18740,
+        "endTime": 19120
+      },
+      {
+        "token": "per",
+        "startTime": 19120,
+        "endTime": 19420
+      },
+      {
+        "token": "stranieri.",
+        "startTime": 19420,
+        "endTime": 20400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Se stai studiando questa lingua ricordati",
+    "translations": {
+      "en": "If you're studying this language, remember"
+    },
+    "segments": [
+      {
+        "token": "Se",
+        "startTime": 20400,
+        "endTime": 20540
+      },
+      {
+        "token": "stai",
+        "startTime": 20540,
+        "endTime": 20820
+      },
+      {
+        "token": "studiando",
+        "startTime": 20820,
+        "endTime": 21480
+      },
+      {
+        "token": "questa",
+        "startTime": 21480,
+        "endTime": 21980
+      },
+      {
+        "token": "lingua",
+        "startTime": 21980,
+        "endTime": 22580
+      },
+      {
+        "token": "ricordati",
+        "startTime": 22580,
+        "endTime": 23360
+      }
+    ]
+  },
+  {
+    "sentence_text": "di iscriverti al canale per non perdere i prossimi video.",
+    "translations": {
+      "en": "to subscribe to the channel so you don't miss the next videos."
+    },
+    "segments": [
+      {
+        "token": "di",
+        "startTime": 23360,
+        "endTime": 23520
+      },
+      {
+        "token": "iscriverti",
+        "startTime": 23520,
+        "endTime": 24220
+      },
+      {
+        "token": "al",
+        "startTime": 24220,
+        "endTime": 24500
+      },
+      {
+        "token": "canale",
+        "startTime": 24500,
+        "endTime": 24940
+      },
+      {
+        "token": "per",
+        "startTime": 24940,
+        "endTime": 25160
+      },
+      {
+        "token": "non",
+        "startTime": 25160,
+        "endTime": 25320
+      },
+      {
+        "token": "perdere",
+        "startTime": 25320,
+        "endTime": 25880
+      },
+      {
+        "token": "i",
+        "startTime": 25880,
+        "endTime": 26080
+      },
+      {
+        "token": "prossimi",
+        "startTime": 26080,
+        "endTime": 26620
+      },
+      {
+        "token": "video.",
+        "startTime": 26620,
+        "endTime": 27460
+      }
+    ]
+  },
+  {
+    "sentence_text": "Iniziamo a cucinare!",
+    "translations": {
+      "en": "Let's start cooking!"
+    },
+    "segments": [
+      {
+        "token": "Iniziamo",
+        "startTime": 27460,
+        "endTime": 28160
+      },
+      {
+        "token": "a",
+        "startTime": 28160,
+        "endTime": 28360
+      },
+      {
+        "token": "cucinare!",
+        "startTime": 28360,
+        "endTime": 30000
+      }
+    ]
+  },
+  {
+    "sentence_text": "Allora dovete sapere che io non amo molto cucinare,",
+    "translations": {
+      "en": "So, you should know that I don't really love cooking,"
+    },
+    "segments": [
+      {
+        "token": "Allora",
+        "startTime": 30000,
+        "endTime": 30300
+      },
+      {
+        "token": "dovete",
+        "startTime": 30300,
+        "endTime": 30720
+      },
+      {
+        "token": "sapere",
+        "startTime": 30720,
+        "endTime": 31140
+      },
+      {
+        "token": "che",
+        "startTime": 31140,
+        "endTime": 31340
+      },
+      {
+        "token": "io",
+        "startTime": 31340,
+        "endTime": 31540
+      },
+      {
+        "token": "non",
+        "startTime": 31540,
+        "endTime": 31780
+      },
+      {
+        "token": "amo",
+        "startTime": 31780,
+        "endTime": 32060
+      },
+      {
+        "token": "molto",
+        "startTime": 32060,
+        "endTime": 32420
+      },
+      {
+        "token": "cucinare,",
+        "startTime": 32420,
+        "endTime": 33380
+      }
+    ]
+  },
+  {
+    "sentence_text": "però negli ultimi mesi mi sono messa d'impegno",
+    "translations": {
+      "en": "but in recent months I've put in effort"
+    },
+    "segments": [
+      {
+        "token": "però",
+        "startTime": 33380,
+        "endTime": 33460
+      },
+      {
+        "token": "negli",
+        "startTime": 33460,
+        "endTime": 33860
+      },
+      {
+        "token": "ultimi",
+        "startTime": 33860,
+        "endTime": 34240
+      },
+      {
+        "token": "mesi",
+        "startTime": 34240,
+        "endTime": 34800
+      },
+      {
+        "token": "mi",
+        "startTime": 34800,
+        "endTime": 35060
+      },
+      {
+        "token": "sono",
+        "startTime": 35060,
+        "endTime": 35500
+      },
+      {
+        "token": "messa",
+        "startTime": 35500,
+        "endTime": 36180
+      },
+      {
+        "token": "d'impegno",
+        "startTime": 36180,
+        "endTime": 37240
+      }
+    ]
+  },
+  {
+    "sentence_text": "e ho imparato tantissime ricette perché sto seguendo una dieta particolare",
+    "translations": {
+      "en": "and I've learned tons of recipes because I'm following a special diet"
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 37240,
+        "endTime": 37780
+      },
+      {
+        "token": "ho",
+        "startTime": 37780,
+        "endTime": 37920
+      },
+      {
+        "token": "imparato",
+        "startTime": 37920,
+        "endTime": 38540
+      },
+      {
+        "token": "tantissime",
+        "startTime": 38540,
+        "endTime": 39460
+      },
+      {
+        "token": "ricette",
+        "startTime": 39460,
+        "endTime": 40080
+      },
+      {
+        "token": "perché",
+        "startTime": 40080,
+        "endTime": 40500
+      },
+      {
+        "token": "sto",
+        "startTime": 40500,
+        "endTime": 40800
+      },
+      {
+        "token": "seguendo",
+        "startTime": 40800,
+        "endTime": 41500
+      },
+      {
+        "token": "una",
+        "startTime": 41500,
+        "endTime": 41840
+      },
+      {
+        "token": "dieta",
+        "startTime": 41840,
+        "endTime": 42100
+      },
+      {
+        "token": "particolare",
+        "startTime": 42100,
+        "endTime": 42940
+      }
+    ]
+  },
+  {
+    "sentence_text": "e quindi ho iniziato a cucinare,",
+    "translations": {
+      "en": "and so I started cooking,"
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 42940,
+        "endTime": 43500
+      },
+      {
+        "token": "quindi",
+        "startTime": 43500,
+        "endTime": 43720
+      },
+      {
+        "token": "ho",
+        "startTime": 43720,
+        "endTime": 44160
+      },
+      {
+        "token": "iniziato",
+        "startTime": 44160,
+        "endTime": 44880
+      },
+      {
+        "token": "a",
+        "startTime": 44880,
+        "endTime": 45000
+      },
+      {
+        "token": "cucinare,",
+        "startTime": 45000,
+        "endTime": 45940
+      }
+    ]
+  },
+  {
+    "sentence_text": "a sperimentare in cucina e un pochino devo ammettere che mi sono appassionata.",
+    "translations": {
+      "en": "experimenting in the kitchen, and I have to admit I've gotten a bit passionate about it."
+    },
+    "segments": [
+      {
+        "token": "a",
+        "startTime": 45940,
+        "endTime": 46000
+      },
+      {
+        "token": "sperimentare",
+        "startTime": 46000,
+        "endTime": 46940
+      },
+      {
+        "token": "in",
+        "startTime": 46940,
+        "endTime": 47120
+      },
+      {
+        "token": "cucina",
+        "startTime": 47120,
+        "endTime": 47660
+      },
+      {
+        "token": "e",
+        "startTime": 47660,
+        "endTime": 48100
+      },
+      {
+        "token": "un",
+        "startTime": 48100,
+        "endTime": 48280
+      },
+      {
+        "token": "pochino",
+        "startTime": 48280,
+        "endTime": 48820
+      },
+      {
+        "token": "devo",
+        "startTime": 48820,
+        "endTime": 49120
+      },
+      {
+        "token": "ammettere",
+        "startTime": 49120,
+        "endTime": 49820
+      },
+      {
+        "token": "che",
+        "startTime": 49820,
+        "endTime": 50020
+      },
+      {
+        "token": "mi",
+        "startTime": 50020,
+        "endTime": 50360
+      },
+      {
+        "token": "sono",
+        "startTime": 50360,
+        "endTime": 50800
+      },
+      {
+        "token": "appassionata.",
+        "startTime": 50800,
+        "endTime": 52480
+      }
+    ]
+  },
+  {
+    "sentence_text": "Oggi facciamo insieme un piatto che mangerò a pranzo, quindi circa tra un'oretta,",
+    "translations": {
+      "en": "Today we're making together a dish I'll eat for lunch, so in about an hour,"
+    },
+    "segments": [
+      {
+        "token": "Oggi",
+        "startTime": 52480,
+        "endTime": 52760
+      },
+      {
+        "token": "facciamo",
+        "startTime": 52760,
+        "endTime": 53380
+      },
+      {
+        "token": "insieme",
+        "startTime": 53380,
+        "endTime": 54100
+      },
+      {
+        "token": "un",
+        "startTime": 54100,
+        "endTime": 54500
+      },
+      {
+        "token": "piatto",
+        "startTime": 54500,
+        "endTime": 55120
+      },
+      {
+        "token": "che",
+        "startTime": 55120,
+        "endTime": 55440
+      },
+      {
+        "token": "mangerò",
+        "startTime": 55440,
+        "endTime": 56080
+      },
+      {
+        "token": "a",
+        "startTime": 56080,
+        "endTime": 56340
+      },
+      {
+        "token": "pranzo,",
+        "startTime": 56340,
+        "endTime": 57200
+      },
+      {
+        "token": "quindi",
+        "startTime": 57200,
+        "endTime": 57400
+      },
+      {
+        "token": "circa",
+        "startTime": 57400,
+        "endTime": 57980
+      },
+      {
+        "token": "tra",
+        "startTime": 57980,
+        "endTime": 58280
+      },
+      {
+        "token": "un'oretta,",
+        "startTime": 58280,
+        "endTime": 59540
+      }
+    ]
+  },
+  {
+    "sentence_text": "e restate con me fino alla fine perché faremo un esercizio insieme di vocabolario.",
+    "translations": {
+      "en": "and stick with me until the end because we'll do a vocabulary exercise together."
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 59540,
+        "endTime": 59720
+      },
+      {
+        "token": "restate",
+        "startTime": 59720,
+        "endTime": 60360
+      },
+      {
+        "token": "con",
+        "startTime": 60360,
+        "endTime": 60660
+      },
+      {
+        "token": "me",
+        "startTime": 60660,
+        "endTime": 60800
+      },
+      {
+        "token": "fino",
+        "startTime": 60800,
+        "endTime": 61260
+      },
+      {
+        "token": "alla",
+        "startTime": 61260,
+        "endTime": 61500
+      },
+      {
+        "token": "fine",
+        "startTime": 61500,
+        "endTime": 61920
+      },
+      {
+        "token": "perché",
+        "startTime": 61920,
+        "endTime": 62400
+      },
+      {
+        "token": "faremo",
+        "startTime": 62400,
+        "endTime": 63020
+      },
+      {
+        "token": "un",
+        "startTime": 63020,
+        "endTime": 63380
+      },
+      {
+        "token": "esercizio",
+        "startTime": 63380,
+        "endTime": 64360
+      },
+      {
+        "token": "insieme",
+        "startTime": 64360,
+        "endTime": 65200
+      },
+      {
+        "token": "di",
+        "startTime": 65200,
+        "endTime": 65820
+      },
+      {
+        "token": "vocabolario.",
+        "startTime": 65820,
+        "endTime": 67100
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quindi vedremo se mi avrete ascoltato attentamente e riconoscerete",
+    "translations": {
+      "en": "So we'll see if you've listened to me carefully and will recognize"
+    },
+    "segments": [
+      {
+        "token": "Quindi",
+        "startTime": 67100,
+        "endTime": 67440
+      },
+      {
+        "token": "vedremo",
+        "startTime": 67440,
+        "endTime": 68520
+      },
+      {
+        "token": "se",
+        "startTime": 68520,
+        "endTime": 68860
+      },
+      {
+        "token": "mi",
+        "startTime": 68860,
+        "endTime": 69000
+      },
+      {
+        "token": "avrete",
+        "startTime": 69000,
+        "endTime": 69420
+      },
+      {
+        "token": "ascoltato",
+        "startTime": 69420,
+        "endTime": 70300
+      },
+      {
+        "token": "attentamente",
+        "startTime": 70300,
+        "endTime": 71380
+      },
+      {
+        "token": "e",
+        "startTime": 71380,
+        "endTime": 71940
+      },
+      {
+        "token": "riconoscerete",
+        "startTime": 71940,
+        "endTime": 73560
+      }
+    ]
+  },
+  {
+    "sentence_text": "tutti i verbi che sono presenti nell'esercizio.",
+    "translations": {
+      "en": "all the verbs present in the exercise."
+    },
+    "segments": [
+      {
+        "token": "tutti",
+        "startTime": 73560,
+        "endTime": 74180
+      },
+      {
+        "token": "i",
+        "startTime": 74180,
+        "endTime": 74560
+      },
+      {
+        "token": "verbi",
+        "startTime": 74560,
+        "endTime": 75180
+      },
+      {
+        "token": "che",
+        "startTime": 75180,
+        "endTime": 75440
+      },
+      {
+        "token": "sono",
+        "startTime": 75440,
+        "endTime": 75760
+      },
+      {
+        "token": "presenti",
+        "startTime": 75760,
+        "endTime": 76620
+      },
+      {
+        "token": "nell'esercizio.",
+        "startTime": 76620,
+        "endTime": 78500
+      }
+    ]
+  },
+  {
+    "sentence_text": "Oggi voglio preparare un piatto di fusilli alle zucchine.",
+    "translations": {
+      "en": "Today I want to prepare a dish of fusilli with zucchini."
+    },
+    "segments": [
+      {
+        "token": "Oggi",
+        "startTime": 78500,
+        "endTime": 78780
+      },
+      {
+        "token": "voglio",
+        "startTime": 78780,
+        "endTime": 79120
+      },
+      {
+        "token": "preparare",
+        "startTime": 79120,
+        "endTime": 79740
+      },
+      {
+        "token": "un",
+        "startTime": 79740,
+        "endTime": 80060
+      },
+      {
+        "token": "piatto",
+        "startTime": 80060,
+        "endTime": 80540
+      },
+      {
+        "token": "di",
+        "startTime": 80540,
+        "endTime": 80960
+      },
+      {
+        "token": "fusilli",
+        "startTime": 80960,
+        "endTime": 82280
+      },
+      {
+        "token": "alle",
+        "startTime": 82280,
+        "endTime": 82920
+      },
+      {
+        "token": "zucchine.",
+        "startTime": 82920,
+        "endTime": 84620
+      }
+    ]
+  },
+  {
+    "sentence_text": "Allora, le zucchine sono di stagione",
+    "translations": {
+      "en": "So, zucchini are in season"
+    },
+    "segments": [
+      {
+        "token": "Allora,",
+        "startTime": 84620,
+        "endTime": 85040
+      },
+      {
+        "token": "le",
+        "startTime": 85040,
+        "endTime": 85260
+      },
+      {
+        "token": "zucchine",
+        "startTime": 85260,
+        "endTime": 85820
+      },
+      {
+        "token": "sono",
+        "startTime": 85820,
+        "endTime": 86460
+      },
+      {
+        "token": "di",
+        "startTime": 86460,
+        "endTime": 86760
+      },
+      {
+        "token": "stagione",
+        "startTime": 86760,
+        "endTime": 87480
+      }
+    ]
+  },
+  {
+    "sentence_text": "in Italia fino ad ottobre e adesso è ancora ottobre.",
+    "translations": {
+      "en": "in Italy until October, and it's still October now."
+    },
+    "segments": [
+      {
+        "token": "in",
+        "startTime": 87480,
+        "endTime": 87760
+      },
+      {
+        "token": "Italia",
+        "startTime": 87760,
+        "endTime": 87960
+      },
+      {
+        "token": "fino",
+        "startTime": 87960,
+        "endTime": 88560
+      },
+      {
+        "token": "ad",
+        "startTime": 88560,
+        "endTime": 88760
+      },
+      {
+        "token": "ottobre",
+        "startTime": 88760,
+        "endTime": 89380
+      },
+      {
+        "token": "e",
+        "startTime": 89380,
+        "endTime": 89600
+      },
+      {
+        "token": "adesso",
+        "startTime": 89600,
+        "endTime": 90060
+      },
+      {
+        "token": "è",
+        "startTime": 90060,
+        "endTime": 90300
+      },
+      {
+        "token": "ancora",
+        "startTime": 90300,
+        "endTime": 90720
+      },
+      {
+        "token": "ottobre.",
+        "startTime": 90720,
+        "endTime": 91820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Voi probabilmente vedrete questo video la prima settimana",
+    "translations": {
+      "en": "You'll probably see this video in the first week"
+    },
+    "segments": [
+      {
+        "token": "Voi",
+        "startTime": 91820,
+        "endTime": 92100
+      },
+      {
+        "token": "probabilmente",
+        "startTime": 92100,
+        "endTime": 93060
+      },
+      {
+        "token": "vedrete",
+        "startTime": 93060,
+        "endTime": 93680
+      },
+      {
+        "token": "questo",
+        "startTime": 93680,
+        "endTime": 94160
+      },
+      {
+        "token": "video",
+        "startTime": 94160,
+        "endTime": 94580
+      },
+      {
+        "token": "la",
+        "startTime": 94580,
+        "endTime": 94960
+      },
+      {
+        "token": "prima",
+        "startTime": 94960,
+        "endTime": 95360
+      },
+      {
+        "token": "settimana",
+        "startTime": 95360,
+        "endTime": 96040
+      }
+    ]
+  },
+  {
+    "sentence_text": "di novembre e non saranno più di stagione,",
+    "translations": {
+      "en": "of November, and they won't be in season anymore,"
+    },
+    "segments": [
+      {
+        "token": "di",
+        "startTime": 96040,
+        "endTime": 96260
+      },
+      {
+        "token": "novembre",
+        "startTime": 96260,
+        "endTime": 96840
+      },
+      {
+        "token": "e",
+        "startTime": 96840,
+        "endTime": 97480
+      },
+      {
+        "token": "non",
+        "startTime": 97480,
+        "endTime": 97820
+      },
+      {
+        "token": "saranno",
+        "startTime": 97820,
+        "endTime": 98320
+      },
+      {
+        "token": "più",
+        "startTime": 98320,
+        "endTime": 98500
+      },
+      {
+        "token": "di",
+        "startTime": 98500,
+        "endTime": 98720
+      },
+      {
+        "token": "stagione,",
+        "startTime": 98720,
+        "endTime": 99420
+      }
+    ]
+  },
+  {
+    "sentence_text": "quindi molto molto probabilmente questa è l'ultima volta che mangio le zucchine quest'anno",
+    "translations": {
+      "en": "so very very likely this is the last time I eat zucchini this year"
+    },
+    "segments": [
+      {
+        "token": "quindi",
+        "startTime": 99420,
+        "endTime": 99820
+      },
+      {
+        "token": "molto",
+        "startTime": 99820,
+        "endTime": 100580
+      },
+      {
+        "token": "molto",
+        "startTime": 100580,
+        "endTime": 100860
+      },
+      {
+        "token": "probabilmente",
+        "startTime": 100860,
+        "endTime": 101760
+      },
+      {
+        "token": "questa",
+        "startTime": 101760,
+        "endTime": 102220
+      },
+      {
+        "token": "è",
+        "startTime": 102220,
+        "endTime": 102380
+      },
+      {
+        "token": "l'ultima",
+        "startTime": 102380,
+        "endTime": 102900
+      },
+      {
+        "token": "volta",
+        "startTime": 102900,
+        "endTime": 103240
+      },
+      {
+        "token": "che",
+        "startTime": 103240,
+        "endTime": 103500
+      },
+      {
+        "token": "mangio",
+        "startTime": 103500,
+        "endTime": 103920
+      },
+      {
+        "token": "le",
+        "startTime": 103920,
+        "endTime": 104140
+      },
+      {
+        "token": "zucchine",
+        "startTime": 104140,
+        "endTime": 104760
+      },
+      {
+        "token": "quest'anno",
+        "startTime": 104760,
+        "endTime": 106160
+      }
+    ]
+  },
+  {
+    "sentence_text": "perché io cerco di comprare sempre le verdure e la frutta di stagione.",
+    "translations": {
+      "en": "because I always try to buy seasonal vegetables and fruit."
+    },
+    "segments": [
+      {
+        "token": "perché",
+        "startTime": 106160,
+        "endTime": 106400
+      },
+      {
+        "token": "io",
+        "startTime": 106400,
+        "endTime": 106660
+      },
+      {
+        "token": "cerco",
+        "startTime": 106660,
+        "endTime": 107100
+      },
+      {
+        "token": "di",
+        "startTime": 107100,
+        "endTime": 107220
+      },
+      {
+        "token": "comprare",
+        "startTime": 107220,
+        "endTime": 107820
+      },
+      {
+        "token": "sempre",
+        "startTime": 107820,
+        "endTime": 108480
+      },
+      {
+        "token": "le",
+        "startTime": 108480,
+        "endTime": 108820
+      },
+      {
+        "token": "verdure",
+        "startTime": 108820,
+        "endTime": 109640
+      },
+      {
+        "token": "e",
+        "startTime": 109640,
+        "endTime": 109880
+      },
+      {
+        "token": "la",
+        "startTime": 109880,
+        "endTime": 110020
+      },
+      {
+        "token": "frutta",
+        "startTime": 110020,
+        "endTime": 110420
+      },
+      {
+        "token": "di",
+        "startTime": 110420,
+        "endTime": 110800
+      },
+      {
+        "token": "stagione.",
+        "startTime": 110800,
+        "endTime": 125540
+      }
+    ]
+  },
+  {
+    "sentence_text": "Cosa ci servirà oggi per la nostra ricetta?",
+    "translations": {
+      "en": "What will we need today for our recipe?"
+    },
+    "segments": [
+      {
+        "token": "Cosa",
+        "startTime": 125540,
+        "endTime": 125880
+      },
+      {
+        "token": "ci",
+        "startTime": 125880,
+        "endTime": 126100
+      },
+      {
+        "token": "servirà",
+        "startTime": 126100,
+        "endTime": 126700
+      },
+      {
+        "token": "oggi",
+        "startTime": 126700,
+        "endTime": 127240
+      },
+      {
+        "token": "per",
+        "startTime": 127240,
+        "endTime": 127660
+      },
+      {
+        "token": "la",
+        "startTime": 127660,
+        "endTime": 127840
+      },
+      {
+        "token": "nostra",
+        "startTime": 127840,
+        "endTime": 128259
+      },
+      {
+        "token": "ricetta?",
+        "startTime": 128259,
+        "endTime": 129580
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ovviamente la pasta.",
+    "translations": {
+      "en": "Obviously, pasta."
+    },
+    "segments": [
+      {
+        "token": "Ovviamente",
+        "startTime": 129580,
+        "endTime": 129979
+      },
+      {
+        "token": "la",
+        "startTime": 129979,
+        "endTime": 130479
+      },
+      {
+        "token": "pasta.",
+        "startTime": 130479,
+        "endTime": 131440
+      }
+    ]
+  },
+  {
+    "sentence_text": "Io ho scelto dei fusilli, adoro questo formato di pasta, penso che sia molto simpatico,",
+    "translations": {
+      "en": "I chose fusilli, I love this pasta shape, I think it's very fun,"
+    },
+    "segments": [
+      {
+        "token": "Io",
+        "startTime": 131440,
+        "endTime": 131520
+      },
+      {
+        "token": "ho",
+        "startTime": 131520,
+        "endTime": 131880
+      },
+      {
+        "token": "scelto",
+        "startTime": 131880,
+        "endTime": 132460
+      },
+      {
+        "token": "dei",
+        "startTime": 132460,
+        "endTime": 132740
+      },
+      {
+        "token": "fusilli,",
+        "startTime": 132740,
+        "endTime": 134660
+      },
+      {
+        "token": "adoro",
+        "startTime": 134660,
+        "endTime": 135080
+      },
+      {
+        "token": "questo",
+        "startTime": 135080,
+        "endTime": 135520
+      },
+      {
+        "token": "formato",
+        "startTime": 135520,
+        "endTime": 136340
+      },
+      {
+        "token": "di",
+        "startTime": 136340,
+        "endTime": 136560
+      },
+      {
+        "token": "pasta,",
+        "startTime": 136560,
+        "endTime": 137680
+      },
+      {
+        "token": "penso",
+        "startTime": 137680,
+        "endTime": 137940
+      },
+      {
+        "token": "che",
+        "startTime": 137940,
+        "endTime": 138140
+      },
+      {
+        "token": "sia",
+        "startTime": 138140,
+        "endTime": 138480
+      },
+      {
+        "token": "molto",
+        "startTime": 138480,
+        "endTime": 138780
+      },
+      {
+        "token": "simpatico,",
+        "startTime": 138780,
+        "endTime": 140400
+      }
+    ]
+  },
+  {
+    "sentence_text": "hanno una forma molto molto simpatica e mi piacciono molto. ovviamente le zucchine,",
+    "translations": {
+      "en": "they have a very very fun shape and I really like them. Obviously, zucchini,"
+    },
+    "segments": [
+      {
+        "token": "hanno",
+        "startTime": 140400,
+        "endTime": 141040
+      },
+      {
+        "token": "una",
+        "startTime": 141040,
+        "endTime": 141300
+      },
+      {
+        "token": "forma",
+        "startTime": 141300,
+        "endTime": 141700
+      },
+      {
+        "token": "molto",
+        "startTime": 141700,
+        "endTime": 142060
+      },
+      {
+        "token": "molto",
+        "startTime": 142060,
+        "endTime": 142340
+      },
+      {
+        "token": "simpatica",
+        "startTime": 142340,
+        "endTime": 143120
+      },
+      {
+        "token": "e",
+        "startTime": 143120,
+        "endTime": 143380
+      },
+      {
+        "token": "mi",
+        "startTime": 143380,
+        "endTime": 143600
+      },
+      {
+        "token": "piacciono",
+        "startTime": 143600,
+        "endTime": 144080
+      },
+      {
+        "token": "molto.",
+        "startTime": 144080,
+        "endTime": 145520
+      },
+      {
+        "token": "ovviamente",
+        "startTime": 145520,
+        "endTime": 145880
+      },
+      {
+        "token": "le",
+        "startTime": 145880,
+        "endTime": 146360
+      },
+      {
+        "token": "zucchine,",
+        "startTime": 146360,
+        "endTime": 147380
+      }
+    ]
+  },
+  {
+    "sentence_text": "per me ne basterà una il sale e il sale grosso per la pasta",
+    "translations": {
+      "en": "for me one will be enough, salt, and coarse salt for the pasta"
+    },
+    "segments": [
+      {
+        "token": "per",
+        "startTime": 147380,
+        "endTime": 147420
+      },
+      {
+        "token": "me",
+        "startTime": 147420,
+        "endTime": 147640
+      },
+      {
+        "token": "ne",
+        "startTime": 147640,
+        "endTime": 147960
+      },
+      {
+        "token": "basterà",
+        "startTime": 147960,
+        "endTime": 148520
+      },
+      {
+        "token": "una",
+        "startTime": 148520,
+        "endTime": 150200
+      },
+      {
+        "token": "il",
+        "startTime": 150200,
+        "endTime": 150500
+      },
+      {
+        "token": "sale",
+        "startTime": 150500,
+        "endTime": 150800
+      },
+      {
+        "token": "e",
+        "startTime": 150800,
+        "endTime": 151440
+      },
+      {
+        "token": "il",
+        "startTime": 151440,
+        "endTime": 151800
+      },
+      {
+        "token": "sale",
+        "startTime": 151800,
+        "endTime": 152080
+      },
+      {
+        "token": "grosso",
+        "startTime": 152080,
+        "endTime": 152820
+      },
+      {
+        "token": "per",
+        "startTime": 152820,
+        "endTime": 153140
+      },
+      {
+        "token": "la",
+        "startTime": 153140,
+        "endTime": 153340
+      },
+      {
+        "token": "pasta",
+        "startTime": 153340,
+        "endTime": 155180
+      }
+    ]
+  },
+  {
+    "sentence_text": "uno spicchio d'aglio e poi del formaggio,",
+    "translations": {
+      "en": "a clove of garlic and then some cheese,"
+    },
+    "segments": [
+      {
+        "token": "uno",
+        "startTime": 155180,
+        "endTime": 155500
+      },
+      {
+        "token": "spicchio",
+        "startTime": 155500,
+        "endTime": 156180
+      },
+      {
+        "token": "d'aglio",
+        "startTime": 156180,
+        "endTime": 158060
+      },
+      {
+        "token": "e",
+        "startTime": 158060,
+        "endTime": 158220
+      },
+      {
+        "token": "poi",
+        "startTime": 158220,
+        "endTime": 158500
+      },
+      {
+        "token": "del",
+        "startTime": 158500,
+        "endTime": 158900
+      },
+      {
+        "token": "formaggio,",
+        "startTime": 158900,
+        "endTime": 159880
+      }
+    ]
+  },
+  {
+    "sentence_text": "ma lo vediamo dopo iniziamo e tagliamo la zucchina anzi,",
+    "translations": {
+      "en": "but we'll see that later, let's start and cut the zucchini, actually,"
+    },
+    "segments": [
+      {
+        "token": "ma",
+        "startTime": 159880,
+        "endTime": 159940
+      },
+      {
+        "token": "lo",
+        "startTime": 159940,
+        "endTime": 160260
+      },
+      {
+        "token": "vediamo",
+        "startTime": 160260,
+        "endTime": 160780
+      },
+      {
+        "token": "dopo",
+        "startTime": 160780,
+        "endTime": 161320
+      },
+      {
+        "token": "iniziamo",
+        "startTime": 161320,
+        "endTime": 162480
+      },
+      {
+        "token": "e",
+        "startTime": 162480,
+        "endTime": 162740
+      },
+      {
+        "token": "tagliamo",
+        "startTime": 162740,
+        "endTime": 163320
+      },
+      {
+        "token": "la",
+        "startTime": 163320,
+        "endTime": 163760
+      },
+      {
+        "token": "zucchina",
+        "startTime": 163760,
+        "endTime": 165140
+      },
+      {
+        "token": "anzi,",
+        "startTime": 165140,
+        "endTime": 165660
+      }
+    ]
+  },
+  {
+    "sentence_text": "prima di tagliare la zucchina metto",
+    "translations": {
+      "en": "before cutting the zucchini, I put"
+    },
+    "segments": [
+      {
+        "token": "prima",
+        "startTime": 165660,
+        "endTime": 165900
+      },
+      {
+        "token": "di",
+        "startTime": 165900,
+        "endTime": 166080
+      },
+      {
+        "token": "tagliare",
+        "startTime": 166080,
+        "endTime": 166480
+      },
+      {
+        "token": "la",
+        "startTime": 166480,
+        "endTime": 166640
+      },
+      {
+        "token": "zucchina",
+        "startTime": 166640,
+        "endTime": 167360
+      },
+      {
+        "token": "metto",
+        "startTime": 167360,
+        "endTime": 168260
+      }
+    ]
+  },
+  {
+    "sentence_text": "l'acqua sul fuoco così inizia a scaldare e poi a bollire",
+    "translations": {
+      "en": "the water on the stove so it starts heating up and then boiling"
+    },
+    "segments": [
+      {
+        "token": "l'acqua",
+        "startTime": 168260,
+        "endTime": 168940
+      },
+      {
+        "token": "sul",
+        "startTime": 168940,
+        "endTime": 169280
+      },
+      {
+        "token": "fuoco",
+        "startTime": 169280,
+        "endTime": 169860
+      },
+      {
+        "token": "così",
+        "startTime": 169860,
+        "endTime": 170720
+      },
+      {
+        "token": "inizia",
+        "startTime": 170720,
+        "endTime": 171520
+      },
+      {
+        "token": "a",
+        "startTime": 171520,
+        "endTime": 171740
+      },
+      {
+        "token": "scaldare",
+        "startTime": 171740,
+        "endTime": 172560
+      },
+      {
+        "token": "e",
+        "startTime": 172560,
+        "endTime": 172780
+      },
+      {
+        "token": "poi",
+        "startTime": 172780,
+        "endTime": 173020
+      },
+      {
+        "token": "a",
+        "startTime": 173020,
+        "endTime": 173340
+      },
+      {
+        "token": "bollire",
+        "startTime": 173340,
+        "endTime": 186380
+      }
+    ]
+  },
+  {
+    "sentence_text": "riempiamo la pentola con l'acqua sufficiente per una persona",
+    "translations": {
+      "en": "we fill the pot with enough water for one person"
+    },
+    "segments": [
+      {
+        "token": "riempiamo",
+        "startTime": 186380,
+        "endTime": 186960
+      },
+      {
+        "token": "la",
+        "startTime": 186960,
+        "endTime": 187140
+      },
+      {
+        "token": "pentola",
+        "startTime": 187140,
+        "endTime": 187580
+      },
+      {
+        "token": "con",
+        "startTime": 187580,
+        "endTime": 187900
+      },
+      {
+        "token": "l'acqua",
+        "startTime": 187900,
+        "endTime": 188420
+      },
+      {
+        "token": "sufficiente",
+        "startTime": 188420,
+        "endTime": 189300
+      },
+      {
+        "token": "per",
+        "startTime": 189300,
+        "endTime": 189520
+      },
+      {
+        "token": "una",
+        "startTime": 189520,
+        "endTime": 189700
+      },
+      {
+        "token": "persona",
+        "startTime": 189700,
+        "endTime": 196280
+      }
+    ]
+  },
+  {
+    "sentence_text": "abbassiamo un po il fuoco e copriamo con un coperchio",
+    "translations": {
+      "en": "we lower the heat a bit and cover with a lid"
+    },
+    "segments": [
+      {
+        "token": "abbassiamo",
+        "startTime": 196280,
+        "endTime": 197020
+      },
+      {
+        "token": "un",
+        "startTime": 197020,
+        "endTime": 197200
+      },
+      {
+        "token": "po",
+        "startTime": 197200,
+        "endTime": 197340
+      },
+      {
+        "token": "il",
+        "startTime": 197340,
+        "endTime": 197680
+      },
+      {
+        "token": "fuoco",
+        "startTime": 197680,
+        "endTime": 198180
+      },
+      {
+        "token": "e",
+        "startTime": 198180,
+        "endTime": 198440
+      },
+      {
+        "token": "copriamo",
+        "startTime": 198440,
+        "endTime": 199840
+      },
+      {
+        "token": "con",
+        "startTime": 199840,
+        "endTime": 200680
+      },
+      {
+        "token": "un",
+        "startTime": 200680,
+        "endTime": 200800
+      },
+      {
+        "token": "coperchio",
+        "startTime": 200800,
+        "endTime": 210800
+      }
+    ]
+  },
+  {
+    "sentence_text": "ho lavato la mia zucchina e adesso la vado a tagliare a fette abbastanza",
+    "translations": {
+      "en": "I washed my zucchini and now I'm going to cut it into fairly"
+    },
+    "segments": [
+      {
+        "token": "ho",
+        "startTime": 210800,
+        "endTime": 210900
+      },
+      {
+        "token": "lavato",
+        "startTime": 210900,
+        "endTime": 211440
+      },
+      {
+        "token": "la",
+        "startTime": 211440,
+        "endTime": 211600
+      },
+      {
+        "token": "mia",
+        "startTime": 211600,
+        "endTime": 211820
+      },
+      {
+        "token": "zucchina",
+        "startTime": 211820,
+        "endTime": 212540
+      },
+      {
+        "token": "e",
+        "startTime": 212540,
+        "endTime": 212840
+      },
+      {
+        "token": "adesso",
+        "startTime": 212840,
+        "endTime": 213340
+      },
+      {
+        "token": "la",
+        "startTime": 213340,
+        "endTime": 213580
+      },
+      {
+        "token": "vado",
+        "startTime": 213580,
+        "endTime": 213840
+      },
+      {
+        "token": "a",
+        "startTime": 213840,
+        "endTime": 213960
+      },
+      {
+        "token": "tagliare",
+        "startTime": 213960,
+        "endTime": 214760
+      },
+      {
+        "token": "a",
+        "startTime": 214760,
+        "endTime": 215040
+      },
+      {
+        "token": "fette",
+        "startTime": 215040,
+        "endTime": 215740
+      },
+      {
+        "token": "abbastanza",
+        "startTime": 215740,
+        "endTime": 217000
+      }
+    ]
+  },
+  {
+    "sentence_text": "sottili Le zucchine mi piacciono tantissimo, credo che siano sicuramente tra le mie verdure preferite,",
+    "translations": {
+      "en": "thin slices. I love zucchini a lot, I think they're definitely among my favorite vegetables,"
+    },
+    "segments": [
+      {
+        "token": "sottili",
+        "startTime": 217000,
+        "endTime": 231640
+      },
+      {
+        "token": "Le",
+        "startTime": 231640,
+        "endTime": 231760
+      },
+      {
+        "token": "zucchine",
+        "startTime": 231760,
+        "endTime": 232220
+      },
+      {
+        "token": "mi",
+        "startTime": 232220,
+        "endTime": 232380
+      },
+      {
+        "token": "piacciono",
+        "startTime": 232380,
+        "endTime": 232820
+      },
+      {
+        "token": "tantissimo,",
+        "startTime": 232820,
+        "endTime": 234780
+      },
+      {
+        "token": "credo",
+        "startTime": 234780,
+        "endTime": 234960
+      },
+      {
+        "token": "che",
+        "startTime": 234960,
+        "endTime": 235120
+      },
+      {
+        "token": "siano",
+        "startTime": 235120,
+        "endTime": 235560
+      },
+      {
+        "token": "sicuramente",
+        "startTime": 235560,
+        "endTime": 236560
+      },
+      {
+        "token": "tra",
+        "startTime": 236560,
+        "endTime": 236900
+      },
+      {
+        "token": "le",
+        "startTime": 236900,
+        "endTime": 237125
+      },
+      {
+        "token": "mie",
+        "startTime": 237125,
+        "endTime": 237325
+      },
+      {
+        "token": "verdure",
+        "startTime": 237325,
+        "endTime": 238045
+      },
+      {
+        "token": "preferite,",
+        "startTime": 238045,
+        "endTime": 239145
+      }
+    ]
+  },
+  {
+    "sentence_text": "sicuramente.",
+    "translations": {
+      "en": "definitely."
+    },
+    "segments": [
+      {
+        "token": "sicuramente.",
+        "startTime": 239145,
+        "endTime": 251585
+      }
+    ]
+  },
+  {
+    "sentence_text": "Adesso prendiamo una padella, a me piacciono quelle antiaderenti",
+    "translations": {
+      "en": "Now we take a pan, I like non-stick ones"
+    },
+    "segments": [
+      {
+        "token": "Adesso",
+        "startTime": 251585,
+        "endTime": 251885
+      },
+      {
+        "token": "prendiamo",
+        "startTime": 251885,
+        "endTime": 252365
+      },
+      {
+        "token": "una",
+        "startTime": 252365,
+        "endTime": 252705
+      },
+      {
+        "token": "padella,",
+        "startTime": 252705,
+        "endTime": 254145
+      },
+      {
+        "token": "a",
+        "startTime": 254145,
+        "endTime": 254265
+      },
+      {
+        "token": "me",
+        "startTime": 254265,
+        "endTime": 254345
+      },
+      {
+        "token": "piacciono",
+        "startTime": 254345,
+        "endTime": 255045
+      },
+      {
+        "token": "quelle",
+        "startTime": 255045,
+        "endTime": 255865
+      },
+      {
+        "token": "antiaderenti",
+        "startTime": 255865,
+        "endTime": 257385
+      }
+    ]
+  },
+  {
+    "sentence_text": "perché il cibo si attacca di meno e sono molto più facili da pulire.",
+    "translations": {
+      "en": "because food sticks less and they're much easier to clean."
+    },
+    "segments": [
+      {
+        "token": "perché",
+        "startTime": 257385,
+        "endTime": 257945
+      },
+      {
+        "token": "il",
+        "startTime": 257945,
+        "endTime": 259105
+      },
+      {
+        "token": "cibo",
+        "startTime": 259105,
+        "endTime": 259525
+      },
+      {
+        "token": "si",
+        "startTime": 259525,
+        "endTime": 259765
+      },
+      {
+        "token": "attacca",
+        "startTime": 259765,
+        "endTime": 260325
+      },
+      {
+        "token": "di",
+        "startTime": 260325,
+        "endTime": 260485
+      },
+      {
+        "token": "meno",
+        "startTime": 260485,
+        "endTime": 260805
+      },
+      {
+        "token": "e",
+        "startTime": 260805,
+        "endTime": 261105
+      },
+      {
+        "token": "sono",
+        "startTime": 261105,
+        "endTime": 261305
+      },
+      {
+        "token": "molto",
+        "startTime": 261305,
+        "endTime": 261805
+      },
+      {
+        "token": "più",
+        "startTime": 261805,
+        "endTime": 262045
+      },
+      {
+        "token": "facili",
+        "startTime": 262045,
+        "endTime": 262545
+      },
+      {
+        "token": "da",
+        "startTime": 262545,
+        "endTime": 262725
+      },
+      {
+        "token": "pulire.",
+        "startTime": 262725,
+        "endTime": 264065
+      }
+    ]
+  },
+  {
+    "sentence_text": "Versiamo un po' di olio e uno spicchio d'aglio.",
+    "translations": {
+      "en": "We pour in some oil and a clove of garlic."
+    },
+    "segments": [
+      {
+        "token": "Versiamo",
+        "startTime": 264065,
+        "endTime": 264325
+      },
+      {
+        "token": "un",
+        "startTime": 264325,
+        "endTime": 264445
+      },
+      {
+        "token": "po'",
+        "startTime": 264445,
+        "endTime": 264665
+      },
+      {
+        "token": "di",
+        "startTime": 264665,
+        "endTime": 264765
+      },
+      {
+        "token": "olio",
+        "startTime": 264765,
+        "endTime": 265145
+      },
+      {
+        "token": "e",
+        "startTime": 265145,
+        "endTime": 265465
+      },
+      {
+        "token": "uno",
+        "startTime": 265465,
+        "endTime": 265805
+      },
+      {
+        "token": "spicchio",
+        "startTime": 265805,
+        "endTime": 266285
+      },
+      {
+        "token": "d'aglio.",
+        "startTime": 266285,
+        "endTime": 285165
+      }
+    ]
+  },
+  {
+    "sentence_text": "Facciamo scaldare l'olio e mettiamo il nostro aglio.",
+    "translations": {
+      "en": "We heat the oil and put in our garlic."
+    },
+    "segments": [
+      {
+        "token": "Facciamo",
+        "startTime": 285165,
+        "endTime": 285645
+      },
+      {
+        "token": "scaldare",
+        "startTime": 285645,
+        "endTime": 286185
+      },
+      {
+        "token": "l'olio",
+        "startTime": 286185,
+        "endTime": 286685
+      },
+      {
+        "token": "e",
+        "startTime": 286685,
+        "endTime": 286925
+      },
+      {
+        "token": "mettiamo",
+        "startTime": 286925,
+        "endTime": 287565
+      },
+      {
+        "token": "il",
+        "startTime": 287565,
+        "endTime": 287725
+      },
+      {
+        "token": "nostro",
+        "startTime": 287725,
+        "endTime": 288045
+      },
+      {
+        "token": "aglio.",
+        "startTime": 288045,
+        "endTime": 290865
+      }
+    ]
+  },
+  {
+    "sentence_text": "Una delle cose che odio di più in cucina è togliere la buccia,",
+    "translations": {
+      "en": "One of the things I hate most in the kitchen is peeling the skin,"
+    },
+    "segments": [
+      {
+        "token": "Una",
+        "startTime": 290865,
+        "endTime": 291065
+      },
+      {
+        "token": "delle",
+        "startTime": 291065,
+        "endTime": 291285
+      },
+      {
+        "token": "cose",
+        "startTime": 291285,
+        "endTime": 291785
+      },
+      {
+        "token": "che",
+        "startTime": 291785,
+        "endTime": 292005
+      },
+      {
+        "token": "odio",
+        "startTime": 292005,
+        "endTime": 292325
+      },
+      {
+        "token": "di",
+        "startTime": 292325,
+        "endTime": 292525
+      },
+      {
+        "token": "più",
+        "startTime": 292525,
+        "endTime": 292725
+      },
+      {
+        "token": "in",
+        "startTime": 292725,
+        "endTime": 292945
+      },
+      {
+        "token": "cucina",
+        "startTime": 292945,
+        "endTime": 293425
+      },
+      {
+        "token": "è",
+        "startTime": 293425,
+        "endTime": 293665
+      },
+      {
+        "token": "togliere",
+        "startTime": 293665,
+        "endTime": 294465
+      },
+      {
+        "token": "la",
+        "startTime": 294465,
+        "endTime": 294965
+      },
+      {
+        "token": "buccia,",
+        "startTime": 294965,
+        "endTime": 295565
+      }
+    ]
+  },
+  {
+    "sentence_text": "la pelle dell'aglio.",
+    "translations": {
+      "en": "the skin of the garlic."
+    },
+    "segments": [
+      {
+        "token": "la",
+        "startTime": 295565,
+        "endTime": 295985
+      },
+      {
+        "token": "pelle",
+        "startTime": 295985,
+        "endTime": 296605
+      },
+      {
+        "token": "dell'aglio.",
+        "startTime": 296605,
+        "endTime": 300205
+      }
+    ]
+  },
+  {
+    "sentence_text": "Perché non riesco?",
+    "translations": {
+      "en": "Why can't I?"
+    },
+    "segments": [
+      {
+        "token": "Perché",
+        "startTime": 300205,
+        "endTime": 300505
+      },
+      {
+        "token": "non",
+        "startTime": 300505,
+        "endTime": 300705
+      },
+      {
+        "token": "riesco?",
+        "startTime": 300705,
+        "endTime": 301585
+      }
+    ]
+  },
+  {
+    "sentence_text": "Mi rimane sempre attaccato qualche pezzettino.",
+    "translations": {
+      "en": "A little piece always sticks to it."
+    },
+    "segments": [
+      {
+        "token": "Mi",
+        "startTime": 301585,
+        "endTime": 302005
+      },
+      {
+        "token": "rimane",
+        "startTime": 302005,
+        "endTime": 302385
+      },
+      {
+        "token": "sempre",
+        "startTime": 302385,
+        "endTime": 302845
+      },
+      {
+        "token": "attaccato",
+        "startTime": 302845,
+        "endTime": 304025
+      },
+      {
+        "token": "qualche",
+        "startTime": 304025,
+        "endTime": 304525
+      },
+      {
+        "token": "pezzettino.",
+        "startTime": 304525,
+        "endTime": 307585
+      }
+    ]
+  },
+  {
+    "sentence_text": "ecco di solito in Italia togliamo questa parte centrale",
+    "translations": {
+      "en": "so usually in Italy we remove this central part"
+    },
+    "segments": [
+      {
+        "token": "ecco",
+        "startTime": 307585,
+        "endTime": 309085
+      },
+      {
+        "token": "di",
+        "startTime": 309085,
+        "endTime": 309305
+      },
+      {
+        "token": "solito",
+        "startTime": 309305,
+        "endTime": 309745
+      },
+      {
+        "token": "in",
+        "startTime": 309745,
+        "endTime": 310005
+      },
+      {
+        "token": "Italia",
+        "startTime": 310005,
+        "endTime": 311965
+      },
+      {
+        "token": "togliamo",
+        "startTime": 311965,
+        "endTime": 312745
+      },
+      {
+        "token": "questa",
+        "startTime": 312745,
+        "endTime": 313305
+      },
+      {
+        "token": "parte",
+        "startTime": 313305,
+        "endTime": 313645
+      },
+      {
+        "token": "centrale",
+        "startTime": 313645,
+        "endTime": 317185
+      }
+    ]
+  },
+  {
+    "sentence_text": "dell'aglio che si chiama anima l'anima dell'aglio",
+    "translations": {
+      "en": "of the garlic called the soul, the soul of the garlic"
+    },
+    "segments": [
+      {
+        "token": "dell'aglio",
+        "startTime": 317185,
+        "endTime": 317685
+      },
+      {
+        "token": "che",
+        "startTime": 317685,
+        "endTime": 318945
+      },
+      {
+        "token": "si",
+        "startTime": 318945,
+        "endTime": 319165
+      },
+      {
+        "token": "chiama",
+        "startTime": 319165,
+        "endTime": 319705
+      },
+      {
+        "token": "anima",
+        "startTime": 319705,
+        "endTime": 320245
+      },
+      {
+        "token": "l'anima",
+        "startTime": 320245,
+        "endTime": 321365
+      },
+      {
+        "token": "dell'aglio",
+        "startTime": 321365,
+        "endTime": 332645
+      }
+    ]
+  },
+  {
+    "sentence_text": "versiamo in padella la mia zucchina aggiungiamo un po' di sale e",
+    "translations": {
+      "en": "we pour my zucchini into the pan, add a little salt and"
+    },
+    "segments": [
+      {
+        "token": "versiamo",
+        "startTime": 332645,
+        "endTime": 333365
+      },
+      {
+        "token": "in",
+        "startTime": 333365,
+        "endTime": 333565
+      },
+      {
+        "token": "padella",
+        "startTime": 333565,
+        "endTime": 334225
+      },
+      {
+        "token": "la",
+        "startTime": 334225,
+        "endTime": 335125
+      },
+      {
+        "token": "mia",
+        "startTime": 335125,
+        "endTime": 335325
+      },
+      {
+        "token": "zucchina",
+        "startTime": 335325,
+        "endTime": 338045
+      },
+      {
+        "token": "aggiungiamo",
+        "startTime": 338045,
+        "endTime": 338765
+      },
+      {
+        "token": "un",
+        "startTime": 338765,
+        "endTime": 338885
+      },
+      {
+        "token": "po'",
+        "startTime": 338885,
+        "endTime": 339105
+      },
+      {
+        "token": "di",
+        "startTime": 339105,
+        "endTime": 339185
+      },
+      {
+        "token": "sale",
+        "startTime": 339185,
+        "endTime": 339265
+      },
+      {
+        "token": "e",
+        "startTime": 339265,
+        "endTime": 346425
+      }
+    ]
+  },
+  {
+    "sentence_text": "mescoliamo con un mestolo questo si chiama mestolo",
+    "translations": {
+      "en": "stir with a ladle, this is called a ladle"
+    },
+    "segments": [
+      {
+        "token": "mescoliamo",
+        "startTime": 346425,
+        "endTime": 347465
+      },
+      {
+        "token": "con",
+        "startTime": 347465,
+        "endTime": 348105
+      },
+      {
+        "token": "un",
+        "startTime": 348105,
+        "endTime": 348325
+      },
+      {
+        "token": "mestolo",
+        "startTime": 348325,
+        "endTime": 348405
+      },
+      {
+        "token": "questo",
+        "startTime": 348405,
+        "endTime": 349425
+      },
+      {
+        "token": "si",
+        "startTime": 349425,
+        "endTime": 349685
+      },
+      {
+        "token": "chiama",
+        "startTime": 349685,
+        "endTime": 349965
+      },
+      {
+        "token": "mestolo",
+        "startTime": 349965,
+        "endTime": 352325
+      }
+    ]
+  },
+  {
+    "sentence_text": "non mi piace friggere quindi ho messo poco olio e",
+    "translations": {
+      "en": "I don't like frying so I put a little oil and"
+    },
+    "segments": [
+      {
+        "token": "non",
+        "startTime": 352325,
+        "endTime": 352425
+      },
+      {
+        "token": "mi",
+        "startTime": 352425,
+        "endTime": 352585
+      },
+      {
+        "token": "piace",
+        "startTime": 352585,
+        "endTime": 352905
+      },
+      {
+        "token": "friggere",
+        "startTime": 352905,
+        "endTime": 353705
+      },
+      {
+        "token": "quindi",
+        "startTime": 353705,
+        "endTime": 354165
+      },
+      {
+        "token": "ho",
+        "startTime": 354165,
+        "endTime": 354445
+      },
+      {
+        "token": "messo",
+        "startTime": 354445,
+        "endTime": 354805
+      },
+      {
+        "token": "poco",
+        "startTime": 354805,
+        "endTime": 355245
+      },
+      {
+        "token": "olio",
+        "startTime": 355245,
+        "endTime": 355445
+      },
+      {
+        "token": "e",
+        "startTime": 355445,
+        "endTime": 357565
+      }
+    ]
+  },
+  {
+    "sentence_text": "mescoliamo di tanto in tanto metto anche un po' di pepe",
+    "translations": {
+      "en": "we stir occasionally, I also add a bit of pepper"
+    },
+    "segments": [
+      {
+        "token": "mescoliamo",
+        "startTime": 357565,
+        "endTime": 359065
+      },
+      {
+        "token": "di",
+        "startTime": 359065,
+        "endTime": 359325
+      },
+      {
+        "token": "tanto",
+        "startTime": 359325,
+        "endTime": 359665
+      },
+      {
+        "token": "in",
+        "startTime": 359665,
+        "endTime": 359925
+      },
+      {
+        "token": "tanto",
+        "startTime": 359925,
+        "endTime": 363785
+      },
+      {
+        "token": "metto",
+        "startTime": 363785,
+        "endTime": 364085
+      },
+      {
+        "token": "anche",
+        "startTime": 364085,
+        "endTime": 364285
+      },
+      {
+        "token": "un",
+        "startTime": 364285,
+        "endTime": 364465
+      },
+      {
+        "token": "po'",
+        "startTime": 364465,
+        "endTime": 364645
+      },
+      {
+        "token": "di",
+        "startTime": 364645,
+        "endTime": 364705
+      },
+      {
+        "token": "pepe",
+        "startTime": 364705,
+        "endTime": 385105
+      }
+    ]
+  },
+  {
+    "sentence_text": "adesso aspettiamo non ci resta che l'acqua",
+    "translations": {
+      "en": "now we wait, all that's left is the water"
+    },
+    "segments": [
+      {
+        "token": "adesso",
+        "startTime": 385105,
+        "endTime": 385245
+      },
+      {
+        "token": "aspettiamo",
+        "startTime": 385245,
+        "endTime": 386165
+      },
+      {
+        "token": "non",
+        "startTime": 386165,
+        "endTime": 386545
+      },
+      {
+        "token": "ci",
+        "startTime": 386545,
+        "endTime": 386785
+      },
+      {
+        "token": "resta",
+        "startTime": 386785,
+        "endTime": 387245
+      },
+      {
+        "token": "che",
+        "startTime": 387245,
+        "endTime": 387485
+      },
+      {
+        "token": "l'acqua",
+        "startTime": 387485,
+        "endTime": 388445
+      }
+    ]
+  },
+  {
+    "sentence_text": "inizia a bollire e che le zucchine diventino pronte quindi aspettiamo",
+    "translations": {
+      "en": "to start boiling and for the zucchini to become ready, so we wait"
+    },
+    "segments": [
+      {
+        "token": "inizia",
+        "startTime": 388445,
+        "endTime": 389405
+      },
+      {
+        "token": "a",
+        "startTime": 389405,
+        "endTime": 389565
+      },
+      {
+        "token": "bollire",
+        "startTime": 389565,
+        "endTime": 390365
+      },
+      {
+        "token": "e",
+        "startTime": 390365,
+        "endTime": 390985
+      },
+      {
+        "token": "che",
+        "startTime": 390985,
+        "endTime": 391205
+      },
+      {
+        "token": "le",
+        "startTime": 391205,
+        "endTime": 391585
+      },
+      {
+        "token": "zucchine",
+        "startTime": 391585,
+        "endTime": 392325
+      },
+      {
+        "token": "diventino",
+        "startTime": 392325,
+        "endTime": 393085
+      },
+      {
+        "token": "pronte",
+        "startTime": 393085,
+        "endTime": 393805
+      },
+      {
+        "token": "quindi",
+        "startTime": 393805,
+        "endTime": 394245
+      },
+      {
+        "token": "aspettiamo",
+        "startTime": 394245,
+        "endTime": 404705
+      }
+    ]
+  },
+  {
+    "sentence_text": "questo coperchio è decisamente troppo grande ma non",
+    "translations": {
+      "en": "this lid is definitely too big but I"
+    },
+    "segments": [
+      {
+        "token": "questo",
+        "startTime": 404705,
+        "endTime": 404945
+      },
+      {
+        "token": "coperchio",
+        "startTime": 404945,
+        "endTime": 405525
+      },
+      {
+        "token": "è",
+        "startTime": 405525,
+        "endTime": 405665
+      },
+      {
+        "token": "decisamente",
+        "startTime": 405665,
+        "endTime": 406345
+      },
+      {
+        "token": "troppo",
+        "startTime": 406345,
+        "endTime": 406845
+      },
+      {
+        "token": "grande",
+        "startTime": 406845,
+        "endTime": 407225
+      },
+      {
+        "token": "ma",
+        "startTime": 407225,
+        "endTime": 407525
+      },
+      {
+        "token": "non",
+        "startTime": 407525,
+        "endTime": 408425
+      }
+    ]
+  },
+  {
+    "sentence_text": "ne ho uno della misura di questa pentola",
+    "translations": {
+      "en": "don't have one the size of this pot"
+    },
+    "segments": [
+      {
+        "token": "ne",
+        "startTime": 408425,
+        "endTime": 408625
+      },
+      {
+        "token": "ho",
+        "startTime": 408625,
+        "endTime": 408725
+      },
+      {
+        "token": "uno",
+        "startTime": 408725,
+        "endTime": 409045
+      },
+      {
+        "token": "della",
+        "startTime": 409045,
+        "endTime": 409525
+      },
+      {
+        "token": "misura",
+        "startTime": 409525,
+        "endTime": 410105
+      },
+      {
+        "token": "di",
+        "startTime": 410105,
+        "endTime": 410265
+      },
+      {
+        "token": "questa",
+        "startTime": 410265,
+        "endTime": 410565
+      },
+      {
+        "token": "pentola",
+        "startTime": 410565,
+        "endTime": 414485
+      }
+    ]
+  },
+  {
+    "sentence_text": "ok l'acqua sta per bollire allora adesso devo pesare la pasta ecco i fusilli",
+    "translations": {
+      "en": "ok the water is about to boil so now I have to weigh the pasta, here are the fusilli"
+    },
+    "segments": [
+      {
+        "token": "ok",
+        "startTime": 414485,
+        "endTime": 414725
+      },
+      {
+        "token": "l'acqua",
+        "startTime": 414725,
+        "endTime": 415165
+      },
+      {
+        "token": "sta",
+        "startTime": 415165,
+        "endTime": 415365
+      },
+      {
+        "token": "per",
+        "startTime": 415365,
+        "endTime": 415605
+      },
+      {
+        "token": "bollire",
+        "startTime": 415605,
+        "endTime": 416085
+      },
+      {
+        "token": "allora",
+        "startTime": 416085,
+        "endTime": 416525
+      },
+      {
+        "token": "adesso",
+        "startTime": 416525,
+        "endTime": 417025
+      },
+      {
+        "token": "devo",
+        "startTime": 417025,
+        "endTime": 417325
+      },
+      {
+        "token": "pesare",
+        "startTime": 417325,
+        "endTime": 417925
+      },
+      {
+        "token": "la",
+        "startTime": 417925,
+        "endTime": 418105
+      },
+      {
+        "token": "pasta",
+        "startTime": 418105,
+        "endTime": 418125
+      },
+      {
+        "token": "ecco",
+        "startTime": 418125,
+        "endTime": 419365
+      },
+      {
+        "token": "i",
+        "startTime": 419365,
+        "endTime": 419865
+      },
+      {
+        "token": "fusilli",
+        "startTime": 419865,
+        "endTime": 428865
+      }
+    ]
+  },
+  {
+    "sentence_text": "prendiamo una bilancia e versiamo un po' di fusilli",
+    "translations": {
+      "en": "we take a scale and pour some fusilli"
+    },
+    "segments": [
+      {
+        "token": "prendiamo",
+        "startTime": 428865,
+        "endTime": 429405
+      },
+      {
+        "token": "una",
+        "startTime": 429405,
+        "endTime": 429625
+      },
+      {
+        "token": "bilancia",
+        "startTime": 429625,
+        "endTime": 438245
+      },
+      {
+        "token": "e",
+        "startTime": 438245,
+        "endTime": 438405
+      },
+      {
+        "token": "versiamo",
+        "startTime": 438405,
+        "endTime": 439245
+      },
+      {
+        "token": "un",
+        "startTime": 439245,
+        "endTime": 439585
+      },
+      {
+        "token": "po'",
+        "startTime": 439585,
+        "endTime": 439865
+      },
+      {
+        "token": "di",
+        "startTime": 439865,
+        "endTime": 439965
+      },
+      {
+        "token": "fusilli",
+        "startTime": 439965,
+        "endTime": 455865
+      }
+    ]
+  },
+  {
+    "sentence_text": "l'acqua bolle mettiamo un po di sale grosso sale grosso",
+    "translations": {
+      "en": "the water boils, we add some coarse salt, coarse salt"
+    },
+    "segments": [
+      {
+        "token": "l'acqua",
+        "startTime": 455865,
+        "endTime": 456305
+      },
+      {
+        "token": "bolle",
+        "startTime": 456305,
+        "endTime": 456685
+      },
+      {
+        "token": "mettiamo",
+        "startTime": 456685,
+        "endTime": 459445
+      },
+      {
+        "token": "un",
+        "startTime": 459445,
+        "endTime": 459565
+      },
+      {
+        "token": "po",
+        "startTime": 459565,
+        "endTime": 459665
+      },
+      {
+        "token": "di",
+        "startTime": 459665,
+        "endTime": 459805
+      },
+      {
+        "token": "sale",
+        "startTime": 459805,
+        "endTime": 460225
+      },
+      {
+        "token": "grosso",
+        "startTime": 460225,
+        "endTime": 462265
+      },
+      {
+        "token": "sale",
+        "startTime": 462265,
+        "endTime": 462725
+      },
+      {
+        "token": "grosso",
+        "startTime": 462725,
+        "endTime": 469585
+      }
+    ]
+  },
+  {
+    "sentence_text": "e buttiamo buttiamo i nostri fuggilli Ok, abbasso un pochino il fuoco, giro,",
+    "translations": {
+      "en": "and we toss, we toss our fusilli. Ok, I lower the heat a bit, stir,"
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 469585,
+        "endTime": 469765
+      },
+      {
+        "token": "buttiamo",
+        "startTime": 469765,
+        "endTime": 471185
+      },
+      {
+        "token": "buttiamo",
+        "startTime": 471185,
+        "endTime": 472845
+      },
+      {
+        "token": "i",
+        "startTime": 472845,
+        "endTime": 472985
+      },
+      {
+        "token": "nostri",
+        "startTime": 472985,
+        "endTime": 473485
+      },
+      {
+        "token": "fuggilli",
+        "startTime": 473485,
+        "endTime": 478605
+      },
+      {
+        "token": "Ok,",
+        "startTime": 478605,
+        "endTime": 479105
+      },
+      {
+        "token": "abbasso",
+        "startTime": 479105,
+        "endTime": 479425
+      },
+      {
+        "token": "un",
+        "startTime": 479425,
+        "endTime": 479525
+      },
+      {
+        "token": "pochino",
+        "startTime": 479525,
+        "endTime": 479845
+      },
+      {
+        "token": "il",
+        "startTime": 479845,
+        "endTime": 480070
+      },
+      {
+        "token": "fuoco,",
+        "startTime": 480070,
+        "endTime": 482190
+      },
+      {
+        "token": "giro,",
+        "startTime": 482190,
+        "endTime": 483290
+      }
+    ]
+  },
+  {
+    "sentence_text": "mescolo un po' e socchiudo.",
+    "translations": {
+      "en": "mix a little and leave it slightly open."
+    },
+    "segments": [
+      {
+        "token": "mescolo",
+        "startTime": 483290,
+        "endTime": 483890
+      },
+      {
+        "token": "un",
+        "startTime": 483890,
+        "endTime": 484130
+      },
+      {
+        "token": "po'",
+        "startTime": 484130,
+        "endTime": 484390
+      },
+      {
+        "token": "e",
+        "startTime": 484390,
+        "endTime": 488250
+      },
+      {
+        "token": "socchiudo.",
+        "startTime": 488250,
+        "endTime": 489950
+      }
+    ]
+  },
+  {
+    "sentence_text": "Non chiudo totalmente, ma lascio un po' aperto.",
+    "translations": {
+      "en": "I don't close it completely, but leave it a bit open."
+    },
+    "segments": [
+      {
+        "token": "Non",
+        "startTime": 489950,
+        "endTime": 490150
+      },
+      {
+        "token": "chiudo",
+        "startTime": 490150,
+        "endTime": 490570
+      },
+      {
+        "token": "totalmente,",
+        "startTime": 490570,
+        "endTime": 493210
+      },
+      {
+        "token": "ma",
+        "startTime": 493210,
+        "endTime": 493250
+      },
+      {
+        "token": "lascio",
+        "startTime": 493250,
+        "endTime": 493750
+      },
+      {
+        "token": "un",
+        "startTime": 493750,
+        "endTime": 493870
+      },
+      {
+        "token": "po'",
+        "startTime": 493870,
+        "endTime": 494050
+      },
+      {
+        "token": "aperto.",
+        "startTime": 494050,
+        "endTime": 498390
+      }
+    ]
+  },
+  {
+    "sentence_text": "un'altra cosa difficile in cucina è trovare",
+    "translations": {
+      "en": "Another difficult thing in the kitchen is finding"
+    },
+    "segments": [
+      {
+        "token": "un'altra",
+        "startTime": 498390,
+        "endTime": 498670
+      },
+      {
+        "token": "cosa",
+        "startTime": 498670,
+        "endTime": 498970
+      },
+      {
+        "token": "difficile",
+        "startTime": 498970,
+        "endTime": 499490
+      },
+      {
+        "token": "in",
+        "startTime": 499490,
+        "endTime": 499950
+      },
+      {
+        "token": "cucina",
+        "startTime": 499950,
+        "endTime": 500490
+      },
+      {
+        "token": "è",
+        "startTime": 500490,
+        "endTime": 500770
+      },
+      {
+        "token": "trovare",
+        "startTime": 500770,
+        "endTime": 501490
+      }
+    ]
+  },
+  {
+    "sentence_text": "i minuti che ci servono per far cuocere i vari tipi di pasta in",
+    "translations": {
+      "en": "the minutes we need to cook the different types of pasta in"
+    },
+    "segments": [
+      {
+        "token": "i",
+        "startTime": 501490,
+        "endTime": 501790
+      },
+      {
+        "token": "minuti",
+        "startTime": 501790,
+        "endTime": 502450
+      },
+      {
+        "token": "che",
+        "startTime": 502450,
+        "endTime": 502730
+      },
+      {
+        "token": "ci",
+        "startTime": 502730,
+        "endTime": 503090
+      },
+      {
+        "token": "servono",
+        "startTime": 503090,
+        "endTime": 503650
+      },
+      {
+        "token": "per",
+        "startTime": 503650,
+        "endTime": 503890
+      },
+      {
+        "token": "far",
+        "startTime": 503890,
+        "endTime": 504250
+      },
+      {
+        "token": "cuocere",
+        "startTime": 504250,
+        "endTime": 505130
+      },
+      {
+        "token": "i",
+        "startTime": 505130,
+        "endTime": 506030
+      },
+      {
+        "token": "vari",
+        "startTime": 506030,
+        "endTime": 506290
+      },
+      {
+        "token": "tipi",
+        "startTime": 506290,
+        "endTime": 506630
+      },
+      {
+        "token": "di",
+        "startTime": 506630,
+        "endTime": 506790
+      },
+      {
+        "token": "pasta",
+        "startTime": 506790,
+        "endTime": 506890
+      },
+      {
+        "token": "in",
+        "startTime": 506890,
+        "endTime": 507970
+      }
+    ]
+  },
+  {
+    "sentence_text": "questa scatola devo dire che l'hanno scritto abbastanza chiaramente ma a volte non si trova,",
+    "translations": {
+      "en": "this box I must say they wrote it quite clearly, but sometimes you can't find it,"
+    },
+    "segments": [
+      {
+        "token": "questa",
+        "startTime": 507970,
+        "endTime": 508330
+      },
+      {
+        "token": "scatola",
+        "startTime": 508330,
+        "endTime": 508890
+      },
+      {
+        "token": "devo",
+        "startTime": 508890,
+        "endTime": 509170
+      },
+      {
+        "token": "dire",
+        "startTime": 509170,
+        "endTime": 509430
+      },
+      {
+        "token": "che",
+        "startTime": 509430,
+        "endTime": 509650
+      },
+      {
+        "token": "l'hanno",
+        "startTime": 509650,
+        "endTime": 510050
+      },
+      {
+        "token": "scritto",
+        "startTime": 510050,
+        "endTime": 510890
+      },
+      {
+        "token": "abbastanza",
+        "startTime": 510890,
+        "endTime": 512050
+      },
+      {
+        "token": "chiaramente",
+        "startTime": 512050,
+        "endTime": 512450
+      },
+      {
+        "token": "ma",
+        "startTime": 512450,
+        "endTime": 513230
+      },
+      {
+        "token": "a",
+        "startTime": 513230,
+        "endTime": 513550
+      },
+      {
+        "token": "volte",
+        "startTime": 513550,
+        "endTime": 513870
+      },
+      {
+        "token": "non",
+        "startTime": 513870,
+        "endTime": 514130
+      },
+      {
+        "token": "si",
+        "startTime": 514130,
+        "endTime": 514330
+      },
+      {
+        "token": "trova,",
+        "startTime": 514330,
+        "endTime": 515070
+      }
+    ]
+  },
+  {
+    "sentence_text": "non si trova quindi questa pasta deve cuocere",
+    "translations": {
+      "en": "you can't find it, so this pasta needs to cook"
+    },
+    "segments": [
+      {
+        "token": "non",
+        "startTime": 515070,
+        "endTime": 515170
+      },
+      {
+        "token": "si",
+        "startTime": 515170,
+        "endTime": 515370
+      },
+      {
+        "token": "trova",
+        "startTime": 515370,
+        "endTime": 516330
+      },
+      {
+        "token": "quindi",
+        "startTime": 516330,
+        "endTime": 516530
+      },
+      {
+        "token": "questa",
+        "startTime": 516530,
+        "endTime": 517030
+      },
+      {
+        "token": "pasta",
+        "startTime": 517030,
+        "endTime": 517470
+      },
+      {
+        "token": "deve",
+        "startTime": 517470,
+        "endTime": 517870
+      },
+      {
+        "token": "cuocere",
+        "startTime": 517870,
+        "endTime": 518750
+      }
+    ]
+  },
+  {
+    "sentence_text": "8 minuti per una cottura al dente quindi ancora",
+    "translations": {
+      "en": "8 minutes for an al dente cook, so still"
+    },
+    "segments": [
+      {
+        "token": "8",
+        "startTime": 518750,
+        "endTime": 519230
+      },
+      {
+        "token": "minuti",
+        "startTime": 519230,
+        "endTime": 519910
+      },
+      {
+        "token": "per",
+        "startTime": 519910,
+        "endTime": 520410
+      },
+      {
+        "token": "una",
+        "startTime": 520410,
+        "endTime": 520790
+      },
+      {
+        "token": "cottura",
+        "startTime": 520790,
+        "endTime": 521490
+      },
+      {
+        "token": "al",
+        "startTime": 521490,
+        "endTime": 521890
+      },
+      {
+        "token": "dente",
+        "startTime": 521890,
+        "endTime": 523290
+      },
+      {
+        "token": "quindi",
+        "startTime": 523290,
+        "endTime": 523450
+      },
+      {
+        "token": "ancora",
+        "startTime": 523450,
+        "endTime": 525230
+      }
+    ]
+  },
+  {
+    "sentence_text": "un pelo dura come piace agli italiani",
+    "translations": {
+      "en": "a bit firm, as Italians like it"
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 525230,
+        "endTime": 525530
+      },
+      {
+        "token": "pelo",
+        "startTime": 525530,
+        "endTime": 526090
+      },
+      {
+        "token": "dura",
+        "startTime": 526090,
+        "endTime": 526790
+      },
+      {
+        "token": "come",
+        "startTime": 526790,
+        "endTime": 527130
+      },
+      {
+        "token": "piace",
+        "startTime": 527130,
+        "endTime": 527530
+      },
+      {
+        "token": "agli",
+        "startTime": 527530,
+        "endTime": 527770
+      },
+      {
+        "token": "italiani",
+        "startTime": 527770,
+        "endTime": 545010
+      }
+    ]
+  },
+  {
+    "sentence_text": "mentre la pasta cuoce vado a preparare la tavola mettiamo la tovaglia",
+    "translations": {
+      "en": "while the pasta cooks, I'll go set the table, let's put the tablecloth"
+    },
+    "segments": [
+      {
+        "token": "mentre",
+        "startTime": 545010,
+        "endTime": 545410
+      },
+      {
+        "token": "la",
+        "startTime": 545410,
+        "endTime": 545690
+      },
+      {
+        "token": "pasta",
+        "startTime": 545690,
+        "endTime": 546190
+      },
+      {
+        "token": "cuoce",
+        "startTime": 546190,
+        "endTime": 546870
+      },
+      {
+        "token": "vado",
+        "startTime": 546870,
+        "endTime": 547330
+      },
+      {
+        "token": "a",
+        "startTime": 547330,
+        "endTime": 547470
+      },
+      {
+        "token": "preparare",
+        "startTime": 547470,
+        "endTime": 548110
+      },
+      {
+        "token": "la",
+        "startTime": 548110,
+        "endTime": 548250
+      },
+      {
+        "token": "tavola",
+        "startTime": 548250,
+        "endTime": 549710
+      },
+      {
+        "token": "mettiamo",
+        "startTime": 549710,
+        "endTime": 550250
+      },
+      {
+        "token": "la",
+        "startTime": 550250,
+        "endTime": 550390
+      },
+      {
+        "token": "tovaglia",
+        "startTime": 550390,
+        "endTime": 555350
+      }
+    ]
+  },
+  {
+    "sentence_text": "mi piace molto questa tovaglia perché è tutta colorata con i colori pantone,",
+    "translations": {
+      "en": "I really like this tablecloth because it's all colorful with Pantone colors,"
+    },
+    "segments": [
+      {
+        "token": "mi",
+        "startTime": 555350,
+        "endTime": 555450
+      },
+      {
+        "token": "piace",
+        "startTime": 555450,
+        "endTime": 555710
+      },
+      {
+        "token": "molto",
+        "startTime": 555710,
+        "endTime": 556030
+      },
+      {
+        "token": "questa",
+        "startTime": 556030,
+        "endTime": 556370
+      },
+      {
+        "token": "tovaglia",
+        "startTime": 556370,
+        "endTime": 556890
+      },
+      {
+        "token": "perché",
+        "startTime": 556890,
+        "endTime": 557170
+      },
+      {
+        "token": "è",
+        "startTime": 557170,
+        "endTime": 557330
+      },
+      {
+        "token": "tutta",
+        "startTime": 557330,
+        "endTime": 557670
+      },
+      {
+        "token": "colorata",
+        "startTime": 557670,
+        "endTime": 557990
+      },
+      {
+        "token": "con",
+        "startTime": 557990,
+        "endTime": 562090
+      },
+      {
+        "token": "i",
+        "startTime": 562090,
+        "endTime": 562570
+      },
+      {
+        "token": "colori",
+        "startTime": 562570,
+        "endTime": 563130
+      },
+      {
+        "token": "pantone,",
+        "startTime": 563130,
+        "endTime": 565070
+      }
+    ]
+  },
+  {
+    "sentence_text": "molto carina bicchieri, l'acqua, le posate i",
+    "translations": {
+      "en": "very nice, glasses, water, cutlery,"
+    },
+    "segments": [
+      {
+        "token": "molto",
+        "startTime": 565070,
+        "endTime": 565250
+      },
+      {
+        "token": "carina",
+        "startTime": 565250,
+        "endTime": 574550
+      },
+      {
+        "token": "bicchieri,",
+        "startTime": 574550,
+        "endTime": 575690
+      },
+      {
+        "token": "l'acqua,",
+        "startTime": 575690,
+        "endTime": 577510
+      },
+      {
+        "token": "le",
+        "startTime": 577510,
+        "endTime": 577670
+      },
+      {
+        "token": "posate",
+        "startTime": 577670,
+        "endTime": 577910
+      },
+      {
+        "token": "i",
+        "startTime": 577910,
+        "endTime": 583030
+      }
+    ]
+  },
+  {
+    "sentence_text": "piatti e un sottopentola così la tovaglia non si brucerà quando porterò",
+    "translations": {
+      "en": "plates, and a trivet so the tablecloth won't burn when I bring"
+    },
+    "segments": [
+      {
+        "token": "piatti",
+        "startTime": 583030,
+        "endTime": 586990
+      },
+      {
+        "token": "e",
+        "startTime": 586990,
+        "endTime": 587130
+      },
+      {
+        "token": "un",
+        "startTime": 587130,
+        "endTime": 587350
+      },
+      {
+        "token": "sottopentola",
+        "startTime": 587350,
+        "endTime": 588410
+      },
+      {
+        "token": "così",
+        "startTime": 588410,
+        "endTime": 588870
+      },
+      {
+        "token": "la",
+        "startTime": 588870,
+        "endTime": 589390
+      },
+      {
+        "token": "tovaglia",
+        "startTime": 589390,
+        "endTime": 590350
+      },
+      {
+        "token": "non",
+        "startTime": 590350,
+        "endTime": 590570
+      },
+      {
+        "token": "si",
+        "startTime": 590570,
+        "endTime": 590810
+      },
+      {
+        "token": "brucerà",
+        "startTime": 590810,
+        "endTime": 591450
+      },
+      {
+        "token": "quando",
+        "startTime": 591450,
+        "endTime": 591890
+      },
+      {
+        "token": "porterò",
+        "startTime": 591890,
+        "endTime": 592570
+      }
+    ]
+  },
+  {
+    "sentence_text": "la mia pentola con i fusilli e le zucchine in tavola.",
+    "translations": {
+      "en": "my pot with fusilli and zucchini to the table."
+    },
+    "segments": [
+      {
+        "token": "la",
+        "startTime": 592570,
+        "endTime": 593090
+      },
+      {
+        "token": "mia",
+        "startTime": 593090,
+        "endTime": 593210
+      },
+      {
+        "token": "pentola",
+        "startTime": 593210,
+        "endTime": 593730
+      },
+      {
+        "token": "con",
+        "startTime": 593730,
+        "endTime": 594170
+      },
+      {
+        "token": "i",
+        "startTime": 594170,
+        "endTime": 594570
+      },
+      {
+        "token": "fusilli",
+        "startTime": 594570,
+        "endTime": 595130
+      },
+      {
+        "token": "e",
+        "startTime": 595130,
+        "endTime": 595370
+      },
+      {
+        "token": "le",
+        "startTime": 595370,
+        "endTime": 595590
+      },
+      {
+        "token": "zucchine",
+        "startTime": 595590,
+        "endTime": 596110
+      },
+      {
+        "token": "in",
+        "startTime": 596110,
+        "endTime": 596450
+      },
+      {
+        "token": "tavola.",
+        "startTime": 596450,
+        "endTime": 597710
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ricordatevi che l'oggetto, il mobile, si chiama tavolo al maschile quando non è apparecchiato.",
+    "translations": {
+      "en": "Remember that the object, the furniture, is called 'tavolo' in the masculine when it's not set."
+    },
+    "segments": [
+      {
+        "token": "Ricordatevi",
+        "startTime": 597710,
+        "endTime": 598610
+      },
+      {
+        "token": "che",
+        "startTime": 598610,
+        "endTime": 598790
+      },
+      {
+        "token": "l'oggetto,",
+        "startTime": 598790,
+        "endTime": 600090
+      },
+      {
+        "token": "il",
+        "startTime": 600090,
+        "endTime": 600210
+      },
+      {
+        "token": "mobile,",
+        "startTime": 600210,
+        "endTime": 600770
+      },
+      {
+        "token": "si",
+        "startTime": 600770,
+        "endTime": 600890
+      },
+      {
+        "token": "chiama",
+        "startTime": 600890,
+        "endTime": 601190
+      },
+      {
+        "token": "tavolo",
+        "startTime": 601190,
+        "endTime": 601990
+      },
+      {
+        "token": "al",
+        "startTime": 601990,
+        "endTime": 602330
+      },
+      {
+        "token": "maschile",
+        "startTime": 602330,
+        "endTime": 602950
+      },
+      {
+        "token": "quando",
+        "startTime": 602950,
+        "endTime": 603590
+      },
+      {
+        "token": "non",
+        "startTime": 603590,
+        "endTime": 603970
+      },
+      {
+        "token": "è",
+        "startTime": 603970,
+        "endTime": 604150
+      },
+      {
+        "token": "apparecchiato.",
+        "startTime": 604150,
+        "endTime": 605630
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quindi in questo caso che io ho messo la tovaglia",
+    "translations": {
+      "en": "So in this case, since I've put the tablecloth"
+    },
+    "segments": [
+      {
+        "token": "Quindi",
+        "startTime": 605630,
+        "endTime": 605970
+      },
+      {
+        "token": "in",
+        "startTime": 605970,
+        "endTime": 606310
+      },
+      {
+        "token": "questo",
+        "startTime": 606310,
+        "endTime": 606690
+      },
+      {
+        "token": "caso",
+        "startTime": 606690,
+        "endTime": 607230
+      },
+      {
+        "token": "che",
+        "startTime": 607230,
+        "endTime": 607610
+      },
+      {
+        "token": "io",
+        "startTime": 607610,
+        "endTime": 607810
+      },
+      {
+        "token": "ho",
+        "startTime": 607810,
+        "endTime": 607910
+      },
+      {
+        "token": "messo",
+        "startTime": 607910,
+        "endTime": 608290
+      },
+      {
+        "token": "la",
+        "startTime": 608290,
+        "endTime": 608510
+      },
+      {
+        "token": "tovaglia",
+        "startTime": 608510,
+        "endTime": 609410
+      }
+    ]
+  },
+  {
+    "sentence_text": "e tutte le cose che mi servono per pranzare,",
+    "translations": {
+      "en": "and all the things I need for lunch,"
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 609410,
+        "endTime": 609990
+      },
+      {
+        "token": "tutte",
+        "startTime": 609990,
+        "endTime": 610510
+      },
+      {
+        "token": "le",
+        "startTime": 610510,
+        "endTime": 610710
+      },
+      {
+        "token": "cose",
+        "startTime": 610710,
+        "endTime": 611010
+      },
+      {
+        "token": "che",
+        "startTime": 611010,
+        "endTime": 611410
+      },
+      {
+        "token": "mi",
+        "startTime": 611410,
+        "endTime": 611570
+      },
+      {
+        "token": "servono",
+        "startTime": 611570,
+        "endTime": 612150
+      },
+      {
+        "token": "per",
+        "startTime": 612150,
+        "endTime": 612430
+      },
+      {
+        "token": "pranzare,",
+        "startTime": 612430,
+        "endTime": 613810
+      }
+    ]
+  },
+  {
+    "sentence_text": "in questo caso diventa femminile la tavola. adesso qui c'è una tavola,",
+    "translations": {
+      "en": "in this case it becomes feminine, 'la tavola'. Now here there's a 'tavola',"
+    },
+    "segments": [
+      {
+        "token": "in",
+        "startTime": 613810,
+        "endTime": 613910
+      },
+      {
+        "token": "questo",
+        "startTime": 613910,
+        "endTime": 614230
+      },
+      {
+        "token": "caso",
+        "startTime": 614230,
+        "endTime": 614650
+      },
+      {
+        "token": "diventa",
+        "startTime": 614650,
+        "endTime": 615310
+      },
+      {
+        "token": "femminile",
+        "startTime": 615310,
+        "endTime": 616450
+      },
+      {
+        "token": "la",
+        "startTime": 616450,
+        "endTime": 616910
+      },
+      {
+        "token": "tavola.",
+        "startTime": 616910,
+        "endTime": 617950
+      },
+      {
+        "token": "adesso",
+        "startTime": 617950,
+        "endTime": 618350
+      },
+      {
+        "token": "qui",
+        "startTime": 618350,
+        "endTime": 618710
+      },
+      {
+        "token": "c'è",
+        "startTime": 618710,
+        "endTime": 619270
+      },
+      {
+        "token": "una",
+        "startTime": 619270,
+        "endTime": 619530
+      },
+      {
+        "token": "tavola,",
+        "startTime": 619530,
+        "endTime": 621030
+      }
+    ]
+  },
+  {
+    "sentence_text": "senza queste cose questo oggetto si chiama tavolo.",
+    "translations": {
+      "en": "without these things, this object is called 'tavolo'."
+    },
+    "segments": [
+      {
+        "token": "senza",
+        "startTime": 621030,
+        "endTime": 621630
+      },
+      {
+        "token": "queste",
+        "startTime": 621630,
+        "endTime": 622070
+      },
+      {
+        "token": "cose",
+        "startTime": 622070,
+        "endTime": 622630
+      },
+      {
+        "token": "questo",
+        "startTime": 622630,
+        "endTime": 623270
+      },
+      {
+        "token": "oggetto",
+        "startTime": 623270,
+        "endTime": 623870
+      },
+      {
+        "token": "si",
+        "startTime": 623870,
+        "endTime": 624150
+      },
+      {
+        "token": "chiama",
+        "startTime": 624150,
+        "endTime": 624470
+      },
+      {
+        "token": "tavolo.",
+        "startTime": 624470,
+        "endTime": 625890
+      }
+    ]
+  },
+  {
+    "sentence_text": "Questa è una delle robe più pazze del vocabolario italiano.",
+    "translations": {
+      "en": "This is one of the craziest things in the Italian vocabulary."
+    },
+    "segments": [
+      {
+        "token": "Questa",
+        "startTime": 625890,
+        "endTime": 626070
+      },
+      {
+        "token": "è",
+        "startTime": 626070,
+        "endTime": 626170
+      },
+      {
+        "token": "una",
+        "startTime": 626170,
+        "endTime": 626290
+      },
+      {
+        "token": "delle",
+        "startTime": 626290,
+        "endTime": 626510
+      },
+      {
+        "token": "robe",
+        "startTime": 626510,
+        "endTime": 626710
+      },
+      {
+        "token": "più",
+        "startTime": 626710,
+        "endTime": 627050
+      },
+      {
+        "token": "pazze",
+        "startTime": 627050,
+        "endTime": 627790
+      },
+      {
+        "token": "del",
+        "startTime": 627790,
+        "endTime": 627990
+      },
+      {
+        "token": "vocabolario",
+        "startTime": 627990,
+        "endTime": 629570
+      },
+      {
+        "token": "italiano.",
+        "startTime": 629570,
+        "endTime": 650350
+      }
+    ]
+  },
+  {
+    "sentence_text": "il timer dice che la pasta dovrebbe essere pronta",
+    "translations": {
+      "en": "The timer says the pasta should be ready"
+    },
+    "segments": [
+      {
+        "token": "il",
+        "startTime": 650350,
+        "endTime": 650810
+      },
+      {
+        "token": "timer",
+        "startTime": 650810,
+        "endTime": 665270
+      },
+      {
+        "token": "dice",
+        "startTime": 665270,
+        "endTime": 666290
+      },
+      {
+        "token": "che",
+        "startTime": 666290,
+        "endTime": 666550
+      },
+      {
+        "token": "la",
+        "startTime": 666550,
+        "endTime": 666850
+      },
+      {
+        "token": "pasta",
+        "startTime": 666850,
+        "endTime": 667210
+      },
+      {
+        "token": "dovrebbe",
+        "startTime": 667210,
+        "endTime": 667610
+      },
+      {
+        "token": "essere",
+        "startTime": 667610,
+        "endTime": 667990
+      },
+      {
+        "token": "pronta",
+        "startTime": 667990,
+        "endTime": 679370
+      }
+    ]
+  },
+  {
+    "sentence_text": "spegniamo il fuoco e scolliamo la pasta.",
+    "translations": {
+      "en": "let's turn off the heat and drain the pasta."
+    },
+    "segments": [
+      {
+        "token": "spegniamo",
+        "startTime": 679370,
+        "endTime": 679910
+      },
+      {
+        "token": "il",
+        "startTime": 679910,
+        "endTime": 680070
+      },
+      {
+        "token": "fuoco",
+        "startTime": 680070,
+        "endTime": 680490
+      },
+      {
+        "token": "e",
+        "startTime": 680490,
+        "endTime": 682390
+      },
+      {
+        "token": "scolliamo",
+        "startTime": 682390,
+        "endTime": 683350
+      },
+      {
+        "token": "la",
+        "startTime": 683350,
+        "endTime": 683650
+      },
+      {
+        "token": "pasta.",
+        "startTime": 683650,
+        "endTime": 685150
+      }
+    ]
+  },
+  {
+    "sentence_text": "Prendiamo uno scolapasta e scolliamo la pasta.",
+    "translations": {
+      "en": "Let's take a colander and drain the pasta."
+    },
+    "segments": [
+      {
+        "token": "Prendiamo",
+        "startTime": 685150,
+        "endTime": 685710
+      },
+      {
+        "token": "uno",
+        "startTime": 685710,
+        "endTime": 685930
+      },
+      {
+        "token": "scolapasta",
+        "startTime": 685930,
+        "endTime": 686730
+      },
+      {
+        "token": "e",
+        "startTime": 686730,
+        "endTime": 690390
+      },
+      {
+        "token": "scolliamo",
+        "startTime": 690390,
+        "endTime": 692030
+      },
+      {
+        "token": "la",
+        "startTime": 692030,
+        "endTime": 694690
+      },
+      {
+        "token": "pasta.",
+        "startTime": 694690,
+        "endTime": 711510
+      }
+    ]
+  },
+  {
+    "sentence_text": "Versiamo i nostri fusilli nella pentola e mescoliamo un pochino per amalgamare bene.",
+    "translations": {
+      "en": "Let's pour our fusilli into the pot and give it a quick stir to mix everything well."
+    },
+    "segments": [
+      {
+        "token": "Versiamo",
+        "startTime": 711510,
+        "endTime": 712490
+      },
+      {
+        "token": "i",
+        "startTime": 712490,
+        "endTime": 713150
+      },
+      {
+        "token": "nostri",
+        "startTime": 713150,
+        "endTime": 713450
+      },
+      {
+        "token": "fusilli",
+        "startTime": 713450,
+        "endTime": 714350
+      },
+      {
+        "token": "nella",
+        "startTime": 714350,
+        "endTime": 716650
+      },
+      {
+        "token": "pentola",
+        "startTime": 716650,
+        "endTime": 717350
+      },
+      {
+        "token": "e",
+        "startTime": 717350,
+        "endTime": 718750
+      },
+      {
+        "token": "mescoliamo",
+        "startTime": 718750,
+        "endTime": 719570
+      },
+      {
+        "token": "un",
+        "startTime": 719570,
+        "endTime": 720015
+      },
+      {
+        "token": "pochino",
+        "startTime": 720015,
+        "endTime": 720495
+      },
+      {
+        "token": "per",
+        "startTime": 720495,
+        "endTime": 721815
+      },
+      {
+        "token": "amalgamare",
+        "startTime": 721815,
+        "endTime": 722715
+      },
+      {
+        "token": "bene.",
+        "startTime": 722715,
+        "endTime": 728895
+      }
+    ]
+  },
+  {
+    "sentence_text": "Poi, se vi piace il parmigiano, ovviamente potreste grattugiare un po' di parmigiano nella pasta,",
+    "translations": {
+      "en": "Then, if you like parmesan, of course you could grate some parmesan over the pasta,"
+    },
+    "segments": [
+      {
+        "token": "Poi,",
+        "startTime": 728895,
+        "endTime": 729295
+      },
+      {
+        "token": "se",
+        "startTime": 729295,
+        "endTime": 729835
+      },
+      {
+        "token": "vi",
+        "startTime": 729835,
+        "endTime": 729935
+      },
+      {
+        "token": "piace",
+        "startTime": 729935,
+        "endTime": 730355
+      },
+      {
+        "token": "il",
+        "startTime": 730355,
+        "endTime": 730815
+      },
+      {
+        "token": "parmigiano,",
+        "startTime": 730815,
+        "endTime": 731915
+      },
+      {
+        "token": "ovviamente",
+        "startTime": 731915,
+        "endTime": 734315
+      },
+      {
+        "token": "potreste",
+        "startTime": 734315,
+        "endTime": 735395
+      },
+      {
+        "token": "grattugiare",
+        "startTime": 735395,
+        "endTime": 736835
+      },
+      {
+        "token": "un",
+        "startTime": 736835,
+        "endTime": 737195
+      },
+      {
+        "token": "po'",
+        "startTime": 737195,
+        "endTime": 737475
+      },
+      {
+        "token": "di",
+        "startTime": 737475,
+        "endTime": 737575
+      },
+      {
+        "token": "parmigiano",
+        "startTime": 737575,
+        "endTime": 738575
+      },
+      {
+        "token": "nella",
+        "startTime": 738575,
+        "endTime": 738995
+      },
+      {
+        "token": "pasta,",
+        "startTime": 738995,
+        "endTime": 740195
+      }
+    ]
+  },
+  {
+    "sentence_text": "grattugiare ma la mia nutrizionista mi ha insegnato un trucchetto che mi",
+    "translations": {
+      "en": "grate it, but my nutritionist taught me a little trick that I"
+    },
+    "segments": [
+      {
+        "token": "grattugiare",
+        "startTime": 740195,
+        "endTime": 741095
+      },
+      {
+        "token": "ma",
+        "startTime": 741095,
+        "endTime": 741775
+      },
+      {
+        "token": "la",
+        "startTime": 741775,
+        "endTime": 742315
+      },
+      {
+        "token": "mia",
+        "startTime": 742315,
+        "endTime": 742495
+      },
+      {
+        "token": "nutrizionista",
+        "startTime": 742495,
+        "endTime": 743595
+      },
+      {
+        "token": "mi",
+        "startTime": 743595,
+        "endTime": 743835
+      },
+      {
+        "token": "ha",
+        "startTime": 743835,
+        "endTime": 743955
+      },
+      {
+        "token": "insegnato",
+        "startTime": 743955,
+        "endTime": 744835
+      },
+      {
+        "token": "un",
+        "startTime": 744835,
+        "endTime": 745195
+      },
+      {
+        "token": "trucchetto",
+        "startTime": 745195,
+        "endTime": 745835
+      },
+      {
+        "token": "che",
+        "startTime": 745835,
+        "endTime": 746095
+      },
+      {
+        "token": "mi",
+        "startTime": 746095,
+        "endTime": 747375
+      }
+    ]
+  },
+  {
+    "sentence_text": "piace molto cioè quello di sostituire",
+    "translations": {
+      "en": "really like, which is to replace"
+    },
+    "segments": [
+      {
+        "token": "piace",
+        "startTime": 747375,
+        "endTime": 747715
+      },
+      {
+        "token": "molto",
+        "startTime": 747715,
+        "endTime": 747755
+      },
+      {
+        "token": "cioè",
+        "startTime": 747755,
+        "endTime": 748635
+      },
+      {
+        "token": "quello",
+        "startTime": 748635,
+        "endTime": 749475
+      },
+      {
+        "token": "di",
+        "startTime": 749475,
+        "endTime": 749715
+      },
+      {
+        "token": "sostituire",
+        "startTime": 749715,
+        "endTime": 750735
+      }
+    ]
+  },
+  {
+    "sentence_text": "il parmigiano con un formaggio filante come il primo sale e",
+    "translations": {
+      "en": "the parmesan with a stringy cheese like primo sale, and"
+    },
+    "segments": [
+      {
+        "token": "il",
+        "startTime": 750735,
+        "endTime": 751055
+      },
+      {
+        "token": "parmigiano",
+        "startTime": 751055,
+        "endTime": 751775
+      },
+      {
+        "token": "con",
+        "startTime": 751775,
+        "endTime": 752335
+      },
+      {
+        "token": "un",
+        "startTime": 752335,
+        "endTime": 753115
+      },
+      {
+        "token": "formaggio",
+        "startTime": 753115,
+        "endTime": 753715
+      },
+      {
+        "token": "filante",
+        "startTime": 753715,
+        "endTime": 754475
+      },
+      {
+        "token": "come",
+        "startTime": 754475,
+        "endTime": 755355
+      },
+      {
+        "token": "il",
+        "startTime": 755355,
+        "endTime": 755615
+      },
+      {
+        "token": "primo",
+        "startTime": 755615,
+        "endTime": 755955
+      },
+      {
+        "token": "sale",
+        "startTime": 755955,
+        "endTime": 756095
+      },
+      {
+        "token": "e",
+        "startTime": 756095,
+        "endTime": 757575
+      }
+    ]
+  },
+  {
+    "sentence_text": "una volta che il primo sale si scalda crea una bellissima",
+    "translations": {
+      "en": "once the primo sale heats up, it creates a beautiful"
+    },
+    "segments": [
+      {
+        "token": "una",
+        "startTime": 757575,
+        "endTime": 758275
+      },
+      {
+        "token": "volta",
+        "startTime": 758275,
+        "endTime": 758555
+      },
+      {
+        "token": "che",
+        "startTime": 758555,
+        "endTime": 758775
+      },
+      {
+        "token": "il",
+        "startTime": 758775,
+        "endTime": 758915
+      },
+      {
+        "token": "primo",
+        "startTime": 758915,
+        "endTime": 759115
+      },
+      {
+        "token": "sale",
+        "startTime": 759115,
+        "endTime": 759455
+      },
+      {
+        "token": "si",
+        "startTime": 759455,
+        "endTime": 759775
+      },
+      {
+        "token": "scalda",
+        "startTime": 759775,
+        "endTime": 760735
+      },
+      {
+        "token": "crea",
+        "startTime": 760735,
+        "endTime": 761715
+      },
+      {
+        "token": "una",
+        "startTime": 761715,
+        "endTime": 761935
+      },
+      {
+        "token": "bellissima",
+        "startTime": 761935,
+        "endTime": 763015
+      }
+    ]
+  },
+  {
+    "sentence_text": "e molto golosa cremina adesso vi faccio vedere",
+    "translations": {
+      "en": "and very indulgent creamy sauce. Now let me show you."
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 763015,
+        "endTime": 763295
+      },
+      {
+        "token": "molto",
+        "startTime": 763295,
+        "endTime": 763915
+      },
+      {
+        "token": "golosa",
+        "startTime": 763915,
+        "endTime": 764775
+      },
+      {
+        "token": "cremina",
+        "startTime": 764775,
+        "endTime": 765255
+      },
+      {
+        "token": "adesso",
+        "startTime": 765255,
+        "endTime": 766375
+      },
+      {
+        "token": "vi",
+        "startTime": 766375,
+        "endTime": 766575
+      },
+      {
+        "token": "faccio",
+        "startTime": 766575,
+        "endTime": 766935
+      },
+      {
+        "token": "vedere",
+        "startTime": 766935,
+        "endTime": 778195
+      }
+    ]
+  },
+  {
+    "sentence_text": "spegniamo il fuoco e possiamo servire ho un'acquolina in bocca ho molta fame adesso",
+    "translations": {
+      "en": "We turn off the heat and we can serve. My mouth is watering, I'm so hungry now."
+    },
+    "segments": [
+      {
+        "token": "spegniamo",
+        "startTime": 778195,
+        "endTime": 778875
+      },
+      {
+        "token": "il",
+        "startTime": 778875,
+        "endTime": 779195
+      },
+      {
+        "token": "fuoco",
+        "startTime": 779195,
+        "endTime": 779675
+      },
+      {
+        "token": "e",
+        "startTime": 779675,
+        "endTime": 779935
+      },
+      {
+        "token": "possiamo",
+        "startTime": 779935,
+        "endTime": 780615
+      },
+      {
+        "token": "servire",
+        "startTime": 780615,
+        "endTime": 781435
+      },
+      {
+        "token": "ho",
+        "startTime": 781435,
+        "endTime": 783635
+      },
+      {
+        "token": "un'acquolina",
+        "startTime": 783635,
+        "endTime": 784255
+      },
+      {
+        "token": "in",
+        "startTime": 784255,
+        "endTime": 784495
+      },
+      {
+        "token": "bocca",
+        "startTime": 784495,
+        "endTime": 784895
+      },
+      {
+        "token": "ho",
+        "startTime": 784895,
+        "endTime": 785755
+      },
+      {
+        "token": "molta",
+        "startTime": 785755,
+        "endTime": 785915
+      },
+      {
+        "token": "fame",
+        "startTime": 785915,
+        "endTime": 786255
+      },
+      {
+        "token": "adesso",
+        "startTime": 786255,
+        "endTime": 792795
+      }
+    ]
+  },
+  {
+    "sentence_text": "buon appetito siamo tornati nel mio studio che conoscete benissimo",
+    "translations": {
+      "en": "Enjoy your meal. We're back in my studio, which you know very well,"
+    },
+    "segments": [
+      {
+        "token": "buon",
+        "startTime": 792795,
+        "endTime": 793075
+      },
+      {
+        "token": "appetito",
+        "startTime": 793075,
+        "endTime": 795395
+      },
+      {
+        "token": "siamo",
+        "startTime": 795395,
+        "endTime": 795655
+      },
+      {
+        "token": "tornati",
+        "startTime": 795655,
+        "endTime": 796295
+      },
+      {
+        "token": "nel",
+        "startTime": 796295,
+        "endTime": 796455
+      },
+      {
+        "token": "mio",
+        "startTime": 796455,
+        "endTime": 796675
+      },
+      {
+        "token": "studio",
+        "startTime": 796675,
+        "endTime": 797115
+      },
+      {
+        "token": "che",
+        "startTime": 797115,
+        "endTime": 797395
+      },
+      {
+        "token": "conoscete",
+        "startTime": 797395,
+        "endTime": 798115
+      },
+      {
+        "token": "benissimo",
+        "startTime": 798115,
+        "endTime": 798915
+      }
+    ]
+  },
+  {
+    "sentence_text": "perché adesso facciamo un esercizio di vocabolario insieme per",
+    "translations": {
+      "en": "because now we're going to do a vocabulary exercise together to"
+    },
+    "segments": [
+      {
+        "token": "perché",
+        "startTime": 798915,
+        "endTime": 799575
+      },
+      {
+        "token": "adesso",
+        "startTime": 799575,
+        "endTime": 800115
+      },
+      {
+        "token": "facciamo",
+        "startTime": 800115,
+        "endTime": 800815
+      },
+      {
+        "token": "un",
+        "startTime": 800815,
+        "endTime": 801155
+      },
+      {
+        "token": "esercizio",
+        "startTime": 801155,
+        "endTime": 802075
+      },
+      {
+        "token": "di",
+        "startTime": 802075,
+        "endTime": 802375
+      },
+      {
+        "token": "vocabolario",
+        "startTime": 802375,
+        "endTime": 803375
+      },
+      {
+        "token": "insieme",
+        "startTime": 803375,
+        "endTime": 803695
+      },
+      {
+        "token": "per",
+        "startTime": 803695,
+        "endTime": 804835
+      }
+    ]
+  },
+  {
+    "sentence_text": "vedere se prima mentre io cucinavo voi mi avete ascoltato bene oppure no",
+    "translations": {
+      "en": "see if, earlier while I was cooking, you listened to me carefully or not."
+    },
+    "segments": [
+      {
+        "token": "vedere",
+        "startTime": 804835,
+        "endTime": 805235
+      },
+      {
+        "token": "se",
+        "startTime": 805235,
+        "endTime": 805615
+      },
+      {
+        "token": "prima",
+        "startTime": 805615,
+        "endTime": 806135
+      },
+      {
+        "token": "mentre",
+        "startTime": 806135,
+        "endTime": 806595
+      },
+      {
+        "token": "io",
+        "startTime": 806595,
+        "endTime": 806895
+      },
+      {
+        "token": "cucinavo",
+        "startTime": 806895,
+        "endTime": 807715
+      },
+      {
+        "token": "voi",
+        "startTime": 807715,
+        "endTime": 808475
+      },
+      {
+        "token": "mi",
+        "startTime": 808475,
+        "endTime": 808695
+      },
+      {
+        "token": "avete",
+        "startTime": 808695,
+        "endTime": 808915
+      },
+      {
+        "token": "ascoltato",
+        "startTime": 808915,
+        "endTime": 809735
+      },
+      {
+        "token": "bene",
+        "startTime": 809735,
+        "endTime": 810135
+      },
+      {
+        "token": "oppure",
+        "startTime": 810135,
+        "endTime": 810895
+      },
+      {
+        "token": "no",
+        "startTime": 810895,
+        "endTime": 811835
+      }
+    ]
+  },
+  {
+    "sentence_text": "L'esercizio che facciamo adesso l'ho trovato su un manuale che mi ha gentilmente mandato",
+    "translations": {
+      "en": "The exercise we're doing now I found in a textbook that was kindly sent to me by"
+    },
+    "segments": [
+      {
+        "token": "L'esercizio",
+        "startTime": 811835,
+        "endTime": 812635
+      },
+      {
+        "token": "che",
+        "startTime": 812635,
+        "endTime": 812775
+      },
+      {
+        "token": "facciamo",
+        "startTime": 812775,
+        "endTime": 813215
+      },
+      {
+        "token": "adesso",
+        "startTime": 813215,
+        "endTime": 813675
+      },
+      {
+        "token": "l'ho",
+        "startTime": 813675,
+        "endTime": 814015
+      },
+      {
+        "token": "trovato",
+        "startTime": 814015,
+        "endTime": 814575
+      },
+      {
+        "token": "su",
+        "startTime": 814575,
+        "endTime": 814835
+      },
+      {
+        "token": "un",
+        "startTime": 814835,
+        "endTime": 814955
+      },
+      {
+        "token": "manuale",
+        "startTime": 814955,
+        "endTime": 815555
+      },
+      {
+        "token": "che",
+        "startTime": 815555,
+        "endTime": 815695
+      },
+      {
+        "token": "mi",
+        "startTime": 815695,
+        "endTime": 815835
+      },
+      {
+        "token": "ha",
+        "startTime": 815835,
+        "endTime": 815915
+      },
+      {
+        "token": "gentilmente",
+        "startTime": 815915,
+        "endTime": 816635
+      },
+      {
+        "token": "mandato",
+        "startTime": 816635,
+        "endTime": 817375
+      }
+    ]
+  },
+  {
+    "sentence_text": "la casa editrice Alma Edizioni,",
+    "translations": {
+      "en": "the publisher Alma Edizioni,"
+    },
+    "segments": [
+      {
+        "token": "la",
+        "startTime": 817375,
+        "endTime": 817835
+      },
+      {
+        "token": "casa",
+        "startTime": 817835,
+        "endTime": 818195
+      },
+      {
+        "token": "editrice",
+        "startTime": 818195,
+        "endTime": 818775
+      },
+      {
+        "token": "Alma",
+        "startTime": 818775,
+        "endTime": 819315
+      },
+      {
+        "token": "Edizioni,",
+        "startTime": 819315,
+        "endTime": 820535
+      }
+    ]
+  },
+  {
+    "sentence_text": "grazie grazie mille e questo manuale si chiama 10 livello B2.",
+    "translations": {
+      "en": "thanks, thank you so much, and this textbook is called 10, level B2."
+    },
+    "segments": [
+      {
+        "token": "grazie",
+        "startTime": 820535,
+        "endTime": 820935
+      },
+      {
+        "token": "grazie",
+        "startTime": 820935,
+        "endTime": 821395
+      },
+      {
+        "token": "mille",
+        "startTime": 821395,
+        "endTime": 821935
+      },
+      {
+        "token": "e",
+        "startTime": 821935,
+        "endTime": 822375
+      },
+      {
+        "token": "questo",
+        "startTime": 822375,
+        "endTime": 822815
+      },
+      {
+        "token": "manuale",
+        "startTime": 822815,
+        "endTime": 823535
+      },
+      {
+        "token": "si",
+        "startTime": 823535,
+        "endTime": 823735
+      },
+      {
+        "token": "chiama",
+        "startTime": 823735,
+        "endTime": 824055
+      },
+      {
+        "token": "10",
+        "startTime": 824055,
+        "endTime": 824675
+      },
+      {
+        "token": "livello",
+        "startTime": 824675,
+        "endTime": 825675
+      },
+      {
+        "token": "B2.",
+        "startTime": 825675,
+        "endTime": 826595
+      }
+    ]
+  },
+  {
+    "sentence_text": "La casa editrice non mi paga per realizzare questo video ma mi ha gentilmente",
+    "translations": {
+      "en": "The publisher isn't paying me to make this video, but they kindly"
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 826595,
+        "endTime": 826755
+      },
+      {
+        "token": "casa",
+        "startTime": 826755,
+        "endTime": 826995
+      },
+      {
+        "token": "editrice",
+        "startTime": 826995,
+        "endTime": 827415
+      },
+      {
+        "token": "non",
+        "startTime": 827415,
+        "endTime": 827695
+      },
+      {
+        "token": "mi",
+        "startTime": 827695,
+        "endTime": 827895
+      },
+      {
+        "token": "paga",
+        "startTime": 827895,
+        "endTime": 828175
+      },
+      {
+        "token": "per",
+        "startTime": 828175,
+        "endTime": 828375
+      },
+      {
+        "token": "realizzare",
+        "startTime": 828375,
+        "endTime": 828915
+      },
+      {
+        "token": "questo",
+        "startTime": 828915,
+        "endTime": 829275
+      },
+      {
+        "token": "video",
+        "startTime": 829275,
+        "endTime": 829715
+      },
+      {
+        "token": "ma",
+        "startTime": 829715,
+        "endTime": 830035
+      },
+      {
+        "token": "mi",
+        "startTime": 830035,
+        "endTime": 830255
+      },
+      {
+        "token": "ha",
+        "startTime": 830255,
+        "endTime": 830335
+      },
+      {
+        "token": "gentilmente",
+        "startTime": 830335,
+        "endTime": 831135
+      }
+    ]
+  },
+  {
+    "sentence_text": "dato due codici sconto per voi.",
+    "translations": {
+      "en": "gave me two discount codes for you."
+    },
+    "segments": [
+      {
+        "token": "dato",
+        "startTime": 831135,
+        "endTime": 831555
+      },
+      {
+        "token": "due",
+        "startTime": 831555,
+        "endTime": 832055
+      },
+      {
+        "token": "codici",
+        "startTime": 832055,
+        "endTime": 832635
+      },
+      {
+        "token": "sconto",
+        "startTime": 832635,
+        "endTime": 833215
+      },
+      {
+        "token": "per",
+        "startTime": 833215,
+        "endTime": 833535
+      },
+      {
+        "token": "voi.",
+        "startTime": 833535,
+        "endTime": 834375
+      }
+    ]
+  },
+  {
+    "sentence_text": "Giù nel box informazioni trovate tutti i dettagli.",
+    "translations": {
+      "en": "Down in the info box you'll find all the details."
+    },
+    "segments": [
+      {
+        "token": "Giù",
+        "startTime": 834375,
+        "endTime": 834595
+      },
+      {
+        "token": "nel",
+        "startTime": 834595,
+        "endTime": 834895
+      },
+      {
+        "token": "box",
+        "startTime": 834895,
+        "endTime": 835155
+      },
+      {
+        "token": "informazioni",
+        "startTime": 835155,
+        "endTime": 836095
+      },
+      {
+        "token": "trovate",
+        "startTime": 836095,
+        "endTime": 836595
+      },
+      {
+        "token": "tutti",
+        "startTime": 836595,
+        "endTime": 837055
+      },
+      {
+        "token": "i",
+        "startTime": 837055,
+        "endTime": 837135
+      },
+      {
+        "token": "dettagli.",
+        "startTime": 837135,
+        "endTime": 837855
+      }
+    ]
+  },
+  {
+    "sentence_text": "Avete uno sconto del 10% su tutto il catalogo cartaceo",
+    "translations": {
+      "en": "You get a 10% discount on the entire printed catalog"
+    },
+    "segments": [
+      {
+        "token": "Avete",
+        "startTime": 837855,
+        "endTime": 838275
+      },
+      {
+        "token": "uno",
+        "startTime": 838275,
+        "endTime": 838615
+      },
+      {
+        "token": "sconto",
+        "startTime": 838615,
+        "endTime": 839015
+      },
+      {
+        "token": "del",
+        "startTime": 839015,
+        "endTime": 839215
+      },
+      {
+        "token": "10%",
+        "startTime": 839215,
+        "endTime": 839855
+      },
+      {
+        "token": "su",
+        "startTime": 839855,
+        "endTime": 840375
+      },
+      {
+        "token": "tutto",
+        "startTime": 840375,
+        "endTime": 840675
+      },
+      {
+        "token": "il",
+        "startTime": 840675,
+        "endTime": 840855
+      },
+      {
+        "token": "catalogo",
+        "startTime": 840855,
+        "endTime": 841515
+      },
+      {
+        "token": "cartaceo",
+        "startTime": 841515,
+        "endTime": 842335
+      }
+    ]
+  },
+  {
+    "sentence_text": "e uno sconto del 30% sul prodotto ciao.",
+    "translations": {
+      "en": "and a 30% discount on the product ciao."
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 842335,
+        "endTime": 842735
+      },
+      {
+        "token": "uno",
+        "startTime": 842735,
+        "endTime": 842955
+      },
+      {
+        "token": "sconto",
+        "startTime": 842955,
+        "endTime": 843415
+      },
+      {
+        "token": "del",
+        "startTime": 843415,
+        "endTime": 843615
+      },
+      {
+        "token": "30%",
+        "startTime": 843615,
+        "endTime": 844355
+      },
+      {
+        "token": "sul",
+        "startTime": 844355,
+        "endTime": 845055
+      },
+      {
+        "token": "prodotto",
+        "startTime": 845055,
+        "endTime": 845655
+      },
+      {
+        "token": "ciao.",
+        "startTime": 845655,
+        "endTime": 846955
+      }
+    ]
+  },
+  {
+    "sentence_text": "Qui abbiamo i 12 verbi che io ho usato.",
+    "translations": {
+      "en": "Here we have the 12 verbs that I used."
+    },
+    "segments": [
+      {
+        "token": "Qui",
+        "startTime": 846955,
+        "endTime": 847115
+      },
+      {
+        "token": "abbiamo",
+        "startTime": 847115,
+        "endTime": 847655
+      },
+      {
+        "token": "i",
+        "startTime": 847655,
+        "endTime": 847895
+      },
+      {
+        "token": "12",
+        "startTime": 847895,
+        "endTime": 848235
+      },
+      {
+        "token": "verbi",
+        "startTime": 848235,
+        "endTime": 848835
+      },
+      {
+        "token": "che",
+        "startTime": 848835,
+        "endTime": 849015
+      },
+      {
+        "token": "io",
+        "startTime": 849015,
+        "endTime": 849315
+      },
+      {
+        "token": "ho",
+        "startTime": 849315,
+        "endTime": 849435
+      },
+      {
+        "token": "usato.",
+        "startTime": 849435,
+        "endTime": 850375
+      }
+    ]
+  },
+  {
+    "sentence_text": "Potete mettere in pausa il video per rispondere e cercate di indovinare",
+    "translations": {
+      "en": "You can pause the video to answer and try to guess"
+    },
+    "segments": [
+      {
+        "token": "Potete",
+        "startTime": 850375,
+        "endTime": 850695
+      },
+      {
+        "token": "mettere",
+        "startTime": 850695,
+        "endTime": 851175
+      },
+      {
+        "token": "in",
+        "startTime": 851175,
+        "endTime": 851535
+      },
+      {
+        "token": "pausa",
+        "startTime": 851535,
+        "endTime": 851935
+      },
+      {
+        "token": "il",
+        "startTime": 851935,
+        "endTime": 852295
+      },
+      {
+        "token": "video",
+        "startTime": 852295,
+        "endTime": 852675
+      },
+      {
+        "token": "per",
+        "startTime": 852675,
+        "endTime": 853035
+      },
+      {
+        "token": "rispondere",
+        "startTime": 853035,
+        "endTime": 853915
+      },
+      {
+        "token": "e",
+        "startTime": 853915,
+        "endTime": 854335
+      },
+      {
+        "token": "cercate",
+        "startTime": 854335,
+        "endTime": 855175
+      },
+      {
+        "token": "di",
+        "startTime": 855175,
+        "endTime": 855375
+      },
+      {
+        "token": "indovinare",
+        "startTime": 855375,
+        "endTime": 856355
+      }
+    ]
+  },
+  {
+    "sentence_text": "tutti e dodici i verbi. grattugiare, mescolare, saltare, scaldare, scolare, servire,",
+    "translations": {
+      "en": "all twelve verbs. grate, mix, sauté, heat, drain, serve,"
+    },
+    "segments": [
+      {
+        "token": "tutti",
+        "startTime": 856355,
+        "endTime": 856975
+      },
+      {
+        "token": "e",
+        "startTime": 856975,
+        "endTime": 857215
+      },
+      {
+        "token": "dodici",
+        "startTime": 857215,
+        "endTime": 857835
+      },
+      {
+        "token": "i",
+        "startTime": 857835,
+        "endTime": 858175
+      },
+      {
+        "token": "verbi.",
+        "startTime": 858175,
+        "endTime": 881235
+      },
+      {
+        "token": "grattugiare,",
+        "startTime": 881235,
+        "endTime": 882735
+      },
+      {
+        "token": "mescolare,",
+        "startTime": 882735,
+        "endTime": 891835
+      },
+      {
+        "token": "saltare,",
+        "startTime": 891835,
+        "endTime": 892935
+      },
+      {
+        "token": "scaldare,",
+        "startTime": 892935,
+        "endTime": 898635
+      },
+      {
+        "token": "scolare,",
+        "startTime": 898635,
+        "endTime": 903235
+      },
+      {
+        "token": "servire,",
+        "startTime": 903235,
+        "endTime": 912475
+      }
+    ]
+  },
+  {
+    "sentence_text": "tagliare versare li avete indovinati tutti?",
+    "translations": {
+      "en": "cut, pour, did you guess them all?"
+    },
+    "segments": [
+      {
+        "token": "tagliare",
+        "startTime": 912475,
+        "endTime": 916295
+      },
+      {
+        "token": "versare",
+        "startTime": 916295,
+        "endTime": 917355
+      },
+      {
+        "token": "li",
+        "startTime": 917355,
+        "endTime": 917735
+      },
+      {
+        "token": "avete",
+        "startTime": 917735,
+        "endTime": 917995
+      },
+      {
+        "token": "indovinati",
+        "startTime": 917995,
+        "endTime": 918595
+      },
+      {
+        "token": "tutti?",
+        "startTime": 918595,
+        "endTime": 920115
+      }
+    ]
+  },
+  {
+    "sentence_text": "bene grazie mille per essere arrivati alla fine di questo video un po' particolare",
+    "translations": {
+      "en": "well, thank you so much for making it to the end of this somewhat special video"
+    },
+    "segments": [
+      {
+        "token": "bene",
+        "startTime": 920115,
+        "endTime": 920315
+      },
+      {
+        "token": "grazie",
+        "startTime": 920315,
+        "endTime": 920815
+      },
+      {
+        "token": "mille",
+        "startTime": 920815,
+        "endTime": 921195
+      },
+      {
+        "token": "per",
+        "startTime": 921195,
+        "endTime": 921395
+      },
+      {
+        "token": "essere",
+        "startTime": 921395,
+        "endTime": 921715
+      },
+      {
+        "token": "arrivati",
+        "startTime": 921715,
+        "endTime": 922255
+      },
+      {
+        "token": "alla",
+        "startTime": 922255,
+        "endTime": 922415
+      },
+      {
+        "token": "fine",
+        "startTime": 922415,
+        "endTime": 922695
+      },
+      {
+        "token": "di",
+        "startTime": 922695,
+        "endTime": 922875
+      },
+      {
+        "token": "questo",
+        "startTime": 922875,
+        "endTime": 923235
+      },
+      {
+        "token": "video",
+        "startTime": 923235,
+        "endTime": 923555
+      },
+      {
+        "token": "un",
+        "startTime": 923555,
+        "endTime": 923775
+      },
+      {
+        "token": "po'",
+        "startTime": 923775,
+        "endTime": 923935
+      },
+      {
+        "token": "particolare",
+        "startTime": 923935,
+        "endTime": 924755
+      }
+    ]
+  },
+  {
+    "sentence_text": "un po' diverso dal solito in cui ho cucinato con voi fatemi",
+    "translations": {
+      "en": "a bit different from usual, where I cooked with you. Let me"
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 924755,
+        "endTime": 925035
+      },
+      {
+        "token": "po'",
+        "startTime": 925035,
+        "endTime": 925235
+      },
+      {
+        "token": "diverso",
+        "startTime": 925235,
+        "endTime": 925775
+      },
+      {
+        "token": "dal",
+        "startTime": 925775,
+        "endTime": 926075
+      },
+      {
+        "token": "solito",
+        "startTime": 926075,
+        "endTime": 926655
+      },
+      {
+        "token": "in",
+        "startTime": 926655,
+        "endTime": 926955
+      },
+      {
+        "token": "cui",
+        "startTime": 926955,
+        "endTime": 927155
+      },
+      {
+        "token": "ho",
+        "startTime": 927155,
+        "endTime": 927295
+      },
+      {
+        "token": "cucinato",
+        "startTime": 927295,
+        "endTime": 927995
+      },
+      {
+        "token": "con",
+        "startTime": 927995,
+        "endTime": 928355
+      },
+      {
+        "token": "voi",
+        "startTime": 928355,
+        "endTime": 928775
+      },
+      {
+        "token": "fatemi",
+        "startTime": 928775,
+        "endTime": 929495
+      }
+    ]
+  },
+  {
+    "sentence_text": "sapere nei commenti se volete altri video simili in futuro io",
+    "translations": {
+      "en": "know in the comments if you want more similar videos in the future. I"
+    },
+    "segments": [
+      {
+        "token": "sapere",
+        "startTime": 929495,
+        "endTime": 929875
+      },
+      {
+        "token": "nei",
+        "startTime": 929875,
+        "endTime": 930075
+      },
+      {
+        "token": "commenti",
+        "startTime": 930075,
+        "endTime": 930695
+      },
+      {
+        "token": "se",
+        "startTime": 930695,
+        "endTime": 930975
+      },
+      {
+        "token": "volete",
+        "startTime": 930975,
+        "endTime": 931475
+      },
+      {
+        "token": "altri",
+        "startTime": 931475,
+        "endTime": 931875
+      },
+      {
+        "token": "video",
+        "startTime": 931875,
+        "endTime": 932235
+      },
+      {
+        "token": "simili",
+        "startTime": 932235,
+        "endTime": 932795
+      },
+      {
+        "token": "in",
+        "startTime": 932795,
+        "endTime": 933035
+      },
+      {
+        "token": "futuro",
+        "startTime": 933035,
+        "endTime": 933535
+      },
+      {
+        "token": "io",
+        "startTime": 933535,
+        "endTime": 934135
+      }
+    ]
+  },
+  {
+    "sentence_text": "vi ringrazio ancora e se vi è piaciuto questo video ricordatevi",
+    "translations": {
+      "en": "thank you again, and if you liked this video, remember"
+    },
+    "segments": [
+      {
+        "token": "vi",
+        "startTime": 934135,
+        "endTime": 934255
+      },
+      {
+        "token": "ringrazio",
+        "startTime": 934255,
+        "endTime": 934735
+      },
+      {
+        "token": "ancora",
+        "startTime": 934735,
+        "endTime": 935035
+      },
+      {
+        "token": "e",
+        "startTime": 935035,
+        "endTime": 935355
+      },
+      {
+        "token": "se",
+        "startTime": 935355,
+        "endTime": 935535
+      },
+      {
+        "token": "vi",
+        "startTime": 935535,
+        "endTime": 935655
+      },
+      {
+        "token": "è",
+        "startTime": 935655,
+        "endTime": 935755
+      },
+      {
+        "token": "piaciuto",
+        "startTime": 935755,
+        "endTime": 936135
+      },
+      {
+        "token": "questo",
+        "startTime": 936135,
+        "endTime": 936515
+      },
+      {
+        "token": "video",
+        "startTime": 936515,
+        "endTime": 936995
+      },
+      {
+        "token": "ricordatevi",
+        "startTime": 936995,
+        "endTime": 937975
+      }
+    ]
+  },
+  {
+    "sentence_text": "di mettere un mi piace e di iscrivervi al canale grazie",
+    "translations": {
+      "en": "to hit like and subscribe to the channel. Thanks"
+    },
+    "segments": [
+      {
+        "token": "di",
+        "startTime": 937975,
+        "endTime": 938135
+      },
+      {
+        "token": "mettere",
+        "startTime": 938135,
+        "endTime": 938595
+      },
+      {
+        "token": "un",
+        "startTime": 938595,
+        "endTime": 938815
+      },
+      {
+        "token": "mi",
+        "startTime": 938815,
+        "endTime": 938935
+      },
+      {
+        "token": "piace",
+        "startTime": 938935,
+        "endTime": 939155
+      },
+      {
+        "token": "e",
+        "startTime": 939155,
+        "endTime": 939675
+      },
+      {
+        "token": "di",
+        "startTime": 939675,
+        "endTime": 939935
+      },
+      {
+        "token": "iscrivervi",
+        "startTime": 939935,
+        "endTime": 940775
+      },
+      {
+        "token": "al",
+        "startTime": 940775,
+        "endTime": 941035
+      },
+      {
+        "token": "canale",
+        "startTime": 941035,
+        "endTime": 941515
+      },
+      {
+        "token": "grazie",
+        "startTime": 941515,
+        "endTime": 942475
+      }
+    ]
+  },
+  {
+    "sentence_text": "e noi ci vediamo alla prossima video lezione",
+    "translations": {
+      "en": "and see you in the next video lesson."
+    },
+    "segments": [
+      {
+        "token": "e",
+        "startTime": 942475,
+        "endTime": 942735
+      },
+      {
+        "token": "noi",
+        "startTime": 942735,
+        "endTime": 942955
+      },
+      {
+        "token": "ci",
+        "startTime": 942955,
+        "endTime": 943255
+      },
+      {
+        "token": "vediamo",
+        "startTime": 943255,
+        "endTime": 943755
+      },
+      {
+        "token": "alla",
+        "startTime": 943755,
+        "endTime": 943975
+      },
+      {
+        "token": "prossima",
+        "startTime": 943975,
+        "endTime": 944595
+      },
+      {
+        "token": "video",
+        "startTime": 944595,
+        "endTime": 945015
+      },
+      {
+        "token": "lezione",
+        "startTime": 945015,
+        "endTime": 945535
+      }
+    ]
+  }
+]
