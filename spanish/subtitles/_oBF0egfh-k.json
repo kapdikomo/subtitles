@@ -1,0 +1,6522 @@
+[
+  {
+    "sentence_text": "¿Alguna vez te ha pasado que",
+    "translations": {
+      "en": "Have you ever had it happen that"
+    },
+    "segments": [
+      {
+        "token": "¿Alguna",
+        "startTime": 20,
+        "endTime": 360
+      },
+      {
+        "token": "vez",
+        "startTime": 360,
+        "endTime": 500
+      },
+      {
+        "token": "te",
+        "startTime": 500,
+        "endTime": 640
+      },
+      {
+        "token": "ha",
+        "startTime": 640,
+        "endTime": 660
+      },
+      {
+        "token": "pasado",
+        "startTime": 660,
+        "endTime": 920
+      },
+      {
+        "token": "que",
+        "startTime": 920,
+        "endTime": 1360
+      }
+    ]
+  },
+  {
+    "sentence_text": "te obsesionas con algo durante semanas o meses y de repente pierdes el interés?",
+    "translations": {
+      "en": "you get obsessed with something for weeks or months and suddenly lose interest?"
+    },
+    "segments": [
+      {
+        "token": "te",
+        "startTime": 1360,
+        "endTime": 1480
+      },
+      {
+        "token": "obsesionas",
+        "startTime": 1480,
+        "endTime": 1920
+      },
+      {
+        "token": "con",
+        "startTime": 1920,
+        "endTime": 2060
+      },
+      {
+        "token": "algo",
+        "startTime": 2060,
+        "endTime": 2260
+      },
+      {
+        "token": "durante",
+        "startTime": 2260,
+        "endTime": 2640
+      },
+      {
+        "token": "semanas",
+        "startTime": 2640,
+        "endTime": 3060
+      },
+      {
+        "token": "o",
+        "startTime": 3060,
+        "endTime": 3300
+      },
+      {
+        "token": "meses",
+        "startTime": 3300,
+        "endTime": 3540
+      },
+      {
+        "token": "y",
+        "startTime": 3540,
+        "endTime": 4180
+      },
+      {
+        "token": "de",
+        "startTime": 4180,
+        "endTime": 4300
+      },
+      {
+        "token": "repente",
+        "startTime": 4300,
+        "endTime": 4300
+      },
+      {
+        "token": "pierdes",
+        "startTime": 4300,
+        "endTime": 5080
+      },
+      {
+        "token": "el",
+        "startTime": 5080,
+        "endTime": 5280
+      },
+      {
+        "token": "interés?",
+        "startTime": 5280,
+        "endTime": 5800
+      }
+    ]
+  },
+  {
+    "sentence_text": "Un día quieres aprender fotografía, al siguiente te da por la historia.",
+    "translations": {
+      "en": "One day you want to learn photography, the next you're into history."
+    },
+    "segments": [
+      {
+        "token": "Un",
+        "startTime": 5800,
+        "endTime": 6840
+      },
+      {
+        "token": "día",
+        "startTime": 6840,
+        "endTime": 7040
+      },
+      {
+        "token": "quieres",
+        "startTime": 7040,
+        "endTime": 7300
+      },
+      {
+        "token": "aprender",
+        "startTime": 7300,
+        "endTime": 7640
+      },
+      {
+        "token": "fotografía,",
+        "startTime": 7640,
+        "endTime": 8720
+      },
+      {
+        "token": "al",
+        "startTime": 8720,
+        "endTime": 8820
+      },
+      {
+        "token": "siguiente",
+        "startTime": 8820,
+        "endTime": 9140
+      },
+      {
+        "token": "te",
+        "startTime": 9140,
+        "endTime": 9460
+      },
+      {
+        "token": "da",
+        "startTime": 9460,
+        "endTime": 9560
+      },
+      {
+        "token": "por",
+        "startTime": 9560,
+        "endTime": 9720
+      },
+      {
+        "token": "la",
+        "startTime": 9720,
+        "endTime": 9840
+      },
+      {
+        "token": "historia.",
+        "startTime": 9840,
+        "endTime": 10820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Meses después estás viendo vídeos sobre astronomía,",
+    "translations": {
+      "en": "Months later you're watching videos about astronomy,"
+    },
+    "segments": [
+      {
+        "token": "Meses",
+        "startTime": 10820,
+        "endTime": 11120
+      },
+      {
+        "token": "después",
+        "startTime": 11120,
+        "endTime": 11460
+      },
+      {
+        "token": "estás",
+        "startTime": 11460,
+        "endTime": 12140
+      },
+      {
+        "token": "viendo",
+        "startTime": 12140,
+        "endTime": 12360
+      },
+      {
+        "token": "vídeos",
+        "startTime": 12360,
+        "endTime": 12680
+      },
+      {
+        "token": "sobre",
+        "startTime": 12680,
+        "endTime": 12960
+      },
+      {
+        "token": "astronomía,",
+        "startTime": 12960,
+        "endTime": 13460
+      }
+    ]
+  },
+  {
+    "sentence_text": "entrenando un deporte nuevo o pensando en aprender un idioma.",
+    "translations": {
+      "en": "training for a new sport or thinking about learning a language."
+    },
+    "segments": [
+      {
+        "token": "entrenando",
+        "startTime": 13460,
+        "endTime": 14320
+      },
+      {
+        "token": "un",
+        "startTime": 14320,
+        "endTime": 14420
+      },
+      {
+        "token": "deporte",
+        "startTime": 14420,
+        "endTime": 14700
+      },
+      {
+        "token": "nuevo",
+        "startTime": 14700,
+        "endTime": 14980
+      },
+      {
+        "token": "o",
+        "startTime": 14980,
+        "endTime": 15400
+      },
+      {
+        "token": "pensando",
+        "startTime": 15400,
+        "endTime": 16020
+      },
+      {
+        "token": "en",
+        "startTime": 16020,
+        "endTime": 16219
+      },
+      {
+        "token": "aprender",
+        "startTime": 16219,
+        "endTime": 16480
+      },
+      {
+        "token": "un",
+        "startTime": 16480,
+        "endTime": 16640
+      },
+      {
+        "token": "idioma.",
+        "startTime": 16640,
+        "endTime": 17360
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y mientras tanto, alrededor de ti parece",
+    "translations": {
+      "en": "And meanwhile, around you it seems"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 17360,
+        "endTime": 17800
+      },
+      {
+        "token": "mientras",
+        "startTime": 17800,
+        "endTime": 18040
+      },
+      {
+        "token": "tanto,",
+        "startTime": 18040,
+        "endTime": 18900
+      },
+      {
+        "token": "alrededor",
+        "startTime": 18900,
+        "endTime": 19220
+      },
+      {
+        "token": "de",
+        "startTime": 19220,
+        "endTime": 19520
+      },
+      {
+        "token": "ti",
+        "startTime": 19520,
+        "endTime": 19660
+      },
+      {
+        "token": "parece",
+        "startTime": 19660,
+        "endTime": 20300
+      }
+    ]
+  },
+  {
+    "sentence_text": "que todo el mundo tiene la vida mucho más clara.",
+    "translations": {
+      "en": "like everyone else has their life much more figured out."
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 20300,
+        "endTime": 20540
+      },
+      {
+        "token": "todo",
+        "startTime": 20540,
+        "endTime": 20780
+      },
+      {
+        "token": "el",
+        "startTime": 20780,
+        "endTime": 20920
+      },
+      {
+        "token": "mundo",
+        "startTime": 20920,
+        "endTime": 20920
+      },
+      {
+        "token": "tiene",
+        "startTime": 20920,
+        "endTime": 21480
+      },
+      {
+        "token": "la",
+        "startTime": 21480,
+        "endTime": 21620
+      },
+      {
+        "token": "vida",
+        "startTime": 21620,
+        "endTime": 21800
+      },
+      {
+        "token": "mucho",
+        "startTime": 21800,
+        "endTime": 22240
+      },
+      {
+        "token": "más",
+        "startTime": 22240,
+        "endTime": 22360
+      },
+      {
+        "token": "clara.",
+        "startTime": 22360,
+        "endTime": 22700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hay personas que llevan 10 años dedicándose a lo mismo, la misma profesión,",
+    "translations": {
+      "en": "There are people who have spent 10 years doing the same thing, the same profession,"
+    },
+    "segments": [
+      {
+        "token": "Hay",
+        "startTime": 22700,
+        "endTime": 23880
+      },
+      {
+        "token": "personas",
+        "startTime": 23880,
+        "endTime": 24220
+      },
+      {
+        "token": "que",
+        "startTime": 24220,
+        "endTime": 24420
+      },
+      {
+        "token": "llevan",
+        "startTime": 24420,
+        "endTime": 24660
+      },
+      {
+        "token": "10",
+        "startTime": 24660,
+        "endTime": 24940
+      },
+      {
+        "token": "años",
+        "startTime": 24940,
+        "endTime": 25280
+      },
+      {
+        "token": "dedicándose",
+        "startTime": 25280,
+        "endTime": 25820
+      },
+      {
+        "token": "a",
+        "startTime": 25820,
+        "endTime": 25900
+      },
+      {
+        "token": "lo",
+        "startTime": 25900,
+        "endTime": 25980
+      },
+      {
+        "token": "mismo,",
+        "startTime": 25980,
+        "endTime": 26920
+      },
+      {
+        "token": "la",
+        "startTime": 26920,
+        "endTime": 26940
+      },
+      {
+        "token": "misma",
+        "startTime": 26940,
+        "endTime": 27140
+      },
+      {
+        "token": "profesión,",
+        "startTime": 27140,
+        "endTime": 28160
+      }
+    ]
+  },
+  {
+    "sentence_text": "el mismo hobby, el mismo camino.",
+    "translations": {
+      "en": "the same hobby, the same path."
+    },
+    "segments": [
+      {
+        "token": "el",
+        "startTime": 28160,
+        "endTime": 28240
+      },
+      {
+        "token": "mismo",
+        "startTime": 28240,
+        "endTime": 28460
+      },
+      {
+        "token": "hobby,",
+        "startTime": 28460,
+        "endTime": 29120
+      },
+      {
+        "token": "el",
+        "startTime": 29120,
+        "endTime": 29220
+      },
+      {
+        "token": "mismo",
+        "startTime": 29220,
+        "endTime": 29440
+      },
+      {
+        "token": "camino.",
+        "startTime": 29440,
+        "endTime": 30060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y tú no.",
+    "translations": {
+      "en": "And you haven't."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 30060,
+        "endTime": 30560
+      },
+      {
+        "token": "tú",
+        "startTime": 30560,
+        "endTime": 30720
+      },
+      {
+        "token": "no.",
+        "startTime": 30720,
+        "endTime": 31120
+      }
+    ]
+  },
+  {
+    "sentence_text": "Tú sientes que siempre estás empezando algo nuevo.",
+    "translations": {
+      "en": "You feel like you're always starting something new."
+    },
+    "segments": [
+      {
+        "token": "Tú",
+        "startTime": 31120,
+        "endTime": 31720
+      },
+      {
+        "token": "sientes",
+        "startTime": 31720,
+        "endTime": 32080
+      },
+      {
+        "token": "que",
+        "startTime": 32080,
+        "endTime": 32380
+      },
+      {
+        "token": "siempre",
+        "startTime": 32380,
+        "endTime": 32640
+      },
+      {
+        "token": "estás",
+        "startTime": 32640,
+        "endTime": 32640
+      },
+      {
+        "token": "empezando",
+        "startTime": 32640,
+        "endTime": 33440
+      },
+      {
+        "token": "algo",
+        "startTime": 33440,
+        "endTime": 33620
+      },
+      {
+        "token": "nuevo.",
+        "startTime": 33620,
+        "endTime": 34700
+      }
+    ]
+  },
+  {
+    "sentence_text": "Por eso muchas personas con demasiados intereses viven con una sensación constante de culpa.",
+    "translations": {
+      "en": "That's why many people with too many interests live with a constant sense of guilt."
+    },
+    "segments": [
+      {
+        "token": "Por",
+        "startTime": 34700,
+        "endTime": 34940
+      },
+      {
+        "token": "eso",
+        "startTime": 34940,
+        "endTime": 35160
+      },
+      {
+        "token": "muchas",
+        "startTime": 35160,
+        "endTime": 35540
+      },
+      {
+        "token": "personas",
+        "startTime": 35540,
+        "endTime": 36000
+      },
+      {
+        "token": "con",
+        "startTime": 36000,
+        "endTime": 36260
+      },
+      {
+        "token": "demasiados",
+        "startTime": 36260,
+        "endTime": 36760
+      },
+      {
+        "token": "intereses",
+        "startTime": 36760,
+        "endTime": 37400
+      },
+      {
+        "token": "viven",
+        "startTime": 37400,
+        "endTime": 38000
+      },
+      {
+        "token": "con",
+        "startTime": 38000,
+        "endTime": 38240
+      },
+      {
+        "token": "una",
+        "startTime": 38240,
+        "endTime": 38360
+      },
+      {
+        "token": "sensación",
+        "startTime": 38360,
+        "endTime": 38360
+      },
+      {
+        "token": "constante",
+        "startTime": 38360,
+        "endTime": 39220
+      },
+      {
+        "token": "de",
+        "startTime": 39220,
+        "endTime": 39460
+      },
+      {
+        "token": "culpa.",
+        "startTime": 39460,
+        "endTime": 40600
+      }
+    ]
+  },
+  {
+    "sentence_text": "Miren hacia atrás y ven libros a medio leer, cursos sin terminar, proyectos abandonados,",
+    "translations": {
+      "en": "They look back and see half-read books, unfinished courses, abandoned projects,"
+    },
+    "segments": [
+      {
+        "token": "Miren",
+        "startTime": 40600,
+        "endTime": 40820
+      },
+      {
+        "token": "hacia",
+        "startTime": 40820,
+        "endTime": 40980
+      },
+      {
+        "token": "atrás",
+        "startTime": 40980,
+        "endTime": 41280
+      },
+      {
+        "token": "y",
+        "startTime": 41280,
+        "endTime": 41780
+      },
+      {
+        "token": "ven",
+        "startTime": 41780,
+        "endTime": 41880
+      },
+      {
+        "token": "libros",
+        "startTime": 41880,
+        "endTime": 42240
+      },
+      {
+        "token": "a",
+        "startTime": 42240,
+        "endTime": 42360
+      },
+      {
+        "token": "medio",
+        "startTime": 42360,
+        "endTime": 42520
+      },
+      {
+        "token": "leer,",
+        "startTime": 42520,
+        "endTime": 43300
+      },
+      {
+        "token": "cursos",
+        "startTime": 43300,
+        "endTime": 43600
+      },
+      {
+        "token": "sin",
+        "startTime": 43600,
+        "endTime": 43800
+      },
+      {
+        "token": "terminar,",
+        "startTime": 43800,
+        "endTime": 44720
+      },
+      {
+        "token": "proyectos",
+        "startTime": 44720,
+        "endTime": 45120
+      },
+      {
+        "token": "abandonados,",
+        "startTime": 45120,
+        "endTime": 46300
+      }
+    ]
+  },
+  {
+    "sentence_text": "ideas que nunca llevaron a completarse.",
+    "translations": {
+      "en": "ideas that never came to completion."
+    },
+    "segments": [
+      {
+        "token": "ideas",
+        "startTime": 46300,
+        "endTime": 46560
+      },
+      {
+        "token": "que",
+        "startTime": 46560,
+        "endTime": 46840
+      },
+      {
+        "token": "nunca",
+        "startTime": 46840,
+        "endTime": 47080
+      },
+      {
+        "token": "llevaron",
+        "startTime": 47080,
+        "endTime": 47440
+      },
+      {
+        "token": "a",
+        "startTime": 47440,
+        "endTime": 47560
+      },
+      {
+        "token": "completarse.",
+        "startTime": 47560,
+        "endTime": 48620
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y poco a poco empiezan a creer algo peligroso, que son inconstantes,",
+    "translations": {
+      "en": "And little by little they start to believe something dangerous, that they're inconsistent,"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 48620,
+        "endTime": 49140
+      },
+      {
+        "token": "poco",
+        "startTime": 49140,
+        "endTime": 49340
+      },
+      {
+        "token": "a",
+        "startTime": 49340,
+        "endTime": 49440
+      },
+      {
+        "token": "poco",
+        "startTime": 49440,
+        "endTime": 49620
+      },
+      {
+        "token": "empiezan",
+        "startTime": 49620,
+        "endTime": 50500
+      },
+      {
+        "token": "a",
+        "startTime": 50500,
+        "endTime": 50600
+      },
+      {
+        "token": "creer",
+        "startTime": 50600,
+        "endTime": 50860
+      },
+      {
+        "token": "algo",
+        "startTime": 50860,
+        "endTime": 51220
+      },
+      {
+        "token": "peligroso,",
+        "startTime": 51220,
+        "endTime": 52400
+      },
+      {
+        "token": "que",
+        "startTime": 52400,
+        "endTime": 52500
+      },
+      {
+        "token": "son",
+        "startTime": 52500,
+        "endTime": 52640
+      },
+      {
+        "token": "inconstantes,",
+        "startTime": 52640,
+        "endTime": 53640
+      }
+    ]
+  },
+  {
+    "sentence_text": "que les falta disciplina, que nunca llegarán a ser realmente buenos en nada.",
+    "translations": {
+      "en": "that they lack discipline, that they'll never really be good at anything."
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 53640,
+        "endTime": 53900
+      },
+      {
+        "token": "les",
+        "startTime": 53900,
+        "endTime": 54000
+      },
+      {
+        "token": "falta",
+        "startTime": 54000,
+        "endTime": 54320
+      },
+      {
+        "token": "disciplina,",
+        "startTime": 54320,
+        "endTime": 55120
+      },
+      {
+        "token": "que",
+        "startTime": 55120,
+        "endTime": 55480
+      },
+      {
+        "token": "nunca",
+        "startTime": 55480,
+        "endTime": 55680
+      },
+      {
+        "token": "llegarán",
+        "startTime": 55680,
+        "endTime": 56080
+      },
+      {
+        "token": "a",
+        "startTime": 56080,
+        "endTime": 56200
+      },
+      {
+        "token": "ser",
+        "startTime": 56200,
+        "endTime": 56340
+      },
+      {
+        "token": "realmente",
+        "startTime": 56340,
+        "endTime": 56360
+      },
+      {
+        "token": "buenos",
+        "startTime": 56360,
+        "endTime": 57080
+      },
+      {
+        "token": "en",
+        "startTime": 57080,
+        "endTime": 57340
+      },
+      {
+        "token": "nada.",
+        "startTime": 57340,
+        "endTime": 57580
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pero la psicología tiene una explicación mucho más interesante.",
+    "translations": {
+      "en": "But psychology has a much more interesting explanation."
+    },
+    "segments": [
+      {
+        "token": "Pero",
+        "startTime": 57580,
+        "endTime": 59140
+      },
+      {
+        "token": "la",
+        "startTime": 59140,
+        "endTime": 59260
+      },
+      {
+        "token": "psicología",
+        "startTime": 59260,
+        "endTime": 59700
+      },
+      {
+        "token": "tiene",
+        "startTime": 59700,
+        "endTime": 60160
+      },
+      {
+        "token": "una",
+        "startTime": 60160,
+        "endTime": 60260
+      },
+      {
+        "token": "explicación",
+        "startTime": 60260,
+        "endTime": 60820
+      },
+      {
+        "token": "mucho",
+        "startTime": 60820,
+        "endTime": 61200
+      },
+      {
+        "token": "más",
+        "startTime": 61200,
+        "endTime": 61420
+      },
+      {
+        "token": "interesante.",
+        "startTime": 61420,
+        "endTime": 62300
+      }
+    ]
+  },
+  {
+    "sentence_text": "Porque en muchos casos el problema no es que tengas demasiados intereses.",
+    "translations": {
+      "en": "Because in many cases the problem isn't that you have too many interests."
+    },
+    "segments": [
+      {
+        "token": "Porque",
+        "startTime": 62300,
+        "endTime": 63140
+      },
+      {
+        "token": "en",
+        "startTime": 63140,
+        "endTime": 63140
+      },
+      {
+        "token": "muchos",
+        "startTime": 63140,
+        "endTime": 63440
+      },
+      {
+        "token": "casos",
+        "startTime": 63440,
+        "endTime": 63820
+      },
+      {
+        "token": "el",
+        "startTime": 63820,
+        "endTime": 64300
+      },
+      {
+        "token": "problema",
+        "startTime": 64300,
+        "endTime": 64540
+      },
+      {
+        "token": "no",
+        "startTime": 64540,
+        "endTime": 64959
+      },
+      {
+        "token": "es",
+        "startTime": 64959,
+        "endTime": 65099
+      },
+      {
+        "token": "que",
+        "startTime": 65099,
+        "endTime": 65239
+      },
+      {
+        "token": "tengas",
+        "startTime": 65239,
+        "endTime": 65540
+      },
+      {
+        "token": "demasiados",
+        "startTime": 65540,
+        "endTime": 65960
+      },
+      {
+        "token": "intereses.",
+        "startTime": 65960,
+        "endTime": 66620
+      }
+    ]
+  },
+  {
+    "sentence_text": "El problema es que llevas años juzgándote",
+    "translations": {
+      "en": "The problem is that you've spent years judging yourself"
+    },
+    "segments": [
+      {
+        "token": "El",
+        "startTime": 66620,
+        "endTime": 67260
+      },
+      {
+        "token": "problema",
+        "startTime": 67260,
+        "endTime": 67560
+      },
+      {
+        "token": "es",
+        "startTime": 67560,
+        "endTime": 68100
+      },
+      {
+        "token": "que",
+        "startTime": 68100,
+        "endTime": 68240
+      },
+      {
+        "token": "llevas",
+        "startTime": 68240,
+        "endTime": 68480
+      },
+      {
+        "token": "años",
+        "startTime": 68480,
+        "endTime": 68520
+      },
+      {
+        "token": "juzgándote",
+        "startTime": 68520,
+        "endTime": 69720
+      }
+    ]
+  },
+  {
+    "sentence_text": "con reglas que fueron creadas para personas completamente diferentes a ti.",
+    "translations": {
+      "en": "with rules that were created for people completely different from you."
+    },
+    "segments": [
+      {
+        "token": "con",
+        "startTime": 69720,
+        "endTime": 69940
+      },
+      {
+        "token": "reglas",
+        "startTime": 69940,
+        "endTime": 70300
+      },
+      {
+        "token": "que",
+        "startTime": 70300,
+        "endTime": 70760
+      },
+      {
+        "token": "fueron",
+        "startTime": 70760,
+        "endTime": 71040
+      },
+      {
+        "token": "creadas",
+        "startTime": 71040,
+        "endTime": 71440
+      },
+      {
+        "token": "para",
+        "startTime": 71440,
+        "endTime": 71780
+      },
+      {
+        "token": "personas",
+        "startTime": 71780,
+        "endTime": 72300
+      },
+      {
+        "token": "completamente",
+        "startTime": 72300,
+        "endTime": 72940
+      },
+      {
+        "token": "diferentes",
+        "startTime": 72940,
+        "endTime": 73600
+      },
+      {
+        "token": "a",
+        "startTime": 73600,
+        "endTime": 73880
+      },
+      {
+        "token": "ti.",
+        "startTime": 73880,
+        "endTime": 74040
+      }
+    ]
+  },
+  {
+    "sentence_text": "Desde pequeños nos enseñan que encontrar una pasión es",
+    "translations": {
+      "en": "From a young age, we're taught that finding a passion is"
+    },
+    "segments": [
+      {
+        "token": "Desde",
+        "startTime": 74040,
+        "endTime": 75360
+      },
+      {
+        "token": "pequeños",
+        "startTime": 75360,
+        "endTime": 76040
+      },
+      {
+        "token": "nos",
+        "startTime": 76040,
+        "endTime": 76500
+      },
+      {
+        "token": "enseñan",
+        "startTime": 76500,
+        "endTime": 76900
+      },
+      {
+        "token": "que",
+        "startTime": 76900,
+        "endTime": 77000
+      },
+      {
+        "token": "encontrar",
+        "startTime": 77000,
+        "endTime": 77400
+      },
+      {
+        "token": "una",
+        "startTime": 77400,
+        "endTime": 77580
+      },
+      {
+        "token": "pasión",
+        "startTime": 77580,
+        "endTime": 77960
+      },
+      {
+        "token": "es",
+        "startTime": 77960,
+        "endTime": 78420
+      }
+    ]
+  },
+  {
+    "sentence_text": "una de las cosas más importantes de la vida.",
+    "translations": {
+      "en": "one of the most important things in life."
+    },
+    "segments": [
+      {
+        "token": "una",
+        "startTime": 78420,
+        "endTime": 78560
+      },
+      {
+        "token": "de",
+        "startTime": 78560,
+        "endTime": 78680
+      },
+      {
+        "token": "las",
+        "startTime": 78680,
+        "endTime": 78780
+      },
+      {
+        "token": "cosas",
+        "startTime": 78780,
+        "endTime": 79100
+      },
+      {
+        "token": "más",
+        "startTime": 79100,
+        "endTime": 79380
+      },
+      {
+        "token": "importantes",
+        "startTime": 79380,
+        "endTime": 79880
+      },
+      {
+        "token": "de",
+        "startTime": 79880,
+        "endTime": 80120
+      },
+      {
+        "token": "la",
+        "startTime": 80120,
+        "endTime": 80220
+      },
+      {
+        "token": "vida.",
+        "startTime": 80220,
+        "endTime": 81220
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nos dicen que descubras aquello que te gusta y te concentres en ello,",
+    "translations": {
+      "en": "We're told to discover what you like and focus on it,"
+    },
+    "segments": [
+      {
+        "token": "Nos",
+        "startTime": 81220,
+        "endTime": 81460
+      },
+      {
+        "token": "dicen",
+        "startTime": 81460,
+        "endTime": 81720
+      },
+      {
+        "token": "que",
+        "startTime": 81720,
+        "endTime": 82280
+      },
+      {
+        "token": "descubras",
+        "startTime": 82280,
+        "endTime": 82700
+      },
+      {
+        "token": "aquello",
+        "startTime": 82700,
+        "endTime": 83040
+      },
+      {
+        "token": "que",
+        "startTime": 83040,
+        "endTime": 83180
+      },
+      {
+        "token": "te",
+        "startTime": 83180,
+        "endTime": 83320
+      },
+      {
+        "token": "gusta",
+        "startTime": 83320,
+        "endTime": 83620
+      },
+      {
+        "token": "y",
+        "startTime": 83620,
+        "endTime": 83940
+      },
+      {
+        "token": "te",
+        "startTime": 83940,
+        "endTime": 84060
+      },
+      {
+        "token": "concentres",
+        "startTime": 84060,
+        "endTime": 84600
+      },
+      {
+        "token": "en",
+        "startTime": 84600,
+        "endTime": 84780
+      },
+      {
+        "token": "ello,",
+        "startTime": 84780,
+        "endTime": 85180
+      }
+    ]
+  },
+  {
+    "sentence_text": "que el éxito llega cuando eliges un único camino y permaneces en él durante años.",
+    "translations": {
+      "en": "that success comes when you choose a single path and stick with it for years."
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 85180,
+        "endTime": 85680
+      },
+      {
+        "token": "el",
+        "startTime": 85680,
+        "endTime": 85780
+      },
+      {
+        "token": "éxito",
+        "startTime": 85780,
+        "endTime": 86040
+      },
+      {
+        "token": "llega",
+        "startTime": 86040,
+        "endTime": 86040
+      },
+      {
+        "token": "cuando",
+        "startTime": 86040,
+        "endTime": 86920
+      },
+      {
+        "token": "eliges",
+        "startTime": 86920,
+        "endTime": 87300
+      },
+      {
+        "token": "un",
+        "startTime": 87300,
+        "endTime": 87660
+      },
+      {
+        "token": "único",
+        "startTime": 87660,
+        "endTime": 87860
+      },
+      {
+        "token": "camino",
+        "startTime": 87860,
+        "endTime": 88220
+      },
+      {
+        "token": "y",
+        "startTime": 88220,
+        "endTime": 88680
+      },
+      {
+        "token": "permaneces",
+        "startTime": 88680,
+        "endTime": 89200
+      },
+      {
+        "token": "en",
+        "startTime": 89200,
+        "endTime": 89380
+      },
+      {
+        "token": "él",
+        "startTime": 89380,
+        "endTime": 89460
+      },
+      {
+        "token": "durante",
+        "startTime": 89460,
+        "endTime": 89800
+      },
+      {
+        "token": "años.",
+        "startTime": 89800,
+        "endTime": 91240
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y para algunas personas eso funciona perfectamente, pero no para todas.",
+    "translations": {
+      "en": "And for some people that works perfectly, but not for everyone."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 91240,
+        "endTime": 91360
+      },
+      {
+        "token": "para",
+        "startTime": 91360,
+        "endTime": 91540
+      },
+      {
+        "token": "algunas",
+        "startTime": 91540,
+        "endTime": 91740
+      },
+      {
+        "token": "personas",
+        "startTime": 91740,
+        "endTime": 92220
+      },
+      {
+        "token": "eso",
+        "startTime": 92220,
+        "endTime": 92820
+      },
+      {
+        "token": "funciona",
+        "startTime": 92820,
+        "endTime": 93240
+      },
+      {
+        "token": "perfectamente,",
+        "startTime": 93240,
+        "endTime": 94280
+      },
+      {
+        "token": "pero",
+        "startTime": 94280,
+        "endTime": 94780
+      },
+      {
+        "token": "no",
+        "startTime": 94780,
+        "endTime": 94900
+      },
+      {
+        "token": "para",
+        "startTime": 94900,
+        "endTime": 95080
+      },
+      {
+        "token": "todas.",
+        "startTime": 95080,
+        "endTime": 96060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hay personas cuyo cerebro parece estar diseñado para explorar, para conectar ideas,",
+    "translations": {
+      "en": "There are people whose brains seem designed to explore, to connect ideas,"
+    },
+    "segments": [
+      {
+        "token": "Hay",
+        "startTime": 96060,
+        "endTime": 96200
+      },
+      {
+        "token": "personas",
+        "startTime": 96200,
+        "endTime": 96640
+      },
+      {
+        "token": "cuyo",
+        "startTime": 96640,
+        "endTime": 97160
+      },
+      {
+        "token": "cerebro",
+        "startTime": 97160,
+        "endTime": 97540
+      },
+      {
+        "token": "parece",
+        "startTime": 97540,
+        "endTime": 97880
+      },
+      {
+        "token": "estar",
+        "startTime": 97880,
+        "endTime": 98180
+      },
+      {
+        "token": "diseñado",
+        "startTime": 98180,
+        "endTime": 98700
+      },
+      {
+        "token": "para",
+        "startTime": 98700,
+        "endTime": 98900
+      },
+      {
+        "token": "explorar,",
+        "startTime": 98900,
+        "endTime": 99860
+      },
+      {
+        "token": "para",
+        "startTime": 99860,
+        "endTime": 100080
+      },
+      {
+        "token": "conectar",
+        "startTime": 100080,
+        "endTime": 100540
+      },
+      {
+        "token": "ideas,",
+        "startTime": 100540,
+        "endTime": 101280
+      }
+    ]
+  },
+  {
+    "sentence_text": "para saltar entre mundos distintos.",
+    "translations": {
+      "en": "to jump between different worlds."
+    },
+    "segments": [
+      {
+        "token": "para",
+        "startTime": 101280,
+        "endTime": 101440
+      },
+      {
+        "token": "saltar",
+        "startTime": 101440,
+        "endTime": 101480
+      },
+      {
+        "token": "entre",
+        "startTime": 101480,
+        "endTime": 102240
+      },
+      {
+        "token": "mundos",
+        "startTime": 102240,
+        "endTime": 102580
+      },
+      {
+        "token": "distintos.",
+        "startTime": 102580,
+        "endTime": 103900
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y aunque desde fuera pueda parecer falta de foco, muchas veces ocurre exactamente lo contrario.",
+    "translations": {
+      "en": "And although from the outside it might seem like a lack of focus, often it's quite the opposite."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 103900,
+        "endTime": 104060
+      },
+      {
+        "token": "aunque",
+        "startTime": 104060,
+        "endTime": 104160
+      },
+      {
+        "token": "desde",
+        "startTime": 104160,
+        "endTime": 104420
+      },
+      {
+        "token": "fuera",
+        "startTime": 104420,
+        "endTime": 104760
+      },
+      {
+        "token": "pueda",
+        "startTime": 104760,
+        "endTime": 105160
+      },
+      {
+        "token": "parecer",
+        "startTime": 105160,
+        "endTime": 105540
+      },
+      {
+        "token": "falta",
+        "startTime": 105540,
+        "endTime": 105920
+      },
+      {
+        "token": "de",
+        "startTime": 105920,
+        "endTime": 106140
+      },
+      {
+        "token": "foco,",
+        "startTime": 106140,
+        "endTime": 106660
+      },
+      {
+        "token": "muchas",
+        "startTime": 106660,
+        "endTime": 107280
+      },
+      {
+        "token": "veces",
+        "startTime": 107280,
+        "endTime": 107600
+      },
+      {
+        "token": "ocurre",
+        "startTime": 107600,
+        "endTime": 108240
+      },
+      {
+        "token": "exactamente",
+        "startTime": 108240,
+        "endTime": 108640
+      },
+      {
+        "token": "lo",
+        "startTime": 108640,
+        "endTime": 108640
+      },
+      {
+        "token": "contrario.",
+        "startTime": 108640,
+        "endTime": 110220
+      }
+    ]
+  },
+  {
+    "sentence_text": "Su atención no es débil, es extraordinariamente curiosa.",
+    "translations": {
+      "en": "Their attention isn't weak; it's extraordinarily curious."
+    },
+    "segments": [
+      {
+        "token": "Su",
+        "startTime": 110220,
+        "endTime": 110340
+      },
+      {
+        "token": "atención",
+        "startTime": 110340,
+        "endTime": 110720
+      },
+      {
+        "token": "no",
+        "startTime": 110720,
+        "endTime": 111000
+      },
+      {
+        "token": "es",
+        "startTime": 111000,
+        "endTime": 111100
+      },
+      {
+        "token": "débil,",
+        "startTime": 111100,
+        "endTime": 111860
+      },
+      {
+        "token": "es",
+        "startTime": 111860,
+        "endTime": 111980
+      },
+      {
+        "token": "extraordinariamente",
+        "startTime": 111980,
+        "endTime": 112980
+      },
+      {
+        "token": "curiosa.",
+        "startTime": 112980,
+        "endTime": 114760
+      }
+    ]
+  },
+  {
+    "sentence_text": "Los psicólogos llaman a esto apertura a la experiencia.",
+    "translations": {
+      "en": "Psychologists call this openness to experience."
+    },
+    "segments": [
+      {
+        "token": "Los",
+        "startTime": 114760,
+        "endTime": 114920
+      },
+      {
+        "token": "psicólogos",
+        "startTime": 114920,
+        "endTime": 115460
+      },
+      {
+        "token": "llaman",
+        "startTime": 115460,
+        "endTime": 115920
+      },
+      {
+        "token": "a",
+        "startTime": 115920,
+        "endTime": 116020
+      },
+      {
+        "token": "esto",
+        "startTime": 116020,
+        "endTime": 116280
+      },
+      {
+        "token": "apertura",
+        "startTime": 116280,
+        "endTime": 117120
+      },
+      {
+        "token": "a",
+        "startTime": 117120,
+        "endTime": 117340
+      },
+      {
+        "token": "la",
+        "startTime": 117340,
+        "endTime": 117400
+      },
+      {
+        "token": "experiencia.",
+        "startTime": 117400,
+        "endTime": 119280
+      }
+    ]
+  },
+  {
+    "sentence_text": "Uno de los rasgos de personalidad más estudiados de la psicología moderna.",
+    "translations": {
+      "en": "One of the most studied personality traits in modern psychology."
+    },
+    "segments": [
+      {
+        "token": "Uno",
+        "startTime": 119280,
+        "endTime": 119460
+      },
+      {
+        "token": "de",
+        "startTime": 119460,
+        "endTime": 119580
+      },
+      {
+        "token": "los",
+        "startTime": 119580,
+        "endTime": 119700
+      },
+      {
+        "token": "rasgos",
+        "startTime": 119700,
+        "endTime": 119920
+      },
+      {
+        "token": "de",
+        "startTime": 119920,
+        "endTime": 120080
+      },
+      {
+        "token": "personalidad",
+        "startTime": 120080,
+        "endTime": 120660
+      },
+      {
+        "token": "más",
+        "startTime": 120660,
+        "endTime": 120980
+      },
+      {
+        "token": "estudiados",
+        "startTime": 120980,
+        "endTime": 121140
+      },
+      {
+        "token": "de",
+        "startTime": 121140,
+        "endTime": 122100
+      },
+      {
+        "token": "la",
+        "startTime": 122100,
+        "endTime": 122180
+      },
+      {
+        "token": "psicología",
+        "startTime": 122180,
+        "endTime": 122600
+      },
+      {
+        "token": "moderna.",
+        "startTime": 122600,
+        "endTime": 123200
+      }
+    ]
+  },
+  {
+    "sentence_text": "Las personas con una alta apertura sienten una necesidad constante de descubrir cosas nuevas.",
+    "translations": {
+      "en": "People with high openness feel a constant need to discover new things."
+    },
+    "segments": [
+      {
+        "token": "Las",
+        "startTime": 123200,
+        "endTime": 124100
+      },
+      {
+        "token": "personas",
+        "startTime": 124100,
+        "endTime": 124520
+      },
+      {
+        "token": "con",
+        "startTime": 124520,
+        "endTime": 124820
+      },
+      {
+        "token": "una",
+        "startTime": 124820,
+        "endTime": 125020
+      },
+      {
+        "token": "alta",
+        "startTime": 125020,
+        "endTime": 125180
+      },
+      {
+        "token": "apertura",
+        "startTime": 125180,
+        "endTime": 125700
+      },
+      {
+        "token": "sienten",
+        "startTime": 125700,
+        "endTime": 126560
+      },
+      {
+        "token": "una",
+        "startTime": 126560,
+        "endTime": 126820
+      },
+      {
+        "token": "necesidad",
+        "startTime": 126820,
+        "endTime": 127300
+      },
+      {
+        "token": "constante",
+        "startTime": 127300,
+        "endTime": 127420
+      },
+      {
+        "token": "de",
+        "startTime": 127420,
+        "endTime": 128180
+      },
+      {
+        "token": "descubrir",
+        "startTime": 128180,
+        "endTime": 128580
+      },
+      {
+        "token": "cosas",
+        "startTime": 128580,
+        "endTime": 128820
+      },
+      {
+        "token": "nuevas.",
+        "startTime": 128820,
+        "endTime": 129440
+      }
+    ]
+  },
+  {
+    "sentence_text": "No porque estén intentando impresionar a nadie, no porque quieran parecer interesantes,",
+    "translations": {
+      "en": "Not because they're trying to impress anyone, not because they want to seem interesting,"
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 129440,
+        "endTime": 130100
+      },
+      {
+        "token": "porque",
+        "startTime": 130100,
+        "endTime": 130340
+      },
+      {
+        "token": "estén",
+        "startTime": 130340,
+        "endTime": 130560
+      },
+      {
+        "token": "intentando",
+        "startTime": 130560,
+        "endTime": 131020
+      },
+      {
+        "token": "impresionar",
+        "startTime": 131020,
+        "endTime": 131380
+      },
+      {
+        "token": "a",
+        "startTime": 131380,
+        "endTime": 131520
+      },
+      {
+        "token": "nadie,",
+        "startTime": 131520,
+        "endTime": 131960
+      },
+      {
+        "token": "no",
+        "startTime": 131960,
+        "endTime": 132380
+      },
+      {
+        "token": "porque",
+        "startTime": 132380,
+        "endTime": 132380
+      },
+      {
+        "token": "quieran",
+        "startTime": 132380,
+        "endTime": 132880
+      },
+      {
+        "token": "parecer",
+        "startTime": 132880,
+        "endTime": 133120
+      },
+      {
+        "token": "interesantes,",
+        "startTime": 133120,
+        "endTime": 134180
+      }
+    ]
+  },
+  {
+    "sentence_text": "sino porque su cerebro obtiene placer explorando.",
+    "translations": {
+      "en": "but because their brain gets pleasure from exploring."
+    },
+    "segments": [
+      {
+        "token": "sino",
+        "startTime": 134180,
+        "endTime": 134660
+      },
+      {
+        "token": "porque",
+        "startTime": 134660,
+        "endTime": 134980
+      },
+      {
+        "token": "su",
+        "startTime": 134980,
+        "endTime": 135120
+      },
+      {
+        "token": "cerebro",
+        "startTime": 135120,
+        "endTime": 135520
+      },
+      {
+        "token": "obtiene",
+        "startTime": 135520,
+        "endTime": 136040
+      },
+      {
+        "token": "placer",
+        "startTime": 136040,
+        "endTime": 136380
+      },
+      {
+        "token": "explorando.",
+        "startTime": 136380,
+        "endTime": 137680
+      }
+    ]
+  },
+  {
+    "sentence_text": "Aprender algo nuevo les produce una sensación difícil de explicar,",
+    "translations": {
+      "en": "Learning something new gives them a feeling that's hard to explain,"
+    },
+    "segments": [
+      {
+        "token": "Aprender",
+        "startTime": 137680,
+        "endTime": 137880
+      },
+      {
+        "token": "algo",
+        "startTime": 137880,
+        "endTime": 138400
+      },
+      {
+        "token": "nuevo",
+        "startTime": 138400,
+        "endTime": 138720
+      },
+      {
+        "token": "les",
+        "startTime": 138720,
+        "endTime": 139200
+      },
+      {
+        "token": "produce",
+        "startTime": 139200,
+        "endTime": 139500
+      },
+      {
+        "token": "una",
+        "startTime": 139500,
+        "endTime": 139700
+      },
+      {
+        "token": "sensación",
+        "startTime": 139700,
+        "endTime": 140220
+      },
+      {
+        "token": "difícil",
+        "startTime": 140220,
+        "endTime": 140520
+      },
+      {
+        "token": "de",
+        "startTime": 140520,
+        "endTime": 140780
+      },
+      {
+        "token": "explicar,",
+        "startTime": 140780,
+        "endTime": 141880
+      }
+    ]
+  },
+  {
+    "sentence_text": "como si cada nuevo conocimiento abrir una puerta que antes no existía.",
+    "translations": {
+      "en": "as if each new piece of knowledge opens a door that didn't exist before."
+    },
+    "segments": [
+      {
+        "token": "como",
+        "startTime": 141880,
+        "endTime": 142080
+      },
+      {
+        "token": "si",
+        "startTime": 142080,
+        "endTime": 142240
+      },
+      {
+        "token": "cada",
+        "startTime": 142240,
+        "endTime": 142420
+      },
+      {
+        "token": "nuevo",
+        "startTime": 142420,
+        "endTime": 142580
+      },
+      {
+        "token": "conocimiento",
+        "startTime": 142580,
+        "endTime": 143380
+      },
+      {
+        "token": "abrir",
+        "startTime": 143380,
+        "endTime": 143920
+      },
+      {
+        "token": "una",
+        "startTime": 143920,
+        "endTime": 144160
+      },
+      {
+        "token": "puerta",
+        "startTime": 144160,
+        "endTime": 144520
+      },
+      {
+        "token": "que",
+        "startTime": 144520,
+        "endTime": 144860
+      },
+      {
+        "token": "antes",
+        "startTime": 144860,
+        "endTime": 145140
+      },
+      {
+        "token": "no",
+        "startTime": 145140,
+        "endTime": 145340
+      },
+      {
+        "token": "existía.",
+        "startTime": 145340,
+        "endTime": 146640
+      }
+    ]
+  },
+  {
+    "sentence_text": "Por eso suelen interesarse por temas muy diferentes entre sí.",
+    "translations": {
+      "en": "That's why they often get interested in very different topics."
+    },
+    "segments": [
+      {
+        "token": "Por",
+        "startTime": 146640,
+        "endTime": 147100
+      },
+      {
+        "token": "eso",
+        "startTime": 147100,
+        "endTime": 147340
+      },
+      {
+        "token": "suelen",
+        "startTime": 147340,
+        "endTime": 147740
+      },
+      {
+        "token": "interesarse",
+        "startTime": 147740,
+        "endTime": 148320
+      },
+      {
+        "token": "por",
+        "startTime": 148320,
+        "endTime": 148600
+      },
+      {
+        "token": "temas",
+        "startTime": 148600,
+        "endTime": 148860
+      },
+      {
+        "token": "muy",
+        "startTime": 148860,
+        "endTime": 149200
+      },
+      {
+        "token": "diferentes",
+        "startTime": 149200,
+        "endTime": 149200
+      },
+      {
+        "token": "entre",
+        "startTime": 149200,
+        "endTime": 149980
+      },
+      {
+        "token": "sí.",
+        "startTime": 149980,
+        "endTime": 150800
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pueden pasar de la filosofía al deporte, del dibujo a la programación,",
+    "translations": {
+      "en": "They can go from philosophy to sports, from drawing to programming,"
+    },
+    "segments": [
+      {
+        "token": "Pueden",
+        "startTime": 150800,
+        "endTime": 151080
+      },
+      {
+        "token": "pasar",
+        "startTime": 151080,
+        "endTime": 151400
+      },
+      {
+        "token": "de",
+        "startTime": 151400,
+        "endTime": 151680
+      },
+      {
+        "token": "la",
+        "startTime": 151680,
+        "endTime": 151780
+      },
+      {
+        "token": "filosofía",
+        "startTime": 151780,
+        "endTime": 152380
+      },
+      {
+        "token": "al",
+        "startTime": 152380,
+        "endTime": 152660
+      },
+      {
+        "token": "deporte,",
+        "startTime": 152660,
+        "endTime": 153600
+      },
+      {
+        "token": "del",
+        "startTime": 153600,
+        "endTime": 153740
+      },
+      {
+        "token": "dibujo",
+        "startTime": 153740,
+        "endTime": 154240
+      },
+      {
+        "token": "a",
+        "startTime": 154240,
+        "endTime": 154400
+      },
+      {
+        "token": "la",
+        "startTime": 154400,
+        "endTime": 154500
+      },
+      {
+        "token": "programación,",
+        "startTime": 154500,
+        "endTime": 155640
+      }
+    ]
+  },
+  {
+    "sentence_text": "de la historia a la música, sin encontrar ninguna contradicción,",
+    "translations": {
+      "en": "from history to music, without seeing any contradiction,"
+    },
+    "segments": [
+      {
+        "token": "de",
+        "startTime": 155640,
+        "endTime": 155640
+      },
+      {
+        "token": "la",
+        "startTime": 155640,
+        "endTime": 155860
+      },
+      {
+        "token": "historia",
+        "startTime": 155860,
+        "endTime": 156200
+      },
+      {
+        "token": "a",
+        "startTime": 156200,
+        "endTime": 156520
+      },
+      {
+        "token": "la",
+        "startTime": 156520,
+        "endTime": 156600
+      },
+      {
+        "token": "música,",
+        "startTime": 156600,
+        "endTime": 157200
+      },
+      {
+        "token": "sin",
+        "startTime": 157200,
+        "endTime": 157640
+      },
+      {
+        "token": "encontrar",
+        "startTime": 157640,
+        "endTime": 158120
+      },
+      {
+        "token": "ninguna",
+        "startTime": 158120,
+        "endTime": 158660
+      },
+      {
+        "token": "contradicción,",
+        "startTime": 158660,
+        "endTime": 159580
+      }
+    ]
+  },
+  {
+    "sentence_text": "porque para ellos todo forma parte de la misma búsqueda,",
+    "translations": {
+      "en": "because for them it's all part of the same quest,"
+    },
+    "segments": [
+      {
+        "token": "porque",
+        "startTime": 159580,
+        "endTime": 160240
+      },
+      {
+        "token": "para",
+        "startTime": 160240,
+        "endTime": 160460
+      },
+      {
+        "token": "ellos",
+        "startTime": 160460,
+        "endTime": 160700
+      },
+      {
+        "token": "todo",
+        "startTime": 160700,
+        "endTime": 161340
+      },
+      {
+        "token": "forma",
+        "startTime": 161340,
+        "endTime": 161340
+      },
+      {
+        "token": "parte",
+        "startTime": 161340,
+        "endTime": 161980
+      },
+      {
+        "token": "de",
+        "startTime": 161980,
+        "endTime": 162160
+      },
+      {
+        "token": "la",
+        "startTime": 162160,
+        "endTime": 162240
+      },
+      {
+        "token": "misma",
+        "startTime": 162240,
+        "endTime": 162440
+      },
+      {
+        "token": "búsqueda,",
+        "startTime": 162440,
+        "endTime": 163340
+      }
+    ]
+  },
+  {
+    "sentence_text": "comprender un poco más el mundo.",
+    "translations": {
+      "en": "to understand the world a little better."
+    },
+    "segments": [
+      {
+        "token": "comprender",
+        "startTime": 163340,
+        "endTime": 163900
+      },
+      {
+        "token": "un",
+        "startTime": 163900,
+        "endTime": 164280
+      },
+      {
+        "token": "poco",
+        "startTime": 164280,
+        "endTime": 164500
+      },
+      {
+        "token": "más",
+        "startTime": 164500,
+        "endTime": 164660
+      },
+      {
+        "token": "el",
+        "startTime": 164660,
+        "endTime": 164860
+      },
+      {
+        "token": "mundo.",
+        "startTime": 164860,
+        "endTime": 165100
+      }
+    ]
+  },
+  {
+    "sentence_text": "El problema aparece cuando empiezan las comparaciones, porque la sociedad suele admirar a los especialistas,",
+    "translations": {
+      "en": "The problem arises when comparisons start, because society tends to admire specialists,"
+    },
+    "segments": [
+      {
+        "token": "El",
+        "startTime": 165100,
+        "endTime": 166460
+      },
+      {
+        "token": "problema",
+        "startTime": 166460,
+        "endTime": 166780
+      },
+      {
+        "token": "aparece",
+        "startTime": 166780,
+        "endTime": 167140
+      },
+      {
+        "token": "cuando",
+        "startTime": 167140,
+        "endTime": 167140
+      },
+      {
+        "token": "empiezan",
+        "startTime": 167140,
+        "endTime": 168020
+      },
+      {
+        "token": "las",
+        "startTime": 168020,
+        "endTime": 168180
+      },
+      {
+        "token": "comparaciones,",
+        "startTime": 168180,
+        "endTime": 169140
+      },
+      {
+        "token": "porque",
+        "startTime": 169140,
+        "endTime": 169660
+      },
+      {
+        "token": "la",
+        "startTime": 169660,
+        "endTime": 169780
+      },
+      {
+        "token": "sociedad",
+        "startTime": 169780,
+        "endTime": 170160
+      },
+      {
+        "token": "suele",
+        "startTime": 170160,
+        "endTime": 170600
+      },
+      {
+        "token": "admirar",
+        "startTime": 170600,
+        "endTime": 170980
+      },
+      {
+        "token": "a",
+        "startTime": 170980,
+        "endTime": 171060
+      },
+      {
+        "token": "los",
+        "startTime": 171060,
+        "endTime": 171140
+      },
+      {
+        "token": "especialistas,",
+        "startTime": 171140,
+        "endTime": 172340
+      }
+    ]
+  },
+  {
+    "sentence_text": "al médico que lleva 30 años estudiando lo mismo,",
+    "translations": {
+      "en": "the doctor who has spent 30 years studying the same thing,"
+    },
+    "segments": [
+      {
+        "token": "al",
+        "startTime": 172340,
+        "endTime": 172600
+      },
+      {
+        "token": "médico",
+        "startTime": 172600,
+        "endTime": 172940
+      },
+      {
+        "token": "que",
+        "startTime": 172940,
+        "endTime": 173100
+      },
+      {
+        "token": "lleva",
+        "startTime": 173100,
+        "endTime": 173260
+      },
+      {
+        "token": "30",
+        "startTime": 173260,
+        "endTime": 173640
+      },
+      {
+        "token": "años",
+        "startTime": 173640,
+        "endTime": 173900
+      },
+      {
+        "token": "estudiando",
+        "startTime": 173900,
+        "endTime": 174380
+      },
+      {
+        "token": "lo",
+        "startTime": 174380,
+        "endTime": 174500
+      },
+      {
+        "token": "mismo,",
+        "startTime": 174500,
+        "endTime": 175220
+      }
+    ]
+  },
+  {
+    "sentence_text": "al músico que practica el mismo instrumento desde niño,",
+    "translations": {
+      "en": "the musician who has practiced the same instrument since childhood,"
+    },
+    "segments": [
+      {
+        "token": "al",
+        "startTime": 175220,
+        "endTime": 175340
+      },
+      {
+        "token": "músico",
+        "startTime": 175340,
+        "endTime": 175760
+      },
+      {
+        "token": "que",
+        "startTime": 175760,
+        "endTime": 175920
+      },
+      {
+        "token": "practica",
+        "startTime": 175920,
+        "endTime": 176440
+      },
+      {
+        "token": "el",
+        "startTime": 176440,
+        "endTime": 176560
+      },
+      {
+        "token": "mismo",
+        "startTime": 176560,
+        "endTime": 176740
+      },
+      {
+        "token": "instrumento",
+        "startTime": 176740,
+        "endTime": 177280
+      },
+      {
+        "token": "desde",
+        "startTime": 177280,
+        "endTime": 177460
+      },
+      {
+        "token": "niño,",
+        "startTime": 177460,
+        "endTime": 178260
+      }
+    ]
+  },
+  {
+    "sentence_text": "al atleta que dedica toda su vida a una sola disciplina.",
+    "translations": {
+      "en": "the athlete who dedicates their entire life to a single discipline."
+    },
+    "segments": [
+      {
+        "token": "al",
+        "startTime": 178260,
+        "endTime": 178440
+      },
+      {
+        "token": "atleta",
+        "startTime": 178440,
+        "endTime": 178920
+      },
+      {
+        "token": "que",
+        "startTime": 178920,
+        "endTime": 179300
+      },
+      {
+        "token": "dedica",
+        "startTime": 179300,
+        "endTime": 179660
+      },
+      {
+        "token": "toda",
+        "startTime": 179660,
+        "endTime": 179940
+      },
+      {
+        "token": "su",
+        "startTime": 179940,
+        "endTime": 180140
+      },
+      {
+        "token": "vida",
+        "startTime": 180140,
+        "endTime": 180360
+      },
+      {
+        "token": "a",
+        "startTime": 180360,
+        "endTime": 180620
+      },
+      {
+        "token": "una",
+        "startTime": 180620,
+        "endTime": 180780
+      },
+      {
+        "token": "sola",
+        "startTime": 180780,
+        "endTime": 180940
+      },
+      {
+        "token": "disciplina.",
+        "startTime": 180940,
+        "endTime": 181920
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y evidentemente esos logros son admirables, pero existe algo que rara vez se menciona.",
+    "translations": {
+      "en": "And obviously those achievements are admirable, but there is something rarely mentioned."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 181920,
+        "endTime": 182560
+      },
+      {
+        "token": "evidentemente",
+        "startTime": 182560,
+        "endTime": 183220
+      },
+      {
+        "token": "esos",
+        "startTime": 183220,
+        "endTime": 183760
+      },
+      {
+        "token": "logros",
+        "startTime": 183760,
+        "endTime": 184180
+      },
+      {
+        "token": "son",
+        "startTime": 184180,
+        "endTime": 184180
+      },
+      {
+        "token": "admirables,",
+        "startTime": 184180,
+        "endTime": 185160
+      },
+      {
+        "token": "pero",
+        "startTime": 185160,
+        "endTime": 185740
+      },
+      {
+        "token": "existe",
+        "startTime": 185740,
+        "endTime": 186020
+      },
+      {
+        "token": "algo",
+        "startTime": 186020,
+        "endTime": 186320
+      },
+      {
+        "token": "que",
+        "startTime": 186320,
+        "endTime": 186680
+      },
+      {
+        "token": "rara",
+        "startTime": 186680,
+        "endTime": 186880
+      },
+      {
+        "token": "vez",
+        "startTime": 186880,
+        "endTime": 187000
+      },
+      {
+        "token": "se",
+        "startTime": 187000,
+        "endTime": 187120
+      },
+      {
+        "token": "menciona.",
+        "startTime": 187120,
+        "endTime": 187760
+      }
+    ]
+  },
+  {
+    "sentence_text": "Muchas de las ideas más innovadoras no nacen dentro de una única disciplina.",
+    "translations": {
+      "en": "Many of the most innovative ideas are not born within a single discipline."
+    },
+    "segments": [
+      {
+        "token": "Muchas",
+        "startTime": 187760,
+        "endTime": 188840
+      },
+      {
+        "token": "de",
+        "startTime": 188840,
+        "endTime": 189040
+      },
+      {
+        "token": "las",
+        "startTime": 189040,
+        "endTime": 189180
+      },
+      {
+        "token": "ideas",
+        "startTime": 189180,
+        "endTime": 189480
+      },
+      {
+        "token": "más",
+        "startTime": 189480,
+        "endTime": 189740
+      },
+      {
+        "token": "innovadoras",
+        "startTime": 189740,
+        "endTime": 190000
+      },
+      {
+        "token": "no",
+        "startTime": 190000,
+        "endTime": 190980
+      },
+      {
+        "token": "nacen",
+        "startTime": 190980,
+        "endTime": 191300
+      },
+      {
+        "token": "dentro",
+        "startTime": 191300,
+        "endTime": 191600
+      },
+      {
+        "token": "de",
+        "startTime": 191600,
+        "endTime": 191780
+      },
+      {
+        "token": "una",
+        "startTime": 191780,
+        "endTime": 191900
+      },
+      {
+        "token": "única",
+        "startTime": 191900,
+        "endTime": 192100
+      },
+      {
+        "token": "disciplina.",
+        "startTime": 192100,
+        "endTime": 193060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nacen cuando alguien conecta dos mundos que aparentemente no tienen relación.",
+    "translations": {
+      "en": "They are born when someone connects two worlds that seemingly have no relation."
+    },
+    "segments": [
+      {
+        "token": "Nacen",
+        "startTime": 193060,
+        "endTime": 193760
+      },
+      {
+        "token": "cuando",
+        "startTime": 193760,
+        "endTime": 194140
+      },
+      {
+        "token": "alguien",
+        "startTime": 194140,
+        "endTime": 194420
+      },
+      {
+        "token": "conecta",
+        "startTime": 194420,
+        "endTime": 194940
+      },
+      {
+        "token": "dos",
+        "startTime": 194940,
+        "endTime": 195080
+      },
+      {
+        "token": "mundos",
+        "startTime": 195080,
+        "endTime": 195460
+      },
+      {
+        "token": "que",
+        "startTime": 195460,
+        "endTime": 195880
+      },
+      {
+        "token": "aparentemente",
+        "startTime": 195880,
+        "endTime": 196120
+      },
+      {
+        "token": "no",
+        "startTime": 196120,
+        "endTime": 196780
+      },
+      {
+        "token": "tienen",
+        "startTime": 196780,
+        "endTime": 196980
+      },
+      {
+        "token": "relación.",
+        "startTime": 196980,
+        "endTime": 198240
+      }
+    ]
+  },
+  {
+    "sentence_text": "Una persona que sabe de psicología puede encontrar soluciones que un ingeniero jamás vería.",
+    "translations": {
+      "en": "A person who knows psychology can find solutions that an engineer would never see."
+    },
+    "segments": [
+      {
+        "token": "Una",
+        "startTime": 198240,
+        "endTime": 198660
+      },
+      {
+        "token": "persona",
+        "startTime": 198660,
+        "endTime": 198980
+      },
+      {
+        "token": "que",
+        "startTime": 198980,
+        "endTime": 199200
+      },
+      {
+        "token": "sabe",
+        "startTime": 199200,
+        "endTime": 199380
+      },
+      {
+        "token": "de",
+        "startTime": 199380,
+        "endTime": 199540
+      },
+      {
+        "token": "psicología",
+        "startTime": 199540,
+        "endTime": 200040
+      },
+      {
+        "token": "puede",
+        "startTime": 200040,
+        "endTime": 200800
+      },
+      {
+        "token": "encontrar",
+        "startTime": 200800,
+        "endTime": 201180
+      },
+      {
+        "token": "soluciones",
+        "startTime": 201180,
+        "endTime": 201740
+      },
+      {
+        "token": "que",
+        "startTime": 201740,
+        "endTime": 202280
+      },
+      {
+        "token": "un",
+        "startTime": 202280,
+        "endTime": 202440
+      },
+      {
+        "token": "ingeniero",
+        "startTime": 202440,
+        "endTime": 202940
+      },
+      {
+        "token": "jamás",
+        "startTime": 202940,
+        "endTime": 203280
+      },
+      {
+        "token": "vería.",
+        "startTime": 203280,
+        "endTime": 203820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Un músico puede abordar un problema de forma diferente a un matemático.",
+    "translations": {
+      "en": "A musician can approach a problem differently than a mathematician."
+    },
+    "segments": [
+      {
+        "token": "Un",
+        "startTime": 203820,
+        "endTime": 204500
+      },
+      {
+        "token": "músico",
+        "startTime": 204500,
+        "endTime": 204960
+      },
+      {
+        "token": "puede",
+        "startTime": 204960,
+        "endTime": 205500
+      },
+      {
+        "token": "abordar",
+        "startTime": 205500,
+        "endTime": 205860
+      },
+      {
+        "token": "un",
+        "startTime": 205860,
+        "endTime": 205960
+      },
+      {
+        "token": "problema",
+        "startTime": 205960,
+        "endTime": 206260
+      },
+      {
+        "token": "de",
+        "startTime": 206260,
+        "endTime": 206620
+      },
+      {
+        "token": "forma",
+        "startTime": 206620,
+        "endTime": 206900
+      },
+      {
+        "token": "diferente",
+        "startTime": 206900,
+        "endTime": 207380
+      },
+      {
+        "token": "a",
+        "startTime": 207380,
+        "endTime": 207720
+      },
+      {
+        "token": "un",
+        "startTime": 207720,
+        "endTime": 207800
+      },
+      {
+        "token": "matemático.",
+        "startTime": 207800,
+        "endTime": 209440
+      }
+    ]
+  },
+  {
+    "sentence_text": "Alguien que ha explorado muchos campos posee algo extremadamente valioso, perspectiva.",
+    "translations": {
+      "en": "Someone who has explored many fields possesses something extremely valuable: perspective."
+    },
+    "segments": [
+      {
+        "token": "Alguien",
+        "startTime": 209440,
+        "endTime": 209760
+      },
+      {
+        "token": "que",
+        "startTime": 209760,
+        "endTime": 209920
+      },
+      {
+        "token": "ha",
+        "startTime": 209920,
+        "endTime": 210000
+      },
+      {
+        "token": "explorado",
+        "startTime": 210000,
+        "endTime": 210300
+      },
+      {
+        "token": "muchos",
+        "startTime": 210300,
+        "endTime": 210600
+      },
+      {
+        "token": "campos",
+        "startTime": 210600,
+        "endTime": 211160
+      },
+      {
+        "token": "posee",
+        "startTime": 211160,
+        "endTime": 211920
+      },
+      {
+        "token": "algo",
+        "startTime": 211920,
+        "endTime": 212100
+      },
+      {
+        "token": "extremadamente",
+        "startTime": 212100,
+        "endTime": 212780
+      },
+      {
+        "token": "valioso,",
+        "startTime": 212780,
+        "endTime": 213820
+      },
+      {
+        "token": "perspectiva.",
+        "startTime": 213820,
+        "endTime": 214520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y la perspectiva es una de las materias primas de la creatividad.",
+    "translations": {
+      "en": "And perspective is one of the raw materials of creativity."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 214520,
+        "endTime": 215540
+      },
+      {
+        "token": "la",
+        "startTime": 215540,
+        "endTime": 215540
+      },
+      {
+        "token": "perspectiva",
+        "startTime": 215540,
+        "endTime": 216280
+      },
+      {
+        "token": "es",
+        "startTime": 216280,
+        "endTime": 216800
+      },
+      {
+        "token": "una",
+        "startTime": 216800,
+        "endTime": 216940
+      },
+      {
+        "token": "de",
+        "startTime": 216940,
+        "endTime": 217060
+      },
+      {
+        "token": "las",
+        "startTime": 217060,
+        "endTime": 217200
+      },
+      {
+        "token": "materias",
+        "startTime": 217200,
+        "endTime": 217580
+      },
+      {
+        "token": "primas",
+        "startTime": 217580,
+        "endTime": 217980
+      },
+      {
+        "token": "de",
+        "startTime": 217980,
+        "endTime": 218140
+      },
+      {
+        "token": "la",
+        "startTime": 218140,
+        "endTime": 218220
+      },
+      {
+        "token": "creatividad.",
+        "startTime": 218220,
+        "endTime": 218740
+      }
+    ]
+  },
+  {
+    "sentence_text": "Porque cuando has pasado años moviéndote entre intereses distintos,",
+    "translations": {
+      "en": "Because when you've spent years moving between different interests,"
+    },
+    "segments": [
+      {
+        "token": "Porque",
+        "startTime": 218740,
+        "endTime": 220020
+      },
+      {
+        "token": "cuando",
+        "startTime": 220020,
+        "endTime": 220240
+      },
+      {
+        "token": "has",
+        "startTime": 220240,
+        "endTime": 220360
+      },
+      {
+        "token": "pasado",
+        "startTime": 220360,
+        "endTime": 220580
+      },
+      {
+        "token": "años",
+        "startTime": 220580,
+        "endTime": 220760
+      },
+      {
+        "token": "moviéndote",
+        "startTime": 220760,
+        "endTime": 221660
+      },
+      {
+        "token": "entre",
+        "startTime": 221660,
+        "endTime": 221900
+      },
+      {
+        "token": "intereses",
+        "startTime": 221900,
+        "endTime": 222400
+      },
+      {
+        "token": "distintos,",
+        "startTime": 222400,
+        "endTime": 223180
+      }
+    ]
+  },
+  {
+    "sentence_text": "tu cerebro aprende a detectar patrones donde otros solo ven cosas separadas.",
+    "translations": {
+      "en": "your brain learns to detect patterns where others only see separate things."
+    },
+    "segments": [
+      {
+        "token": "tu",
+        "startTime": 223180,
+        "endTime": 223620
+      },
+      {
+        "token": "cerebro",
+        "startTime": 223620,
+        "endTime": 223980
+      },
+      {
+        "token": "aprende",
+        "startTime": 223980,
+        "endTime": 224340
+      },
+      {
+        "token": "a",
+        "startTime": 224340,
+        "endTime": 224400
+      },
+      {
+        "token": "detectar",
+        "startTime": 224400,
+        "endTime": 224880
+      },
+      {
+        "token": "patrones",
+        "startTime": 224880,
+        "endTime": 225480
+      },
+      {
+        "token": "donde",
+        "startTime": 225480,
+        "endTime": 225960
+      },
+      {
+        "token": "otros",
+        "startTime": 225960,
+        "endTime": 226400
+      },
+      {
+        "token": "solo",
+        "startTime": 226400,
+        "endTime": 226800
+      },
+      {
+        "token": "ven",
+        "startTime": 226800,
+        "endTime": 227060
+      },
+      {
+        "token": "cosas",
+        "startTime": 227060,
+        "endTime": 227260
+      },
+      {
+        "token": "separadas.",
+        "startTime": 227260,
+        "endTime": 228160
+      }
+    ]
+  },
+  {
+    "sentence_text": "Empiezas a relacionar conceptos, a construir puentes, a encontrar conexiones inesperadas.",
+    "translations": {
+      "en": "You start relating concepts, building bridges, finding unexpected connections."
+    },
+    "segments": [
+      {
+        "token": "Empiezas",
+        "startTime": 228160,
+        "endTime": 229220
+      },
+      {
+        "token": "a",
+        "startTime": 229220,
+        "endTime": 229320
+      },
+      {
+        "token": "relacionar",
+        "startTime": 229320,
+        "endTime": 229760
+      },
+      {
+        "token": "conceptos,",
+        "startTime": 229760,
+        "endTime": 230820
+      },
+      {
+        "token": "a",
+        "startTime": 230820,
+        "endTime": 230920
+      },
+      {
+        "token": "construir",
+        "startTime": 230920,
+        "endTime": 231240
+      },
+      {
+        "token": "puentes,",
+        "startTime": 231240,
+        "endTime": 232200
+      },
+      {
+        "token": "a",
+        "startTime": 232200,
+        "endTime": 232300
+      },
+      {
+        "token": "encontrar",
+        "startTime": 232300,
+        "endTime": 232800
+      },
+      {
+        "token": "conexiones",
+        "startTime": 232800,
+        "endTime": 233040
+      },
+      {
+        "token": "inesperadas.",
+        "startTime": 233040,
+        "endTime": 234460
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y muchas veces esas conexiones terminan siendo más valiosas que la especialización extrema.",
+    "translations": {
+      "en": "And often those connections end up being more valuable than extreme specialization."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 234460,
+        "endTime": 235160
+      },
+      {
+        "token": "muchas",
+        "startTime": 235160,
+        "endTime": 235400
+      },
+      {
+        "token": "veces",
+        "startTime": 235400,
+        "endTime": 235780
+      },
+      {
+        "token": "esas",
+        "startTime": 235780,
+        "endTime": 236380
+      },
+      {
+        "token": "conexiones",
+        "startTime": 236380,
+        "endTime": 237000
+      },
+      {
+        "token": "terminan",
+        "startTime": 237000,
+        "endTime": 237780
+      },
+      {
+        "token": "siendo",
+        "startTime": 237780,
+        "endTime": 238020
+      },
+      {
+        "token": "más",
+        "startTime": 238020,
+        "endTime": 238320
+      },
+      {
+        "token": "valiosas",
+        "startTime": 238320,
+        "endTime": 238880
+      },
+      {
+        "token": "que",
+        "startTime": 238880,
+        "endTime": 239280
+      },
+      {
+        "token": "la",
+        "startTime": 239280,
+        "endTime": 239380
+      },
+      {
+        "token": "especialización",
+        "startTime": 239380,
+        "endTime": 239580
+      },
+      {
+        "token": "extrema.",
+        "startTime": 239580,
+        "endTime": 241760
+      }
+    ]
+  },
+  {
+    "sentence_text": "Sin embargo, hay algo que casi nadie cuenta.",
+    "translations": {
+      "en": "However, there is something almost no one tells you."
+    },
+    "segments": [
+      {
+        "token": "Sin",
+        "startTime": 241760,
+        "endTime": 241920
+      },
+      {
+        "token": "embargo,",
+        "startTime": 241920,
+        "endTime": 242500
+      },
+      {
+        "token": "hay",
+        "startTime": 242500,
+        "endTime": 242860
+      },
+      {
+        "token": "algo",
+        "startTime": 242860,
+        "endTime": 243060
+      },
+      {
+        "token": "que",
+        "startTime": 243060,
+        "endTime": 243300
+      },
+      {
+        "token": "casi",
+        "startTime": 243300,
+        "endTime": 243480
+      },
+      {
+        "token": "nadie",
+        "startTime": 243480,
+        "endTime": 243700
+      },
+      {
+        "token": "cuenta.",
+        "startTime": 243700,
+        "endTime": 244880
+      }
+    ]
+  },
+  {
+    "sentence_text": "Tener demasiados intereses también puede ser agotador.",
+    "translations": {
+      "en": "Having too many interests can also be exhausting."
+    },
+    "segments": [
+      {
+        "token": "Tener",
+        "startTime": 244880,
+        "endTime": 245160
+      },
+      {
+        "token": "demasiados",
+        "startTime": 245160,
+        "endTime": 245660
+      },
+      {
+        "token": "intereses",
+        "startTime": 245660,
+        "endTime": 246340
+      },
+      {
+        "token": "también",
+        "startTime": 246340,
+        "endTime": 246940
+      },
+      {
+        "token": "puede",
+        "startTime": 246940,
+        "endTime": 247280
+      },
+      {
+        "token": "ser",
+        "startTime": 247280,
+        "endTime": 247480
+      },
+      {
+        "token": "agotador.",
+        "startTime": 247480,
+        "endTime": 249060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Porque quieres hacerlo todo.",
+    "translations": {
+      "en": "Because you want to do everything."
+    },
+    "segments": [
+      {
+        "token": "Porque",
+        "startTime": 249060,
+        "endTime": 249320
+      },
+      {
+        "token": "quieres",
+        "startTime": 249320,
+        "endTime": 249740
+      },
+      {
+        "token": "hacerlo",
+        "startTime": 249740,
+        "endTime": 250280
+      },
+      {
+        "token": "todo.",
+        "startTime": 250280,
+        "endTime": 251580
+      }
+    ]
+  },
+  {
+    "sentence_text": "Leer todos los libros, aprender todas las habilidades, explorar todas las posibilidades.",
+    "translations": {
+      "en": "Read all the books, learn all the skills, explore all the possibilities."
+    },
+    "segments": [
+      {
+        "token": "Leer",
+        "startTime": 251580,
+        "endTime": 251940
+      },
+      {
+        "token": "todos",
+        "startTime": 251940,
+        "endTime": 252280
+      },
+      {
+        "token": "los",
+        "startTime": 252280,
+        "endTime": 252500
+      },
+      {
+        "token": "libros,",
+        "startTime": 252500,
+        "endTime": 253380
+      },
+      {
+        "token": "aprender",
+        "startTime": 253380,
+        "endTime": 253700
+      },
+      {
+        "token": "todas",
+        "startTime": 253700,
+        "endTime": 254160
+      },
+      {
+        "token": "las",
+        "startTime": 254160,
+        "endTime": 254380
+      },
+      {
+        "token": "habilidades,",
+        "startTime": 254380,
+        "endTime": 255380
+      },
+      {
+        "token": "explorar",
+        "startTime": 255380,
+        "endTime": 256000
+      },
+      {
+        "token": "todas",
+        "startTime": 256000,
+        "endTime": 256380
+      },
+      {
+        "token": "las",
+        "startTime": 256380,
+        "endTime": 256620
+      },
+      {
+        "token": "posibilidades.",
+        "startTime": 256620,
+        "endTime": 257900
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y el tiempo simplemente no alcanza.",
+    "translations": {
+      "en": "And there simply isn't enough time."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 257900,
+        "endTime": 258040
+      },
+      {
+        "token": "el",
+        "startTime": 258040,
+        "endTime": 258160
+      },
+      {
+        "token": "tiempo",
+        "startTime": 258160,
+        "endTime": 258460
+      },
+      {
+        "token": "simplemente",
+        "startTime": 258460,
+        "endTime": 259200
+      },
+      {
+        "token": "no",
+        "startTime": 259200,
+        "endTime": 259740
+      },
+      {
+        "token": "alcanza.",
+        "startTime": 259740,
+        "endTime": 261420
+      }
+    ]
+  },
+  {
+    "sentence_text": "Entonces aparece una sensación muy particular.",
+    "translations": {
+      "en": "Then a very particular feeling arises."
+    },
+    "segments": [
+      {
+        "token": "Entonces",
+        "startTime": 261420,
+        "endTime": 261800
+      },
+      {
+        "token": "aparece",
+        "startTime": 261800,
+        "endTime": 262500
+      },
+      {
+        "token": "una",
+        "startTime": 262500,
+        "endTime": 262700
+      },
+      {
+        "token": "sensación",
+        "startTime": 262700,
+        "endTime": 263140
+      },
+      {
+        "token": "muy",
+        "startTime": 263140,
+        "endTime": 263420
+      },
+      {
+        "token": "particular.",
+        "startTime": 263420,
+        "endTime": 264720
+      }
+    ]
+  },
+  {
+    "sentence_text": "La sensación de estar quedándote atrás.",
+    "translations": {
+      "en": "The feeling of falling behind."
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 264720,
+        "endTime": 264900
+      },
+      {
+        "token": "sensación",
+        "startTime": 264900,
+        "endTime": 265480
+      },
+      {
+        "token": "de",
+        "startTime": 265480,
+        "endTime": 265800
+      },
+      {
+        "token": "estar",
+        "startTime": 265800,
+        "endTime": 266040
+      },
+      {
+        "token": "quedándote",
+        "startTime": 266040,
+        "endTime": 266500
+      },
+      {
+        "token": "atrás.",
+        "startTime": 266500,
+        "endTime": 267800
+      }
+    ]
+  },
+  {
+    "sentence_text": "Ves a personas de tu edad avanzando en una dirección concreta,",
+    "translations": {
+      "en": "You see people your age moving in a concrete direction,"
+    },
+    "segments": [
+      {
+        "token": "Ves",
+        "startTime": 267800,
+        "endTime": 267960
+      },
+      {
+        "token": "a",
+        "startTime": 267960,
+        "endTime": 268100
+      },
+      {
+        "token": "personas",
+        "startTime": 268100,
+        "endTime": 268360
+      },
+      {
+        "token": "de",
+        "startTime": 268360,
+        "endTime": 268580
+      },
+      {
+        "token": "tu",
+        "startTime": 268580,
+        "endTime": 268700
+      },
+      {
+        "token": "edad",
+        "startTime": 268700,
+        "endTime": 268820
+      },
+      {
+        "token": "avanzando",
+        "startTime": 268820,
+        "endTime": 269480
+      },
+      {
+        "token": "en",
+        "startTime": 269480,
+        "endTime": 269580
+      },
+      {
+        "token": "una",
+        "startTime": 269580,
+        "endTime": 269700
+      },
+      {
+        "token": "dirección",
+        "startTime": 269700,
+        "endTime": 270040
+      },
+      {
+        "token": "concreta,",
+        "startTime": 270040,
+        "endTime": 271140
+      }
+    ]
+  },
+  {
+    "sentence_text": "mientras tú sigues sintiendo curiosidad por 20 caminos diferentes.",
+    "translations": {
+      "en": "while you still feel curious about 20 different paths."
+    },
+    "segments": [
+      {
+        "token": "mientras",
+        "startTime": 271140,
+        "endTime": 271460
+      },
+      {
+        "token": "tú",
+        "startTime": 271460,
+        "endTime": 271780
+      },
+      {
+        "token": "sigues",
+        "startTime": 271780,
+        "endTime": 272560
+      },
+      {
+        "token": "sintiendo",
+        "startTime": 272560,
+        "endTime": 273000
+      },
+      {
+        "token": "curiosidad",
+        "startTime": 273000,
+        "endTime": 273480
+      },
+      {
+        "token": "por",
+        "startTime": 273480,
+        "endTime": 273820
+      },
+      {
+        "token": "20",
+        "startTime": 273820,
+        "endTime": 274100
+      },
+      {
+        "token": "caminos",
+        "startTime": 274100,
+        "endTime": 274540
+      },
+      {
+        "token": "diferentes.",
+        "startTime": 274540,
+        "endTime": 275880
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y eso genera ansiedad.",
+    "translations": {
+      "en": "And that generates anxiety."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 275880,
+        "endTime": 276040
+      },
+      {
+        "token": "eso",
+        "startTime": 276040,
+        "endTime": 276260
+      },
+      {
+        "token": "genera",
+        "startTime": 276260,
+        "endTime": 276880
+      },
+      {
+        "token": "ansiedad.",
+        "startTime": 276880,
+        "endTime": 278220
+      }
+    ]
+  },
+  {
+    "sentence_text": "Porque interpretas tu exploración como un retraso,",
+    "translations": {
+      "en": "Because you interpret your exploration as a delay,"
+    },
+    "segments": [
+      {
+        "token": "Porque",
+        "startTime": 278220,
+        "endTime": 278500
+      },
+      {
+        "token": "interpretas",
+        "startTime": 278500,
+        "endTime": 278980
+      },
+      {
+        "token": "tu",
+        "startTime": 278980,
+        "endTime": 279120
+      },
+      {
+        "token": "exploración",
+        "startTime": 279120,
+        "endTime": 279660
+      },
+      {
+        "token": "como",
+        "startTime": 279660,
+        "endTime": 280000
+      },
+      {
+        "token": "un",
+        "startTime": 280000,
+        "endTime": 280140
+      },
+      {
+        "token": "retraso,",
+        "startTime": 280140,
+        "endTime": 281280
+      }
+    ]
+  },
+  {
+    "sentence_text": "cuando en realidad puede que solo estés siguiendo una ruta diferente.",
+    "translations": {
+      "en": "when in reality you might just be following a different route."
+    },
+    "segments": [
+      {
+        "token": "cuando",
+        "startTime": 281280,
+        "endTime": 281560
+      },
+      {
+        "token": "en",
+        "startTime": 281560,
+        "endTime": 281660
+      },
+      {
+        "token": "realidad",
+        "startTime": 281660,
+        "endTime": 281960
+      },
+      {
+        "token": "puede",
+        "startTime": 281960,
+        "endTime": 282860
+      },
+      {
+        "token": "que",
+        "startTime": 282860,
+        "endTime": 283080
+      },
+      {
+        "token": "solo",
+        "startTime": 283080,
+        "endTime": 283240
+      },
+      {
+        "token": "estés",
+        "startTime": 283240,
+        "endTime": 283480
+      },
+      {
+        "token": "siguiendo",
+        "startTime": 283480,
+        "endTime": 283940
+      },
+      {
+        "token": "una",
+        "startTime": 283940,
+        "endTime": 284320
+      },
+      {
+        "token": "ruta",
+        "startTime": 284320,
+        "endTime": 284540
+      },
+      {
+        "token": "diferente.",
+        "startTime": 284540,
+        "endTime": 286320
+      }
+    ]
+  },
+  {
+    "sentence_text": "Las personas con muchos intereses suelen cometer el mismo error.",
+    "translations": {
+      "en": "People with many interests often make the same mistake."
+    },
+    "segments": [
+      {
+        "token": "Las",
+        "startTime": 286320,
+        "endTime": 286500
+      },
+      {
+        "token": "personas",
+        "startTime": 286500,
+        "endTime": 286820
+      },
+      {
+        "token": "con",
+        "startTime": 286820,
+        "endTime": 287020
+      },
+      {
+        "token": "muchos",
+        "startTime": 287020,
+        "endTime": 287240
+      },
+      {
+        "token": "intereses",
+        "startTime": 287240,
+        "endTime": 287840
+      },
+      {
+        "token": "suelen",
+        "startTime": 287840,
+        "endTime": 288540
+      },
+      {
+        "token": "cometer",
+        "startTime": 288540,
+        "endTime": 288900
+      },
+      {
+        "token": "el",
+        "startTime": 288900,
+        "endTime": 289100
+      },
+      {
+        "token": "mismo",
+        "startTime": 289100,
+        "endTime": 289260
+      },
+      {
+        "token": "error.",
+        "startTime": 289260,
+        "endTime": 290360
+      }
+    ]
+  },
+  {
+    "sentence_text": "Creen que deben desarrollar todas sus pasiones al mismo tiempo.",
+    "translations": {
+      "en": "They believe they must develop all their passions at once."
+    },
+    "segments": [
+      {
+        "token": "Creen",
+        "startTime": 290360,
+        "endTime": 290640
+      },
+      {
+        "token": "que",
+        "startTime": 290640,
+        "endTime": 291060
+      },
+      {
+        "token": "deben",
+        "startTime": 291060,
+        "endTime": 291300
+      },
+      {
+        "token": "desarrollar",
+        "startTime": 291300,
+        "endTime": 291880
+      },
+      {
+        "token": "todas",
+        "startTime": 291880,
+        "endTime": 292180
+      },
+      {
+        "token": "sus",
+        "startTime": 292180,
+        "endTime": 292380
+      },
+      {
+        "token": "pasiones",
+        "startTime": 292380,
+        "endTime": 292780
+      },
+      {
+        "token": "al",
+        "startTime": 292780,
+        "endTime": 292980
+      },
+      {
+        "token": "mismo",
+        "startTime": 292980,
+        "endTime": 293180
+      },
+      {
+        "token": "tiempo.",
+        "startTime": 293180,
+        "endTime": 294340
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y eso es imposible.",
+    "translations": {
+      "en": "And that's impossible."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 294340,
+        "endTime": 294420
+      },
+      {
+        "token": "eso",
+        "startTime": 294420,
+        "endTime": 294640
+      },
+      {
+        "token": "es",
+        "startTime": 294640,
+        "endTime": 295120
+      },
+      {
+        "token": "imposible.",
+        "startTime": 295120,
+        "endTime": 296840
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nadie puede aprender cinco disciplinas nuevas a la vez.",
+    "translations": {
+      "en": "No one can learn five new disciplines at the same time."
+    },
+    "segments": [
+      {
+        "token": "Nadie",
+        "startTime": 296840,
+        "endTime": 297180
+      },
+      {
+        "token": "puede",
+        "startTime": 297180,
+        "endTime": 297440
+      },
+      {
+        "token": "aprender",
+        "startTime": 297440,
+        "endTime": 297780
+      },
+      {
+        "token": "cinco",
+        "startTime": 297780,
+        "endTime": 298200
+      },
+      {
+        "token": "disciplinas",
+        "startTime": 298200,
+        "endTime": 298800
+      },
+      {
+        "token": "nuevas",
+        "startTime": 298800,
+        "endTime": 299000
+      },
+      {
+        "token": "a",
+        "startTime": 299000,
+        "endTime": 299220
+      },
+      {
+        "token": "la",
+        "startTime": 299220,
+        "endTime": 299280
+      },
+      {
+        "token": "vez.",
+        "startTime": 299280,
+        "endTime": 300280
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nadie puede convertirse simultáneamente en experto en todo aquello que le interesa.",
+    "translations": {
+      "en": "No one can simultaneously become an expert in everything that interests them."
+    },
+    "segments": [
+      {
+        "token": "Nadie",
+        "startTime": 300280,
+        "endTime": 300640
+      },
+      {
+        "token": "puede",
+        "startTime": 300640,
+        "endTime": 300900
+      },
+      {
+        "token": "convertirse",
+        "startTime": 300900,
+        "endTime": 301520
+      },
+      {
+        "token": "simultáneamente",
+        "startTime": 301520,
+        "endTime": 302520
+      },
+      {
+        "token": "en",
+        "startTime": 302520,
+        "endTime": 303120
+      },
+      {
+        "token": "experto",
+        "startTime": 303120,
+        "endTime": 303640
+      },
+      {
+        "token": "en",
+        "startTime": 303640,
+        "endTime": 303940
+      },
+      {
+        "token": "todo",
+        "startTime": 303940,
+        "endTime": 304240
+      },
+      {
+        "token": "aquello",
+        "startTime": 304240,
+        "endTime": 304540
+      },
+      {
+        "token": "que",
+        "startTime": 304540,
+        "endTime": 304680
+      },
+      {
+        "token": "le",
+        "startTime": 304680,
+        "endTime": 304760
+      },
+      {
+        "token": "interesa.",
+        "startTime": 304760,
+        "endTime": 306060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Intentarlo solo conduce al agotamiento.",
+    "translations": {
+      "en": "Trying only leads to burnout."
+    },
+    "segments": [
+      {
+        "token": "Intentarlo",
+        "startTime": 306060,
+        "endTime": 306680
+      },
+      {
+        "token": "solo",
+        "startTime": 306680,
+        "endTime": 307460
+      },
+      {
+        "token": "conduce",
+        "startTime": 307460,
+        "endTime": 307920
+      },
+      {
+        "token": "al",
+        "startTime": 307920,
+        "endTime": 308020
+      },
+      {
+        "token": "agotamiento.",
+        "startTime": 308020,
+        "endTime": 309840
+      }
+    ]
+  },
+  {
+    "sentence_text": "Las personas que consiguen convivir bien con esta forma de ser suelen descubrir algo importante.",
+    "translations": {
+      "en": "People who manage to live well with this way of being often discover something important."
+    },
+    "segments": [
+      {
+        "token": "Las",
+        "startTime": 309840,
+        "endTime": 310000
+      },
+      {
+        "token": "personas",
+        "startTime": 310000,
+        "endTime": 310240
+      },
+      {
+        "token": "que",
+        "startTime": 310240,
+        "endTime": 310440
+      },
+      {
+        "token": "consiguen",
+        "startTime": 310440,
+        "endTime": 310840
+      },
+      {
+        "token": "convivir",
+        "startTime": 310840,
+        "endTime": 311320
+      },
+      {
+        "token": "bien",
+        "startTime": 311320,
+        "endTime": 311500
+      },
+      {
+        "token": "con",
+        "startTime": 311500,
+        "endTime": 311760
+      },
+      {
+        "token": "esta",
+        "startTime": 311760,
+        "endTime": 311980
+      },
+      {
+        "token": "forma",
+        "startTime": 311980,
+        "endTime": 312220
+      },
+      {
+        "token": "de",
+        "startTime": 312220,
+        "endTime": 312400
+      },
+      {
+        "token": "ser",
+        "startTime": 312400,
+        "endTime": 312560
+      },
+      {
+        "token": "suelen",
+        "startTime": 312560,
+        "endTime": 313400
+      },
+      {
+        "token": "descubrir",
+        "startTime": 313400,
+        "endTime": 313920
+      },
+      {
+        "token": "algo",
+        "startTime": 313920,
+        "endTime": 314220
+      },
+      {
+        "token": "importante.",
+        "startTime": 314220,
+        "endTime": 315660
+      }
+    ]
+  },
+  {
+    "sentence_text": "La vida tiene etapas.",
+    "translations": {
+      "en": "Life has stages."
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 315660,
+        "endTime": 315840
+      },
+      {
+        "token": "vida",
+        "startTime": 315840,
+        "endTime": 316060
+      },
+      {
+        "token": "tiene",
+        "startTime": 316060,
+        "endTime": 316420
+      },
+      {
+        "token": "etapas.",
+        "startTime": 316420,
+        "endTime": 317580
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hay épocas para unas cosas y épocas para otras.",
+    "translations": {
+      "en": "There are times for some things and times for others."
+    },
+    "segments": [
+      {
+        "token": "Hay",
+        "startTime": 317580,
+        "endTime": 317780
+      },
+      {
+        "token": "épocas",
+        "startTime": 317780,
+        "endTime": 318120
+      },
+      {
+        "token": "para",
+        "startTime": 318120,
+        "endTime": 318320
+      },
+      {
+        "token": "unas",
+        "startTime": 318320,
+        "endTime": 318480
+      },
+      {
+        "token": "cosas",
+        "startTime": 318480,
+        "endTime": 318840
+      },
+      {
+        "token": "y",
+        "startTime": 318840,
+        "endTime": 319360
+      },
+      {
+        "token": "épocas",
+        "startTime": 319360,
+        "endTime": 319800
+      },
+      {
+        "token": "para",
+        "startTime": 319800,
+        "endTime": 320040
+      },
+      {
+        "token": "otras.",
+        "startTime": 320040,
+        "endTime": 321240
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quizá durante unos años te obsesione el deporte.",
+    "translations": {
+      "en": "Maybe for a few years you'll be obsessed with sports."
+    },
+    "segments": [
+      {
+        "token": "Quizá",
+        "startTime": 321240,
+        "endTime": 321580
+      },
+      {
+        "token": "durante",
+        "startTime": 321580,
+        "endTime": 321860
+      },
+      {
+        "token": "unos",
+        "startTime": 321860,
+        "endTime": 322080
+      },
+      {
+        "token": "años",
+        "startTime": 322080,
+        "endTime": 322340
+      },
+      {
+        "token": "te",
+        "startTime": 322340,
+        "endTime": 322840
+      },
+      {
+        "token": "obsesione",
+        "startTime": 322840,
+        "endTime": 323180
+      },
+      {
+        "token": "el",
+        "startTime": 323180,
+        "endTime": 323340
+      },
+      {
+        "token": "deporte.",
+        "startTime": 323340,
+        "endTime": 324280
+      }
+    ]
+  },
+  {
+    "sentence_text": "Después, la música.",
+    "translations": {
+      "en": "Then, music."
+    },
+    "segments": [
+      {
+        "token": "Después,",
+        "startTime": 324280,
+        "endTime": 324840
+      },
+      {
+        "token": "la",
+        "startTime": 324840,
+        "endTime": 325120
+      },
+      {
+        "token": "música.",
+        "startTime": 325120,
+        "endTime": 325740
+      }
+    ]
+  },
+  {
+    "sentence_text": "Más adelante, la lectura.",
+    "translations": {
+      "en": "Later, reading."
+    },
+    "segments": [
+      {
+        "token": "Más",
+        "startTime": 325740,
+        "endTime": 326200
+      },
+      {
+        "token": "adelante,",
+        "startTime": 326200,
+        "endTime": 326800
+      },
+      {
+        "token": "la",
+        "startTime": 326800,
+        "endTime": 327020
+      },
+      {
+        "token": "lectura.",
+        "startTime": 327020,
+        "endTime": 327820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Luego, un proyecto profesional.",
+    "translations": {
+      "en": "Then, a professional project."
+    },
+    "segments": [
+      {
+        "token": "Luego,",
+        "startTime": 327820,
+        "endTime": 328340
+      },
+      {
+        "token": "un",
+        "startTime": 328340,
+        "endTime": 328660
+      },
+      {
+        "token": "proyecto",
+        "startTime": 328660,
+        "endTime": 328900
+      },
+      {
+        "token": "profesional.",
+        "startTime": 328900,
+        "endTime": 330500
+      }
+    ]
+  },
+  {
+    "sentence_text": "Eso no significa que hayas abandonado lo anterior.",
+    "translations": {
+      "en": "That doesn't mean you've abandoned what came before."
+    },
+    "segments": [
+      {
+        "token": "Eso",
+        "startTime": 330500,
+        "endTime": 330680
+      },
+      {
+        "token": "no",
+        "startTime": 330680,
+        "endTime": 330800
+      },
+      {
+        "token": "significa",
+        "startTime": 330800,
+        "endTime": 331220
+      },
+      {
+        "token": "que",
+        "startTime": 331220,
+        "endTime": 331500
+      },
+      {
+        "token": "hayas",
+        "startTime": 331500,
+        "endTime": 331640
+      },
+      {
+        "token": "abandonado",
+        "startTime": 331640,
+        "endTime": 332080
+      },
+      {
+        "token": "lo",
+        "startTime": 332080,
+        "endTime": 332200
+      },
+      {
+        "token": "anterior.",
+        "startTime": 332200,
+        "endTime": 332480
+      }
+    ]
+  },
+  {
+    "sentence_text": "Significa que estás construyendo una parte diferente de ti mismo.",
+    "translations": {
+      "en": "It means you're building a different part of yourself."
+    },
+    "segments": [
+      {
+        "token": "Significa",
+        "startTime": 332480,
+        "endTime": 333680
+      },
+      {
+        "token": "que",
+        "startTime": 333680,
+        "endTime": 334160
+      },
+      {
+        "token": "estás",
+        "startTime": 334160,
+        "endTime": 334440
+      },
+      {
+        "token": "construyendo",
+        "startTime": 334440,
+        "endTime": 335140
+      },
+      {
+        "token": "una",
+        "startTime": 335140,
+        "endTime": 335460
+      },
+      {
+        "token": "parte",
+        "startTime": 335460,
+        "endTime": 335760
+      },
+      {
+        "token": "diferente",
+        "startTime": 335760,
+        "endTime": 336200
+      },
+      {
+        "token": "de",
+        "startTime": 336200,
+        "endTime": 336440
+      },
+      {
+        "token": "ti",
+        "startTime": 336440,
+        "endTime": 336560
+      },
+      {
+        "token": "mismo.",
+        "startTime": 336560,
+        "endTime": 338240
+      }
+    ]
+  },
+  {
+    "sentence_text": "Muchas personas viven con la idea de que cada interés que dejan atrás fue",
+    "translations": {
+      "en": "Many people live with the idea that every interest they leave behind was"
+    },
+    "segments": [
+      {
+        "token": "Muchas",
+        "startTime": 338240,
+        "endTime": 338500
+      },
+      {
+        "token": "personas",
+        "startTime": 338500,
+        "endTime": 338960
+      },
+      {
+        "token": "viven",
+        "startTime": 338960,
+        "endTime": 339700
+      },
+      {
+        "token": "con",
+        "startTime": 339700,
+        "endTime": 339900
+      },
+      {
+        "token": "la",
+        "startTime": 339900,
+        "endTime": 340020
+      },
+      {
+        "token": "idea",
+        "startTime": 340020,
+        "endTime": 340200
+      },
+      {
+        "token": "de",
+        "startTime": 340200,
+        "endTime": 340460
+      },
+      {
+        "token": "que",
+        "startTime": 340460,
+        "endTime": 340560
+      },
+      {
+        "token": "cada",
+        "startTime": 340560,
+        "endTime": 340760
+      },
+      {
+        "token": "interés",
+        "startTime": 340760,
+        "endTime": 341140
+      },
+      {
+        "token": "que",
+        "startTime": 341140,
+        "endTime": 341260
+      },
+      {
+        "token": "dejan",
+        "startTime": 341260,
+        "endTime": 341480
+      },
+      {
+        "token": "atrás",
+        "startTime": 341480,
+        "endTime": 341780
+      },
+      {
+        "token": "fue",
+        "startTime": 341780,
+        "endTime": 342220
+      }
+    ]
+  },
+  {
+    "sentence_text": "un fracaso.",
+    "translations": {
+      "en": "a failure."
+    },
+    "segments": [
+      {
+        "token": "un",
+        "startTime": 342220,
+        "endTime": 342360
+      },
+      {
+        "token": "fracaso.",
+        "startTime": 342360,
+        "endTime": 343460
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pero no lo fue.",
+    "translations": {
+      "en": "But it wasn't."
+    },
+    "segments": [
+      {
+        "token": "Pero",
+        "startTime": 343460,
+        "endTime": 343660
+      },
+      {
+        "token": "no",
+        "startTime": 343660,
+        "endTime": 343760
+      },
+      {
+        "token": "lo",
+        "startTime": 343760,
+        "endTime": 343860
+      },
+      {
+        "token": "fue.",
+        "startTime": 343860,
+        "endTime": 344680
+      }
+    ]
+  },
+  {
+    "sentence_text": "Todo aquello que aprendiste sigue contigo.",
+    "translations": {
+      "en": "Everything you learned stays with you."
+    },
+    "segments": [
+      {
+        "token": "Todo",
+        "startTime": 344680,
+        "endTime": 345160
+      },
+      {
+        "token": "aquello",
+        "startTime": 345160,
+        "endTime": 345440
+      },
+      {
+        "token": "que",
+        "startTime": 345440,
+        "endTime": 345580
+      },
+      {
+        "token": "aprendiste",
+        "startTime": 345580,
+        "endTime": 346100
+      },
+      {
+        "token": "sigue",
+        "startTime": 346100,
+        "endTime": 346600
+      },
+      {
+        "token": "contigo.",
+        "startTime": 346600,
+        "endTime": 347820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Aunque ya no practiques esa actividad, aunque ya no hables de ese tema,",
+    "translations": {
+      "en": "Even if you no longer practice that activity, even if you no longer talk about that topic,"
+    },
+    "segments": [
+      {
+        "token": "Aunque",
+        "startTime": 347820,
+        "endTime": 348040
+      },
+      {
+        "token": "ya",
+        "startTime": 348040,
+        "endTime": 348240
+      },
+      {
+        "token": "no",
+        "startTime": 348240,
+        "endTime": 348360
+      },
+      {
+        "token": "practiques",
+        "startTime": 348360,
+        "endTime": 348760
+      },
+      {
+        "token": "esa",
+        "startTime": 348760,
+        "endTime": 348940
+      },
+      {
+        "token": "actividad,",
+        "startTime": 348940,
+        "endTime": 349880
+      },
+      {
+        "token": "aunque",
+        "startTime": 349880,
+        "endTime": 350220
+      },
+      {
+        "token": "ya",
+        "startTime": 350220,
+        "endTime": 350440
+      },
+      {
+        "token": "no",
+        "startTime": 350440,
+        "endTime": 350600
+      },
+      {
+        "token": "hables",
+        "startTime": 350600,
+        "endTime": 350820
+      },
+      {
+        "token": "de",
+        "startTime": 350820,
+        "endTime": 350960
+      },
+      {
+        "token": "ese",
+        "startTime": 350960,
+        "endTime": 351080
+      },
+      {
+        "token": "tema,",
+        "startTime": 351080,
+        "endTime": 351760
+      }
+    ]
+  },
+  {
+    "sentence_text": "aunque hayan pasado años.",
+    "translations": {
+      "en": "even if years have passed."
+    },
+    "segments": [
+      {
+        "token": "aunque",
+        "startTime": 351760,
+        "endTime": 352080
+      },
+      {
+        "token": "hayan",
+        "startTime": 352080,
+        "endTime": 352380
+      },
+      {
+        "token": "pasado",
+        "startTime": 352380,
+        "endTime": 352700
+      },
+      {
+        "token": "años.",
+        "startTime": 352700,
+        "endTime": 354060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Cada experiencia deja huellas, cada conocimiento amplía tu manera de pensar,",
+    "translations": {
+      "en": "Every experience leaves its mark, every bit of knowledge broadens your way of thinking,"
+    },
+    "segments": [
+      {
+        "token": "Cada",
+        "startTime": 354060,
+        "endTime": 354280
+      },
+      {
+        "token": "experiencia",
+        "startTime": 354280,
+        "endTime": 354800
+      },
+      {
+        "token": "deja",
+        "startTime": 354800,
+        "endTime": 355260
+      },
+      {
+        "token": "huellas,",
+        "startTime": 355260,
+        "endTime": 355940
+      },
+      {
+        "token": "cada",
+        "startTime": 355940,
+        "endTime": 356480
+      },
+      {
+        "token": "conocimiento",
+        "startTime": 356480,
+        "endTime": 357200
+      },
+      {
+        "token": "amplía",
+        "startTime": 357200,
+        "endTime": 357960
+      },
+      {
+        "token": "tu",
+        "startTime": 357960,
+        "endTime": 358140
+      },
+      {
+        "token": "manera",
+        "startTime": 358140,
+        "endTime": 358320
+      },
+      {
+        "token": "de",
+        "startTime": 358320,
+        "endTime": 358560
+      },
+      {
+        "token": "pensar,",
+        "startTime": 358560,
+        "endTime": 359620
+      }
+    ]
+  },
+  {
+    "sentence_text": "cada pasión te transforma un poco.",
+    "translations": {
+      "en": "every passion transforms you a little."
+    },
+    "segments": [
+      {
+        "token": "cada",
+        "startTime": 359620,
+        "endTime": 359880
+      },
+      {
+        "token": "pasión",
+        "startTime": 359880,
+        "endTime": 360300
+      },
+      {
+        "token": "te",
+        "startTime": 360300,
+        "endTime": 360640
+      },
+      {
+        "token": "transforma",
+        "startTime": 360640,
+        "endTime": 361160
+      },
+      {
+        "token": "un",
+        "startTime": 361160,
+        "endTime": 361280
+      },
+      {
+        "token": "poco.",
+        "startTime": 361280,
+        "endTime": 362360
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y con el tiempo descubres que nada fue realmente inútil.",
+    "translations": {
+      "en": "And over time, you discover that nothing was truly useless."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 362360,
+        "endTime": 362520
+      },
+      {
+        "token": "con",
+        "startTime": 362520,
+        "endTime": 362640
+      },
+      {
+        "token": "el",
+        "startTime": 362640,
+        "endTime": 362780
+      },
+      {
+        "token": "tiempo",
+        "startTime": 362780,
+        "endTime": 363060
+      },
+      {
+        "token": "descubres",
+        "startTime": 363060,
+        "endTime": 364060
+      },
+      {
+        "token": "que",
+        "startTime": 364060,
+        "endTime": 364340
+      },
+      {
+        "token": "nada",
+        "startTime": 364340,
+        "endTime": 364560
+      },
+      {
+        "token": "fue",
+        "startTime": 364560,
+        "endTime": 364940
+      },
+      {
+        "token": "realmente",
+        "startTime": 364940,
+        "endTime": 365360
+      },
+      {
+        "token": "inútil.",
+        "startTime": 365360,
+        "endTime": 367400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Hay otro aspecto psicológico fascinante.",
+    "translations": {
+      "en": "There's another fascinating psychological aspect."
+    },
+    "segments": [
+      {
+        "token": "Hay",
+        "startTime": 367400,
+        "endTime": 367540
+      },
+      {
+        "token": "otro",
+        "startTime": 367540,
+        "endTime": 367700
+      },
+      {
+        "token": "aspecto",
+        "startTime": 367700,
+        "endTime": 368040
+      },
+      {
+        "token": "psicológico",
+        "startTime": 368040,
+        "endTime": 368600
+      },
+      {
+        "token": "fascinante.",
+        "startTime": 368600,
+        "endTime": 369840
+      }
+    ]
+  },
+  {
+    "sentence_text": "Las personas con muchos intereses suelen ser más adaptables.",
+    "translations": {
+      "en": "People with many interests tend to be more adaptable."
+    },
+    "segments": [
+      {
+        "token": "Las",
+        "startTime": 369840,
+        "endTime": 370060
+      },
+      {
+        "token": "personas",
+        "startTime": 370060,
+        "endTime": 370360
+      },
+      {
+        "token": "con",
+        "startTime": 370360,
+        "endTime": 370620
+      },
+      {
+        "token": "muchos",
+        "startTime": 370620,
+        "endTime": 370880
+      },
+      {
+        "token": "intereses",
+        "startTime": 370880,
+        "endTime": 371440
+      },
+      {
+        "token": "suelen",
+        "startTime": 371440,
+        "endTime": 372060
+      },
+      {
+        "token": "ser",
+        "startTime": 372060,
+        "endTime": 372280
+      },
+      {
+        "token": "más",
+        "startTime": 372280,
+        "endTime": 372480
+      },
+      {
+        "token": "adaptables.",
+        "startTime": 372480,
+        "endTime": 373820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Cuando el mundo cambia, ellas cambian con él.",
+    "translations": {
+      "en": "When the world changes, they change with it."
+    },
+    "segments": [
+      {
+        "token": "Cuando",
+        "startTime": 373820,
+        "endTime": 374080
+      },
+      {
+        "token": "el",
+        "startTime": 374080,
+        "endTime": 374200
+      },
+      {
+        "token": "mundo",
+        "startTime": 374200,
+        "endTime": 374360
+      },
+      {
+        "token": "cambia,",
+        "startTime": 374360,
+        "endTime": 374940
+      },
+      {
+        "token": "ellas",
+        "startTime": 374940,
+        "endTime": 375540
+      },
+      {
+        "token": "cambian",
+        "startTime": 375540,
+        "endTime": 376040
+      },
+      {
+        "token": "con",
+        "startTime": 376040,
+        "endTime": 376260
+      },
+      {
+        "token": "él.",
+        "startTime": 376260,
+        "endTime": 377180
+      }
+    ]
+  },
+  {
+    "sentence_text": "No dependen de una única identidad.",
+    "translations": {
+      "en": "They don't depend on a single identity."
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 377180,
+        "endTime": 377360
+      },
+      {
+        "token": "dependen",
+        "startTime": 377360,
+        "endTime": 377860
+      },
+      {
+        "token": "de",
+        "startTime": 377860,
+        "endTime": 378020
+      },
+      {
+        "token": "una",
+        "startTime": 378020,
+        "endTime": 378140
+      },
+      {
+        "token": "única",
+        "startTime": 378140,
+        "endTime": 378400
+      },
+      {
+        "token": "identidad.",
+        "startTime": 378400,
+        "endTime": 379700
+      }
+    ]
+  },
+  {
+    "sentence_text": "No necesitan ser una sola cosa para sentirse completas.",
+    "translations": {
+      "en": "They don't need to be just one thing to feel complete."
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 379700,
+        "endTime": 379860
+      },
+      {
+        "token": "necesitan",
+        "startTime": 379860,
+        "endTime": 380320
+      },
+      {
+        "token": "ser",
+        "startTime": 380320,
+        "endTime": 380580
+      },
+      {
+        "token": "una",
+        "startTime": 380580,
+        "endTime": 380800
+      },
+      {
+        "token": "sola",
+        "startTime": 380800,
+        "endTime": 380960
+      },
+      {
+        "token": "cosa",
+        "startTime": 380960,
+        "endTime": 381300
+      },
+      {
+        "token": "para",
+        "startTime": 381300,
+        "endTime": 381660
+      },
+      {
+        "token": "sentirse",
+        "startTime": 381660,
+        "endTime": 382140
+      },
+      {
+        "token": "completas.",
+        "startTime": 382140,
+        "endTime": 383340
+      }
+    ]
+  },
+  {
+    "sentence_text": "Porque han aprendido a reinventarse.",
+    "translations": {
+      "en": "Because they've learned to reinvent themselves."
+    },
+    "segments": [
+      {
+        "token": "Porque",
+        "startTime": 383340,
+        "endTime": 383620
+      },
+      {
+        "token": "han",
+        "startTime": 383620,
+        "endTime": 383760
+      },
+      {
+        "token": "aprendido",
+        "startTime": 383760,
+        "endTime": 384140
+      },
+      {
+        "token": "a",
+        "startTime": 384140,
+        "endTime": 384280
+      },
+      {
+        "token": "reinventarse.",
+        "startTime": 384280,
+        "endTime": 385800
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y esa capacidad se está volviendo cada vez más valiosa.",
+    "translations": {
+      "en": "And that ability is becoming increasingly valuable."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 385800,
+        "endTime": 385840
+      },
+      {
+        "token": "esa",
+        "startTime": 385840,
+        "endTime": 386020
+      },
+      {
+        "token": "capacidad",
+        "startTime": 386020,
+        "endTime": 386420
+      },
+      {
+        "token": "se",
+        "startTime": 386420,
+        "endTime": 387140
+      },
+      {
+        "token": "está",
+        "startTime": 387140,
+        "endTime": 387360
+      },
+      {
+        "token": "volviendo",
+        "startTime": 387360,
+        "endTime": 387780
+      },
+      {
+        "token": "cada",
+        "startTime": 387780,
+        "endTime": 388200
+      },
+      {
+        "token": "vez",
+        "startTime": 388200,
+        "endTime": 388360
+      },
+      {
+        "token": "más",
+        "startTime": 388360,
+        "endTime": 388540
+      },
+      {
+        "token": "valiosa.",
+        "startTime": 388540,
+        "endTime": 390240
+      }
+    ]
+  },
+  {
+    "sentence_text": "La historia está llena de personas que tuvieron que empezar de nuevo, cambiar de profesión,",
+    "translations": {
+      "en": "History is full of people who had to start over, change professions,"
+    },
+    "segments": [
+      {
+        "token": "La",
+        "startTime": 390240,
+        "endTime": 390360
+      },
+      {
+        "token": "historia",
+        "startTime": 390360,
+        "endTime": 390620
+      },
+      {
+        "token": "está",
+        "startTime": 390620,
+        "endTime": 391320
+      },
+      {
+        "token": "llena",
+        "startTime": 391320,
+        "endTime": 391540
+      },
+      {
+        "token": "de",
+        "startTime": 391540,
+        "endTime": 391700
+      },
+      {
+        "token": "personas",
+        "startTime": 391700,
+        "endTime": 392000
+      },
+      {
+        "token": "que",
+        "startTime": 392000,
+        "endTime": 392340
+      },
+      {
+        "token": "tuvieron",
+        "startTime": 392340,
+        "endTime": 392700
+      },
+      {
+        "token": "que",
+        "startTime": 392700,
+        "endTime": 392860
+      },
+      {
+        "token": "empezar",
+        "startTime": 392860,
+        "endTime": 393160
+      },
+      {
+        "token": "de",
+        "startTime": 393160,
+        "endTime": 393320
+      },
+      {
+        "token": "nuevo,",
+        "startTime": 393320,
+        "endTime": 394040
+      },
+      {
+        "token": "cambiar",
+        "startTime": 394040,
+        "endTime": 394320
+      },
+      {
+        "token": "de",
+        "startTime": 394320,
+        "endTime": 394500
+      },
+      {
+        "token": "profesión,",
+        "startTime": 394500,
+        "endTime": 395480
+      }
+    ]
+  },
+  {
+    "sentence_text": "aprender habilidades diferentes, adaptarse a situaciones inesperadas.",
+    "translations": {
+      "en": "learning different skills, adapting to unexpected situations."
+    },
+    "segments": [
+      {
+        "token": "aprender",
+        "startTime": 395480,
+        "endTime": 395780
+      },
+      {
+        "token": "habilidades",
+        "startTime": 395780,
+        "endTime": 396200
+      },
+      {
+        "token": "diferentes,",
+        "startTime": 396200,
+        "endTime": 397280
+      },
+      {
+        "token": "adaptarse",
+        "startTime": 397280,
+        "endTime": 397880
+      },
+      {
+        "token": "a",
+        "startTime": 397880,
+        "endTime": 398000
+      },
+      {
+        "token": "situaciones",
+        "startTime": 398000,
+        "endTime": 398420
+      },
+      {
+        "token": "inesperadas.",
+        "startTime": 398420,
+        "endTime": 399980
+      }
+    ]
+  },
+  {
+    "sentence_text": "Para algunas personas eso resulta aterrador.",
+    "translations": {
+      "en": "For some people, that is terrifying."
+    },
+    "segments": [
+      {
+        "token": "Para",
+        "startTime": 399980,
+        "endTime": 400180
+      },
+      {
+        "token": "algunas",
+        "startTime": 400180,
+        "endTime": 400360
+      },
+      {
+        "token": "personas",
+        "startTime": 400360,
+        "endTime": 400880
+      },
+      {
+        "token": "eso",
+        "startTime": 400880,
+        "endTime": 401560
+      },
+      {
+        "token": "resulta",
+        "startTime": 401560,
+        "endTime": 402180
+      },
+      {
+        "token": "aterrador.",
+        "startTime": 402180,
+        "endTime": 403560
+      }
+    ]
+  },
+  {
+    "sentence_text": "Pero para quienes llevan toda la vida explorando intereses distintos,",
+    "translations": {
+      "en": "But for those who have spent their whole lives exploring different interests,"
+    },
+    "segments": [
+      {
+        "token": "Pero",
+        "startTime": 403560,
+        "endTime": 403700
+      },
+      {
+        "token": "para",
+        "startTime": 403700,
+        "endTime": 403920
+      },
+      {
+        "token": "quienes",
+        "startTime": 403920,
+        "endTime": 404160
+      },
+      {
+        "token": "llevan",
+        "startTime": 404160,
+        "endTime": 404520
+      },
+      {
+        "token": "toda",
+        "startTime": 404520,
+        "endTime": 404820
+      },
+      {
+        "token": "la",
+        "startTime": 404820,
+        "endTime": 404980
+      },
+      {
+        "token": "vida",
+        "startTime": 404980,
+        "endTime": 405160
+      },
+      {
+        "token": "explorando",
+        "startTime": 405160,
+        "endTime": 405600
+      },
+      {
+        "token": "intereses",
+        "startTime": 405600,
+        "endTime": 406020
+      },
+      {
+        "token": "distintos,",
+        "startTime": 406020,
+        "endTime": 407100
+      }
+    ]
+  },
+  {
+    "sentence_text": "el cambio no es una amenaza, es terreno conocido.",
+    "translations": {
+      "en": "change is not a threat, it is familiar ground."
+    },
+    "segments": [
+      {
+        "token": "el",
+        "startTime": 407100,
+        "endTime": 407220
+      },
+      {
+        "token": "cambio",
+        "startTime": 407220,
+        "endTime": 407520
+      },
+      {
+        "token": "no",
+        "startTime": 407520,
+        "endTime": 407860
+      },
+      {
+        "token": "es",
+        "startTime": 407860,
+        "endTime": 408000
+      },
+      {
+        "token": "una",
+        "startTime": 408000,
+        "endTime": 408120
+      },
+      {
+        "token": "amenaza,",
+        "startTime": 408120,
+        "endTime": 408760
+      },
+      {
+        "token": "es",
+        "startTime": 408760,
+        "endTime": 409260
+      },
+      {
+        "token": "terreno",
+        "startTime": 409260,
+        "endTime": 409740
+      },
+      {
+        "token": "conocido.",
+        "startTime": 409740,
+        "endTime": 411520
+      }
+    ]
+  },
+  {
+    "sentence_text": "Por eso, quizá ha llegado el momento de dejar de ver tus intereses",
+    "translations": {
+      "en": "So maybe it is time to stop seeing your interests"
+    },
+    "segments": [
+      {
+        "token": "Por",
+        "startTime": 411520,
+        "endTime": 411680
+      },
+      {
+        "token": "eso,",
+        "startTime": 411680,
+        "endTime": 412060
+      },
+      {
+        "token": "quizá",
+        "startTime": 412060,
+        "endTime": 412720
+      },
+      {
+        "token": "ha",
+        "startTime": 412720,
+        "endTime": 412840
+      },
+      {
+        "token": "llegado",
+        "startTime": 412840,
+        "endTime": 413080
+      },
+      {
+        "token": "el",
+        "startTime": 413080,
+        "endTime": 413240
+      },
+      {
+        "token": "momento",
+        "startTime": 413240,
+        "endTime": 413460
+      },
+      {
+        "token": "de",
+        "startTime": 413460,
+        "endTime": 413900
+      },
+      {
+        "token": "dejar",
+        "startTime": 413900,
+        "endTime": 414160
+      },
+      {
+        "token": "de",
+        "startTime": 414160,
+        "endTime": 414320
+      },
+      {
+        "token": "ver",
+        "startTime": 414320,
+        "endTime": 414480
+      },
+      {
+        "token": "tus",
+        "startTime": 414480,
+        "endTime": 414620
+      },
+      {
+        "token": "intereses",
+        "startTime": 414620,
+        "endTime": 415200
+      }
+    ]
+  },
+  {
+    "sentence_text": "como un problema.",
+    "translations": {
+      "en": "as a problem."
+    },
+    "segments": [
+      {
+        "token": "como",
+        "startTime": 415200,
+        "endTime": 415460
+      },
+      {
+        "token": "un",
+        "startTime": 415460,
+        "endTime": 415580
+      },
+      {
+        "token": "problema.",
+        "startTime": 415580,
+        "endTime": 416960
+      }
+    ]
+  },
+  {
+    "sentence_text": "Tal vez esos cursos que nunca terminaste no fueron una pérdida de tiempo.",
+    "translations": {
+      "en": "Maybe those courses you never finished were not a waste of time."
+    },
+    "segments": [
+      {
+        "token": "Tal",
+        "startTime": 416960,
+        "endTime": 417160
+      },
+      {
+        "token": "vez",
+        "startTime": 417160,
+        "endTime": 417360
+      },
+      {
+        "token": "esos",
+        "startTime": 417360,
+        "endTime": 417740
+      },
+      {
+        "token": "cursos",
+        "startTime": 417740,
+        "endTime": 418140
+      },
+      {
+        "token": "que",
+        "startTime": 418140,
+        "endTime": 418280
+      },
+      {
+        "token": "nunca",
+        "startTime": 418280,
+        "endTime": 418440
+      },
+      {
+        "token": "terminaste",
+        "startTime": 418440,
+        "endTime": 419040
+      },
+      {
+        "token": "no",
+        "startTime": 419040,
+        "endTime": 419680
+      },
+      {
+        "token": "fueron",
+        "startTime": 419680,
+        "endTime": 419980
+      },
+      {
+        "token": "una",
+        "startTime": 419980,
+        "endTime": 420260
+      },
+      {
+        "token": "pérdida",
+        "startTime": 420260,
+        "endTime": 420580
+      },
+      {
+        "token": "de",
+        "startTime": 420580,
+        "endTime": 420720
+      },
+      {
+        "token": "tiempo.",
+        "startTime": 420720,
+        "endTime": 421820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Tal vez esos libros abandonados te enseñaron algo importante.",
+    "translations": {
+      "en": "Maybe those abandoned books taught you something important."
+    },
+    "segments": [
+      {
+        "token": "Tal",
+        "startTime": 421820,
+        "endTime": 422040
+      },
+      {
+        "token": "vez",
+        "startTime": 422040,
+        "endTime": 422240
+      },
+      {
+        "token": "esos",
+        "startTime": 422240,
+        "endTime": 422700
+      },
+      {
+        "token": "libros",
+        "startTime": 422700,
+        "endTime": 423000
+      },
+      {
+        "token": "abandonados",
+        "startTime": 423000,
+        "endTime": 423560
+      },
+      {
+        "token": "te",
+        "startTime": 423560,
+        "endTime": 423980
+      },
+      {
+        "token": "enseñaron",
+        "startTime": 423980,
+        "endTime": 424520
+      },
+      {
+        "token": "algo",
+        "startTime": 424520,
+        "endTime": 424800
+      },
+      {
+        "token": "importante.",
+        "startTime": 424800,
+        "endTime": 426360
+      }
+    ]
+  },
+  {
+    "sentence_text": "Tal vez esos hobbies que duraron solo unos meses cumplieron",
+    "translations": {
+      "en": "Maybe those hobbies that lasted only a few months fulfilled"
+    },
+    "segments": [
+      {
+        "token": "Tal",
+        "startTime": 426360,
+        "endTime": 426600
+      },
+      {
+        "token": "vez",
+        "startTime": 426600,
+        "endTime": 426840
+      },
+      {
+        "token": "esos",
+        "startTime": 426840,
+        "endTime": 427320
+      },
+      {
+        "token": "hobbies",
+        "startTime": 427320,
+        "endTime": 427640
+      },
+      {
+        "token": "que",
+        "startTime": 427640,
+        "endTime": 427820
+      },
+      {
+        "token": "duraron",
+        "startTime": 427820,
+        "endTime": 428140
+      },
+      {
+        "token": "solo",
+        "startTime": 428140,
+        "endTime": 428360
+      },
+      {
+        "token": "unos",
+        "startTime": 428360,
+        "endTime": 428600
+      },
+      {
+        "token": "meses",
+        "startTime": 428600,
+        "endTime": 428880
+      },
+      {
+        "token": "cumplieron",
+        "startTime": 428880,
+        "endTime": 430060
+      }
+    ]
+  },
+  {
+    "sentence_text": "exactamente la función que tenían que cumplir.",
+    "translations": {
+      "en": "exactly the purpose they were meant to fulfill."
+    },
+    "segments": [
+      {
+        "token": "exactamente",
+        "startTime": 430060,
+        "endTime": 430660
+      },
+      {
+        "token": "la",
+        "startTime": 430660,
+        "endTime": 431040
+      },
+      {
+        "token": "función",
+        "startTime": 431040,
+        "endTime": 431380
+      },
+      {
+        "token": "que",
+        "startTime": 431380,
+        "endTime": 431720
+      },
+      {
+        "token": "tenían",
+        "startTime": 431720,
+        "endTime": 431940
+      },
+      {
+        "token": "que",
+        "startTime": 431940,
+        "endTime": 432100
+      },
+      {
+        "token": "cumplir.",
+        "startTime": 432100,
+        "endTime": 433600
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quizá no naciste para recorrer un único camino recto.",
+    "translations": {
+      "en": "Maybe you were not born to walk a single straight path."
+    },
+    "segments": [
+      {
+        "token": "Quizá",
+        "startTime": 433600,
+        "endTime": 434020
+      },
+      {
+        "token": "no",
+        "startTime": 434020,
+        "endTime": 434360
+      },
+      {
+        "token": "naciste",
+        "startTime": 434360,
+        "endTime": 434740
+      },
+      {
+        "token": "para",
+        "startTime": 434740,
+        "endTime": 435000
+      },
+      {
+        "token": "recorrer",
+        "startTime": 435000,
+        "endTime": 435520
+      },
+      {
+        "token": "un",
+        "startTime": 435520,
+        "endTime": 435840
+      },
+      {
+        "token": "único",
+        "startTime": 435840,
+        "endTime": 436060
+      },
+      {
+        "token": "camino",
+        "startTime": 436060,
+        "endTime": 436320
+      },
+      {
+        "token": "recto.",
+        "startTime": 436320,
+        "endTime": 437480
+      }
+    ]
+  },
+  {
+    "sentence_text": "Quizá naciste para construir puentes entre muchos caminos diferentes.",
+    "translations": {
+      "en": "Maybe you were born to build bridges between many different paths."
+    },
+    "segments": [
+      {
+        "token": "Quizá",
+        "startTime": 437480,
+        "endTime": 437900
+      },
+      {
+        "token": "naciste",
+        "startTime": 437900,
+        "endTime": 438580
+      },
+      {
+        "token": "para",
+        "startTime": 438580,
+        "endTime": 438840
+      },
+      {
+        "token": "construir",
+        "startTime": 438840,
+        "endTime": 439260
+      },
+      {
+        "token": "puentes",
+        "startTime": 439260,
+        "endTime": 439700
+      },
+      {
+        "token": "entre",
+        "startTime": 439700,
+        "endTime": 440400
+      },
+      {
+        "token": "muchos",
+        "startTime": 440400,
+        "endTime": 440780
+      },
+      {
+        "token": "caminos",
+        "startTime": 440780,
+        "endTime": 441200
+      },
+      {
+        "token": "diferentes.",
+        "startTime": 441200,
+        "endTime": 443060
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y si eres una de esas personas que siempre encuentran algo nuevo que aprender,",
+    "translations": {
+      "en": "And if you are one of those people who always find something new to learn,"
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 443060,
+        "endTime": 443200
+      },
+      {
+        "token": "si",
+        "startTime": 443200,
+        "endTime": 443300
+      },
+      {
+        "token": "eres",
+        "startTime": 443300,
+        "endTime": 443500
+      },
+      {
+        "token": "una",
+        "startTime": 443500,
+        "endTime": 443680
+      },
+      {
+        "token": "de",
+        "startTime": 443680,
+        "endTime": 443780
+      },
+      {
+        "token": "esas",
+        "startTime": 443780,
+        "endTime": 443900
+      },
+      {
+        "token": "personas",
+        "startTime": 443900,
+        "endTime": 444280
+      },
+      {
+        "token": "que",
+        "startTime": 444280,
+        "endTime": 444640
+      },
+      {
+        "token": "siempre",
+        "startTime": 444640,
+        "endTime": 445000
+      },
+      {
+        "token": "encuentran",
+        "startTime": 445000,
+        "endTime": 445500
+      },
+      {
+        "token": "algo",
+        "startTime": 445500,
+        "endTime": 445760
+      },
+      {
+        "token": "nuevo",
+        "startTime": 445760,
+        "endTime": 445900
+      },
+      {
+        "token": "que",
+        "startTime": 445900,
+        "endTime": 446040
+      },
+      {
+        "token": "aprender,",
+        "startTime": 446040,
+        "endTime": 447060
+      }
+    ]
+  },
+  {
+    "sentence_text": "que siempre sienten curiosidad por un tema distinto,",
+    "translations": {
+      "en": "who always feel curious about a different topic,"
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 447060,
+        "endTime": 447220
+      },
+      {
+        "token": "siempre",
+        "startTime": 447220,
+        "endTime": 447600
+      },
+      {
+        "token": "sienten",
+        "startTime": 447600,
+        "endTime": 448000
+      },
+      {
+        "token": "curiosidad",
+        "startTime": 448000,
+        "endTime": 448500
+      },
+      {
+        "token": "por",
+        "startTime": 448500,
+        "endTime": 448680
+      },
+      {
+        "token": "un",
+        "startTime": 448680,
+        "endTime": 448820
+      },
+      {
+        "token": "tema",
+        "startTime": 448820,
+        "endTime": 448960
+      },
+      {
+        "token": "distinto,",
+        "startTime": 448960,
+        "endTime": 450140
+      }
+    ]
+  },
+  {
+    "sentence_text": "que nunca han conseguido elegir una sola pasión, puede que haya algo que necesitas escuchar.",
+    "translations": {
+      "en": "who have never managed to choose a single passion, there may be something you need to hear."
+    },
+    "segments": [
+      {
+        "token": "que",
+        "startTime": 450140,
+        "endTime": 450240
+      },
+      {
+        "token": "nunca",
+        "startTime": 450240,
+        "endTime": 450560
+      },
+      {
+        "token": "han",
+        "startTime": 450560,
+        "endTime": 450700
+      },
+      {
+        "token": "conseguido",
+        "startTime": 450700,
+        "endTime": 451160
+      },
+      {
+        "token": "elegir",
+        "startTime": 451160,
+        "endTime": 451540
+      },
+      {
+        "token": "una",
+        "startTime": 451540,
+        "endTime": 451820
+      },
+      {
+        "token": "sola",
+        "startTime": 451820,
+        "endTime": 452060
+      },
+      {
+        "token": "pasión,",
+        "startTime": 452060,
+        "endTime": 453340
+      },
+      {
+        "token": "puede",
+        "startTime": 453340,
+        "endTime": 453560
+      },
+      {
+        "token": "que",
+        "startTime": 453560,
+        "endTime": 453760
+      },
+      {
+        "token": "haya",
+        "startTime": 453760,
+        "endTime": 453880
+      },
+      {
+        "token": "algo",
+        "startTime": 453880,
+        "endTime": 454140
+      },
+      {
+        "token": "que",
+        "startTime": 454140,
+        "endTime": 454300
+      },
+      {
+        "token": "necesitas",
+        "startTime": 454300,
+        "endTime": 454720
+      },
+      {
+        "token": "escuchar.",
+        "startTime": 454720,
+        "endTime": 456280
+      }
+    ]
+  },
+  {
+    "sentence_text": "No estás roto.",
+    "translations": {
+      "en": "You are not broken."
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 456280,
+        "endTime": 456460
+      },
+      {
+        "token": "estás",
+        "startTime": 456460,
+        "endTime": 456680
+      },
+      {
+        "token": "roto.",
+        "startTime": 456680,
+        "endTime": 457220
+      }
+    ]
+  },
+  {
+    "sentence_text": "No estás perdido.",
+    "translations": {
+      "en": "You are not lost."
+    },
+    "segments": [
+      {
+        "token": "No",
+        "startTime": 457220,
+        "endTime": 457880
+      },
+      {
+        "token": "estás",
+        "startTime": 457880,
+        "endTime": 458100
+      },
+      {
+        "token": "perdido.",
+        "startTime": 458100,
+        "endTime": 459400
+      }
+    ]
+  },
+  {
+    "sentence_text": "Y probablemente tampoco eres inconstante.",
+    "translations": {
+      "en": "And you are probably not fickle either."
+    },
+    "segments": [
+      {
+        "token": "Y",
+        "startTime": 459400,
+        "endTime": 459540
+      },
+      {
+        "token": "probablemente",
+        "startTime": 459540,
+        "endTime": 460200
+      },
+      {
+        "token": "tampoco",
+        "startTime": 460200,
+        "endTime": 460860
+      },
+      {
+        "token": "eres",
+        "startTime": 460860,
+        "endTime": 461180
+      },
+      {
+        "token": "inconstante.",
+        "startTime": 461180,
+        "endTime": 462940
+      }
+    ]
+  },
+  {
+    "sentence_text": "puede que simplemente seas una de esas personas que vinieron al mundo para",
+    "translations": {
+      "en": "Maybe you are simply one of those people who came into the world to"
+    },
+    "segments": [
+      {
+        "token": "puede",
+        "startTime": 462940,
+        "endTime": 463120
+      },
+      {
+        "token": "que",
+        "startTime": 463120,
+        "endTime": 463340
+      },
+      {
+        "token": "simplemente",
+        "startTime": 463340,
+        "endTime": 464580
+      },
+      {
+        "token": "seas",
+        "startTime": 464580,
+        "endTime": 464900
+      },
+      {
+        "token": "una",
+        "startTime": 464900,
+        "endTime": 465340
+      },
+      {
+        "token": "de",
+        "startTime": 465340,
+        "endTime": 465460
+      },
+      {
+        "token": "esas",
+        "startTime": 465460,
+        "endTime": 465580
+      },
+      {
+        "token": "personas",
+        "startTime": 465580,
+        "endTime": 465580
+      },
+      {
+        "token": "que",
+        "startTime": 465580,
+        "endTime": 466380
+      },
+      {
+        "token": "vinieron",
+        "startTime": 466380,
+        "endTime": 466640
+      },
+      {
+        "token": "al",
+        "startTime": 466640,
+        "endTime": 466840
+      },
+      {
+        "token": "mundo",
+        "startTime": 466840,
+        "endTime": 466840
+      },
+      {
+        "token": "para",
+        "startTime": 466840,
+        "endTime": 467800
+      }
+    ]
+  },
+  {
+    "sentence_text": "explorar más de un universo y eso también tiene un enorme valor",
+    "translations": {
+      "en": "explore more than one universe, and that also has enormous value."
+    },
+    "segments": [
+      {
+        "token": "explorar",
+        "startTime": 467800,
+        "endTime": 468340
+      },
+      {
+        "token": "más",
+        "startTime": 468340,
+        "endTime": 468700
+      },
+      {
+        "token": "de",
+        "startTime": 468700,
+        "endTime": 468840
+      },
+      {
+        "token": "un",
+        "startTime": 468840,
+        "endTime": 468940
+      },
+      {
+        "token": "universo",
+        "startTime": 468940,
+        "endTime": 470080
+      },
+      {
+        "token": "y",
+        "startTime": 470080,
+        "endTime": 470320
+      },
+      {
+        "token": "eso",
+        "startTime": 470320,
+        "endTime": 470540
+      },
+      {
+        "token": "también",
+        "startTime": 470540,
+        "endTime": 471280
+      },
+      {
+        "token": "tiene",
+        "startTime": 471280,
+        "endTime": 471440
+      },
+      {
+        "token": "un",
+        "startTime": 471440,
+        "endTime": 472320
+      },
+      {
+        "token": "enorme",
+        "startTime": 472320,
+        "endTime": 472560
+      },
+      {
+        "token": "valor",
+        "startTime": 472560,
+        "endTime": 472820
+      }
+    ]
+  }
+]
