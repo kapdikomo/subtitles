@@ -1,0 +1,1441 @@
+[
+  {
+    "sentence_text": "Carl, vertel, wat moeten we weten over de nieuwe autokeuring?",
+    "translations": {
+      "en": "कार्ल, भन्नुहोस्, नयाँ कार परीक्षणबारे हामीले के जान्नुपर्छ?"
+    },
+    "segments": [
+      {
+        "token": "Carl,",
+        "startTime": 100,
+        "endTime": 540
+      },
+      {
+        "token": "vertel,",
+        "startTime": 540,
+        "endTime": 700
+      },
+      {
+        "token": "wat",
+        "startTime": 700,
+        "endTime": 800
+      },
+      {
+        "token": "moeten",
+        "startTime": 800,
+        "endTime": 960
+      },
+      {
+        "token": "we",
+        "startTime": 960,
+        "endTime": 1100
+      },
+      {
+        "token": "weten",
+        "startTime": 1100,
+        "endTime": 1320
+      },
+      {
+        "token": "over",
+        "startTime": 1320,
+        "endTime": 1720
+      },
+      {
+        "token": "de",
+        "startTime": 1720,
+        "endTime": 1940
+      },
+      {
+        "token": "nieuwe",
+        "startTime": 1940,
+        "endTime": 2160
+      },
+      {
+        "token": "autokeuring?",
+        "startTime": 2160,
+        "endTime": 3300
+      }
+    ]
+  },
+  {
+    "sentence_text": "Je zal meer tijd krijgen om",
+    "translations": {
+      "en": "तपाईंलाई थप समय दिइनेछ"
+    },
+    "segments": [
+      {
+        "token": "Je",
+        "startTime": 3300,
+        "endTime": 3520
+      },
+      {
+        "token": "zal",
+        "startTime": 3520,
+        "endTime": 3660
+      },
+      {
+        "token": "meer",
+        "startTime": 3660,
+        "endTime": 4000
+      },
+      {
+        "token": "tijd",
+        "startTime": 4000,
+        "endTime": 4400
+      },
+      {
+        "token": "krijgen",
+        "startTime": 4400,
+        "endTime": 4720
+      },
+      {
+        "token": "om",
+        "startTime": 4720,
+        "endTime": 5300
+      }
+    ]
+  },
+  {
+    "sentence_text": "je wagen te laten herstellen als die niet door de controle geraakt.",
+    "translations": {
+      "en": "नियन्त्रणमा उत्तीर्ण नभएमा आफ्नो कार मर्मत गर्न।"
+    },
+    "segments": [
+      {
+        "token": "je",
+        "startTime": 5300,
+        "endTime": 5420
+      },
+      {
+        "token": "wagen",
+        "startTime": 5420,
+        "endTime": 5800
+      },
+      {
+        "token": "te",
+        "startTime": 5800,
+        "endTime": 6060
+      },
+      {
+        "token": "laten",
+        "startTime": 6060,
+        "endTime": 6180
+      },
+      {
+        "token": "herstellen",
+        "startTime": 6180,
+        "endTime": 6760
+      },
+      {
+        "token": "als",
+        "startTime": 6760,
+        "endTime": 7080
+      },
+      {
+        "token": "die",
+        "startTime": 7080,
+        "endTime": 7220
+      },
+      {
+        "token": "niet",
+        "startTime": 7220,
+        "endTime": 7500
+      },
+      {
+        "token": "door",
+        "startTime": 7500,
+        "endTime": 7800
+      },
+      {
+        "token": "de",
+        "startTime": 7800,
+        "endTime": 7960
+      },
+      {
+        "token": "controle",
+        "startTime": 7960,
+        "endTime": 8620
+      },
+      {
+        "token": "geraakt.",
+        "startTime": 8620,
+        "endTime": 9460
+      }
+    ]
+  },
+  {
+    "sentence_text": "Nu is dat maar 15 dagen.",
+    "translations": {
+      "en": "अहिले यो १५ दिन मात्र छ।"
+    },
+    "segments": [
+      {
+        "token": "Nu",
+        "startTime": 9460,
+        "endTime": 9600
+      },
+      {
+        "token": "is",
+        "startTime": 9600,
+        "endTime": 9860
+      },
+      {
+        "token": "dat",
+        "startTime": 9860,
+        "endTime": 10040
+      },
+      {
+        "token": "maar",
+        "startTime": 10040,
+        "endTime": 10440
+      },
+      {
+        "token": "15",
+        "startTime": 10440,
+        "endTime": 11260
+      },
+      {
+        "token": "dagen.",
+        "startTime": 11260,
+        "endTime": 11880
+      }
+    ]
+  },
+  {
+    "sentence_text": "Probeer op die tijd maar eens een afspraak",
+    "translations": {
+      "en": "त्यो समयभित्र ग्यारेजमा अपोइन्टमेन्ट"
+    },
+    "segments": [
+      {
+        "token": "Probeer",
+        "startTime": 11880,
+        "endTime": 12220
+      },
+      {
+        "token": "op",
+        "startTime": 12220,
+        "endTime": 12400
+      },
+      {
+        "token": "die",
+        "startTime": 12400,
+        "endTime": 12620
+      },
+      {
+        "token": "tijd",
+        "startTime": 12620,
+        "endTime": 12940
+      },
+      {
+        "token": "maar",
+        "startTime": 12940,
+        "endTime": 13120
+      },
+      {
+        "token": "eens",
+        "startTime": 13120,
+        "endTime": 13340
+      },
+      {
+        "token": "een",
+        "startTime": 13340,
+        "endTime": 13400
+      },
+      {
+        "token": "afspraak",
+        "startTime": 13400,
+        "endTime": 13920
+      }
+    ]
+  },
+  {
+    "sentence_text": "te maken bij een garage voor een reparatie.",
+    "translations": {
+      "en": "बनाउनु त मुस्किल छ।"
+    },
+    "segments": [
+      {
+        "token": "te",
+        "startTime": 13920,
+        "endTime": 14120
+      },
+      {
+        "token": "maken",
+        "startTime": 14120,
+        "endTime": 14400
+      },
+      {
+        "token": "bij",
+        "startTime": 14400,
+        "endTime": 14620
+      },
+      {
+        "token": "een",
+        "startTime": 14620,
+        "endTime": 14800
+      },
+      {
+        "token": "garage",
+        "startTime": 14800,
+        "endTime": 14980
+      },
+      {
+        "token": "voor",
+        "startTime": 14980,
+        "endTime": 15220
+      },
+      {
+        "token": "een",
+        "startTime": 15220,
+        "endTime": 15340
+      },
+      {
+        "token": "reparatie.",
+        "startTime": 15340,
+        "endTime": 16360
+      }
+    ]
+  },
+  {
+    "sentence_text": "Maar vanaf 1 september krijg je twee maanden.",
+    "translations": {
+      "en": "तर सेप्टेम्बर १ देखि तपाईंलाई दुई महिना पाइनेछ।"
+    },
+    "segments": [
+      {
+        "token": "Maar",
+        "startTime": 16360,
+        "endTime": 16500
+      },
+      {
+        "token": "vanaf",
+        "startTime": 16500,
+        "endTime": 16700
+      },
+      {
+        "token": "1",
+        "startTime": 16700,
+        "endTime": 16900
+      },
+      {
+        "token": "september",
+        "startTime": 16900,
+        "endTime": 17460
+      },
+      {
+        "token": "krijg",
+        "startTime": 17460,
+        "endTime": 18120
+      },
+      {
+        "token": "je",
+        "startTime": 18120,
+        "endTime": 18200
+      },
+      {
+        "token": "twee",
+        "startTime": 18200,
+        "endTime": 18640
+      },
+      {
+        "token": "maanden.",
+        "startTime": 18640,
+        "endTime": 19400
+      }
+    ]
+  },
+  {
+    "sentence_text": "En dat is toch al iets comfortabeler.",
+    "translations": {
+      "en": "अनि त्यो त अलि सहज नै हुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 19400,
+        "endTime": 19640
+      },
+      {
+        "token": "dat",
+        "startTime": 19640,
+        "endTime": 19700
+      },
+      {
+        "token": "is",
+        "startTime": 19700,
+        "endTime": 19820
+      },
+      {
+        "token": "toch",
+        "startTime": 19820,
+        "endTime": 19980
+      },
+      {
+        "token": "al",
+        "startTime": 19980,
+        "endTime": 20140
+      },
+      {
+        "token": "iets",
+        "startTime": 20140,
+        "endTime": 20500
+      },
+      {
+        "token": "comfortabeler.",
+        "startTime": 20500,
+        "endTime": 21980
+      }
+    ]
+  },
+  {
+    "sentence_text": "En als je een trekhaak laat installeren,",
+    "translations": {
+      "en": "अनि यदि तपाईंले टो हुक जडान गराउनुभयो भने,"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 21980,
+        "endTime": 22140
+      },
+      {
+        "token": "als",
+        "startTime": 22140,
+        "endTime": 22220
+      },
+      {
+        "token": "je",
+        "startTime": 22220,
+        "endTime": 22280
+      },
+      {
+        "token": "een",
+        "startTime": 22280,
+        "endTime": 22420
+      },
+      {
+        "token": "trekhaak",
+        "startTime": 22420,
+        "endTime": 23120
+      },
+      {
+        "token": "laat",
+        "startTime": 23120,
+        "endTime": 23320
+      },
+      {
+        "token": "installeren,",
+        "startTime": 23320,
+        "endTime": 24260
+      }
+    ]
+  },
+  {
+    "sentence_text": "zal je die ook niet meer moeten laten keuren.",
+    "translations": {
+      "en": "त्यसलाई पनि अब परीक्षण गराउनु पर्ने छैन।"
+    },
+    "segments": [
+      {
+        "token": "zal",
+        "startTime": 24260,
+        "endTime": 24400
+      },
+      {
+        "token": "je",
+        "startTime": 24400,
+        "endTime": 24600
+      },
+      {
+        "token": "die",
+        "startTime": 24600,
+        "endTime": 24760
+      },
+      {
+        "token": "ook",
+        "startTime": 24760,
+        "endTime": 25080
+      },
+      {
+        "token": "niet",
+        "startTime": 25080,
+        "endTime": 25480
+      },
+      {
+        "token": "meer",
+        "startTime": 25480,
+        "endTime": 25680
+      },
+      {
+        "token": "moeten",
+        "startTime": 25680,
+        "endTime": 26120
+      },
+      {
+        "token": "laten",
+        "startTime": 26120,
+        "endTime": 26480
+      },
+      {
+        "token": "keuren.",
+        "startTime": 26480,
+        "endTime": 27600
+      }
+    ]
+  },
+  {
+    "sentence_text": "De belangrijkste regel is wel dat je twee jaar, maar om de twee jaar,",
+    "translations": {
+      "en": "सबैभन्दा मुख्य नियम भनेको तपाईंले दुई वर्ष, तर हरेक दुई वर्षमा,"
+    },
+    "segments": [
+      {
+        "token": "De",
+        "startTime": 27600,
+        "endTime": 27760
+      },
+      {
+        "token": "belangrijkste",
+        "startTime": 27760,
+        "endTime": 28380
+      },
+      {
+        "token": "regel",
+        "startTime": 28380,
+        "endTime": 28820
+      },
+      {
+        "token": "is",
+        "startTime": 28820,
+        "endTime": 29300
+      },
+      {
+        "token": "wel",
+        "startTime": 29300,
+        "endTime": 29520
+      },
+      {
+        "token": "dat",
+        "startTime": 29520,
+        "endTime": 30040
+      },
+      {
+        "token": "je",
+        "startTime": 30040,
+        "endTime": 30180
+      },
+      {
+        "token": "twee",
+        "startTime": 30180,
+        "endTime": 30440
+      },
+      {
+        "token": "jaar,",
+        "startTime": 30440,
+        "endTime": 30840
+      },
+      {
+        "token": "maar",
+        "startTime": 30840,
+        "endTime": 31220
+      },
+      {
+        "token": "om",
+        "startTime": 31220,
+        "endTime": 31400
+      },
+      {
+        "token": "de",
+        "startTime": 31400,
+        "endTime": 31500
+      },
+      {
+        "token": "twee",
+        "startTime": 31500,
+        "endTime": 31660
+      },
+      {
+        "token": "jaar,",
+        "startTime": 31660,
+        "endTime": 31920
+      }
+    ]
+  },
+  {
+    "sentence_text": "naar de keuring zal moeten.",
+    "translations": {
+      "en": "परीक्षणमा जानु पर्नेछ।"
+    },
+    "segments": [
+      {
+        "token": "naar",
+        "startTime": 31920,
+        "endTime": 32080
+      },
+      {
+        "token": "de",
+        "startTime": 32080,
+        "endTime": 32259
+      },
+      {
+        "token": "keuring",
+        "startTime": 32259,
+        "endTime": 32659
+      },
+      {
+        "token": "zal",
+        "startTime": 32659,
+        "endTime": 32980
+      },
+      {
+        "token": "moeten.",
+        "startTime": 32980,
+        "endTime": 33720
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat kan wel eens een ongewenst",
+    "translations": {
+      "en": "यसले अनपेक्षित"
+    },
+    "segments": [
+      {
+        "token": "Dat",
+        "startTime": 33720,
+        "endTime": 33880
+      },
+      {
+        "token": "kan",
+        "startTime": 33880,
+        "endTime": 34140
+      },
+      {
+        "token": "wel",
+        "startTime": 34140,
+        "endTime": 34280
+      },
+      {
+        "token": "eens",
+        "startTime": 34280,
+        "endTime": 34480
+      },
+      {
+        "token": "een",
+        "startTime": 34480,
+        "endTime": 34600
+      },
+      {
+        "token": "ongewenst",
+        "startTime": 34600,
+        "endTime": 35420
+      }
+    ]
+  },
+  {
+    "sentence_text": "effect hebben en het in de Vlaamse keuringcentra juist drukker maken door keuringstoerisme.",
+    "translations": {
+      "en": "प्रभाव पार्न सक्छ र परीक्षण पर्यटनका कारण फ्लेमिश परीक्षण केन्द्रहरूमा भीड बढाउन सक्छ।"
+    },
+    "segments": [
+      {
+        "token": "effect",
+        "startTime": 35420,
+        "endTime": 35760
+      },
+      {
+        "token": "hebben",
+        "startTime": 35760,
+        "endTime": 36080
+      },
+      {
+        "token": "en",
+        "startTime": 36080,
+        "endTime": 36260
+      },
+      {
+        "token": "het",
+        "startTime": 36260,
+        "endTime": 36380
+      },
+      {
+        "token": "in",
+        "startTime": 36380,
+        "endTime": 36480
+      },
+      {
+        "token": "de",
+        "startTime": 36480,
+        "endTime": 36620
+      },
+      {
+        "token": "Vlaamse",
+        "startTime": 36620,
+        "endTime": 37000
+      },
+      {
+        "token": "keuringcentra",
+        "startTime": 37000,
+        "endTime": 37760
+      },
+      {
+        "token": "juist",
+        "startTime": 37760,
+        "endTime": 38140
+      },
+      {
+        "token": "drukker",
+        "startTime": 38140,
+        "endTime": 38820
+      },
+      {
+        "token": "maken",
+        "startTime": 38820,
+        "endTime": 39180
+      },
+      {
+        "token": "door",
+        "startTime": 39180,
+        "endTime": 39460
+      },
+      {
+        "token": "keuringstoerisme.",
+        "startTime": 39460,
+        "endTime": 41240
+      }
+    ]
+  },
+  {
+    "sentence_text": "Want in Brussel en Wallonië zal je wel nog ieder jaar moeten gaan,",
+    "translations": {
+      "en": "किनभने ब्रसेल्स र वालोनियामा तपाईंले अझै पनि हरेक वर्ष जानु पर्नेछ,"
+    },
+    "segments": [
+      {
+        "token": "Want",
+        "startTime": 41240,
+        "endTime": 41360
+      },
+      {
+        "token": "in",
+        "startTime": 41360,
+        "endTime": 41560
+      },
+      {
+        "token": "Brussel",
+        "startTime": 41560,
+        "endTime": 41960
+      },
+      {
+        "token": "en",
+        "startTime": 41960,
+        "endTime": 42120
+      },
+      {
+        "token": "Wallonië",
+        "startTime": 42120,
+        "endTime": 42640
+      },
+      {
+        "token": "zal",
+        "startTime": 42640,
+        "endTime": 43120
+      },
+      {
+        "token": "je",
+        "startTime": 43120,
+        "endTime": 43260
+      },
+      {
+        "token": "wel",
+        "startTime": 43260,
+        "endTime": 43460
+      },
+      {
+        "token": "nog",
+        "startTime": 43460,
+        "endTime": 43700
+      },
+      {
+        "token": "ieder",
+        "startTime": 43700,
+        "endTime": 43980
+      },
+      {
+        "token": "jaar",
+        "startTime": 43980,
+        "endTime": 44180
+      },
+      {
+        "token": "moeten",
+        "startTime": 44180,
+        "endTime": 44420
+      },
+      {
+        "token": "gaan,",
+        "startTime": 44420,
+        "endTime": 44860
+      }
+    ]
+  },
+  {
+    "sentence_text": "maar je mag je wagen ook in een ander gewest laten keuren.",
+    "translations": {
+      "en": "तर तपाईंले आफ्नो कार अर्को क्षेत्रमा पनि परीक्षण गराउन सक्नुहुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "maar",
+        "startTime": 44860,
+        "endTime": 45300
+      },
+      {
+        "token": "je",
+        "startTime": 45300,
+        "endTime": 45440
+      },
+      {
+        "token": "mag",
+        "startTime": 45440,
+        "endTime": 45540
+      },
+      {
+        "token": "je",
+        "startTime": 45540,
+        "endTime": 45700
+      },
+      {
+        "token": "wagen",
+        "startTime": 45700,
+        "endTime": 45900
+      },
+      {
+        "token": "ook",
+        "startTime": 45900,
+        "endTime": 46160
+      },
+      {
+        "token": "in",
+        "startTime": 46160,
+        "endTime": 46280
+      },
+      {
+        "token": "een",
+        "startTime": 46280,
+        "endTime": 46380
+      },
+      {
+        "token": "ander",
+        "startTime": 46380,
+        "endTime": 46800
+      },
+      {
+        "token": "gewest",
+        "startTime": 46800,
+        "endTime": 47160
+      },
+      {
+        "token": "laten",
+        "startTime": 47160,
+        "endTime": 47440
+      },
+      {
+        "token": "keuren.",
+        "startTime": 47440,
+        "endTime": 48020
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dus heel wat eigenaars daar zullen juist naar Vlaanderen",
+    "translations": {
+      "en": "त्यसैले त्यहाँका धेरै मालिकहरू ठ्याक्कै फ्लान्डर्स"
+    },
+    "segments": [
+      {
+        "token": "Dus",
+        "startTime": 48020,
+        "endTime": 48180
+      },
+      {
+        "token": "heel",
+        "startTime": 48180,
+        "endTime": 48360
+      },
+      {
+        "token": "wat",
+        "startTime": 48360,
+        "endTime": 48480
+      },
+      {
+        "token": "eigenaars",
+        "startTime": 48480,
+        "endTime": 49100
+      },
+      {
+        "token": "daar",
+        "startTime": 49100,
+        "endTime": 49260
+      },
+      {
+        "token": "zullen",
+        "startTime": 49260,
+        "endTime": 49840
+      },
+      {
+        "token": "juist",
+        "startTime": 49840,
+        "endTime": 50140
+      },
+      {
+        "token": "naar",
+        "startTime": 50140,
+        "endTime": 50280
+      },
+      {
+        "token": "Vlaanderen",
+        "startTime": 50280,
+        "endTime": 51000
+      }
+    ]
+  },
+  {
+    "sentence_text": "komen om hun wagen te laten keuren.",
+    "translations": {
+      "en": "आउनेछन् आफ्नो कार परीक्षण गराउन।"
+    },
+    "segments": [
+      {
+        "token": "komen",
+        "startTime": 51000,
+        "endTime": 51280
+      },
+      {
+        "token": "om",
+        "startTime": 51280,
+        "endTime": 51560
+      },
+      {
+        "token": "hun",
+        "startTime": 51560,
+        "endTime": 51700
+      },
+      {
+        "token": "wagen",
+        "startTime": 51700,
+        "endTime": 52020
+      },
+      {
+        "token": "te",
+        "startTime": 52020,
+        "endTime": 52280
+      },
+      {
+        "token": "laten",
+        "startTime": 52280,
+        "endTime": 52480
+      },
+      {
+        "token": "keuren.",
+        "startTime": 52480,
+        "endTime": 53760
+      }
+    ]
+  },
+  {
+    "sentence_text": "Vanaf 1 januari volgend jaar moet",
+    "translations": {
+      "en": "आगामी जनवरी १ देखि"
+    },
+    "segments": [
+      {
+        "token": "Vanaf",
+        "startTime": 53760,
+        "endTime": 54000
+      },
+      {
+        "token": "1",
+        "startTime": 54000,
+        "endTime": 54240
+      },
+      {
+        "token": "januari",
+        "startTime": 54240,
+        "endTime": 54780
+      },
+      {
+        "token": "volgend",
+        "startTime": 54780,
+        "endTime": 55360
+      },
+      {
+        "token": "jaar",
+        "startTime": 55360,
+        "endTime": 55560
+      },
+      {
+        "token": "moet",
+        "startTime": 55560,
+        "endTime": 56200
+      }
+    ]
+  },
+  {
+    "sentence_text": "een wagen of een moto ook niet meer gekeurd worden als die verkocht wordt.",
+    "translations": {
+      "en": "कार वा मोटरसाइकल बेचिएमा पनि परीक्षण गराउनु पर्ने छैन।"
+    },
+    "segments": [
+      {
+        "token": "een",
+        "startTime": 56200,
+        "endTime": 56420
+      },
+      {
+        "token": "wagen",
+        "startTime": 56420,
+        "endTime": 56700
+      },
+      {
+        "token": "of",
+        "startTime": 56700,
+        "endTime": 56840
+      },
+      {
+        "token": "een",
+        "startTime": 56840,
+        "endTime": 56960
+      },
+      {
+        "token": "moto",
+        "startTime": 56960,
+        "endTime": 57200
+      },
+      {
+        "token": "ook",
+        "startTime": 57200,
+        "endTime": 57400
+      },
+      {
+        "token": "niet",
+        "startTime": 57400,
+        "endTime": 57660
+      },
+      {
+        "token": "meer",
+        "startTime": 57660,
+        "endTime": 57920
+      },
+      {
+        "token": "gekeurd",
+        "startTime": 57920,
+        "endTime": 58520
+      },
+      {
+        "token": "worden",
+        "startTime": 58520,
+        "endTime": 58840
+      },
+      {
+        "token": "als",
+        "startTime": 58840,
+        "endTime": 59140
+      },
+      {
+        "token": "die",
+        "startTime": 59140,
+        "endTime": 59320
+      },
+      {
+        "token": "verkocht",
+        "startTime": 59320,
+        "endTime": 59960
+      },
+      {
+        "token": "wordt.",
+        "startTime": 59960,
+        "endTime": 60360
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat maakt het natuurlijk wel moeilijker",
+    "translations": {
+      "en": "निस्सन्देह, यसले यसलाई अझ कठिन बनाउँछ"
+    },
+    "segments": [
+      {
+        "token": "Dat",
+        "startTime": 60360,
+        "endTime": 60800
+      },
+      {
+        "token": "maakt",
+        "startTime": 60800,
+        "endTime": 61020
+      },
+      {
+        "token": "het",
+        "startTime": 61020,
+        "endTime": 61160
+      },
+      {
+        "token": "natuurlijk",
+        "startTime": 61160,
+        "endTime": 61380
+      },
+      {
+        "token": "wel",
+        "startTime": 61380,
+        "endTime": 61720
+      },
+      {
+        "token": "moeilijker",
+        "startTime": 61720,
+        "endTime": 62480
+      }
+    ]
+  },
+  {
+    "sentence_text": "dan om als koper in te schatten wat voor voertuig je voor je hebt,",
+    "translations": {
+      "en": "किन्ने व्यक्तिको रूपमा तपाईंले कस्तो प्रकारको सवारी साधन अगाडि छ भनी अनुमान गर्न,"
+    },
+    "segments": [
+      {
+        "token": "dan",
+        "startTime": 62480,
+        "endTime": 62640
+      },
+      {
+        "token": "om",
+        "startTime": 62640,
+        "endTime": 62860
+      },
+      {
+        "token": "als",
+        "startTime": 62860,
+        "endTime": 63060
+      },
+      {
+        "token": "koper",
+        "startTime": 63060,
+        "endTime": 63660
+      },
+      {
+        "token": "in",
+        "startTime": 63660,
+        "endTime": 63980
+      },
+      {
+        "token": "te",
+        "startTime": 63980,
+        "endTime": 64060
+      },
+      {
+        "token": "schatten",
+        "startTime": 64060,
+        "endTime": 64340
+      },
+      {
+        "token": "wat",
+        "startTime": 64340,
+        "endTime": 64700
+      },
+      {
+        "token": "voor",
+        "startTime": 64700,
+        "endTime": 64980
+      },
+      {
+        "token": "voertuig",
+        "startTime": 64980,
+        "endTime": 65800
+      },
+      {
+        "token": "je",
+        "startTime": 65800,
+        "endTime": 65980
+      },
+      {
+        "token": "voor",
+        "startTime": 65980,
+        "endTime": 66220
+      },
+      {
+        "token": "je",
+        "startTime": 66220,
+        "endTime": 66420
+      },
+      {
+        "token": "hebt,",
+        "startTime": 66420,
+        "endTime": 66420
+      }
+    ]
+  },
+  {
+    "sentence_text": "wat voor voertuig je wilt kopen.",
+    "translations": {
+      "en": "तपाईं कस्तो प्रकारको सवारी साधन किन्न चाहनुहुन्छ।"
+    },
+    "segments": [
+      {
+        "token": "wat",
+        "startTime": 66420,
+        "endTime": 67000
+      },
+      {
+        "token": "voor",
+        "startTime": 67000,
+        "endTime": 67120
+      },
+      {
+        "token": "voertuig",
+        "startTime": 67120,
+        "endTime": 67560
+      },
+      {
+        "token": "je",
+        "startTime": 67560,
+        "endTime": 67860
+      },
+      {
+        "token": "wilt",
+        "startTime": 67860,
+        "endTime": 68020
+      },
+      {
+        "token": "kopen.",
+        "startTime": 68020,
+        "endTime": 68460
+      }
+    ]
+  },
+  {
+    "sentence_text": "En vanaf 2028 zal je niet enkel in de keuringcentra je wagen kunnen laten keuren,",
+    "translations": {
+      "en": "र सन् २०२८ देखि तपाईंले आफ्नो गाडी जाँच केन्द्रमा मात्र जाँच गराउन सक्नुहुनेछैन,"
+    },
+    "segments": [
+      {
+        "token": "En",
+        "startTime": 68460,
+        "endTime": 68860
+      },
+      {
+        "token": "vanaf",
+        "startTime": 68860,
+        "endTime": 69060
+      },
+      {
+        "token": "2028",
+        "startTime": 69060,
+        "endTime": 70340
+      },
+      {
+        "token": "zal",
+        "startTime": 70340,
+        "endTime": 71120
+      },
+      {
+        "token": "je",
+        "startTime": 71120,
+        "endTime": 71240
+      },
+      {
+        "token": "niet",
+        "startTime": 71240,
+        "endTime": 71340
+      },
+      {
+        "token": "enkel",
+        "startTime": 71340,
+        "endTime": 71560
+      },
+      {
+        "token": "in",
+        "startTime": 71560,
+        "endTime": 71640
+      },
+      {
+        "token": "de",
+        "startTime": 71640,
+        "endTime": 71760
+      },
+      {
+        "token": "keuringcentra",
+        "startTime": 71760,
+        "endTime": 72680
+      },
+      {
+        "token": "je",
+        "startTime": 72680,
+        "endTime": 72940
+      },
+      {
+        "token": "wagen",
+        "startTime": 72940,
+        "endTime": 73180
+      },
+      {
+        "token": "kunnen",
+        "startTime": 73180,
+        "endTime": 73460
+      },
+      {
+        "token": "laten",
+        "startTime": 73460,
+        "endTime": 73600
+      },
+      {
+        "token": "keuren,",
+        "startTime": 73600,
+        "endTime": 74000
+      }
+    ]
+  },
+  {
+    "sentence_text": "maar ook bij erkende garages.",
+    "translations": {
+      "en": "तर मान्यता प्राप्त ग्यारेजहरूमा पनि।"
+    },
+    "segments": [
+      {
+        "token": "maar",
+        "startTime": 74000,
+        "endTime": 74340
+      },
+      {
+        "token": "ook",
+        "startTime": 74340,
+        "endTime": 74600
+      },
+      {
+        "token": "bij",
+        "startTime": 74600,
+        "endTime": 74780
+      },
+      {
+        "token": "erkende",
+        "startTime": 74780,
+        "endTime": 75340
+      },
+      {
+        "token": "garages.",
+        "startTime": 75340,
+        "endTime": 75820
+      }
+    ]
+  },
+  {
+    "sentence_text": "Moet het allemaal wat gemakkelijker maken, Freek?",
+    "translations": {
+      "en": "यसले सबै कुरा अलि सजिलो बनाउनुपर्छ, फ्रीक?"
+    },
+    "segments": [
+      {
+        "token": "Moet",
+        "startTime": 75820,
+        "endTime": 76120
+      },
+      {
+        "token": "het",
+        "startTime": 76120,
+        "endTime": 76240
+      },
+      {
+        "token": "allemaal",
+        "startTime": 76240,
+        "endTime": 76600
+      },
+      {
+        "token": "wat",
+        "startTime": 76600,
+        "endTime": 76880
+      },
+      {
+        "token": "gemakkelijker",
+        "startTime": 76880,
+        "endTime": 77560
+      },
+      {
+        "token": "maken,",
+        "startTime": 77560,
+        "endTime": 77960
+      },
+      {
+        "token": "Freek?",
+        "startTime": 77960,
+        "endTime": 77960
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dat klinkt in elk geval gemakkelijker.",
+    "translations": {
+      "en": "त्यो त कम्तीमा सजिलो सुनिन्छ।"
+    },
+    "segments": [
+      {
+        "token": "Dat",
+        "startTime": 77960,
+        "endTime": 78400
+      },
+      {
+        "token": "klinkt",
+        "startTime": 78400,
+        "endTime": 78840
+      },
+      {
+        "token": "in",
+        "startTime": 78840,
+        "endTime": 78900
+      },
+      {
+        "token": "elk",
+        "startTime": 78900,
+        "endTime": 79040
+      },
+      {
+        "token": "geval",
+        "startTime": 79040,
+        "endTime": 79300
+      },
+      {
+        "token": "gemakkelijker.",
+        "startTime": 79300,
+        "endTime": 79960
+      }
+    ]
+  },
+  {
+    "sentence_text": "Dank je wel, Karl.",
+    "translations": {
+      "en": "धन्यवाद, कार्ल।"
+    },
+    "segments": [
+      {
+        "token": "Dank",
+        "startTime": 79960,
+        "endTime": 80140
+      },
+      {
+        "token": "je",
+        "startTime": 80140,
+        "endTime": 80280
+      },
+      {
+        "token": "wel,",
+        "startTime": 80280,
+        "endTime": 80780
+      },
+      {
+        "token": "Karl.",
+        "startTime": 80780,
+        "endTime": 81180
+      }
+    ]
+  }
+]
