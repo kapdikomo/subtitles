@@ -1,7 +1,9 @@
 [
   {
     "sentence_text": "Negen Vlaamse gemeenten krijgen van de Vlaamse regering een nieuw statuut.",
-    "translations": {},
+    "translations": {
+      "en": "फ्लेमिश सरकारले नौ फ्लेमिश नगरपालिकाहरूलाई नयाँ दर्जा दिनेछ।"
+    },
     "segments": [
       {
         "token": "Negen",
@@ -62,7 +64,9 @@
   },
   {
     "sentence_text": "Een klein stedelijk statuut.",
-    "translations": {},
+    "translations": {
+      "en": "सानो सहरी दर्जा।"
+    },
     "segments": [
       {
         "token": "Een",
@@ -88,7 +92,9 @@
   },
   {
     "sentence_text": "Dat betekent dat ze meer mogelijkheden krijgen om te bouwen,",
-    "translations": {},
+    "translations": {
+      "en": "यसको अर्थ तिनीहरूले निर्माण गर्न,"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -144,7 +150,9 @@
   },
   {
     "sentence_text": "om open ruimte in te nemen.",
-    "translations": {},
+    "translations": {
+      "en": "खुला ठाउँ ओगट्न थप सम्भावनाहरू पाउनेछन्।"
+    },
     "segments": [
       {
         "token": "om",
@@ -180,7 +188,9 @@
   },
   {
     "sentence_text": "Op dit moment zijn er in Vlaanderen dertien centrumsteden,",
-    "translations": {},
+    "translations": {
+      "en": "हाल फ्लान्डर्समा तेह्र केन्द्रीय सहरहरू छन्,"
+    },
     "segments": [
       {
         "token": "Op",
@@ -231,7 +241,9 @@
   },
   {
     "sentence_text": "de provinciehoofdsteden en steden als Oostende en Genk onder meer.",
-    "translations": {},
+    "translations": {
+      "en": "प्रान्तीय राजधानीहरू र ओस्टेन्डे र जेन्क जस्ता सहरहरू पनि।"
+    },
     "segments": [
       {
         "token": "de",
@@ -287,7 +299,9 @@
   },
   {
     "sentence_text": "Verder zijn er nog 44 wat heet kleinere stedelijke gebieden en",
-    "translations": {},
+    "translations": {
+      "en": "यसबाहेक ४४ तथाकथित साना सहरी क्षेत्रहरू छन् र"
+    },
     "segments": [
       {
         "token": "Verder",
@@ -348,7 +362,9 @@
   },
   {
     "sentence_text": "daar worden nu negen gemeenten aan toegevoegd.",
-    "translations": {},
+    "translations": {
+      "en": "अब त्यसमा नौ नगरपालिकाहरू थपिनेछन्।"
+    },
     "segments": [
       {
         "token": "daar",
@@ -389,7 +405,9 @@
   },
   {
     "sentence_text": "Het zijn Aalter, Zelzaten, Zelen, Ternat, Puursint Amans, Willebroek, Zemst, Landen en Houthalen Helgteren.",
-    "translations": {},
+    "translations": {
+      "en": "ती हुन् आल्टर, जेल्जाटेन, जेलेन, टर्नाट, पुउर्सिन्ट अमान्स, विलेब्रुक, जेम्स्ट, लान्डेन र हाउथालेन हेल्ख्टेरेन।"
+    },
     "segments": [
       {
         "token": "Het",
@@ -465,7 +483,9 @@
   },
   {
     "sentence_text": "Het zijn kansen die we willen geven aan dit soort gemeenten, omwille van hun eigenheid,",
-    "translations": {},
+    "translations": {
+      "en": "यी नगरपालिकाहरूलाई तिनको विशेषताका कारण हामी यस्ता अवसरहरू दिन चाहन्छौं,"
+    },
     "segments": [
       {
         "token": "Het",
@@ -546,7 +566,9 @@
   },
   {
     "sentence_text": "nabijgelegen bij een station, veel voorzieningen in hun centra en kernen.",
-    "translations": {},
+    "translations": {
+      "en": "स्टेशन नजिक, तिनका केन्द्र र मुख्य भागहरूमा धेरै सुविधाहरू।"
+    },
     "segments": [
       {
         "token": "nabijgelegen",
@@ -607,7 +629,9 @@
   },
   {
     "sentence_text": "Dat je daar wat meer groeimogelijkheden biedt, is gewoon logisch.",
-    "translations": {},
+    "translations": {
+      "en": "त्यहाँ अलि बढी वृद्धि सम्भावनाहरू दिनु सामान्य कुरा हो।"
+    },
     "segments": [
       {
         "token": "Dat",
@@ -663,7 +687,9 @@
   },
   {
     "sentence_text": "vanuit de ambitie om nieuwe functies zoals wonen, werken,",
-    "translations": {},
+    "translations": {
+      "en": "आवास, काम जस्ता नयाँ प्रयोजनहरूलाई केन्द्रित गर्ने महत्वाकांक्षाबाट,"
+    },
     "segments": [
       {
         "token": "vanuit",
@@ -714,7 +740,9 @@
   },
   {
     "sentence_text": "te concentreren daar waar we al Vlaanderen",
-    "translations": {},
+    "translations": {
+      "en": "हामीले पहिले नै फ्लान्डर्समा"
+    },
     "segments": [
       {
         "token": "te",
@@ -755,7 +783,9 @@
   },
   {
     "sentence_text": "verhard hebben en zo die open ruimte verder kunnen beschermen.",
-    "translations": {},
+    "translations": {
+      "en": "पक्की बनाएको ठाउँमा, र यसरी त्यो खुला ठाउँलाई अझ संरक्षण गर्न सक्छौं।"
+    },
     "segments": [
       {
         "token": "verhard",
@@ -811,7 +841,9 @@
   },
   {
     "sentence_text": "Net als steden mogen die gemeenten meer en hoger bouwen.",
-    "translations": {},
+    "translations": {
+      "en": "सहरहरू जस्तै ती नगरपालिकाहरूले पनि बढी र अग्लो निर्माण गर्न पाउनेछन्।"
+    },
     "segments": [
       {
         "token": "Net",
@@ -867,7 +899,9 @@
   },
   {
     "sentence_text": "Mogen, niets is verplicht.",
-    "translations": {},
+    "translations": {
+      "en": "पाउनेछन्, केही पनि अनिवार्य छैन।"
+    },
     "segments": [
       {
         "token": "Mogen,",
@@ -893,7 +927,9 @@
   },
   {
     "sentence_text": "Maar ze kunnen bijvoorbeeld hun stationsbuurt aantrekkelijker maken met bijkomende woningen, winkels en kantoren.",
-    "translations": {},
+    "translations": {
+      "en": "तर तिनीहरूले उदाहरणका लागि थप आवास, पसल र कार्यालयहरूसहित आफ्नो स्टेशन क्षेत्रलाई आकर्षक बनाउन सक्छन्।"
+    },
     "segments": [
       {
         "token": "Maar",
@@ -969,7 +1005,9 @@
   },
   {
     "sentence_text": "En dat moet ook omliggende gemeenten ten goede komen.",
-    "translations": {},
+    "translations": {
+      "en": "र यसले वरपरका नगरपालिकाहरूलाई पनि फाइदा पुर्‍याउनुपर्छ।"
+    },
     "segments": [
       {
         "token": "En",
@@ -1020,7 +1058,9 @@
   },
   {
     "sentence_text": "Zij kunnen dan meegenieten van nieuwe voorzieningen zoals een grote school,",
-    "translations": {},
+    "translations": {
+      "en": "तिनीहरूले ठूलो विद्यालय जस्ता नयाँ सुविधाहरूबाट लाभ लिन सक्छन्,"
+    },
     "segments": [
       {
         "token": "Zij",
@@ -1081,7 +1121,9 @@
   },
   {
     "sentence_text": "een ziekenhuis of een zwembad.",
-    "translations": {},
+    "translations": {
+      "en": "एक अस्पताल वा एक पौडी पोखरी।"
+    },
     "segments": [
       {
         "token": "een",
@@ -1112,7 +1154,9 @@
   },
   {
     "sentence_text": "Maar, belangrijk, de gemeenten met nieuwe status krijgen geen extra budget.",
-    "translations": {},
+    "translations": {
+      "en": "तर, महत्त्वपूर्ण कुरा, नयाँ दर्जा पाएका नगरपालिकाहरूले थप बजेट पाउँदैनन्।"
+    },
     "segments": [
       {
         "token": "Maar,",
@@ -1173,7 +1217,9 @@
   },
   {
     "sentence_text": "De reacties van de burgemeesters zijn dan ook verdeeld.",
-    "translations": {},
+    "translations": {
+      "en": "मेयरहरूको प्रतिक्रिया पनि विभाजित छ।"
+    },
     "segments": [
       {
         "token": "De",
@@ -1224,7 +1270,9 @@
   },
   {
     "sentence_text": "Ik denk misschien wel dat de term een beetje ongelukkig gekozen is.",
-    "translations": {},
+    "translations": {
+      "en": "मलाई लाग्छ कि शब्द एकदमै अयोग्य रूपमा छानिएको हुन सक्छ।"
+    },
     "segments": [
       {
         "token": "Ik",
@@ -1290,7 +1338,9 @@
   },
   {
     "sentence_text": "Klein verstedelijk gebied, zeker in de Vlaamse rand rond Brussel.",
-    "translations": {},
+    "translations": {
+      "en": "सानो सहरीकृत क्षेत्र, विशेष गरी ब्रसेल्स वरपरको फ्लेमिश किनारमा।"
+    },
     "segments": [
       {
         "token": "Klein",
@@ -1346,7 +1396,9 @@
   },
   {
     "sentence_text": "Ik wil niet aan het hernat denken als een stedelijke omgeving.",
-    "translations": {},
+    "translations": {
+      "en": "म हर्नाटलाई सहरी वातावरणको रूपमा सोच्न चाहन्न।"
+    },
     "segments": [
       {
         "token": "Ik",
@@ -1407,7 +1459,9 @@
   },
   {
     "sentence_text": "Naast die goede bereikbaarheid en die faciliteiten",
-    "translations": {},
+    "translations": {
+      "en": "त्यो राम्रो पहुँच र ती सुविधाहरूका अतिरिक्त"
+    },
     "segments": [
       {
         "token": "Naast",
@@ -1448,7 +1502,9 @@
   },
   {
     "sentence_text": "zijn hebben wij natuurlijk ook een gemeente met een mooie dorpskern, veel groen,",
-    "translations": {},
+    "translations": {
+      "en": "हामीसँग पक्कै पनि राम्रो गाउँ केन्द्र, धेरै हरियाली भएको नगरपालिका छ,"
+    },
     "segments": [
       {
         "token": "zijn",
@@ -1519,7 +1575,9 @@
   },
   {
     "sentence_text": "veel open ruimte, veel landbouw.",
-    "translations": {},
+    "translations": {
+      "en": "धेरै खुला ठाउँ, धेरै कृषि।"
+    },
     "segments": [
       {
         "token": "veel",
@@ -1550,7 +1608,9 @@
   },
   {
     "sentence_text": "En dat karakter willen we natuurlijk ook heel hard gaan bewaken.",
-    "translations": {},
+    "translations": {
+      "en": "र त्यो चरित्रलाई हामी पक्कै पनि कडाइका साथ जोगाउन चाहन्छौं।"
+    },
     "segments": [
       {
         "token": "En",
@@ -1611,7 +1671,9 @@
   },
   {
     "sentence_text": "Het gevoel is van, ja, goed nieuws voor Willebroek.",
-    "translations": {},
+    "translations": {
+      "en": "भावना यस्तो छ, हो, विलेब्रुकका लागि राम्रो समाचार।"
+    },
     "segments": [
       {
         "token": "Het",
@@ -1662,7 +1724,9 @@
   },
   {
     "sentence_text": "Eigenlijk wil dat ook zeggen dat we naar het zwembad ogen,",
-    "translations": {},
+    "translations": {
+      "en": "वास्तवमा यसको अर्थ हामी पौडी पोखरीतिर हेर्छौं,"
+    },
     "segments": [
       {
         "token": "Eigenlijk",
@@ -1723,7 +1787,9 @@
   },
   {
     "sentence_text": "dat we eigenlijk ook het economisch ontwikkelen van onze gemeente kunnen verder zetten.",
-    "translations": {},
+    "translations": {
+      "en": "हामी वास्तवमै हाम्रो नगरपालिकाको आर्थिक विकासलाई पनि अगाडि बढाउन सक्छौं।"
+    },
     "segments": [
       {
         "token": "dat",
@@ -1794,7 +1860,9 @@
   },
   {
     "sentence_text": "En dat is brood nodig voor onze gemeente.",
-    "translations": {},
+    "translations": {
+      "en": "र त्यो हाम्रो नगरपालिकाका लागि आवश्यक छ।"
+    },
     "segments": [
       {
         "token": "En",
